@@ -1,0 +1,5 @@
+# Referencia local: transcripción del libro anterior (material con derechos de autor, no se publica)
+biologia/referencia-anterior/
+# Archivos intermedios del generador
+**/.construccion/
+__pycache__/
