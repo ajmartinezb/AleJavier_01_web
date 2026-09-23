@@ -1,16 +1,32 @@
 # Temario PAES Ciencias — eje Biología (Admisión 2027) y cobertura del libro
 
-**Fuente:** temario oficial DEMRE «Temario de la Prueba de Ciencias – PAES Regular, Admisión 2027»,
-publicado el 19-03-2026 para las pruebas del 30 de noviembre y del 1 y 2 de diciembre de 2026.
-Enlace oficial: https://demre.cl/publicaciones/pdf/2027-26-03-19-temario-paes-regular-ciencias.pdf
-Se transcribe desde `temario-paes-2026.md` (Google Drive), preparado en el trabajo anterior a partir
-de ese PDF. *Pendiente:* cotejarlo palabra por palabra con el PDF cuando esté disponible en la sesión.
+**Fuente:** temario oficial DEMRE «Temario Regular – Pruebas Electivas – Ciencias», Admisión 2027,
+publicado el 19-03-2026 (pruebas del 30 de noviembre y del 1 y 2 de diciembre de 2026).
+Copia local: `biologia/demre/2027-26-03-19-temario-paes-regular-ciencias.pdf` (págs. 6–8 para Biología).
+**Verificado contra el PDF oficial** el 23-09-2026.
+
+> ¡Atención! (DEMRE): que un conocimiento esté en el temario no significa que necesariamente se pregunte,
+> pero todas las preguntas se desprenden de este temario.
+
+Otros documentos oficiales en `biologia/demre/`, para calibrar las preguntas:
+- `2027-26-06-16-paes-invierno-oficial-ciencias-biologia-p2027.pdf`: prueba oficial PAES de Invierno 2027, Ciencias–Biología (56 págs.).
+- `2027-26-07-17-clavijero-paes-invierno-ciencias-biologia.pdf`: sus respuestas correctas.
 
 ## Estructura de la prueba
 
 - **80 preguntas** (75 puntúan): **54 del Módulo Común** (Biología + Física + Química) y **26 del Módulo Electivo** (un eje a elección, por ejemplo Biología).
 - 4 o 5 opciones por pregunta. Duración: **2 h 40 min**.
 - **Habilidades científicas transversales:** Observar y plantear preguntas · Planificar y conducir una investigación · Procesar y analizar la evidencia · Evaluar · Comunicar.
+
+## Habilidades científicas y criterios oficiales
+
+| Habilidad | Qué evalúa (criterios DEMRE, resumidos) |
+|---|---|
+| Observar y plantear preguntas | Identificar preguntas que se puedan resolver con una investigación; identificar hipótesis que se validan con evidencia. |
+| Planificar y conducir una investigación | Seleccionar evidencias que sustentan leyes, teorías o modelos; identificar componentes de una investigación (marco conceptual, objetivo, pregunta, problema, predicción, observación, hipótesis, variables, diseño, procedimiento, inferencia, evidencia, resultado, conclusión); seleccionar procedimientos; determinar objetivos; asociar instrumentos a variables; distinguir variables. |
+| Procesar y analizar la evidencia | Identificar relaciones, patrones o tendencias entre variables (con operaciones matemáticas si corresponde); identificar predicciones, resultados o explicaciones; identificar conclusiones o inferencias. |
+| Evaluar | Validez, confiabilidad, alcances y limitaciones; replicabilidad y reproducibilidad; coherencia entre componentes de una investigación; aporte de una investigación a la tecnología. |
+| Comunicar | Seleccionar un recurso (tabla, gráfico, modelo) para comunicar información según un objetivo. |
 
 ## Contenidos oficiales de Biología
 

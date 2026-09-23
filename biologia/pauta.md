@@ -48,7 +48,7 @@ Para intercalar una sección nueva entre dos existentes se usa un número libre 
 
 1. **Redacción propia.** Se investiga en varias fuentes y se explica con palabras propias. **No se copian** párrafos de libros ni de sitios web. El repo es público.
 2. **Cobertura del temario DEMRE 2027.** Cada conocimiento de `biologia/temario.md` que toca el capítulo debe quedar explicado. Al terminar, se marca en esa tabla.
-3. **Fuentes confiables**, en este orden: DEMRE (temarios, modelos de prueba, «Pregunta comentada PAES»), Curriculum Nacional / Mineduc (textos del estudiante y programas de 1.º a 4.º medio), OpenStax *Biology 2e* y *Concepts of Biology*, Khan Academy en español, Educarchile, universidades chilenas y revistas científicas. Toda fuente usada se registra en `99-fuentes.md`.
+3. **Fuentes confiables**, en este orden: los PDF oficiales de `biologia/demre/` (temario, prueba oficial y clavijero, que sirven para calibrar el estilo y la dificultad de las preguntas), DEMRE (temarios, modelos de prueba, «Pregunta comentada PAES»), Curriculum Nacional / Mineduc (textos del estudiante y programas de 1.º a 4.º medio), OpenStax *Biology 2e* y *Concepts of Biology*, Khan Academy en español, Educarchile, universidades chilenas y revistas científicas. Toda fuente usada se registra en `99-fuentes.md`.
 4. **Explicar para entender**: qué es, cómo funciona, por qué importa y cómo lo pregunta la PAES. Cada sección debe incluir al menos:
    - un esquema, tabla comparativa o figura;
    - un recuadro `tip` con el error típico o la confusión frecuente;
