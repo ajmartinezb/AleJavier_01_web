@@ -2,7 +2,7 @@
 
 | Cap. | Tema | Estado | Secciones listas | Ítems IA | Última sesión |
 |---|---|---|---|---|---|
-| 1 | Método científico | Estructura | — | 0 | — |
+| 1 | Método científico | Teoría completa | 1–8 (conceptos, ciencia, etapas, diseño, casos, teoría/ley/modelo, evaluar, tablas y gráficos) + fuentes | 0 | 23-09-2026 |
 | 2 | Niveles de organización y teoría celular | Estructura | — | 0 | — |
 | 3 | Química de la vida | Estructura | — | 0 | — |
 | 4 | Célula procarionte y eucarionte, transporte | Estructura | — | 0 | — |

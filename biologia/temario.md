@@ -80,7 +80,7 @@ Otros documentos oficiales en `biologia/demre/`, para calibrar las preguntas:
 
 | Conocimiento | Capítulo | Estado |
 |---|---|---|
-| Habilidades científicas: método científico, variables, diseño experimental, tablas y gráficos, teoría, ley y modelo | 1 | Pendiente |
+| Habilidades científicas: método científico, variables, diseño experimental, tablas y gráficos, teoría, ley y modelo | 1 (secciones 2–8) | Teoría lista; faltan preguntas |
 
 ## Qué significa esto para los capítulos
 

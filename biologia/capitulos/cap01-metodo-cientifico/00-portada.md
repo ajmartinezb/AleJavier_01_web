@@ -1,14 +1,25 @@
 ## Capítulo 1: Método científico
 
-**Área temática:** Transversal a todas las áreas
+**Área temática:** Transversal a todas las áreas · **Habilidades:** las cinco habilidades científicas de la PAES
+
+> «La ciencia es mucho más una manera de pensar que un cuerpo de conocimientos.»
+> — Carl Sagan
 
 ::: nota
-**Capítulo en construcción.** Estructura planificada (se completa sección por sección según `biologia/pauta.md`):
+**Qué vas a aprender en este capítulo**
 
-1. Conceptos clave
-2. Etapas del método científico
-3. Ejemplo utilizando el método científico
-4. Teoría, ley, principio y modelo
-5. Herenc
-6. Uso de herramientas estadísticas: tablas y gráficos
+- Qué hace que un conocimiento sea científico y cómo razonan los científicos.
+- Las etapas de una investigación: observación, pregunta, hipótesis, predicción, experimento, resultados, conclusión y comunicación.
+- Cómo se diseña un experimento: variables, grupo control, réplicas y tamaño de muestra.
+- La diferencia entre **hipótesis, teoría, ley, principio y modelo**, que aparece en todas las PAES.
+- Cómo se evalúa una investigación: validez, confiabilidad, replicabilidad, alcances y limitaciones.
+- Cómo leer, construir y elegir tablas y gráficos.
+:::
+
+::: tip
+**Por qué este capítulo pesa tanto.** La PAES de Ciencias no pregunta el método científico como un tema aislado. Lo usa **en todas las preguntas**: una pregunta de fotosíntesis puede pedirte identificar la variable independiente, y una de evolución puede pedirte distinguir una teoría de una evidencia. En la prueba oficial de invierno de 2027 hay preguntas de este tipo en los tres ejes: Biología, Física y Química. Dominar este capítulo es subir puntaje en toda la prueba.
+:::
+
+::: nota
+**Capítulo en construcción.** Listo: teoría completa (secciones 1 a 8). Falta: ejemplos PAES resueltos, evaluación formativa e ítems de práctica.
 :::
