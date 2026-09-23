@@ -1,36 +1,87 @@
 # Temario PAES Ciencias — eje Biología (Admisión 2027) y cobertura del libro
 
-> **Estado:** borrador. El PDF oficial del DEMRE no se pudo leer en la sesión base porque el
-> dominio `demre.cl` está bloqueado por la red del entorno en la nube. Hay que **completar el
-> detalle de cada conocimiento** con el documento oficial:
-> «Temario de la Prueba de Ciencias – PAES Regular, Admisión 2027»
-> (https://demre.cl/publicaciones/pdf/2027-26-03-19-temario-paes-regular-ciencias.pdf).
+**Fuente:** temario oficial DEMRE «Temario de la Prueba de Ciencias – PAES Regular, Admisión 2027»,
+publicado el 19-03-2026 para las pruebas del 30 de noviembre y del 1 y 2 de diciembre de 2026.
+Enlace oficial: https://demre.cl/publicaciones/pdf/2027-26-03-19-temario-paes-regular-ciencias.pdf
+Se transcribe desde `temario-paes-2026.md` (Google Drive), preparado en el trabajo anterior a partir
+de ese PDF. *Pendiente:* cotejarlo palabra por palabra con el PDF cuando esté disponible en la sesión.
 
 ## Estructura de la prueba
 
-- La prueba tiene un **Módulo Común** (Biología, Física y Química) y un **Módulo Electivo**, que puede ser el de Biología.
-- En la admisión 2026 eran 80 preguntas (75 puntuables) en 2 h 40 min: 54 del Módulo Común y 26 del Electivo. Hay que confirmar si la admisión 2027 mantiene esas cifras.
-- Habilidades: observar y plantear preguntas · planificar y conducir una investigación · procesar y analizar la evidencia · evaluar · comunicar.
+- **80 preguntas** (75 puntúan): **54 del Módulo Común** (Biología + Física + Química) y **26 del Módulo Electivo** (un eje a elección, por ejemplo Biología).
+- 4 o 5 opciones por pregunta. Duración: **2 h 40 min**.
+- **Habilidades científicas transversales:** Observar y plantear preguntas · Planificar y conducir una investigación · Procesar y analizar la evidencia · Evaluar · Comunicar.
 
-## Áreas temáticas → capítulos
+## Contenidos oficiales de Biología
 
-| Área temática DEMRE | Capítulos del libro |
-|---|---|
-| Transversal (habilidades y método científico) | 1 |
-| Organización, estructura y actividad celular | 2, 3, 4 |
-| Herencia y programa genético | 6, 7 (revisar si falta genética mendeliana y pedigrí) |
-| Biodiversidad y evolución | 9 |
-| Organismo y ambiente | 5, 8, 10, **11 (nuevo)** |
+### Área 1. Organización, estructura y actividad celular
 
-## Contenidos nuevos en el temario 2027 (confirmados en fuentes secundarias)
+| Código | Conocimiento | Capítulo del libro | Estado |
+|---|---|---|---|
+| 1.1 | Estructura y función de organelos y estructuras celulares en procariontes y eucariontes animales y vegetales: cápsula, pared celular, membrana, citoesqueleto, núcleo, nucléolo, retículos endoplasmáticos, ribosomas, lisosomas, peroxisomas, aparato de Golgi, mitocondrias, cloroplastos, vacuolas, centriolos, cilios y flagelos | 4 | Pendiente |
+| 1.2 | Relación estructura–función en tipos celulares: enterocito, célula muscular esquelética, neurona y célula secretora pancreática | 4 (y 11 para la neurona) | Pendiente |
 
-- **Sistema nervioso** (capítulo 11, nuevo): estructura y función de la neurona; generación y propagación del impulso nervioso; sinapsis química; arco reflejo simple; efectos del café, el alcohol y las drogas de abuso; cuidado del sistema nervioso (horas de sueño, prevención de traumatismos).
-- **Sexualidad humana desde una visión integral** (capítulo 5, ampliar): los gametos y la fecundación; ciclo ovárico y ciclo uterino, con sus fases; métodos de control de la natalidad (naturales, reversibles e irreversibles); ITS (VIH, herpes, gonorrea, clamidia): agente, transmisión, síntomas y prevención.
+### Área 2. Procesos y funciones biológicas
 
-## Control de cobertura
+| Código | Conocimiento | Capítulo | Estado |
+|---|---|---|---|
+| 2.1.1 | Estructura y función de las neuronas | **11** | Pendiente |
+| 2.1.2 | Generación y propagación del impulso nervioso; sinapsis química | **11** | Pendiente |
+| 2.1.3 | Arco reflejo simple | **11** | Pendiente |
+| 2.1.4 | Efectos del café, el alcohol y las drogas de abuso | **11** | Pendiente |
+| 2.1.5 | Cuidados del sistema nervioso: sueño y prevención de traumatismos | **11** | Pendiente |
+| 2.2 | Gametos (ovocitos y espermatozoides) y su función en la fecundación | 5 | Pendiente |
+| 2.3 | Ciclo ovárico y ciclo uterino y sus fases | 5 | Pendiente |
+| 2.4 | Métodos de control de la natalidad: naturales (Billings, calendario, temperatura basal), artificiales reversibles (hormonales y de barrera) y parcialmente reversibles (quirúrgicos) | 5 | Pendiente |
+| 2.5 | Infecciones de transmisión sexual (VIH, herpes, gonorrea, clamidia): agente patógeno, transmisión, síntomas y prevención | 5 (apoyo en 8) | Pendiente |
+| 2.6 | Sexualidad humana y reproducción: sistemas reproductores; aspectos sociales, afectivos y psicológicos | 5 | Pendiente |
 
-Se completa en la sesión de cada capítulo: una fila por conocimiento del temario oficial.
+### Área 3. Herencia y evolución
 
-| Conocimiento (texto DEMRE) | Capítulo / archivo | Estado |
+| Código | Conocimiento | Capítulo | Estado |
+|---|---|---|---|
+| 3.1.1 | Cromatina y grados de compactación | 6 | Pendiente |
+| 3.1.2 | Puntos de control del ciclo celular (G1–S, G2–M, metafase) | 6 | Pendiente |
+| 3.1.3 | Interfase (G1, S, G2) y mitosis (profase, metafase, anafase, telofase) | 6 | Pendiente |
+| 3.1.4 | Mitosis en el crecimiento y la reparación de tejidos; cáncer | 6 | Pendiente |
+| 3.2.1 | Etapas de la meiosis I y II | 6 | Pendiente |
+| 3.2.2 | Contribución de la meiosis a la variabilidad genética | 6 | Pendiente |
+| 3.3 | Manipulación genética y sus aplicaciones (alimentos, detergentes, vestuario, fármacos) | 7 | Pendiente |
+| 3.4 | Evidencias de la evolución: anatomía comparada (homología y analogía), embriología, biología molecular y registro fósil | 9 | Pendiente |
+| 3.5 | Aportes de Lamarck, Darwin y Wallace | 9 | Pendiente |
+| 3.6 | Selección natural: fundamentos y ejemplos | 9 | Pendiente |
+
+### Área 4. Organismo y ambiente
+
+| Código | Conocimiento | Capítulo | Estado |
+|---|---|---|---|
+| 4.1.1 | Fotosíntesis y respiración celular en el flujo de energía y el reciclaje de carbono y oxígeno | 10 | Pendiente |
+| 4.1.2 | Nutrición autótrofa y heterótrofa | 10 | Pendiente |
+| 4.1.3 | Etapas de la fotosíntesis: lugar, reactantes, productos y moléculas participantes | 10 | Pendiente |
+| 4.1.4 | Variables ambientales que afectan la fotosíntesis | 10 | Pendiente |
+
+### Transversal
+
+| Conocimiento | Capítulo | Estado |
 |---|---|---|
-| *(pendiente de transcribir desde el temario oficial)* | | |
+| Habilidades científicas: método científico, variables, diseño experimental, tablas y gráficos, teoría, ley y modelo | 1 | Pendiente |
+
+## Qué significa esto para los capítulos
+
+| Capítulo | Relación con el temario 2027 | Qué se hace |
+|---|---|---|
+| 1 Método científico | Transversal: sostiene las 5 habilidades evaluadas | Capítulo completo y con énfasis en el análisis de datos |
+| 2 Niveles de organización y teoría celular | Base de apoyo para el Área 1; no aparece como contenido explícito | Capítulo breve, enfocado en lo que sirve para el Área 1 |
+| 3 Química de la vida | **No está en el temario de Biología.** Sirve de apoyo para membrana, ADN y fotosíntesis | Versión corta de apoyo, marcada como tal; baja prioridad |
+| 4 Célula procarionte y eucarionte | **Núcleo del Área 1** (1.1 y 1.2) | Prioridad alta. Agregar los 4 tipos celulares (enterocito, fibra muscular, neurona, célula pancreática) |
+| 5 Sistema endocrino y sexualidad | La sexualidad y la reproducción son **Área 2** (2.2–2.6). El sistema endocrino ya no aparece como contenido propio | Reorientar: hormonas solo como apoyo de los ciclos; agregar anticoncepción, ITS y aspectos afectivos y sociales |
+| 6 ADN y reproducción celular | **Área 3** (3.1–3.2) | Prioridad alta |
+| 7 Manipulación genética | **Área 3** (3.3) | Ampliar: la teoría anterior era escasa. Agregar aplicaciones industriales (alimentos, detergentes, vestuario, fármacos) |
+| 8 Microorganismos y barreras defensivas | **No está en el temario 2027**, salvo las ITS (2.5) | Apoyo breve; las ITS se desarrollan en el capítulo 5 |
+| 9 Evolución y biodiversidad | **Área 3** (3.4–3.6) | Prioridad alta |
+| 10 Materia y energía en el ecosistema | **Área 4** (4.1): fotosíntesis y respiración. Las tramas y pirámides tróficas no aparecen explícitamente | Centrar en la fotosíntesis y la respiración celular; lo trófico queda como contexto |
+| 11 Sistema nervioso | **Área 2** (2.1), **nuevo** | Capítulo nuevo completo |
+
+## Orden de trabajo sugerido (prioridad según el temario)
+
+1 → 4 → 6 → 9 → 10 → 11 → 5 → 7 → 2 → 3 → 8
