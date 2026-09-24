@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" aria-label="Circuito de retroalimentación negativa con estímulo, receptor, centro integrador y efector, y el ejemplo de la regulación de la temperatura" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Circuito de retroalimentación negativa con estímulo, receptor, centro integrador y efector, y el ejemplo de la regulación de la temperatura</title>
+<rect width="900" height="420" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="flr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c53030"/></marker></defs>
+<text x="450.0" y="30.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Retroalimentación negativa</text>
+<text x="450.0" y="52.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">El mecanismo que mantiene la homeostasis: la respuesta apaga el estímulo</text>
+<rect x="70" y="110" width="150" height="86" rx="12" fill="#ffffff" stroke="#c05621" stroke-width="2"/><text x="145.0" y="134.0" font-size="14" text-anchor="middle" fill="#c05621" font-weight="700">Estímulo</text><text x="145.0" y="156.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">la variable se</text><text x="145.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">aleja del rango</text>
+<line x1="226" y1="153" x2="238" y2="153" stroke="#4a5568" stroke-width="2.2" marker-end="url(#flg)"/>
+<rect x="250" y="110" width="150" height="86" rx="12" fill="#ffffff" stroke="#2b6cb0" stroke-width="2"/><text x="325.0" y="134.0" font-size="14" text-anchor="middle" fill="#2b6cb0" font-weight="700">Receptor</text><text x="325.0" y="156.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">detecta el</text><text x="325.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">cambio</text>
+<line x1="406" y1="153" x2="418" y2="153" stroke="#4a5568" stroke-width="2.2" marker-end="url(#flg)"/>
+<rect x="430" y="110" width="180" height="86" rx="12" fill="#ffffff" stroke="#6b46c1" stroke-width="2"/><text x="520.0" y="134.0" font-size="14" text-anchor="middle" fill="#6b46c1" font-weight="700">Centro integrador</text><text x="520.0" y="156.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">compara con el</text><text x="520.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">valor de referencia</text>
+<line x1="616" y1="153" x2="628" y2="153" stroke="#4a5568" stroke-width="2.2" marker-end="url(#flg)"/>
+<rect x="630" y="110" width="150" height="86" rx="12" fill="#ffffff" stroke="#2f855a" stroke-width="2"/><text x="705.0" y="134.0" font-size="14" text-anchor="middle" fill="#2f855a" font-weight="700">Efector</text><text x="705.0" y="156.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">ejecuta la</text><text x="705.0" y="174.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">respuesta</text>
+<rect x="630" y="220" width="150" height="60" rx="12" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<text x="705.0" y="244.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">La variable vuelve</text>
+<text x="705.0" y="262.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">al rango normal</text>
+<line x1="705" y1="198" x2="705" y2="216" stroke="#2f855a" stroke-width="2.2" marker-end="url(#flg)"/>
+<path d="M630,250 L145,250 L145,200" fill="none" stroke="#c53030" stroke-width="2.2" stroke-dasharray="7 5" marker-end="url(#flr)"/>
+<text x="350.0" y="292.0" font-size="12.5" text-anchor="middle" fill="#c53030" font-weight="700">el estímulo disminuye: el circuito se apaga solo (retroalimentación NEGATIVA)</text>
+<rect x="70" y="320" width="760" height="76" rx="12" fill="#f7fafc" stroke="#cbd5e0" stroke-width="1.5"/>
+<text x="88.0" y="344.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="700">Ejemplo: sube la temperatura corporal</text>
+<text x="88.0" y="366.0" font-size="12" text-anchor="start" fill="#4a5568" font-weight="normal">termorreceptores de la piel  →  hipotálamo  →  glándulas sudoríparas y vasodilatación  →  la temperatura baja</text>
+<text x="88.0" y="384.0" font-size="11.5" text-anchor="start" fill="#4a5568" font-weight="normal" font-style="italic">Si se bloquea el efector, la variable ya no regresa: se aleja cada vez más del valor de referencia.</text>
+</svg>

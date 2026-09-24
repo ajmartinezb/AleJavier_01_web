@@ -1,0 +1,2084 @@
+{
+ "prueba": "ciencias",
+ "preguntas": [
+  {
+   "tema": "1-conceptos-clave",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "En un glosario se define «propiedad emergente» como una característica que aparece en un nivel de organización y que no está presente en las partes que lo componen. ¿Cuál de los siguientes casos corresponde a esa definición?",
+   "alternativas": [
+    "Un átomo de carbono tiene siempre seis protones y seis neutrones en su núcleo atómico.",
+    "El ADN de una célula hepática contiene exactamente los mismos genes que el de una neurona.",
+    "Una bacteria mide entre uno y diez micrómetros de largo.",
+    "Una molécula de agua es líquida a 20 °C, aunque el hidrógeno y el oxígeno son gases."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: aplicar una definición a casos concretos y reconocer cuál la cumple.",
+    "concepto": "Según «Conceptos clave», una propiedad emergente surge de la organización de las partes y no puede deducirse observando cada parte por separado.",
+    "desarrollo": "El agua es el ejemplo canónico: ni el hidrógeno ni el oxígeno son líquidos a temperatura ambiente, y ninguno de los dos apaga el fuego, pero el compuesto que forman sí. Las otras tres opciones enuncian hechos verdaderos, pero ninguno describe una propiedad nueva que surja al combinar partes: son datos de composición, de identidad o de tamaño.",
+    "saber_hacer": "Hay que distinguir una propiedad nueva de un simple dato descriptivo. Dato para la PAES: si la propiedad ya estaba en alguna de las partes, no es emergente."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Es un dato de identidad del átomo, no una propiedad nueva."
+    },
+    "B": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Describe el contenido del genoma, no una propiedad emergente."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Indica un tamaño, que no surge de la organización de partes."
+    }
+   }
+  },
+  {
+   "tema": "1-conceptos-clave",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Comunicar",
+   "enunciado": "Para el glosario de un texto escolar hay que definir «homeostasis» en una sola frase dirigida a estudiantes de enseñanza media. ¿Cuál es la definición más adecuada?",
+   "alternativas": [
+    "La ausencia de cambios en el interior de un organismo vivo.",
+    "La mantención del medio interno dentro de un rango estrecho, pese a los cambios externos.",
+    "El conjunto de todas las reacciones químicas que ocurren en una célula.",
+    "La capacidad de un organismo de crecer y desarrollarse con el tiempo."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de comunicar: seleccionar la formulación más precisa de un concepto para un público determinado.",
+    "concepto": "Según «Conceptos clave», la homeostasis es la mantención del medio interno dentro de un rango estrecho frente a las variaciones del ambiente.",
+    "desarrollo": "La clave está en que la homeostasis no es inmovilidad, sino regulación activa: la variable oscila, y cada desviación activa una respuesta que la devuelve al rango. Decir que no hay cambios es justamente el error conceptual que la definición debe evitar. Las otras dos alternativas definen conceptos distintos que aparecen en el mismo glosario: el metabolismo y el crecimiento.",
+    "saber_hacer": "Hay que evitar confundir estabilidad regulada con ausencia de cambio. Dato para la PAES: en un gráfico, la homeostasis se ve como una oscilación en torno a un valor, no como una línea plana."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "La homeostasis regula el cambio; no lo suprime."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "Esa es la definición de metabolismo, no de homeostasis."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "Describe el crecimiento y el desarrollo, otro concepto del glosario."
+    }
+   }
+  },
+  {
+   "tema": "2-los-niveles-de-organizacion",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un texto describe una estructura formada por varios tejidos distintos que trabajan juntos para cumplir una función común dentro de un animal. ¿A qué nivel de organización corresponde esa estructura?",
+   "alternativas": [
+    "Al nivel de órgano, porque varios tejidos cooperan en una función.",
+    "Al nivel de tejido, porque está formada por células de un mismo tipo.",
+    "Al nivel de sistema de órganos, porque interviene más de un tejido distinto.",
+    "Al nivel de organismo, porque cumple por sí sola una función completa."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: aplicar la definición de cada nivel a una descripción estructural.",
+    "concepto": "Según la sección, un órgano es un conjunto de tejidos distintos que trabajan juntos en una función; un sistema de órganos reúne varios órganos.",
+    "desarrollo": "El dato decisivo es «varios tejidos distintos» y «una función común»: eso define un órgano, como el estómago o la hoja. Un tejido está formado por células similares, no por tejidos; un sistema reúne órganos, no tejidos; y un organismo es el individuo completo, con todos sus sistemas. El error frecuente consiste en saltarse el nivel de órgano al ver la palabra «varios».",
+    "saber_hacer": "Hay que leer con qué unidades está construido el nivel descrito. Dato para la PAES: tejido se hace de células, órgano de tejidos, sistema de órganos."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "sub-alcance",
+     "texto": "Un tejido se compone de células similares, no de tejidos distintos."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "Un sistema de órganos reúne órganos, no simplemente varios tejidos."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "El organismo es el individuo completo, un nivel por encima del sistema."
+    }
+   }
+  },
+  {
+   "tema": "2-los-niveles-de-organizacion",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante sostiene que el orden de los niveles de organización es arbitrario y que podría enunciarse igual de bien al revés. ¿Cuál es la mejor evaluación de esa afirmación?",
+   "alternativas": [
+    "Es correcta, porque los niveles son solo una convención propia de los libros de texto.",
+    "Es correcta, porque un órgano puede existir sin células que lo formen.",
+    "Es incorrecta, porque cada nivel está construido con unidades del nivel anterior.",
+    "Es incorrecta, porque solo el nivel celular tiene existencia real."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: juzgar si una afirmación es coherente con el criterio que sostiene un modelo.",
+    "concepto": "Según la sección, la escalera de niveles no es una lista, sino una jerarquía de inclusión: cada nivel se construye con unidades del anterior.",
+    "desarrollo": "Por eso el orden no puede invertirse: no existe un órgano que no esté hecho de tejidos, ni un tejido que no esté hecho de células. La jerarquía describe una relación de composición real, verificable al microscopio, y no una convención editorial. Tampoco es cierto que solo el nivel celular exista: los tejidos y los ecosistemas son igualmente reales, solo que en escalas distintas.",
+    "saber_hacer": "Hay que reconocer que la jerarquía expresa inclusión, no preferencia. Dato para la PAES: si un nivel puede existir sin el anterior, el modelo estaría mal planteado."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "La jerarquía describe una relación de composición observable, no una convención."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Ningún órgano existe sin las células que forman sus tejidos."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "Los demás niveles también tienen existencia real, en otra escala."
+    }
+   }
+  },
+  {
+   "tema": "a-la-escalera-completa",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Se ordenan las siguientes estructuras del cuerpo humano: fibra muscular cardíaca, corazón, sistema circulatorio, tejido muscular cardíaco. ¿Cuál es el orden correcto de menor a mayor complejidad?",
+   "alternativas": [
+    "Corazón, tejido muscular cardíaco, fibra muscular cardíaca, sistema circulatorio.",
+    "Tejido muscular cardíaco, fibra muscular cardíaca, sistema circulatorio, corazón.",
+    "Fibra muscular cardíaca, tejido muscular cardíaco, corazón, sistema circulatorio.",
+    "Fibra muscular cardíaca, corazón, tejido muscular cardíaco, sistema circulatorio."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: ordenar elementos aplicando un criterio jerárquico.",
+    "concepto": "Según la sección, la escalera va de célula a tejido, de tejido a órgano y de órgano a sistema de órganos.",
+    "desarrollo": "La fibra muscular cardíaca es una célula, el tejido muscular cardíaco es el conjunto de esas células similares, el corazón es el órgano formado por ese tejido junto a otros, y el sistema circulatorio reúne al corazón con los vasos sanguíneos. Cada alternativa incorrecta rompe al menos un paso de esa cadena, casi siempre adelantando el órgano o intercalando el sistema antes de tiempo.",
+    "saber_hacer": "Hay que traducir nombres anatómicos concretos a niveles de organización. Dato para la PAES: la palabra «fibra» en este contexto designa una célula."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Pone el órgano antes que la célula y el tejido que lo forman."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Sitúa el tejido antes que la célula y el sistema antes que el órgano."
+    },
+    "D": {
+     "tipo": "condición incompleta",
+     "texto": "Ubica el corazón antes del tejido que lo constituye."
+    }
+   }
+  },
+  {
+   "tema": "a-la-escalera-completa",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Al estudiar un bosque, un equipo quiere trabajar en el nivel de organización de población. ¿Cuál de las siguientes preguntas corresponde a ese nivel?",
+   "alternativas": [
+    "¿Qué organelos contiene una célula de la hoja de coigüe?",
+    "¿Qué especies de aves e insectos conviven en este bosque?",
+    "¿Cómo varía la temperatura media del bosque a lo largo del año?",
+    "¿Cuántos individuos de coigüe hay por hectárea en este bosque?"
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: reconocer a qué nivel de organización apunta una pregunta de investigación.",
+    "concepto": "Según la sección, una población reúne a todos los individuos de una misma especie que viven en un lugar y momento determinados.",
+    "desarrollo": "Contar individuos de coigüe por hectárea es medir exactamente eso. Preguntar por los organelos baja al nivel subcelular; preguntar por las especies que conviven sube al nivel de comunidad, porque involucra a más de una especie; y preguntar por la temperatura describe un componente abiótico del ecosistema. Cada opción es una pregunta legítima, pero solo una se sitúa en el nivel pedido.",
+    "saber_hacer": "Hay que fijarse en si la pregunta involucra una especie, varias o ninguna. Dato para la PAES: una sola especie indica población; varias, comunidad."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "Apunta al nivel de organelo, muy por debajo del pedido."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "Involucra varias especies, de modo que corresponde a la comunidad."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Mide un componente abiótico propio del nivel de ecosistema."
+    }
+   }
+  },
+  {
+   "tema": "a-la-escalera-completa",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Un equipo quiere determinar si la contaminación de un río afecta al nivel de organización de comunidad y no solo al de población. ¿Qué medición permite responder mejor esa pregunta?",
+   "alternativas": [
+    "Contar el número de truchas antes y después del punto de descarga del efluente.",
+    "Registrar el número de especies presentes y su abundancia en los dos tramos.",
+    "Medir la concentración de oxígeno disuelto en los dos tramos del río estudiado.",
+    "Medir la longitud promedio de las truchas capturadas en cada tramo."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger la medición que corresponde al nivel de organización estudiado.",
+    "concepto": "Según la sección, la comunidad es el conjunto de poblaciones de distintas especies que conviven, mientras que la población abarca a una sola especie.",
+    "desarrollo": "Para hablar de la comunidad hay que registrar varias especies a la vez, y por eso el número de especies y su abundancia es la medición adecuada. Contar truchas o medir su longitud informa sobre una única población y no permite concluir nada sobre el conjunto. El oxígeno disuelto es una variable abiótica: puede explicar el efecto, pero no lo mide en el nivel pedido.",
+    "saber_hacer": "Hay que hacer coincidir la variable medida con el nivel de organización del objetivo. Dato para la PAES: riqueza y abundancia de especies son descriptores de comunidad."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "Informa sobre una sola población, no sobre la comunidad."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Mide una condición abiótica, no la composición de la comunidad."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "Describe un rasgo de los individuos de una única especie."
+    }
+   }
+  },
+  {
+   "tema": "b-donde-se-corta-la-escalera",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Se afirma que la vida aparece en el nivel celular y no antes. ¿Cuál es la razón que mejor sostiene esa afirmación?",
+   "alternativas": [
+    "Porque las moléculas son demasiado pequeñas para observarse al microscopio óptico.",
+    "Porque solo en las células hay átomos de carbono formando moléculas orgánicas.",
+    "Porque la célula es la unidad más simple capaz de realizar las funciones vitales.",
+    "Porque por debajo del nivel celular no existe materia químicamente organizada."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: identificar el fundamento correcto de una afirmación.",
+    "concepto": "Según la sección, el corte de la escalera está en la célula porque es el primer nivel que se nutre, responde a estímulos, mantiene su medio interno y se reproduce.",
+    "desarrollo": "Una biomolécula aislada, incluso el ADN, no hace nada de eso: necesita estar dentro de una célula. El tamaño no es el criterio, porque hay virus más pequeños que algunas moléculas grandes y no están vivos. El carbono está presente en moléculas orgánicas fuera de las células, y por debajo del nivel celular sí hay materia altamente organizada, como los organelos.",
+    "saber_hacer": "Hay que justificar el umbral por la autonomía funcional y no por el tamaño. Dato para la PAES: el criterio es «realiza todas las funciones vitales por sí mismo»."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "El tamaño no determina si algo está vivo."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Hay moléculas con carbono fuera de cualquier célula."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "Los organelos y las biomoléculas son materia muy organizada y no están vivos."
+    }
+   }
+  },
+  {
+   "tema": "b-donde-se-corta-la-escalera",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante concluye que un organelo aislado en un tubo de ensayo está vivo porque sigue consumiendo oxígeno durante un tiempo. ¿Cuál es la mejor evaluación de esa conclusión?",
+   "alternativas": [
+    "Es válida, porque el consumo de oxígeno demuestra que hay metabolismo activo.",
+    "Es válida, porque el organelo mantiene su estructura durante todo el experimento.",
+    "No es válida, porque los organelos aislados no realizan ninguna reacción química.",
+    "No es válida, porque una sola función aislada no basta como criterio de vida."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: juzgar si la evidencia disponible alcanza para sostener una conclusión.",
+    "concepto": "Según la sección, lo vivo se reconoce por un conjunto de características que aparecen juntas, y la célula es el nivel mínimo donde eso ocurre.",
+    "desarrollo": "Una mitocondria aislada conserva su maquinaria enzimática y consume oxígeno por un rato, pero no se divide, no repone sus proteínas ni regula su interior; cuando se agotan sus componentes, se detiene. Por eso el dato es real pero insuficiente. La última alternativa, en cambio, niega un hecho comprobado: los organelos aislados sí realizan reacciones, y en eso se basa el experimento descrito.",
+    "saber_hacer": "Hay que exigir el conjunto completo de características antes de concluir que algo está vivo. Dato para la PAES: una función aislada nunca basta como criterio de vida."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "El metabolismo es una condición necesaria, pero no suficiente."
+    },
+    "B": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Mantener la estructura un tiempo no implica estar vivo."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Los organelos aislados sí realizan reacciones químicas."
+    }
+   }
+  },
+  {
+   "tema": "b-donde-se-corta-la-escalera",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere poner a prueba si una estructura recién descubierta de dos micrómetros está viva. Ya se comprobó que tiene membrana, material genético y que consume glucosa. ¿Qué observación adicional es más decisiva?",
+   "alternativas": [
+    "Registrar si aumenta su número en un cultivo mantenido durante varios días.",
+    "Medir su diámetro con mucha mayor precisión usando un microscopio electrónico.",
+    "Determinar la composición química exacta de su membrana externa.",
+    "Comprobar si flota o si se deposita en el fondo del recipiente de cultivo usado."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger la observación que discrimina entre las hipótesis en juego.",
+    "concepto": "Según la sección, la reproducción es una de las características que definen lo vivo y la que falta comprobar en el caso descrito.",
+    "desarrollo": "Con membrana, material genético y consumo de glucosa ya hay organización y metabolismo; lo que aún no se sabe es si la estructura se multiplica. Registrar el aumento del número de unidades en cultivo responde exactamente esa pregunta. Medir el diámetro con más precisión o analizar la composición de la membrana agrega detalle descriptivo sin decidir nada, y la flotabilidad es una propiedad física irrelevante.",
+    "saber_hacer": "Hay que identificar qué característica de la vida queda sin comprobar y diseñar para ella. Dato para la PAES: la observación decisiva es la que cambia la conclusión."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Más precisión en el tamaño no decide si está viva."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "La composición de la membrana no informa sobre la reproducción."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La flotabilidad es una propiedad física sin relación con la vida."
+    }
+   }
+  },
+  {
+   "tema": "c-niveles-biologicos-y-niveles-ecologicos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "En un humedal se estudian cuatro objetos de investigación: los sapos de una laguna, todas las especies que viven en la laguna, la laguna con su agua y sus sedimentos, y el hígado de un sapo. ¿Cuál de ellos corresponde a un nivel biológico dentro de un individuo?",
+   "alternativas": [
+    "Los sapos de la laguna.",
+    "Todas las especies que viven en la laguna.",
+    "La laguna con su agua y sus sedimentos.",
+    "El hígado de un sapo."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: clasificar objetos de estudio según el nivel al que pertenecen.",
+    "concepto": "Según la sección, los niveles biológicos van de la célula al organismo y se sitúan dentro de un individuo; los ecológicos empiezan en la población.",
+    "desarrollo": "El hígado es un órgano y, por lo tanto, un nivel dentro del individuo. Los sapos de la laguna forman una población, todas las especies juntas forman una comunidad y la laguna con sus componentes no vivos es un ecosistema. Las tres son unidades ecológicas, que existen por encima del organismo y que incluyen, en el último caso, componentes abióticos.",
+    "saber_hacer": "Hay que ubicar la frontera entre lo que está dentro de un individuo y lo que lo supera. Dato para la PAES: el organismo es el último nivel individual."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "Un conjunto de individuos de una especie es una población."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "El conjunto de especies que conviven forma una comunidad."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "Incluye componentes abióticos: corresponde al ecosistema."
+    }
+   }
+  },
+  {
+   "tema": "c-niveles-biologicos-y-niveles-ecologicos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Comunicar",
+   "enunciado": "Para un panel divulgativo hay que explicar la diferencia entre comunidad y ecosistema en una sola frase. ¿Cuál es la formulación más precisa?",
+   "alternativas": [
+    "La comunidad es más pequeña que el ecosistema en superficie ocupada.",
+    "La comunidad incluye una sola especie y el ecosistema incluye siempre varias especies.",
+    "La comunidad reúne a los seres vivos; el ecosistema suma los factores abióticos.",
+    "La comunidad se estudia en el laboratorio y el ecosistema se estudia solo en terreno."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de comunicar: escoger la formulación que transmite con precisión la diferencia entre dos conceptos.",
+    "concepto": "Según la sección, la comunidad es el conjunto de poblaciones que conviven, y el ecosistema es esa comunidad junto con los factores abióticos con los que interactúa.",
+    "desarrollo": "La diferencia no es de tamaño ni de método de estudio, sino de qué se incluye: el ecosistema agrega el agua, el suelo, la luz y la temperatura. La tercera alternativa confunde comunidad con población, porque una comunidad involucra por definición varias especies. Una buena definición divulgativa debe nombrar el criterio de inclusión y no una propiedad accesoria.",
+    "saber_hacer": "Hay que basar la distinción en el criterio conceptual y no en rasgos accesorios. Dato para la PAES: lo abiótico es lo que separa comunidad de ecosistema."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "La diferencia no es de superficie sino de componentes incluidos."
+    },
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "Una sola especie define una población, no una comunidad."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "El lugar de estudio no define ninguno de los dos conceptos."
+    }
+   }
+  },
+  {
+   "tema": "c-niveles-biologicos-y-niveles-ecologicos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Un equipo quiere estudiar cómo una sequía prolongada afecta a un ecosistema y no solo a su comunidad. Además del censo de especies, ¿qué conjunto de mediciones debe incluir?",
+   "alternativas": [
+    "El número de individuos de cada especie en cada estación del año de estudio.",
+    "La humedad del suelo, el caudal del estero y la temperatura del aire.",
+    "El peso promedio de los individuos de las especies más abundantes del lugar.",
+    "El número de nidos y de madrigueras presentes en toda el área de estudio."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: seleccionar las variables que corresponden al nivel de organización declarado en el objetivo.",
+    "concepto": "Según la sección, el ecosistema incluye a la comunidad más los factores abióticos, de modo que estudiarlo exige medir también esos factores.",
+    "desarrollo": "La humedad del suelo, el caudal y la temperatura son justamente componentes abióticos, y sin ellos el estudio quedaría limitado al nivel de comunidad. Contar individuos por estación, pesar ejemplares o registrar nidos son mediciones válidas, pero todas describen a los seres vivos: ninguna agrega la dimensión que distingue al ecosistema.",
+    "saber_hacer": "Hay que reconocer qué mediciones amplían el nivel de análisis. Dato para la PAES: si el objetivo dice ecosistema, tiene que haber al menos una variable abiótica."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "Sigue describiendo solo al componente vivo, es decir, la comunidad."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Describe rasgos individuales, no el componente abiótico."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "Los nidos informan sobre las poblaciones, no sobre lo abiótico."
+    }
+   }
+  },
+  {
+   "tema": "3-las-propiedades-emergentes",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Se separan las células de un tejido cardíaco y se mantienen vivas por separado. Cada célula late con un ritmo propio y desordenado, pero al volver a ponerlas en contacto todas laten al mismo ritmo. ¿Qué concepto explica mejor este resultado?",
+   "alternativas": [
+    "La homeostasis, porque cada célula regula su propio medio interno.",
+    "La diferenciación celular, porque las células cambian de tipo al volver a juntarse.",
+    "La adaptación, porque las células se ajustan por sí solas a las nuevas condiciones.",
+    "Una propiedad emergente, porque la sincronía aparece solo con la organización."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: reconocer un concepto a partir de un resultado experimental descrito.",
+    "concepto": "Según la sección, una propiedad emergente aparece cuando las partes se organizan y no puede observarse en ninguna de ellas por separado.",
+    "desarrollo": "El dato clave es que el ritmo común existe solo cuando las células están en contacto y desaparece al separarlas. La homeostasis describe la regulación interna de cada célula, que en el experimento se mantiene en ambos casos; la diferenciación implicaría un cambio de tipo celular, que aquí no ocurre; y la adaptación evolutiva sucede en poblaciones a lo largo de generaciones, no en minutos.",
+    "saber_hacer": "Hay que fijarse en si la propiedad aparece y desaparece con la organización. Dato para la PAES: si separar las partes elimina la propiedad, es emergente."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "La homeostasis regula el medio interno y está presente en ambos casos."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "No hay evidencia de que las células cambien de tipo celular."
+    },
+    "C": {
+     "tipo": "anacronismo",
+     "texto": "La adaptación evolutiva ocurre en poblaciones y en muchas generaciones."
+    }
+   }
+  },
+  {
+   "tema": "3-las-propiedades-emergentes",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante afirma que, como el todo es más que la suma de sus partes, estudiar las partes por separado no aporta nada útil en biología. ¿Cuál es la mejor evaluación de esa afirmación?",
+   "alternativas": [
+    "Es correcta, porque el estudio de las partes siempre da resultados engañosos.",
+    "Es incorrecta, porque estudiar las partes es necesario, aunque no suficiente para explicar el todo.",
+    "Es correcta, porque las propiedades emergentes no dependen de las partes.",
+    "Es incorrecta, porque las propiedades emergentes no existen realmente."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: juzgar el alcance de una conclusión y detectar cuándo se exagera.",
+    "concepto": "Según la sección, el reduccionismo, que consiste en estudiar un sistema descomponiéndolo en sus partes, es imprescindible, pero debe completarse mirando también la organización.",
+    "desarrollo": "Conocer las proteínas de una membrana es necesario para entender cómo transporta sustancias; lo que no basta es quedarse ahí, porque el transporte real depende de cómo están dispuestas. La afirmación del estudiante convierte un límite del reduccionismo en un rechazo total, y eso es un exceso. Negar la existencia de las propiedades emergentes sería el error contrario, igualmente incorrecto.",
+    "saber_hacer": "Hay que distinguir entre «no es suficiente» y «no sirve». Dato para la PAES: las alternativas con «siempre» o «nunca» suelen exagerar el alcance."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "Convierte una limitación en un rechazo absoluto del método."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Las propiedades emergentes sí dependen de las partes y de su organización."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "Niega un fenómeno bien documentado en todos los niveles biológicos."
+    }
+   }
+  },
+  {
+   "tema": "a-que-es-una-propiedad-emergente",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "El hidrógeno es un gas inflamable y el oxígeno aviva la combustión, pero el agua apaga el fuego. ¿Qué permite afirmar este hecho sobre la relación entre una molécula y sus átomos?",
+   "alternativas": [
+    "Que las propiedades de la molécula no se deducen sumando las de sus átomos.",
+    "Que los átomos pierden sus protones al formar la molécula.",
+    "Que la molécula conserva todas las propiedades químicas de los átomos que la forman.",
+    "Que el agua contiene átomos distintos de los del hidrógeno y los del oxígeno."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: extraer una conclusión general a partir de un caso concreto.",
+    "concepto": "Según la sección, la propiedad emergente surge de la organización de las partes y por eso no puede predecirse mirando cada parte aislada.",
+    "desarrollo": "El agua contiene exactamente los mismos átomos de hidrógeno y de oxígeno, con sus protones intactos, pero la manera en que se unen produce un comportamiento nuevo y hasta opuesto. La tercera alternativa afirma lo contrario de lo observado, y la cuarta niega la composición conocida del agua. El caso ilustra que la organización, y no un cambio de ingredientes, es lo que genera la propiedad.",
+    "saber_hacer": "Hay que concluir sobre la organización sin inventar cambios en las partes. Dato para la PAES: los átomos siguen siendo los mismos; lo que cambia es cómo se unen."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "Los átomos conservan sus protones al formar enlaces químicos."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El ejemplo muestra justamente lo contrario."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El agua está formada solo por hidrógeno y oxígeno."
+    }
+   }
+  },
+  {
+   "tema": "a-que-es-una-propiedad-emergente",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Un equipo observa que un hormiguero regula su temperatura interna, aunque ninguna hormiga individual lo hace. ¿Cuál es la pregunta que mejor orienta una investigación sobre esa observación?",
+   "alternativas": [
+    "¿Cuántas hormigas viven en un hormiguero de tamaño medio durante el verano?",
+    "¿Qué conductas individuales, combinadas, regulan el calor del hormiguero?",
+    "¿Cuál es la temperatura del cuerpo de una hormiga obrera mantenida aislada?",
+    "¿Desde cuándo existen las hormigas según el registro fósil actualmente conocido?"
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular una pregunta investigable a partir de un fenómeno emergente.",
+    "concepto": "Según la sección, una propiedad emergente se explica indagando cómo se organizan las partes, no describiendo cada parte por separado.",
+    "desarrollo": "La pregunta correcta apunta justamente a esa organización: qué conductas simples, repetidas y coordinadas producen el resultado colectivo. Contar hormigas o medir la temperatura de una hormiga aislada entrega datos descriptivos que no explican la regulación, y la pregunta sobre el registro fósil cambia de tema hacia la historia evolutiva del grupo.",
+    "saber_hacer": "Hay que orientar la pregunta hacia el mecanismo de la organización. Dato para la PAES: una buena pregunta investigable propone relacionar variables, no solo describir."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Un recuento describe el sistema sin explicar la regulación."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "Mide una parte aislada, donde la propiedad no existe."
+    },
+    "D": {
+     "tipo": "anacronismo",
+     "texto": "Introduce una pregunta histórica ajena a la observación descrita."
+    }
+   }
+  },
+  {
+   "tema": "a-que-es-una-propiedad-emergente",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Un investigador sostiene que ha explicado por completo la conciencia humana tras describir el funcionamiento de una neurona aislada. ¿Cuál es la principal limitación de esa conclusión?",
+   "alternativas": [
+    "Que las neuronas aisladas no pueden estudiarse en laboratorio.",
+    "Que la conciencia no depende en absoluto del funcionamiento de las neuronas del cerebro.",
+    "Que la conciencia es una propiedad emergente de redes de neuronas conectadas.",
+    "Que solo se estudió una neurona aislada y no dos o tres neuronas conectadas entre sí."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: identificar la limitación central del alcance de una conclusión.",
+    "concepto": "Según la sección, una propiedad emergente no está presente en ninguna de las partes y solo aparece cuando estas se organizan de cierta manera.",
+    "desarrollo": "Describir una neurona explica cómo se genera y conduce una señal, pero no cómo un conjunto enorme de ellas, conectado de un modo específico, produce experiencia consciente. Afirmar que la conciencia no depende de las neuronas sería el extremo opuesto y también un error. Y el problema no es el número exacto estudiado, sino que el nivel de análisis elegido no contiene el fenómeno.",
+    "saber_hacer": "Hay que identificar el nivel en el que ocurre el fenómeno antes de juzgar la explicación. Dato para la PAES: una explicación falla si se sitúa en un nivel donde la propiedad no existe."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Las neuronas aisladas sí se estudian habitualmente en cultivo."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "La conciencia sí depende de las neuronas, aunque no se reduzca a una sola."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "El problema es el nivel de análisis, no la cantidad exacta de neuronas."
+    }
+   }
+  },
+  {
+   "tema": "b-por-que-esto-importa-para-estudiar-biologia",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere comprobar experimentalmente que la capacidad de un tejido intestinal de absorber nutrientes es una propiedad que depende de su organización. ¿Qué procedimiento lo pone mejor a prueba?",
+   "alternativas": [
+    "Medir la absorción del tejido completo y compararla con la de sus células dispersas.",
+    "Medir la absorción del tejido completo en dos momentos diferentes de un mismo día de cultivo.",
+    "Comparar la absorción de tejido intestinal con la de tejido muscular.",
+    "Medir la concentración de las proteínas transportadoras en el tejido intestinal completo."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: diseñar la comparación que pone a prueba la hipótesis planteada.",
+    "concepto": "Según la sección, una propiedad emergente se demuestra mostrando que desaparece o disminuye cuando se destruye la organización sin eliminar las partes.",
+    "desarrollo": "Dispersar las células conserva todos los componentes y elimina solo la disposición ordenada, de modo que la comparación aísla exactamente la variable de interés. Medir a distintas horas introduce una variable temporal ajena, comparar con tejido muscular cambia el material en lugar de su organización, y contar transportadores describe las partes sin poner a prueba nada.",
+    "saber_hacer": "Hay que diseñar una comparación que altere la organización y nada más. Dato para la PAES: el buen control conserva las partes y modifica solo su disposición."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "Cambia el momento de medición, no la organización del tejido."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Compara materiales distintos en lugar de niveles de organización."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "Describe un componente sin comparar el tejido organizado con el disperso."
+    }
+   }
+  },
+  {
+   "tema": "b-por-que-esto-importa-para-estudiar-biologia",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un texto sostiene que el reduccionismo consiste en estudiar un sistema descomponiéndolo en sus partes. ¿Cuál es la relación correcta entre esa estrategia y las propiedades emergentes?",
+   "alternativas": [
+    "El reduccionismo demuestra que las propiedades emergentes no existen.",
+    "El reduccionismo y el estudio de las propiedades emergentes son incompatibles.",
+    "El reduccionismo es útil, pero debe completarse observando cómo se organizan las partes.",
+    "El reduccionismo solo se aplica en física y no tiene lugar en biología."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: relacionar correctamente dos ideas presentadas en el texto.",
+    "concepto": "Según la sección, descomponer un sistema es necesario para conocer sus componentes, pero insuficiente para explicar lo que aparece cuando esos componentes se organizan.",
+    "desarrollo": "Las dos estrategias son complementarias: primero se identifican las piezas y después se estudia su disposición. Decir que son incompatibles, o que el reduccionismo refuta las propiedades emergentes, transforma una complementariedad en una oposición. Y la biología usa el reduccionismo de manera constante, desde la bioquímica hasta la genética molecular.",
+    "saber_hacer": "Hay que leer la relación entre dos conceptos sin convertirla en una disyuntiva. Dato para la PAES: «necesario pero no suficiente» es la formulación que suele ser correcta."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Estudiar las partes no elimina lo que aparece al organizarlas."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "Son estrategias complementarias, no opuestas."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La biología emplea el reduccionismo de forma habitual."
+    }
+   }
+  },
+  {
+   "tema": "b-por-que-esto-importa-para-estudiar-biologia",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Dos equipos estudian la memoria: uno registra la actividad de neuronas individuales y otro, la actividad simultánea de miles de neuronas. ¿Cuál es la evaluación más adecuada de ambos enfoques?",
+   "alternativas": [
+    "Solo el segundo enfoque es científico, porque trabaja con el sistema completo.",
+    "Solo el primero es científico, porque permite un control experimental estricto.",
+    "Ninguno aporta, porque la memoria no puede estudiarse de manera experimental.",
+    "Ambos aportan: uno describe los componentes y el otro, la propiedad emergente."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: juzgar el aporte de dos diseños de investigación con alcances distintos.",
+    "concepto": "Según la sección, conocer las partes y conocer la organización son pasos complementarios de una misma explicación.",
+    "desarrollo": "El registro de neuronas individuales establece qué hace cada componente y con qué precisión; el registro masivo muestra los patrones colectivos donde la memoria se manifiesta. Descartar uno de los dos deja la explicación incompleta, y afirmar que la memoria no puede estudiarse contradice décadas de investigación experimental con animales y con personas.",
+    "saber_hacer": "Hay que valorar el aporte de cada nivel de análisis en lugar de elegir uno. Dato para la PAES: las alternativas que descalifican un enfoque completo suelen estar equivocadas."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "Descarta sin fundamento el estudio de los componentes."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "El control experimental no convierte a un enfoque en el único válido."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La memoria se estudia experimentalmente desde hace décadas."
+    }
+   }
+  },
+  {
+   "tema": "c-como-se-reconoce-en-una-pregunta",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "En un enunciado de prueba aparece la frase: «el conjunto presenta una capacidad que ninguno de sus componentes posee por separado». ¿Qué concepto está señalando esa frase?",
+   "alternativas": [
+    "Una propiedad emergente del conjunto.",
+    "La homeostasis del sistema descrito.",
+    "La irritabilidad de cada componente.",
+    "El metabolismo de las partes aisladas."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: reconocer la señal lingüística que identifica un concepto en un enunciado.",
+    "concepto": "Según la sección, la marca típica de una propiedad emergente es la fórmula «el todo puede algo que las partes, por separado, no pueden».",
+    "desarrollo": "Esa formulación describe exactamente la aparición de una capacidad nueva en el nivel superior. La homeostasis, la irritabilidad y el metabolismo son características de los seres vivos, pero ninguna de ellas se define por el contraste entre el todo y sus partes. Reconocer la señal permite responder rápido incluso cuando el contenido del enunciado es desconocido.",
+    "saber_hacer": "Hay que asociar la formulación del enunciado con el concepto que designa. Dato para la PAES: «que las partes por separado no tienen» equivale a propiedad emergente."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "La homeostasis describe la regulación del medio interno."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "La irritabilidad es la respuesta a estímulos, no una capacidad del conjunto."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "El metabolismo está presente en cada célula por separado."
+    }
+   }
+  },
+  {
+   "tema": "c-como-se-reconoce-en-una-pregunta",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Cuatro enunciados describen sistemas biológicos. ¿Cuál de ellos NO describe una propiedad emergente?",
+   "alternativas": [
+    "Un cardumen realiza maniobras coordinadas que ningún pez ejecuta solo.",
+    "Una célula hepática contiene mitocondrias que producen ATP.",
+    "Un cerebro almacena recuerdos que ninguna neurona aislada conserva.",
+    "Una colonia de abejas mantiene la temperatura del panal estable."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: aplicar un criterio para descartar el caso que no lo cumple.",
+    "concepto": "Según la sección, una propiedad emergente aparece en el nivel superior y está ausente en las partes consideradas por separado.",
+    "desarrollo": "Las maniobras del cardumen, la memoria del cerebro y la termorregulación del panal cumplen el criterio, porque ninguna unidad individual las realiza. En cambio, una mitocondria produce ATP igual estando aislada en un tubo de ensayo: la propiedad ya existe en la parte, de modo que no emerge al integrarse a la célula. Ese es el contraste que permite descartar.",
+    "saber_hacer": "Hay que probar cada caso preguntando si la parte aislada ya tiene la propiedad. Dato para la PAES: si la parte sola puede hacerlo, no es emergente."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Sí es emergente: ningún pez ejecuta la maniobra colectiva solo."
+    },
+    "C": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Sí es emergente: una neurona aislada no conserva recuerdos."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Sí es emergente: ninguna abeja regula sola la temperatura del panal."
+    }
+   }
+  },
+  {
+   "tema": "c-como-se-reconoce-en-una-pregunta",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Un equipo quiere demostrar que la capacidad de un biofilm bacteriano de resistir un antibiótico es emergente y no una propiedad de cada bacteria. ¿Qué comparación debe realizar?",
+   "alternativas": [
+    "Exponer el biofilm a dos antibióticos distintos y comparar luego la supervivencia de cada uno.",
+    "Exponer al antibiótico dos biofilms formados por cepas bacterianas completamente distintas.",
+    "Medir el grosor del biofilm antes y después de aplicar el antibiótico.",
+    "Exponer al antibiótico el biofilm intacto y bacterias de la misma cepa en suspensión."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: identificar la comparación que aísla la variable organización.",
+    "concepto": "Según la sección, una propiedad emergente se demuestra comparando el sistema organizado con sus mismas partes desorganizadas.",
+    "desarrollo": "Usar la misma cepa en suspensión garantiza que las bacterias sean idénticas y que lo único distinto sea si forman o no la estructura del biofilm. Cambiar de antibiótico o de cepa introduce una variable diferente y no permite atribuir la resistencia a la organización. Medir el grosor describe el sistema, pero no compara ningún nivel de organización con otro.",
+    "saber_hacer": "Hay que mantener idénticas las partes y variar solo su organización. Dato para la PAES: misma cepa, dos estados de organización."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Cambia el antibiótico en lugar del nivel de organización."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "Compara cepas distintas, introduciendo diferencias entre las partes."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "Describe el biofilm sin compararlo con bacterias dispersas."
+    }
+   }
+  },
+  {
+   "tema": "4-la-teoria-celular",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "La teoría celular sostiene que toda célula proviene de otra célula preexistente. ¿Qué explicación alternativa quedó descartada al aceptarse ese postulado?",
+   "alternativas": [
+    "La herencia de los caracteres adquiridos durante la vida del individuo.",
+    "La existencia de organismos formados por una sola célula.",
+    "La generación espontánea de seres vivos a partir de materia inerte.",
+    "La presencia de material genético en el interior de las células."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: identificar qué explicación rival queda excluida por un enunciado teórico.",
+    "concepto": "Según la sección, el tercer postulado, formulado por Virchow en 1855, sostiene que toda célula procede de otra, lo que niega que puedan surgir desde materia no viva.",
+    "desarrollo": "La generación espontánea era exactamente la explicación contraria y sostenía que el barro o el caldo podían originar gusanos o microorganismos. Las otras alternativas nombran ideas que no se oponen a ese postulado: la herencia de caracteres adquiridos es una hipótesis evolutiva, los organismos unicelulares son compatibles con la teoría y el material genético se describió mucho después.",
+    "saber_hacer": "Hay que identificar la hipótesis rival que un postulado excluye. Dato para la PAES: el tercer postulado y la generación espontánea son incompatibles."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Es una hipótesis sobre la evolución, no sobre el origen de las células."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Los organismos unicelulares son perfectamente compatibles con la teoría."
+    },
+    "D": {
+     "tipo": "anacronismo",
+     "texto": "El material genético se caracterizó casi un siglo más tarde."
+    }
+   }
+  },
+  {
+   "tema": "4-la-teoria-celular",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante afirma que la teoría celular es «solo una teoría» y que por eso podría reemplazarse en cualquier momento por una idea mejor. ¿Cuál es la mejor evaluación de esa afirmación?",
+   "alternativas": [
+    "Es incorrecta, porque una teoría es una explicación amplia sostenida por mucha evidencia acumulada.",
+    "Es correcta, porque una teoría es una suposición que aún no se comprueba.",
+    "Es correcta, porque las teorías se transforman en leyes al confirmarse.",
+    "Es incorrecta, porque las teorías científicas nunca pueden modificarse."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: juzgar el uso correcto de un término metodológico central en ciencias.",
+    "concepto": "Según la sección, una teoría científica es una explicación amplia, respaldada por evidencia abundante e independiente, capaz de hacer predicciones.",
+    "desarrollo": "La expresión «solo una teoría» usa el término en su sentido coloquial, como sinónimo de suposición, y eso es lo que falla en la afirmación. Tampoco es cierto que las teorías asciendan a leyes: ley y teoría son categorías distintas, porque la ley describe una regularidad y la teoría explica por qué ocurre. La última alternativa cae en el extremo opuesto, ya que las teorías sí se corrigen con nueva evidencia.",
+    "saber_hacer": "Hay que usar «teoría» en su sentido científico. Dato para la PAES: teoría explica, ley describe, hipótesis se pone a prueba."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "Esa es la definición coloquial de teoría, no la científica."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Ley y teoría son categorías distintas, no etapas sucesivas."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "Las teorías sí se ajustan cuando aparece nueva evidencia."
+    }
+   }
+  },
+  {
+   "tema": "a-los-tres-postulados",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Se examinan tres afirmaciones: I. Todos los seres vivos están formados por células. II. La célula es la unidad estructural y funcional. III. Toda célula proviene de otra célula. ¿Cuál de ellas fue el último postulado en incorporarse a la teoría celular?",
+   "alternativas": [
+    "La afirmación I, propuesta por Schleiden en 1838.",
+    "La afirmación II, propuesta por Schwann en 1839.",
+    "Las tres se propusieron simultáneamente en 1839.",
+    "La afirmación III, propuesta por Virchow en 1855."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: ordenar cronológicamente los componentes de un modelo científico.",
+    "concepto": "Según la sección, Schleiden y Schwann establecieron los dos primeros postulados entre 1838 y 1839, y Virchow agregó el tercero en 1855.",
+    "desarrollo": "El postulado de Virchow, resumido en la frase latina que significa «toda célula procede de una célula», llegó casi dos décadas después y fue el que cerró el modelo, porque respondía a la pregunta por el origen. La última alternativa contradice el hecho de que la teoría se construyó por etapas, con aportes de distintas personas y a lo largo de varias décadas.",
+    "saber_hacer": "Hay que asociar cada postulado con su autor y su fecha. Dato para la PAES: 1838 y 1839 para los dos primeros, 1855 para el tercero."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "anacronismo",
+     "texto": "Fue el primer postulado, no el último en incorporarse."
+    },
+    "B": {
+     "tipo": "anacronismo",
+     "texto": "Se formuló en 1839, dieciséis años antes que el tercero."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La teoría se construyó por etapas, no de una sola vez."
+    }
+   }
+  },
+  {
+   "tema": "a-los-tres-postulados",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Se descubre un organismo cuyo cuerpo está formado por una masa continua de citoplasma con muchos núcleos y sin tabiques entre ellos. ¿Qué implica este hallazgo para la teoría celular?",
+   "alternativas": [
+    "No la refuta: son células que comparten citoplasma tras dividir sus núcleos.",
+    "La refuta, porque demuestra que existen seres vivos que no están hechos de células.",
+    "La refuta, porque los núcleos se habrían originado sin ninguna célula previa a ellos.",
+    "No la refuta, porque ese organismo no puede considerarse un ser vivo verdadero."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: determinar si un caso particular constituye una excepción real a un modelo.",
+    "concepto": "Según la sección, las excepciones aparentes a la teoría celular se resuelven examinando si el caso contradice de verdad algún postulado.",
+    "desarrollo": "Los organismos cenocíticos, como ciertos hongos y algas, se forman cuando los núcleos se dividen sin que el citoplasma se separe. Siguen siendo material celular derivado de células previas, de modo que ningún postulado queda en entredicho. Afirmar que el organismo no está vivo es un recurso fácil que contradice la evidencia, y sostener que los núcleos surgieron sin células previas inventa un hecho no observado.",
+    "saber_hacer": "Hay que verificar si el caso contradice un postulado antes de hablar de refutación. Dato para la PAES: núcleos múltiples en un citoplasma común no refutan la teoría celular."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "El organismo sí está formado por material celular con muchos núcleos."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Los núcleos provienen de divisiones de núcleos preexistentes."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "Negar que esté vivo contradice la evidencia disponible."
+    }
+   }
+  },
+  {
+   "tema": "a-los-tres-postulados",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Comunicar",
+   "enunciado": "Para un afiche escolar hay que resumir el tercer postulado de la teoría celular en una frase breve y exacta. ¿Cuál es la mejor opción?",
+   "alternativas": [
+    "Toda célula contiene un núcleo con material genético.",
+    "Toda célula puede vivir de manera independiente del organismo.",
+    "Toda célula proviene de otra célula preexistente.",
+    "Toda célula se origina a partir de moléculas orgánicas del medio."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de comunicar: seleccionar el enunciado que expresa con exactitud un contenido para un formato breve.",
+    "concepto": "Según la sección, el tercer postulado afirma que el origen de cualquier célula es siempre otra célula que ya existía.",
+    "desarrollo": "La segunda alternativa es directamente falsa para las células procariontes, que no tienen núcleo; la tercera lo es para la mayoría de las células de un organismo pluricelular, que dependen del conjunto; y la cuarta enuncia precisamente la generación espontánea que el postulado vino a descartar. Un afiche exige precisión, porque una frase inexacta se memoriza tal cual.",
+    "saber_hacer": "Hay que verificar que la formulación breve siga siendo universalmente verdadera. Dato para la PAES: el postulado no menciona núcleo ni independencia."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "Las células procariontes no tienen núcleo y siguen siendo células."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "La mayoría de las células de un pluricelular no vive de forma independiente."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Enuncia la generación espontánea, que el postulado descarta."
+    }
+   }
+  },
+  {
+   "tema": "b-como-se-construyo",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Robert Hooke observó en 1665 cortes de corcho al microscopio y llamó «celdas» a los compartimentos que vio. ¿Qué estaba observando en realidad?",
+   "alternativas": [
+    "Células vegetales vivas en plena división.",
+    "Núcleos de células animales teñidos con colorante.",
+    "Microorganismos adheridos a la superficie del corcho.",
+    "Paredes celulares vacías de un tejido vegetal muerto."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: interpretar correctamente un hallazgo histórico a la luz del conocimiento actual.",
+    "concepto": "Según la sección, el corcho es tejido muerto y lo que Hooke observó fueron las paredes de celulosa que delimitaban espacios vacíos.",
+    "desarrollo": "Por eso el nombre que eligió aludía a las celdas de un monasterio: lo que llamaba la atención eran los huecos, no el contenido. Hooke no vio material vivo ni supo qué función cumplían esas estructuras. Las primeras células vivas, los llamados animálculos, las observó van Leeuwenhoek pocos años después con lentes de mayor aumento.",
+    "saber_hacer": "Hay que distinguir lo que se observó de lo que hoy sabemos que era. Dato para la PAES: Hooke vio paredes vacías; van Leeuwenhoek, células vivas."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "El corcho es tejido muerto: no había células en división."
+    },
+    "B": {
+     "tipo": "anacronismo",
+     "texto": "Las técnicas de tinción y el núcleo se describieron mucho después."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "Los microorganismos los observó van Leeuwenhoek, no Hooke."
+    }
+   }
+  },
+  {
+   "tema": "b-como-se-construyo",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Los avances de la teoría celular dependieron de mejoras técnicas en los microscopios. ¿Cuál de las siguientes preguntas de investigación refleja mejor esa relación?",
+   "alternativas": [
+    "¿Cómo influyó la resolución del microscopio en las estructuras descritas?",
+    "¿Quién fue el primero en publicar un libro con dibujos hechos al microscopio?",
+    "¿Cuántos microscopios llegaron a fabricarse en Europa durante el siglo XVII?",
+    "¿En qué ciudad vivía cada uno de los autores que formularon la teoría celular?"
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular una pregunta que relacione dos variables y sea investigable.",
+    "concepto": "Según la sección, cada salto en la construcción de la teoría celular siguió a una mejora en los instrumentos de observación.",
+    "desarrollo": "La pregunta correcta relaciona una variable técnica, el poder de resolución, con una consecuencia observable, las estructuras descritas. Las demás piden datos históricos puntuales que se responden consultando un registro y que no establecen ninguna relación entre variables. Distinguir una pregunta relacional de una pregunta de dato es una destreza que la prueba evalúa de forma habitual.",
+    "saber_hacer": "Hay que preferir preguntas que vinculen una variable con otra. Dato para la PAES: si la respuesta es un nombre o un número aislado, no es una pregunta de investigación."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "Pide un dato histórico puntual, sin relación entre variables."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Es un recuento que no explica ningún avance conceptual."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La ubicación geográfica no explica el progreso del conocimiento."
+    }
+   }
+  },
+  {
+   "tema": "b-como-se-construyo",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Un equipo quiere reproducir la observación de van Leeuwenhoek sobre los microorganismos de una infusión vegetal. ¿Qué procedimiento es el más adecuado?",
+   "alternativas": [
+    "Hervir la infusión y observarla de inmediato al microscopio.",
+    "Dejar reposar la infusión varios días al aire y observar muestras sucesivas al microscopio.",
+    "Filtrar la infusión con papel y observar solo el líquido filtrado.",
+    "Secar la infusión al sol y observar el residuo sólido al microscopio."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: seleccionar el procedimiento que permite obtener la observación buscada.",
+    "concepto": "Según la sección, van Leeuwenhoek observó organismos vivos y móviles en infusiones dejadas al ambiente, donde las poblaciones microbianas se multiplican.",
+    "desarrollo": "El reposo al aire durante varios días permite que esas poblaciones crezcan hasta ser visibles, y tomar muestras sucesivas muestra además el aumento en el tiempo. Hervir e inmediatamente observar destruye los microorganismos, filtrar retiene buena parte de ellos y secar al sol mata las células y elimina el medio líquido donde se mueven.",
+    "saber_hacer": "Hay que elegir el procedimiento que conserva y favorece lo que se quiere observar. Dato para la PAES: hervir y filtrar son justamente los pasos que eliminan microorganismos."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "condición incompleta",
+     "texto": "El hervor destruye los microorganismos que se quieren observar."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "La filtración retiene gran parte de los microorganismos."
+    },
+    "D": {
+     "tipo": "condición incompleta",
+     "texto": "El secado mata las células y elimina el medio donde se desplazan."
+    }
+   }
+  },
+  {
+   "tema": "c-el-experimento-que-cerro-la-discusion",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "En el experimento del cuello de cisne, Pasteur hirvió caldo en matraces cuyo cuello curvado dejaba entrar el aire pero retenía las partículas. ¿Por qué ese diseño era mejor que sellar el matraz herméticamente?",
+   "alternativas": [
+    "Porque permitía hervir el caldo durante un tiempo más prolongado.",
+    "Porque el vidrio curvado mejora la esterilización por calor del contenido.",
+    "Porque dejaba entrar aire y descartaba la objeción de que faltaba el aire necesario para la vida.",
+    "Porque evitaba que el caldo se evaporara durante los meses del experimento."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: reconocer cómo un diseño elimina una variable confundida.",
+    "concepto": "Según la sección, quienes defendían la generación espontánea sostenían que el aire era imprescindible para que surgiera la vida en el caldo.",
+    "desarrollo": "Un matraz sellado habría cambiado dos cosas a la vez: la llegada de partículas y la presencia de aire. El cuello de cisne mantiene el aire y hace variar solo la llegada de partículas, de modo que el resultado admite una única interpretación. Las otras alternativas mencionan efectos secundarios que no tienen que ver con la lógica del control experimental.",
+    "saber_hacer": "Hay que identificar la variable que el diseño mantiene constante a propósito. Dato para la PAES: un buen control conserva lo que la hipótesis rival considera necesario."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "El tiempo de hervor no depende de la forma del cuello."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La curvatura del vidrio no mejora la esterilización."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La evaporación no es la variable en discusión."
+    }
+   }
+  },
+  {
+   "tema": "c-el-experimento-que-cerro-la-discusion",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Al romper el cuello curvado de uno de los matraces de Pasteur, el caldo se contaminó en pocos días, mientras que el matraz intacto permaneció estéril. ¿Qué función cumple el matraz intacto en ese experimento?",
+   "alternativas": [
+    "Es el grupo control, que permite atribuir la contaminación a la entrada de partículas.",
+    "Es el grupo experimental, porque en él se aplica el tratamiento en estudio.",
+    "Es una réplica del grupo experimental, que aumenta la confiabilidad del resultado.",
+    "Es una medición basal previa al inicio del experimento."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: identificar los componentes de un diseño experimental.",
+    "concepto": "Según la sección, el matraz cuyo cuello permanece intacto no recibe la intervención y sirve de referencia para interpretar lo que ocurre en el otro.",
+    "desarrollo": "El tratamiento consiste en romper el cuello, de modo que el matraz roto es el grupo experimental y el intacto, el control. Sin esa referencia no se podría descartar que la contaminación se debiera al paso del tiempo o a la temperatura ambiente. Una réplica sería otro matraz con el mismo tratamiento, y una medición basal se toma antes de intervenir, no en paralelo.",
+    "saber_hacer": "Hay que distinguir control, grupo experimental, réplica y medición basal. Dato para la PAES: el control es el que no recibe el tratamiento."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El tratamiento es romper el cuello, y ese matraz lo conserva intacto."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "Una réplica recibiría el mismo tratamiento que el grupo experimental."
+    },
+    "D": {
+     "tipo": "anacronismo",
+     "texto": "Una medición basal se toma antes de intervenir, no en paralelo."
+    }
+   }
+  },
+  {
+   "tema": "c-el-experimento-que-cerro-la-discusion",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante sostiene que el experimento de Pasteur no es concluyente porque el hervor pudo destruir una «fuerza vital» presente en el caldo. ¿Cómo responde mejor el propio diseño del experimento a esa objeción?",
+   "alternativas": [
+    "El hervor no modifica en absoluto la composición química del caldo de cultivo.",
+    "Ambos matraces fueron hervidos igual y solo se contaminó el de cuello roto.",
+    "La objeción es imposible de responder con los datos del experimento.",
+    "El caldo hervido nunca permite el crecimiento de microorganismos."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: examinar si un diseño experimental responde a una objeción determinada.",
+    "concepto": "Según la sección, el control del experimento consiste en que ambos matraces reciben exactamente el mismo tratamiento térmico.",
+    "desarrollo": "Si el hervor hubiera destruido algo esencial, ninguno de los dos matraces debería haberse contaminado; sin embargo, el de cuello roto sí lo hizo. Esa asimetría refuta directamente la objeción. La primera alternativa afirma algo falso, porque el calor sí modifica el caldo, y la última contradice el propio resultado observado, que muestra crecimiento en el caldo hervido tras romper el cuello.",
+    "saber_hacer": "Hay que buscar en el diseño el elemento que responde a la objeción. Dato para la PAES: si ambos grupos reciben un tratamiento, ese tratamiento no explica la diferencia."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "El calor sí modifica la composición química del caldo."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "El propio diseño contiene la respuesta a la objeción."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El caldo hervido sí se contaminó al romperse el cuello."
+    }
+   }
+  },
+  {
+   "tema": "d-las-excepciones-aparentes",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Se afirma que los virus constituyen una excepción a la teoría celular. ¿Cuál es la evaluación más precisa de esa afirmación?",
+   "alternativas": [
+    "Es correcta, porque los virus son células sin membrana plasmática.",
+    "Es incorrecta, porque los virus no son células y por eso quedan fuera del alcance de la teoría.",
+    "Es correcta, porque los virus se originan a partir de moléculas libres del medio.",
+    "Es incorrecta, porque los virus poseen metabolismo propio como cualquier célula."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: determinar si un caso cae dentro del alcance de un modelo teórico.",
+    "concepto": "Según la sección, un virus tiene material genético y una cubierta proteica, pero carece de citoplasma con metabolismo y de ribosomas propios.",
+    "desarrollo": "No siendo células, no pueden constituir una excepción a una teoría que habla de células: simplemente no están comprendidos en ella. Decir que poseen metabolismo propio contradice el hecho de que dependen por completo de la maquinaria de una célula hospedera, y sostener que se originan desde moléculas libres reintroduce la generación espontánea ya descartada.",
+    "saber_hacer": "Hay que delimitar el alcance de una teoría antes de hablar de excepciones. Dato para la PAES: un virus no es una célula, así que no refuta la teoría celular."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Un virus no es una célula incompleta: carece de citoplasma y ribosomas."
+    },
+    "C": {
+     "tipo": "anacronismo",
+     "texto": "Reintroduce la generación espontánea, descartada desde Pasteur."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Los virus dependen por completo de la maquinaria de la célula hospedera."
+    }
+   }
+  },
+  {
+   "tema": "d-las-excepciones-aparentes",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "El tercer postulado afirma que toda célula proviene de otra célula. ¿Por qué la pregunta por el origen de la primera célula no constituye una contradicción con ese postulado?",
+   "alternativas": [
+    "Porque la primera célula también provino de otra célula anterior a ella.",
+    "Porque no existió nunca una primera célula: siempre hubo células vivas.",
+    "Porque el postulado solo se aplica a las células de los organismos pluricelulares.",
+    "Porque la teoría trata de las células actuales, no del origen de la vida."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: delimitar qué pregunta responde un enunciado teórico y cuál no.",
+    "concepto": "Según la sección, la teoría celular explica el origen de las células en el mundo vivo actual, mientras que el origen de la primera célula pertenece al estudio del origen de la vida.",
+    "desarrollo": "Son dos problemas separados, investigados con métodos distintos, y por eso no hay contradicción. Afirmar que la primera célula provino de otra célula anterior desplaza el problema sin resolverlo, y sostener que siempre hubo células contradice la evidencia geológica. El postulado, además, se aplica a todas las células, no solo a las de los pluricelulares.",
+    "saber_hacer": "Hay que reconocer los límites de aplicación de una teoría. Dato para la PAES: el origen de la vida es una pregunta aparte de la teoría celular."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Desplaza el problema en lugar de resolverlo."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "La evidencia geológica indica que hubo un planeta sin vida."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "El postulado se aplica a todas las células, incluidas las de unicelulares."
+    }
+   }
+  },
+  {
+   "tema": "d-las-excepciones-aparentes",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Se quiere investigar si una estructura recién descrita en una muestra ambiental es una célula o una partícula viral. ¿Cuál es la observación que mejor permite decidirlo?",
+   "alternativas": [
+    "Determinar si la estructura posee ribosomas y realiza metabolismo propio.",
+    "Determinar si la estructura contiene material genético propio en su interior.",
+    "Determinar si la estructura mide menos de un micrómetro de diámetro máximo.",
+    "Determinar si la estructura aparece asociada a los tejidos de otro organismo."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: escoger la observación que discrimina entre dos posibilidades.",
+    "concepto": "Según la sección, lo que separa a una célula de un virus es la presencia de ribosomas propios y de un metabolismo que funciona sin depender de una hospedera.",
+    "desarrollo": "El material genético está en ambos, de modo que buscarlo no decide nada. El tamaño tampoco sirve como criterio único, porque existen bacterias muy pequeñas y virus relativamente grandes. Y la asociación a tejidos es común tanto para virus como para bacterias, incluidas las que viven en simbiosis. Solo la segunda observación separa los dos casos.",
+    "saber_hacer": "Hay que elegir la observación que distingue y no la que ambos casos comparten. Dato para la PAES: ribosomas y metabolismo propio son el criterio decisivo."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Tanto las células como los virus contienen material genético."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "El tamaño se superpone entre virus grandes y bacterias pequeñas."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Virus y bacterias pueden aparecer asociados a tejidos."
+    }
+   }
+  },
+  {
+   "tema": "5-unidad-y-diversidad-celular",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Todas las células conocidas comparten membrana plasmática, citoplasma, material genético y ribosomas, pese a la enorme diversidad de formas y tamaños. ¿Qué conclusión se desprende mejor de ese hecho?",
+   "alternativas": [
+    "Que todas las células actuales tienen el mismo tamaño aproximado.",
+    "Que la diversidad celular es un fenómeno reciente en la historia de la vida.",
+    "Que las células adquieren esas estructuras del ambiente que las rodea.",
+    "Que todos los seres vivos comparten un ancestro común."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: extraer la conclusión que mejor explica un patrón compartido.",
+    "concepto": "Según la sección, la coincidencia de esas cuatro estructuras en todos los linajes celulares se interpreta como evidencia de ascendencia común.",
+    "desarrollo": "Si cada grupo hubiera surgido por separado, sería muy improbable que todos coincidieran en el mismo plan básico. El tamaño, en cambio, varía enormemente entre procariontes y eucariontes, así que la primera alternativa contradice los datos. La antigüedad de la diversidad no se deduce de este hecho, y las células no toman sus estructuras del ambiente: las heredan de la célula madre.",
+    "saber_hacer": "Hay que interpretar un rasgo universal como señal de origen común. Dato para la PAES: lo compartido por todos los linajes apunta a ancestría, no a coincidencia."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Los tamaños celulares varían en dos órdenes de magnitud."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "La antigüedad de la diversidad no se deduce de este dato."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Las células heredan sus estructuras de la célula que las originó."
+    }
+   }
+  },
+  {
+   "tema": "5-unidad-y-diversidad-celular",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Un equipo dispone de una muestra celular desconocida y quiere clasificarla como procarionte o eucarionte. ¿Qué procedimiento resuelve la pregunta de manera más directa?",
+   "alternativas": [
+    "Medir el diámetro promedio de las células con un ocular micrométrico calibrado.",
+    "Determinar si las células realizan fotosíntesis en presencia de luz.",
+    "Teñir el material genético y observar si está delimitado por una envoltura.",
+    "Comprobar si las células poseen una pared celular resistente a la presión osmótica."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger el procedimiento que mide directamente el criterio de clasificación.",
+    "concepto": "Según la sección, lo único que separa de manera sistemática a los dos grupos es la presencia o ausencia de una envoltura nuclear que rodee el material genético.",
+    "desarrollo": "Por eso teñir el ADN y observar si está delimitado responde la pregunta de forma directa. El tamaño solo da una orientación estadística y se superpone entre grupos; la fotosíntesis existe en procariontes y en eucariontes, igual que la pared celular. Ninguno de esos tres rasgos permite una clasificación segura.",
+    "saber_hacer": "Hay que medir el criterio definitorio y no un rasgo correlacionado. Dato para la PAES: pared, fotosíntesis y tamaño no separan procariontes de eucariontes."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Los rangos de tamaño se superponen entre los dos grupos."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "Hay procariontes y eucariontes fotosintéticos."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "La pared celular existe en bacterias, plantas y hongos."
+    }
+   }
+  },
+  {
+   "tema": "a-lo-que-todas-las-celulas-comparten",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Una célula recién descrita carece de mitocondrias, de aparato de Golgi y de núcleo delimitado. ¿Qué estructuras debe poseer de todos modos para ser considerada una célula?",
+   "alternativas": [
+    "Membrana plasmática, citoplasma, material genético y ribosomas.",
+    "Núcleo, retículo endoplasmático, citoesqueleto y ribosomas.",
+    "Pared celular, cloroplastos, vacuola central y citoplasma.",
+    "Membrana plasmática, mitocondrias, lisosomas y material genético."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: aplicar el criterio de lo que define a una célula a un caso concreto.",
+    "concepto": "Según la sección, las cuatro estructuras presentes en absolutamente todas las células son membrana plasmática, citoplasma, material genético y ribosomas.",
+    "desarrollo": "La descripción corresponde a una célula procarionte, que carece de organelos membranosos y de envoltura nuclear pero conserva esas cuatro. Las otras alternativas incluyen componentes exclusivos de los eucariontes, como el núcleo, el retículo o los lisosomas, o bien exclusivos de algunos grupos, como los cloroplastos y la vacuola central de las células vegetales.",
+    "saber_hacer": "Hay que separar lo universal de lo característico de un grupo. Dato para la PAES: solo esas cuatro estructuras están en todas las células."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "Núcleo, retículo y citoesqueleto son exclusivos de los eucariontes."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "Cloroplastos y vacuola central son propios de las células vegetales."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "Mitocondrias y lisosomas faltan en las células procariontes."
+    }
+   }
+  },
+  {
+   "tema": "a-lo-que-todas-las-celulas-comparten",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Un equipo quiere investigar por qué los ribosomas están presentes en todas las células conocidas. ¿Cuál de las siguientes preguntas orienta mejor esa investigación?",
+   "alternativas": [
+    "¿Cuántos ribosomas tiene en promedio una célula hepática humana?",
+    "¿En qué año se describieron los ribosomas por primera vez?",
+    "¿De qué color se ven los ribosomas con las tinciones habituales?",
+    "¿Qué función cumplen los ribosomas y por qué ninguna célula puede prescindir de ella?"
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que aborda la causa del patrón observado.",
+    "concepto": "Según la sección, los ribosomas son universales porque en ellos se fabrican las proteínas, y ninguna célula puede funcionar sin sintetizar proteínas propias.",
+    "desarrollo": "La pregunta correcta apunta exactamente a esa función y a su carácter imprescindible. Contar ribosomas en un tipo celular entrega un dato descriptivo, la fecha de descripción es un hecho histórico y el color de tinción es una propiedad de la técnica. Ninguna de esas tres preguntas explica la universalidad observada.",
+    "saber_hacer": "Hay que orientar la pregunta hacia la función que explica el patrón. Dato para la PAES: lo universal se explica por lo imprescindible."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Un recuento en un tipo celular no explica la universalidad."
+    },
+    "B": {
+     "tipo": "anacronismo",
+     "texto": "Es un dato histórico, no una explicación funcional."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Describe una propiedad de la técnica de tinción."
+    }
+   }
+  },
+  {
+   "tema": "a-lo-que-todas-las-celulas-comparten",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante concluye que, como todas las células tienen membrana plasmática, la membrana debe ser la estructura que contiene la información hereditaria. ¿Cuál es el principal error de ese razonamiento?",
+   "alternativas": [
+    "Que la membrana plasmática no está presente en las células procariontes.",
+    "Que ser universal no implica cumplir una función determinada: la información está en el ADN.",
+    "Que la información hereditaria no se encuentra en ninguna estructura celular.",
+    "Que la membrana plasmática solo aparece en las células de los pluricelulares."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: detectar un salto lógico entre una observación y una conclusión.",
+    "concepto": "Según la sección, las cuatro estructuras universales cumplen funciones distintas: la membrana separa y controla el intercambio, y el material genético guarda las instrucciones.",
+    "desarrollo": "El razonamiento confunde universalidad con función: el hecho de que algo esté en todas las células no dice nada sobre qué hace. Las otras alternativas contienen errores factuales, porque la membrana sí está en procariontes y en unicelulares, y la información hereditaria sí reside en una estructura concreta, el material genético.",
+    "saber_hacer": "Hay que separar la pregunta «¿está en todas?» de la pregunta «¿qué hace?». Dato para la PAES: universalidad y función son atributos independientes."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Las células procariontes sí tienen membrana plasmática."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "La información hereditaria reside en el material genético."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La membrana está también en los organismos unicelulares."
+    }
+   }
+  },
+  {
+   "tema": "b-dos-grandes-tipos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Una muestra contiene células de tres micrómetros, con ADN circular sin envoltura y sin organelos membranosos, que se dividen cada cuarenta minutos. ¿Cómo se clasifican esas células?",
+   "alternativas": [
+    "Como eucariontes, porque se dividen con mucha rapidez, cada cuarenta minutos.",
+    "Como eucariontes, porque su tamaño supera con holgura un solo micrómetro.",
+    "Como procariontes, porque su ADN no está delimitado por una envoltura.",
+    "Como procariontes, porque se encuentran en una muestra ambiental de agua."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: aplicar un criterio de clasificación a un conjunto de datos.",
+    "concepto": "Según la sección, el criterio que separa a procariontes de eucariontes es la presencia o ausencia de una envoltura nuclear que rodee el material genético.",
+    "desarrollo": "El dato decisivo es «ADN circular sin envoltura» junto con la ausencia de organelos membranosos, y ambos apuntan a un procarionte. La velocidad de división y el tamaño no son criterios válidos, porque hay eucariontes pequeños y de división rápida, como las levaduras. El origen ambiental de la muestra tampoco clasifica nada: en el ambiente hay células de los dos tipos.",
+    "saber_hacer": "Hay que responder con el criterio correcto aunque la conclusión coincida. Dato para la PAES: una clave acertada con justificación errónea también es incorrecta."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "La velocidad de división no distingue los dos grupos."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "Hay eucariontes pequeños y procariontes relativamente grandes."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "En el ambiente hay células de ambos tipos."
+    }
+   }
+  },
+  {
+   "tema": "b-dos-grandes-tipos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se dispone de un microscopio óptico con tinción para ADN y de un microscopio electrónico. Para decidir si unas células poseen organelos membranosos internos, ¿qué instrumento y qué observación corresponden?",
+   "alternativas": [
+    "El microscopio óptico, observando el color que adquiere el citoplasma.",
+    "El microscopio electrónico, observando la presencia de compartimentos rodeados de membrana.",
+    "El microscopio óptico, midiendo el diámetro celular con precisión.",
+    "El microscopio electrónico, contando el número total de células de la muestra."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: asociar un instrumento a la variable que permite observar.",
+    "concepto": "Según la sección, los organelos membranosos son estructuras internas cuya resolución exige microscopía electrónica, muy superior a la del microscopio óptico.",
+    "desarrollo": "La observación adecuada es, además, la presencia de compartimentos delimitados por membrana, que es exactamente lo que define un organelo membranoso. El color del citoplasma depende del colorante empleado y no informa sobre compartimentos, el diámetro no resuelve la pregunta y contar células es una medición ajena al objetivo.",
+    "saber_hacer": "Hay que hacer coincidir el instrumento con la escala de lo que se quiere ver. Dato para la PAES: los organelos se resuelven con microscopía electrónica."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "El color depende del colorante y no revela compartimentos."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "El diámetro no informa sobre la organización interna."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "El número de células es ajeno a la pregunta planteada."
+    }
+   }
+  },
+  {
+   "tema": "b-dos-grandes-tipos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Se comparan una bacteria y una célula vegetal. Ambas poseen pared celular. ¿Qué permite concluir esa coincidencia?",
+   "alternativas": [
+    "Que ambas células pertenecen a un mismo grupo celular, el de los organismos procariontes.",
+    "Que la célula vegetal carece, como la bacteria, de envoltura nuclear.",
+    "Que ambas células tienen el mismo tamaño y la misma forma.",
+    "Que la pared celular no sirve como criterio para separar procariontes de eucariontes."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: determinar qué se puede y qué no se puede concluir a partir de un rasgo compartido.",
+    "concepto": "Según la sección, la pared celular aparece en bacterias, en plantas y en hongos, de modo que atraviesa la división entre procariontes y eucariontes.",
+    "desarrollo": "Un rasgo presente en los dos grupos no puede usarse para distinguirlos, y ese es exactamente el punto que la comparación deja en evidencia. Concluir que la célula vegetal es procarionte, o que carece de envoltura nuclear, contradice todo lo que se sabe de las células de las plantas, que son eucariontes típicos. El tamaño y la forma, por su parte, difieren claramente entre una bacteria de pocos micrómetros y una célula vegetal diez veces mayor.",
+    "saber_hacer": "Hay que preguntarse si un rasgo compartido sirve o no como criterio de clasificación. Dato para la PAES: un carácter presente en ambos grupos nunca los separa."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "La célula vegetal es eucarionte pese a tener pared."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Las células vegetales sí poseen envoltura nuclear."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "Tamaño y forma difieren notoriamente entre ambas."
+    }
+   }
+  },
+  {
+   "tema": "c-unicelulares-y-pluricelulares",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Una levadura es un hongo unicelular eucarionte. ¿Qué implica su condición de unicelular respecto de sus funciones vitales?",
+   "alternativas": [
+    "Que una sola célula realiza todas las funciones vitales del organismo.",
+    "Que necesita asociarse a otras levaduras para poder reproducirse.",
+    "Que sus células se diferencian en tejidos con funciones especializadas.",
+    "Que carece de núcleo delimitado por envoltura nuclear."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: derivar consecuencias funcionales de una clasificación.",
+    "concepto": "Según la sección, en un organismo unicelular la célula y el organismo coinciden, de modo que esa única célula se nutre, responde a estímulos y se reproduce.",
+    "desarrollo": "En un organismo unicelular no hay reparto del trabajo ni tejidos, porque la especialización requiere muchas células diferenciadas que convivan en un mismo individuo. Tampoco se sigue nada sobre el núcleo: ser unicelular y ser procarionte son propiedades completamente independientes entre sí, y la levadura es justamente un eucarionte unicelular, con núcleo y organelos membranosos. Ese último punto es el que la prueba suele explotar para construir distractores atractivos.",
+    "saber_hacer": "Hay que mantener separadas las dos clasificaciones. Dato para la PAES: unicelular no significa procarionte."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Una levadura se reproduce por gemación sin asociarse a otras."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "La diferenciación en tejidos requiere un organismo pluricelular."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "Confunde la condición de unicelular con la de procarionte."
+    }
+   }
+  },
+  {
+   "tema": "c-unicelulares-y-pluricelulares",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Todas las células de un organismo pluricelular tienen el mismo ADN, pero una neurona y una célula muscular son muy distintas. ¿Qué pregunta de investigación aborda mejor esa diferencia?",
+   "alternativas": [
+    "¿Cuántos genes contiene el genoma humano en total?",
+    "¿En qué momento exacto del desarrollo embrionario aparece la primera neurona?",
+    "¿Cuánto pesa una célula muscular esquelética comparada con el de una neurona?",
+    "¿Qué mecanismos determinan cuáles genes se expresan en cada tipo celular?"
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que aborda la causa de la diferencia observada.",
+    "concepto": "Según la sección, la diferenciación celular no modifica el contenido del ADN, sino qué genes se activan y cuáles permanecen silenciados en cada tipo celular.",
+    "desarrollo": "La pregunta correcta apunta justamente a esos mecanismos de regulación. Contar genes del genoma o pesar células entrega datos descriptivos que no explican la diferencia, y preguntar cuándo aparece la primera neurona aborda la cronología del desarrollo sin tocar la causa de la especialización.",
+    "saber_hacer": "Hay que dirigir la pregunta al mecanismo y no al dato. Dato para la PAES: mismo genoma, distinta expresión génica."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Un recuento de genes no explica la diferencia entre tipos celulares."
+    },
+    "B": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Aborda la cronología, no la causa de la especialización."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "La masa celular no explica la diferenciación."
+    }
+   }
+  },
+  {
+   "tema": "c-unicelulares-y-pluricelulares",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Un equipo quiere comprobar que dos tipos celulares de un mismo organismo tienen idéntico ADN pero expresan genes distintos. ¿Qué par de mediciones debe realizar?",
+   "alternativas": [
+    "Medir el tamaño de los dos tipos celulares y contar sus mitocondrias al microscopio electrónico.",
+    "Secuenciar el ADN de ambos tipos y medir su velocidad de división.",
+    "Secuenciar el ADN de ambos tipos y comparar el conjunto de proteínas que producen.",
+    "Contar los cromosomas de ambos tipos y medir su consumo de oxígeno."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: seleccionar las mediciones que ponen a prueba las dos partes de una afirmación.",
+    "concepto": "Según la sección, la diferenciación implica un genoma idéntico y conjuntos de proteínas distintos en cada tipo celular.",
+    "desarrollo": "La afirmación tiene dos partes y cada una exige su propia medición: secuenciar el ADN comprueba la identidad del genoma, y comparar las proteínas producidas comprueba la diferencia de expresión. Las demás alternativas miden a lo sumo una de las dos partes, o ninguna, y agregan variables como el tamaño, la velocidad de división o el consumo de oxígeno, que no informan sobre la expresión génica.",
+    "saber_hacer": "Hay que cubrir cada parte de la afirmación con una medición propia. Dato para la PAES: afirmación con dos partes, diseño con dos mediciones."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Ninguna de las dos mediciones informa sobre el ADN ni sobre la expresión."
+    },
+    "B": {
+     "tipo": "condición incompleta",
+     "texto": "Comprueba el genoma idéntico, pero no la diferencia de expresión."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "El recuento de cromosomas y el consumo de oxígeno no miden expresión génica."
+    }
+   }
+  },
+  {
+   "tema": "d-la-forma-sigue-a-la-funcion",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Una célula presenta la cara libre cubierta de prolongaciones finas y numerosas que multiplican varias veces su superficie. ¿Qué función se infiere con mayor respaldo?",
+   "alternativas": [
+    "Contracción rápida en un solo eje.",
+    "Conducción de señales a larga distancia.",
+    "Almacenamiento de agua en su interior.",
+    "Absorción de nutrientes desde el medio."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: inferir una función a partir de un rasgo estructural.",
+    "concepto": "Según la sección, la forma de una célula corresponde a la tarea que cumple, y una superficie muy aumentada apunta a intercambio o absorción.",
+    "desarrollo": "Es el caso del enterocito y sus microvellosidades, que multiplican la superficie disponible para captar nutrientes. La contracción requiere filamentos ordenados en un eje, la conducción de señales exige prolongaciones largas y no numerosas prolongaciones cortas, y el almacenamiento de agua se resuelve con una vacuola grande y no con relieve en la superficie.",
+    "saber_hacer": "Hay que traducir un rasgo estructural en una ventaja funcional. Dato para la PAES: mucha superficie significa absorción o intercambio."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "La contracción requiere filamentos ordenados, no relieve superficial."
+    },
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "La conducción exige prolongaciones largas, no muchas y cortas."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "El almacenamiento de agua depende de una vacuola, no de la superficie."
+    }
+   }
+  },
+  {
+   "tema": "d-la-forma-sigue-a-la-funcion",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere poner a prueba la hipótesis de que las células con mayor gasto de energía contienen más mitocondrias. ¿Qué diseño lo evalúa mejor?",
+   "alternativas": [
+    "Contar mitocondrias en varios tipos celulares y comparar con su consumo de oxígeno.",
+    "Contar mitocondrias en un solo tipo celular en dos momentos del día.",
+    "Medir el consumo de oxígeno de varios tipos celulares durante una hora.",
+    "Medir el diámetro de las mitocondrias de un tejido muy activo."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: diseñar la comparación que relaciona las dos variables de la hipótesis.",
+    "concepto": "Según la sección, la relación entre forma y función se pone a prueba comparando tipos celulares con demandas distintas.",
+    "desarrollo": "La hipótesis vincula dos variables, el número de mitocondrias y el gasto energético, de modo que hay que medir ambas en varios tipos celulares y buscar la relación. Medir solo el consumo de oxígeno deja fuera una de las variables, contar en un único tipo celular impide comparar, y el diámetro de las mitocondrias no es la variable enunciada en la hipótesis.",
+    "saber_hacer": "Hay que medir ambas variables y en varios casos. Dato para la PAES: una hipótesis relacional necesita variación en los dos lados."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "condición incompleta",
+     "texto": "Un solo tipo celular no permite comparar demandas energéticas distintas."
+    },
+    "C": {
+     "tipo": "condición incompleta",
+     "texto": "Deja fuera el recuento de mitocondrias, una de las dos variables."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "El diámetro no es la variable enunciada en la hipótesis."
+    }
+   }
+  },
+  {
+   "tema": "d-la-forma-sigue-a-la-funcion",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Se observa una célula con una prolongación única y muy larga, que se extiende desde el cuerpo celular hasta una estructura situada a gran distancia. ¿Qué función se infiere con mayor respaldo?",
+   "alternativas": [
+    "Absorber nutrientes desde el líquido que la rodea.",
+    "Conducir señales entre puntos distantes del cuerpo.",
+    "Almacenar sustancias de reserva en su interior.",
+    "Secretar grandes cantidades de proteínas al exterior."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: derivar una hipótesis funcional a partir de una observación estructural.",
+    "concepto": "Según la sección, las prolongaciones largas permiten conectar puntos distantes del cuerpo, y esa es la forma característica de la neurona.",
+    "desarrollo": "Una prolongación única y extensa no aumenta de manera relevante la superficie de absorción ni sirve para acumular reservas, tareas que exigen otras formas. La secreción intensa de proteínas se asocia a un citoplasma con mucho retículo rugoso y aparato de Golgi desarrollado, y no a una prolongación larga. La estructura observada apunta con claridad a la conducción de señales.",
+    "saber_hacer": "Hay que asociar longitud con comunicación a distancia. Dato para la PAES: una prolongación larga y única sugiere una neurona."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "La absorción requiere muchas prolongaciones cortas, no una larga."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "El almacenamiento se asocia a vacuolas o gotas de reserva."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "La secreción intensa se asocia a retículo rugoso y Golgi desarrollados."
+    }
+   }
+  },
+  {
+   "tema": "6-caracteristicas-de-los-sistemas-biologicos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un objeto presenta organización interna, aumenta de tamaño de manera regular y mantiene una forma característica, pero no intercambia materia con su entorno ni deja descendencia. ¿Qué se concluye sobre él?",
+   "alternativas": [
+    "Está vivo, porque presenta organización interna y crecimiento regular.",
+    "No está vivo, porque le faltan el metabolismo y la reproducción.",
+    "Está vivo, porque mantiene siempre una forma propia y característica.",
+    "No está vivo, porque ningún objeto con forma regular puede estar vivo."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: aplicar un conjunto de criterios a un caso y decidir con los datos disponibles.",
+    "concepto": "Según la sección, lo vivo se reconoce por un conjunto de características que aparecen juntas, entre ellas metabolismo, homeostasis y reproducción.",
+    "desarrollo": "La descripción corresponde a un cristal: crece sumando material desde fuera y conserva su forma, pero no transforma materia ni deja descendencia. Dos características presentes no bastan, porque el criterio exige el paquete completo. La última alternativa, en cambio, afirma algo falso, ya que todos los seres vivos son objetos altamente organizados.",
+    "saber_hacer": "Hay que exigir el conjunto completo antes de concluir. Dato para la PAES: organización y crecimiento aislados también los tiene un cristal."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "Dos características no bastan: el criterio exige el conjunto."
+    },
+    "C": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Muchos objetos inanimados conservan una forma característica."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "Todos los seres vivos son precisamente objetos muy organizados."
+    }
+   }
+  },
+  {
+   "tema": "6-caracteristicas-de-los-sistemas-biologicos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante afirma que el crecimiento sirve por sí solo para distinguir un ser vivo de un objeto inanimado. ¿Cuál es la mejor evaluación de esa afirmación?",
+   "alternativas": [
+    "Es incorrecta, porque un cristal también aumenta de tamaño sin estar vivo.",
+    "Es correcta, porque solo los seres vivos aumentan de tamaño.",
+    "Es correcta, porque el crecimiento requiere siempre disponer de material genético.",
+    "Es incorrecta, porque los seres vivos nunca aumentan de tamaño con el paso del tiempo."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: juzgar si un criterio permite discriminar entre dos categorías.",
+    "concepto": "Según la sección, el crecimiento de un ser vivo se distingue porque incorpora materia, la transforma y la integra a su propia estructura.",
+    "desarrollo": "Un cristal o una estalactita aumentan de tamaño por simple adición de material en la superficie, sin transformarlo. Por eso el aumento de tamaño, tomado aisladamente, no separa lo vivo de lo inerte: lo que lo separa es el modo en que ocurre. La última alternativa niega un hecho evidente, ya que los seres vivos sí crecen.",
+    "saber_hacer": "Hay que examinar el mecanismo y no solo el resultado observable. Dato para la PAES: lo decisivo es cómo se incorpora la materia, no que el tamaño aumente."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Los cristales y las estalactitas también aumentan de tamaño."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "El crecimiento de un cristal no requiere material genético."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Los seres vivos sí aumentan de tamaño durante su desarrollo."
+    }
+   }
+  },
+  {
+   "tema": "a-las-siete-caracteristicas",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Al pasar de un ambiente oscuro a uno muy iluminado, la pupila se contrae en fracciones de segundo. ¿Qué característica de los seres vivos ilustra esa respuesta?",
+   "alternativas": [
+    "La irritabilidad, es decir, la capacidad de detectar estímulos y responder.",
+    "La reproducción, porque el ojo genera constantemente nuevas células receptoras.",
+    "La adaptación evolutiva, porque el ojo humano ha cambiado con las generaciones.",
+    "El crecimiento, porque el músculo del iris aumenta con rapidez su tamaño total."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: asignar un fenómeno observado a la característica que lo describe.",
+    "concepto": "Según la sección, la irritabilidad es la capacidad de detectar un estímulo del medio y responder a él.",
+    "desarrollo": "La contracción pupilar ocurre en fracciones de segundo, dentro de un mismo individuo y de forma reversible, así que corresponde a irritabilidad. La adaptación evolutiva se da en poblaciones y a lo largo de generaciones, la reproducción implica generar nuevos individuos y el crecimiento supone un aumento de tamaño sostenido, no una contracción momentánea de un músculo.",
+    "saber_hacer": "Hay que fijarse en la escala de tiempo y en el nivel donde ocurre el fenómeno. Dato para la PAES: segundos y un individuo indican irritabilidad."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "La reproducción genera nuevos individuos, no una respuesta refleja."
+    },
+    "C": {
+     "tipo": "anacronismo",
+     "texto": "La adaptación evolutiva ocurre en poblaciones y en muchas generaciones."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "La contracción muscular no es un aumento de tamaño sostenido."
+    }
+   }
+  },
+  {
+   "tema": "a-las-siete-caracteristicas",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante afirma que un individuo «se adapta» al frío de la cordillera durante el mes que pasa allí, porque produce más glóbulos rojos. ¿Cuál es la corrección conceptual adecuada?",
+   "alternativas": [
+    "Ninguna: la adaptación ocurre en los individuos a lo largo de toda su vida.",
+    "La adaptación solo ocurre en los organismos unicelulares y en las bacterias.",
+    "La adaptación ocurre en poblaciones y por generaciones; el individuo se aclimata.",
+    "La adaptación es un cambio del ADN que el individuo produce cuando lo necesita."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: identificar y corregir el uso impreciso de un término científico.",
+    "concepto": "Según la sección, la adaptación evolutiva ocurre en poblaciones y a lo largo de generaciones; un individuo se aclimata, de manera reversible.",
+    "desarrollo": "Producir más glóbulos rojos en altura es una respuesta fisiológica que revierte al bajar, y por eso corresponde a aclimatación. La tercera alternativa agrega un error más grave, porque sugiere que el organismo modifica su ADN según la necesidad, algo que la selección natural no requiere ni permite. La segunda restringe sin fundamento el fenómeno a los unicelulares.",
+    "saber_hacer": "Hay que distinguir aclimatación de adaptación evolutiva. Dato para la PAES: individuo y reversible es aclimatación; población y generaciones, adaptación."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Describe la aclimatación con el nombre de adaptación."
+    },
+    "B": {
+     "tipo": "sub-alcance",
+     "texto": "La adaptación evolutiva ocurre en poblaciones de cualquier tipo de organismo."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La necesidad del individuo no dirige cambios en su ADN."
+    }
+   }
+  },
+  {
+   "tema": "a-las-siete-caracteristicas",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Un equipo encuentra una estructura microscópica y quiere determinar si corresponde a un ser vivo. Ya comprobó que posee organización interna y que consume glucosa. ¿Qué pregunta orienta mejor el paso siguiente?",
+   "alternativas": [
+    "¿De qué color se ve la estructura al teñirla con azul de metileno diluido?",
+    "¿Aumenta el número de estructuras en un cultivo mantenido varios días?",
+    "¿Cuál es el peso exacto de cada una de estas estructuras al microscopio?",
+    "¿En qué profundidad del lago fue recogida la muestra original de agua turbia?"
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: identificar qué queda por comprobar y formular la pregunta correspondiente.",
+    "concepto": "Según la sección, organización y metabolismo son dos de las características de lo vivo, y la reproducción es otra que aún no se ha comprobado en este caso.",
+    "desarrollo": "Preguntar si el número de estructuras aumenta en cultivo aborda directamente esa característica pendiente y puede responderse con una observación sencilla. El color con un colorante, el peso exacto y la profundidad de muestreo entregan datos descriptivos o contextuales que no permiten avanzar en la clasificación.",
+    "saber_hacer": "Hay que preguntar por la característica que todavía falta. Dato para la PAES: la mejor pregunta siguiente es la que cambia la conclusión."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "El color de tinción no informa sobre la reproducción."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "El peso es un dato descriptivo sin relación con el criterio pendiente."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "El sitio de muestreo no decide si la estructura está viva."
+    }
+   }
+  },
+  {
+   "tema": "b-los-seres-vivos-son-sistemas-abiertos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Se afirma que todos los seres vivos son sistemas abiertos. ¿Qué evidencia sostiene mejor esa afirmación?",
+   "alternativas": [
+    "Que todos los seres vivos poseen una membrana que los separa del medio que los rodea.",
+    "Que todos pueden reproducirse y dejar descendencia fértil.",
+    "Que todos incorporan materia y energía del entorno y liberan desechos y calor.",
+    "Que todos mantienen siempre su temperatura interna en un mismo valor constante y fijo."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: identificar el hecho que respalda una afirmación general.",
+    "concepto": "Según la sección, un sistema abierto es el que intercambia materia y energía con su entorno, y ese intercambio es constante en todos los organismos.",
+    "desarrollo": "Entran nutrientes, agua y gases, y salen desechos, gases y calor. La membrana sí existe, pero es una barrera selectiva y por sí sola no demuestra que haya intercambio. La reproducción es otra característica de los seres vivos, sin relación con el carácter abierto del sistema, y la temperatura constante solo se aplica a algunos animales, no a todos los organismos.",
+    "saber_hacer": "Hay que elegir la evidencia que corresponde exactamente a la definición. Dato para la PAES: sistema abierto significa intercambio de materia y de energía."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "condición incompleta",
+     "texto": "La membrana separa, pero no demuestra por sí sola el intercambio."
+    },
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "La reproducción es otra característica, ajena a esta definición."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "Solo algunos animales mantienen una temperatura interna constante."
+    }
+   }
+  },
+  {
+   "tema": "b-los-seres-vivos-son-sistemas-abiertos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere comprobar que un cultivo de células animales se comporta como un sistema abierto. ¿Qué conjunto de mediciones lo demuestra mejor?",
+   "alternativas": [
+    "Medir el diámetro promedio de las células al inicio y al final del cultivo.",
+    "Registrar el consumo de glucosa y de oxígeno junto con la producción de CO2 y de calor.",
+    "Contar el número de células presentes al inicio y al final del cultivo.",
+    "Determinar la secuencia del ADN de las células mantenidas en cultivo."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: seleccionar las mediciones que corresponden a la definición que se quiere verificar.",
+    "concepto": "Según la sección, un sistema abierto se reconoce porque entra materia y energía y salen desechos, gases y calor.",
+    "desarrollo": "Medir a la vez lo que entra, glucosa y oxígeno, y lo que sale, dióxido de carbono y calor, documenta los dos sentidos del intercambio. Contar células o medir su diámetro registra el crecimiento, que es otra característica distinta, y secuenciar el ADN no informa en absoluto sobre el intercambio con el entorno.",
+    "saber_hacer": "Hay que medir los dos sentidos del flujo. Dato para la PAES: sistema abierto se demuestra con entradas y salidas, no solo con crecimiento."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "El diámetro documenta el crecimiento, no el intercambio."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "El recuento muestra crecimiento, pero no la entrada y salida de materia."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "La secuencia del ADN no informa sobre el intercambio con el entorno."
+    }
+   }
+  },
+  {
+   "tema": "b-los-seres-vivos-son-sistemas-abiertos",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante sostiene que un organismo podría sobrevivir indefinidamente dentro de un recipiente sellado y aislado, reciclando toda su materia y su energía. ¿Cuál es la mejor evaluación de esa idea?",
+   "alternativas": [
+    "Es viable, porque la materia se conserva dentro de un sistema cerrado.",
+    "Es viable, porque los organismos reciclan por completo su propia energía.",
+    "No es viable, porque los organismos no pueden reciclar ningún tipo de materia.",
+    "No es viable, porque la energía se degrada a calor y debe reponerse desde fuera."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: examinar la coherencia de una propuesta con los principios que rigen los sistemas biológicos.",
+    "concepto": "Según la sección, ningún ser vivo recicla su energía de manera indefinida, porque en cada transformación una parte se pierde como calor.",
+    "desarrollo": "La materia sí puede reciclarse en buena medida dentro de un sistema cerrado, y eso hace atractiva la primera alternativa; lo que no puede reciclarse es la energía, que fluye en un solo sentido y se degrada. Por eso todo sistema biológico necesita un aporte externo, sea luz o alimento. La última alternativa exagera en sentido contrario al negar todo reciclaje de materia.",
+    "saber_hacer": "Hay que separar el destino de la materia del destino de la energía. Dato para la PAES: la materia circula, la energía fluye y se degrada."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "condición incompleta",
+     "texto": "La materia se conserva, pero la energía se degrada y debe reponerse."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La energía no se recicla: se degrada a calor en cada paso."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "Los organismos sí reciclan buena parte de su materia."
+    }
+   }
+  },
+  {
+   "tema": "c-homeostasis-el-mecanismo-que-la-sostiene",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Un equipo quiere determinar si un circuito fisiológico funciona por retroalimentación negativa. ¿Qué procedimiento lo pone mejor a prueba?",
+   "alternativas": [
+    "Medir la variable regulada durante varios días sin intervenir en el organismo.",
+    "Bloquear el efector, aplicar una perturbación y observar si la variable vuelve al rango normal.",
+    "Comparar la variable regulada entre dos individuos de distinta edad.",
+    "Medir la concentración del receptor en el tejido donde se detecta el estímulo."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: diseñar la intervención que permite comprobar un mecanismo propuesto.",
+    "concepto": "Según la sección, en un circuito de retroalimentación negativa la respuesta del efector reduce el estímulo original y devuelve la variable al rango normal.",
+    "desarrollo": "Si se bloquea el efector y la variable deja de corregirse, queda demostrado que era él quien cerraba el circuito. Observar sin intervenir muestra que la variable oscila, pero no identifica el mecanismo; comparar individuos de distinta edad introduce una variable ajena; y medir la concentración del receptor describe un componente sin poner a prueba su función.",
+    "saber_hacer": "Hay que intervenir sobre un componente y observar qué se pierde. Dato para la PAES: bloquear un paso y ver si la regulación desaparece es la prueba decisiva."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "La observación sin intervención no identifica el mecanismo."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "La edad introduce una variable ajena al circuito."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "Describe un componente sin poner a prueba su función."
+    }
+   }
+  },
+  {
+   "tema": "c-homeostasis-el-mecanismo-que-la-sostiene",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "En la regulación de la temperatura corporal, los termorreceptores de la piel detectan el aumento, el hipotálamo lo procesa y las glándulas sudoríparas producen sudor. ¿Qué componente del circuito corresponde a las glándulas sudoríparas?",
+   "alternativas": [
+    "El efector, porque ejecutan la respuesta que devuelve la variable al rango.",
+    "El receptor, porque son ellas las que detectan el calor en la superficie corporal.",
+    "El centro integrador, porque deciden cuánto sudor producir.",
+    "El valor de referencia, porque son ellas las que fijan la temperatura considerada normal."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: asignar cada elemento de una descripción al componente que le corresponde en un modelo.",
+    "concepto": "Según la sección, un circuito homeostático se compone de receptor, centro integrador y efector, y este último ejecuta la respuesta correctora.",
+    "desarrollo": "Las glándulas sudoríparas producen el sudor cuya evaporación baja la temperatura, de modo que son el efector. Los termorreceptores cumplen la función de detección, el hipotálamo actúa como centro integrador comparando con el valor de referencia, y ese valor de referencia no es una estructura sino un punto de ajuste del propio sistema.",
+    "saber_hacer": "Hay que ubicar cada estructura en su papel dentro del circuito. Dato para la PAES: el efector es el que actúa, no el que detecta ni el que compara."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "La detección la realizan los termorreceptores de la piel."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "El centro integrador es el hipotálamo, no las glándulas."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "El valor de referencia es un punto de ajuste, no una estructura."
+    }
+   }
+  },
+  {
+   "tema": "c-homeostasis-el-mecanismo-que-la-sostiene",
+   "eje": "Organización, estructura y actividad celular",
+   "habilidad": "Evaluar",
+   "enunciado": "Se bloquea con un fármaco el efector de un circuito homeostático y luego se aplica una perturbación. ¿Qué resultado confirmaría que el circuito era de retroalimentación negativa?",
+   "alternativas": [
+    "Que la variable regrese al valor de referencia mucho más rápido que antes del bloqueo.",
+    "Que la variable permanezca exactamente fija en el valor de referencia.",
+    "Que la variable se aleje progresivamente del valor de referencia sin corregirse.",
+    "Que la variable oscile igual que antes de aplicar el fármaco."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: determinar qué resultado sostiene o refuta una interpretación propuesta.",
+    "concepto": "Según la sección, la retroalimentación negativa consiste en que la respuesta del efector reduce el estímulo y devuelve la variable a su rango.",
+    "desarrollo": "Sin efector esa corrección desaparece, de modo que la desviación se acumula: ese es precisamente el resultado esperado. Un regreso más rápido o una oscilación idéntica indicarían que el efector bloqueado no participaba del circuito, y una variable perfectamente fija contradice la propia idea de regulación, que implica oscilación en torno a un valor.",
+    "saber_hacer": "Hay que predecir qué se pierde al romper el mecanismo. Dato para la PAES: si al bloquear un paso la variable se descontrola, ese paso cerraba el circuito."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Bloquear el efector no puede acelerar la corrección."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "La regulación implica oscilación, no un valor perfectamente fijo."
+    },
+    "D": {
+     "tipo": "condición incompleta",
+     "texto": "Una oscilación idéntica indicaría que el efector no participaba."
+    }
+   }
+  }
+ ]
+}
