@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 560" width="1160" height="560" role="img" aria-label="Los seis pasos para obtener un organismo transgénico" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Los seis pasos para obtener un organismo transgénico</title>
+<rect width="1160" height="560" fill="#ffffff"/>
+<defs><marker id="flv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f855a"/></marker></defs>
+<text x="580.0" y="34.0" font-size="21" text-anchor="middle" fill="#1a202c" font-weight="700">Obtención de un organismo transgénico, paso a paso</text>
+<rect x="26" y="70" width="166" height="268" rx="14" fill="#c6f6d5" opacity="0.30" stroke="#2f855a" stroke-width="1.8"/>
+<circle cx="109" cy="106" r="22" fill="#2f855a"/>
+<text x="109.0" y="113.0" font-size="20" text-anchor="middle" fill="#ffffff" font-weight="700">1</text>
+<text x="109.0" y="156.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">Identificar y</text>
+<text x="109.0" y="174.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">aislar el gen</text>
+<line x1="50" y1="200" x2="168" y2="200" stroke="#2f855a" stroke-width="1.2"/>
+<text x="109.0" y="222.0" font-size="11.5" text-anchor="middle" fill="#2f855a" font-weight="700">con qué</text>
+<text x="109.0" y="244.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Secuenciación y PCR</text>
+<line x1="196" y1="204" x2="210" y2="204" stroke="#2f855a" stroke-width="2.6" marker-end="url(#flv)"/>
+<rect x="214" y="70" width="166" height="268" rx="14" fill="#c6f6d5" opacity="0.30" stroke="#2f855a" stroke-width="1.8"/>
+<circle cx="297" cy="106" r="22" fill="#2f855a"/>
+<text x="297.0" y="113.0" font-size="20" text-anchor="middle" fill="#ffffff" font-weight="700">2</text>
+<text x="297.0" y="156.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">Cortar el gen</text>
+<text x="297.0" y="174.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">y el vector</text>
+<line x1="238" y1="200" x2="356" y2="200" stroke="#2f855a" stroke-width="1.2"/>
+<text x="297.0" y="222.0" font-size="11.5" text-anchor="middle" fill="#2f855a" font-weight="700">con qué</text>
+<text x="297.0" y="244.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">La MISMA enzima</text>
+<text x="297.0" y="261.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">de restricción</text>
+<line x1="384" y1="204" x2="398" y2="204" stroke="#2f855a" stroke-width="2.6" marker-end="url(#flv)"/>
+<rect x="402" y="70" width="166" height="268" rx="14" fill="#9ae6b4" opacity="0.30" stroke="#2f855a" stroke-width="1.8"/>
+<circle cx="485" cy="106" r="22" fill="#2f855a"/>
+<text x="485.0" y="113.0" font-size="20" text-anchor="middle" fill="#ffffff" font-weight="700">3</text>
+<text x="485.0" y="156.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">Unir los</text>
+<text x="485.0" y="174.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">fragmentos</text>
+<line x1="426" y1="200" x2="544" y2="200" stroke="#2f855a" stroke-width="1.2"/>
+<text x="485.0" y="222.0" font-size="11.5" text-anchor="middle" fill="#2f855a" font-weight="700">con qué</text>
+<text x="485.0" y="244.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">ADN ligasa</text>
+<line x1="572" y1="204" x2="586" y2="204" stroke="#2f855a" stroke-width="2.6" marker-end="url(#flv)"/>
+<rect x="590" y="70" width="166" height="268" rx="14" fill="#9ae6b4" opacity="0.30" stroke="#2f855a" stroke-width="1.8"/>
+<circle cx="673" cy="106" r="22" fill="#2f855a"/>
+<text x="673.0" y="113.0" font-size="20" text-anchor="middle" fill="#ffffff" font-weight="700">4</text>
+<text x="673.0" y="156.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">Introducir en</text>
+<text x="673.0" y="174.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">la célula</text>
+<line x1="614" y1="200" x2="732" y2="200" stroke="#2f855a" stroke-width="1.2"/>
+<text x="673.0" y="222.0" font-size="11.5" text-anchor="middle" fill="#2f855a" font-weight="700">con qué</text>
+<text x="673.0" y="244.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Plásmido, virus,</text>
+<text x="673.0" y="261.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Agrobacterium</text>
+<line x1="760" y1="204" x2="774" y2="204" stroke="#2f855a" stroke-width="2.6" marker-end="url(#flv)"/>
+<rect x="778" y="70" width="166" height="268" rx="14" fill="#68d391" opacity="0.30" stroke="#2f855a" stroke-width="1.8"/>
+<circle cx="861" cy="106" r="22" fill="#2f855a"/>
+<text x="861.0" y="113.0" font-size="20" text-anchor="middle" fill="#ffffff" font-weight="700">5</text>
+<text x="861.0" y="156.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">Seleccionar las</text>
+<text x="861.0" y="174.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">células con el gen</text>
+<line x1="802" y1="200" x2="920" y2="200" stroke="#2f855a" stroke-width="1.2"/>
+<text x="861.0" y="222.0" font-size="11.5" text-anchor="middle" fill="#2f855a" font-weight="700">con qué</text>
+<text x="861.0" y="244.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Gen marcador de</text>
+<text x="861.0" y="261.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">resistencia</text>
+<line x1="948" y1="204" x2="962" y2="204" stroke="#2f855a" stroke-width="2.6" marker-end="url(#flv)"/>
+<rect x="966" y="70" width="166" height="268" rx="14" fill="#68d391" opacity="0.30" stroke="#2f855a" stroke-width="1.8"/>
+<circle cx="1049" cy="106" r="22" fill="#2f855a"/>
+<text x="1049.0" y="113.0" font-size="20" text-anchor="middle" fill="#ffffff" font-weight="700">6</text>
+<text x="1049.0" y="156.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">Verificar que</text>
+<text x="1049.0" y="174.0" font-size="13.5" text-anchor="middle" fill="#1a202c" font-weight="700">se expresa</text>
+<line x1="990" y1="200" x2="1108" y2="200" stroke="#2f855a" stroke-width="1.2"/>
+<text x="1049.0" y="222.0" font-size="11.5" text-anchor="middle" fill="#2f855a" font-weight="700">con qué</text>
+<text x="1049.0" y="244.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">PCR y medición</text>
+<text x="1049.0" y="261.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">de la proteína</text>
+<rect x="26" y="360" width="1108" height="80" rx="12" fill="#fffaf0" stroke="#c05621" stroke-width="1.6"/>
+<text x="580.0" y="386.0" font-size="14.5" text-anchor="middle" fill="#c05621" font-weight="700">Los pasos 5 y 6 son los que más se olvidan, y son imprescindibles.</text>
+<text x="580.0" y="410.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">La transformación es ineficiente: solo una fracción de las células recibe el vector (por eso el paso 5),</text>
+<text x="580.0" y="428.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">y que el gen entre no garantiza que se exprese (por eso el paso 6).</text>
+<rect x="26" y="456" width="1108" height="78" rx="12" fill="#f0fff4" stroke="#2f855a" stroke-width="1.6"/>
+<text x="580.0" y="482.0" font-size="14" text-anchor="middle" fill="#2f855a" font-weight="700">En un organismo multicelular, dónde se aplica decide si el cambio se hereda</text>
+<text x="580.0" y="506.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">En el CIGOTO → el gen queda en todas las células y pasa a la descendencia.  ·  En células SOMÁTICAS → solo afecta a ese individuo.</text>
+</svg>

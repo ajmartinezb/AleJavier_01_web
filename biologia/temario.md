@@ -62,7 +62,7 @@ Otros documentos oficiales en `biologia/demre/`, para calibrar las preguntas:
 | 3.1.4 | Mitosis en el crecimiento y la reparación de tejidos; cáncer | 6 | Completo |
 | 3.2.1 | Etapas de la meiosis I y II | 6 | Completo |
 | 3.2.2 | Contribución de la meiosis a la variabilidad genética | 6 | Completo |
-| 3.3 | Manipulación genética y sus aplicaciones (alimentos, detergentes, vestuario, fármacos) | 7 | Pendiente |
+| 3.3 | Manipulación genética y sus aplicaciones (alimentos, detergentes, vestuario, fármacos) | 7 | Completo |
 | 3.4 | Evidencias de la evolución: anatomía comparada (homología y analogía), embriología, biología molecular y registro fósil | 9 | Completo |
 | 3.5 | Aportes de Lamarck, Darwin y Wallace | 9 | Completo |
 | 3.6 | Selección natural: fundamentos y ejemplos | 9 | Completo |
