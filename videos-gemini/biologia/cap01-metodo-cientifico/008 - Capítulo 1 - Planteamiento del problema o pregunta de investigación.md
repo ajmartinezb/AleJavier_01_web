@@ -1,6 +1,6 @@
-# ii. Planteamiento del problema o pregunta de investigación — Libreto para Resumen en video (Gemini Notebook)
+# 008 - Capítulo 1 - Planteamiento del problema o pregunta de investigación
 
-*Capítulo 1: Método científico · Biología PAES — Ciencias · Sección 3. Etapas de una investigación científica*
+*Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 3. Etapas de una investigación científica*
 
 **Fuente del cuaderno (Sitio web):**
 https://raw.githack.com/ajmartinezb/AleJavier_01_web/claude/quirky-noether-0m1zqt/biologia/sitio/01-capitulo-1-metodo-cientifico.html
