@@ -1,6 +1,6 @@
 ## Capítulo 7: Manipulación genética
 
-**Área temática:** Herencia y programa genético
+**Área temática:** Herencia y evolución
 
 ::: nota
 **Capítulo en construcción.** Estructura planificada (se completa sección por sección según `biologia/pauta.md`):

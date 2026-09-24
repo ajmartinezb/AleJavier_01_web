@@ -1,6 +1,6 @@
 ## Capítulo 3: Química de la vida
 
-**Área temática:** Organización, estructura y actividad celular
+**Área temática:** Apoyo (fuera del temario 2027)
 
 ::: nota
 **Capítulo en construcción.** Estructura planificada (se completa sección por sección según `biologia/pauta.md`):

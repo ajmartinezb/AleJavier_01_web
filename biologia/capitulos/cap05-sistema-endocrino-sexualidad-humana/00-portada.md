@@ -1,6 +1,6 @@
 ## Capítulo 5: Sistema endocrino y sexualidad humana
 
-**Área temática:** Organismo y ambiente
+**Área temática:** Procesos y funciones biológicas
 
 ::: nota
 **Capítulo en construcción.** Estructura planificada (se completa sección por sección según `biologia/pauta.md`):

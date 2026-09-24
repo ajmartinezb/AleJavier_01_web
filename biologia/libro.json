@@ -3,16 +3,60 @@
  "color": "#2f855a",
  "prueba": "ciencias",
  "capitulos": [
-  {"carpeta": "cap01-metodo-cientifico", "titulo": "Capítulo 1: Método científico", "area": "Transversal a todas las áreas"},
-  {"carpeta": "cap02-niveles-organizacion-teoria-celular", "titulo": "Capítulo 2: Niveles de organización y teoría celular", "area": "Organización, estructura y actividad celular"},
-  {"carpeta": "cap03-quimica-vida", "titulo": "Capítulo 3: Química de la vida", "area": "Organización, estructura y actividad celular"},
-  {"carpeta": "cap04-celula-procarionte-eucarionte", "titulo": "Capítulo 4: La célula: estructura, organelos y función", "area": "Organización, estructura y actividad celular"},
-  {"carpeta": "cap05-sistema-endocrino-sexualidad-humana", "titulo": "Capítulo 5: Sistema endocrino y sexualidad humana", "area": "Organismo y ambiente"},
-  {"carpeta": "cap06-adn-reproduccion-celular", "titulo": "Capítulo 6: ADN y reproducción celular", "area": "Herencia y programa genético"},
-  {"carpeta": "cap07-manipulacion-genetica", "titulo": "Capítulo 7: Manipulación genética", "area": "Herencia y programa genético"},
-  {"carpeta": "cap08-microorganismos-barreras-defensivas", "titulo": "Capítulo 8: Microorganismos y barreras defensivas", "area": "Organismo y ambiente"},
-  {"carpeta": "cap09-evolucion-biodiversidad", "titulo": "Capítulo 9: Evolución y biodiversidad", "area": "Biodiversidad y evolución"},
-  {"carpeta": "cap10-materia-flujo-energia-ecosistema", "titulo": "Capítulo 10: Materia y energía en el ecosistema", "area": "Organismo y ambiente"},
-  {"carpeta": "cap11-sistema-nervioso", "titulo": "Capítulo 11: Sistema nervioso (nuevo en el temario 2027)", "area": "Organismo y ambiente"}
+  {
+   "carpeta": "cap01-metodo-cientifico",
+   "titulo": "Capítulo 1: Método científico",
+   "area": "Transversal a todas las áreas"
+  },
+  {
+   "carpeta": "cap02-niveles-organizacion-teoria-celular",
+   "titulo": "Capítulo 2: Niveles de organización y teoría celular",
+   "area": "Organización, estructura y actividad celular"
+  },
+  {
+   "carpeta": "cap03-quimica-vida",
+   "titulo": "Capítulo 3: Química de la vida",
+   "area": "Apoyo (fuera del temario 2027)"
+  },
+  {
+   "carpeta": "cap04-celula-procarionte-eucarionte",
+   "titulo": "Capítulo 4: La célula: estructura, organelos y función",
+   "area": "Organización, estructura y actividad celular"
+  },
+  {
+   "carpeta": "cap05-sistema-endocrino-sexualidad-humana",
+   "titulo": "Capítulo 5: Sistema endocrino y sexualidad humana",
+   "area": "Procesos y funciones biológicas"
+  },
+  {
+   "carpeta": "cap06-adn-reproduccion-celular",
+   "titulo": "Capítulo 6: Ciclo celular, mitosis y meiosis",
+   "area": "Herencia y evolución"
+  },
+  {
+   "carpeta": "cap07-manipulacion-genetica",
+   "titulo": "Capítulo 7: Manipulación genética",
+   "area": "Herencia y evolución"
+  },
+  {
+   "carpeta": "cap08-microorganismos-barreras-defensivas",
+   "titulo": "Capítulo 8: Microorganismos y barreras defensivas",
+   "area": "Procesos y funciones biológicas (ITS) · apoyo"
+  },
+  {
+   "carpeta": "cap09-evolucion-biodiversidad",
+   "titulo": "Capítulo 9: Evolución y biodiversidad",
+   "area": "Herencia y evolución"
+  },
+  {
+   "carpeta": "cap10-materia-flujo-energia-ecosistema",
+   "titulo": "Capítulo 10: Materia y energía en el ecosistema",
+   "area": "Organismo y ambiente"
+  },
+  {
+   "carpeta": "cap11-sistema-nervioso",
+   "titulo": "Capítulo 11: Sistema nervioso (nuevo en el temario 2027)",
+   "area": "Procesos y funciones biológicas"
+  }
  ]
 }

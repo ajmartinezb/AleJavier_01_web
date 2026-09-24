@@ -1,0 +1,1394 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capítulo 6: Ciclo celular, mitosis y meiosis — Biología PAES — Ciencias</title>
+<meta name="generator" content="Conversor PDF a HTML">
+<style>
+:root{--bg:#f7f6f2;--paper:#fff;--ink:#23262a;--ink-soft:#5a5f66;--line:#e3e1da;
+--accent:#2f855a;--accent-dark:#1a4932;--ok:#1e7a46;--ok-bg:#e5f5eb;--bad:#b3261e;--bad-bg:#fdeceb;
+--tip-bg:#fff6d6;--tip-bd:#e8cf67;--nota-bg:#eaf2fb;--nota-bd:#b6cfe9;--ej-bg:#eaf6ee;--ej-bd:#a9d8b8;--sidebar-w:290px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}}
+:root[data-theme=dark]{--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{scroll-padding-top:96px}
+body{margin:0;font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.65}
+header.top{position:sticky;top:0;z-index:50;background:linear-gradient(120deg,var(--accent-dark),var(--accent));color:#fff;padding:14px 22px;box-shadow:0 2px 10px rgba(0,0,0,.18)}
+header.top .fila{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1400px;margin:0 auto}
+header.top h1{margin:0;font-size:1.25rem;line-height:1.3;flex:1;min-width:200px}
+header.top .doc{font-size:.8rem;opacity:.85;display:block;font-weight:400}
+header.top a{color:#fff}
+.btn-top{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);color:#fff;border-radius:8px;padding:6px 10px;font-size:.85rem;cursor:pointer;text-decoration:none;white-space:nowrap}
+.progreso{max-width:1400px;margin:8px auto 0;display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:.8rem}
+.barra{flex:1;min-width:120px;height:7px;background:rgba(255,255,255,.25);border-radius:9px;overflow:hidden}
+.barra>i{display:block;height:100%;width:0;background:#fff;border-radius:9px;transition:width .3s}
+.layout{display:flex;align-items:flex-start;max-width:1400px;margin:0 auto}
+nav.sidebar{width:var(--sidebar-w);flex-shrink:0;position:sticky;top:110px;max-height:calc(100vh - 120px);overflow-y:auto;padding:20px 12px 40px 18px}
+nav.sidebar h2{font-size:.72rem;text-transform:uppercase;letter-spacing:1px;color:var(--ink-soft);margin:0 0 8px 6px}
+nav.sidebar ol{list-style:none;margin:0;padding:0}
+nav.sidebar a{display:block;position:relative;overflow:hidden;isolation:isolate;padding:6px 10px;border-radius:8px;color:var(--ink);text-decoration:none;font-size:.86rem;transition:color .2s,background .2s}
+nav.sidebar a:hover,nav.sidebar a.activo{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+nav.sidebar a::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;border-radius:inherit;
+background:linear-gradient(90deg,color-mix(in srgb,var(--accent) 22%,transparent),color-mix(in srgb,var(--accent) 45%,transparent));
+box-shadow:6px 0 14px color-mix(in srgb,var(--accent) 55%,transparent)}
+nav.sidebar a.cargando{color:var(--accent-dark);font-weight:600;background:transparent}
+nav.sidebar a.cargando::before,.ref-badge.cargando::before,.volver-tema.cargando::before{animation:conv-cargar .6s cubic-bezier(.45,0,.2,1) forwards}
+.ref-badges{display:inline-flex;flex-wrap:wrap;gap:6px;margin-left:10px;vertical-align:middle;font-size:.72rem;font-weight:600;line-height:1}
+.ref-group{display:inline-flex;align-items:center;gap:4px}
+.ref-label{color:var(--ink-soft);font-weight:600;letter-spacing:.3px}
+.ref-badge,.volver-tema{position:relative;overflow:hidden;isolation:isolate;text-decoration:none;transition:background .2s,color .2s,border-color .2s}
+.ref-badge::before,.volver-tema::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;background:color-mix(in srgb,var(--accent) 40%,transparent)}
+.ref-badge{display:inline-grid;place-items:center;min-width:24px;height:22px;padding:0 6px;border-radius:999px;border:1px solid;font-size:.72rem}
+.ref-badge.ref-ia{color:#1e7a34;border-color:#8fd0a2;background:#eaf7ee}
+.ref-badge.ref-ia:hover{background:#1e7a34;color:#fff}
+.ref-badge.ref-ia.cargando{color:#fff;background:#1e7a34}
+.volver-tema{display:inline-flex;align-items:center;gap:4px;margin:0 8px 0 6px;padding:2px 10px;border:1px solid var(--line);border-radius:999px;font-size:.76rem;font-weight:600;color:var(--accent-dark);background:var(--paper);vertical-align:middle}
+.volver-tema:hover{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,var(--paper))}
+.seccion-ia{margin-top:40px;padding-top:6px}
+.seccion-ia>.nota{font-size:.9rem}
+.tema-ia{margin:26px 0 4px;font-size:.82rem;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--ink-soft)}
+.tema-ia a{color:inherit}
+.habilidad{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent-dark);vertical-align:middle}
+.eje{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:var(--line);color:var(--ink-soft);vertical-align:middle}
+.comentario>p{margin:8px 0}
+.comentario>p>strong:first-child{color:var(--accent-dark)}
+.comentario ul{margin:6px 0 10px;padding-left:20px}
+.comentario li{margin:3px 0}
+.comentario .tipo-error{font-style:italic;color:var(--ink-soft)}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .comentario>p>strong:first-child{color:var(--accent)}}
+:root[data-theme=dark] .comentario>p>strong:first-child{color:var(--accent)}
+.pregunta.destino{animation:conv-destino 1.6s ease-out}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}}
+:root[data-theme=dark] .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}
+@keyframes conv-cargar{0%{width:0;opacity:.7}85%{opacity:1}100%{width:100%;opacity:1;box-shadow:0 0 12px color-mix(in srgb,var(--accent) 45%,transparent)}}
+@media (prefers-reduced-motion:reduce){nav.sidebar a.cargando::before{animation-duration:.15s}}
+.destino{animation:conv-destino 1.4s ease-out}
+@keyframes conv-destino{0%{background:color-mix(in srgb,var(--accent) 22%,transparent)}100%{background:transparent}}
+nav.sidebar .n3 a{padding-left:22px;font-size:.8rem;color:var(--ink-soft)}
+nav.sidebar .n4 a{padding-left:34px;font-size:.76rem;color:var(--ink-soft)}
+main.content{flex:1;min-width:0;padding:26px 34px 90px}
+.paper{background:var(--paper);border-radius:14px;padding:28px 38px;box-shadow:0 1px 4px rgba(0,0,0,.07);max-width:980px}
+.paper h2{font-size:1.4rem;color:var(--accent-dark);border-bottom:3px solid var(--accent);padding-bottom:6px;margin:34px 0 14px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .paper h2{color:var(--accent)}}
+:root[data-theme=dark] .paper h2{color:var(--accent)}
+.paper h2:first-child{margin-top:0}
+.paper h3{font-size:1.14rem;margin:26px 0 10px;border-left:4px solid var(--accent);padding-left:10px}
+.paper h4{font-size:1rem;margin:20px 0 8px}
+.paper img{max-width:100%;height:auto}
+figure>img{width:var(--ancho,auto)}
+.fila-figuras{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:flex-start;margin:18px 0}
+.fila-figuras>figure{flex:1 1 220px;margin:0}
+.fila-figuras>figure>img{width:100%}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:.93rem;display:block;overflow-x:auto}
+th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top;text-align:left}
+thead th{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+blockquote{margin:14px 0;padding:8px 16px;border-left:4px solid var(--line);color:var(--ink-soft)}
+.nota,.tip,.ejemplo,.ejercicio,.pregunta{border-radius:10px;padding:14px 18px;margin:16px 0;border:1px solid}
+.nota{background:var(--nota-bg);border-color:var(--nota-bd)}
+.tip{background:var(--tip-bg);border-color:var(--tip-bd)}
+.ejemplo{background:var(--ej-bg);border-color:var(--ej-bd)}
+.ejercicio,.pregunta{background:var(--paper);border-color:var(--line);box-shadow:0 1px 3px rgba(0,0,0,.05)}
+figure{margin:18px auto;text-align:center}
+figure img{border-radius:8px;border:1px solid var(--line);cursor:zoom-in;background:#fff}
+figcaption{font-size:.85rem;color:var(--ink-soft);margin-top:6px}
+.frac{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;font-size:.9em;margin:0 2px}
+.frac>span:first-child{border-bottom:1px solid currentColor;padding:0 3px}
+.alternativas{list-style:none;padding:0;margin:10px 0}
+.alternativas li{display:flex;gap:10px;align-items:flex-start;padding:8px 12px;margin:6px 0;border:1px solid var(--line);border-radius:9px;cursor:pointer;transition:background .15s}
+.alternativas li::before{content:attr(data-letra);font-weight:700;min-width:1.4em;color:var(--accent)}
+.alternativas li:hover{background:color-mix(in srgb,var(--accent) 8%,transparent)}
+.alternativas li.marcada{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.alternativas li.correcta{border-color:var(--ok);background:var(--ok-bg)}
+.alternativas li.incorrecta{border-color:var(--bad);background:var(--bad-bg)}
+.pregunta.respondida .alternativas li{cursor:default}
+.acciones{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.btn{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:8px 14px;font-size:.9rem;cursor:pointer}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.btn.sec{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.estado{font-size:.88rem;font-weight:600}
+.estado.ok{color:var(--ok)}.estado.mal{color:var(--bad)}
+.respuesta{display:none;margin-top:10px;padding:12px 14px;border-radius:9px;background:color-mix(in srgb,var(--accent) 7%,transparent);border-left:4px solid var(--accent)}
+.visible>.respuesta,.respuesta.visible{display:block}
+.aviso-ia{font-size:.8rem;color:var(--ink-soft);font-style:italic}
+details.original{margin:14px 0;border:1px dashed var(--line);border-radius:10px;padding:8px 12px}
+details.original summary{cursor:pointer;color:var(--ink-soft);font-size:.85rem}
+.marca-pagina{font-size:.72rem;color:var(--ink-soft);text-align:right;border-top:1px dashed var(--line);margin:22px 0 8px;padding-top:2px}
+.navsec{display:flex;justify-content:space-between;gap:12px;margin-top:28px;max-width:980px}
+.navsec a{flex:1;padding:14px 16px;border-radius:12px;background:var(--paper);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.navsec a small{display:block;color:var(--ink-soft);font-size:.75rem}
+.navsec a.sig{text-align:right}
+#lightbox{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:100;cursor:zoom-out;padding:20px}
+#lightbox img{max-width:100%;max-height:100%;background:#fff;border-radius:6px}
+#toc-btn{display:none}
+@media (max-width:900px){
+ nav.sidebar{position:fixed;top:0;left:0;bottom:0;max-height:none;background:var(--paper);z-index:60;transform:translateX(-105%);transition:transform .25s;box-shadow:2px 0 14px rgba(0,0,0,.2);padding-top:24px}
+ nav.sidebar.abierta{transform:none}
+ #toc-btn{display:inline-block}
+ main.content{padding:16px 16px 80px}
+ .paper{padding:20px 18px}
+}
+@media print{header.top,nav.sidebar,.navsec,.acciones{display:none}.respuesta{display:block}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="fila">
+    <button class="btn-top" id="toc-btn" type="button">☰ Contenido</button>
+    <h1><span class="doc">Biología PAES — Ciencias</span>Capítulo 6: Ciclo celular, mitosis y meiosis</h1>
+    <a class="btn-top" href="index.html">Índice</a>
+    <button class="btn-top" id="tema" type="button" title="Cambiar tema claro/oscuro">◐</button>
+  </div>
+  <div class="progreso">
+    <span id="txt-preg">…</span><div class="barra"><i id="barra-preg"></i></div>
+    <button class="btn-top" id="reiniciar" type="button" title="Reiniciar respuestas de esta sección">↺ Reiniciar</button>
+    <span id="txt-lect">0% leído</span><div class="barra"><i id="barra-lect"></i></div>
+  </div>
+</header>
+<div class="layout">
+<nav class="sidebar" aria-label="Contenido"><h2>Contenido</h2><ol><li class="n2"><a href="#capitulo-6-ciclo-celular-mitosis-y-meiosis">Capítulo 6: Ciclo celular, mitosis y meiosis</a></li><li class="n2"><a href="#1-conceptos-clave">1. Conceptos clave</a></li><li class="n2"><a href="#2-cromatina-y-cromosomas">2. Cromatina y cromosomas</a></li><li class="n3"><a href="#a-un-problema-de-empaque">a. Un problema de empaque</a></li><li class="n3"><a href="#b-grados-de-compactacion">b. Grados de compactación</a></li><li class="n3"><a href="#c-la-estructura-de-un-cromosoma">c. La estructura de un cromosoma</a></li><li class="n3"><a href="#d-cromosomas-homologos-cariotipo-y-ploidia">d. Cromosomas homólogos, cariotipo y ploidía</a></li><li class="n2"><a href="#3-el-ciclo-celular">3. El ciclo celular</a></li><li class="n3"><a href="#a-la-interfase">a. La interfase</a></li><li class="n3"><a href="#b-la-cantidad-de-adn-a-lo-largo-del-ciclo">b. La cantidad de ADN a lo largo del ciclo</a></li><li class="n3"><a href="#c-otra-forma-de-estudiar-el-ciclo-contar-celulas">c. Otra forma de estudiar el ciclo: contar células</a></li><li class="n2"><a href="#4-mitosis-y-citocinesis">4. Mitosis y citocinesis</a></li><li class="n3"><a href="#a-las-etapas-de-la-mitosis">a. Las etapas de la mitosis</a></li><li class="n3"><a href="#b-el-huso-mitotico">b. El huso mitótico</a></li><li class="n3"><a href="#c-citocinesis">c. Citocinesis</a></li><li class="n3"><a href="#d-resultado-de-la-mitosis">d. Resultado de la mitosis</a></li><li class="n2"><a href="#5-control-del-ciclo-celular-los-puntos-de-control">5. Control del ciclo celular: los puntos de control</a></li><li class="n3"><a href="#a-ciclinas-y-quinasas-el-motor-del-ciclo">a. Ciclinas y quinasas: el motor del ciclo</a></li><li class="n3"><a href="#b-genes-que-aceleran-y-genes-que-frenan">b. Genes que aceleran y genes que frenan</a></li><li class="n2"><a href="#6-importancia-de-la-mitosis-crecimiento-reparacion">6. Importancia de la mitosis: crecimiento, reparación y cáncer</a></li><li class="n3"><a href="#a-para-que-sirve-la-mitosis">a. Para qué sirve la mitosis</a></li><li class="n3"><a href="#b-el-cancer-cuando-se-pierde-el-control">b. El cáncer: cuando se pierde el control</a></li><li class="n3"><a href="#c-prevencion-y-tratamiento">c. Prevención y tratamiento</a></li><li class="n2"><a href="#7-la-meiosis">7. La meiosis</a></li><li class="n3"><a href="#a-por-que-se-necesita-la-meiosis">a. ¿Por qué se necesita la meiosis?</a></li><li class="n3"><a href="#b-meiosis-i-la-division-reduccional">b. Meiosis I: la división reduccional</a></li><li class="n3"><a href="#c-meiosis-ii-la-division-ecuacional">c. Meiosis II: la división ecuacional</a></li><li class="n3"><a href="#d-el-adn-y-los-cromosomas-a-lo-largo-de-la-meiosis">d. El ADN y los cromosomas a lo largo de la meiosis</a></li><li class="n2"><a href="#8-meiosis-y-variabilidad-genetica">8. Meiosis y variabilidad genética</a></li><li class="n3"><a href="#a-entrecruzamiento-recombinacion-en-la-profase-i">a. Entrecruzamiento (recombinación) en la profase I</a></li><li class="n3"><a href="#b-permutacion-cromosomica-segregacion-independient">b. Permutación cromosómica (segregación independiente) en la metafas…</a></li><li class="n3"><a href="#c-fecundacion-al-azar">c. Fecundación al azar</a></li><li class="n2"><a href="#9-errores-en-la-meiosis-y-comparacion-con-la-mitos">9. Errores en la meiosis y comparación con la mitosis</a></li><li class="n3"><a href="#a-no-disyuncion-y-aneuploidias">a. No disyunción y aneuploidías</a></li><li class="n3"><a href="#b-mitosis-y-meiosis-comparacion">b. Mitosis y meiosis: comparación</a></li><li class="n2"><a href="#ejemplos-paes-resueltos">Ejemplos PAES resueltos</a></li><li class="n2"><a href="#evaluacion-formativa">Evaluación formativa</a></li><li class="n2"><a href="#fuentes-del-capitulo">Fuentes del capítulo</a></li></ol></nav>
+<main class="content">
+<article class="paper">
+<h2 id="capitulo-6-ciclo-celular-mitosis-y-meiosis">Capítulo 6: Ciclo celular, mitosis y meiosis</h2>
+<p><strong>Área temática:</strong> Herencia y evolución · <strong>Temario DEMRE 2027:</strong> conocimientos 3.1 y 3.2</p>
+<blockquote>
+<p>«Omnis cellula e cellula» (toda célula proviene de otra célula).
+— Rudolf Virchow</p>
+</blockquote>
+<div class="nota">
+<p><strong>Qué vas a aprender en este capítulo</strong></p>
+<ul>
+<li>Cómo se organiza el ADN en <strong>cromatina</strong> y <strong>cromosomas</strong>, y sus grados de compactación.</li>
+<li>Las etapas del <strong>ciclo celular</strong>: la interfase (G1, S, G2) y la mitosis (profase, metafase, anafase, telofase), y cómo cambia la cantidad de ADN en cada una.</li>
+<li>Cómo se <strong>controla</strong> el ciclo: los puntos de control G1–S, G2–M y de metafase.</li>
+<li>Por qué la mitosis es clave en el <strong>crecimiento</strong>, el <strong>desarrollo</strong> y la <strong>reparación de tejidos</strong>, y qué ocurre cuando el control falla: el <strong>cáncer</strong>.</li>
+<li>Las etapas de la <strong>meiosis I y II</strong> y cómo generan <strong>variabilidad genética</strong>.</li>
+<li>Qué pasa cuando los cromosomas no se separan bien: la <strong>no disyunción</strong> y las aneuploidías.</li>
+</ul>
+</div>
+<div class="tip">
+<p><strong>Cómo pregunta esto la PAES.</strong> En la prueba oficial de invierno de 2027 aparecieron preguntas sobre una toxina que altera la separación de los cromosomas, cómo reconocer la telofase al microscopio, un fármaco que detiene el ciclo al inicio de la fase S y la relación entre los quiasmas y las aneuploidías. La clave está en saber <strong>qué ocurre en cada etapa</strong> y <strong>qué estructura lo hace posible</strong>, y en usar ese conocimiento para predecir el efecto de una alteración.</p>
+</div>
+<div class="nota">
+<p><strong>Cómo usar este capítulo</strong></p>
+<ul>
+<li>Lee la <strong>teoría</strong> (secciones 1 a 9). Cada título muestra los números de sus <strong>preguntas de práctica (IA)</strong>.</li>
+<li>Revisa los <strong>Ejemplos PAES resueltos</strong>, con cálculos de duración de fases, conteo de cromosomas y cromátidas, y evaluación de conclusiones.</li>
+<li>Mide tu avance con la <strong>Evaluación formativa</strong> (20 preguntas) y las <strong>Preguntas de práctica</strong> del final, cada una con su respuesta comentada al estilo DEMRE.</li>
+</ul>
+</div>
+<h2 id="1-conceptos-clave">1. Conceptos clave</h2>
+<table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Definición breve</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cromatina</strong></td>
+<td>Complejo de ADN y proteínas (principalmente histonas) que forma el material genético en el núcleo.</td>
+</tr>
+<tr>
+<td><strong>Nucleosoma</strong></td>
+<td>Unidad básica de la cromatina: un tramo de ADN enrollado alrededor de un núcleo de ocho histonas.</td>
+</tr>
+<tr>
+<td><strong>Cromosoma</strong></td>
+<td>Molécula de ADN con sus proteínas asociadas. Se hace visible al microscopio cuando se condensa durante la división.</td>
+</tr>
+<tr>
+<td><strong>Cromátidas hermanas</strong></td>
+<td>Las dos copias idénticas de un cromosoma después de la replicación, unidas por el centrómero.</td>
+</tr>
+<tr>
+<td><strong>Centrómero</strong></td>
+<td>Región de un cromosoma donde se unen las cromátidas hermanas y donde se forma el cinetocoro.</td>
+</tr>
+<tr>
+<td><strong>Cinetocoro</strong></td>
+<td>Complejo de proteínas del centrómero al que se unen los microtúbulos del huso.</td>
+</tr>
+<tr>
+<td><strong>Cromosomas homólogos</strong></td>
+<td>Par de cromosomas, uno de origen materno y otro paterno, con los mismos genes en el mismo orden (pueden tener alelos distintos).</td>
+</tr>
+<tr>
+<td><strong>Diploide (2n)</strong></td>
+<td>Célula con dos juegos de cromosomas. En humanos, 2n = 46.</td>
+</tr>
+<tr>
+<td><strong>Haploide (n)</strong></td>
+<td>Célula con un solo juego de cromosomas. En humanos, n = 23 (gametos).</td>
+</tr>
+<tr>
+<td><strong>Ciclo celular</strong></td>
+<td>Secuencia de etapas que atraviesa una célula desde que se forma hasta que se divide en dos.</td>
+</tr>
+<tr>
+<td><strong>Interfase</strong></td>
+<td>Etapa del ciclo entre dos divisiones: la célula crece, replica su ADN y se prepara para dividirse.</td>
+</tr>
+<tr>
+<td><strong>Mitosis</strong></td>
+<td>División del núcleo que produce dos núcleos genéticamente idénticos, con el mismo número de cromosomas que la célula original.</td>
+</tr>
+<tr>
+<td><strong>Citocinesis</strong></td>
+<td>División del citoplasma que separa las dos células hijas.</td>
+</tr>
+<tr>
+<td><strong>Punto de control</strong></td>
+<td>Mecanismo que verifica que una etapa del ciclo se completó correctamente antes de pasar a la siguiente.</td>
+</tr>
+<tr>
+<td><strong>Meiosis</strong></td>
+<td>Dos divisiones sucesivas que forman cuatro células haploides, genéticamente distintas, a partir de una célula diploide.</td>
+</tr>
+<tr>
+<td><strong>Entrecruzamiento</strong> (<em>crossing-over</em>)</td>
+<td>Intercambio de segmentos entre cromátidas de cromosomas homólogos durante la profase I.</td>
+</tr>
+<tr>
+<td><strong>Quiasma</strong></td>
+<td>Punto visible donde las cromátidas homólogas quedan unidas tras el entrecruzamiento.</td>
+</tr>
+<tr>
+<td><strong>No disyunción</strong></td>
+<td>Error en que los cromosomas o cromátidas no se separan, lo que produce células con cromosomas de más o de menos.</td>
+</tr>
+<tr>
+<td><strong>Aneuploidía</strong></td>
+<td>Alteración del número de cromosomas por exceso o por falta de uno o más, como la trisomía 21.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2-cromatina-y-cromosomas">2. Cromatina y cromosomas</h2>
+<h3 id="a-un-problema-de-empaque">a. Un problema de empaque</h3>
+<p>Si se estirara el ADN de una sola célula humana, mediría unos <strong>2 metros</strong>. Ese ADN cabe en un núcleo de apenas <strong>5 a 10 µm</strong> de diámetro. Para lograrlo, se empaqueta asociado a proteínas, formando la <strong>cromatina</strong>. El empaque cumple dos funciones:</p>
+<ol>
+<li><strong>Ordena y protege</strong> el ADN dentro del núcleo.</li>
+<li><strong>Regula qué genes se leen:</strong> las zonas más compactas se leen poco y las más sueltas, mucho.</li>
+</ol>
+<h3 id="b-grados-de-compactacion">b. Grados de compactación</h3>
+<figure><img src="img/cap06-adn-reproduccion-celular/compactacion-cromatina.svg" alt="Niveles de compactación del ADN: doble hélice de 2 nm, nucleosomas en collar de perlas de 10 nm, fibra de 30 nm, bucles de cromatina y cromosoma metafásico condensado"><figcaption>Figura 1. Niveles de compactación del ADN, desde la doble hélice hasta el cromosoma metafásico. Diagrama propio, sin escala.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th>Nivel</th>
+<th>Diámetro aproximado</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Doble hélice de ADN</strong></td>
+<td>2 nm</td>
+<td>La molécula desnuda</td>
+</tr>
+<tr>
+<td><strong>Nucleosomas («collar de perlas»)</strong></td>
+<td>10 nm</td>
+<td>El ADN da casi dos vueltas alrededor de un octámero de <strong>histonas</strong> (ocho proteínas). Entre un nucleosoma y otro queda un tramo de ADN de unión</td>
+</tr>
+<tr>
+<td><strong>Fibra de 30 nm</strong></td>
+<td>30 nm</td>
+<td>Los nucleosomas se pliegan y se acercan entre sí, con ayuda de otra histona (H1)</td>
+</tr>
+<tr>
+<td><strong>Bucles de cromatina</strong></td>
+<td>≈ 300 nm</td>
+<td>La fibra forma lazos anclados a un armazón de proteínas</td>
+</tr>
+<tr>
+<td><strong>Cromosoma metafásico</strong></td>
+<td>≈ 1400 nm (1,4 µm)</td>
+<td>Máxima condensación, alcanzada durante la mitosis. Cada cromátida es un cilindro muy compacto de bucles</td>
+</tr>
+</tbody>
+</table>
+<p>Según su grado de condensación en interfase, la cromatina puede ser:</p>
+<ul>
+<li><strong>Eucromatina:</strong> poco condensada, con genes activos que se transcriben.</li>
+<li><strong>Heterocromatina:</strong> muy condensada, con genes poco o nada activos. Se tiñe más intensamente.</li>
+</ul>
+<div class="tip">
+<p><strong>¿Por qué los cromosomas se condensan antes de dividirse?</strong> Un ADN extendido de 2 metros se enredaría y se cortaría al repartirse entre dos células. Condensado en cromosomas compactos, se puede separar ordenadamente. El costo es que, mientras está tan compacto, casi no se puede leer: la célula <strong>transcribe muy poco durante la mitosis</strong>.</p>
+</div>
+<h3 id="c-la-estructura-de-un-cromosoma">c. La estructura de un cromosoma</h3>
+<p>Después de la replicación, en la fase S, cada cromosoma está formado por <strong>dos cromátidas hermanas</strong> idénticas, unidas en el <strong>centrómero</strong> por proteínas llamadas <strong>cohesinas</strong>. En el centrómero se forma el <strong>cinetocoro</strong>, donde se enganchan los microtúbulos del huso.</p>
+<div class="nota">
+<p><strong>Cómo contar cromosomas y cromátidas</strong></p>
+<ul>
+<li>Se cuentan <strong>cromosomas</strong> contando <strong>centrómeros</strong>.</li>
+<li>Un cromosoma <strong>no replicado</strong> tiene <strong>1 cromátida</strong>; uno <strong>replicado</strong> tiene <strong>2 cromátidas</strong>, pero sigue siendo <strong>un</strong> cromosoma.</li>
+<li>Una célula humana en G1 tiene 46 cromosomas y 46 cromátidas. En G2 sigue teniendo <strong>46 cromosomas</strong>, pero ahora con <strong>92 cromátidas</strong>.</li>
+</ul>
+</div>
+<h3 id="d-cromosomas-homologos-cariotipo-y-ploidia">d. Cromosomas homólogos, cariotipo y ploidía</h3>
+<p>Las células del cuerpo humano (<strong>células somáticas</strong>) tienen <strong>46 cromosomas</strong>, organizados en <strong>23 pares de homólogos</strong>. De cada par, un cromosoma viene de la madre y el otro del padre:</p>
+<ul>
+<li><strong>22 pares de autosomas</strong>, iguales en hombres y mujeres;</li>
+<li><strong>1 par de cromosomas sexuales:</strong> XX en la mujer y XY en el hombre.</li>
+</ul>
+<p>Los homólogos llevan <strong>los mismos genes</strong> en las mismas posiciones, pero pueden tener <strong>versiones distintas</strong> (alelos). Por ejemplo, uno puede llevar el alelo para ojos cafés y el otro, el alelo para ojos azules.</p>
+<p>El <strong>cariotipo</strong> es el ordenamiento de los cromosomas de una célula por tamaño y forma, fotografiados en metafase, cuando están más condensados. Sirve para detectar alteraciones en el número o la estructura de los cromosomas.</p>
+<table>
+<thead>
+<tr>
+<th>Término</th>
+<th>Significado</th>
+<th>En humanos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2n (diploide)</strong></td>
+<td>Dos juegos de cromosomas</td>
+<td>Células somáticas: 2n = 46</td>
+</tr>
+<tr>
+<td><strong>n (haploide)</strong></td>
+<td>Un juego de cromosomas</td>
+<td>Gametos: n = 23</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>No confundas cromátidas hermanas con cromosomas homólogos.</strong></p>
+<ul>
+<li>Las <strong>cromátidas hermanas</strong> son <strong>copias idénticas</strong>, producto de la replicación.</li>
+<li>Los <strong>homólogos</strong> son <strong>dos cromosomas distintos</strong>, uno materno y otro paterno, con los mismos genes, pero posiblemente con alelos diferentes.</li>
+</ul>
+<p>La mitosis separa cromátidas hermanas. La meiosis I separa homólogos.</p>
+</div>
+<h2 id="3-el-ciclo-celular">3. El ciclo celular</h2>
+<p>El ciclo celular es la secuencia ordenada de eventos por la que una célula <strong>crece, duplica su contenido y se divide</strong> en dos células hijas. Tiene dos grandes etapas: la <strong>interfase</strong> y la <strong>fase M</strong> (mitosis más citocinesis).</p>
+<figure><img src="img/cap06-adn-reproduccion-celular/ciclo-celular.svg" alt="Ciclo celular circular con G1, S, G2 y fase M, la salida a G0 y los tres puntos de control marcados"><figcaption>Figura 2. Ciclo celular con sus fases y puntos de control. Diagrama propio.</figcaption></figure>
+
+<h3 id="a-la-interfase">a. La interfase</h3>
+<p>Aunque al microscopio la célula en interfase parece «quieta», es la etapa más activa y larga del ciclo: en una célula humana típica en cultivo, que se divide cada 24 horas, ocupa más del 90 % del tiempo.</p>
+<table>
+<thead>
+<tr>
+<th>Fase</th>
+<th>Qué ocurre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>G1</strong> (del inglés <em>gap</em>, intervalo)</td>
+<td>La célula <strong>crece</strong>, sintetiza proteínas y organelos y cumple sus funciones. Es la fase más variable en duración.</td>
+</tr>
+<tr>
+<td><strong>S</strong> (síntesis)</td>
+<td>Se <strong>replica el ADN</strong>: cada cromosoma pasa a tener dos cromátidas hermanas. En células animales también se <strong>duplican los centriolos</strong>.</td>
+</tr>
+<tr>
+<td><strong>G2</strong></td>
+<td>La célula sigue creciendo, fabrica las proteínas necesarias para la división, como la tubulina del huso, y <strong>revisa</strong> que el ADN se haya copiado sin errores.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>La fase G0.</strong> Muchas células salen del ciclo desde G1 y entran en un estado de <strong>no división</strong>, llamado G0, en el que cumplen su función especializada.</p>
+<ul>
+<li>Algunas quedan en G0 de forma casi permanente, como la mayoría de las <strong>neuronas</strong> y las fibras musculares cardíacas.</li>
+<li>Otras pueden volver al ciclo si reciben una señal. Por ejemplo, los <strong>hepatocitos</strong> se dividen para regenerar el hígado cuando se extirpa una parte.</li>
+<li>Otras nunca entran en G0 y se dividen constantemente, como las células madre de la piel, de la médula ósea o del epitelio intestinal.</li>
+</ul>
+<h3 id="b-la-cantidad-de-adn-a-lo-largo-del-ciclo">b. La cantidad de ADN a lo largo del ciclo</h3>
+<p>Se suele llamar <strong>c</strong> a la cantidad de ADN de un juego de cromosomas sin replicar. Una célula diploide en G1 tiene <strong>2c</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Etapa</th>
+<th>Cromosomas (humano)</th>
+<th>Cromátidas por cromosoma</th>
+<th>Cantidad de ADN</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>G1</td>
+<td>46</td>
+<td>1</td>
+<td>2c</td>
+</tr>
+<tr>
+<td>S</td>
+<td>46</td>
+<td>Pasa de 1 a 2</td>
+<td>Aumenta de 2c a 4c</td>
+</tr>
+<tr>
+<td>G2</td>
+<td>46</td>
+<td>2</td>
+<td>4c</td>
+</tr>
+<tr>
+<td>Mitosis (hasta la metafase)</td>
+<td>46</td>
+<td>2</td>
+<td>4c</td>
+</tr>
+<tr>
+<td>Cada célula hija, después de la citocinesis</td>
+<td>46</td>
+<td>1</td>
+<td>2c</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="img/cap06-adn-reproduccion-celular/adn-ciclo.svg" alt="Gráfico de la cantidad de ADN por célula a lo largo del tiempo: constante en 2c durante G1, sube a 4c durante S, se mantiene en G2 y mitosis, y baja a 2c tras la citocinesis"><figcaption>Figura 3. Cantidad de ADN por célula a lo largo de un ciclo celular. Diagrama propio.</figcaption></figure>
+
+<div class="tip">
+<p><strong>Gráficos de ADN en la PAES:</strong> el tramo en que el ADN <strong>sube de 2c a 4c</strong> es la <strong>fase S</strong>. El tramo en que <strong>baja de 4c a 2c</strong> corresponde al final de la división, cuando el material se reparte entre dos células. Si el gráfico baja <strong>dos veces</strong>, primero de 4c a 2c y luego de 2c a c, se trata de una <strong>meiosis</strong> (sección 7).</p>
+</div>
+<h3 id="c-otra-forma-de-estudiar-el-ciclo-contar-celulas">c. Otra forma de estudiar el ciclo: contar células</h3>
+<p>En un cultivo en el que las células se dividen sin sincronizar, la <strong>proporción de células en cada fase</strong> es aproximadamente igual a la <strong>fracción del ciclo que ocupa esa fase</strong>. Si de 200 células observadas al microscopio, 10 están en mitosis, entonces la mitosis ocupa cerca del 10/200 = <strong>5 %</strong> del ciclo. Si el ciclo dura 24 horas, la mitosis dura unos 0,05 × 24 ≈ <strong>1,2 horas</strong>.</p>
+<p>Este razonamiento aparece en preguntas con datos: se entrega el número de células en cada fase y se pide estimar su duración.</p>
+<h2 id="4-mitosis-y-citocinesis">4. Mitosis y citocinesis</h2>
+<p>La mitosis reparte el ADN replicado en <strong>dos núcleos idénticos</strong>, cada uno con el mismo número de cromosomas que la célula original. Es un proceso continuo, pero para estudiarlo se divide en cuatro etapas, que se reconocen por lo que se <strong>ve</strong> al microscopio.</p>
+<figure><img src="img/cap06-adn-reproduccion-celular/fases-mitosis.svg" alt="Cuatro esquemas de una célula animal en profase, metafase, anafase y telofase con citocinesis"><figcaption>Figura 4. Etapas de la mitosis en una célula animal con 2n = 4. Diagrama propio.</figcaption></figure>
+
+<h3 id="a-las-etapas-de-la-mitosis">a. Las etapas de la mitosis</h3>
+<table>
+<thead>
+<tr>
+<th>Etapa</th>
+<th>Qué ocurre</th>
+<th>Cómo reconocerla al microscopio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Profase</strong></td>
+<td>La cromatina se <strong>condensa</strong> en cromosomas visibles, cada uno con dos cromátidas. Los centrosomas se separan hacia los polos y empieza a formarse el <strong>huso mitótico</strong> de microtúbulos. Al final se <strong>desintegra la envoltura nuclear</strong> (carioteca) y desaparece el nucléolo. En algunos textos esta última parte se llama <em>prometafase</em>: los microtúbulos se unen a los <strong>cinetocoros</strong></td>
+<td>Cromosomas visibles como filamentos; el núcleo pierde su borde</td>
+</tr>
+<tr>
+<td><strong>Metafase</strong></td>
+<td>Los cromosomas se alinean en el <strong>plano ecuatorial</strong> de la célula (placa metafásica), cada uno con los cinetocoros de sus dos cromátidas unidos a microtúbulos de polos opuestos</td>
+<td>Cromosomas <strong>alineados en el centro</strong>. Es la etapa en que mejor se ven y se cuentan, por eso se usa para el cariotipo</td>
+</tr>
+<tr>
+<td><strong>Anafase</strong></td>
+<td>Se degradan las <strong>cohesinas</strong> que unían las cromátidas hermanas, que se <strong>separan</strong> y son arrastradas hacia <strong>polos opuestos</strong> al acortarse los microtúbulos del cinetocoro. Desde ese momento, cada cromátida es un cromosoma independiente</td>
+<td>Dos grupos de cromosomas <strong>en forma de V</strong> moviéndose hacia los polos</td>
+</tr>
+<tr>
+<td><strong>Telofase</strong></td>
+<td>Los cromosomas llegan a los polos y se <strong>descondensan</strong>. Se <strong>forman dos envolturas nucleares</strong> y reaparecen los nucléolos. El huso se desarma</td>
+<td><strong>Dos núcleos</strong> en formación en los extremos de la célula, que suele empezar a estrangularse</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Cuántos cromosomas hay en la anafase.</strong> En la anafase de una célula humana hay momentáneamente <strong>92 cromosomas</strong> en la célula: las 92 cromátidas separadas cuentan como cromosomas independientes, 46 hacia cada polo. La cantidad de ADN sigue siendo 4c hasta que se completa la citocinesis.</p>
+</div>
+<h3 id="b-el-huso-mitotico">b. El huso mitótico</h3>
+<p>El huso está formado por <strong>microtúbulos</strong> que se organizan desde los centrosomas. Hay de varios tipos:</p>
+<ul>
+<li><strong>Microtúbulos del cinetocoro:</strong> se unen a los cromosomas y los arrastran hacia los polos.</li>
+<li><strong>Microtúbulos polares:</strong> se superponen en el centro y empujan los polos hacia afuera, alargando la célula.</li>
+<li><strong>Ásteres:</strong> irradian hacia la membrana y orientan el huso.</li>
+</ul>
+<div class="nota">
+<p><strong>Fármacos que atacan el huso.</strong> Como la mitosis depende de los microtúbulos, algunos fármacos contra el cáncer actúan sobre ellos. La <strong>vinblastina</strong> y la <strong>vincristina</strong>, obtenidas de la planta vinca, impiden que los microtúbulos se formen, igual que la <strong>colchicina</strong>. El <strong>taxol</strong> (paclitaxel), obtenido del tejo, hace lo contrario: los estabiliza e impide que se desarmen. En ambos casos las células quedan <strong>detenidas en metafase</strong>, porque el huso no funciona, y terminan muriendo. Las células que se dividen rápido son las más afectadas. Por eso estos fármacos atacan a los tumores, pero también a las células del pelo y de la médula ósea.</p>
+</div>
+<h3 id="c-citocinesis">c. Citocinesis</h3>
+<p>La citocinesis divide el citoplasma. Suele empezar durante la anafase o la telofase y es distinta en las células animales y vegetales:</p>
+<table>
+<thead>
+<tr>
+<th>Célula animal</th>
+<th>Célula vegetal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Un <strong>anillo contráctil</strong> de <strong>actina y miosina</strong> estrangula la célula desde afuera hacia adentro y forma un <strong>surco de segmentación</strong></td>
+<td>La pared rígida impide estrangularla. Vesículas del <strong>Golgi</strong> con materiales de pared se acumulan en el centro y se fusionan, formando una <strong>placa celular</strong> que crece desde el centro hacia afuera y se convierte en la nueva pared</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Pistas para reconocer el tipo de célula:</strong> si en una célula en división no hay centriolos y la citocinesis ocurre con placa celular, es vegetal. Un fármaco que bloquea la <strong>actina</strong>, como la citocalasina, impide la citocinesis animal, pero no la mitosis: el resultado es una célula con <strong>dos núcleos</strong>.</p>
+</div>
+<h3 id="d-resultado-de-la-mitosis">d. Resultado de la mitosis</h3>
+<p>Una célula diploide (2n) produce <strong>dos células diploides (2n)</strong>, <strong>genéticamente idénticas</strong> entre sí y a la célula madre, salvo que ocurran mutaciones. La mitosis <strong>conserva</strong> la información genética.</p>
+<p>Los procariontes no hacen mitosis: se dividen por <strong>fisión binaria</strong>. Replican su cromosoma circular, las dos copias se separan a medida que la célula se alarga y la célula se divide en dos.</p>
+<h2 id="5-control-del-ciclo-celular-los-puntos-de-control">5. Control del ciclo celular: los puntos de control</h2>
+<p>El ciclo celular no avanza «automáticamente». Funciona como una línea de montaje con <strong>inspectores</strong>: en ciertos momentos, la célula verifica que todo esté en orden antes de seguir. Esos momentos son los <strong>puntos de control</strong>. El temario DEMRE pide conocer tres.</p>
+<table>
+<thead>
+<tr>
+<th>Punto de control</th>
+<th>Qué verifica</th>
+<th>Si algo está mal…</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>G1–S</strong> (al final de G1)</td>
+<td>Que la célula tenga el <strong>tamaño</strong> adecuado, suficientes <strong>nutrientes</strong>, <strong>señales</strong> que la estimulen a dividirse (factores de crecimiento) y un <strong>ADN sin daños</strong></td>
+<td>Se detiene en G1 para reparar el ADN, o entra en G0. Si el daño es irreparable, puede activar la <strong>apoptosis</strong> (muerte celular programada). Es el punto de «no retorno»: si se supera, la célula se compromete a dividirse</td>
+</tr>
+<tr>
+<td><strong>G2–M</strong> (al final de G2)</td>
+<td>Que el ADN se haya <strong>replicado completo y sin errores</strong></td>
+<td>Se detiene la entrada a mitosis hasta que se repare el ADN</td>
+</tr>
+<tr>
+<td><strong>De metafase</strong> (del huso)</td>
+<td>Que <strong>todos los cinetocoros</strong> estén unidos a microtúbulos de ambos polos</td>
+<td>La anafase no comienza. Así se evita que una célula hija quede con cromosomas de más o de menos</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Razonar con alteraciones.</strong> Si una toxina desactiva el punto de control de metafase, las cromátidas se pueden separar aunque algunos cromosomas no estén bien unidos al huso: se producirán células hijas con <strong>números anormales de cromosomas</strong>. Si además se inhiben las moléculas que inducen la apoptosis, esas células anormales <strong>no morirán</strong> y podrían seguir dividiéndose sin control. Este es el razonamiento de una pregunta de la prueba oficial de invierno de 2027.</p>
+</div>
+<h3 id="a-ciclinas-y-quinasas-el-motor-del-ciclo">a. Ciclinas y quinasas: el motor del ciclo</h3>
+<p>El avance del ciclo depende de un grupo de proteínas reguladoras:</p>
+<ul>
+<li><strong>Quinasas dependientes de ciclinas (Cdk):</strong> enzimas que activan o desactivan otras proteínas agregándoles grupos fosfato. Están siempre presentes, pero solo funcionan cuando se unen a una ciclina.</li>
+<li><strong>Ciclinas:</strong> proteínas cuya concentración <strong>sube y baja</strong> a lo largo del ciclo. Se fabrican en una etapa y se destruyen en la siguiente.</li>
+</ul>
+<p>Cada combinación de ciclina y Cdk impulsa una transición: una lleva la célula de G1 a S y otra, de G2 a mitosis. El complejo que dispara la mitosis se llamó <strong>MPF</strong>, «factor promotor de la fase M».</p>
+<div class="nota">
+<p><strong>Un experimento clásico: la fusión de células.</strong> En 1970, los investigadores Rao y Johnson fusionaron células que estaban en distintas fases del ciclo:</p>
+<ul>
+<li>Al fusionar una célula en <strong>fase S</strong> con una en <strong>G1</strong>, el núcleo en G1 <strong>empezó a replicar su ADN</strong> antes de tiempo.</li>
+<li>Al fusionar una célula en <strong>mitosis</strong> con una en interfase, el núcleo en interfase <strong>condensó su cromatina</strong> de inmediato, como si entrara en mitosis.</li>
+</ul>
+<p><strong>Conclusión:</strong> el citoplasma contiene <strong>señales químicas</strong> que controlan el avance del ciclo. Esas señales resultaron ser los complejos ciclina-Cdk.</p>
+</div>
+<div class="nota">
+<p><strong>Otro experimento: las ciclinas del erizo de mar.</strong> A comienzos de la década de 1980, Tim Hunt estudió embriones de erizo de mar, que se dividen rápido y en forma sincronizada. Encontró una proteína que se acumulaba durante cada interfase y <strong>desaparecía bruscamente al final de cada mitosis</strong>, y la llamó <strong>ciclina</strong>. Por los descubrimientos sobre el control del ciclo, Hunt, Paul Nurse y Leland Hartwell recibieron el Premio Nobel de Medicina en 2001.</p>
+</div>
+<h3 id="b-genes-que-aceleran-y-genes-que-frenan">b. Genes que aceleran y genes que frenan</h3>
+<p>El control del ciclo depende de dos grupos de genes, que funcionan como el acelerador y el freno de un auto:</p>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Función normal</th>
+<th>Cuando mutan…</th>
+<th>Ejemplos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Protooncogenes</strong> (el acelerador)</td>
+<td>Codifican proteínas que <strong>estimulan</strong> la división en respuesta a señales: receptores de factores de crecimiento, proteínas que transmiten la señal</td>
+<td>Se convierten en <strong>oncogenes</strong>: estimulan la división <strong>aunque no haya señal</strong>, como un acelerador trabado. Basta con que <strong>una</strong> copia mute</td>
+<td><em>RAS</em>, receptor de EGF</td>
+</tr>
+<tr>
+<td><strong>Genes supresores de tumores</strong> (el freno)</td>
+<td>Codifican proteínas que <strong>detienen</strong> el ciclo si hay problemas, reparan el ADN o inducen la apoptosis</td>
+<td>Se pierde el freno. En general deben fallar <strong>las dos</strong> copias</td>
+<td><strong><em>TP53</em></strong> (proteína p53, «guardián del genoma»), <strong><em>RB</em></strong>, <em>BRCA1</em></td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>La proteína p53</strong> se activa cuando el ADN está dañado. Detiene el ciclo en G1 para que se repare, y si el daño es muy grave, ordena la apoptosis. Está alterada en cerca de la mitad de los cánceres humanos. Sin p53, una célula con el ADN dañado sigue dividiéndose y acumula más mutaciones.</p>
+</div>
+<h2 id="6-importancia-de-la-mitosis-crecimiento-reparacion">6. Importancia de la mitosis: crecimiento, reparación y cáncer</h2>
+<h3 id="a-para-que-sirve-la-mitosis">a. Para qué sirve la mitosis</h3>
+<p>La mitosis produce células <strong>genéticamente idénticas</strong>, y eso la hace indispensable en tres procesos:</p>
+<table>
+<thead>
+<tr>
+<th>Proceso</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Crecimiento y desarrollo</strong></td>
+<td>Un ser humano comienza como una sola célula, el cigoto. Por mitosis sucesivas llega a tener decenas de billones de células</td>
+</tr>
+<tr>
+<td><strong>Renovación de tejidos</strong></td>
+<td>La piel reemplaza continuamente sus capas externas. El epitelio intestinal se renueva en pocos días. La médula ósea produce millones de glóbulos rojos por segundo</td>
+</tr>
+<tr>
+<td><strong>Reparación de heridas</strong></td>
+<td>Al cortarse la piel o fracturarse un hueso, las células vecinas se dividen para cerrar la lesión</td>
+</tr>
+<tr>
+<td><strong>Reproducción asexual</strong></td>
+<td>Organismos unicelulares eucariontes, como levaduras y amebas, y plantas que se propagan por esquejes o tubérculos, forman descendientes idénticos (clones)</td>
+</tr>
+</tbody>
+</table>
+<p>Que las células hijas sean idénticas <strong>conserva la información genética</strong>: cada célula del cuerpo tiene el mismo genoma que el cigoto.</p>
+<h3 id="b-el-cancer-cuando-se-pierde-el-control">b. El cáncer: cuando se pierde el control</h3>
+<p>El <strong>cáncer</strong> es un conjunto de enfermedades en que un grupo de células se <strong>divide sin control</strong>, ignorando las señales y los puntos de control del ciclo. Se origina por <strong>mutaciones acumuladas</strong> en los genes que regulan el ciclo: protooncogenes que se vuelven oncogenes y genes supresores que se inactivan (sección 5.b).</p>
+<p><strong>Características de las células cancerosas:</strong></p>
+<ul>
+<li>se dividen <strong>sin necesitar señales</strong> externas (factores de crecimiento);</li>
+<li><strong>ignoran los puntos de control</strong> y siguen dividiéndose con el ADN dañado;</li>
+<li><strong>evaden la apoptosis</strong>;</li>
+<li>no se detienen al tocar otras células: en un cultivo forman capas amontonadas en vez de una sola capa (pierden la <strong>inhibición por contacto</strong>);</li>
+<li>pueden dividirse indefinidamente;</li>
+<li>estimulan la formación de vasos sanguíneos que las alimentan;</li>
+<li>en tumores malignos, <strong>invaden</strong> los tejidos vecinos y se diseminan por la sangre o la linfa hasta formar tumores en otros órganos (<strong>metástasis</strong>).</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Tumor benigno</th>
+<th>Tumor maligno (cáncer)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Crece en un lugar, generalmente encapsulado</td>
+<td>Invade tejidos vecinos</td>
+</tr>
+<tr>
+<td>No produce metástasis</td>
+<td>Puede producir metástasis</td>
+</tr>
+<tr>
+<td>Suele extirparse por completo</td>
+<td>Es más difícil de tratar</td>
+</tr>
+</tbody>
+</table>
+<div class="nota">
+<p><strong>El cáncer requiere varias mutaciones.</strong> En general se necesita que una misma célula acumule <strong>varias mutaciones</strong> en distintos genes para que se vuelva cancerosa. Eso explica por qué la mayoría de los cánceres son más frecuentes con la <strong>edad</strong>: con los años, las células acumulan más mutaciones. Los <strong>carcinógenos</strong>, que dañan el ADN, aumentan la velocidad de ese proceso. Algunos ejemplos son el humo del tabaco, la radiación ultravioleta y algunos virus, como el virus del papiloma humano (VPH).</p>
+</div>
+<div class="tip">
+<p><strong>La hipótesis de los «dos golpes».</strong> En 1971, Alfred Knudson estudió el <strong>retinoblastoma</strong>, un cáncer de ojo infantil. Observó que los niños con la forma <strong>hereditaria</strong> desarrollaban el tumor antes y a menudo en ambos ojos, mientras que la forma <strong>no hereditaria</strong> aparecía más tarde y en un solo ojo. Propuso que se necesitan <strong>dos mutaciones</strong>, una en cada copia del gen <em>RB</em>. Quien hereda una copia ya mutada necesita solo <strong>un golpe más</strong>. Es un modelo excelente de cómo los datos de una población (edad de aparición) permiten inferir un mecanismo genético. Además explica por qué los genes supresores suelen necesitar que fallen <strong>las dos copias</strong>.</p>
+</div>
+<h3 id="c-prevencion-y-tratamiento">c. Prevención y tratamiento</h3>
+<ul>
+<li><strong>Prevención:</strong> evitar el tabaco, protegerse del sol, vacunarse contra el VPH y la hepatitis B, mantener una dieta saludable y hacer los exámenes preventivos, como el Papanicolaou o la mamografía, que detectan lesiones tempranas.</li>
+<li><strong>Tratamiento:</strong> cirugía; <strong>radioterapia</strong>, que daña el ADN de las células en división; <strong>quimioterapia</strong>, con fármacos que atacan la replicación o el huso mitótico (sección 4.b); y terapias dirigidas, que bloquean proteínas específicas de las células tumorales.</li>
+</ul>
+<p>Como la quimioterapia actúa sobre las células que se dividen rápido, también afecta a los tejidos sanos de renovación rápida. Eso explica sus efectos adversos: caída del pelo, anemia y lesiones en la mucosa digestiva.</p>
+<h2 id="7-la-meiosis">7. La meiosis</h2>
+<h3 id="a-por-que-se-necesita-la-meiosis">a. ¿Por qué se necesita la meiosis?</h3>
+<p>En la reproducción sexual, dos gametos se unen en la <strong>fecundación</strong>. Si cada gameto tuviera 46 cromosomas, el cigoto tendría 92, y el número se duplicaría en cada generación. La meiosis resuelve el problema: <strong>reduce a la mitad</strong> el número de cromosomas, de 2n a n. Así, al unirse dos gametos haploides (n = 23), se restablece el número diploide (2n = 46).</p>
+<p>La meiosis ocurre en las <strong>células germinales</strong> de las gónadas: los testículos y los ovarios. Consiste en <strong>dos divisiones sucesivas</strong>, meiosis I y meiosis II, precedidas por <strong>una sola replicación</strong> del ADN, en la fase S de la interfase previa.</p>
+<figure><img src="img/cap06-adn-reproduccion-celular/meiosis.svg" alt="Esquema de la meiosis con 2n = 4: profase I con entrecruzamiento, metafase I con pares de homólogos en el ecuador, anafase I con homólogos separándose, dos células haploides, metafase II, anafase II con cromátidas separándose y cuatro células haploides distintas"><figcaption>Figura 5. Meiosis en una célula con 2n = 4. Los colores distinguen los cromosomas de origen materno y paterno. Diagrama propio.</figcaption></figure>
+
+<h3 id="b-meiosis-i-la-division-reduccional">b. Meiosis I: la división reduccional</h3>
+<p>Se separan los <strong>cromosomas homólogos</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Etapa</th>
+<th>Qué ocurre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Profase I</strong></td>
+<td>Es la etapa más larga y compleja. Los cromosomas se condensan y los <strong>homólogos se aparean</strong> a lo largo de toda su longitud (<strong>sinapsis</strong>), unidos por una estructura de proteínas llamada <strong>complejo sinaptonémico</strong>. Cada par apareado se llama <strong>bivalente</strong> o <strong>tétrada</strong> (2 cromosomas, 4 cromátidas). Entre cromátidas de homólogos ocurre el <strong>entrecruzamiento</strong>, que intercambia segmentos de ADN. Los puntos de intercambio se ven como <strong>quiasmas</strong>, que mantienen unidos a los homólogos hasta la anafase I. Al final se desintegra la envoltura nuclear</td>
+</tr>
+<tr>
+<td><strong>Metafase I</strong></td>
+<td>Los <strong>pares de homólogos</strong> se alinean en el plano ecuatorial. La orientación de cada par, con el cromosoma materno hacia uno u otro polo, es <strong>al azar</strong></td>
+</tr>
+<tr>
+<td><strong>Anafase I</strong></td>
+<td>Los <strong>homólogos se separan</strong> y van a polos opuestos. Las <strong>cromátidas hermanas siguen unidas</strong> por el centrómero</td>
+</tr>
+<tr>
+<td><strong>Telofase I y citocinesis</strong></td>
+<td>Se forman <strong>dos células haploides</strong> (n). Cada cromosoma todavía tiene <strong>dos cromátidas</strong>, que ya no son idénticas si hubo entrecruzamiento</td>
+</tr>
+</tbody>
+</table>
+<h3 id="c-meiosis-ii-la-division-ecuacional">c. Meiosis II: la división ecuacional</h3>
+<p>Es muy parecida a una mitosis, pero en células haploides, y <strong>no hay replicación previa</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Etapa</th>
+<th>Qué ocurre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Profase II</strong></td>
+<td>Se forma un nuevo huso en cada célula</td>
+</tr>
+<tr>
+<td><strong>Metafase II</strong></td>
+<td>Los cromosomas, cada uno con dos cromátidas, se alinean en el ecuador</td>
+</tr>
+<tr>
+<td><strong>Anafase II</strong></td>
+<td>Se separan las <strong>cromátidas hermanas</strong></td>
+</tr>
+<tr>
+<td><strong>Telofase II y citocinesis</strong></td>
+<td>Se forman en total <strong>cuatro células haploides</strong> (n), genéticamente <strong>distintas</strong> entre sí y distintas de la célula original</td>
+</tr>
+</tbody>
+</table>
+<h3 id="d-el-adn-y-los-cromosomas-a-lo-largo-de-la-meiosis">d. El ADN y los cromosomas a lo largo de la meiosis</h3>
+<table>
+<thead>
+<tr>
+<th>Momento (humano)</th>
+<th>Cromosomas</th>
+<th>Cromátidas por cromosoma</th>
+<th>ADN</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Célula germinal en G1</td>
+<td>46 (2n)</td>
+<td>1</td>
+<td>2c</td>
+</tr>
+<tr>
+<td>Después de la fase S y en la profase I</td>
+<td>46 (2n)</td>
+<td>2</td>
+<td>4c</td>
+</tr>
+<tr>
+<td>Cada célula tras la meiosis I</td>
+<td>23 (n)</td>
+<td>2</td>
+<td>2c</td>
+</tr>
+<tr>
+<td>Cada célula tras la meiosis II</td>
+<td>23 (n)</td>
+<td>1</td>
+<td>c</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Dónde se reduce el número de cromosomas.</strong> La <strong>ploidía</strong> se reduce en la <strong>meiosis I</strong>, porque se separan los homólogos y cada célula queda con un solo juego. La meiosis II no cambia el número de cromosomas (sigue siendo n): solo separa cromátidas y reduce el ADN de 2c a c. Por eso se dice que la meiosis I es <strong>reduccional</strong> y la meiosis II, <strong>ecuacional</strong>.</p>
+</div>
+<h2 id="8-meiosis-y-variabilidad-genetica">8. Meiosis y variabilidad genética</h2>
+<p>Salvo los gemelos idénticos, no hay dos personas con la misma combinación de genes, ni siquiera los hermanos. La meiosis y la fecundación son las responsables. Hay <strong>tres fuentes</strong> de variabilidad en la reproducción sexual.</p>
+<h3 id="a-entrecruzamiento-recombinacion-en-la-profase-i">a. Entrecruzamiento (recombinación) en la profase I</h3>
+<p>Durante la sinapsis, las cromátidas de cromosomas homólogos intercambian segmentos. Resultado: cada cromátida queda como un <strong>mosaico</strong> de ADN materno y paterno, con <strong>combinaciones nuevas de alelos</strong> que no existían en ninguno de los dos cromosomas originales. En humanos ocurren en promedio <strong>uno a tres entrecruzamientos por par de homólogos</strong> en cada meiosis.</p>
+<p>Los <strong>quiasmas</strong> tienen además una función mecánica: mantienen unidos a los homólogos hasta la anafase I, lo que asegura que se separen correctamente. Por eso se ha observado que <strong>menos quiasmas</strong> se asocia con <strong>más errores de separación</strong> (no disyunción), como planteó una pregunta de la prueba oficial de invierno de 2027.</p>
+<h3 id="b-permutacion-cromosomica-segregacion-independient">b. Permutación cromosómica (segregación independiente) en la metafase I</h3>
+<p>En la metafase I, cada par de homólogos se orienta <strong>al azar</strong>, con el cromosoma materno hacia uno u otro polo, <strong>independientemente</strong> de los otros pares. El número de combinaciones posibles de cromosomas en los gametos es <strong>2<sup>n</sup></strong>, donde n es el número de pares:</p>
+<table>
+<thead>
+<tr>
+<th>Organismo</th>
+<th>Pares de homólogos (n)</th>
+<th>Combinaciones (2<sup>n</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Célula hipotética con 2n = 4</td>
+<td>2</td>
+<td>2<sup>2</sup> = 4</td>
+</tr>
+<tr>
+<td>Mosca <em>Drosophila</em>, 2n = 8</td>
+<td>4</td>
+<td>2<sup>4</sup> = 16</td>
+</tr>
+<tr>
+<td>Ser humano, 2n = 46</td>
+<td>23</td>
+<td>2<sup>23</sup> ≈ <strong>8,4 millones</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Y eso sin contar el entrecruzamiento, que multiplica aún más las posibilidades.</p>
+<h3 id="c-fecundacion-al-azar">c. Fecundación al azar</h3>
+<p>Cualquier espermatozoide puede fecundar a cualquier ovocito. Solo por segregación independiente, una pareja humana puede formar unos 8,4 millones × 8,4 millones ≈ <strong>70 billones</strong> de combinaciones distintas de cigotos, y el entrecruzamiento las multiplica todavía más.</p>
+<div class="nota">
+<p><strong>¿Por qué importa la variabilidad?</strong> Una población con individuos genéticamente diversos tiene más probabilidades de que <strong>algunos</strong> sobrevivan ante un cambio ambiental, como una enfermedad nueva o un cambio de clima. La variabilidad es la <strong>materia prima de la selección natural</strong> (capítulo 9). En cambio, los organismos que se reproducen solo asexualmente forman clones idénticos, que son vulnerables al mismo peligro.</p>
+</div>
+<div class="tip">
+<p><strong>Comparar reproducción asexual y sexual en la PAES.</strong> En la prueba oficial de invierno de 2027 se comparó la <strong>partenogénesis</strong> (desarrollo de crías sin fecundación) cuando se origina por mitosis y cuando se origina por meiosis. El razonamiento clave es que, si el proceso incluye <strong>meiosis</strong>, hay entrecruzamiento y segregación al azar, así que la descendencia tendrá <strong>más variabilidad</strong> que si solo hubo mitosis, que produce <strong>clones</strong>.</p>
+</div>
+<h2 id="9-errores-en-la-meiosis-y-comparacion-con-la-mitos">9. Errores en la meiosis y comparación con la mitosis</h2>
+<h3 id="a-no-disyuncion-y-aneuploidias">a. No disyunción y aneuploidías</h3>
+<p>La <strong>no disyunción</strong> ocurre cuando los cromosomas <strong>no se separan</strong> correctamente:</p>
+<ul>
+<li><strong>en la meiosis I</strong>, un par de homólogos va completo a una sola célula;</li>
+<li><strong>en la meiosis II</strong>, las dos cromátidas hermanas van a la misma célula.</li>
+</ul>
+<p>El resultado son gametos con un cromosoma <strong>de más (n + 1)</strong> o <strong>de menos (n − 1)</strong>. Si uno de ellos participa en la fecundación, el cigoto tendrá <strong>2n + 1</strong> (<strong>trisomía</strong>) o <strong>2n − 1</strong> (<strong>monosomía</strong>). A estas alteraciones del número de cromosomas se las llama <strong>aneuploidías</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Condición</th>
+<th>Cariotipo</th>
+<th>Frecuencia aproximada en nacidos vivos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Síndrome de Down (trisomía 21)</td>
+<td>47, +21</td>
+<td>1 de cada 800</td>
+</tr>
+<tr>
+<td>Síndrome de Edwards (trisomía 18)</td>
+<td>47, +18</td>
+<td>1 de cada 6000</td>
+</tr>
+<tr>
+<td>Síndrome de Patau (trisomía 13)</td>
+<td>47, +13</td>
+<td>1 de cada 15 000</td>
+</tr>
+<tr>
+<td>Síndrome de Klinefelter</td>
+<td>47, XXY</td>
+<td>1 de cada 1000 hombres</td>
+</tr>
+<tr>
+<td>Síndrome de Turner (monosomía)</td>
+<td>45, X</td>
+<td>1 de cada 5000 mujeres</td>
+</tr>
+</tbody>
+</table>
+<p>La mayoría de las aneuploidías en otros cromosomas son incompatibles con el desarrollo y terminan en abortos espontáneos. Las trisomías viables afectan a cromosomas <strong>pequeños</strong>, que tienen menos genes.</p>
+<div class="nota">
+<p><strong>La edad materna y la trisomía 21.</strong> El riesgo de tener un hijo con síndrome de Down aumenta con la edad de la madre. Distintas fuentes lo sitúan aproximadamente en 1 en 1500 a los 20 años, 1 en 385 a los 35, 1 en 105 a los 40 y 1 en 30 a los 45. Una explicación es que los ovocitos quedan detenidos en la profase I <strong>desde antes del nacimiento</strong> y completan la meiosis I recién en la ovulación, décadas después. Con los años, las proteínas que mantienen unidos a los homólogos se deterioran y aumenta la no disyunción.</p>
+<p>Es un buen ejemplo para practicar lectura de datos. Una <strong>correlación</strong> entre la edad y la trisomía no demuestra por sí sola el mecanismo; el mecanismo se apoya en otras evidencias.</p>
+</div>
+<h3 id="b-mitosis-y-meiosis-comparacion">b. Mitosis y meiosis: comparación</h3>
+<table>
+<thead>
+<tr>
+<th>Característica</th>
+<th>Mitosis</th>
+<th>Meiosis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dónde ocurre</td>
+<td>Células somáticas (y células germinales antes de la meiosis)</td>
+<td>Células germinales de las gónadas</td>
+</tr>
+<tr>
+<td>Número de divisiones</td>
+<td>Una</td>
+<td>Dos (meiosis I y II)</td>
+</tr>
+<tr>
+<td>Replicación del ADN previa</td>
+<td>Una</td>
+<td>Una (solo antes de la meiosis I)</td>
+</tr>
+<tr>
+<td>Apareamiento de homólogos</td>
+<td>No</td>
+<td>Sí, en la profase I (sinapsis, bivalentes)</td>
+</tr>
+<tr>
+<td>Entrecruzamiento</td>
+<td>No (normalmente)</td>
+<td>Sí, en la profase I</td>
+</tr>
+<tr>
+<td>Qué se alinea en la metafase</td>
+<td>Cromosomas individuales</td>
+<td>Metafase I: <strong>pares</strong> de homólogos; metafase II: cromosomas individuales</td>
+</tr>
+<tr>
+<td>Qué se separa en la anafase</td>
+<td>Cromátidas hermanas</td>
+<td>Anafase I: <strong>homólogos</strong>; anafase II: cromátidas hermanas</td>
+</tr>
+<tr>
+<td>Células resultantes</td>
+<td><strong>2</strong>, diploides (2n)</td>
+<td><strong>4</strong>, haploides (n)</td>
+</tr>
+<tr>
+<td>Genéticamente…</td>
+<td><strong>Idénticas</strong> a la célula madre</td>
+<td><strong>Distintas</strong> entre sí y de la célula madre</td>
+</tr>
+<tr>
+<td>Función</td>
+<td>Crecimiento, reparación, renovación, reproducción asexual</td>
+<td>Formación de gametos (o esporas) y variabilidad genética</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Para identificar una etapa en un dibujo</strong> con 2n = 4:</p>
+<ul>
+<li>Si hay <strong>pares de homólogos juntos</strong> en el ecuador, es la <strong>metafase I</strong>.</li>
+<li>Si hay <strong>4 cromosomas sueltos</strong> en el ecuador, cada uno con 2 cromátidas, es la <strong>metafase mitótica</strong>.</li>
+<li>Si hay <strong>2 cromosomas</strong> en el ecuador, cada uno con 2 cromátidas, es la <strong>metafase II</strong>.</li>
+</ul>
+<p>Luego verifica si lo que se separa son homólogos (anafase I) o cromátidas (anafase mitótica o anafase II).</p>
+</div>
+<h2 id="ejemplos-paes-resueltos">Ejemplos PAES resueltos</h2>
+<p>Cuatro preguntas del estilo de la PAES sobre el ciclo celular y la meiosis, resueltas con el guion DEMRE. Intenta responder antes de leer la resolución.</p>
+<div class="ejemplo">
+<p><strong>Ejemplo 1 · Habilidad: Procesar y analizar la evidencia</strong></p>
+<p>En un cultivo de células humanas que se dividen de forma no sincronizada, con un ciclo celular de 20 horas, una estudiante observó al microscopio 400 células y registró la etapa de cada una:</p>
+<table>
+<thead>
+<tr>
+<th>Etapa</th>
+<th>Interfase</th>
+<th>Profase</th>
+<th>Metafase</th>
+<th>Anafase</th>
+<th>Telofase</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>N.º de células</td>
+<td>380</td>
+<td>10</td>
+<td>5</td>
+<td>2</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<p>¿Cuánto dura aproximadamente la mitosis en estas células?</p>
+<ul>
+<li><strong>A)</strong> 0,5 horas</li>
+<li><strong>B)</strong> 1 hora</li>
+<li><strong>C)</strong> 2 horas</li>
+<li><strong>D)</strong> 5 horas</li>
+</ul>
+<p><strong>Resolución.</strong> Esta pregunta evalúa la habilidad de <em>procesar y analizar la evidencia</em>: usar datos numéricos para calcular una variable. En un cultivo no sincronizado, la fracción de células en una etapa es proporcional a la duración de esa etapa. Hay 10 + 5 + 2 + 3 = <strong>20 células en mitosis</strong> de 400, es decir, 20/400 = <strong>0,05</strong> (5 %). Entonces la mitosis dura 0,05 × 20 horas = <strong>1 hora</strong>. Clave: <strong>B</strong>.</p>
+<ul>
+<li><strong>A</strong> corresponde a considerar solo la profase (10/400 × 20 = 0,5 h). Es un <em>error de cálculo típico</em>, porque omite parte de las etapas.</li>
+<li><strong>C</strong> duplica el resultado, por ejemplo al usar 200 células como total. <em>Error de cálculo típico</em>.</li>
+<li><strong>D</strong> resulta de confundir el porcentaje (5 %) con horas. <em>Error de cálculo típico</em>.</li>
+</ul>
+<p><strong>Qué hay que saber y saber hacer:</strong> reconocer las etapas de la mitosis y aplicar la proporción <em>duración de la etapa = (células en la etapa ÷ total) × duración del ciclo</em>. <em>Dato:</em> con los mismos datos se deduce que la <strong>interfase</strong> ocupa el 95 % del ciclo (19 horas).</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 2 · Habilidad: Planificar y conducir una investigación</strong></p>
+<p>Un laboratorio necesita sincronizar un cultivo de células para que todas <strong>inicien la replicación del ADN</strong> al mismo tiempo. Busca un fármaco que detenga el ciclo de forma reversible justo <strong>antes de la fase S</strong>.</p>
+<p>¿Cuál de los siguientes mecanismos de acción cumpliría ese objetivo?</p>
+<ul>
+<li><strong>A)</strong> Estabilizar los microtúbulos e impedir que se desarme el huso.</li>
+<li><strong>B)</strong> Inhibir el complejo ciclina-Cdk que permite el paso de G1 a S.</li>
+<li><strong>C)</strong> Impedir la formación del anillo contráctil de actina y miosina.</li>
+<li><strong>D)</strong> Bloquear la degradación de las cohesinas entre cromátidas hermanas.</li>
+</ul>
+<p><strong>Resolución.</strong> Esta pregunta evalúa la habilidad de <em>planificar y conducir una investigación</em>, en su criterio de seleccionar un procedimiento adecuado para un objetivo. El paso de G1 a S depende de que se active un complejo ciclina-Cdk. Si se inhibe, la célula queda detenida al final de G1. Al retirar el fármaco, todas las células entran juntas en S. Clave: <strong>B</strong>.</p>
+<ul>
+<li><strong>A</strong> actúa en la <strong>mitosis</strong>, porque bloquea el huso. Detendría las células en metafase. <em>Condición incompleta</em>: detiene el ciclo, pero en la etapa equivocada.</li>
+<li><strong>C</strong> afecta la <strong>citocinesis</strong>, que ocurre al final de la división. <em>Variable equivocada</em>.</li>
+<li><strong>D</strong> impide que las cromátidas se separen en la <strong>anafase</strong>. <em>Variable equivocada</em>.</li>
+</ul>
+<p><strong>Qué hay que saber y saber hacer:</strong> ubicar cada estructura o molécula en la etapa del ciclo en que actúa, y relacionarla con dónde quedaría detenida la célula si se bloquea. <em>Dato:</em> en la prueba oficial de invierno de 2027 apareció una pregunta con este mismo objetivo experimental, sincronizar células al inicio de la fase S.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 3 · Habilidad: Procesar y analizar la evidencia</strong></p>
+<p>Una célula de una especie con <strong>2n = 8</strong> se encuentra en <strong>metafase I</strong> de la meiosis.</p>
+<p>¿Cuántos cromosomas y cuántas cromátidas tendrá <strong>cada célula</strong> al terminar la <strong>meiosis I</strong>?</p>
+<ul>
+<li><strong>A)</strong> 4 cromosomas y 4 cromátidas.</li>
+<li><strong>B)</strong> 4 cromosomas y 8 cromátidas.</li>
+<li><strong>C)</strong> 8 cromosomas y 8 cromátidas.</li>
+<li><strong>D)</strong> 8 cromosomas y 16 cromátidas.</li>
+</ul>
+<p><strong>Resolución.</strong> Esta pregunta evalúa la habilidad de <em>procesar y analizar la evidencia</em>, a partir de un modelo del proceso. En la metafase I la célula tiene 8 cromosomas replicados (16 cromátidas), organizados en 4 pares de homólogos. En la anafase I se separan los <strong>homólogos</strong>, no las cromátidas. Así, cada célula recibe <strong>4 cromosomas</strong> (n = 4), cada uno todavía con <strong>2 cromátidas</strong>: 4 × 2 = <strong>8 cromátidas</strong>. Clave: <strong>B</strong>.</p>
+<ul>
+<li><strong>A</strong> describe cada célula al final de la <strong>meiosis II</strong>. <em>Anacronismo</em>: correcto, pero en otra etapa.</li>
+<li><strong>C</strong> supone que la meiosis I no reduce el número de cromosomas. <em>Condición incompleta</em>.</li>
+<li><strong>D</strong> es la situación de la célula <strong>antes</strong> de dividirse. <em>Anacronismo</em>.</li>
+</ul>
+<p><strong>Qué hay que saber y saber hacer:</strong> contar cromosomas por centrómeros, saber que la meiosis I separa homólogos (reduce la ploidía) y que la meiosis II separa cromátidas. <em>Dato:</em> después de la meiosis I las células son haploides, aunque sus cromosomas aún tengan dos cromátidas.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 4 · Habilidad: Evaluar</strong></p>
+<p>Un estudio en ratones encontró que las hembras con <strong>menos quiasmas</strong> en sus ovocitos producían más embriones con <strong>aneuploidías</strong>. Un estudiante concluyó: «Los quiasmas causan que los cromosomas se separen correctamente en todos los animales».</p>
+<p>¿Cuál es la principal limitación de esta conclusión?</p>
+<ul>
+<li><strong>A)</strong> Afirma una relación inversa a la que muestran los datos del estudio.</li>
+<li><strong>B)</strong> Los quiasmas se forman en la mitosis, no en la meiosis de los ovocitos.</li>
+<li><strong>C)</strong> Extiende a todos los animales y a una causa lo que es una asociación en ratones.</li>
+<li><strong>D)</strong> Las aneuploidías no pueden deberse a errores en la separación de cromosomas.</li>
+</ul>
+<p><strong>Resolución.</strong> Esta pregunta evalúa la habilidad de <em>evaluar</em>: juzgar los alcances de una conclusión. El estudio muestra una <strong>asociación</strong>: menos quiasmas, más aneuploidías. Eso es coherente con la función de los quiasmas, que mantienen unidos a los homólogos hasta la anafase I. Pero la conclusión tiene dos problemas: generaliza a <strong>todos los animales</strong> y afirma <strong>causalidad</strong> a partir de una correlación en una sola especie. Clave: <strong>C</strong>.</p>
+<ul>
+<li><strong>A</strong> es incorrecta: la conclusión va en el mismo sentido que los datos. <em>Relación inversa o inexistente</em>.</li>
+<li><strong>B</strong> es falsa: los quiasmas se forman en la profase I de la <strong>meiosis</strong>.</li>
+<li><strong>D</strong> es falsa: la no disyunción es precisamente la causa principal de las aneuploidías.</li>
+</ul>
+<p><strong>Qué hay que saber y saber hacer:</strong> relacionar los quiasmas con la correcta segregación de los homólogos, y distinguir <strong>asociación de causalidad</strong> y <strong>muestra de generalización</strong> (capítulo 1). <em>Dato:</em> esta es la misma relación que evaluó una pregunta de la prueba oficial de invierno de 2027.</p>
+</div>
+<h2 id="evaluacion-formativa">Evaluación formativa</h2>
+<p>Veinte preguntas sobre el ciclo celular, la mitosis y la meiosis. Responde todas y luego revisa las explicaciones.</p>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>1.</strong> ¿Cuál es la unidad básica de empaquetamiento de la cromatina?</p>
+  <ol class="alternativas">
+    <li data-letra="A">El centrómero.</li>
+    <li data-letra="B">El nucleosoma.</li>
+    <li data-letra="C">El cinetocoro.</li>
+    <li data-letra="D">El cromosoma.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>El nucleosoma, formado por ADN enrollado en un octámero de histonas, es el primer nivel de compactación. El centrómero y el cinetocoro son regiones del cromosoma, y el cromosoma es el nivel más compacto, no la unidad básica.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>2.</strong> Una célula humana en G2, ¿cuántos cromosomas y cuántas cromátidas tiene?</p>
+  <ol class="alternativas">
+    <li data-letra="A">23 cromosomas y 46 cromátidas.</li>
+    <li data-letra="B">46 cromosomas y 46 cromátidas.</li>
+    <li data-letra="C">92 cromosomas y 92 cromátidas.</li>
+    <li data-letra="D">46 cromosomas y 92 cromátidas.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Tras la fase S cada cromosoma tiene dos cromátidas, pero el número de cromosomas (centrómeros) sigue siendo 46. B corresponde a G1. A confunde con una célula haploide. C cuenta cada cromátida como un cromosoma, lo que solo ocurre durante la anafase.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>3.</strong> En un gráfico de la cantidad de ADN por célula a lo largo del ciclo, ¿en qué fase ocurre el tramo en que el ADN aumenta de 2c a 4c?</p>
+  <ol class="alternativas">
+    <li data-letra="A">En la fase S.</li>
+    <li data-letra="B">En la fase G1.</li>
+    <li data-letra="C">En la anafase.</li>
+    <li data-letra="D">En la citocinesis.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La replicación del ADN ocurre en la fase S. En G1 el ADN se mantiene en 2c. En la anafase se separan cromátidas ya replicadas. En la citocinesis el ADN se reparte y cada célula baja a 2c.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>4.</strong> La mayoría de las neuronas adultas no se dividen. ¿En qué estado del ciclo se encuentran?</p>
+  <ol class="alternativas">
+    <li data-letra="A">En la fase S, replicando continuamente su ADN.</li>
+    <li data-letra="B">Detenidas en metafase por falta de huso mitótico.</li>
+    <li data-letra="C">En G0, fuera del ciclo, cumpliendo su función.</li>
+    <li data-letra="D">En G2, esperando la señal para iniciar la mitosis.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Las células que dejan de dividirse salen del ciclo desde G1 y entran en G0, donde cumplen su función especializada. Las demás alternativas describen células que sí están en el ciclo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>5.</strong> Un estudiante observa una célula con dos zonas en que se están formando nuevas envolturas nucleares y cromosomas que se descondensan. ¿En qué etapa está?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Profase.</li>
+    <li data-letra="B">Metafase.</li>
+    <li data-letra="C">Telofase.</li>
+    <li data-letra="D">Anafase.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>En la telofase se reorganizan dos envolturas nucleares y los cromosomas se descondensan. En la profase ocurre lo contrario: la envoltura se desintegra y los cromosomas se condensan. En la metafase los cromosomas están alineados en el ecuador y en la anafase se desplazan hacia los polos.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>6.</strong> ¿Qué ocurre exactamente al iniciarse la anafase mitótica?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Se separan las cromátidas hermanas hacia polos opuestos.</li>
+    <li data-letra="B">Se separan los cromosomas homólogos hacia polos opuestos.</li>
+    <li data-letra="C">Los cromosomas se alinean en el plano ecuatorial.</li>
+    <li data-letra="D">Se desintegra la envoltura nuclear de la célula.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>En la anafase se degradan las cohesinas y se separan las cromátidas hermanas. B ocurre en la anafase I de la meiosis. C corresponde a la metafase y D, a la profase.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>7.</strong> Un fármaco impide la polimerización de los microtúbulos. ¿En qué etapa quedarán detenidas las células tratadas?</p>
+  <ol class="alternativas">
+    <li data-letra="A">En G1, antes de replicar el ADN.</li>
+    <li data-letra="B">En la fase S, durante la replicación.</li>
+    <li data-letra="C">En la citocinesis, sin estrangularse.</li>
+    <li data-letra="D">En la metafase, sin separar cromátidas.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Sin microtúbulos no se forma el huso. El punto de control de metafase detecta cinetocoros sin unir y la célula no entra en anafase. La replicación (A y B) no depende del huso. C depende de la actina.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>8.</strong> En una célula vegetal, ¿cómo ocurre la citocinesis?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Por un anillo contráctil de actina que estrangula la célula.</li>
+    <li data-letra="B">Por una placa celular formada desde vesículas del Golgi.</li>
+    <li data-letra="C">Por fisión binaria del cromosoma circular de la célula.</li>
+    <li data-letra="D">Por la separación de los centriolos hacia los polos.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>La pared rígida impide el estrangulamiento. Vesículas del Golgi forman una placa celular en el centro, que crece hacia afuera. A describe la citocinesis animal, C la división de los procariontes y D no corresponde: las células vegetales no tienen centriolos.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>9.</strong> ¿Qué verifica el punto de control G2–M?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Que el ADN se haya replicado completo y sin errores.</li>
+    <li data-letra="B">Que todos los cinetocoros estén unidos al huso.</li>
+    <li data-letra="C">Que haya factores de crecimiento en el medio.</li>
+    <li data-letra="D">Que las cromátidas lleguen a los polos opuestos.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Antes de entrar en mitosis, la célula comprueba que la replicación esté completa y correcta. B es el punto de control de metafase. C se evalúa sobre todo en G1–S. D no es un punto de control.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>10.</strong> Al fusionar una célula en mitosis con una célula en G1, el núcleo en G1 condensa su cromatina de inmediato. ¿Qué indica este resultado?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La cromatina se condensa siempre al fusionar dos células.</li>
+    <li data-letra="B">El núcleo en G1 ya había replicado su ADN antes de la fusión.</li>
+    <li data-letra="C">La célula en mitosis perdió su capacidad de dividirse.</li>
+    <li data-letra="D">El citoplasma mitótico tiene factores que inducen la mitosis.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>El citoplasma de la célula en mitosis contiene señales, los complejos ciclina-Cdk, capaces de inducir la condensación en otro núcleo. A generaliza sin evidencia. B no se desprende del experimento. C no se evaluó.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>11.</strong> ¿Por qué una mutación que inactiva el gen <em>TP53</em> favorece el desarrollo de cáncer?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque activa la división aunque no existan señales.</li>
+    <li data-letra="B">Porque la célula deja de detenerse ante el ADN dañado.</li>
+    <li data-letra="C">Porque impide que la célula replique su material genético.</li>
+    <li data-letra="D">Porque aumenta la eficiencia de la reparación del ADN.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>p53 es un supresor de tumores: detiene el ciclo o induce la apoptosis ante el ADN dañado. Sin él, las células dañadas siguen dividiéndose. A describe un oncogén. C impediría la división. D es lo contrario de lo que ocurre.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>12.</strong> ¿Cuál de las siguientes es una característica de las células cancerosas?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Se detienen al entrar en contacto con otras células.</li>
+    <li data-letra="B">Se dividen solo en presencia de factores de crecimiento.</li>
+    <li data-letra="C">Evaden la apoptosis aunque su ADN esté dañado.</li>
+    <li data-letra="D">Respetan los puntos de control del ciclo celular.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Las células cancerosas escapan de la muerte programada. A, B y D describen el comportamiento de células normales, que es justamente el que se pierde en el cáncer.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>13.</strong> ¿Por qué la incidencia de la mayoría de los cánceres aumenta con la edad?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque las células mayores dejan de replicar su ADN.</li>
+    <li data-letra="B">Porque con la edad desaparecen los protooncogenes.</li>
+    <li data-letra="C">Porque una sola mutación basta para producir cáncer.</li>
+    <li data-letra="D">Porque las mutaciones necesarias se acumulan con los años.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Una célula suele necesitar varias mutaciones para volverse cancerosa, y estas se acumulan con el tiempo. C contradice ese modelo. A y B son falsas.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>14.</strong> ¿En qué etapa de la meiosis se aparean los cromosomas homólogos y ocurre el entrecruzamiento?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Profase I.</li>
+    <li data-letra="B">Metafase I.</li>
+    <li data-letra="C">Profase II.</li>
+    <li data-letra="D">Anafase II.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La sinapsis y el entrecruzamiento ocurren en la profase I. En la metafase I los pares se alinean. En la meiosis II ya no hay homólogos en la misma célula.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>15.</strong> ¿En qué momento de la meiosis se reduce el número de cromosomas de 2n a n?</p>
+  <ol class="alternativas">
+    <li data-letra="A">En la fase S previa a la meiosis.</li>
+    <li data-letra="B">En la anafase II, al separarse las cromátidas.</li>
+    <li data-letra="C">En la meiosis I, al separarse los homólogos.</li>
+    <li data-letra="D">En la fecundación, al unirse los gametos.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>La separación de los homólogos en la meiosis I deja a cada célula con un solo juego de cromosomas. A duplica el ADN, pero no cambia el número de cromosomas. B separa cromátidas sin cambiar la ploidía. D restablece el número diploide.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>16.</strong> Una especie tiene 2n = 10. ¿Cuántas combinaciones cromosómicas distintas pueden formarse en sus gametos solo por segregación independiente?</p>
+  <ol class="alternativas">
+    <li data-letra="A">10</li>
+    <li data-letra="B">32</li>
+    <li data-letra="C">100</li>
+    <li data-letra="D">1024</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Con 5 pares de homólogos (n = 5), las combinaciones son 2<sup>5</sup> = 32. A confunde con 2n. C calcula 10<sup>2</sup>. D calcula 2<sup>10</sup>, usando 2n en lugar de n.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>17.</strong> ¿Qué diferencia principal existe entre las células que produce la mitosis y las que produce la meiosis?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La mitosis forma células idénticas y la meiosis, células distintas.</li>
+    <li data-letra="B">La mitosis forma células haploides y la meiosis, células diploides.</li>
+    <li data-letra="C">La mitosis forma cuatro células y la meiosis, solo dos células.</li>
+    <li data-letra="D">La mitosis ocurre en las gónadas y la meiosis, en todo el cuerpo.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La mitosis conserva la información genética y la meiosis genera variabilidad. B, C y D invierten las características de cada proceso.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>18.</strong> Si en la meiosis I de un ovocito un par de cromosomas 21 no se separa, ¿qué puede resultar tras la fecundación con un espermatozoide normal?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Un cigoto con 23 cromosomas.</li>
+    <li data-letra="B">Un cigoto con 46 cromosomas.</li>
+    <li data-letra="C">Un cigoto con 47 cromosomas.</li>
+    <li data-letra="D">Un cigoto con 69 cromosomas.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>El ovocito con n + 1 = 24 cromosomas, más un espermatozoide con 23, forma un cigoto con 47: una trisomía 21. B sería el caso normal. A y D no corresponden a una no disyunción de un solo par. También podría formarse un ovocito con 22 cromosomas, que daría un cigoto de 45.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>19.</strong> Una especie de lagartija tiene poblaciones que se reproducen por partenogénesis a partir de mitosis. ¿Qué característica tendrá su descendencia?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Mayor variabilidad genética que la de reproducción sexual.</li>
+    <li data-letra="B">La mitad de los cromosomas que la madre.</li>
+    <li data-letra="C">Combinaciones nuevas producidas por entrecruzamiento.</li>
+    <li data-letra="D">Información genética idéntica a la de la madre.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Si las crías se originan por mitosis, son clones de la madre. A y C requieren meiosis. B no ocurre en la mitosis, que conserva el número de cromosomas.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>20.</strong> En un dibujo de una célula con 2n = 4 se observan <strong>dos pares de cromosomas homólogos juntos</strong> en el plano ecuatorial. ¿En qué etapa se encuentra?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Metafase mitótica.</li>
+    <li data-letra="B">Metafase I de la meiosis.</li>
+    <li data-letra="C">Metafase II de la meiosis.</li>
+    <li data-letra="D">Anafase I de la meiosis.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Solo en la metafase I los homólogos se alinean en pares (bivalentes). En la metafase mitótica los cromosomas se alinean individualmente. En la metafase II hay solo n cromosomas. En la anafase I los homólogos ya se están separando.</p></div>
+</div>
+
+<h2 id="fuentes-del-capitulo">Fuentes del capítulo</h2>
+<p><em>Consultadas el 24 de septiembre de 2026. El texto es de redacción propia y los diagramas son originales.</em></p>
+<p><strong>Documentos oficiales</strong></p>
+<ul>
+<li>DEMRE (2026). <em>Temario Regular – Pruebas Electivas – Ciencias. Admisión 2027</em>, pág. 8: área «Herencia y evolución».</li>
+<li>DEMRE (2026). <em>Prueba oficial PAES de Invierno, Ciencias – Biología, Admisión 2027</em>: preguntas sobre una toxina que altera la segregación de los cromosomas, la identificación de la telofase, la meiosis y los gametos, la partenogénesis, la sincronización en la fase S y los quiasmas con aneuploidías. Se usaron para calibrar el enfoque, sin reproducirlas.</li>
+</ul>
+<p><strong>Libros de consulta</strong></p>
+<ul>
+<li>Mason, K. A., Duncan, T. y otros. <em>Understanding Biology</em>, 2.ª ed. McGraw-Hill. Cap. 10 «How Cells Divide» y cap. 11 «Sexual Reproduction and Meiosis».</li>
+<li>Brooker, R. J., Widmaier, E. P. y otros. <em>Principles of Biology</em>. McGraw-Hill. Cap. 12 «Mutation, DNA Repair, and Cancer» y cap. 13 «The Eukaryotic Cell Cycle, Mitosis, and Meiosis» (duración de las fases, frecuencia de las aneuploidías, hipótesis de Knudson).</li>
+</ul>
+<p><strong>Artículos y recursos</strong></p>
+<ul>
+<li>Rao, P. N. y Johnson, R. T. (1970). «Mammalian cell fusion: studies on the regulation of DNA synthesis and mitosis». <em>Nature</em>, 225.</li>
+<li>Knudson, A. G. (1971). «Mutation and cancer: statistical study of retinoblastoma». <em>PNAS</em>, 68.</li>
+<li>Premio Nobel de Medicina 2001 (Hartwell, Hunt y Nurse), «reguladores clave del ciclo celular». nobelprize.org.</li>
+<li>Riesgo de trisomía 21 según la edad materna: «Prevalencia al nacimiento de síndrome de Down según edad materna», <em>Acta Médica Costarricense</em> (2019). <a href="https://www.scielo.sa.cr/scielo.php?script=sci_arttext&amp;pid=S0001-60022019000400177">scielo.sa.cr</a></li>
+</ul>
+</article>
+<nav class="navsec"><a href="05-capitulo-5-sistema-endocrino-y-sexualidad-humana.html"><small>← Anterior</small>Capítulo 5: Sistema endocrino y sexualidad humana</a><a class="sig" href="07-capitulo-7-manipulacion-genetica.html"><small>Siguiente →</small>Capítulo 7: Manipulación genética</a></nav>
+</main>
+</div>
+<div id="lightbox"><img alt=""></div>
+<script>
+(function(){
+  var clave='conv-progreso:'+location.pathname.split('/').pop();
+  var datos={};try{datos=JSON.parse(localStorage.getItem(clave)||'{}')}catch(e){}
+  function guardar(){try{localStorage.setItem(clave,JSON.stringify(datos))}catch(e){}}
+  var preguntas=[].slice.call(document.querySelectorAll('.pregunta'));
+  var total=preguntas.length;
+  function actualizar(){
+    var r=0,c=0;for(var k in datos){r++;if(datos[k].ok)c++}
+    var t=document.getElementById('txt-preg');
+    if(t)t.textContent=total?(r+' de '+total+' respondidas · '+c+' correctas'):'Sin preguntas';
+    var b=document.getElementById('barra-preg');if(b)b.style.width=total?(100*r/total)+'%':'0';
+    try{localStorage.setItem(clave+':resumen',JSON.stringify({r:r,c:c,t:total}))}catch(e){}
+  }
+  preguntas.forEach(function(q,i){
+    var id=q.id||('p'+(i+1));q.id=id;
+    var lis=[].slice.call(q.querySelectorAll('.alternativas>li'));
+    var correcta=(q.getAttribute('data-correcta')||'').trim().toUpperCase();
+    var acc=document.createElement('div');acc.className='acciones';
+    var btn=document.createElement('button');btn.className='btn';btn.type='button';btn.textContent='Ver respuesta';
+    var est=document.createElement('span');est.className='estado';
+    acc.appendChild(btn);acc.appendChild(est);
+    var resp=q.querySelector('.respuesta');
+    if(resp)q.insertBefore(acc,resp);else q.appendChild(acc);
+    var marcada=null;
+    lis.forEach(function(li){li.addEventListener('click',function(){
+      if(q.classList.contains('respondida'))return;
+      lis.forEach(function(x){x.classList.remove('marcada')});li.classList.add('marcada');marcada=li.getAttribute('data-letra');
+    })});
+    function mostrar(letra){
+      q.classList.add('respondida','visible');btn.disabled=true;
+      lis.forEach(function(li){var L=li.getAttribute('data-letra');
+        if(correcta&&L===correcta)li.classList.add('correcta');
+        else if(L===letra)li.classList.add('incorrecta');
+        if(L===letra)li.classList.add('marcada');});
+      if(!correcta){est.textContent='Clave no disponible';est.className='estado'}
+      else if(!letra){est.textContent='Sin marcar · correcta: '+correcta;est.className='estado'}
+      else if(letra===correcta){est.textContent='¡Correcta!';est.className='estado ok'}
+      else{est.textContent='Incorrecta · correcta: '+correcta;est.className='estado mal'}
+    }
+    btn.addEventListener('click',function(){
+      datos[id]={l:marcada||'',ok:!!(marcada&&correcta&&marcada===correcta)};guardar();mostrar(marcada);actualizar();
+    });
+    if(datos[id])mostrar(datos[id].l);
+  });
+  document.querySelectorAll('.ejercicio').forEach(function(e){
+    var resp=e.querySelector('.respuesta');if(!resp)return;
+    var b=document.createElement('button');b.className='btn sec';b.type='button';b.textContent='Ver solución';
+    var acc=document.createElement('div');acc.className='acciones';acc.appendChild(b);e.insertBefore(acc,resp);
+    b.addEventListener('click',function(){var v=e.classList.toggle('visible');b.textContent=v?'Ocultar solución':'Ver solución'});
+  });
+  var rst=document.getElementById('reiniciar');
+  if(rst)rst.addEventListener('click',function(){if(!confirm('¿Reiniciar las respuestas de esta sección?'))return;datos={};guardar();location.reload()});
+  actualizar();
+  // Progreso de lectura
+  var bl=document.getElementById('barra-lect'),tl=document.getElementById('txt-lect');
+  function lectura(){var h=document.documentElement;var p=Math.min(100,Math.round(100*h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight)));
+    if(bl)bl.style.width=p+'%';if(tl)tl.textContent=p+'% leído'}
+  addEventListener('scroll',lectura,{passive:true});lectura();
+  // Índice lateral: resaltar la sección visible
+  var enlaces=[].slice.call(document.querySelectorAll('nav.sidebar a'));
+  if('IntersectionObserver' in window&&enlaces.length){
+    var io=new IntersectionObserver(function(ents){ents.forEach(function(en){if(en.isIntersecting){
+      enlaces.forEach(function(a){a.classList.toggle('activo',a.getAttribute('href')==='#'+en.target.id)})}})},{rootMargin:'-100px 0px -70% 0px'});
+    document.querySelectorAll('.paper h2[id],.paper h3[id]').forEach(function(h){io.observe(h)});
+  }
+  var nav=document.querySelector('nav.sidebar'),tb=document.getElementById('toc-btn');
+  if(tb&&nav)tb.addEventListener('click',function(){nav.classList.toggle('abierta')});
+  var lento=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function ir(a,e){
+    var id=decodeURIComponent((a.getAttribute('href')||'').slice(1)),t=document.getElementById(id);
+    if(!t)return;e.preventDefault();
+    if(a.classList.contains('cargando'))return;
+    document.querySelectorAll('.cargando').forEach(function(x){x.classList.remove('cargando')});
+    void a.offsetWidth;a.classList.add('cargando');
+    setTimeout(function(){
+      t.scrollIntoView({behavior:lento?'auto':'smooth',block:'start'});
+      setTimeout(function(){if(Math.abs(t.getBoundingClientRect().top)>window.innerHeight)t.scrollIntoView({block:'start'})},900);
+      try{history.replaceState(null,'','#'+id)}catch(err){}
+      t.classList.remove('destino');void t.offsetWidth;t.classList.add('destino');
+      if(a.closest('nav.sidebar'))enlaces.forEach(function(x){x.classList.toggle('activo',x===a)});
+      a.classList.remove('cargando');
+      if(nav)nav.classList.remove('abierta');
+    },lento?150:620);
+  }
+  enlaces.forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Insignias de preguntas en los títulos y botones «Ver tema» de las preguntas
+  document.querySelectorAll('.paper a.ref-badge, .paper a.volver-tema').forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Recordar la última sección abierta (para «Continuar» en el índice)
+  try{localStorage.setItem('conv-ultimo',JSON.stringify({archivo:location.pathname.split('/').pop(),titulo:document.title.split(' — ')[0]}))}catch(e){}
+  // Zoom de imágenes
+  var lb=document.getElementById('lightbox');
+  document.querySelectorAll('.paper img').forEach(function(img){img.addEventListener('click',function(){
+    lb.querySelector('img').src=img.src;lb.style.display='flex'})});
+  lb.addEventListener('click',function(){lb.style.display='none'});
+  // Tema claro/oscuro
+  var tema=document.getElementById('tema');
+  try{var t=localStorage.getItem('conv-tema');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}
+  tema.addEventListener('click',function(){
+    var oscuro=document.documentElement.getAttribute('data-theme')==='dark'||(!document.documentElement.getAttribute('data-theme')&&matchMedia('(prefers-color-scheme: dark)').matches);
+    var n=oscuro?'light':'dark';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('conv-tema',n)}catch(e){}
+  });
+})();
+</script>
+</body>
+</html>

@@ -1,6 +1,6 @@
 ## Capítulo 8: Microorganismos y barreras defensivas
 
-**Área temática:** Organismo y ambiente
+**Área temática:** Procesos y funciones biológicas (ITS) · apoyo
 
 ::: nota
 **Capítulo en construcción.** Estructura planificada (se completa sección por sección según `biologia/pauta.md`):

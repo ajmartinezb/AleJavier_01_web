@@ -1,6 +1,6 @@
 ## Capítulo 9: Evolución y biodiversidad
 
-**Área temática:** Biodiversidad y evolución
+**Área temática:** Herencia y evolución
 
 ::: nota
 **Capítulo en construcción.** Estructura planificada (se completa sección por sección según `biologia/pauta.md`):
