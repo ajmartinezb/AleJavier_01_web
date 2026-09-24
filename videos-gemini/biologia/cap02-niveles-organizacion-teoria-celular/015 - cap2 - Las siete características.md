@@ -1,6 +1,6 @@
-# 008 - cap2 - Cómo se construyó la teoría celular
+# 015 - cap2 - Las siete características
 
-*Biología PAES — Ciencias · Capítulo 2: Niveles de organización y teoría celular · Sección 4. La teoría celular · b. Cómo se construyó*
+*Biología PAES — Ciencias · Capítulo 2: Niveles de organización y teoría celular · Sección 6. Características de los sistemas biológicos · a. Las siete características*
 
 **Fuente del cuaderno (Sitio web):**
 https://raw.githack.com/ajmartinezb/AleJavier_01_web/claude/quirky-noether-0m1zqt/biologia/sitio/02-capitulo-2-niveles-de-organizacion-y-teoria-celula.html
@@ -11,22 +11,20 @@ En Studio, usa el **ícono de lápiz (Personalizar)** del Resumen en video, no l
 
 - **Formato:** Explicativo
 - **Idioma:** Español (Latinoamérica)
-- **Estilo visual:** Personalizado (base: Acuarela / atlas con zoom de microscopio, común a todo el Capítulo 2). Una línea de tiempo con retratos e instrumentos de cada época.
+- **Estilo visual:** Personalizado (base: Acuarela / atlas con zoom de microscopio, común a todo el Capítulo 2). Siete íconos en un círculo que solo juntos forman la vida.
 
 ## 2. Tema personalizado (instrucciones)
 
 ```
 Narración en español latinoamericano neutro, con tuteo; sin voseo ni modismos de España.
 Público: estudiantes chilenos de 3.° y 4.° medio que preparan la PAES de Ciencias, eje Biología.
-Enfócate solo en el apartado «b. Cómo se construyó» de la sección «4. La teoría celular» de las fuentes; ignora el resto del capítulo y las preguntas.
+Enfócate solo en el apartado «a. Las siete características» de la sección «6. Características de los sistemas biológicos» de las fuentes; ignora el resto del capítulo y las preguntas.
 Estructura:
-1. Pregunta gancho (10 s): ¿cuánto tardó la humanidad en saber que estamos hechos de células?
-2. Hooke, 1665 (40 s): observa corcho y llama «celdas» a compartimientos vacíos, que eran paredes de células muertas.
-3. Leeuwenhoek, década de 1670 (40 s): con lentes propias ve organismos vivos y móviles en agua, saliva y sarro.
-4. Schleiden y Schwann, 1838-1839 (40 s): plantas y animales están formados por células; primer enunciado de la teoría.
-5. Virchow, 1855, y Pasteur, 1861 (40 s): toda célula proviene de otra; Pasteur refuta la generación espontánea.
-6. Por qué es teoría (30 s): una explicación amplia sostenida por muchísima evidencia, no una suposición.
-7. Resumen final en 3 puntos (20 s): se construyó en casi dos siglos; cada científico sumó una pieza; es una teoría por su evidencia.
+1. Pregunta gancho (10 s): un cristal crece. ¿Está vivo?
+2. La vida es un paquete (30 s): se reconoce por un conjunto de características que aparecen juntas.
+3. Las siete (140 s), una a la vez con su ejemplo de la fuente: organización; metabolismo; homeostasis; irritabilidad; crecimiento y desarrollo; reproducción; adaptación y evolución.
+4. Dos confusiones (40 s): la adaptación ocurre en poblaciones a lo largo de generaciones, un individuo se aclimata; el crecimiento de un ser vivo incorpora y transforma materia, el de un cristal solo suma desde fuera.
+5. Resumen final en 3 puntos (20 s): siete características; la vida es el conjunto; cuidado con adaptación y crecimiento.
 Tono: profesor cercano y claro, ritmo pausado.
 Usa la terminología exacta de las fuentes. No inventes datos.
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
@@ -50,15 +48,17 @@ coral #E4735A para advertencias y errores, gris pizarra #56606B para notas secun
 
 PERSONAJE Y OBJETOS RECURRENTES: una estudiante dibujada con trazo simple, de delantal,
 junto a un microscopio óptico antiguo de bronce; el círculo de su lente es el marco por el
-que se ve cada escena. El símbolo de este video es una línea de tiempo con cinco medallones de retratos, cada uno junto a su instrumento.
+que se ve cada escena. El símbolo de este video es un círculo de siete íconos que se completa pieza a pieza, como una brújula.
 
 ESCENAS SEGÚN EL CONTENIDO:
-- Gancho: una línea de tiempo en blanco que se extiende de 1665 a 1861.
-- Hooke: medallón y una lámina de corcho con celdas vacías vista por un microscopio antiguo.
-- Leeuwenhoek: medallón y una gota de agua con microorganismos que nadan.
-- Schleiden y Schwann: dos medallones, una hoja y un tejido animal, ambos con células.
-- Virchow y Pasteur: una célula que se divide y un matraz de cuello de cisne.
-- Por qué es teoría: un árbol de raíces profundas rotuladas «evidencia».
+- Gancho: un cristal que crece junto a una planta que crece, con un signo de pregunta.
+- Paquete: el círculo vacío con siete espacios.
+- Siete: se colocan los íconos: fibras de músculo en niveles (organización), glucosa que se
+  degrada (metabolismo), termómetro en 37 °C (homeostasis), pupila que se contrae
+  (irritabilidad), embrión que se divide (crecimiento), bacteria que se divide y helecho con
+  esporas (reproducción), bacterias resistentes que dejan más descendencia (evolución).
+- Confusiones: un individuo con rótulo «se aclimata» y una población con «se adapta»; un
+  cristal que suma capas frente a una planta que transforma lo que absorbe.
 - Resumen: tres gotas de acuarela amarilla numeradas 1, 2 y 3 sobre la página final.
 
 TIPOGRAFÍA Y TEXTO EN PANTALLA: títulos en letra manuscrita clara tipo imprenta, grande y
