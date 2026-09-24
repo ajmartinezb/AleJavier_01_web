@@ -34,11 +34,44 @@ En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largo
 ## 3. Estilo visual personalizado
 
 ```
-Cuaderno de campo ilustrado sobre papel cuadriculado color crema, trazos a mano en tinta
-azul y palabras clave marcadas con resaltador amarillo. Una lupa recorre plantas de tomate
-en un invernadero y en un patio. Íconos simples de ojo, oído y mano para los sentidos, y
-dibujos de microscopio, termómetro y sensor para los instrumentos. Una libreta donde una
-mano anota lo que ve. Comparaciones en dos columnas: visto bueno verde para lo objetivo y
-preciso, cruz roja para lo vago o interpretado. Rótulos en español, tipografía grande y
-legible, fondos despejados, sin fotografías reales.
+DIRECCIÓN DE ARTE: cuaderno de campo de una joven naturalista, ilustrado a mano. Todo el
+video ocurre sobre las páginas abiertas de ese cuaderno, como si la cámara lo mirara desde
+arriba mientras alguien lo va llenando.
+
+TÉCNICA Y TEXTURA: dibujo a tinta con plumilla fina (líneas azul tinta, trazo levemente
+irregular, hecho a mano) rellenado con acuarela suave y transparente. Papel cuadriculado
+color crema con grano visible, bordes de página algo gastados, pequeñas manchas de café y
+huellas de lápiz. Luz cálida y pareja de escritorio, sin sombras duras.
+
+PALETA (siempre la misma): crema #F4ECD8 de fondo, azul tinta #1F3A68 para trazos y texto,
+amarillo resaltador #FFE14D para palabras clave, verde hoja #5E9E4B para plantas y aciertos,
+rojo tomate #D9483B para tomates y errores, gris grafito #5A5A5A para notas secundarias.
+
+PERSONAJE Y OBJETOS RECURRENTES: una estudiante dibujada con trazo simple, de delantal,
+con una lupa grande y un lápiz; la lupa es el símbolo del video y aparece en cada escena,
+agrandando el detalle que se está explicando. Una libreta pequeña donde su mano escribe
+en tiempo real.
+
+ESCENAS SEGÚN EL CONTENIDO:
+- Gancho: doble página con dos dibujos lado a lado, un invernadero con tomateras altas y un
+  patio con tomateras bajas; la lupa pasa de una a otra y aparece un signo de pregunta.
+- Qué es observar: la mano anota una frase en la libreta; la palabra «REGISTRAR» queda
+  subrayada con resaltador.
+- Cómo se observa: fila de íconos a tinta (ojo, oído, mano) que se transforma en una fila
+  de instrumentos (microscopio, termómetro, sensor), cada uno con su rótulo manuscrito.
+- Objetiva y precisa: la página se divide en dos columnas con una línea de lápiz; a la
+  izquierda frases vagas tachadas con una cruz roja, a la derecha frases descriptivas con
+  un visto bueno verde; las palabras «objetiva» y «precisa» se resaltan en amarillo.
+- Error PAES: tres tarjetas de papel pegadas con cinta adhesiva (observación, explicación
+  con «porque», predicción); las dos últimas se voltean y quedan marcadas en rojo.
+- Resumen: tres notas adhesivas amarillas numeradas 1, 2 y 3 pegadas en la página final.
+
+TIPOGRAFÍA Y TEXTO EN PANTALLA: títulos en letra manuscrita clara tipo imprenta, grande y
+legible; rótulos cortos de 1 a 4 palabras; nunca párrafos. Todo el texto en español.
+
+MOVIMIENTO: las ilustraciones se dibujan trazo a trazo al aparecer; el resaltador pasa
+sobre la palabra clave cuando se nombra; transiciones como vuelta de página.
+
+EVITAR: fotografías reales, estética 3D o de computador, fondos oscuros, colores neón,
+imágenes copiadas de libros, texto en inglés.
 ```
