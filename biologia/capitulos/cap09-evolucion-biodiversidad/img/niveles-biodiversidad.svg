@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 430" width="1080" height="430" role="img" aria-label="Los tres niveles de la biodiversidad: genética, de especies y de ecosistemas" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Los tres niveles de la biodiversidad: genética, de especies y de ecosistemas</title>
+<rect width="1080" height="430" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker></defs>
+<text x="540.0" y="32.0" font-size="20" text-anchor="middle" fill="#1a202c" font-weight="700">Los tres niveles de la biodiversidad</text>
+<rect x="40" y="56" width="300" height="300" rx="16" fill="#c6f6d5" opacity="0.28" stroke="#2f855a" stroke-width="2"/>
+<text x="190.0" y="84.0" font-size="16" text-anchor="middle" fill="#2f855a" font-weight="700">Diversidad genética</text>
+<text x="190.0" y="378.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">Variantes distintas dentro de una misma especie</text>
+<rect x="390" y="56" width="300" height="300" rx="16" fill="#9ae6b4" opacity="0.28" stroke="#2f855a" stroke-width="2"/>
+<text x="540.0" y="84.0" font-size="16" text-anchor="middle" fill="#2f855a" font-weight="700">Diversidad de especies</text>
+<text x="540.0" y="378.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">Especies distintas dentro de una comunidad</text>
+<rect x="740" y="56" width="300" height="300" rx="16" fill="#68d391" opacity="0.28" stroke="#2f855a" stroke-width="2"/>
+<text x="890.0" y="84.0" font-size="16" text-anchor="middle" fill="#2f855a" font-weight="700">Diversidad de ecosistemas</text>
+<text x="890.0" y="378.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">Ambientes distintos dentro de un territorio</text>
+<ellipse cx="120" cy="150" rx="27" ry="21" fill="#f6e05e" stroke="#744210" stroke-width="1.6"/>
+<circle cx="112" cy="145" r="2.6" fill="#744210" opacity="0.55"/>
+<circle cx="127" cy="156" r="2.2" fill="#744210" opacity="0.55"/>
+<ellipse cx="190" cy="150" rx="27" ry="21" fill="#d69e2e" stroke="#744210" stroke-width="1.6"/>
+<circle cx="182" cy="145" r="2.6" fill="#744210" opacity="0.55"/>
+<circle cx="197" cy="156" r="2.2" fill="#744210" opacity="0.55"/>
+<ellipse cx="260" cy="150" rx="27" ry="21" fill="#b7791f" stroke="#744210" stroke-width="1.6"/>
+<circle cx="252" cy="145" r="2.6" fill="#744210" opacity="0.55"/>
+<circle cx="267" cy="156" r="2.2" fill="#744210" opacity="0.55"/>
+<ellipse cx="120" cy="220" rx="27" ry="21" fill="#e9d8a6" stroke="#744210" stroke-width="1.6"/>
+<circle cx="112" cy="215" r="2.6" fill="#744210" opacity="0.55"/>
+<circle cx="127" cy="226" r="2.2" fill="#744210" opacity="0.55"/>
+<ellipse cx="190" cy="220" rx="27" ry="21" fill="#c05621" stroke="#744210" stroke-width="1.6"/>
+<circle cx="182" cy="215" r="2.6" fill="#744210" opacity="0.55"/>
+<circle cx="197" cy="226" r="2.2" fill="#744210" opacity="0.55"/>
+<ellipse cx="260" cy="220" rx="27" ry="21" fill="#975a16" stroke="#744210" stroke-width="1.6"/>
+<circle cx="252" cy="215" r="2.6" fill="#744210" opacity="0.55"/>
+<circle cx="267" cy="226" r="2.2" fill="#744210" opacity="0.55"/>
+<ellipse cx="120" cy="290" rx="27" ry="21" fill="#f6ad55" stroke="#744210" stroke-width="1.6"/>
+<circle cx="112" cy="285" r="2.6" fill="#744210" opacity="0.55"/>
+<circle cx="127" cy="296" r="2.2" fill="#744210" opacity="0.55"/>
+<ellipse cx="190" cy="290" rx="27" ry="21" fill="#dd6b20" stroke="#744210" stroke-width="1.6"/>
+<circle cx="182" cy="285" r="2.6" fill="#744210" opacity="0.55"/>
+<circle cx="197" cy="296" r="2.2" fill="#744210" opacity="0.55"/>
+<ellipse cx="260" cy="290" rx="27" ry="21" fill="#8b5a2b" stroke="#744210" stroke-width="1.6"/>
+<circle cx="252" cy="285" r="2.6" fill="#744210" opacity="0.55"/>
+<circle cx="267" cy="296" r="2.2" fill="#744210" opacity="0.55"/>
+<text x="190.0" y="340.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="normal" font-style="italic">una especie, muchas variedades</text>
+<rect x="455.5" y="200.0" width="9.0" height="33.0" fill="#8b5a2b"/><circle cx="460.0" cy="191.0" r="24.0" fill="#276749"/>
+<rect x="526.7" y="210.0" width="6.6" height="24.2" fill="#8b5a2b"/><circle cx="530.0" cy="203.4" r="17.6" fill="#38a169"/>
+<rect x="586.1" y="205.0" width="7.8" height="28.6" fill="#8b5a2b"/><circle cx="590.0" cy="197.2" r="20.8" fill="#2f855a"/>
+<path d="M485,290 q30,-40 60,-8" fill="none" stroke="#48bb78" stroke-width="4"/>
+<line x1="490" y1="288" x2="496" y2="276" stroke="#48bb78" stroke-width="2.5"/>
+<line x1="501" y1="283" x2="507" y2="271" stroke="#48bb78" stroke-width="2.5"/>
+<line x1="512" y1="278" x2="518" y2="266" stroke="#48bb78" stroke-width="2.5"/>
+<line x1="523" y1="273" x2="529" y2="261" stroke="#48bb78" stroke-width="2.5"/>
+<line x1="534" y1="268" x2="540" y2="256" stroke="#48bb78" stroke-width="2.5"/>
+<line x1="545" y1="263" x2="551" y2="251" stroke="#48bb78" stroke-width="2.5"/>
+<path d="M568,148 q14,-12 28,0 q-14,-4 -28,0 z" fill="#4a5568"/>
+<path d="M600,160 q14,-12 28,0 q-14,-4 -28,0 z" fill="#4a5568"/>
+<rect x="605" y="285" width="9" height="18" fill="#e2e8f0" stroke="#4a5568" stroke-width="1"/>
+<path d="M593,286 q16,-20 33,0 z" fill="#c05621"/>
+<ellipse cx="470" cy="255" rx="10" ry="6" fill="#6b46c1"/>
+<text x="540.0" y="340.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="normal" font-style="italic">una comunidad, muchas especies</text>
+<rect x="764" y="92" width="252" height="34" rx="8" fill="#f6e05e" opacity="0.85"/>
+<text x="890.0" y="115.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="600">Desierto</text>
+<rect x="764" y="147" width="252" height="34" rx="8" fill="#9ae6b4" opacity="0.85"/>
+<text x="890.0" y="170.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="600">Matorral</text>
+<rect x="764" y="202" width="252" height="34" rx="8" fill="#68d391" opacity="0.85"/>
+<text x="890.0" y="225.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="600">Bosque templado</text>
+<rect x="764" y="257" width="252" height="34" rx="8" fill="#d6bcab" opacity="0.85"/>
+<text x="890.0" y="280.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="600">Estepa</text>
+<rect x="764" y="312" width="252" height="34" rx="8" fill="#90cdf4" opacity="0.85"/>
+<text x="890.0" y="335.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="600">Fiordos y hielos</text>
+<line x1="342" y1="206" x2="384" y2="206" stroke="#4a5568" stroke-width="2.2" marker-end="url(#flg)"/>
+<line x1="692" y1="206" x2="734" y2="206" stroke="#4a5568" stroke-width="2.2" marker-end="url(#flg)"/>
+<text x="540.0" y="414.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">Cada nivel contiene al anterior: sin variantes genéticas no hay especies capaces de responder al cambio ambiental.</text>
+</svg>

@@ -10,7 +10,7 @@
 | 6 | Ciclo celular, mitosis y meiosis | Preguntas completas | Teoría 1–9, 5 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | 99 | 24-09-2026 |
 | 7 | Manipulación genética | Estructura | — | 0 | — |
 | 8 | Microorganismos y barreras defensivas | Estructura | — | 0 | — |
-| 9 | Evolución y biodiversidad | Estructura | — | 0 | — |
+| 9 | Evolución y biodiversidad | Preguntas completas | Teoría 1–8, 6 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | 127 | 24-09-2026 |
 | 10 | Materia y energía en el ecosistema | Estructura | — | 0 | — |
 | 11 | Sistema nervioso (nuevo 2027) | Estructura | — | 0 | — |
 
