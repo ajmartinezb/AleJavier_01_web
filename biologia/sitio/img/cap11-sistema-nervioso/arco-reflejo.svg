@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 560" width="1160" height="560" role="img" aria-label="Los cinco componentes del arco reflejo en el ejemplo del reflejo rotuliano" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Los cinco componentes del arco reflejo en el ejemplo del reflejo rotuliano</title>
+<rect width="1160" height="560" fill="#ffffff"/>
+<defs><marker id="flv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f855a"/></marker><marker id="fln" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c05621"/></marker><marker id="fla" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2b6cb0"/></marker></defs>
+<text x="580.0" y="34.0" font-size="21" text-anchor="middle" fill="#1a202c" font-weight="700">El arco reflejo: los cinco componentes</text>
+<text x="580.0" y="58.0" font-size="14" text-anchor="middle" fill="#4a5568" font-weight="normal">Ejemplo del reflejo rotuliano, monosináptico</text>
+<ellipse cx="820" cy="250" rx="130" ry="112" fill="#f7fafc" stroke="#4a5568" stroke-width="2.5"/>
+<path d="M820,178 q-44,20 -40,70 q4,50 40,62 q36,-12 40,-62 q4,-50 -40,-70 z" fill="#9ae6b4" stroke="#2f855a" stroke-width="2"/>
+<text x="820.0" y="150.0" font-size="14" text-anchor="middle" fill="#2f855a" font-weight="700">MÉDULA ESPINAL</text>
+<text x="820.0" y="388.0" font-size="14.5" text-anchor="middle" fill="#2f855a" font-weight="700">3. Centro integrador</text>
+<text x="820.0" y="406.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">aquí se decide la respuesta,</text>
+<text x="820.0" y="422.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">sin pasar por el encéfalo</text>
+<circle cx="150" cy="168" r="34" fill="#d69e2e" stroke="#975a16" stroke-width="2.5"/>
+<text x="150.0" y="174.0" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="700">R</text>
+<text x="150.0" y="118.0" font-size="14.5" text-anchor="middle" fill="#975a16" font-weight="700">1. Receptor</text>
+<text x="150.0" y="224.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">huso neuromuscular:</text>
+<text x="150.0" y="240.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">detecta el estiramiento</text>
+<path d="M186,168 Q480,128 700,196" fill="none" stroke="#2b6cb0" stroke-width="4" marker-end="url(#fla)"/>
+<text x="440.0" y="126.0" font-size="14" text-anchor="middle" fill="#2b6cb0" font-weight="700">2. Vía aferente (sensitiva)</text>
+<text x="440.0" y="144.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">lleva la señal HACIA la médula</text>
+<path d="M700,306 Q480,378 250,344" fill="none" stroke="#c05621" stroke-width="4" marker-end="url(#fln)"/>
+<text x="470.0" y="400.0" font-size="14" text-anchor="middle" fill="#c05621" font-weight="700">4. Vía eferente (motora)</text>
+<text x="470.0" y="418.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">lleva la orden HACIA el músculo</text>
+<path d="M96,330 q56,-30 112,0 q-56,52 -112,0 z" fill="#c53030" opacity="0.85"/>
+<text x="152.0" y="300.0" font-size="14.5" text-anchor="middle" fill="#c53030" font-weight="700">5. Efector</text>
+<text x="152.0" y="382.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">músculo cuádriceps:</text>
+<text x="152.0" y="398.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">se contrae</text>
+<circle cx="762" cy="250" r="9" fill="#6b46c1"/>
+<line x1="762" y1="250" x2="672" y2="276" stroke="#6b46c1" stroke-width="1.4"/>
+<text x="664.0" y="282.0" font-size="12.5" text-anchor="end" fill="#6b46c1" font-weight="700">una sola sinapsis:</text>
+<text x="664.0" y="298.0" font-size="12.5" text-anchor="end" fill="#6b46c1" font-weight="700">reflejo MONOSINÁPTICO</text>
+
+<rect x="60" y="452" width="1040" height="86" rx="12" fill="#fffaf0" stroke="#c05621" stroke-width="1.6"/>
+<text x="580.0" y="478.0" font-size="14" text-anchor="middle" fill="#c05621" font-weight="700">El cerebro se entera después: la mano ya se apartó antes de que sintamos el dolor.</text>
+<text x="580.0" y="502.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">La señal sigue dos caminos a la vez: uno corto hacia la médula, que produce la respuesta,</text>
+<text x="580.0" y="520.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">y otro largo hacia el encéfalo, que produce la sensación consciente.</text>
+</svg>
