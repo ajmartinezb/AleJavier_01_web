@@ -47,3 +47,9 @@ Antes de planificar una sesión contando con ella, lee esto.
 - Son **solo fuentes de consulta**: nunca se copian textos ni figuras al repo, que es público.
   Tampoco se publican aquí los enlaces a esos archivos. En `99-fuentes.md` se cita el libro
   (autor, título, edición, capítulo) sin enlace, **y solo si se leyó de verdad**.
+
+## Portal (raíz del repo)
+
+- `index.html` (landing) → `login.html` (provisorio) → `inicio.html` (asignaturas PAES) → `ramo.html?id=…` (capítulos).
+- Asignaturas y capítulos en `assets/data.js`. Biología enlaza a `biologia/sitio/index.html`.
+- `fisica/libro.json` y `quimica/libro.json`: solo títulos de capítulos, aún sin desarrollar.

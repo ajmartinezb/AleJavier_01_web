@@ -3,5 +3,5 @@
 <header class="top"><span class="logo">PAES Estudio</span><a class="back" href="#" onclick="try{sessionStorage.clear()}catch(e){};location.href='index.html'">Cerrar sesión</a></header>
 <main class="wrap"><h1>Asignaturas PAES</h1><div class="grid" id="g"></div></main>
 <script>document.getElementById("g").innerHTML=ASIGNATURAS.map(a=>{const ok=a.estado==="disponible";
-return `<${ok?`a href="ramo.html?id=${a.id}"`:"div"} class="card"><div class="ico">${a.ico}</div><h3>${a.nombre}</h3><p>${a.desc}</p><span class="tag ${ok?"":"soon"}">${ok?"Disponible":"Próximamente"}</span></${ok?"a":"div"}>`}).join("")</script>
+return `<${ok?`a href="${a.url||"ramo.html?id="+a.id}"`:"div"} class="card"><div class="ico">${a.ico}</div><h3>${a.nombre}</h3><p>${a.desc}</p><span class="tag ${ok?"":"soon"}">${ok?"Disponible":"Próximamente"}</span></${ok?"a":"div"}>`}).join("")</script>
 </body></html>

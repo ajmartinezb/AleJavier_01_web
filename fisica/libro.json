@@ -1,0 +1,72 @@
+{
+ "titulo": "Física PAES — Ciencias",
+ "color": "#1c7ed6",
+ "prueba": "ciencias",
+ "capitulos": [
+  {
+   "carpeta": "cap01",
+   "titulo": "Capítulo 1: Ondas: características y clasificación",
+   "area": ""
+  },
+  {
+   "carpeta": "cap02",
+   "titulo": "Capítulo 2: El sonido",
+   "area": ""
+  },
+  {
+   "carpeta": "cap03",
+   "titulo": "Capítulo 3: La luz y la óptica geométrica",
+   "area": ""
+  },
+  {
+   "carpeta": "cap04",
+   "titulo": "Capítulo 4: Sismos y dinámica de la Tierra",
+   "area": ""
+  },
+  {
+   "carpeta": "cap05",
+   "titulo": "Capítulo 5: Cinemática: descripción del movimiento",
+   "area": ""
+  },
+  {
+   "carpeta": "cap06",
+   "titulo": "Capítulo 6: Dinámica: fuerzas y leyes de Newton",
+   "area": ""
+  },
+  {
+   "carpeta": "cap07",
+   "titulo": "Capítulo 7: Movimiento circular uniforme",
+   "area": ""
+  },
+  {
+   "carpeta": "cap08",
+   "titulo": "Capítulo 8: Trabajo, potencia y energía mecánica",
+   "area": ""
+  },
+  {
+   "carpeta": "cap09",
+   "titulo": "Capítulo 9: Momentum lineal e impulso",
+   "area": ""
+  },
+  {
+   "carpeta": "cap10",
+   "titulo": "Capítulo 10: Calor y temperatura",
+   "area": ""
+  },
+  {
+   "carpeta": "cap11",
+   "titulo": "Capítulo 11: Electricidad y circuitos eléctricos",
+   "area": ""
+  },
+  {
+   "carpeta": "cap12",
+   "titulo": "Capítulo 12: Magnetismo y electromagnetismo",
+   "area": ""
+  },
+  {
+   "carpeta": "cap13",
+   "titulo": "Capítulo 13: La Tierra y el Universo",
+   "area": ""
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "titulo": "Química PAES — Ciencias",
+ "color": "#e8590c",
+ "prueba": "ciencias",
+ "capitulos": [
+  {
+   "carpeta": "cap01",
+   "titulo": "Capítulo 1: Modelos atómicos y estructura del átomo",
+   "area": ""
+  },
+  {
+   "carpeta": "cap02",
+   "titulo": "Capítulo 2: Configuración electrónica y números cuánticos",
+   "area": ""
+  },
+  {
+   "carpeta": "cap03",
+   "titulo": "Capítulo 3: Tabla periódica y propiedades periódicas",
+   "area": ""
+  },
+  {
+   "carpeta": "cap04",
+   "titulo": "Capítulo 4: Enlace químico",
+   "area": ""
+  },
+  {
+   "carpeta": "cap05",
+   "titulo": "Capítulo 5: Geometría molecular y fuerzas intermoleculares",
+   "area": ""
+  },
+  {
+   "carpeta": "cap06",
+   "titulo": "Capítulo 6: Nomenclatura inorgánica",
+   "area": ""
+  },
+  {
+   "carpeta": "cap07",
+   "titulo": "Capítulo 7: Leyes ponderales y concepto de mol",
+   "area": ""
+  },
+  {
+   "carpeta": "cap08",
+   "titulo": "Capítulo 8: Reacciones químicas y estequiometría",
+   "area": ""
+  },
+  {
+   "carpeta": "cap09",
+   "titulo": "Capítulo 9: Disoluciones químicas",
+   "area": ""
+  },
+  {
+   "carpeta": "cap10",
+   "titulo": "Capítulo 10: Propiedades coligativas",
+   "area": ""
+  },
+  {
+   "carpeta": "cap11",
+   "titulo": "Capítulo 11: Química orgánica: el átomo de carbono",
+   "area": ""
+  },
+  {
+   "carpeta": "cap12",
+   "titulo": "Capítulo 12: Grupos funcionales y nomenclatura orgánica",
+   "area": ""
+  },
+  {
+   "carpeta": "cap13",
+   "titulo": "Capítulo 13: Isomería y reactividad orgánica",
+   "area": ""
+  }
+ ]
+}

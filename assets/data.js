@@ -1,6 +1,6 @@
 // Asignaturas PAES. estado: "disponible" | "pronto"
 const ASIGNATURAS = [
-  {id:"biologia",nombre:"Biología",ico:"🧬",desc:"Ciencias – Módulo Biología",estado:"disponible",capitulos:[]},
+  {id:"biologia",nombre:"Biología",ico:"🧬",desc:"Ciencias – Módulo Biología",estado:"disponible",url:"biologia/sitio/index.html",capitulos:[]},
   {id:"fisica",nombre:"Física",ico:"⚛️",desc:"Ciencias – Módulo Física",estado:"disponible",capitulos:[
     "Ondas: características y clasificación","El sonido","La luz y la óptica geométrica","Sismos y dinámica de la Tierra",
     "Cinemática: descripción del movimiento","Dinámica: fuerzas y leyes de Newton","Movimiento circular uniforme",
