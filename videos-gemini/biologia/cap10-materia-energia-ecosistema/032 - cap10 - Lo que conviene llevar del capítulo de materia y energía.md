@@ -24,7 +24,7 @@ Estructura:
 2. Diez ideas (180 s): la materia circula y la energía fluye y se degrada; autótrofo es quien fija carbono inorgánico; luz, pigmentos y O₂ en el tilacoide, CO₂, RuBisCO y azúcares en el estroma; el O₂ viene del agua; las dos etapas están acopladas; mientras la curva sube esa variable limita y en la meseta limita otra, con luz y CO₂ en meseta y temperatura con óptimo; punto de compensación es intercambio cero, no fotosíntesis cero; las plantas respiran de día y de noche; PPN es PPB menos respiración; un 10 % pasa al nivel siguiente y la pirámide de energía nunca se invierte.
 3. Resumen final en 3 puntos (20 s): materia y energía recorren caminos distintos; la fotosíntesis tiene lugares, etapas y límites; la energía se pierde en cada nivel.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

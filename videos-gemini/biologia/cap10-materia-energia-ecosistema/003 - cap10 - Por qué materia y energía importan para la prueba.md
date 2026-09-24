@@ -25,7 +25,7 @@ Estructura:
 3. El error más frecuente (40 s): decir que la energía se recicla o que la materia se pierde; son incorrectas las alternativas que dicen que la energía vuelve al Sol o que los descomponedores devuelven energía.
 4. Resumen final en 3 puntos (20 s): fotosíntesis, respiración y alimentación van juntas; la materia se recicla; la energía no.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

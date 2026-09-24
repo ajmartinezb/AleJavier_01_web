@@ -27,7 +27,7 @@ Estructura:
 5. Investigación (30 s): mejorarla es un objetivo agrícola; en la PAES de 2027 hubo un experimento con tabacos transgénicos con distintos niveles de RuBisCO a distintas concentraciones de CO₂.
 6. Resumen final en 3 puntos (20 s): fija el CO₂; es muy abundante; es lenta y a veces toma O₂.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

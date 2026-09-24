@@ -29,7 +29,7 @@ Estructura:
 7. Fase oscura (20 s): nombre engañoso; funciona de día y se detiene al oscurecer.
 8. Resumen final en 3 puntos (20 s): fija, reduce y regenera; depende de la fase luminosa; ocurre de día.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

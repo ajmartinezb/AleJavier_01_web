@@ -26,7 +26,7 @@ Estructura:
 4. La diferencia de forma (40 s): luz y CO₂ dan mesetas; la temperatura da un óptimo: más es peor pasado cierto punto.
 5. Resumen final en 3 puntos (20 s): la temperatura tiene un óptimo; sobre él la tasa cae; distinta forma que luz y CO₂.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

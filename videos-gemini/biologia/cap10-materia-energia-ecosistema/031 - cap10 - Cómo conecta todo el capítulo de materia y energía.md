@@ -24,7 +24,7 @@ Estructura:
 2. El recorrido (130 s): la luz entra al ecosistema; la fotosíntesis la guarda en materia orgánica fijando carbono del aire; la respiración de todos los organismos libera la energía como ATP y calor y devuelve el carbono; los niveles tróficos trasladan lo que queda perdiendo un 90 % en cada paso; los descomponedores cierran el circuito de la materia; la energía no cierra ningún circuito.
 3. Resumen final en 3 puntos (20 s): la luz entra y se guarda; la materia circula y vuelve; la energía termina como calor.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

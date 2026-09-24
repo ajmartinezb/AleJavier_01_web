@@ -26,7 +26,7 @@ Estructura:
 4. Cantidad de enzima (40 s): con luz y CO₂ abundantes, el límite puede ser cuánta RuBisCO tiene la planta.
 5. Resumen final en 3 puntos (20 s): el agua actúa sobre todo por los estomas; nitrógeno y magnesio forman la clorofila; la enzima también puede limitar.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

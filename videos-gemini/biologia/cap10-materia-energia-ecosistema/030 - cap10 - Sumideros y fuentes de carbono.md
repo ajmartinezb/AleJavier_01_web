@@ -27,7 +27,7 @@ Estructura:
 5. El océano (50 s): el fitoplancton fija enormes cantidades; la corriente de Humboldt es de las más productivas del mundo por la surgencia; es la base de la pesquería; el CO₂ disuelto acidifica el agua y dificulta formar conchas.
 6. Resumen final en 3 puntos (20 s): sumidero capta y fuente emite; los bosques chilenos son sumideros si no arden; el océano capta pero se acidifica.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

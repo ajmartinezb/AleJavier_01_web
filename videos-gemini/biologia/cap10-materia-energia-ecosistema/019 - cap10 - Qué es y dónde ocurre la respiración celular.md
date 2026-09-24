@@ -26,7 +26,7 @@ Estructura:
 4. Ecuación (40 s): glucosa más seis O₂ producen seis CO₂, seis H₂O y energía como ATP y calor.
 5. Resumen final en 3 puntos (20 s): oxida materia orgánica con oxígeno; ocurre en citoplasma y mitocondria; la hacen todos los aerobios.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

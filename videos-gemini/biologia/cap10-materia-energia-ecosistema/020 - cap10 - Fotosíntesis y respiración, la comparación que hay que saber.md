@@ -25,7 +25,7 @@ Estructura:
 3. No es reversible (40 s): organelos, enzimas y rutas distintas; la fotosíntesis necesita un aporte externo de energía; si fueran reversibles, no haría falta el Sol.
 4. Resumen final en 3 puntos (20 s): fotosíntesis almacena y respiración libera; lugares y reactivos opuestos; no son reversibles.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

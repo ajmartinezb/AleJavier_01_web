@@ -27,7 +27,7 @@ Estructura:
 5. Balance (20 s): entran luz, agua, ADP, fosfato y NADP⁺; salen ATP, NADPH y O₂.
 6. Resumen final en 3 puntos (20 s): la luz excita la clorofila; el agua se rompe y libera oxígeno; se producen ATP y NADPH.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

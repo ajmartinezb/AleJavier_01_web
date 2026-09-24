@@ -25,7 +25,7 @@ Estructura:
 3. Puerta de entrada (60 s): todo el carbono de tu cuerpo, de un ballenato o de un hongo pasó por una reacción de fijación en un autótrofo; la fotosíntesis es la puerta de entrada de la materia y la energía a casi todos los ecosistemas.
 4. Resumen final en 3 puntos (20 s): fijar es pasar de inorgánico a orgánico; lo hacen los autótrofos; es la puerta de entrada de la materia.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

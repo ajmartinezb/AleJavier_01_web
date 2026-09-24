@@ -26,7 +26,7 @@ Estructura:
 4. El criterio (30 s): la fuente de carbono, no la de energía; todos necesitan energía.
 5. Resumen final en 3 puntos (20 s): el autótrofo fija carbono inorgánico; el heterótrofo lo recibe ya orgánico; el criterio es el carbono.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

@@ -27,7 +27,7 @@ Estructura:
 5. En la PAES (30 s): si se pregunta cuánta materia queda para los herbívoros, la respuesta es la neta.
 6. Resumen final en 3 puntos (20 s): bruta es todo lo fabricado; neta es lo que queda tras respirar; a los herbívoros llega la neta.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

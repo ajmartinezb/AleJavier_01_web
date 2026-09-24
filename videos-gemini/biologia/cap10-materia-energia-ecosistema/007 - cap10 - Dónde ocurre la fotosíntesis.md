@@ -28,7 +28,7 @@ Estructura:
 6. Procariontes (20 s): en las cianobacterias los pigmentos están en repliegues de la membrana.
 7. Resumen final en 3 puntos (20 s): tilacoides para la fase luminosa; estroma para el ciclo de Calvin; clasifica por lo que se mide.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

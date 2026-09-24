@@ -26,7 +26,7 @@ Estructura:
 4. Pocos niveles (50 s): de 10 000 unidades quedan 1000, 100 y 10; alrededor del cuarto o quinto nivel no alcanza; una dieta vegetal alimenta a más personas por hectárea.
 5. Resumen final en 3 puntos (20 s): pasa un 10 %; el resto se pierde como calor y restos; por eso hay pocos niveles.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

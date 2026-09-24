@@ -27,7 +27,7 @@ Estructura:
 5. La diferencia en una línea (20 s): la materia circula; la energía fluye y se degrada; hay descomponedores que devuelven materia, pero nadie devuelve la energía.
 6. Resumen final en 3 puntos (20 s): la energía entra como luz; se pierde como calor; su flujo es de un solo sentido.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

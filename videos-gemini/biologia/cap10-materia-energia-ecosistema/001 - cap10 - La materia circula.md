@@ -26,7 +26,7 @@ Estructura:
 4. Ciclos cerrados (30 s): la Tierra no necesita recibir carbono nuevo desde el espacio.
 5. Resumen final en 3 puntos (20 s): la materia se reutiliza; recorre ciclos; los ciclos son cerrados.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

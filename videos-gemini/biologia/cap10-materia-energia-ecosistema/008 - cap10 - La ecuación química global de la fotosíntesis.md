@@ -26,7 +26,7 @@ Estructura:
 4. El oxígeno viene del agua (40 s): se demostró marcando el agua con oxígeno-18, que apareció en el O₂ liberado; la fotólisis rompe el agua.
 5. Resumen final en 3 puntos (20 s): CO₂ y agua entran; glucosa y oxígeno salen; el oxígeno viene del agua.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

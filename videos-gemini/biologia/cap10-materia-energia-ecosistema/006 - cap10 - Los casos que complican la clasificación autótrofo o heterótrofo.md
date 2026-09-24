@@ -28,7 +28,7 @@ Estructura:
 6. Cómo se pregunta (40 s): el caso de la salamandra de 2027; quien fija el CO₂ es el alga; el animal sigue siendo heterótrofo; pregúntate quién fija el carbono.
 7. Resumen final en 3 puntos (20 s): no mires el grupo, mira quién fija carbono; las carnívoras son autótrofas; los animales con algas son heterótrofos.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

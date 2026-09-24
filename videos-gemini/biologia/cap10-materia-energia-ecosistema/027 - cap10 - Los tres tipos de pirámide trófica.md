@@ -28,7 +28,7 @@ Estructura:
 6. Regla segura (30 s): una pirámide invertida nunca es de energía; si es de biomasa, la razón es la velocidad de renovación.
 7. Resumen final en 3 puntos (20 s): energía nunca se invierte; biomasa y números sí; la renovación rápida explica la inversión.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

@@ -26,7 +26,7 @@ Estructura:
 4. En un gráfico (50 s): mientras la curva sube, la variable del eje horizontal limita; en la meseta dejó de limitar y limita otra.
 5. Resumen final en 3 puntos (20 s): limita la variable más escasa; subir otra no sirve; la meseta indica que limita otra variable.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

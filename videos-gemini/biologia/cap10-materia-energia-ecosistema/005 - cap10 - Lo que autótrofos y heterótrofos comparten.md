@@ -26,7 +26,7 @@ Estructura:
 4. Comparación (60 s): fuente de carbono CO₂ o moléculas orgánicas; fuente de energía luz o enlaces químicos; fotosíntesis sí o no; respiración sí en ambos; productor o consumidor.
 5. Resumen final en 3 puntos (20 s): todos respiran; las plantas además fotosintetizan; se diferencian en carbono y energía.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

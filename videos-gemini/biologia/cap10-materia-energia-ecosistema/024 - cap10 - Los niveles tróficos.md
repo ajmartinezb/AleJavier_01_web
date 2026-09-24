@@ -26,7 +26,7 @@ Estructura:
 4. Descomponedores (50 s): hongos y bacterias que degradan materia muerta de todos los niveles; sin ellos la materia quedaría atrapada y el ciclo se detendría.
 5. Resumen final en 3 puntos (20 s): productores en la base; consumidores en pisos sucesivos; los descomponedores cierran el ciclo de la materia.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

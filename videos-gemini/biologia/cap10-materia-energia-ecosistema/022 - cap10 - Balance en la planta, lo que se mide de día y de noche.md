@@ -28,7 +28,7 @@ Estructura:
 6. Verdadero a medias (40 s): de noche consume O₂, pero de día produce mucho más; su balance diario es positivo; es falso concluir que las plantas gastan oxígeno.
 7. Resumen final en 3 puntos (20 s): se mide el balance neto; de noche la planta consume oxígeno; en el día completo produce más del que gasta.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

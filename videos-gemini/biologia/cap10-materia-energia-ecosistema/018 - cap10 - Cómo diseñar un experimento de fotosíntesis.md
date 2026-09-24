@@ -26,7 +26,7 @@ Estructura:
 4. La pregunta típica (30 s): si la curva se aplanó con la luz, hay que actuar sobre otra variable.
 5. Resumen final en 3 puntos (20 s): una variable a la vez y un control; repeticiones; si hay meseta, cambia otra variable.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

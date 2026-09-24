@@ -26,7 +26,7 @@ Estructura:
 4. Dónde se rompe el equilibrio (30 s): formar un combustible fósil toma millones de años y quemarlo segundos; ese desajuste explica el aumento del CO₂.
 5. Resumen final en 3 puntos (20 s): cinco reservorios; flujos que mueven el carbono; la combustión devuelve rápido lo que tardó eras en guardarse.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 

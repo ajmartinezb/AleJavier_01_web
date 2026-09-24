@@ -27,7 +27,7 @@ Estructura:
 5. Estabilidad (40 s): las tramas son más estables; si falta una presa, un depredador con varias fuentes cambia de dieta; en una cadena el nivel superior colapsa.
 6. Resumen final en 3 puntos (20 s): la cadena simplifica y la trama es la red real; las flechas van hacia el que come; las tramas son más estables.
 Tono: profesor cercano y claro, ritmo pausado.
-Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «nadefe hache»; PPN y PPB letra por letra).
+Usa la terminología exacta de las fuentes. No inventes datos. Lee las fórmulas en español (CO₂: «ce o dos»; O₂: «o dos»; ATP: «a te pe»; NADPH: «ene a de pe hache»; PPN y PPB letra por letra).
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
 ```
 
