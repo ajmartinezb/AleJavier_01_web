@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 480" width="1180" height="480" role="img" aria-label="Tres gráficos de la tasa de fotosíntesis frente a la intensidad de luz, la concentración de dióxido de carbono y la temperatura" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Tres gráficos de la tasa de fotosíntesis frente a la intensidad de luz, la concentración de dióxido de carbono y la temperatura</title>
+<rect width="1180" height="480" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker></defs>
+<text x="590.0" y="34.0" font-size="21" text-anchor="middle" fill="#1a202c" font-weight="700">Cómo responde la fotosíntesis a tres variables ambientales</text>
+<text x="250.0" y="78.0" font-size="16" text-anchor="middle" fill="#2b6cb0" font-weight="700">Intensidad de luz</text>
+<line x1="110" y1="372" x2="390" y2="372" stroke="#1a202c" stroke-width="2" marker-end="url(#flg)"/><line x1="110" y1="372" x2="110" y2="122" stroke="#1a202c" stroke-width="2" marker-end="url(#flg)"/><text x="250.0" y="412.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">intensidad de luz</text><text x="68" y="247.0" font-size="13" text-anchor="middle" fill="#4a5568" transform="rotate(-90 68 247.0)">tasa de fotosíntesis neta</text>
+<line x1="110" y1="312" x2="390" y2="312" stroke="#cbd5e0" stroke-width="1.6" stroke-dasharray="5 5"/>
+<text x="102.0" y="316.0" font-size="12" text-anchor="end" fill="#4a5568" font-weight="normal">0</text>
+<path d="M110,354 C180,332 220,212 280,176 C320,157 350,156 384,156" fill="none" stroke="#2b6cb0" stroke-width="3.5"/>
+<circle cx="156" cy="312" r="5.5" fill="#c53030"/>
+<text x="166.0" y="326.0" font-size="12" text-anchor="start" fill="#c53030" font-weight="700">punto de</text>
+<text x="166.0" y="340.0" font-size="12" text-anchor="start" fill="#c53030" font-weight="700">compensación</text>
+<circle cx="288" cy="172" r="5.5" fill="#2f855a"/>
+<text x="300.0" y="200.0" font-size="12" text-anchor="start" fill="#2f855a" font-weight="700">saturación</text>
+<text x="300.0" y="134.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal">meseta: limita otra variable</text>
+<text x="120.0" y="366.0" font-size="11.5" text-anchor="start" fill="#4a5568" font-weight="normal" font-style="italic">intercambio negativo</text>
+<text x="645.0" y="78.0" font-size="16" text-anchor="middle" fill="#6b46c1" font-weight="700">Concentración de CO₂</text>
+<line x1="505" y1="372" x2="785" y2="372" stroke="#1a202c" stroke-width="2" marker-end="url(#flg)"/><line x1="505" y1="372" x2="505" y2="122" stroke="#1a202c" stroke-width="2" marker-end="url(#flg)"/><text x="645.0" y="412.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">concentración de CO₂</text><text x="463" y="247.0" font-size="13" text-anchor="middle" fill="#4a5568" transform="rotate(-90 463 247.0)"></text>
+<path d="M505,362 C565,322 605,207 670,172 C710,154 745,154 779,154" fill="none" stroke="#6b46c1" stroke-width="3.5"/>
+<line x1="589" y1="372" x2="589" y2="222" stroke="#4a5568" stroke-width="1.6" stroke-dasharray="5 5"/>
+<text x="589.0" y="392.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="700">≈420 ppm</text>
+<text x="681.0" y="122.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal">el aire actual suele estar</text>
+<text x="681.0" y="138.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal">por debajo del óptimo</text>
+<text x="1010.0" y="78.0" font-size="16" text-anchor="middle" fill="#c53030" font-weight="700">Temperatura</text>
+<line x1="900" y1="372" x2="1150" y2="372" stroke="#1a202c" stroke-width="2" marker-end="url(#flg)"/><line x1="900" y1="372" x2="900" y2="122" stroke="#1a202c" stroke-width="2" marker-end="url(#flg)"/><text x="1025.0" y="412.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">temperatura</text><text x="858" y="247.0" font-size="13" text-anchor="middle" fill="#4a5568" transform="rotate(-90 858 247.0)"></text>
+<path d="M906,356 C950,342 980,182 1018,166 C1056,150 1086,302 1118,360" fill="none" stroke="#c53030" stroke-width="3.5"/>
+<circle cx="1036" cy="158" r="5.5" fill="#c05621"/>
+<text x="1036.0" y="144.0" font-size="12" text-anchor="middle" fill="#c05621" font-weight="700">óptimo</text>
+<text x="1150.0" y="114.0" font-size="11.5" text-anchor="end" fill="#4a5568" font-weight="normal">las enzimas se desnaturalizan</text>
+<text x="1150.0" y="130.0" font-size="11.5" text-anchor="end" fill="#4a5568" font-weight="normal">y los estomas se cierran</text>
+<rect x="110" y="430" width="1040" height="38" rx="10" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<text x="630.0" y="455.0" font-size="13.5" text-anchor="middle" fill="#14532d" font-weight="700">Luz y CO₂ producen una meseta (más nunca es peor); la temperatura tiene un óptimo (pasado ese punto, más es peor).</text>
+</svg>

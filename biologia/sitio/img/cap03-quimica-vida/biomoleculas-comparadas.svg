@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 560" width="940" height="560" role="img" aria-label="Tabla comparativa de carbohidratos, lípidos, proteínas y ácidos nucleicos con su monómero, polímero y función" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Tabla comparativa de carbohidratos, lípidos, proteínas y ácidos nucleicos con su monómero, polímero y función</title>
+<rect width="940" height="560" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker></defs>
+<text x="470.0" y="30.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Las cuatro familias de biomoléculas orgánicas</text>
+<text x="470.0" y="52.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">Monómero, polímero y función de cada grupo</text>
+<rect x="60" y="76" width="820" height="34" rx="8" fill="#f7fafc" stroke="#cbd5e0" stroke-width="1.4"/>
+<text x="82.0" y="98.0" font-size="11.5" text-anchor="start" fill="#4a5568" font-weight="700">FAMILIA</text>
+<text x="310.0" y="98.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="700">MONÓMERO</text>
+<text x="530.0" y="98.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="700">POLÍMERO O FORMA</text>
+<text x="765.0" y="98.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="700">FUNCIÓN PRINCIPAL</text>
+<rect x="60" y="120" width="820" height="96" rx="12" fill="#ffffff" stroke="#2f855a" stroke-width="2"/>
+<rect x="60" y="120" width="8" height="96" rx="4" fill="#2f855a"/>
+<text x="82.0" y="170.0" font-size="13.5" text-anchor="start" fill="#2f855a" font-weight="700">Carbohidratos</text>
+<text x="310.0" y="160.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Monosacárido</text>
+<text x="310.0" y="180.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">glucosa, fructosa</text>
+<text x="530.0" y="160.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Di y polisacáridos</text>
+<text x="530.0" y="180.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">almidón, glucógeno, celulosa</text>
+<text x="765.0" y="160.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Energía inmediata</text>
+<text x="765.0" y="180.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">y estructura (pared vegetal)</text>
+<rect x="60" y="224" width="820" height="96" rx="12" fill="#ffffff" stroke="#c05621" stroke-width="2"/>
+<rect x="60" y="224" width="8" height="96" rx="4" fill="#c05621"/>
+<text x="82.0" y="274.0" font-size="13.5" text-anchor="start" fill="#c05621" font-weight="700">Lípidos</text>
+<text x="310.0" y="264.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">No polimeriza</text>
+<text x="310.0" y="284.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">glicerol + ácidos grasos</text>
+<text x="530.0" y="264.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Triglicérido, fosfolípido</text>
+<text x="530.0" y="284.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">esteroide, cera</text>
+<text x="765.0" y="264.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Reserva y membranas</text>
+<text x="765.0" y="284.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">también hormonas esteroidales</text>
+<rect x="60" y="328" width="820" height="96" rx="12" fill="#ffffff" stroke="#2b6cb0" stroke-width="2"/>
+<rect x="60" y="328" width="8" height="96" rx="4" fill="#2b6cb0"/>
+<text x="82.0" y="378.0" font-size="13.5" text-anchor="start" fill="#2b6cb0" font-weight="700">Proteínas</text>
+<text x="310.0" y="368.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Aminoácido</text>
+<text x="310.0" y="388.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">veinte distintos</text>
+<text x="530.0" y="368.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Cadena polipeptídica</text>
+<text x="530.0" y="388.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">plegada en 3 o 4 niveles</text>
+<text x="765.0" y="368.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Estructura, transporte</text>
+<text x="765.0" y="388.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">defensa y catálisis (enzimas)</text>
+<rect x="60" y="432" width="820" height="96" rx="12" fill="#ffffff" stroke="#6b46c1" stroke-width="2"/>
+<rect x="60" y="432" width="8" height="96" rx="4" fill="#6b46c1"/>
+<text x="82.0" y="482.0" font-size="13.5" text-anchor="start" fill="#6b46c1" font-weight="700">Ácidos nucleicos</text>
+<text x="310.0" y="472.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Nucleótido</text>
+<text x="310.0" y="492.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">azúcar + fosfato + base</text>
+<text x="530.0" y="472.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">ADN y ARN</text>
+<text x="530.0" y="492.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">doble hélice o hebra simple</text>
+<text x="765.0" y="472.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Información genética</text>
+<text x="765.0" y="492.0" font-size="10.8" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">almacenarla y traducirla</text>
+<text x="470.0" y="544.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">Tres de las cuatro familias son polímeros: se construyen repitiendo un monómero. Los lípidos son la excepción.</text>
+</svg>

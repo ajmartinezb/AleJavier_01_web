@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 620" width="1120" height="620" role="img" aria-label="Los tres pasos de un ciclo de PCR y el crecimiento exponencial del número de copias" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Los tres pasos de un ciclo de PCR y el crecimiento exponencial del número de copias</title>
+<rect width="1120" height="620" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="flv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f855a"/></marker></defs>
+<text x="560.0" y="34.0" font-size="21" text-anchor="middle" fill="#1a202c" font-weight="700">PCR: un ciclo y el crecimiento del número de copias</text>
+<rect x="40" y="60" width="272" height="258" rx="14" fill="#f7fafc" stroke="#2f855a" stroke-width="1.8"/>
+<text x="176.0" y="86.0" font-size="15.5" text-anchor="middle" fill="#2f855a" font-weight="700">Desnaturación</text>
+<rect x="132" y="98" width="88" height="24" rx="12" fill="#c05621"/>
+<text x="176.0" y="115.0" font-size="13.5" text-anchor="middle" fill="#ffffff" font-weight="700">95 °C</text>
+<rect x="80" y="160" width="192" height="12" rx="6" fill="#2b6cb0"/>
+<rect x="80" y="200" width="192" height="12" rx="6" fill="#2b6cb0"/>
+<text x="176.0" y="190.0" font-size="22" text-anchor="middle" fill="#4a5568" font-weight="700">↕</text>
+<text x="176.0" y="268.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Las dos hebras se separan</text>
+<line x1="318" y1="186" x2="336" y2="186" stroke="#2f855a" stroke-width="2.6" marker-end="url(#flv)"/>
+<rect x="340" y="60" width="272" height="258" rx="14" fill="#f7fafc" stroke="#2f855a" stroke-width="1.8"/>
+<text x="476.0" y="86.0" font-size="15.5" text-anchor="middle" fill="#2f855a" font-weight="700">Hibridación</text>
+<rect x="432" y="98" width="88" height="24" rx="12" fill="#c05621"/>
+<text x="476.0" y="115.0" font-size="13.5" text-anchor="middle" fill="#ffffff" font-weight="700">50–60 °C</text>
+<rect x="380" y="156" width="192" height="12" rx="6" fill="#2b6cb0"/>
+<rect x="380" y="170" width="44" height="10" rx="5" fill="#c05621"/>
+<rect x="380" y="204" width="192" height="12" rx="6" fill="#2b6cb0"/>
+<rect x="528" y="192" width="44" height="10" rx="5" fill="#c05621"/>
+<text x="476.0" y="238.0" font-size="12" text-anchor="middle" fill="#c05621" font-weight="700">partidores</text>
+<text x="476.0" y="268.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Los partidores se unen</text>
+<text x="476.0" y="285.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">a los extremos elegidos</text>
+<line x1="618" y1="186" x2="636" y2="186" stroke="#2f855a" stroke-width="2.6" marker-end="url(#flv)"/>
+<rect x="640" y="60" width="272" height="258" rx="14" fill="#f7fafc" stroke="#2f855a" stroke-width="1.8"/>
+<text x="776.0" y="86.0" font-size="15.5" text-anchor="middle" fill="#2f855a" font-weight="700">Extensión</text>
+<rect x="732" y="98" width="88" height="24" rx="12" fill="#c05621"/>
+<text x="776.0" y="115.0" font-size="13.5" text-anchor="middle" fill="#ffffff" font-weight="700">72 °C</text>
+<rect x="680" y="156" width="192" height="12" rx="6" fill="#2b6cb0"/>
+<rect x="680" y="170" width="192" height="10" rx="5" fill="#68d391"/>
+<rect x="680" y="204" width="192" height="12" rx="6" fill="#2b6cb0"/>
+<rect x="680" y="192" width="192" height="10" rx="5" fill="#68d391"/>
+<text x="776.0" y="238.0" font-size="12" text-anchor="middle" fill="#2f855a" font-weight="700">hebra nueva</text>
+<text x="776.0" y="268.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">La polimerasa sintetiza</text>
+<text x="776.0" y="285.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">la hebra complementaria</text>
+<path d="M912,300 q90,50 -430,50 q-440,0 -440,-50" fill="none" stroke="#2f855a" stroke-width="2.2" stroke-dasharray="7 5" marker-end="url(#flv)"/>
+<text x="560.0" y="368.0" font-size="13.5" text-anchor="middle" fill="#2f855a" font-weight="700">el ciclo se repite 25 a 35 veces</text>
+<line x1="120" y1="560" x2="680" y2="560" stroke="#4a5568" stroke-width="1.8" marker-end="url(#flg)"/>
+<line x1="120" y1="560" x2="120" y2="410" stroke="#4a5568" stroke-width="1.8" marker-end="url(#flg)"/>
+<text x="400.0" y="594.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">número de ciclos</text>
+<text x="110.0" y="404.0" font-size="12.5" text-anchor="end" fill="#4a5568" font-weight="normal">copias</text>
+<polyline points="120.0,560.0 176.0,559.9 232.0,559.6 288.0,559.0 344.0,557.8 400.0,555.5 456.0,550.8 512.0,541.4 568.0,522.6 624.0,485.1 680.0,410.0" fill="none" stroke="#c05621" stroke-width="3"/>
+<circle cx="120.0" cy="560.0" r="4.5" fill="#c05621"/>
+<text x="120.0" y="548.0" font-size="12" text-anchor="middle" fill="#c05621" font-weight="700">1</text>
+<text x="120.0" y="576.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">0</text>
+<circle cx="400.0" cy="555.5" r="4.5" fill="#c05621"/>
+<text x="400.0" y="543.5" font-size="12" text-anchor="middle" fill="#c05621" font-weight="700">32</text>
+<text x="400.0" y="576.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">5</text>
+<circle cx="680.0" cy="410.0" r="4.5" fill="#c05621"/>
+<text x="680.0" y="398.0" font-size="12" text-anchor="middle" fill="#c05621" font-weight="700">1024</text>
+<text x="680.0" y="576.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">10</text>
+<rect x="716" y="404" width="368" height="164" rx="12" fill="#f0fff4" stroke="#2f855a" stroke-width="1.6"/>
+<text x="900.0" y="430.0" font-size="14.5" text-anchor="middle" fill="#2f855a" font-weight="700">La cuenta que hay que saber</text>
+<text x="900.0" y="456.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="normal">Cada ciclo DUPLICA la cantidad.</text>
+<text x="900.0" y="473.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="normal">Después de n ciclos hay 2ⁿ veces</text>
+<text x="900.0" y="490.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="normal">la cantidad inicial.</text>
+<text x="900.0" y="507.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal"></text>
+<text x="900.0" y="524.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">10 ciclos ≈ 1000 copias</text>
+<text x="900.0" y="541.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">20 ciclos ≈ 1 millón</text>
+<text x="900.0" y="558.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">30 ciclos ≈ 1000 millones</text>
+</svg>

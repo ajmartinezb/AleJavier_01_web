@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 600" width="920" height="600" role="img" aria-label="Comparación de célula procarionte, eucarionte animal y vegetal, organismos unicelulares y pluricelulares, y cinco células especializadas" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Comparación de célula procarionte, eucarionte animal y vegetal, organismos unicelulares y pluricelulares, y cinco células especializadas</title>
+<rect width="920" height="600" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker></defs>
+<text x="460.0" y="30.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Unidad y diversidad celular</text>
+<text x="460.0" y="52.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">Un plan común, tamaños y formas muy distintos</text>
+<text x="70.0" y="86.0" font-size="14.5" text-anchor="start" fill="#2f855a" font-weight="700">1. Dos grandes tipos</text>
+<rect x="80" y="104" width="130" height="90" rx="40" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<path d="M110,150 q12,-16 24,0 q12,16 24,0 q12,-16 22,2" fill="none" stroke="#6b46c1" stroke-width="2.2"/>
+<path d="M210,149 q22,-6 40,-2" fill="none" stroke="#4a5568" stroke-width="1.8"/>
+<text x="145.0" y="212.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Procarionte</text>
+<text x="145.0" y="228.0" font-size="11.2" text-anchor="middle" fill="#4a5568" font-weight="normal">1–10 µm · sin núcleo</text>
+<text x="145.0" y="243.0" font-size="11.2" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">bacterias y arqueas</text>
+<text x="268.0" y="132.0" font-size="11" text-anchor="start" fill="#6b46c1" font-weight="normal">ADN libre en</text>
+<text x="268.0" y="146.0" font-size="11" text-anchor="start" fill="#6b46c1" font-weight="normal">el nucleoide</text>
+<ellipse cx="480" cy="150" rx="88" ry="62" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<circle cx="470" cy="145" r="26" fill="#68d391" stroke="#2f855a" stroke-width="1.8"/>
+<circle cx="470" cy="145" r="9" fill="#6b46c1" opacity="0.55"/>
+<ellipse cx="528" cy="182" rx="17" ry="9" fill="#c05621" opacity="0.65"/>
+<ellipse cx="424" cy="186" rx="15" ry="8" fill="#c05621" opacity="0.65"/>
+<text x="480.0" y="232.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Eucarionte animal</text>
+<text x="480.0" y="248.0" font-size="11.2" text-anchor="middle" fill="#4a5568" font-weight="normal">10–100 µm · con núcleo</text>
+<text x="396.0" y="116.0" font-size="11" text-anchor="end" fill="#2f855a" font-weight="700">núcleo</text>
+<line x1="398" y1="120" x2="446" y2="136" stroke="#cbd5e0" stroke-width="1.4"/>
+<text x="592.0" y="190.0" font-size="11" text-anchor="start" fill="#c05621" font-weight="700">mitocondrias</text>
+<line x1="546" y1="184" x2="588" y2="188" stroke="#cbd5e0" stroke-width="1.4"/>
+<rect x="720" y="100" width="150" height="104" rx="6" fill="#9ae6b4" stroke="#2f855a" stroke-width="3"/>
+<rect x="730" y="110" width="130" height="84" rx="4" fill="#c6f6d5" stroke="#2f855a" stroke-width="1.4"/>
+<circle cx="766" cy="140" r="19" fill="#68d391" stroke="#2f855a" stroke-width="1.6"/>
+<ellipse cx="826" cy="132" rx="15" ry="9" fill="#2f855a" opacity="0.75"/>
+<rect x="756" y="164" width="88" height="24" rx="5" fill="#2b6cb0" opacity="0.28"/>
+<text x="795.0" y="222.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Eucarionte vegetal</text>
+<text x="795.0" y="238.0" font-size="11.2" text-anchor="middle" fill="#4a5568" font-weight="normal">pared, cloroplastos</text>
+<text x="795.0" y="253.0" font-size="11.2" text-anchor="middle" fill="#4a5568" font-weight="normal">y vacuola grande</text>
+<rect x="70" y="272" width="780" height="1.5" fill="#cbd5e0"/>
+<text x="70.0" y="300.0" font-size="14.5" text-anchor="start" fill="#2f855a" font-weight="700">2. Unicelular y pluricelular</text>
+<rect x="80" y="314" width="200" height="108" rx="12" fill="#f7fafc" stroke="#4a5568" stroke-width="2"/><text x="180.0" y="338.0" font-size="15" text-anchor="middle" fill="#4a5568" font-weight="700">Unicelular</text><text x="180.0" y="360.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">una célula hace todo:</text><text x="180.0" y="378.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">nutrición, respuesta</text><text x="180.0" y="396.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">y reproducción</text><text x="180.0" y="414.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">levadura, paramecio</text>
+<line x1="292" y1="368" x2="336" y2="368" stroke="#2f855a" stroke-width="2.5" marker-end="url(#flg)"/>
+<text x="314.0" y="308.0" font-size="11.5" text-anchor="middle" fill="#2f855a" font-weight="700">diferenciación</text>
+<rect x="344" y="314" width="224" height="108" rx="12" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/><text x="456.0" y="338.0" font-size="15" text-anchor="middle" fill="#2f855a" font-weight="700">Pluricelular</text><text x="456.0" y="360.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">las células se reparten</text><text x="456.0" y="378.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">el trabajo: célula →</text><text x="456.0" y="396.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">tejido → órgano → sistema</text><text x="456.0" y="414.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">planta, animal, hongo</text>
+<rect x="600" y="314" width="250" height="108" rx="12" fill="#ffffff" stroke="#cbd5e0" stroke-width="1.5"/>
+<text x="614.0" y="338.0" font-size="12.5" text-anchor="start" fill="#1a202c" font-weight="700">Mismo ADN en todas las células</text>
+<text x="614.0" y="358.0" font-size="11.8" text-anchor="start" fill="#4a5568" font-weight="normal">del cuerpo; lo que cambia es qué</text>
+<text x="614.0" y="375.0" font-size="11.8" text-anchor="start" fill="#4a5568" font-weight="normal">genes expresa cada una. De ahí</text>
+<text x="614.0" y="392.0" font-size="11.8" text-anchor="start" fill="#4a5568" font-weight="normal">salen formas tan distintas.</text>
+<rect x="70" y="442" width="780" height="1.5" fill="#cbd5e0"/>
+<text x="70.0" y="470.0" font-size="14.5" text-anchor="start" fill="#2f855a" font-weight="700">3. La forma sigue a la función</text>
+<circle cx="130" cy="512" r="14" fill="#9ae6b4" stroke="#2f855a" stroke-width="1.8"/>
+<line x1="116" y1="512" x2="104" y2="496.0" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="116" y1="512" x2="104" y2="505.6" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="116" y1="512" x2="104" y2="518.4" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="116" y1="512" x2="104" y2="528.0" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="144" y1="512" x2="214" y2="512" stroke="#2f855a" stroke-width="2.4"/>
+<path d="M214,512 l10,-6 M214,512 l10,6" fill="none" stroke="#2f855a" stroke-width="2"/>
+<text x="160.0" y="546.0" font-size="11.3" text-anchor="middle" fill="#4a5568" font-weight="normal">Neurona: conecta</text>
+<text x="160.0" y="561.0" font-size="11.3" text-anchor="middle" fill="#4a5568" font-weight="normal">puntos distantes</text>
+<ellipse cx="330" cy="512" rx="26" ry="15" fill="#fed7d7" stroke="#c53030" stroke-width="1.8"/>
+<ellipse cx="330" cy="512" rx="10" ry="6" fill="#ffffff" stroke="#c53030" stroke-width="1.2"/>
+<text x="330.0" y="546.0" font-size="11.3" text-anchor="middle" fill="#4a5568" font-weight="normal">Glóbulo rojo: mucha</text>
+<text x="330.0" y="561.0" font-size="11.3" text-anchor="middle" fill="#4a5568" font-weight="normal">superficie, sin núcleo</text>
+<rect x="452" y="501" width="118" height="22" rx="10" fill="#fefcbf" stroke="#d69e2e" stroke-width="1.8"/>
+<line x1="464" y1="503" x2="464" y2="521" stroke="#d69e2e" stroke-width="1.3"/>
+<line x1="486" y1="503" x2="486" y2="521" stroke="#d69e2e" stroke-width="1.3"/>
+<line x1="508" y1="503" x2="508" y2="521" stroke="#d69e2e" stroke-width="1.3"/>
+<line x1="530" y1="503" x2="530" y2="521" stroke="#d69e2e" stroke-width="1.3"/>
+<line x1="552" y1="503" x2="552" y2="521" stroke="#d69e2e" stroke-width="1.3"/>
+<text x="511.0" y="546.0" font-size="11.3" text-anchor="middle" fill="#4a5568" font-weight="normal">Fibra muscular: se</text>
+<text x="511.0" y="561.0" font-size="11.3" text-anchor="middle" fill="#4a5568" font-weight="normal">contrae en un eje</text>
+<rect x="672" y="496" width="76" height="32" rx="4" fill="#c6f6d5" stroke="#2f855a" stroke-width="1.8"/>
+<line x1="678" y1="496" x2="678" y2="484" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="687" y1="496" x2="687" y2="484" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="696" y1="496" x2="696" y2="484" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="705" y1="496" x2="705" y2="484" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="714" y1="496" x2="714" y2="484" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="723" y1="496" x2="723" y2="484" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="732" y1="496" x2="732" y2="484" stroke="#2f855a" stroke-width="1.6"/>
+<line x1="741" y1="496" x2="741" y2="484" stroke="#2f855a" stroke-width="1.6"/>
+<text x="710.0" y="546.0" font-size="11.3" text-anchor="middle" fill="#4a5568" font-weight="normal">Enterocito: absorbe</text>
+<text x="710.0" y="561.0" font-size="11.3" text-anchor="middle" fill="#4a5568" font-weight="normal">con microvellosidades</text>
+<ellipse cx="832" cy="512" rx="15" ry="10" fill="#9ae6b4" stroke="#2f855a" stroke-width="1.8"/>
+<path d="M847,512 q12,-11 22,0 q10,11 21,0" fill="none" stroke="#2f855a" stroke-width="2"/>
+<text x="855.0" y="546.0" font-size="11.3" text-anchor="middle" fill="#4a5568" font-weight="normal">Espermatozoide:</text>
+<text x="855.0" y="561.0" font-size="11.3" text-anchor="middle" fill="#4a5568" font-weight="normal">se desplaza rápido</text>
+</svg>

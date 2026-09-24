@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" font-family="system-ui, sans-serif" font-size="15">
+  <rect width="640" height="400" fill="#ffffff"/>
+  <defs><marker id="f" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2f855a"/></marker></defs>
+  <g fill="none" stroke="#2f855a" stroke-width="2.2" marker-end="url(#f)">
+    <path d="M388 62 Q452 70 478 112"/><path d="M520 160 Q540 190 522 228"/><path d="M476 280 Q450 322 392 336"/>
+    <path d="M248 338 Q190 330 162 290"/><path d="M118 230 Q100 200 118 162"/>
+    <path d="M210 142 Q236 160 250 180"/><path d="M320 170 L320 90" stroke-dasharray="5 5"/>
+  </g>
+  <g text-anchor="middle">
+    <rect x="228" y="36" width="184" height="46" rx="10" fill="#e6f4ea" stroke="#2f855a"/><text x="320" y="64">1. Observación</text>
+    <rect x="430" y="112" width="184" height="46" rx="10" fill="#e6f4ea" stroke="#2f855a"/><text x="522" y="140">2. Pregunta</text>
+    <rect x="430" y="232" width="184" height="46" rx="10" fill="#e6f4ea" stroke="#2f855a"/><text x="522" y="260" font-size="13.5">3. Hipótesis y predicción</text>
+    <rect x="228" y="314" width="184" height="46" rx="10" fill="#e6f4ea" stroke="#2f855a"/><text x="320" y="342">4. Experimentación</text>
+    <rect x="26" y="232" width="184" height="46" rx="10" fill="#e6f4ea" stroke="#2f855a"/><text x="118" y="260">5. Resultados</text>
+    <rect x="26" y="112" width="184" height="46" rx="10" fill="#e6f4ea" stroke="#2f855a"/><text x="118" y="140">6. Conclusión</text>
+    <rect x="236" y="170" width="168" height="58" rx="29" fill="#2f855a"/><text x="320" y="195" fill="#ffffff" font-weight="bold">7. Comunicación</text><text x="320" y="215" fill="#ffffff" font-size="12">y revisión de pares</text>
+    <text x="320" y="390" font-size="12" fill="#444">Las conclusiones generan nuevas observaciones y preguntas: el proceso es cíclico.</text>
+  </g>
+</svg>

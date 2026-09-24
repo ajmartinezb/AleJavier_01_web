@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 930" width="1180" height="930" role="img" aria-label="Reloj de 24 horas con los hitos de la historia de la vida en la Tierra" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Reloj de 24 horas con los hitos de la historia de la vida en la Tierra</title>
+<rect width="1180" height="930" fill="#ffffff"/>
+<defs><marker id="fln" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c05621"/></marker></defs>
+<text x="590.0" y="36.0" font-size="22" text-anchor="middle" fill="#1a202c" font-weight="700">La historia de la Tierra comprimida en 24 horas</text>
+<text x="590.0" y="62.0" font-size="14.5" text-anchor="middle" fill="#4a5568" font-weight="normal">4600 millones de años = 1 día · 1 hora ≈ 192 millones de años</text>
+<path d="M590,470 L590.0,180.0 A290,290 0 0 1 801.9,272.1 Z" fill="#e2e8f0" stroke="#ffffff" stroke-width="2.5"/>
+<text x="659.3" y="310.4" font-size="14.5" text-anchor="middle" fill="#1a202c" font-weight="700">Hádico</text>
+<path d="M590,470 L801.9,272.1 A290,290 0 0 1 668.2,749.2 Z" fill="#c6f6d5" stroke="#ffffff" stroke-width="2.5"/>
+<text x="757.5" y="516.9" font-size="14.5" text-anchor="middle" fill="#1a202c" font-weight="700">Arcaico</text>
+<path d="M590,470 L668.2,749.2 A290,290 0 0 1 394.7,255.6 Z" fill="#9ae6b4" stroke="#ffffff" stroke-width="2.5"/>
+<text x="437.8" y="554.3" font-size="14.5" text-anchor="middle" fill="#1a202c" font-weight="700">Proterozoico</text>
+<path d="M590,470 L394.7,255.6 A290,290 0 0 1 590.0,180.0 Z" fill="#68d391" stroke="#ffffff" stroke-width="2.5"/>
+<text x="527.2" y="307.7" font-size="14.5" text-anchor="middle" fill="#1a202c" font-weight="700">Fanerozoico</text>
+<circle cx="590" cy="470" r="290" fill="none" stroke="#4a5568" stroke-width="2"/>
+<line x1="590.0" y1="180.0" x2="590.0" y2="196.0" stroke="#4a5568" stroke-width="2.2"/>
+<text x="590.0" y="231.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="700">00h</text>
+<line x1="665.1" y1="189.9" x2="662.7" y2="198.6" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="735.0" y1="218.9" x2="730.5" y2="226.6" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="795.1" y1="264.9" x2="788.7" y2="271.3" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="841.1" y1="325.0" x2="833.4" y2="329.5" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="870.1" y1="394.9" x2="861.4" y2="397.3" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="880.0" y1="470.0" x2="864.0" y2="470.0" stroke="#4a5568" stroke-width="2.2"/>
+<text x="834.0" y="475.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="700">06h</text>
+<line x1="870.1" y1="545.1" x2="861.4" y2="542.7" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="841.1" y1="615.0" x2="833.4" y2="610.5" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="795.1" y1="675.1" x2="788.7" y2="668.7" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="735.0" y1="721.1" x2="730.5" y2="713.4" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="665.1" y1="750.1" x2="662.7" y2="741.4" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="590.0" y1="760.0" x2="590.0" y2="744.0" stroke="#4a5568" stroke-width="2.2"/>
+<text x="590.0" y="719.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="700">12h</text>
+<line x1="514.9" y1="750.1" x2="517.3" y2="741.4" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="445.0" y1="721.1" x2="449.5" y2="713.4" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="384.9" y1="675.1" x2="391.3" y2="668.7" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="338.9" y1="615.0" x2="346.6" y2="610.5" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="309.9" y1="545.1" x2="318.6" y2="542.7" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="300.0" y1="470.0" x2="316.0" y2="470.0" stroke="#4a5568" stroke-width="2.2"/>
+<text x="346.0" y="475.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="700">18h</text>
+<line x1="309.9" y1="394.9" x2="318.6" y2="397.3" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="338.9" y1="325.0" x2="346.6" y2="329.5" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="384.9" y1="264.9" x2="391.3" y2="271.3" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="445.0" y1="218.9" x2="449.5" y2="226.6" stroke="#4a5568" stroke-width="1.2"/>
+<line x1="514.9" y1="189.9" x2="517.3" y2="198.6" stroke="#4a5568" stroke-width="1.2"/>
+<circle cx="590" cy="470" r="76" fill="#ffffff" stroke="#4a5568" stroke-width="2"/>
+<text x="590.0" y="464.0" font-size="20" text-anchor="middle" fill="#2f855a" font-weight="700">00:00</text>
+<text x="590.0" y="484.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">se forma</text>
+<text x="590.0" y="501.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">la Tierra</text>
+<circle cx="589.9" cy="180.0" r="5.5" fill="#c05621" stroke="#ffffff" stroke-width="1.6"/>
+<polyline points="589.9,180.0 309.6,180.0 290.0,180.0" fill="none" stroke="#c05621" stroke-width="1.3"/>
+<text x="276.0" y="176.0" font-size="13.5" text-anchor="end" fill="#1a202c" font-weight="600">Homo sapiens</text>
+<text x="276.0" y="194.0" font-size="13" text-anchor="end" fill="#c05621" font-weight="700">23:59:54</text>
+<circle cx="563.9" cy="181.2" r="5.5" fill="#c05621" stroke="#ffffff" stroke-width="1.6"/>
+<polyline points="563.9,181.2 309.6,226.0 290.0,226.0" fill="none" stroke="#c05621" stroke-width="1.3"/>
+<text x="276.0" y="222.0" font-size="13.5" text-anchor="end" fill="#1a202c" font-weight="600">Extinción K-Pg</text>
+<text x="276.0" y="240.0" font-size="13" text-anchor="end" fill="#c05621" font-weight="700">23:39</text>
+<circle cx="500.4" cy="194.2" r="5.5" fill="#c05621" stroke="#ffffff" stroke-width="1.6"/>
+<polyline points="500.4,194.2 309.6,272.0 290.0,272.0" fill="none" stroke="#c05621" stroke-width="1.3"/>
+<text x="276.0" y="268.0" font-size="13.5" text-anchor="end" fill="#1a202c" font-weight="600">Dinosaurios y mamíferos</text>
+<text x="276.0" y="286.0" font-size="13" text-anchor="end" fill="#c05621" font-weight="700">22:48</text>
+<circle cx="447.9" cy="217.2" r="5.5" fill="#c05621" stroke="#ffffff" stroke-width="1.6"/>
+<polyline points="447.9,217.2 309.6,318.0 290.0,318.0" fill="none" stroke="#c05621" stroke-width="1.3"/>
+<text x="276.0" y="314.0" font-size="13.5" text-anchor="end" fill="#1a202c" font-weight="600">Vertebrados en tierra firme</text>
+<text x="276.0" y="332.0" font-size="13" text-anchor="end" fill="#c05621" font-weight="700">22:03</text>
+<circle cx="416.4" cy="237.7" r="5.5" fill="#c05621" stroke="#ffffff" stroke-width="1.6"/>
+<polyline points="416.4,237.7 309.6,364.0 290.0,364.0" fill="none" stroke="#c05621" stroke-width="1.3"/>
+<text x="276.0" y="360.0" font-size="13.5" text-anchor="end" fill="#1a202c" font-weight="600">Plantas terrestres</text>
+<text x="276.0" y="378.0" font-size="13" text-anchor="end" fill="#c05621" font-weight="700">21:33</text>
+<circle cx="394.7" cy="255.6" r="5.5" fill="#c05621" stroke="#ffffff" stroke-width="1.6"/>
+<polyline points="394.7,255.6 309.6,410.0 290.0,410.0" fill="none" stroke="#c05621" stroke-width="1.3"/>
+<text x="276.0" y="406.0" font-size="13.5" text-anchor="end" fill="#1a202c" font-weight="600">Explosión cámbrica</text>
+<text x="276.0" y="424.0" font-size="13" text-anchor="end" fill="#c05621" font-weight="700">21:11</text>
+<circle cx="378.1" cy="272.1" r="5.5" fill="#c05621" stroke="#ffffff" stroke-width="1.6"/>
+<polyline points="378.1,272.1 309.6,456.0 290.0,456.0" fill="none" stroke="#c05621" stroke-width="1.3"/>
+<text x="276.0" y="452.0" font-size="13.5" text-anchor="end" fill="#1a202c" font-weight="600">Primeros multicelulares</text>
+<text x="276.0" y="470.0" font-size="13" text-anchor="end" fill="#c05621" font-weight="700">20:52</text>
+<circle cx="407.0" cy="695.0" r="5.5" fill="#c05621" stroke="#ffffff" stroke-width="1.6"/>
+<polyline points="407.0,695.0 309.6,695.0 290.0,695.0" fill="none" stroke="#c05621" stroke-width="1.3"/>
+<text x="276.0" y="691.0" font-size="13.5" text-anchor="end" fill="#1a202c" font-weight="600">Primeros eucariontes</text>
+<text x="276.0" y="709.0" font-size="13" text-anchor="end" fill="#c05621" font-weight="700">14:37</text>
+<circle cx="879.3" cy="450.2" r="5.5" fill="#c05621" stroke="#ffffff" stroke-width="1.6"/>
+<polyline points="879.3,450.2 870.4,450.2 890.0,450.2" fill="none" stroke="#c05621" stroke-width="1.3"/>
+<text x="904.0" y="446.2" font-size="13.5" text-anchor="start" fill="#1a202c" font-weight="600">Primeros procariontes</text>
+<text x="904.0" y="464.2" font-size="13" text-anchor="start" fill="#c05621" font-weight="700">05:44</text>
+<circle cx="629.5" cy="757.3" r="5.5" fill="#c05621" stroke="#ffffff" stroke-width="1.6"/>
+<polyline points="629.5,757.3 870.4,757.3 890.0,757.3" fill="none" stroke="#c05621" stroke-width="1.3"/>
+<text x="904.0" y="753.3" font-size="13.5" text-anchor="start" fill="#1a202c" font-weight="600">Gran Oxidación</text>
+<text x="904.0" y="771.3" font-size="13" text-anchor="start" fill="#c05621" font-weight="700">11:29</text>
+<rect x="340" y="812" width="500" height="96" rx="12" fill="#fffaf0" stroke="#c05621" stroke-width="1.6"/>
+<text x="590.0" y="838.0" font-size="14.5" text-anchor="middle" fill="#c05621" font-weight="700">Los últimos seis segundos del día</text>
+<text x="590.0" y="862.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">23:59:07 · aparece el género Homo (2,8 Ma)</text>
+<text x="590.0" y="882.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">23:59:54 · aparece Homo sapiens (300 000 años)</text>
+<text x="590.0" y="902.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">23:59:59,8 · comienza la agricultura (12 000 años)</text>
+</svg>

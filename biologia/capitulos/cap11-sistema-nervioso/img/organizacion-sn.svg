@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 560" width="1140" height="560" role="img" aria-label="Organización del sistema nervioso en sus divisiones central y periférica" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Organización del sistema nervioso en sus divisiones central y periférica</title>
+<rect width="1140" height="560" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker></defs>
+<text x="570.0" y="34.0" font-size="21" text-anchor="middle" fill="#1a202c" font-weight="700">Organización del sistema nervioso</text>
+<rect x="430" y="60" width="280" height="52" rx="12" fill="#f7fafc" stroke="#1a202c" stroke-width="2"/><text x="570.0" y="91.0" font-size="16" text-anchor="middle" fill="#1a202c" font-weight="700">SISTEMA NERVIOSO</text>
+<line x1="570" y1="112" x2="570" y2="132" stroke="#4a5568" stroke-width="2"/>
+<line x1="250" y1="132" x2="890" y2="132" stroke="#4a5568" stroke-width="2"/>
+<line x1="250" y1="132" x2="250" y2="152" stroke="#4a5568" stroke-width="2" marker-end="url(#flg)"/>
+<line x1="890" y1="132" x2="890" y2="152" stroke="#4a5568" stroke-width="2" marker-end="url(#flg)"/>
+<rect x="100" y="156" width="300" height="96" rx="12" fill="#f0fff4" stroke="#2f855a" stroke-width="2"/><text x="250.0" y="180.0" font-size="15" text-anchor="middle" fill="#2f855a" font-weight="700">CENTRAL (SNC)</text><text x="250.0" y="202.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Encéfalo y médula espinal</text><text x="250.0" y="219.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">INTEGRA la información</text><text x="250.0" y="236.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">y elabora las respuestas</text>
+<rect x="740" y="156" width="300" height="96" rx="12" fill="#ebf8ff" stroke="#2b6cb0" stroke-width="2"/><text x="890.0" y="180.0" font-size="15" text-anchor="middle" fill="#2b6cb0" font-weight="700">PERIFÉRICO (SNP)</text><text x="890.0" y="202.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Nervios y ganglios</text><text x="890.0" y="219.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">COMUNICA el SNC</text><text x="890.0" y="236.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">con el resto del cuerpo</text>
+<line x1="890" y1="252" x2="890" y2="276" stroke="#4a5568" stroke-width="2"/>
+<line x1="640" y1="276" x2="1040" y2="276" stroke="#4a5568" stroke-width="2"/>
+<line x1="640" y1="276" x2="640" y2="296" stroke="#4a5568" stroke-width="2" marker-end="url(#flg)"/>
+<line x1="1040" y1="276" x2="1040" y2="296" stroke="#4a5568" stroke-width="2" marker-end="url(#flg)"/>
+<rect x="500" y="300" width="280" height="84" rx="12" fill="#faf5ff" stroke="#6b46c1" stroke-width="2"/><text x="640.0" y="324.0" font-size="15" text-anchor="middle" fill="#6b46c1" font-weight="700">SOMÁTICO</text><text x="640.0" y="346.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Músculo esquelético</text><text x="640.0" y="363.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">VOLUNTARIO</text>
+<rect x="900" y="300" width="230" height="84" rx="12" fill="#fffaf0" stroke="#c05621" stroke-width="2"/><text x="1015.0" y="324.0" font-size="15" text-anchor="middle" fill="#c05621" font-weight="700">AUTÓNOMO</text><text x="1015.0" y="346.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Órganos internos</text><text x="1015.0" y="363.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">INVOLUNTARIO</text>
+<line x1="1015" y1="384" x2="1015" y2="404" stroke="#4a5568" stroke-width="2"/>
+<line x1="830" y1="404" x2="1075" y2="404" stroke="#4a5568" stroke-width="2"/>
+<line x1="830" y1="404" x2="830" y2="422" stroke="#4a5568" stroke-width="2" marker-end="url(#flg)"/>
+<line x1="1075" y1="404" x2="1075" y2="422" stroke="#4a5568" stroke-width="2" marker-end="url(#flg)"/>
+<rect x="730" y="426" width="200" height="72" rx="12" fill="#fff5f5" stroke="#c53030" stroke-width="2"/><text x="830.0" y="450.0" font-size="14" text-anchor="middle" fill="#c53030" font-weight="700">Simpático</text><text x="830.0" y="472.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Alerta y esfuerzo</text>
+<rect x="975" y="426" width="160" height="72" rx="12" fill="#f0fff4" stroke="#2f855a" stroke-width="2"/><text x="1055.0" y="450.0" font-size="14" text-anchor="middle" fill="#2f855a" font-weight="700">Parasimpático</text><text x="1055.0" y="472.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Reposo</text>
+<rect x="60" y="300" width="400" height="198" rx="12" fill="#f7fafc" stroke="#cbd5e0" stroke-width="1.8"/>
+<text x="260.0" y="326.0" font-size="14" text-anchor="middle" fill="#1a202c" font-weight="700">Simpático y parasimpático: efectos opuestos</text>
+<text x="86.0" y="352.0" font-size="12.5" text-anchor="start" fill="#1a202c" font-weight="700"></text>
+<text x="300.0" y="352.0" font-size="12.5" text-anchor="middle" fill="#c53030" font-weight="700">Simpático</text>
+<text x="410.0" y="352.0" font-size="12.5" text-anchor="middle" fill="#2f855a" font-weight="700">Parasimpático</text>
+<line x1="78" y1="360" x2="444" y2="360" stroke="#cbd5e0" stroke-width="1.2"/>
+<text x="86.0" y="378.0" font-size="12.5" text-anchor="start" fill="#4a5568" font-weight="normal">Frecuencia cardíaca</text>
+<text x="300.0" y="378.0" font-size="12.5" text-anchor="middle" fill="#c53030" font-weight="normal">sube</text>
+<text x="410.0" y="378.0" font-size="12.5" text-anchor="middle" fill="#2f855a" font-weight="normal">baja</text>
+<text x="86.0" y="404.0" font-size="12.5" text-anchor="start" fill="#4a5568" font-weight="normal">Bronquios</text>
+<text x="300.0" y="404.0" font-size="12.5" text-anchor="middle" fill="#c53030" font-weight="normal">se dilatan</text>
+<text x="410.0" y="404.0" font-size="12.5" text-anchor="middle" fill="#2f855a" font-weight="normal">se contraen</text>
+<text x="86.0" y="430.0" font-size="12.5" text-anchor="start" fill="#4a5568" font-weight="normal">Digestión</text>
+<text x="300.0" y="430.0" font-size="12.5" text-anchor="middle" fill="#c53030" font-weight="normal">se frena</text>
+<text x="410.0" y="430.0" font-size="12.5" text-anchor="middle" fill="#2f855a" font-weight="normal">se activa</text>
+<text x="86.0" y="456.0" font-size="12.5" text-anchor="start" fill="#4a5568" font-weight="normal">Pupila</text>
+<text x="300.0" y="456.0" font-size="12.5" text-anchor="middle" fill="#c53030" font-weight="normal">se dilata</text>
+<text x="410.0" y="456.0" font-size="12.5" text-anchor="middle" fill="#2f855a" font-weight="normal">se contrae</text>
+<text x="570.0" y="534.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">Los dos actúan siempre; lo que cambia es cuál predomina según la situación.</text>
+</svg>

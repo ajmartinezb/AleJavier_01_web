@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 504" width="1180" height="504" role="img" aria-label="Partes de una neurona y sentido de conducción del impulso nervioso" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Partes de una neurona y sentido de conducción del impulso nervioso</title>
+<rect width="1180" height="504" fill="#ffffff"/>
+<defs><marker id="flv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f855a"/></marker><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker></defs>
+<text x="590.0" y="34.0" font-size="21" text-anchor="middle" fill="#1a202c" font-weight="700">Partes de una neurona y sentido del impulso</text>
+<path d="M150,220 Q119.2,180.6 93.4,147.5" fill="none" stroke="#6b46c1" stroke-width="5" stroke-linecap="round"/>
+<line x1="93.4" y1="147.5" x2="83.6" y2="123.4" stroke="#6b46c1" stroke-width="3" stroke-linecap="round"/>
+<line x1="93.4" y1="147.5" x2="72.3" y2="132.2" stroke="#6b46c1" stroke-width="3" stroke-linecap="round"/>
+<path d="M150,220 Q105.1,198.1 67.3,179.7" fill="none" stroke="#6b46c1" stroke-width="5" stroke-linecap="round"/>
+<line x1="67.3" y1="179.7" x2="48.0" y2="162.3" stroke="#6b46c1" stroke-width="3" stroke-linecap="round"/>
+<line x1="67.3" y1="179.7" x2="41.7" y2="175.2" stroke="#6b46c1" stroke-width="3" stroke-linecap="round"/>
+<path d="M150,220 Q100.0,220.0 58.0,220.0" fill="none" stroke="#6b46c1" stroke-width="5" stroke-linecap="round"/>
+<line x1="58.0" y1="220.0" x2="33.0" y2="212.8" stroke="#6b46c1" stroke-width="3" stroke-linecap="round"/>
+<line x1="58.0" y1="220.0" x2="33.0" y2="227.2" stroke="#6b46c1" stroke-width="3" stroke-linecap="round"/>
+<path d="M150,220 Q105.1,241.9 67.3,260.3" fill="none" stroke="#6b46c1" stroke-width="5" stroke-linecap="round"/>
+<line x1="67.3" y1="260.3" x2="41.7" y2="264.8" stroke="#6b46c1" stroke-width="3" stroke-linecap="round"/>
+<line x1="67.3" y1="260.3" x2="48.0" y2="277.7" stroke="#6b46c1" stroke-width="3" stroke-linecap="round"/>
+<path d="M150,220 Q119.2,259.4 93.4,292.5" fill="none" stroke="#6b46c1" stroke-width="5" stroke-linecap="round"/>
+<line x1="93.4" y1="292.5" x2="72.3" y2="307.8" stroke="#6b46c1" stroke-width="3" stroke-linecap="round"/>
+<line x1="93.4" y1="292.5" x2="83.6" y2="316.6" stroke="#6b46c1" stroke-width="3" stroke-linecap="round"/>
+<circle cx="188" cy="220" r="46" fill="#9ae6b4" stroke="#2f855a" stroke-width="2.5"/>
+<circle cx="188" cy="220" r="19" fill="#2f855a"/>
+<text x="188.0" y="225.0" font-size="15" text-anchor="middle" fill="#ffffff" font-weight="700">N</text>
+<path d="M230,198 L286,209 L286,231 L230,242 z" fill="#68d391" stroke="#2f855a" stroke-width="2"/>
+<rect x="286" y="209" width="600" height="22" fill="#e2e8f0" stroke="#4a5568" stroke-width="1.5"/>
+<rect x="300" y="195" width="88" height="50" rx="22" fill="#d69e2e" stroke="#975a16" stroke-width="2"/>
+<line x1="388" y1="200" x2="388" y2="240" stroke="#c05621" stroke-width="2.5"/>
+<rect x="418" y="195" width="88" height="50" rx="22" fill="#d69e2e" stroke="#975a16" stroke-width="2"/>
+<line x1="506" y1="200" x2="506" y2="240" stroke="#c05621" stroke-width="2.5"/>
+<rect x="536" y="195" width="88" height="50" rx="22" fill="#d69e2e" stroke="#975a16" stroke-width="2"/>
+<line x1="624" y1="200" x2="624" y2="240" stroke="#c05621" stroke-width="2.5"/>
+<rect x="654" y="195" width="88" height="50" rx="22" fill="#d69e2e" stroke="#975a16" stroke-width="2"/>
+<line x1="742" y1="200" x2="742" y2="240" stroke="#c05621" stroke-width="2.5"/>
+<rect x="772" y="195" width="88" height="50" rx="22" fill="#d69e2e" stroke="#975a16" stroke-width="2"/>
+<path d="M886,220 Q936,191.0 976,162" fill="none" stroke="#2b6cb0" stroke-width="5" stroke-linecap="round"/>
+<circle cx="984" cy="162" r="11" fill="#2b6cb0"/>
+<path d="M886,220 Q936,210.0 976,200" fill="none" stroke="#2b6cb0" stroke-width="5" stroke-linecap="round"/>
+<circle cx="984" cy="200" r="11" fill="#2b6cb0"/>
+<path d="M886,220 Q936,230.0 976,240" fill="none" stroke="#2b6cb0" stroke-width="5" stroke-linecap="round"/>
+<circle cx="984" cy="240" r="11" fill="#2b6cb0"/>
+<path d="M886,220 Q936,249.0 976,278" fill="none" stroke="#2b6cb0" stroke-width="5" stroke-linecap="round"/>
+<circle cx="984" cy="278" r="11" fill="#2b6cb0"/>
+<text x="68.0" y="104.0" font-size="14" text-anchor="middle" fill="#6b46c1" font-weight="700">Dendritas</text>
+<text x="68.0" y="121.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">reciben la señal</text>
+<text x="166.0" y="312.0" font-size="14" text-anchor="middle" fill="#2f855a" font-weight="700">Soma</text>
+<text x="166.0" y="329.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">integra las señales</text>
+<text x="352.0" y="366.0" font-size="14" text-anchor="middle" fill="#2f855a" font-weight="700">Cono axónico</text>
+<text x="352.0" y="383.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">dispara el potencial</text>
+<text x="560.0" y="138.0" font-size="14" text-anchor="middle" fill="#975a16" font-weight="700">Vaina de mielina</text>
+<text x="560.0" y="155.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">aísla y acelera</text>
+<text x="742.0" y="308.0" font-size="14" text-anchor="middle" fill="#c05621" font-weight="700">Nodo de Ranvier</text>
+<text x="742.0" y="325.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">el impulso se regenera</text>
+<text x="1048.0" y="108.0" font-size="14" text-anchor="middle" fill="#2b6cb0" font-weight="700">Terminales axónicos</text>
+<text x="1048.0" y="125.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">liberan neurotransmisor</text>
+<line x1="98" y1="120" x2="120" y2="162" stroke="#6b46c1" stroke-width="1.3"/>
+<line x1="560" y1="154" x2="540" y2="192" stroke="#975a16" stroke-width="1.3"/>
+<line x1="742" y1="292" x2="742" y2="242" stroke="#c05621" stroke-width="1.3"/>
+<line x1="1030" y1="128" x2="996" y2="174" stroke="#2b6cb0" stroke-width="1.3"/>
+<line x1="300" y1="348" x2="268" y2="248" stroke="#2f855a" stroke-width="1.3"/>
+<line x1="150" y1="428" x2="1000" y2="428" stroke="#2f855a" stroke-width="3" marker-end="url(#flv)"/>
+<text x="575.0" y="418.0" font-size="14" text-anchor="middle" fill="#2f855a" font-weight="700">el impulso viaja SIEMPRE en este sentido</text>
+<text x="575.0" y="466.0" font-size="14" text-anchor="middle" fill="#4a5568" font-weight="normal">dendritas  →  soma  →  cono axónico  →  axón  →  terminales</text>
+</svg>
