@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 620" width="920" height="620" role="img" aria-label="Bioelementos primarios, tipos de enlace y las dos grandes familias de biomoléculas" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Bioelementos primarios, tipos de enlace y las dos grandes familias de biomoléculas</title>
+<rect width="920" height="620" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="flv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f855a"/></marker></defs>
+<text x="460.0" y="30.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">De los bioelementos a las biomoléculas</text>
+<text x="460.0" y="52.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">Los mismos átomos de la materia inerte, en otra proporción y otra combinación</text>
+<text x="70.0" y="88.0" font-size="14.5" text-anchor="start" fill="#2f855a" font-weight="700">1. Bioelementos</text>
+<rect x="80" y="104" width="80" height="62" rx="10" fill="#9ae6b4" stroke="#2f855a" stroke-width="2"/>
+<text x="120.0" y="133.0" font-size="24" text-anchor="middle" fill="#2f855a" font-weight="700">C</text>
+<text x="120.0" y="152.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="normal">carbono</text>
+<rect x="172" y="104" width="80" height="62" rx="10" fill="#9ae6b4" stroke="#2f855a" stroke-width="2"/>
+<text x="212.0" y="133.0" font-size="24" text-anchor="middle" fill="#2f855a" font-weight="700">H</text>
+<text x="212.0" y="152.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="normal">hidrógeno</text>
+<rect x="264" y="104" width="80" height="62" rx="10" fill="#9ae6b4" stroke="#2f855a" stroke-width="2"/>
+<text x="304.0" y="133.0" font-size="24" text-anchor="middle" fill="#2f855a" font-weight="700">O</text>
+<text x="304.0" y="152.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="normal">oxígeno</text>
+<rect x="356" y="104" width="80" height="62" rx="10" fill="#9ae6b4" stroke="#2f855a" stroke-width="2"/>
+<text x="396.0" y="133.0" font-size="24" text-anchor="middle" fill="#2f855a" font-weight="700">N</text>
+<text x="396.0" y="152.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="normal">nitrógeno</text>
+<rect x="448" y="104" width="80" height="62" rx="10" fill="#9ae6b4" stroke="#2f855a" stroke-width="2"/>
+<text x="488.0" y="133.0" font-size="24" text-anchor="middle" fill="#2f855a" font-weight="700">P</text>
+<text x="488.0" y="152.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="normal">fósforo</text>
+<rect x="540" y="104" width="80" height="62" rx="10" fill="#9ae6b4" stroke="#2f855a" stroke-width="2"/>
+<text x="580.0" y="133.0" font-size="24" text-anchor="middle" fill="#2f855a" font-weight="700">S</text>
+<text x="580.0" y="152.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="normal">azufre</text>
+<text x="80.0" y="184.0" font-size="12" text-anchor="start" fill="#1a202c" font-weight="700">primarios: cerca del 99 % de la masa de un ser vivo</text>
+<rect x="648" y="104" width="196" height="62" rx="10" fill="#f7fafc" stroke="#cbd5e0" stroke-width="1.6"/>
+<text x="746.0" y="126.0" font-size="11.5" text-anchor="middle" fill="#1a202c" font-weight="700">secundarios y oligoelementos</text>
+<text x="746.0" y="143.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">Ca, Na, K, Cl, Mg · Fe, I, Zn</text>
+<text x="746.0" y="158.0" font-size="10.5" text-anchor="middle" fill="#c05621" font-weight="normal" font-style="italic">trazas, pero imprescindibles</text>
+<rect x="70" y="200" width="780" height="1.5" fill="#cbd5e0"/>
+<text x="70.0" y="228.0" font-size="14.5" text-anchor="start" fill="#2f855a" font-weight="700">2. Cómo se unen</text>
+<rect x="80" y="244" width="230" height="74" rx="12" fill="#ffffff" stroke="#2f855a" stroke-width="2"/><text x="195.0" y="268.0" font-size="14" text-anchor="middle" fill="#2f855a" font-weight="700">Covalente</text><text x="195.0" y="290.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">comparten electrones</text><text x="195.0" y="308.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">FUERTE</text>
+<rect x="330" y="244" width="230" height="74" rx="12" fill="#ffffff" stroke="#2b6cb0" stroke-width="2"/><text x="445.0" y="268.0" font-size="14" text-anchor="middle" fill="#2b6cb0" font-weight="700">Iónico</text><text x="445.0" y="290.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">atracción entre iones</text><text x="445.0" y="308.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">se debilita en agua</text>
+<rect x="580" y="244" width="260" height="74" rx="12" fill="#ffffff" stroke="#6b46c1" stroke-width="2"/><text x="710.0" y="268.0" font-size="14" text-anchor="middle" fill="#6b46c1" font-weight="700">Puente de hidrógeno</text><text x="710.0" y="290.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">atracción parcial</text><text x="710.0" y="308.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">DÉBIL, pero numeroso</text>
+<text x="80.0" y="338.0" font-size="11.5" text-anchor="start" fill="#4a5568" font-weight="normal" font-style="italic">El esqueleto de toda biomolécula orgánica es covalente; el ADN une sus dos hebras con puentes de hidrógeno.</text>
+<rect x="70" y="356" width="780" height="1.5" fill="#cbd5e0"/>
+<text x="70.0" y="384.0" font-size="14.5" text-anchor="start" fill="#2f855a" font-weight="700">3. Las biomoléculas</text>
+<rect x="80" y="400" width="300" height="180" rx="12" fill="#ebf8ff" stroke="#2b6cb0" stroke-width="2"/>
+<text x="230.0" y="426.0" font-size="14" text-anchor="middle" fill="#2b6cb0" font-weight="700">INORGÁNICAS</text>
+<text x="230.0" y="448.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal">sin esqueleto de carbono</text>
+<rect x="100" y="462" width="120" height="48" rx="12" fill="#ffffff" stroke="#2b6cb0" stroke-width="2"/><text x="160.0" y="491.0" font-size="13.5" text-anchor="middle" fill="#2b6cb0" font-weight="700">Agua</text>
+<rect x="240" y="462" width="120" height="48" rx="12" fill="#ffffff" stroke="#2b6cb0" stroke-width="2"/><text x="300.0" y="491.0" font-size="13.5" text-anchor="middle" fill="#2b6cb0" font-weight="700">Sales</text>
+<text x="230.0" y="540.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">disolvente, transporte, pH,</text>
+<text x="230.0" y="556.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">sostén e impulso nervioso</text>
+<rect x="400" y="400" width="440" height="180" rx="12" fill="#f0fff4" stroke="#2f855a" stroke-width="2"/>
+<text x="620.0" y="426.0" font-size="14" text-anchor="middle" fill="#2f855a" font-weight="700">ORGÁNICAS</text>
+<text x="620.0" y="448.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal">construidas sobre el carbono</text>
+<rect x="416" y="462" width="200" height="48" rx="10" fill="#ffffff" stroke="#2f855a" stroke-width="1.6"/>
+<text x="516.0" y="482.0" font-size="12.5" text-anchor="middle" fill="#2f855a" font-weight="700">Carbohidratos</text>
+<text x="516.0" y="499.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">monosacárido</text>
+<rect x="628" y="462" width="200" height="48" rx="10" fill="#ffffff" stroke="#2f855a" stroke-width="1.6"/>
+<text x="728.0" y="482.0" font-size="12.5" text-anchor="middle" fill="#2f855a" font-weight="700">Lípidos</text>
+<text x="728.0" y="499.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">no polimeriza</text>
+<rect x="416" y="520" width="200" height="48" rx="10" fill="#ffffff" stroke="#2f855a" stroke-width="1.6"/>
+<text x="516.0" y="540.0" font-size="12.5" text-anchor="middle" fill="#2f855a" font-weight="700">Proteínas</text>
+<text x="516.0" y="557.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">aminoácido</text>
+<rect x="628" y="520" width="200" height="48" rx="10" fill="#ffffff" stroke="#2f855a" stroke-width="1.6"/>
+<text x="728.0" y="540.0" font-size="12.5" text-anchor="middle" fill="#2f855a" font-weight="700">Ácidos nucleicos</text>
+<text x="728.0" y="557.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">nucleótido</text>
+</svg>
