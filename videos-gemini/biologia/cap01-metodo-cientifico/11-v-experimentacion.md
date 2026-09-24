@@ -22,7 +22,7 @@ Enfócate solo en el apartado «v. Experimentación» de la sección «3. Etapas
 Estructura:
 1. Pregunta gancho (10 s): si mueves varias perillas a la vez y algo cambia, ¿cuál fue la responsable?
 2. Qué es (40 s): se diseña y realiza un procedimiento para poner a prueba la hipótesis.
-3. Las tres acciones (90 s): se manipula la variable independiente, se mide la variable dependiente y se mantienen constantes las demás variables. Explica cada una con el ejemplo de los tomates: se cambia la temperatura, se mide la altura, y el agua, la luz y el tipo de planta se mantienen iguales.
+3. Las tres acciones (90 s): se manipula la variable independiente, se mide la variable dependiente y se mantienen constantes las demás variables. Explica cada una con un ejemplo simple.
 4. Error frecuente en la PAES (30 s): no advertir que otra variable cambió sin querer; entonces no se sabe qué causó la diferencia.
 5. Cierre (20 s): el diseño experimental se desarrolla en detalle en la sección 4. Resumen en 3 puntos: pone a prueba la hipótesis; se manipula una variable y se mide otra; el resto se mantiene constante.
 Tono: profesor cercano y claro, ritmo pausado.
