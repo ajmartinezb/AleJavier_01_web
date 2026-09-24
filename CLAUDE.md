@@ -19,29 +19,31 @@
 
 ## Libros de consulta (Google Drive)
 
+**Estado real, verificado el 24-09-2026: la carpeta hoy es casi inservible como fuente.**
+Antes de planificar una sesión contando con ella, lee esto.
+
 - Carpeta **«Biologia»** (sin tilde) del Drive conectado, id `13nsVzi4QJtCB0Ib1IXbdBy-Ab_3ON8bQ`.
-- **Sintaxis del conector, verificada el 24-09-2026.** Este conector **no acepta `and`** ni
-  títulos con tilde: `title = 'Biología' and mimeType = '...'` devuelve «Operation is not
-  implemented, or supported, or enabled». Usar una sola cláusula por consulta:
-  ```
-  title contains 'Biologia'                     # para encontrar la carpeta
-  parentId = '13nsVzi4QJtCB0Ib1IXbdBy-Ab_3ON8bQ'  # para listar su contenido
-  ```
-  Conviene ir directo al `parentId`, que ya está anotado arriba.
-- El libro es ***BIOLOGY — Concepts and Investigations***, 5.ª ed. (Hoefnagels), con un archivo
-  por capítulo. **Los `.docx` están casi todos vacíos**: solo los capítulos 1 y 2 tienen texto
-  (6 MB); el resto pesa 13 358 bytes y `read_file_content` devuelve una cadena vacía. **El
-  contenido real está en los PDF**, de 55 a 85 MB cada uno, uno por capítulo, más el libro
-  completo en un solo PDF de 692 MB.
-- Capítulos del libro que sirven para el temario PAES: 11 (Tecnología del ADN) → cap. 7 del
-  libro propio; 12, 13, 14 y 15 (fuerzas del cambio evolutivo, evidencia de la evolución,
-  especiación y extinción, origen e historia de la vida) → cap. 9; 8 y 9 (mitosis, meiosis) →
-  cap. 6; 3 (células) → cap. 4; 5 (fotosíntesis) y 6 (respiración) → cap. 10; 26 (sistema
-  nervioso) → cap. 11; 28 (sistema endocrino) y 35 (reproducción) → cap. 5; 16, 17 y 34
-  (virus, bacterias, sistema inmunológico) → cap. 8.
-- Se leen con `mcp__Google_Drive__read_file_content`. Un capítulo son más de 100 000 caracteres
-  y excede el límite de una respuesta: el resultado se guarda en un archivo y hay que leerlo por
-  trozos, o delegar la lectura a un subagente que devuelva apuntes parafraseados.
+  Contiene *BIOLOGY — Concepts and Investigations*, 5.ª ed. (Hoefnagels), con un `.docx` y un
+  `.pdf` por capítulo, más el libro completo en un PDF de 692 MB.
+- **Sintaxis del conector.** No acepta `and` ni títulos con tilde: `title = 'Biología' and
+  mimeType = '...'` devuelve «Operation is not implemented, or supported, or enabled». Va una
+  sola cláusula por consulta: `title contains 'Biologia'`, o directamente
+  `parentId = '13nsVzi4QJtCB0Ib1IXbdBy-Ab_3ON8bQ'`.
+- **Qué se puede leer y qué no:**
+
+  | Archivo | Estado |
+  |---|---|
+  | `.docx` de los capítulos 1 y 2 | **Legibles.** Transcripción completa, unos 6 MB y 118 000 caracteres cada uno |
+  | `.docx` del capítulo 3 | Transcripción empezada: devuelve solo dos líneas |
+  | `.docx` de los capítulos 4 a 40 | **Vacíos.** Todos pesan exactamente 13 358 bytes y `read_file_content` devuelve `""` |
+  | `.pdf` de cualquier capítulo | **Ilegibles por el conector.** Son escaneos sin capa de texto: `read_file_content` devuelve `""`, y `download_file_content` los rechaza por superar su límite de 10 MB |
+
+- En la práctica, entonces, **solo los capítulos 1 y 2 sirven como fuente de consulta**. Para
+  cualquier otro tema hay que transcribir antes el PDF al `.docx` correspondiente, como ya se
+  hizo con esos dos, o investigar en la web.
+- Cuando un `.docx` sí tenga contenido, son más de 100 000 caracteres y exceden el límite de una
+  respuesta: el resultado se guarda en un archivo y hay que leerlo por trozos con jq o python, o
+  delegar la lectura a un subagente que devuelva apuntes parafraseados.
 - Son **solo fuentes de consulta**: nunca se copian textos ni figuras al repo, que es público.
   Tampoco se publican aquí los enlaces a esos archivos. En `99-fuentes.md` se cita el libro
   (autor, título, edición, capítulo) sin enlace, **y solo si se leyó de verdad**.
