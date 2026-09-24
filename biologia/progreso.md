@@ -11,7 +11,7 @@
 | 7 | Manipulación genética | Preguntas completas | Teoría 1–9, 5 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | 136 | 24-09-2026 |
 | 8 | Microorganismos y barreras defensivas | Estructura | — | 0 | — |
 | 9 | Evolución y biodiversidad | Preguntas completas | Teoría 1–8, 6 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | 127 | 24-09-2026 |
-| 10 | Materia y energía en el ecosistema | Estructura | — | 0 | — |
+| 10 | Materia y energía en el ecosistema | Preguntas completas | Teoría 1–9, 6 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | 114 | 24-09-2026 |
 | 11 | Sistema nervioso (nuevo 2027) | Preguntas completas | Teoría 1–8, 5 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | 110 | 24-09-2026 |
 
 Estados: Estructura → En redacción → Teoría completa → Preguntas completas → Revisado.

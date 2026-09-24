@@ -71,10 +71,10 @@ Otros documentos oficiales en `biologia/demre/`, para calibrar las preguntas:
 
 | Código | Conocimiento | Capítulo | Estado |
 |---|---|---|---|
-| 4.1.1 | Fotosíntesis y respiración celular en el flujo de energía y el reciclaje de carbono y oxígeno | 10 | Pendiente |
-| 4.1.2 | Nutrición autótrofa y heterótrofa | 10 | Pendiente |
-| 4.1.3 | Etapas de la fotosíntesis: lugar, reactantes, productos y moléculas participantes | 10 | Pendiente |
-| 4.1.4 | Variables ambientales que afectan la fotosíntesis | 10 | Pendiente |
+| 4.1.1 | Fotosíntesis y respiración celular en el flujo de energía y el reciclaje de carbono y oxígeno | 10 | Completo |
+| 4.1.2 | Nutrición autótrofa y heterótrofa | 10 | Completo |
+| 4.1.3 | Etapas de la fotosíntesis: lugar, reactantes, productos y moléculas participantes | 10 | Completo |
+| 4.1.4 | Variables ambientales que afectan la fotosíntesis | 10 | Completo |
 
 ### Transversal
 
