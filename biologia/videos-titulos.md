@@ -2,20 +2,22 @@
 
 Lista de trabajo para los videos de Gemini Notebook: **un video por título**.
 Cada fila es un título de nivel `###` (o una sección `##` que lleva 3 ítems), con la sección a la que pertenece para que el tema se entienda solo.
-**Total: 291 títulos** repartidos en 8 capítulos.
+**Total: 359 títulos** repartidos en los 11 capítulos del libro.
 
 | Capítulo | Videos |
 |---|---|
 | Capítulo 1: Método científico | 40 |
+| Capítulo 2: Niveles de organización y teoría celular | 17 |
+| Capítulo 3: Química de la vida | 28 |
 | Capítulo 4: La célula: estructura, organelos y función | 38 |
 | Capítulo 5: Sistema endocrino y sexualidad humana | 39 |
 | Capítulo 6: Ciclo celular, mitosis y meiosis | 31 |
 | Capítulo 7: Manipulación genética | 40 |
+| Capítulo 8: Microorganismos y barreras defensivas | 23 |
 | Capítulo 9: Evolución y biodiversidad | 39 |
 | Capítulo 10: Materia y energía en el ecosistema | 32 |
 | Capítulo 11: Sistema nervioso | 32 |
-| **Total** | **291** |
-
+| **Total** | **359** |
 
 ## Capítulo 1: Método científico  ·  40 videos
 
@@ -61,6 +63,61 @@ Cada fila es un título de nivel `###` (o una sección `##` que lleva 3 ítems),
 | 38 | 8. Tablas y gráficos: procesar, analizar y comunicar evidencia | **b. Tipos de gráficos y cuándo usarlos** |
 | 39 | 8. Tablas y gráficos: procesar, analizar y comunicar evidencia | **c. Relaciones entre variables** |
 | 40 | 8. Tablas y gráficos: procesar, analizar y comunicar evidencia | **d. Interpretar sin equivocarse** |
+
+## Capítulo 2: Niveles de organización y teoría celular  ·  17 videos
+
+| # | Sección | Título del video |
+|---|---|---|
+| 1 | 2. Los niveles de organización | **a. La escalera completa** |
+| 2 | 2. Los niveles de organización | **b. Dónde se corta la escalera** |
+| 3 | 2. Los niveles de organización | **c. Niveles biológicos y niveles ecológicos** |
+| 4 | 3. Las propiedades emergentes | **a. Qué es una propiedad emergente** |
+| 5 | 3. Las propiedades emergentes | **b. Por qué esto importa para estudiar biología** |
+| 6 | 3. Las propiedades emergentes | **c. Cómo se reconoce en una pregunta** |
+| 7 | 4. La teoría celular | **a. Los tres postulados** |
+| 8 | 4. La teoría celular | **b. Cómo se construyó** |
+| 9 | 4. La teoría celular | **c. El experimento que cerró la discusión** |
+| 10 | 4. La teoría celular | **d. Las excepciones aparentes** |
+| 11 | 5. Unidad y diversidad celular | **a. Lo que todas las células comparten** |
+| 12 | 5. Unidad y diversidad celular | **b. Dos grandes tipos** |
+| 13 | 5. Unidad y diversidad celular | **c. Unicelulares y pluricelulares** |
+| 14 | 5. Unidad y diversidad celular | **d. La forma sigue a la función** |
+| 15 | 6. Características de los sistemas biológicos | **a. Las siete características** |
+| 16 | 6. Características de los sistemas biológicos | **b. Los seres vivos son sistemas abiertos** |
+| 17 | 6. Características de los sistemas biológicos | **c. Homeostasis: el mecanismo que la sostiene** |
+
+## Capítulo 3: Química de la vida  ·  28 videos
+
+| # | Sección | Título del video |
+|---|---|---|
+| 1 | 2. Bioelementos y enlaces | **a. Los mismos átomos, otra proporción** |
+| 2 | 2. Bioelementos y enlaces | **b. Por qué el carbono** |
+| 3 | 2. Bioelementos y enlaces | **c. Los tres tipos de unión que importan** |
+| 4 | 2. Bioelementos y enlaces | **d. Dos grandes familias de biomoléculas** |
+| 5 | 3. El agua y las sales minerales | **a. Una molécula torcida y polar** |
+| 6 | 3. El agua y las sales minerales | **b. Las cuatro propiedades que hay que saber** |
+| 7 | 3. El agua y las sales minerales | **c. Las funciones del agua en la célula** |
+| 8 | 3. El agua y las sales minerales | **d. Las sales minerales** |
+| 9 | 4. Carbohidratos | **a. Qué son** |
+| 10 | 4. Carbohidratos | **b. Los tres niveles** |
+| 11 | 4. Carbohidratos | **c. Reserva y estructura: el mismo ladrillo, otro resultado** |
+| 12 | 4. Carbohidratos | **d. Cómo se unen y cómo se separan** |
+| 13 | 5. Lípidos | **a. El grupo definido por lo que no hace** |
+| 14 | 5. Lípidos | **b. Los tipos que conviene distinguir** |
+| 15 | 5. Lípidos | **c. Saturados e insaturados** |
+| 16 | 5. Lípidos | **d. El fosfolípido y el origen de la membrana** |
+| 17 | 6. Proteínas y enzimas | **a. Veinte letras, un número enorme de palabras** |
+| 18 | 6. Proteínas y enzimas | **b. Los cuatro niveles de estructura** |
+| 19 | 6. Proteínas y enzimas | **c. Qué hacen las proteínas** |
+| 20 | 6. Proteínas y enzimas | **d. Las enzimas** |
+| 21 | 6. Proteínas y enzimas | **e. Las variables que afectan a una enzima** |
+| 22 | 7. Ácidos nucleicos | **a. El monómero: el nucleótido** |
+| 23 | 7. Ácidos nucleicos | **b. ADN y ARN** |
+| 24 | 7. Ácidos nucleicos | **c. El ATP, el nucleótido que no es información** |
+| 25 | 7. Ácidos nucleicos | **d. Por dónde continúa** |
+| 26 | 8. Vitaminas y lo que conviene llevar | **a. Las vitaminas** |
+| 27 | 8. Vitaminas y lo que conviene llevar | **b. Un cuadro para repasar el capítulo entero** |
+| 28 | 8. Vitaminas y lo que conviene llevar | **c. Cómo conecta este capítulo con el resto del libro** |
 
 ## Capítulo 4: La célula: estructura, organelos y función  ·  38 videos
 
@@ -230,6 +287,34 @@ Cada fila es un título de nivel `###` (o una sección `##` que lleva 3 ítems),
 | 39 | 9. Bioética, bioseguridad y regulación | **d. La situación en Chile** |
 | 40 | 9. Bioética, bioseguridad y regulación | **e. Las preguntas éticas de la edición humana** |
 
+## Capítulo 8: Microorganismos y barreras defensivas  ·  23 videos
+
+| # | Sección | Título del video |
+|---|---|---|
+| 1 | 2. Salud y enfermedad | **a. Qué es estar sano** |
+| 2 | 2. Salud y enfermedad | **b. Los dos grandes tipos de enfermedad** |
+| 3 | 2. Salud y enfermedad | **c. Factores de riesgo y prevención** |
+| 4 | 3. Los microorganismos | **a. La mayoría no causa daño** |
+| 5 | 3. Los microorganismos | **b. Los cuatro grupos que hay que distinguir** |
+| 6 | 3. Los microorganismos | **c. Por qué el virus es un caso aparte** |
+| 7 | 3. Los microorganismos | **d. Bacterias: no todas son enemigas** |
+| 8 | 4. Transmisión y prevención | **a. La cadena de transmisión** |
+| 9 | 4. Transmisión y prevención | **b. Las vías de transmisión** |
+| 10 | 4. Transmisión y prevención | **c. Período de incubación y por qué complica el control** |
+| 11 | 4. Transmisión y prevención | **d. Prevención: lo que de verdad funciona** |
+| 12 | 5. Las barreras defensivas | **a. Tres líneas, no una** |
+| 13 | 5. Las barreras defensivas | **b. Primera línea: no dejar entrar** |
+| 14 | 5. Las barreras defensivas | **c. Segunda línea: contener al que entró** |
+| 15 | 5. Las barreras defensivas | **d. Tercera línea: reconocer y recordar** |
+| 16 | 6. Vacunas e inmunidad | **a. Respuesta primaria y respuesta secundaria** |
+| 17 | 6. Vacunas e inmunidad | **b. Qué es una vacuna** |
+| 18 | 6. Vacunas e inmunidad | **c. Activa y pasiva** |
+| 19 | 6. Vacunas e inmunidad | **d. Inmunidad de rebaño** |
+| 20 | 7. Antibióticos y resistencia | **a. Qué hace un antibiótico y qué no** |
+| 21 | 7. Antibióticos y resistencia | **b. Cómo aparece la resistencia** |
+| 22 | 7. Antibióticos y resistencia | **c. Por qué es un problema de salud pública** |
+| 23 | 7. Antibióticos y resistencia | **d. Qué reduce el problema** |
+
 ## Capítulo 9: Evolución y biodiversidad  ·  39 videos
 
 | # | Sección | Título del video |
@@ -347,4 +432,3 @@ Cada fila es un título de nivel `###` (o una sección `##` que lleva 3 ítems),
 | 30 | 8. Cuidado del sistema nervioso: sueño y prevención de traumatismos | **c. Cuánto se necesita dormir** |
 | 31 | 8. Cuidado del sistema nervioso: sueño y prevención de traumatismos | **d. Prevención de traumatismos** |
 | 32 | 8. Cuidado del sistema nervioso: sueño y prevención de traumatismos | **e. Lo que conviene llevar de este capítulo** |
-
