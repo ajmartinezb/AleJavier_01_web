@@ -138,8 +138,8 @@ def main():
             anota(i, q, "clave_mas_larga", f"la correcta tiene {largos[ic]} caracteres y el resto promedia {round(statistics.mean(otros))}")
         if max(largos) > 3 * max(1, min(largos)):
             anota(i, q, "alternativas_dispares", f"largos {largos}: rompen el paralelismo")
-        # En alternativas numéricas se compara el texto tal cual (palabras() descarta los números).
-        normalizadas = [limpio(x).lower() if es_numero(x) else " ".join(palabras(x)) for x in alts]
+        # En alternativas numéricas o con cifras se compara el texto tal cual (palabras() descarta los números).
+        normalizadas = [limpio(x).lower() if (es_numero(x) or re.search(r"\d", limpio(x))) else " ".join(palabras(x)) for x in alts]
         if len(set(normalizadas)) < len(normalizadas):
             anota(i, q, "alternativas_repetidas", "hay dos alternativas equivalentes")
         for l, x in zip(letras, alts):
