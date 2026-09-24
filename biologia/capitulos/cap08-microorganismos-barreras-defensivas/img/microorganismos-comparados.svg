@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 600" width="940" height="600" role="img" aria-label="Comparación de virus, bacteria, hongo y protozoo con su tamaño, tipo celular, reproducción y ejemplos" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Comparación de virus, bacteria, hongo y protozoo con su tamaño, tipo celular, reproducción y ejemplos</title>
+<rect width="940" height="600" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker></defs>
+<text x="470.0" y="30.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Los cuatro grupos de agentes patógenos</text>
+<text x="470.0" y="52.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">Solo las bacterias responden a los antibióticos</text>
+<rect x="50" y="80" width="205" height="300" rx="14" fill="#ffffff" stroke="#6b46c1" stroke-width="2.4"/>
+<text x="152.0" y="108.0" font-size="16" text-anchor="middle" fill="#6b46c1" font-weight="700">Virus</text>
+<polygon points="152,152 175,165 175,191 152,204 129,191 129,165" fill="#e9d8fd" stroke="#6b46c1" stroke-width="2"/>
+<line x1="178.0" y1="178.0" x2="190.0" y2="178.0" stroke="#6b46c1" stroke-width="2"/>
+<line x1="165.0" y1="200.5" x2="171.0" y2="210.9" stroke="#6b46c1" stroke-width="2"/>
+<line x1="139.0" y1="200.5" x2="133.0" y2="210.9" stroke="#6b46c1" stroke-width="2"/>
+<line x1="126.0" y1="178.0" x2="114.0" y2="178.0" stroke="#6b46c1" stroke-width="2"/>
+<line x1="139.0" y1="155.5" x2="133.0" y2="145.1" stroke="#6b46c1" stroke-width="2"/>
+<line x1="165.0" y1="155.5" x2="171.0" y2="145.1" stroke="#6b46c1" stroke-width="2"/>
+<text x="152.0" y="240.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Tamaño</text>
+<text x="152.0" y="256.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">20–300 nm</text>
+<text x="152.0" y="278.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Tipo</text>
+<text x="152.0" y="294.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">NO es una célula</text>
+<text x="152.0" y="316.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Reproducción</text>
+<text x="152.0" y="332.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">no se reproduce solo</text>
+<rect x="62" y="352" width="181" height="1.2" fill="#cbd5e0"/>
+<text x="152.0" y="370.0" font-size="10.5" text-anchor="middle" fill="#6b46c1" font-weight="normal" font-style="italic">influenza, VIH, sarampión</text>
+<rect x="275" y="80" width="205" height="300" rx="14" fill="#ffffff" stroke="#2f855a" stroke-width="2.4"/>
+<text x="377.0" y="108.0" font-size="16" text-anchor="middle" fill="#2f855a" font-weight="700">Bacteria</text>
+<rect x="339" y="160" width="76" height="36" rx="18" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<path d="M359,178 q9,-11 18,0 q9,11 18,0" fill="none" stroke="#6b46c1" stroke-width="2"/>
+<path d="M415,180 q16,-5 28,-1" fill="none" stroke="#2f855a" stroke-width="1.8"/>
+<text x="377.0" y="240.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Tamaño</text>
+<text x="377.0" y="256.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">1–10 µm</text>
+<text x="377.0" y="278.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Tipo</text>
+<text x="377.0" y="294.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">célula procarionte</text>
+<text x="377.0" y="316.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Reproducción</text>
+<text x="377.0" y="332.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">se divide por sí sola</text>
+<rect x="287" y="352" width="181" height="1.2" fill="#cbd5e0"/>
+<text x="377.0" y="370.0" font-size="10.5" text-anchor="middle" fill="#2f855a" font-weight="normal" font-style="italic">tuberculosis, cólera, tétanos</text>
+<rect x="500" y="80" width="205" height="300" rx="14" fill="#ffffff" stroke="#c05621" stroke-width="2.4"/>
+<text x="602.0" y="108.0" font-size="16" text-anchor="middle" fill="#c05621" font-weight="700">Hongo</text>
+<ellipse cx="596" cy="182" rx="26" ry="20" fill="#fbd38d" stroke="#c05621" stroke-width="2"/>
+<circle cx="624" cy="162" r="13" fill="#fbd38d" stroke="#c05621" stroke-width="2"/>
+<circle cx="594" cy="182" r="7" fill="#c05621" opacity="0.4"/>
+<text x="602.0" y="240.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Tamaño</text>
+<text x="602.0" y="256.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">3–100 µm</text>
+<text x="602.0" y="278.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Tipo</text>
+<text x="602.0" y="294.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">célula eucarionte</text>
+<text x="602.0" y="316.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Reproducción</text>
+<text x="602.0" y="332.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">se reproduce solo</text>
+<rect x="512" y="352" width="181" height="1.2" fill="#cbd5e0"/>
+<text x="602.0" y="370.0" font-size="10.5" text-anchor="middle" fill="#c05621" font-weight="normal" font-style="italic">candidiasis, pie de atleta</text>
+<rect x="725" y="80" width="205" height="300" rx="14" fill="#ffffff" stroke="#2b6cb0" stroke-width="2.4"/>
+<text x="827.0" y="108.0" font-size="16" text-anchor="middle" fill="#2b6cb0" font-weight="700">Protozoo</text>
+<path d="M797,178 q6,-28 30,-26 q28,2 30,26 q2,24 -30,24 q-32,0 -30,-24 z" fill="#bee3f8" stroke="#2b6cb0" stroke-width="2"/>
+<circle cx="831" cy="176" r="9" fill="#2b6cb0" opacity="0.45"/>
+<line x1="793" y1="202" x2="789" y2="216" stroke="#2b6cb0" stroke-width="1.8"/>
+<line x1="813" y1="202" x2="809" y2="216" stroke="#2b6cb0" stroke-width="1.8"/>
+<line x1="837" y1="202" x2="833" y2="216" stroke="#2b6cb0" stroke-width="1.8"/>
+<line x1="857" y1="202" x2="853" y2="216" stroke="#2b6cb0" stroke-width="1.8"/>
+<text x="827.0" y="240.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Tamaño</text>
+<text x="827.0" y="256.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">10–100 µm</text>
+<text x="827.0" y="278.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Tipo</text>
+<text x="827.0" y="294.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">célula eucarionte</text>
+<text x="827.0" y="316.0" font-size="10.5" text-anchor="middle" fill="#4a5568" font-weight="700">Reproducción</text>
+<text x="827.0" y="332.0" font-size="11.8" text-anchor="middle" fill="#1a202c" font-weight="normal">se reproduce solo</text>
+<rect x="737" y="352" width="181" height="1.2" fill="#cbd5e0"/>
+<text x="827.0" y="370.0" font-size="10.5" text-anchor="middle" fill="#2b6cb0" font-weight="normal" font-style="italic">malaria, enfermedad de Chagas</text>
+<rect x="50" y="404" width="840" height="70" rx="12" fill="#fff5f5" stroke="#c53030" stroke-width="2"/>
+<text x="470.0" y="430.0" font-size="15" text-anchor="middle" fill="#c53030" font-weight="700">Los antibióticos actúan SOLO sobre las bacterias</text>
+<text x="470.0" y="454.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">No sirven contra virus, hongos ni protozoos: cada grupo exige su propio tipo de fármaco.</text>
+<rect x="50" y="494" width="840" height="70" rx="12" fill="#f7fafc" stroke="#cbd5e0" stroke-width="1.6"/>
+<text x="470.0" y="520.0" font-size="14" text-anchor="middle" fill="#2f855a" font-weight="700">La mayoría de los microorganismos NO causa enfermedad</text>
+<text x="470.0" y="544.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">La microbiota de la piel y del intestino ayuda a digerir, produce vitaminas y ocupa el espacio de los patógenos.</text>
+</svg>

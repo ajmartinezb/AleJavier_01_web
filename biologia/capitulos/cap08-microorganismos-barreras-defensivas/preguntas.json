@@ -1,0 +1,2744 @@
+{
+ "prueba": "ciencias",
+ "preguntas": [
+  {
+   "tema": "1-conceptos-clave",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un glosario define «vector» como el animal que transporta un agente patógeno de un hospedero a otro. ¿Cuál de los siguientes casos corresponde a esa definición?",
+   "alternativas": [
+    "La persona enferma que contagia a otra al toser sin cubrirse la boca.",
+    "El agua contaminada con heces que transmite el agente del cólera.",
+    "El mosquito que transmite el agente de la malaria entre personas.",
+    "El protozoo que produce la enfermedad de Chagas en el ser humano."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: aplicar una definición técnica a varios casos concretos.",
+    "concepto": "Según «Conceptos clave», el vector es un animal que transporta el agente de un hospedero a otro, como un mosquito.",
+    "desarrollo": "La persona enferma no es un vector sino un reservorio y una fuente de contagio directo; el agua contaminada es una vía de transmisión, no un animal; y el protozoo del Chagas es el agente patógeno, es decir, lo que el vector transporta. Distinguir agente, vector, reservorio y vía es la base para razonar sobre cualquier cadena de transmisión.",
+    "saber_hacer": "Hay que separar el agente del ser que lo transporta. Dato para la PAES: vector es siempre un animal, nunca el patógeno ni el agua."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Una persona enferma es reservorio y fuente, no vector."
+    },
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "El agua contaminada es una vía de transmisión."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "El protozoo es el agente patógeno, no su transportador."
+    }
+   }
+  },
+  {
+   "tema": "1-conceptos-clave",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Comunicar",
+   "enunciado": "Para el glosario de un texto escolar hay que definir «inmunidad de rebaño» en una frase dirigida a estudiantes de enseñanza media. ¿Cuál es la definición más adecuada?",
+   "alternativas": [
+    "Capacidad de las personas vacunadas de transmitir su inmunidad a quienes conviven con ellas.",
+    "Protección indirecta de los no inmunes cuando gran parte de la población lo es.",
+    "Inmunidad que se hereda de padres a hijos y protege a toda una familia a lo largo del tiempo.",
+    "Resistencia que un grupo de personas adquiere tras haber padecido la misma enfermedad."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de comunicar: escoger la definición precisa de un concepto para un público determinado.",
+    "concepto": "Según «Conceptos clave», la inmunidad de rebaño es la protección indirecta de los no inmunes cuando una alta proporción de la población sí lo es.",
+    "desarrollo": "El mecanismo es epidemiológico: al haber pocos hospederos disponibles, la cadena de transmisión se interrumpe y el agente deja de circular. No hay transferencia de inmunidad entre personas ni herencia de la protección, y tampoco se limita a quienes padecieron la enfermedad, porque la inmunidad puede provenir igualmente de la vacunación.",
+    "saber_hacer": "Hay que describir el efecto de población y no un traspaso individual. Dato para la PAES: el rebaño protege cortando la transmisión, no compartiendo defensas."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La inmunidad no se transmite por convivencia."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "La inmunidad adquirida no se hereda de padres a hijos."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "La inmunidad puede provenir también de la vacunación."
+    }
+   }
+  },
+  {
+   "tema": "2-salud-y-enfermedad",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Se comparan dos comunas con la misma tasa de enfermedades diagnosticadas. En una, la mayoría de las familias tiene vivienda adecuada y trabajo estable; en la otra, no. ¿Qué se concluye sobre su nivel de salud?",
+   "alternativas": [
+    "La segunda comuna tiene peor nivel de salud, porque la salud incluye el bienestar social.",
+    "Ambas comunas tienen el mismo nivel de salud, porque enferman en igual proporción.",
+    "La primera comuna tiene peor nivel de salud, porque un mayor bienestar aumenta el estrés cotidiano.",
+    "No es posible comparar el nivel de salud de dos comunas distintas entre sí."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: aplicar una definición amplia a un caso con datos concretos.",
+    "concepto": "Según la sección, la salud es un estado de bienestar físico, mental y social, y no solamente la ausencia de enfermedad.",
+    "desarrollo": "Con esa definición, dos poblaciones con la misma tasa de enfermedad pueden tener niveles de salud distintos si difieren en vivienda, trabajo o acceso a servicios. La segunda alternativa aplica la definición estrecha; la tercera inventa una relación sin respaldo; y la cuarta niega una comparación que se hace de manera habitual en salud pública.",
+    "saber_hacer": "Hay que aplicar la definición completa de salud. Dato para la PAES: ausencia de enfermedad no equivale a salud."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "sub-alcance",
+     "texto": "Usa la definición estrecha: solo ausencia de enfermedad."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "No hay respaldo para esa relación."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "Las comparaciones poblacionales son habituales en salud pública."
+    }
+   }
+  },
+  {
+   "tema": "2-salud-y-enfermedad",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Un afiche sostiene que una persona sin ninguna enfermedad diagnosticada está, por definición, sana. ¿Cuál es la mejor evaluación de esa afirmación?",
+   "alternativas": [
+    "Es correcta, porque la salud se define como la ausencia de enfermedad.",
+    "Es incorrecta, porque nadie puede considerarse sano en ningún momento.",
+    "Es correcta, porque el bienestar mental no forma parte de la salud.",
+    "Es incompleta: la salud incluye además el bienestar mental y social."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: detectar una definición estrecha usada como si fuera completa.",
+    "concepto": "Según la sección, la definición vigente desde 1948 describe la salud como bienestar físico, mental y social, y no solamente como ausencia de enfermedad.",
+    "desarrollo": "Una persona sin diagnóstico puede vivir en condiciones que deterioran su bienestar, de modo que la afirmación se queda corta. La segunda y la cuarta alternativa repiten justamente la definición estrecha que hay que superar, y la tercera cae en el extremo opuesto al volver inalcanzable cualquier estado de salud.",
+    "saber_hacer": "Hay que reconocer cuándo una definición se queda corta. Dato para la PAES: la salud tiene tres dimensiones, no una."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "Esa es la definición estrecha, superada desde 1948."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "Vuelve inalcanzable cualquier estado de salud."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El bienestar mental sí forma parte de la salud."
+    }
+   }
+  },
+  {
+   "tema": "a-que-es-estar-sano",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "La definición de salud vigente menciona tres dimensiones. ¿Cuáles son?",
+   "alternativas": [
+    "Física, mental y social.",
+    "Física, genética y ambiental.",
+    "Mental, económica y cultural.",
+    "Física, nutricional y deportiva."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: recuperar los componentes de una definición y distinguirlos de otros que suenan plausibles.",
+    "concepto": "Según la sección, la salud es un estado de bienestar físico, mental y social, formulación que se usa desde 1948.",
+    "desarrollo": "La dimensión social es la que más suele olvidarse y la que explica que la salud dependa de condiciones que exceden al individuo, como la vivienda, el trabajo o el acceso al agua potable. Las otras alternativas mezclan factores que influyen en la salud, como el ambiente o la nutrición, con las dimensiones que la componen.",
+    "saber_hacer": "Hay que distinguir las dimensiones de la salud de sus factores determinantes. Dato para la PAES: físico, mental y social."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "Lo genético y lo ambiental son determinantes, no dimensiones."
+    },
+    "C": {
+     "tipo": "condición incompleta",
+     "texto": "Omite la dimensión física, que es la primera de las tres."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "La nutrición y el deporte son conductas, no dimensiones."
+    }
+   }
+  },
+  {
+   "tema": "a-que-es-estar-sano",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Un equipo de salud observa que en un barrio con viviendas precarias hay más infecciones respiratorias que en otro barrio cercano. ¿Cuál es la pregunta que mejor orienta una investigación sobre esa diferencia?",
+   "alternativas": [
+    "¿Cuántas personas viven actualmente en cada uno de los dos barrios que se están estudiando ahora?",
+    "¿Desde qué año existe el barrio de viviendas precarias en esa ciudad?",
+    "¿Qué condiciones de la vivienda se asocian a una mayor frecuencia de infecciones respiratorias?",
+    "¿Cuál de los dos barrios se encuentra más cerca del centro de la ciudad?"
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta relacional que la observación sugiere.",
+    "concepto": "Según la sección, la salud depende de condiciones que exceden al individuo, entre ellas la vivienda, la alimentación y el acceso al agua potable.",
+    "desarrollo": "La pregunta correcta vincula una variable de las condiciones de vida con una variable de salud, y puede responderse comparando hogares. Contar habitantes, averiguar la antigüedad del barrio o medir la distancia al centro entrega datos descriptivos que por sí solos no explican la diferencia observada.",
+    "saber_hacer": "Hay que convertir la observación en una relación entre dos variables. Dato para la PAES: la pregunta investigable conecta condición y resultado."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Un recuento de habitantes no explica la diferencia."
+    },
+    "B": {
+     "tipo": "anacronismo",
+     "texto": "La antigüedad del barrio es un dato histórico."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La distancia al centro no es la variable en estudio."
+    }
+   }
+  },
+  {
+   "tema": "a-que-es-estar-sano",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Se sostiene que mejorar el acceso al agua potable de una localidad es una intervención de salud. ¿Cuál es la mejor evaluación de esa afirmación?",
+   "alternativas": [
+    "Es incorrecta, porque solo son intervenciones de salud aquellas que realiza un médico.",
+    "Es incorrecta, porque el agua potable no tiene ninguna relación con las enfermedades.",
+    "Es correcta, pero solo si la localidad presenta una epidemia en curso.",
+    "Es correcta: las condiciones de vida forman parte de los determinantes de la salud."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: juzgar si una intervención cabe dentro de un concepto.",
+    "concepto": "Según la sección, la salud depende de condiciones que exceden al individuo, entre ellas el acceso al agua potable, y la prevención primaria busca evitar que la enfermedad aparezca.",
+    "desarrollo": "El agua potable y el alcantarillado son, de hecho, las medidas que más muertes por enfermedades infecciosas han evitado en la historia. Restringir las intervenciones de salud a lo que hace un médico ignora toda la salud pública, y condicionarlas a una epidemia en curso confunde prevención con respuesta a una emergencia.",
+    "saber_hacer": "Hay que reconocer las intervenciones estructurales como intervenciones de salud. Dato para la PAES: el agua potable es prevención primaria."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "La salud pública incluye intervenciones estructurales."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El agua potable evita enfermedades digestivas graves."
+    },
+    "C": {
+     "tipo": "condición incompleta",
+     "texto": "La prevención actúa antes de que exista una epidemia."
+    }
+   }
+  },
+  {
+   "tema": "b-los-dos-grandes-tipos-de-enfermedad",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "De la siguiente lista, ¿cuál corresponde a una enfermedad no infecciosa?",
+   "alternativas": [
+    "El cólera.",
+    "La tuberculosis pulmonar.",
+    "La hepatitis A.",
+    "La artrosis de rodilla."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: clasificar casos según un criterio establecido.",
+    "concepto": "Según la sección, las enfermedades infecciosas las causa un agente biológico capaz de transmitirse, mientras que las no infecciosas son genéticas, degenerativas, carenciales o ambientales.",
+    "desarrollo": "La artrosis es degenerativa y no se transmite de una persona a otra. El cólera lo causa una bacteria y se transmite por agua o alimentos contaminados, la tuberculosis se transmite por vía aérea y la hepatitis A, por vía digestiva. El criterio decisivo es siempre si existe un agente biológico transmisible.",
+    "saber_hacer": "Hay que preguntarse si hay agente y si se transmite. Dato para la PAES: una enfermedad frecuente no es por eso contagiosa."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "El cólera lo causa una bacteria y se transmite por agua."
+    },
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "La tuberculosis se transmite por vía aérea."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "La hepatitis A se transmite por vía digestiva."
+    }
+   }
+  },
+  {
+   "tema": "b-los-dos-grandes-tipos-de-enfermedad",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un estudiante afirma que el cáncer es una enfermedad contagiosa porque muchas personas lo padecen. ¿Cuál es el error de ese razonamiento?",
+   "alternativas": [
+    "Confunde prevención primaria con prevención secundaria.",
+    "Confunde un factor de riesgo con una causa suficiente.",
+    "Confunde frecuencia con transmisibilidad.",
+    "Confunde una enfermedad genética con una degenerativa."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: identificar con precisión el tipo de error cometido.",
+    "concepto": "Según la sección, las enfermedades infecciosas se transmiten porque las causa un agente biológico, mientras que las no infecciosas, por frecuentes que sean, no se transmiten.",
+    "desarrollo": "Que muchas personas padezcan una enfermedad dice algo sobre su prevalencia y nada sobre su mecanismo de aparición. Las otras alternativas nombran confusiones reales que aparecen en este capítulo, pero ninguna describe el error del enunciado, que consiste precisamente en deducir el contagio a partir de la cantidad de casos.",
+    "saber_hacer": "Hay que nombrar el error exacto y no otro parecido. Dato para la PAES: frecuencia y contagio son propiedades independientes."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Ese error corresponde a los niveles de prevención."
+    },
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "Ese error corresponde a los factores de riesgo."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "Esa confusión es entre dos tipos de causa no infecciosa."
+    }
+   }
+  },
+  {
+   "tema": "b-los-dos-grandes-tipos-de-enfermedad",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere determinar si una enfermedad recién descrita es infecciosa. ¿Qué evidencia resulta más decisiva?",
+   "alternativas": [
+    "Comprobar si aparece en personas que conviven con casos, por encima de lo esperado por azar.",
+    "Comprobar cuántas personas del país presentan la enfermedad durante el año en curso y el anterior.",
+    "Comprobar si los síntomas de la enfermedad son graves o leves.",
+    "Comprobar si la enfermedad afecta más a hombres que a mujeres."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger la evidencia que discrimina entre dos hipótesis.",
+    "concepto": "Según la sección, lo que define a una enfermedad infecciosa es que la causa un agente biológico capaz de transmitirse de un organismo a otro.",
+    "desarrollo": "Un exceso de casos entre contactos cercanos, por encima de lo esperable por azar, es precisamente la señal de transmisión. El número total de casos, la gravedad de los síntomas y la distribución por sexo son datos descriptivos que pueden coincidir tanto en enfermedades infecciosas como en no infecciosas.",
+    "saber_hacer": "Hay que buscar la evidencia de transmisión, no de magnitud. Dato para la PAES: agrupamiento entre contactos sugiere contagio."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "El número total de casos no indica transmisión."
+    },
+    "C": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La gravedad no distingue infecciosa de no infecciosa."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "La distribución por sexo no informa sobre el contagio."
+    }
+   }
+  },
+  {
+   "tema": "c-factores-de-riesgo-y-prevencion",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un examen de detección aplicado a personas sin síntomas permite encontrar la enfermedad en una etapa temprana. ¿A qué nivel de prevención corresponde?",
+   "alternativas": [
+    "A la prevención secundaria.",
+    "A la prevención primaria.",
+    "A la prevención terciaria.",
+    "A la rehabilitación funcional."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: clasificar una medida dentro de un esquema de tres niveles.",
+    "concepto": "Según la sección, la prevención secundaria consiste en detectar la enfermedad temprano, cuando aún no da síntomas.",
+    "desarrollo": "La prevención primaria actúa antes de que la enfermedad exista, como la vacunación o el agua potable, y la terciaria busca reducir el daño y las secuelas en quien ya enfermó. La rehabilitación forma parte de ese tercer nivel, de modo que la última alternativa no constituye un nivel distinto.",
+    "saber_hacer": "Hay que ubicar cada medida según el momento en que actúa. Dato para la PAES: antes es primaria, temprano es secundaria, después es terciaria."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "La primaria actúa antes de que la enfermedad exista."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "La terciaria reduce daño en quien ya enfermó."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "La rehabilitación forma parte de la prevención terciaria."
+    }
+   }
+  },
+  {
+   "tema": "c-factores-de-riesgo-y-prevencion",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Un aviso publicitario afirma que quien no fuma no desarrollará cáncer pulmonar. ¿Cuál es la principal limitación de esa afirmación?",
+   "alternativas": [
+    "Subestima el daño que el tabaco llega a producir en el tejido pulmonar.",
+    "Ignora que fumar es en realidad un factor protector frente al cáncer.",
+    "Confunde la prevención terciaria con la prevención primaria del cáncer.",
+    "Convierte una relación de probabilidad en una certeza absoluta."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: detectar el paso indebido de una asociación estadística a una afirmación determinista.",
+    "concepto": "Según la sección, un factor de riesgo aumenta la probabilidad de desarrollar una enfermedad sin garantizar que ocurra, y existen no fumadores que desarrollan cáncer pulmonar.",
+    "desarrollo": "El mensaje es peligroso porque puede llevar a descartar el diagnóstico en personas que nunca fumaron. La segunda alternativa va en sentido contrario al problema señalado, la tercera invierte la relación conocida entre tabaco y cáncer, y la cuarta nombra una confusión distinta que aquí no se comete.",
+    "saber_hacer": "Hay que vigilar las alternativas que prometen certezas. Dato para la PAES: riesgo modifica probabilidades, no las anula."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El aviso no subestima el daño: exagera la protección."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Fumar es un factor de riesgo, no protector."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "No hay confusión entre niveles de prevención."
+    }
+   }
+  },
+  {
+   "tema": "c-factores-de-riesgo-y-prevencion",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere estimar si un hábito determinado es un factor de riesgo de una enfermedad. ¿Qué diseño resulta más adecuado?",
+   "alternativas": [
+    "Estudiar solo a las personas que ya presentan la enfermedad y registrar sus hábitos.",
+    "Seguir en el tiempo a dos grupos, con y sin el hábito, y comparar la aparición de la enfermedad.",
+    "Preguntar a los médicos de un hospital cuál creen ellos que es el principal factor de riesgo implicado.",
+    "Medir la frecuencia del hábito en la población general durante un solo año."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger el diseño que permite estimar una asociación.",
+    "concepto": "Según la sección, un factor de riesgo es una condición que aumenta la probabilidad de desarrollar una enfermedad, de modo que estimarlo exige comparar dos grupos.",
+    "desarrollo": "El seguimiento en el tiempo de expuestos y no expuestos permite medir cuánto más frecuente es la enfermedad en un grupo que en el otro. Estudiar solo a los enfermos impide esa comparación, la opinión de los médicos no es evidencia y medir la frecuencia del hábito describe la población sin relacionarla con la enfermedad.",
+    "saber_hacer": "Hay que comparar expuestos y no expuestos a lo largo del tiempo. Dato para la PAES: sin grupo de comparación no hay estimación de riesgo."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "condición incompleta",
+     "texto": "Sin personas sanas no hay comparación posible."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Una opinión no constituye evidencia empírica."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "Describe el hábito sin relacionarlo con la enfermedad."
+    }
+   }
+  },
+  {
+   "tema": "3-los-microorganismos",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Se afirma que solo una minoría de los microorganismos conocidos produce enfermedad en las personas. ¿Qué consecuencia tiene ese hecho para la interpretación de un cultivo de piel sana?",
+   "alternativas": [
+    "Cualquier microorganismo hallado indica una infección en curso.",
+    "La piel sana debería mostrar un cultivo completamente estéril.",
+    "Los microorganismos de la piel provienen siempre del ambiente.",
+    "Encontrar microorganismos no implica que haya infección."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: derivar una consecuencia práctica de un hecho general.",
+    "concepto": "Según la sección, en la piel, el intestino y las mucosas vive la microbiota, un conjunto de microorganismos que no causan daño y que incluso resultan beneficiosos.",
+    "desarrollo": "Por eso un cultivo de piel sana da resultados positivos con normalidad, y el hallazgo por sí solo no diagnostica nada. La piel sana no es estéril, y buena parte de su microbiota es estable y propia de la persona, no un simple depósito de microorganismos ambientales.",
+    "saber_hacer": "Hay que separar presencia de microorganismos de enfermedad. Dato para la PAES: la piel sana está poblada, no estéril."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "La microbiota normal aparece en cualquier cultivo de piel."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La piel sana nunca es estéril."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "Buena parte de la microbiota es estable y propia de la persona."
+    }
+   }
+  },
+  {
+   "tema": "3-los-microorganismos",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Una publicidad promete eliminar el 99,9 % de los microorganismos de las manos y presenta eso como un beneficio absoluto. ¿Cuál es la principal limitación de ese mensaje?",
+   "alternativas": [
+    "Omite que el lavado de manos no reduce la transmisión de enfermedades.",
+    "Omite que los microorganismos de las manos son todos patógenos peligrosos.",
+    "Omite que parte de esos microorganismos forma la microbiota protectora.",
+    "Omite que la piel humana no aloja ningún tipo de microorganismo."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: detectar lo que un mensaje deja fuera.",
+    "concepto": "Según la sección, la microbiota ocupa el espacio y los nutrientes que un patógeno necesitaría, de modo que forma parte de las defensas del organismo.",
+    "desarrollo": "El lavado de manos es una medida muy eficaz y no se trata de desaconsejarlo, sino de notar que presentar toda eliminación microbiana como beneficio ignora ese papel protector. Las otras alternativas afirman hechos falsos: el lavado sí reduce la transmisión, no todos los microorganismos son patógenos y la piel sí está poblada.",
+    "saber_hacer": "Hay que señalar la omisión sin negar el beneficio real. Dato para la PAES: la microbiota es parte de la primera línea de defensa."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El lavado de manos sí reduce la transmisión."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "La mayoría de los microorganismos de la piel no son patógenos."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La piel humana aloja una microbiota abundante."
+    }
+   }
+  },
+  {
+   "tema": "a-la-mayoria-no-causa-dano",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Tras un tratamiento prolongado con antibióticos, una persona desarrolla una infección por un microorganismo que antes convivía con ella sin causar daño. ¿Cómo se explica ese cuadro?",
+   "alternativas": [
+    "El antibiótico alteró la microbiota y liberó el espacio que la contenía.",
+    "El antibiótico transformó a ese microorganismo en un verdadero agente patógeno.",
+    "El antibiótico debilitó de forma directa la tercera línea de defensa del cuerpo.",
+    "El antibiótico introdujo un microorganismo nuevo en el organismo."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: explicar un resultado clínico con el mecanismo descrito en el texto.",
+    "concepto": "Según la sección, la microbiota ocupa el espacio y los nutrientes que usaría un patógeno, y cuando un tratamiento con antibióticos la altera aparecen infecciones oportunistas.",
+    "desarrollo": "El antibiótico no transforma a un microorganismo ni lo introduce: elimina competidores y deja el nicho libre. Tampoco actúa sobre los linfocitos, que constituyen la tercera línea de defensa, de modo que la tercera alternativa atribuye al fármaco un efecto que no tiene.",
+    "saber_hacer": "Hay que razonar en términos de competencia por el nicho. Dato para la PAES: alterar la microbiota abre la puerta a los oportunistas."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "El antibiótico no transforma microorganismos en patógenos."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "El antibiótico no actúa sobre los linfocitos."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El microorganismo ya convivía con la persona."
+    }
+   }
+  },
+  {
+   "tema": "a-la-mayoria-no-causa-dano",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Se observa que las personas tratadas con antibióticos de amplio espectro presentan más episodios de diarrea que quienes reciben antibióticos dirigidos. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?",
+   "alternativas": [
+    "¿Cuántas personas recibieron antibióticos en este hospital durante el último año completo?",
+    "¿Qué precio tiene cada uno de los dos tipos de antibiótico en el mercado nacional actual?",
+    "¿En qué año se comenzó a usar el primer antibiótico de amplio espectro?",
+    "¿Cómo afecta cada tipo de antibiótico a la composición de la microbiota intestinal?"
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que aborda el mecanismo del fenómeno observado.",
+    "concepto": "Según la sección, la microbiota ocupa el espacio de los patógenos y su alteración por antibióticos favorece infecciones oportunistas.",
+    "desarrollo": "La pregunta correcta relaciona el tipo de antibiótico con el efecto sobre la microbiota, que es el mecanismo propuesto, y puede responderse comparando muestras antes y después del tratamiento. Un recuento de pacientes, el precio del fármaco o la fecha de su introducción no explican la diferencia observada.",
+    "saber_hacer": "Hay que dirigir la pregunta al mecanismo propuesto y no a los datos que rodean la observación. Dato para la PAES: un antibiótico de amplio espectro elimina más grupos bacterianos y por eso daña más a la microbiota."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Un recuento no explica la diferencia entre tratamientos."
+    },
+    "B": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "El precio es un dato económico, no biológico."
+    },
+    "C": {
+     "tipo": "anacronismo",
+     "texto": "La fecha de introducción es un dato histórico."
+    }
+   }
+  },
+  {
+   "tema": "a-la-mayoria-no-causa-dano",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Comunicar",
+   "enunciado": "Para un afiche de sala de clases hay que resumir en una frase el papel de la microbiota. ¿Cuál es la formulación más precisa?",
+   "alternativas": [
+    "Produce anticuerpos específicos contra los microorganismos que invaden el cuerpo.",
+    "Ayuda a digerir, produce vitaminas y ocupa el espacio de los patógenos.",
+    "Se activa solo cuando un agente patógeno atraviesa la piel y las mucosas.",
+    "Genera memoria inmunológica frente a las infecciones que ya se padecieron."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de comunicar: escoger la formulación que describe con exactitud una función.",
+    "concepto": "Según la sección, la microbiota ayuda a digerir, produce vitaminas y ocupa el espacio que de otro modo usarían los patógenos.",
+    "desarrollo": "Las otras alternativas atribuyen a la microbiota funciones que corresponden al sistema inmune: la producción de anticuerpos es de los linfocitos B, la activación ante un invasor describe a la segunda línea de defensa y la memoria inmunológica pertenece a la tercera. La microbiota actúa por competencia, no por reconocimiento específico.",
+    "saber_hacer": "Hay que evitar confundir la competencia por el nicho con una verdadera respuesta inmune específica. Dato para la PAES: la microbiota compite por espacio y nutrientes, pero no reconoce antígenos ni deja memoria."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Los anticuerpos los producen los linfocitos B."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "Esa descripción corresponde a la segunda línea de defensa."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "La memoria inmunológica es propia de la tercera línea."
+    }
+   }
+  },
+  {
+   "tema": "b-los-cuatro-grupos-que-hay-que-distinguir",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Una muestra contiene partículas de 80 nanómetros que solo se multiplican cuando se agregan células vivas al cultivo. ¿A qué grupo pertenecen?",
+   "alternativas": [
+    "A las bacterias.",
+    "A los hongos.",
+    "A los protozoos.",
+    "A los virus."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: clasificar un agente a partir de dos datos combinados.",
+    "concepto": "Según la sección, los virus miden entre veinte y trescientos nanómetros y no se reproducen solos, porque necesitan una célula hospedera.",
+    "desarrollo": "Los dos datos del enunciado apuntan en la misma dirección y ninguno admite otra lectura. Las bacterias, los hongos y los protozoos son células con metabolismo propio que se multiplican en un medio nutritivo sin necesidad de células vivas, y además miden micrómetros, no nanómetros.",
+    "saber_hacer": "Hay que combinar los dos datos del enunciado, el tamaño y el modo de reproducción, antes de decidir la clasificación. Dato para la PAES: un tamaño en nanómetros junto con la dependencia de células vivas significa siempre virus."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Las bacterias se multiplican en medio nutritivo sin células vivas."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Los hongos se reproducen por sí solos y miden micrómetros."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Los protozoos son células con metabolismo propio."
+    }
+   }
+  },
+  {
+   "tema": "b-los-cuatro-grupos-que-hay-que-distinguir",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un paciente con candidiasis recibe un antibiótico y no mejora. ¿Cómo se explica ese resultado?",
+   "alternativas": [
+    "La candidiasis la causa un hongo y los antibióticos actúan sobre bacterias.",
+    "La dosis de antibiótico que se empleó resultó demasiado baja para tratar este cuadro.",
+    "El hongo desarrolló resistencia al antibiótico durante el curso del tratamiento.",
+    "El antibiótico necesita más tiempo para actuar sobre los hongos."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: explicar la falta de efecto de un tratamiento a partir del grupo al que pertenece el agente.",
+    "concepto": "Según la sección, los hongos requieren antifúngicos, y los antibióticos actúan solo sobre las bacterias.",
+    "desarrollo": "No se trata de dosis ni de tiempo: el fármaco no tiene sobre qué actuar, porque los hongos son eucariontes y carecen de las estructuras que el antibiótico ataca. Hablar de resistencia tampoco corresponde, ya que la resistencia supone que el fármaco alguna vez fue eficaz sobre ese agente.",
+    "saber_hacer": "Hay que revisar primero si el fármaco corresponde al grupo. Dato para la PAES: hongo requiere antifúngico, no antibiótico."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "condición incompleta",
+     "texto": "El problema no es la dosis sino el tipo de fármaco."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "La resistencia supone que el fármaco actuaba antes sobre el agente."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "El tiempo no cambia que el fármaco no tenga diana."
+    }
+   }
+  },
+  {
+   "tema": "b-los-cuatro-grupos-que-hay-que-distinguir",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere determinar si el agente que causa un cuadro es una bacteria o un virus, antes de decidir un tratamiento. ¿Qué observación resulta más decisiva?",
+   "alternativas": [
+    "Comprobar si el paciente presenta fiebre alta durante los primeros días del cuadro.",
+    "Comprobar si el agente se multiplica en un medio nutritivo sin células vivas.",
+    "Comprobar cuántos días llevan durando los síntomas desde su aparición inicial registrada.",
+    "Comprobar si otras personas del entorno presentan el mismo cuadro."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger la observación que discrimina entre dos posibilidades.",
+    "concepto": "Según la sección, las bacterias se dividen por sí solas mientras que los virus necesitan una célula hospedera para multiplicarse.",
+    "desarrollo": "Un medio nutritivo sin células vivas permite el crecimiento bacteriano y no el viral, de modo que el resultado decide el caso. La fiebre, la duración de los síntomas y la presencia de otros casos en el entorno ocurren igualmente en cuadros bacterianos y virales, y por eso no distinguen entre ambos.",
+    "saber_hacer": "Hay que elegir la prueba que separa los dos grupos. Dato para la PAES: solo la bacteria crece sin células hospederas."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La fiebre aparece en cuadros bacterianos y virales."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "La duración no distingue el tipo de agente."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Ambos tipos de agente pueden transmitirse en el entorno."
+    }
+   }
+  },
+  {
+   "tema": "c-por-que-el-virus-es-un-caso-aparte",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "¿Por qué se dice que un virus fuera de una célula es una partícula inerte?",
+   "alternativas": [
+    "Porque pierde todo su material genético al salir de la célula hospedera que lo alojaba.",
+    "Porque se desintegra de inmediato al entrar en contacto con el aire exterior.",
+    "Porque deja de tener cubierta proteica al abandonar la célula.",
+    "Porque carece de metabolismo y no realiza ninguna actividad por sí mismo."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: justificar una afirmación con el mecanismo correcto.",
+    "concepto": "Según la sección, un virus no tiene citoplasma con metabolismo ni ribosomas propios ni capacidad de dividirse, de modo que fuera de una célula es una partícula inerte.",
+    "desarrollo": "Conserva, eso sí, su material genético y su cubierta proteica, que son justamente lo que le permite infectar una nueva célula más adelante. Muchos virus sobreviven horas o días en superficies, así que tampoco es cierto que se desintegren de inmediato al contacto con el aire.",
+    "saber_hacer": "Hay que fundar la inercia en la ausencia de metabolismo. Dato para la PAES: inerte no significa destruido."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El virus conserva su material genético fuera de la célula."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "Muchos virus sobreviven horas o días en superficies."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La cubierta proteica se mantiene intacta."
+    }
+   }
+  },
+  {
+   "tema": "c-por-que-el-virus-es-un-caso-aparte",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Se sostiene que diseñar un antiviral es más difícil que diseñar un antibiótico. ¿Cuál es la razón que mejor sostiene esa afirmación?",
+   "alternativas": [
+    "El virus usa la maquinaria de la célula, de modo que atacarlo puede dañar a la célula.",
+    "El virus es demasiado grande para que un fármaco pueda atravesarlo.",
+    "El virus se multiplica fuera de las células, donde el fármaco no llega.",
+    "El virus posee una pared celular mucho más resistente que la de cualquier bacteria conocida."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: identificar el fundamento correcto de una afirmación comparativa.",
+    "concepto": "Según la sección, el virus usa los ribosomas, las enzimas y la energía de la célula hospedera, y por eso hay que golpearlo sin dañar la célula que lo aloja.",
+    "desarrollo": "El antibiótico, en cambio, ataca estructuras bacterianas que nuestras células no tienen, y esa diferencia es la que facilita su diseño. Las otras alternativas contradicen hechos básicos: el virus es mucho más pequeño que una bacteria, se multiplica dentro de las células y carece por completo de pared celular.",
+    "saber_hacer": "Hay que razonar sobre la existencia de una diana exclusiva. Dato para la PAES: sin diana propia, el fármaco daña también al hospedero."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El virus es mucho más pequeño que una bacteria."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El virus se multiplica dentro de las células."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "El virus carece de pared celular."
+    }
+   }
+  },
+  {
+   "tema": "c-por-que-el-virus-es-un-caso-aparte",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere cultivar un virus en el laboratorio para estudiarlo. ¿Qué condición debe cumplir el medio de cultivo?",
+   "alternativas": [
+    "Debe contener únicamente azúcares y sales en solución acuosa.",
+    "Debe mantenerse a temperatura de congelación durante todo el ensayo.",
+    "Debe contener células vivas susceptibles de ser infectadas.",
+    "Debe estar libre de cualquier tipo de material genético ajeno."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: determinar las condiciones que un procedimiento exige.",
+    "concepto": "Según la sección, el virus debe entrar en una célula hospedera y usar su maquinaria para multiplicarse, ya que carece de ribosomas y de metabolismo propios.",
+    "desarrollo": "Sin células vivas no hay replicación posible, por muy completo que sea el medio nutritivo. La congelación detendría cualquier proceso biológico, y exigir un medio libre de material genético ajeno confunde una medida de pureza con una condición de crecimiento.",
+    "saber_hacer": "Hay que deducir la condición del cultivo a partir del modo en que el agente se replica, y no a partir de lo que un medio suele contener. Dato para la PAES: un virus solo puede cultivarse sobre células vivas capaces de ser infectadas."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "condición incompleta",
+     "texto": "Un medio de nutrientes no basta: falta la célula hospedera."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "La congelación detiene todo proceso biológico."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "Confunde una medida de pureza con una condición de crecimiento."
+    }
+   }
+  },
+  {
+   "tema": "d-bacterias-no-todas-son-enemigas",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "El tétanos y el botulismo producen daño incluso cuando la bacteria permanece localizada en un solo punto del cuerpo. ¿Cómo se explica?",
+   "alternativas": [
+    "La bacteria viaja por la sangre y coloniza con rapidez todo el organismo del paciente.",
+    "La bacteria se transforma en un virus capaz de infectar otros tejidos.",
+    "El daño lo produce una toxina liberada por la bacteria, no la bacteria misma.",
+    "El daño se debe a la respuesta inflamatoria local que produce la herida inicial."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: explicar un cuadro clínico con el mecanismo correspondiente.",
+    "concepto": "Según la sección, las bacterias patógenas dañan invadiendo tejidos o liberando toxinas, y el tétanos y el botulismo son ejemplos del segundo caso.",
+    "desarrollo": "La toxina se difunde y actúa a distancia, lo que explica que los síntomas sean generales aunque la bacteria no se haya diseminado. Una bacteria no se transforma en virus, y la inflamación local no da cuenta de síntomas neurológicos en todo el cuerpo.",
+    "saber_hacer": "Hay que distinguir con cuidado entre una bacteria que invade tejidos y una que actúa liberando toxinas a distancia. Dato para la PAES: síntomas generales con una bacteria que permanece localizada indican siempre una toxina."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El enunciado indica que la bacteria permanece localizada."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "Una bacteria no se transforma en virus."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "La inflamación local no explica síntomas generales."
+    }
+   }
+  },
+  {
+   "tema": "d-bacterias-no-todas-son-enemigas",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Se afirma que muchas bacterias son indispensables para los ecosistemas y para el ser humano. ¿Cuál de los siguientes ejemplos respalda esa afirmación?",
+   "alternativas": [
+    "La producción de toxinas que dañan el sistema nervioso humano.",
+    "La invasión de los tejidos pulmonares por el agente de la tuberculosis.",
+    "La formación de biofilms resistentes en instrumentos hospitalarios.",
+    "La fijación de nitrógeno en el suelo por bacterias asociadas a raíces."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: seleccionar el ejemplo que respalda una afirmación.",
+    "concepto": "Según la sección, muchas bacterias fijan nitrógeno en el suelo, fermentan alimentos, sintetizan vitamina K en el intestino y participan en el ciclo del carbono.",
+    "desarrollo": "La fijación de nitrógeno hace disponible para las plantas un elemento que abunda en el aire pero que ellas no pueden aprovechar directamente. Las otras tres alternativas describen efectos perjudiciales y, por lo tanto, respaldan justamente lo contrario de lo que la afirmación sostiene.",
+    "saber_hacer": "Hay que elegir el ejemplo que apoya la tesis, no el que la contradice. Dato para la PAES: la mayoría de las bacterias no es patógena."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Describe un efecto perjudicial, no beneficioso."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Describe una bacteria patógena invasora."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Los biofilms hospitalarios son un problema sanitario."
+    }
+   }
+  },
+  {
+   "tema": "d-bacterias-no-todas-son-enemigas",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Un equipo quiere investigar por qué algunas bacterias del intestino resultan beneficiosas y otras causan enfermedad. ¿Cuál es la pregunta que mejor orienta esa investigación?",
+   "alternativas": [
+    "¿Cuántas especies bacterianas distintas llegan a vivir en el intestino de una persona?",
+    "¿Qué características hacen que una bacteria invada tejidos o libere toxinas?",
+    "¿Qué forma tienen las bacterias intestinales vistas al microscopio?",
+    "¿En qué momento exacto del día se realizó la toma de la muestra intestinal analizada?"
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que aborda el mecanismo de la diferencia observada.",
+    "concepto": "Según la sección, las bacterias patógenas dañan de dos maneras: invadiendo tejidos y multiplicándose en ellos, o liberando toxinas.",
+    "desarrollo": "La pregunta correcta apunta a las características que determinan esas conductas, que es lo que distingue a una bacteria patógena de una inofensiva. Contar especies, describir su forma o registrar la hora de la muestra son datos descriptivos que no explican la diferencia de comportamiento.",
+    "saber_hacer": "Hay que preguntar por el mecanismo que produce el daño y no por los rasgos visibles de las bacterias. Dato para la PAES: una bacteria se considera patógena porque invade tejidos o porque libera toxinas, no por su forma ni por su abundancia."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Un recuento no explica la diferencia de comportamiento."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "La forma no determina si una bacteria es patógena."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La hora de la muestra es un dato del procedimiento."
+    }
+   }
+  },
+  {
+   "tema": "4-transmision-y-prevencion",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un equipo de salud analiza un brote y representa el contagio como una serie de pasos que deben darse uno tras otro, desde el agente hasta la persona que finalmente enferma. ¿Qué sucede si uno de esos pasos deja de cumplirse?",
+   "alternativas": [
+    "La transmisión continúa con la misma intensidad que antes.",
+    "La transmisión se interrumpe.",
+    "La enfermedad se vuelve más grave en quienes ya la padecen.",
+    "El agente patógeno muta hasta encontrar otro camino de entrada."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: deducir la consecuencia lógica de un modelo encadenado.",
+    "concepto": "Según la sección, para que una enfermedad se propague deben cumplirse seis condiciones encadenadas, y si falta una sola la transmisión se interrumpe.",
+    "desarrollo": "Ese es precisamente el valor práctico del modelo: permite elegir dónde intervenir. La segunda alternativa niega la lógica de la cadena, la tercera confunde transmisión con gravedad, que son cuestiones distintas, y la cuarta atribuye al agente una capacidad de adaptación dirigida que no existe.",
+    "saber_hacer": "Hay que razonar con la lógica de una cadena de condiciones necesarias, donde todas deben cumplirse a la vez. Dato para la PAES: basta cortar un solo eslabón para detener la propagación, y por eso el modelo sirve para elegir dónde intervenir."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Niega la lógica de eslabones encadenados."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "La gravedad y la transmisión son cuestiones distintas."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "El agente no muta de manera dirigida ante un obstáculo."
+    }
+   }
+  },
+  {
+   "tema": "4-transmision-y-prevencion",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Un municipio quiere reducir los casos de una enfermedad transmitida por agua contaminada y dispone de recursos limitados. ¿Qué medida ataca directamente la vía de transmisión?",
+   "alternativas": [
+    "Mejorar el tratamiento y la potabilización del agua de consumo.",
+    "Ampliar el número de camas disponibles en el hospital local.",
+    "Difundir información sobre los síntomas de la enfermedad.",
+    "Registrar con mayor precisión los casos que llegan al consultorio."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: seleccionar la medida que actúa sobre el eslabón indicado.",
+    "concepto": "Según la sección, la vía de transmisión se corta con medidas como el lavado de manos, la mascarilla, el agua potable o el control de vectores.",
+    "desarrollo": "Potabilizar el agua elimina el camino por el que el agente llega a nuevos hospederos. Ampliar camas mejora la atención de quienes ya enfermaron, difundir síntomas facilita la consulta temprana y registrar casos mejora la vigilancia: son medidas útiles, pero ninguna interrumpe la vía de transmisión.",
+    "saber_hacer": "Hay que emparejar la medida con el eslabón que interrumpe. Dato para la PAES: el agua potable corta la vía digestiva."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "Mejora la atención, no la transmisión."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "Facilita la consulta temprana sin cortar la vía."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "La vigilancia registra, no interrumpe la transmisión."
+    }
+   }
+  },
+  {
+   "tema": "a-la-cadena-de-transmision",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "El uso de mascarilla durante una epidemia respiratoria actúa sobre un eslabón determinado de la cadena. ¿Cuál es?",
+   "alternativas": [
+    "El hospedero susceptible.",
+    "El reservorio del agente.",
+    "El agente patógeno mismo.",
+    "La vía de transmisión."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: ubicar una medida concreta dentro de un modelo.",
+    "concepto": "Según la sección, la vía de transmisión se corta con el lavado de manos, la mascarilla, el agua potable y el control de vectores.",
+    "desarrollo": "La mascarilla interpone una barrera física en el trayecto aéreo que las gotitas deben recorrer. Actuar sobre el hospedero susceptible corresponde a la vacunación, actuar sobre el reservorio implica tratar a los enfermos o controlar animales, y actuar sobre el agente mismo corresponde a la desinfección o a los antibióticos.",
+    "saber_hacer": "Hay que ubicar cada medida en su eslabón. Dato para la PAES: la mascarilla interrumpe el trayecto, no protege al hospedero desde dentro."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Sobre el hospedero susceptible actúa la vacunación."
+    },
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "Sobre el reservorio actúa el tratamiento de los enfermos."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "Sobre el agente actúan la desinfección y los antibióticos."
+    }
+   }
+  },
+  {
+   "tema": "a-la-cadena-de-transmision",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se dispone de una única medida para controlar un brote y se busca la que proteja a las personas que aún no se han expuesto. ¿Cuál corresponde?",
+   "alternativas": [
+    "La desinfección de superficies en lugares públicos.",
+    "La vacunación de la población susceptible.",
+    "El aislamiento de quienes ya presentan síntomas claros.",
+    "La ventilación de los espacios cerrados más concurridos."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger la intervención que cumple el objetivo declarado.",
+    "concepto": "Según la sección, la vacunación es la única medida que actúa sobre el hospedero susceptible, es decir, sobre la persona que podría enfermar.",
+    "desarrollo": "Las otras tres son medidas eficaces, pero actúan sobre el agente, sobre el reservorio o sobre la vía de transmisión: reducen la exposición sin cambiar la condición de la persona. Solo la vacunación hace que quien la recibe deje de ser un hospedero disponible para el agente.",
+    "saber_hacer": "Hay que fijarse en sobre quién o qué actúa cada medida. Dato para la PAES: solo la vacuna cambia al hospedero."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "La desinfección actúa sobre el agente en el ambiente."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "El aislamiento actúa sobre el reservorio y la salida."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "La ventilación actúa sobre la vía de transmisión."
+    }
+   }
+  },
+  {
+   "tema": "a-la-cadena-de-transmision",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Un plan de control de un brote contempla solo el aislamiento de los enfermos con síntomas. ¿Cuál es su principal limitación?",
+   "alternativas": [
+    "No permite identificar cuál es el agente responsable del brote en curso.",
+    "No reduce la gravedad de los casos que ya han sido diagnosticados antes.",
+    "No actúa sobre quienes transmiten durante el período de incubación.",
+    "No considera el costo económico que implica aislar a las personas."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: identificar el vacío principal de una estrategia.",
+    "concepto": "Según la sección, durante buena parte del período de incubación la persona puede transmitir el agente sin saber que está infectada.",
+    "desarrollo": "Por eso una estrategia basada únicamente en aislar a los sintomáticos llega tarde: deja circulando a quienes aún no manifiestan la enfermedad. Identificar el agente y tratar a los casos graves son objetivos distintos del control de la transmisión, y el costo económico, aunque real, no es una limitación epidemiológica del plan.",
+    "saber_hacer": "Hay que buscar el vacío en términos de transmisión. Dato para la PAES: los asintomáticos son el punto ciego del aislamiento por síntomas."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Identificar el agente es un objetivo distinto del control."
+    },
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "Reducir la gravedad corresponde al tratamiento."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "El costo no es una limitación epidemiológica."
+    }
+   }
+  },
+  {
+   "tema": "b-las-vias-de-transmision",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Una infección pasa de la madre al hijo durante el embarazo o el parto. ¿Cómo se denomina esa vía de transmisión?",
+   "alternativas": [
+    "Parenteral.",
+    "Por vector.",
+    "Digestiva.",
+    "Vertical."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: nombrar correctamente una vía a partir de su descripción.",
+    "concepto": "Según la sección, la transmisión vertical ocurre de la madre al hijo durante el embarazo, el parto o la lactancia, como en el VIH o la sífilis congénita.",
+    "desarrollo": "La vía parenteral ocurre por sangre, mediante jeringas, transfusiones o instrumentos; la transmisión por vector requiere un animal que transporte el agente; y la vía digestiva implica agua o alimentos contaminados con heces. Ninguna de esas tres describe el paso directo de madre a hijo.",
+    "saber_hacer": "Hay que asociar cada descripción con el nombre de la vía. Dato para la PAES: de madre a hijo es transmisión vertical."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "La vía parenteral ocurre por sangre e instrumentos."
+    },
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "La transmisión por vector requiere un animal transportador."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "La vía digestiva implica agua o alimentos contaminados."
+    }
+   }
+  },
+  {
+   "tema": "b-las-vias-de-transmision",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "En una localidad aumentan los casos de una enfermedad diarreica tras un desborde del alcantarillado. ¿Cuál es la vía de transmisión más probable?",
+   "alternativas": [
+    "Aérea, por gotitas emitidas al toser o al hablar.",
+    "Digestiva, por agua o alimentos contaminados con heces.",
+    "Sexual, por contacto con fluidos durante relaciones sexuales.",
+    "Parenteral, por instrumentos contaminados con sangre."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: inferir la vía de transmisión a partir del contexto descrito.",
+    "concepto": "Según la sección, la vía digestiva opera cuando el agua o los alimentos se contaminan con heces, como ocurre con el cólera, la hepatitis A y la fiebre tifoidea.",
+    "desarrollo": "El desborde del alcantarillado es exactamente la situación que contamina el agua con material fecal, y el cuadro diarreico coincide con esa vía. Las otras alternativas describen vías que el contexto no sugiere y que no producirían un brote diarreico asociado a un problema sanitario del agua.",
+    "saber_hacer": "Hay que usar el contexto para inferir la vía. Dato para la PAES: alcantarillado y diarrea apuntan a la vía digestiva."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "La vía aérea no se relaciona con el alcantarillado."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "La vía sexual no explica un brote diarreico localizado."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "La vía parenteral requiere contacto con sangre."
+    }
+   }
+  },
+  {
+   "tema": "b-las-vias-de-transmision",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "En un pueblo rural aumentan los casos de una enfermedad transmitida por un insecto que vive en las grietas de las viviendas de adobe. ¿Cuál es la pregunta que mejor orienta una investigación para el control?",
+   "alternativas": [
+    "¿Cuántas personas viven en promedio en cada una de las casas del pueblo?",
+    "¿Desde qué año se construyeron las primeras viviendas de adobe del lugar?",
+    "¿Qué mejoras en la vivienda reducen la presencia del insecto vector?",
+    "¿Qué color tienen las paredes interiores de las viviendas afectadas?"
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta investigable orientada a una intervención.",
+    "concepto": "Según la sección, la transmisión por vector se controla eliminando criaderos o mejorando las viviendas rurales, como ocurre con la vinchuca que transmite el Chagas.",
+    "desarrollo": "La pregunta correcta relaciona una intervención posible con la presencia del vector, y puede responderse comparando viviendas mejoradas y no mejoradas. El número de habitantes, la antigüedad de las casas y el color de las paredes son datos que no orientan ninguna medida de control.",
+    "saber_hacer": "Hay que orientar la pregunta hacia una intervención comprobable. Dato para la PAES: en el Chagas, la vivienda es el punto de control."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "El número de habitantes no orienta el control del vector."
+    },
+    "B": {
+     "tipo": "anacronismo",
+     "texto": "La antigüedad de las viviendas es un dato histórico."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "El color de las paredes no determina la presencia del insecto."
+    }
+   }
+  },
+  {
+   "tema": "d-prevencion-lo-que-de-verdad-funciona",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Comunicar",
+   "enunciado": "Para una cartilla informativa hay que indicar qué medida corta la transmisión sexual de una infección. ¿Cuál corresponde señalar?",
+   "alternativas": [
+    "El lavado frecuente de manos con agua y jabón.",
+    "El uso correcto y sistemático del preservativo.",
+    "La ventilación adecuada de los espacios cerrados.",
+    "La cocción completa de los alimentos de origen animal."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de comunicar: escoger la medida que corresponde a la vía indicada en un material informativo.",
+    "concepto": "Según la sección, el preservativo corta la puerta de entrada en la vía sexual, mientras que el lavado de manos y la mascarilla actúan sobre otras vías.",
+    "desarrollo": "Cada medida es eficaz para la vía que le corresponde y no para las demás: el lavado de manos actúa sobre las vías de contacto y digestiva, la ventilación sobre la vía aérea y la cocción sobre la vía digestiva. Una cartilla que mezcle vías y medidas transmite información errónea.",
+    "saber_hacer": "Hay que emparejar medida y vía en un material informativo. Dato para la PAES: cada barrera sirve para su propia vía."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Actúa sobre las vías de contacto y digestiva."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "La ventilación actúa sobre la vía aérea."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "La cocción actúa sobre la vía digestiva."
+    }
+   }
+  },
+  {
+   "tema": "c-periodo-de-incubacion-y-por-que-complica-el-cont",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "En una región circulan dos agentes que se contagian del mismo modo y con la misma facilidad en cada encuentro. Con el agente X los primeros signos aparecen al día siguiente del contagio; con el agente Y tardan alrededor de quince días en manifestarse. ¿Cuál de los dos resulta más difícil de contener?",
+   "alternativas": [
+    "El agente X, porque los signos aparecen antes de poder aislar al enfermo.",
+    "Ninguno de los dos: el tiempo hasta los primeros signos no influye en el control.",
+    "El agente Y, porque se transmite más tiempo sin signos visibles.",
+    "El agente Y, porque se vuelve más virulento a medida que pasan los días."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: comparar dos escenarios que difieren en una sola variable.",
+    "concepto": "Según la sección, durante buena parte del período de incubación la persona puede transmitir el agente sin saber que está infectada.",
+    "desarrollo": "Una incubación larga significa más días de circulación y contacto antes de que alguien sospeche la infección, de modo que el control es más difícil. La virulencia no cambia por la duración del período, y negar toda influencia del período de incubación contradice la lógica de la transmisión asintomática.",
+    "saber_hacer": "Hay que razonar sobre el tiempo del que dispone una persona infectada para transmitir antes de ser detectada. Dato para la PAES: un período de incubación largo significa un control mucho más difícil, aunque la gravedad sea la misma."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Síntomas tempranos facilitan la detección y el aislamiento."
+    },
+    "B": {
+     "tipo": "sub-alcance",
+     "texto": "El período de incubación sí condiciona el control."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "La virulencia no depende de la duración de la incubación."
+    }
+   }
+  },
+  {
+   "tema": "c-periodo-de-incubacion-y-por-que-complica-el-cont",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante concluye que una persona sin síntomas no puede transmitir una infección. ¿Cuál es la mejor evaluación de esa conclusión?",
+   "alternativas": [
+    "Es correcta, porque la transmisión requiere tos, fiebre o lesiones visibles.",
+    "No lo es: durante la incubación puede haber transmisión sin síntomas.",
+    "Es correcta, porque el agente no se multiplica antes de aparecer los síntomas.",
+    "Es incorrecta, porque los síntomas nunca guardan relación con la transmisión."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: corregir una conclusión sin caer en el extremo opuesto.",
+    "concepto": "Según la sección, el período de incubación es el tiempo entre la infección y la aparición de los síntomas, y durante buena parte de él la persona puede transmitir el agente.",
+    "desarrollo": "El agente sí se multiplica durante ese período: por eso llega a producir síntomas más adelante. La última alternativa corrige en exceso, porque los síntomas como la tos sí aumentan la transmisión en muchas enfermedades, aunque no sean condición necesaria para que ocurra.",
+    "saber_hacer": "Hay que corregir el error sin negar la relación existente. Dato para la PAES: sin síntomas también puede haber transmisión."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "La transmisión no exige síntomas visibles."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El agente se multiplica durante la incubación."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "Los síntomas sí aumentan la transmisión en muchas enfermedades."
+    }
+   }
+  },
+  {
+   "tema": "c-periodo-de-incubacion-y-por-que-complica-el-cont",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere estimar el período de incubación de una enfermedad nueva. ¿Qué dato hay que registrar en cada caso?",
+   "alternativas": [
+    "La fecha de la exposición probable y la fecha de aparición de los síntomas.",
+    "La fecha del diagnóstico y la fecha del alta médica del paciente.",
+    "La edad del paciente y el número de contactos que tuvo durante la última semana.",
+    "La gravedad de los síntomas y el tratamiento que finalmente se le administró al paciente."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: identificar los datos que permiten calcular una magnitud.",
+    "concepto": "Según la sección, el período de incubación es el tiempo transcurrido entre la infección y la aparición de los síntomas.",
+    "desarrollo": "Calcularlo exige conocer esos dos momentos, y por eso se registran la exposición probable y el inicio de los síntomas. El diagnóstico y el alta describen el recorrido asistencial, la edad y los contactos sirven para otros análisis, y la gravedad y el tratamiento no intervienen en el cálculo.",
+    "saber_hacer": "Hay que registrar los dos extremos del intervalo que se quiere medir. Dato para la PAES: incubación va de la exposición al primer síntoma."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "Describen el recorrido asistencial, no la incubación."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "Sirven para otros análisis epidemiológicos."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "La gravedad y el tratamiento no intervienen en el cálculo."
+    }
+   }
+  },
+  {
+   "tema": "d-prevencion-lo-que-de-verdad-funciona",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere comparar la eficacia de dos campañas de prevención de enfermedades diarreicas en dos localidades semejantes. ¿Qué medición permite la comparación más directa?",
+   "alternativas": [
+    "La incidencia de casos nuevos en cada localidad durante el mismo período.",
+    "El número de folletos distribuidos por cada una de las dos campañas.",
+    "La cantidad de personas que declaran recordar el mensaje central de la campaña.",
+    "El presupuesto total que cada municipio destinó a su propia campaña preventiva."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger el indicador que mide el resultado buscado.",
+    "concepto": "Según la sección, las medidas de prevención buscan evitar que la enfermedad se produzca, de modo que su eficacia se mide en casos evitados.",
+    "desarrollo": "La incidencia de casos nuevos en un mismo período es el indicador que responde directamente a esa pregunta. El número de folletos y el presupuesto miden el esfuerzo invertido, y el recuerdo del mensaje mide alcance comunicacional: los tres pueden ser altos sin que la enfermedad disminuya.",
+    "saber_hacer": "Hay que medir el resultado y no el esfuerzo. Dato para la PAES: la eficacia preventiva se mide en casos nuevos."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "Mide el esfuerzo invertido, no el resultado."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "Mide alcance comunicacional, no reducción de casos."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "El presupuesto es una medida de inversión."
+    }
+   }
+  },
+  {
+   "tema": "d-prevencion-lo-que-de-verdad-funciona",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Un historiador de la salud pública afirma que llevar redes de agua limpia y de alcantarillado a las ciudades salvó más vidas que cualquier otra intervención sanitaria. ¿Qué tipo de evidencia respaldaría mejor esa afirmación?",
+   "alternativas": [
+    "La opinión mayoritaria de los profesionales de la salud que fueron consultados antes.",
+    "El número de kilómetros de tuberías que se instalaron durante todo el último siglo.",
+    "La cantidad de agua potable que consume una persona cada día.",
+    "La caída de la mortalidad infecciosa en ciudades tras instalar esos sistemas."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: identificar qué evidencia sostiene una afirmación histórica de gran alcance.",
+    "concepto": "Según la sección, el agua potable y el alcantarillado son las medidas que más muertes por enfermedades infecciosas han evitado en la historia.",
+    "desarrollo": "Respaldar esa afirmación exige datos de mortalidad antes y después de la intervención en poblaciones concretas, que es justamente lo que ofrece la primera alternativa. Una opinión no es evidencia, los kilómetros de tubería miden cobertura y el consumo diario por persona describe un hábito, no un efecto en salud.",
+    "saber_hacer": "Hay que exigir datos de resultado antes y después. Dato para la PAES: la cobertura no equivale al efecto sobre la mortalidad."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Una opinión no constituye evidencia empírica."
+    },
+    "B": {
+     "tipo": "sub-alcance",
+     "texto": "Mide cobertura, no efecto sobre la mortalidad."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Describe un hábito de consumo, no un resultado sanitario."
+    }
+   }
+  },
+  {
+   "tema": "5-las-barreras-defensivas",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Las defensas del organismo se organizan en tres líneas. ¿Cuál es la diferencia esencial entre las dos primeras y la tercera?",
+   "alternativas": [
+    "Solo las dos primeras pueden actuar frente a bacterias y virus.",
+    "Solo la tercera actúa de forma inmediata tras el ingreso del agente.",
+    "Solo la tercera es específica y deja memoria del agente enfrentado.",
+    "Solo las dos primeras requieren un contacto previo con el agente."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: identificar el criterio que separa dos grupos dentro de un modelo.",
+    "concepto": "Según la sección, las dos primeras líneas son inespecíficas y actúan igual contra cualquier invasor, mientras que la tercera reconoce a cada agente en particular y lo recuerda.",
+    "desarrollo": "La tercera es además la más lenta la primera vez, porque hay que seleccionar y multiplicar los linfocitos adecuados. Las otras alternativas invierten estas relaciones: son las dos primeras las que actúan de inmediato y es la tercera la que mejora tras un contacto previo.",
+    "saber_hacer": "Hay que fijar el criterio en la especificidad y la memoria. Dato para la PAES: solo la tercera línea reconoce y recuerda."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Las tres líneas actúan frente a bacterias y virus."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Las dos primeras son las inmediatas."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Es la tercera la que mejora con un contacto previo."
+    }
+   }
+  },
+  {
+   "tema": "5-las-barreras-defensivas",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere determinar si una defensa observada en un animal de laboratorio es específica o inespecífica. ¿Qué diseño lo pone mejor a prueba?",
+   "alternativas": [
+    "Exponerlo al mismo agente dos veces seguidas y medir en cada caso su temperatura corporal.",
+    "Medir el grosor de su piel antes y después de una única exposición.",
+    "Contar el número total de células sanguíneas presentes en la muestra de sangre obtenida.",
+    "Exponerlo a dos agentes distintos y comparar la respuesta frente a cada uno."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: diseñar el ensayo que discrimina entre dos posibilidades.",
+    "concepto": "Según la sección, una defensa inespecífica actúa igual contra cualquier invasor, mientras que una específica se dirige contra un antígeno determinado.",
+    "desarrollo": "Comparar la respuesta frente a dos agentes distintos revela de inmediato si hay o no discriminación. Repetir el mismo agente informa sobre memoria, no sobre especificidad; el grosor de la piel es una medida estructural; y un recuento global de células no distingue entre tipos de respuesta.",
+    "saber_hacer": "Hay que variar el agente para poner a prueba la especificidad, y repetir el mismo agente para poner a prueba la memoria. Dato para la PAES: una defensa específica es la que distingue entre agentes distintos."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Repetir el mismo agente pone a prueba la memoria."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "El grosor de la piel es una medida estructural."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "Un recuento global no distingue tipos de respuesta."
+    }
+   }
+  },
+  {
+   "tema": "a-tres-lineas-no-una",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Una persona se corta con un vidrio sucio y, horas después, la zona está enrojecida e hinchada. ¿Qué líneas de defensa se ven involucradas en esa secuencia?",
+   "alternativas": [
+    "La primera actuó correctamente y la segunda permaneció inactiva.",
+    "La tercera se activó de inmediato y produjo el enrojecimiento.",
+    "Ninguna línea se activó, porque la herida es de origen mecánico.",
+    "La primera falló al romperse la piel y se activó la segunda."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: seguir una secuencia de acontecimientos dentro de un modelo por etapas.",
+    "concepto": "Según la sección, la primera línea la forman las barreras externas, entre ellas la piel, y la segunda incluye la inflamación con enrojecimiento, calor, hinchazón y dolor.",
+    "desarrollo": "El corte rompe la barrera externa y permite el ingreso; la inflamación que sigue es la respuesta de la segunda línea. La tercera línea tarda días la primera vez y no produce el enrojecimiento inicial, y afirmar que ninguna se activó contradice los signos descritos en el enunciado.",
+    "saber_hacer": "Hay que seguir el orden en que las líneas entran en acción. Dato para la PAES: el enrojecimiento temprano corresponde a la segunda línea."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La piel se rompió: la primera línea falló."
+    },
+    "B": {
+     "tipo": "anacronismo",
+     "texto": "La tercera línea tarda días la primera vez."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "Los signos descritos indican una respuesta activa."
+    }
+   }
+  },
+  {
+   "tema": "a-tres-lineas-no-una",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Se observa que un paciente con quemaduras extensas desarrolla infecciones con mucha más frecuencia que otros pacientes hospitalizados. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?",
+   "alternativas": [
+    "¿Cuántos días en total permaneció hospitalizado cada uno de esos pacientes quemados?",
+    "¿Cómo afecta la pérdida de la barrera cutánea a la frecuencia de infecciones?",
+    "¿Qué edad promedio tienen los pacientes que sufren quemaduras extensas y graves?",
+    "¿En qué unidad del hospital se atiende a los pacientes quemados?"
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que conecta la observación con el mecanismo propuesto.",
+    "concepto": "Según la sección, la piel intacta es la primera línea de defensa y casi todas las infecciones cutáneas comienzan con una solución de continuidad.",
+    "desarrollo": "Una quemadura extensa destruye esa barrera en gran superficie, de modo que la pregunta relevante vincula la pérdida de piel con la frecuencia de infecciones. Los días de hospitalización, la edad promedio y la unidad de atención son datos que describen el contexto sin explicar el mecanismo.",
+    "saber_hacer": "Hay que preguntar por el mecanismo de la barrera perdida. Dato para la PAES: sin piel intacta, la primera línea desaparece."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "La duración de la estadía no explica el mecanismo."
+    },
+    "C": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La edad describe el contexto, no la causa."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "La unidad de atención es un dato administrativo."
+    }
+   }
+  },
+  {
+   "tema": "a-tres-lineas-no-una",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Un texto afirma que la tercera línea de defensa es siempre la más eficaz y que las otras dos son prescindibles. ¿Cuál es la mejor evaluación de esa afirmación?",
+   "alternativas": [
+    "No lo es: sin las dos primeras, el agente se multiplicaría antes de que la tercera actúe.",
+    "Es correcta, porque la tercera línea actúa más rápido que las anteriores.",
+    "Es correcta, porque la tercera línea reemplaza a las dos primeras.",
+    "Es incorrecta, porque la tercera línea de defensa no cumple ninguna función realmente relevante."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: juzgar el alcance de una afirmación sobre la importancia relativa de varios componentes.",
+    "concepto": "Según la sección, la tercera línea tarda días la primera vez, mientras que la primera actúa de inmediato y la segunda en horas.",
+    "desarrollo": "Ese retraso es exactamente lo que vuelve indispensables a las anteriores: contienen al agente mientras la respuesta específica se organiza. La segunda alternativa invierte los tiempos, la tercera supone un reemplazo que no existe y la última descarta sin fundamento una línea de defensa central.",
+    "saber_hacer": "Hay que valorar cada línea por su función en el tiempo. Dato para la PAES: la tercera es la más específica, no la más rápida."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La tercera línea es la más lenta la primera vez."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "Las líneas se complementan: ninguna reemplaza a otra."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "La tercera línea es la que reconoce y recuerda."
+    }
+   }
+  },
+  {
+   "tema": "b-primera-linea-no-dejar-entrar",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "La lisozima presente en las lágrimas y la saliva destruye la pared de muchas bacterias. ¿A qué línea de defensa pertenece?",
+   "alternativas": [
+    "A la segunda, como parte de la respuesta inflamatoria.",
+    "A la primera, como barrera química externa.",
+    "A la tercera, como anticuerpo específico contra bacterias.",
+    "A ninguna: es una enzima digestiva sin función defensiva."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: ubicar un componente dentro de un modelo de tres niveles.",
+    "concepto": "Según la sección, las secreciones forman parte de la primera línea, y las lágrimas y la saliva contienen lisozima, una enzima que destruye la pared de muchas bacterias.",
+    "desarrollo": "Actúa antes de que el agente ingrese y sin distinguir entre especies, de modo que es una barrera química inespecífica. No es un anticuerpo, porque no se produce en respuesta a un antígeno determinado, y tampoco forma parte de la inflamación, que ocurre una vez que el agente entró.",
+    "saber_hacer": "Hay que ubicar el componente según dónde y cuándo actúa. Dato para la PAES: si actúa antes de la entrada, es primera línea."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "La inflamación ocurre una vez que el agente entró."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "La lisozima no es un anticuerpo específico."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La lisozima sí cumple una función defensiva."
+    }
+   }
+  },
+  {
+   "tema": "b-primera-linea-no-dejar-entrar",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere comprobar que los cilios de las vías respiratorias participan en la defensa. ¿Qué observación lo respalda mejor?",
+   "alternativas": [
+    "Medir el número de cilios presentes en una muestra de epitelio de la vía respiratoria superior.",
+    "Determinar la longitud promedio de los cilios al microscopio electrónico.",
+    "Comparar la frecuencia de infecciones respiratorias en personas con y sin cilios funcionales.",
+    "Registrar la temperatura del aire que ingresa por las fosas nasales."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger la comparación que pone a prueba una función.",
+    "concepto": "Según la sección, los cilios de las vías respiratorias barren hacia afuera el mucus con las partículas atrapadas, y forman parte de la primera línea de defensa.",
+    "desarrollo": "Comparar personas con y sin cilios funcionales relaciona directamente la estructura con el resultado de salud, y existen alteraciones genéticas que permiten hacer esa comparación. Contar cilios, medir su longitud o registrar la temperatura del aire describe la estructura o el contexto sin evaluar su función defensiva.",
+    "saber_hacer": "Hay que comparar presencia y ausencia de la estructura. Dato para la PAES: una función se demuestra observando qué falla sin ella."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "Un recuento describe la estructura sin evaluar su función."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "La longitud no informa sobre la defensa."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "La temperatura del aire es otra variable."
+    }
+   }
+  },
+  {
+   "tema": "b-primera-linea-no-dejar-entrar",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Se sostiene que cubrir y limpiar una herida es una medida de defensa y no solo un detalle estético. ¿Qué argumento sostiene mejor esa afirmación?",
+   "alternativas": [
+    "Una herida abierta activa de inmediato la respuesta inmune específica del organismo.",
+    "Una herida abierta impide que se produzca la respuesta inflamatoria.",
+    "Una herida abierta elimina la microbiota de toda la superficie corporal de la persona.",
+    "Una herida abierta es una puerta de entrada que anula la primera línea de defensa."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: identificar el argumento que sostiene una afirmación práctica.",
+    "concepto": "Según la sección, casi todas las infecciones de piel empiezan con una solución de continuidad, y por eso cubrir y limpiar una herida es una medida de primera línea.",
+    "desarrollo": "Con la piel rota desaparece la barrera que impedía el ingreso, y limpiar y cubrir restablece en parte esa protección. La respuesta específica tarda días y no se activa de inmediato, la inflamación sí ocurre en una herida y la microbiota del resto del cuerpo no se ve afectada por una lesión local.",
+    "saber_hacer": "Hay que fundar la medida en la barrera perdida. Dato para la PAES: una herida es una puerta de entrada."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "anacronismo",
+     "texto": "La respuesta específica tarda días en desarrollarse."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La inflamación sí ocurre en una herida."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "Una lesión local no elimina la microbiota corporal."
+    }
+   }
+  },
+  {
+   "tema": "c-segunda-linea-contener-al-que-entro",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Una persona presenta fiebre durante una infección bacteriana. ¿Cómo se interpreta ese signo?",
+   "alternativas": [
+    "Es un daño directo que la bacteria produce sobre el hipotálamo.",
+    "Es una señal de que el sistema inmune dejó de funcionar.",
+    "Es una reacción alérgica frente a las toxinas bacterianas.",
+    "Es una respuesta del organismo que dificulta la multiplicación del agente."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: distinguir una respuesta del organismo de un efecto del agente.",
+    "concepto": "Según la sección, la fiebre forma parte de la segunda línea de defensa: el aumento de temperatura dificulta la multiplicación de muchos patógenos y acelera las reacciones defensivas.",
+    "desarrollo": "Es, por lo tanto, una respuesta organizada y no un daño. Interpretarla como fallo del sistema inmune invierte su significado, y calificarla de reacción alérgica confunde un mecanismo de defensa inespecífico con una respuesta de hipersensibilidad, que es otra cosa.",
+    "saber_hacer": "Hay que leer la fiebre como respuesta y no como daño. Dato para la PAES: bajar la fiebre alivia, pero no combate la infección."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "La fiebre la desencadena el propio organismo."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La fiebre indica un sistema inmune activo."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "Una alergia es una respuesta de hipersensibilidad, no defensa inespecífica."
+    }
+   }
+  },
+  {
+   "tema": "c-segunda-linea-contener-al-que-entro",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un macrófago engulle una bacteria y la degrada en su interior. ¿Cómo se llama ese proceso y a qué línea pertenece?",
+   "alternativas": [
+    "Fagocitosis, de la tercera línea de defensa.",
+    "Fagocitosis, de la segunda línea de defensa.",
+    "Inflamación, de la primera línea de defensa.",
+    "Neutralización, de la tercera línea de defensa."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: nombrar un proceso y ubicarlo en el modelo.",
+    "concepto": "Según la sección, la fagocitosis es parte de la segunda línea: los macrófagos y los neutrófilos engullen al microorganismo y lo degradan en su interior.",
+    "desarrollo": "Es una respuesta inespecífica, porque el macrófago no reconoce un antígeno particular ni deja memoria. La inflamación es otro componente de la misma segunda línea, no de la primera, y la neutralización mediante anticuerpos sí corresponde a la tercera línea.",
+    "saber_hacer": "Hay que nombrar el proceso con precisión y ubicarlo además en la línea de defensa que le corresponde. Dato para la PAES: la fagocitosis es inespecífica, actúa en horas y no deja ninguna memoria del agente."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "La fagocitosis es inespecífica: segunda línea."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "La inflamación pertenece a la segunda línea, no a la primera."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "La neutralización por anticuerpos es de la tercera línea."
+    }
+   }
+  },
+  {
+   "tema": "c-segunda-linea-contener-al-que-entro",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere comprobar que el interferón dificulta la replicación de un virus en células vecinas. ¿Qué comparación resulta más adecuada?",
+   "alternativas": [
+    "Medir la cantidad de interferón producida por una célula infectada.",
+    "Comparar el tamaño de las células antes y después de la infección viral.",
+    "Infectar cultivos celulares tratados y no tratados con interferón, y comparar la replicación.",
+    "Registrar la temperatura del incubador durante todo el experimento."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: diseñar la comparación que pone a prueba un efecto.",
+    "concepto": "Según la sección, el interferón es una proteína que una célula infectada libera para avisar a sus vecinas, que se preparan y dificultan la replicación viral.",
+    "desarrollo": "Comparar cultivos tratados y no tratados aísla el efecto de la proteína sobre la replicación. Medir cuánto interferón se produce describe la respuesta sin evaluar su efecto, el tamaño celular no mide replicación viral y la temperatura del incubador es una condición del montaje.",
+    "saber_hacer": "Hay que comparar con y sin el factor estudiado. Dato para la PAES: el efecto se demuestra con un control sin tratamiento."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "Describe la producción sin evaluar el efecto."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "El tamaño celular no mide replicación viral."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La temperatura es una condición del montaje."
+    }
+   }
+  },
+  {
+   "tema": "d-tercera-linea-reconocer-y-recordar",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Una persona que tuvo sarampión queda protegida frente a esa enfermedad, pero puede contraer influenza al año siguiente. ¿Qué explica esa situación?",
+   "alternativas": [
+    "La memoria inmunológica se agota al cabo de un año de la infección.",
+    "El virus de la influenza destruye la memoria generada por el sarampión.",
+    "La primera línea de defensa deja de funcionar tras una infección grave.",
+    "La respuesta inmune específica y su memoria son propias de cada antígeno."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: explicar un hecho a partir de una propiedad del sistema.",
+    "concepto": "Según la sección, los anticuerpos contra el sarampión no sirven contra la influenza, y esa es la razón de que existan vacunas distintas para enfermedades distintas.",
+    "desarrollo": "La especificidad implica que cada respuesta y cada memoria valen solo para su antígeno. La memoria frente al sarampión no se agota en un año, el virus de la influenza no destruye memorias previas y la primera línea sigue funcionando después de cualquier infección.",
+    "saber_hacer": "Hay que aplicar el concepto de especificidad. Dato para la PAES: haber tenido una infección no protege frente a otra."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La memoria frente al sarampión es muy duradera."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "La influenza no destruye memorias inmunológicas previas."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La primera línea sigue funcionando tras una infección."
+    }
+   }
+  },
+  {
+   "tema": "d-tercera-linea-reconocer-y-recordar",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere comprobar que una respuesta observada en un animal es específica frente a un antígeno determinado. ¿Qué procedimiento lo demuestra mejor?",
+   "alternativas": [
+    "Exponerlo dos veces al mismo antígeno y medir cuánto tarda en responder.",
+    "Medir la cantidad total de linfocitos presentes en su sangre periférica.",
+    "Exponerlo a ese antígeno y a otro distinto, y comparar la respuesta en cada caso.",
+    "Observar si presenta fiebre e inflamación tras la primera exposición."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger el procedimiento que pone a prueba la propiedad enunciada.",
+    "concepto": "Según la sección, la respuesta específica se dirige contra un antígeno determinado, de modo que comprobarla exige mostrar que no responde igual frente a otro.",
+    "desarrollo": "Repetir el mismo antígeno pone a prueba la memoria, que es una propiedad distinta. Un recuento total de linfocitos no distingue contra qué están dirigidos, y la fiebre y la inflamación pertenecen a la segunda línea, que es inespecífica por definición.",
+    "saber_hacer": "Hay que separar con claridad la especificidad de la memoria al momento de diseñar el ensayo, porque cada propiedad exige una comparación distinta. Dato para la PAES: dos antígenos diferentes ponen a prueba la especificidad."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "atribución cruzada",
+     "texto": "Repetir el antígeno pone a prueba la memoria."
+    },
+    "B": {
+     "tipo": "sub-alcance",
+     "texto": "Un recuento no indica contra qué están dirigidos."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "Fiebre e inflamación son de la segunda línea."
+    }
+   }
+  },
+  {
+   "tema": "d-tercera-linea-reconocer-y-recordar",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Se observa que las personas con infección avanzada por VIH presentan enfermedades causadas por agentes que rara vez afectan a otras personas. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?",
+   "alternativas": [
+    "¿Cómo afecta la pérdida de linfocitos T colaboradores a la respuesta inmune completa?",
+    "¿Cuántas personas viven con VIH en el país según el último registro?",
+    "¿En qué año se describió por primera vez el virus de la inmunodeficiencia humana?",
+    "¿Qué proporción de las consultas médicas corresponde a estos pacientes?"
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que aborda el mecanismo del fenómeno.",
+    "concepto": "Según la sección, los linfocitos T colaboradores coordinan a los demás, y por eso el VIH, al destruirlos, desarma toda la respuesta específica.",
+    "desarrollo": "La pregunta correcta apunta a ese mecanismo de coordinación, que explica por qué aparecen agentes oportunistas. Un recuento de personas con VIH, la fecha de descripción del virus y la proporción de consultas son datos epidemiológicos o históricos que no explican la vulnerabilidad observada.",
+    "saber_hacer": "Hay que preguntar por el mecanismo que hay detrás de la vulnerabilidad observada y no por los datos que la rodean. Dato para la PAES: sin linfocitos T colaboradores toda la respuesta específica falla, tanto la de los linfocitos B como la de los T citotóxicos."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "Un recuento no explica la vulnerabilidad observada."
+    },
+    "C": {
+     "tipo": "anacronismo",
+     "texto": "La fecha de descripción es un dato histórico."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La proporción de consultas es un dato asistencial."
+    }
+   }
+  },
+  {
+   "tema": "6-vacunas-e-inmunidad",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un gráfico muestra la concentración de anticuerpos frente al tiempo. Tras el primer contacto con un antígeno sube poco y con lentitud; tras un segundo contacto con el mismo antígeno sube diez veces más y en pocos días. ¿Qué explica la diferencia?",
+   "alternativas": [
+    "El antígeno del segundo contacto resultó ser más potente que el primero.",
+    "El organismo conserva linfocitos de memoria del primer contacto.",
+    "El sistema inmune se acostumbró al antígeno y reaccionó con menos fuerza.",
+    "El antígeno se debilitó en el intervalo entre ambos contactos sucesivos."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: atribuir una diferencia a la única variable que cambió.",
+    "concepto": "Según la sección, en el primer contacto hay que seleccionar y multiplicar los linfocitos, mientras que en los posteriores ya existen linfocitos de memoria.",
+    "desarrollo": "El enunciado fija el antígeno como el mismo, de modo que la explicación tiene que estar en el organismo. Las alternativas segunda y cuarta contradicen ese dato, y la tercera invierte el resultado, porque la respuesta observada fue mayor y no menor.",
+    "saber_hacer": "Hay que buscar la explicación en aquello que efectivamente cambió entre las dos situaciones descritas, y descartar lo que el enunciado fija como constante. Dato para la PAES: el mismo antígeno con una respuesta muy distinta indica siempre memoria inmunológica."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El enunciado indica que el antígeno es el mismo."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La respuesta fue mayor, no menor."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El antígeno no se debilitó: es el mismo."
+    }
+   }
+  },
+  {
+   "tema": "6-vacunas-e-inmunidad",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Un folleto sostiene que una vacuna cura la enfermedad contra la que protege. ¿Cuál es la mejor evaluación de esa afirmación?",
+   "alternativas": [
+    "Es incorrecta: la vacuna prepara al organismo antes, no trata a quien ya enfermó.",
+    "Es correcta, porque la vacuna elimina al agente patógeno del organismo.",
+    "Es correcta, porque la vacuna contiene anticuerpos que neutralizan el agente.",
+    "Es incorrecta, porque la vacuna no genera ninguna protección duradera."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: corregir una afirmación identificando exactamente en qué se equivoca.",
+    "concepto": "Según la sección, la vacuna no mata al agente ni cura a quien ya está enfermo: prepara al organismo antes, y por eso se administra a personas sanas.",
+    "desarrollo": "Es una medida de prevención primaria. La tercera alternativa describe la inmunidad pasiva, que sí aporta anticuerpos ya formados, y la última corrige en exceso, porque la vacuna sí genera una protección que puede durar años o toda la vida.",
+    "saber_hacer": "Hay que ubicar la vacuna dentro de la prevención primaria y no confundirla con un tratamiento de la enfermedad. Dato para la PAES: la vacuna actúa antes de la infección, se administra a personas sanas y no cura a quien ya enfermó."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "La vacuna no elimina agentes ya presentes."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "Aportar anticuerpos formados es inmunidad pasiva."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La protección de una vacuna puede durar años."
+    }
+   }
+  },
+  {
+   "tema": "a-respuesta-primaria-y-respuesta-secundaria",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "¿Por qué la respuesta primaria tarda varios días en alcanzar su máximo?",
+   "alternativas": [
+    "Porque el antígeno debe alcanzar todos los tejidos del cuerpo antes de actuar.",
+    "Porque hay que seleccionar y multiplicar los linfocitos que reconocen ese antígeno.",
+    "Porque los anticuerpos requieren varios días para llegar hasta la sangre.",
+    "Porque la primera línea de defensa bloquea al antígeno durante ese tiempo."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: explicar un dato temporal con el mecanismo correspondiente.",
+    "concepto": "Según la sección, en el primer contacto se parte desde cero y hay que seleccionar y multiplicar los linfocitos adecuados, lo que toma días.",
+    "desarrollo": "En la respuesta secundaria ese trabajo ya está hecho y por eso resulta mucho más rápida. Las otras alternativas inventan mecanismos que el texto no describe: ni el antígeno necesita recorrer todo el cuerpo, ni los anticuerpos tardan días en circular una vez producidos, ni la primera línea retiene al antígeno durante ese lapso.",
+    "saber_hacer": "Hay que explicar el retraso por la selección clonal. Dato para la PAES: la demora está en preparar los linfocitos, no en distribuirlos."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "El antígeno no necesita recorrer todos los tejidos."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Los anticuerpos circulan rápido una vez producidos."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "La primera línea no retiene al antígeno durante días."
+    }
+   }
+  },
+  {
+   "tema": "a-respuesta-primaria-y-respuesta-secundaria",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere comprobar en un modelo animal que existe memoria inmunológica frente a un antígeno. ¿Qué diseño lo demuestra mejor?",
+   "alternativas": [
+    "Administrar el antígeno, esperar, administrarlo otra vez y comparar ambas respuestas.",
+    "Administrar el antígeno una sola vez y medir la respuesta durante un mes.",
+    "Administrar dos antígenos distintos y comparar la respuesta frente a cada uno.",
+    "Medir la cantidad de linfocitos totales antes de administrar el antígeno."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: diseñar el ensayo que pone a prueba la propiedad enunciada.",
+    "concepto": "Según la sección, la memoria se manifiesta como una respuesta mucho más rápida e intensa en el segundo contacto con el mismo antígeno.",
+    "desarrollo": "Comparar la primera y la segunda exposición al mismo antígeno es la única manera de mostrarla. Una sola administración no permite comparación, dos antígenos distintos ponen a prueba la especificidad y no la memoria, y un recuento previo de linfocitos no evalúa ninguna respuesta.",
+    "saber_hacer": "Hay que repetir el mismo antígeno cuando lo que se quiere demostrar es la memoria inmunológica del organismo. Dato para la PAES: la memoria se pone a prueba repitiendo el antígeno, y la especificidad, cambiándolo por otro distinto."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "condición incompleta",
+     "texto": "Una sola exposición no permite comparar respuestas."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "Dos antígenos distintos ponen a prueba la especificidad."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "Un recuento previo no evalúa ninguna respuesta."
+    }
+   }
+  },
+  {
+   "tema": "a-respuesta-primaria-y-respuesta-secundaria",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Se observa que algunas vacunas requieren una segunda dosis de refuerzo varias semanas después de la primera. ¿Cuál es la pregunta que mejor orienta una investigación sobre esa práctica?",
+   "alternativas": [
+    "¿Cuántas dosis de vacuna se distribuyeron en el país durante el año pasado?",
+    "¿Qué precio tiene cada dosis de la vacuna en el sistema público de salud?",
+    "¿Cómo cambia el nivel de anticuerpos tras la segunda dosis respecto de la primera?",
+    "¿En qué laboratorio se fabricó el lote de vacunas que se está administrando?"
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que explica una práctica a partir del mecanismo.",
+    "concepto": "Según la sección, la respuesta secundaria produce mucho más anticuerpo y durante más tiempo que la primaria, porque existen linfocitos de memoria.",
+    "desarrollo": "La pregunta correcta compara ambos niveles y explica por qué el refuerzo es útil. El número de dosis distribuidas, el precio y el laboratorio fabricante son datos logísticos o económicos que no abordan el fundamento inmunológico de la práctica.",
+    "saber_hacer": "Hay que preguntar por el efecto inmunológico del refuerzo y no por los datos logísticos que rodean la campaña. Dato para la PAES: la segunda dosis aprovecha los linfocitos de memoria que dejó la primera y por eso eleva mucho más los anticuerpos."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Un dato logístico no explica el fundamento del refuerzo."
+    },
+    "B": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "El precio es un dato económico."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "El laboratorio fabricante no explica la práctica."
+    }
+   }
+  },
+  {
+   "tema": "b-que-es-una-vacuna",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "¿Qué contiene una vacuna y qué consigue con ello?",
+   "alternativas": [
+    "Un antígeno sin capacidad de enfermar, que provoca memoria inmunológica.",
+    "Anticuerpos ya formados, que neutralizan al agente de inmediato.",
+    "Un antibiótico de acción prolongada, que impide la multiplicación bacteriana.",
+    "Linfocitos de memoria obtenidos de una persona que ya estuvo enferma."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: describir un procedimiento y su efecto de manera correcta.",
+    "concepto": "Según la sección, una vacuna introduce el antígeno sin la enfermedad, mediante un agente muerto, uno atenuado, un fragmento o la instrucción para fabricarlo, y deja linfocitos de memoria.",
+    "desarrollo": "Aportar anticuerpos ya formados corresponde a la inmunidad pasiva, no a una vacuna. Una vacuna tampoco contiene antibióticos, que actúan sobre bacterias ya presentes, ni células de otra persona, porque la respuesta debe generarla el propio organismo.",
+    "saber_hacer": "Hay que distinguir con claridad la vacuna del suero de anticuerpos y del antibiótico, porque las tres se confunden con frecuencia. Dato para la PAES: la vacuna entrega un antígeno para que el organismo responda, no anticuerpos ya formados."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "Aportar anticuerpos formados es inmunidad pasiva."
+    },
+    "C": {
+     "tipo": "atribución cruzada",
+     "texto": "El antibiótico actúa sobre bacterias ya presentes."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "La respuesta debe generarla el propio organismo."
+    }
+   }
+  },
+  {
+   "tema": "b-que-es-una-vacuna",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Una persona se vacuna y contrae la enfermedad tres días después. Concluye que la vacuna no funciona. ¿Cuál es la mejor evaluación de esa conclusión?",
+   "alternativas": [
+    "Es correcta, porque una vacuna eficaz protege desde el mismo día en que se aplica.",
+    "Es correcta, porque la vacuna probablemente contenía el agente activo.",
+    "Es incorrecta, porque ninguna vacuna puede fallar en ninguna circunstancia.",
+    "No lo es: la respuesta primaria tarda días o semanas en generar protección."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: examinar si un resultado permite la conclusión que se extrae de él.",
+    "concepto": "Según la sección, la vacuna provoca una respuesta primaria, que es lenta, y la protección aparece cuando ya existen linfocitos de memoria.",
+    "desarrollo": "Tres días no bastan para completar ese proceso, de modo que la infección pudo ocurrir antes de que la protección se estableciera, o incluso antes de vacunarse. La tercera alternativa sugiere un hecho no respaldado por el enunciado, y la última convierte una corrección en una afirmación absoluta insostenible.",
+    "saber_hacer": "Hay que considerar el tiempo que la protección necesita. Dato para la PAES: la vacuna no protege desde el primer día."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La protección requiere días o semanas."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "El enunciado no aporta ninguna evidencia de eso."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "Ninguna intervención tiene eficacia absoluta."
+    }
+   }
+  },
+  {
+   "tema": "b-que-es-una-vacuna",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere evaluar si una nueva vacuna reduce la incidencia de una enfermedad. Se dispone de 4000 voluntarios sanos de una misma ciudad. ¿Qué diseño responde mejor la pregunta?",
+   "alternativas": [
+    "Vacunar a los 4000 voluntarios y registrar cuántos enferman durante ese año.",
+    "Vacunar a los 2000 de mayor edad y dejar sin vacunar a los 2000 más jóvenes.",
+    "Asignar al azar 2000 a la vacuna y 2000 a un placebo, y comparar la incidencia durante un año.",
+    "Vacunar a 2000 y comparar su incidencia con la de la ciudad el año anterior."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: reconocer el diseño que permite atribuir un efecto.",
+    "concepto": "Según la sección, la vacunación es una medida preventiva cuya eficacia se mide comparando la aparición de casos entre grupos.",
+    "desarrollo": "La asignación al azar equilibra las características de ambos grupos y el placebo evita que expectativas y registro sesguen el resultado. Vacunar a todos elimina la comparación, separar por edad introduce una variable confundida y comparar con otro año cambia las condiciones de circulación del agente.",
+    "saber_hacer": "Hay que exigir dos grupos comparables, formados por asignación al azar, y un control que reciba placebo. Dato para la PAES: separar los grupos por edad crea una variable confundida, porque la edad es por sí misma un factor de riesgo."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "condición incompleta",
+     "texto": "Sin grupo de comparación no se puede atribuir el efecto."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "La edad es un factor de riesgo: variable confundida."
+    },
+    "D": {
+     "tipo": "condición incompleta",
+     "texto": "Otro año tiene condiciones de circulación distintas."
+    }
+   }
+  },
+  {
+   "tema": "c-activa-y-pasiva",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un recién nacido recibe anticuerpos de su madre por la placenta y la leche materna. ¿Qué tipo de inmunidad es y qué característica tiene?",
+   "alternativas": [
+    "Pasiva: protege de inmediato, pero no deja memoria.",
+    "Activa: protege de inmediato y deja memoria duradera.",
+    "Pasiva: tarda semanas en actuar y deja memoria duradera.",
+    "Activa: tarda semanas en actuar y no deja ninguna memoria."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: clasificar un caso y derivar sus consecuencias.",
+    "concepto": "Según la sección, la inmunidad pasiva se adquiere por la placenta, la leche materna o un suero, actúa de inmediato y no deja memoria.",
+    "desarrollo": "El organismo del recién nacido no montó la respuesta, de modo que no quedan linfocitos de memoria y la protección se agota en semanas o meses. Por eso el calendario de vacunación comienza temprano: hay que generar inmunidad activa antes de que la pasiva desaparezca.",
+    "saber_hacer": "Hay que emparejar cada tipo de inmunidad con sus dos características distintivas, la rapidez y la memoria, porque las alternativas suelen mezclarlas. Dato para la PAES: la inmunidad pasiva es inmediata y no deja memoria alguna."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "atribución cruzada",
+     "texto": "La inmunidad activa la genera el propio organismo."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La pasiva actúa de inmediato y no deja memoria."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Mezcla características de ambos tipos."
+    }
+   }
+  },
+  {
+   "tema": "c-activa-y-pasiva",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Tras la mordedura de un animal posiblemente rabioso se administra a la vez un suero con anticuerpos y la vacuna. ¿Cuál es el fundamento de esa combinación?",
+   "alternativas": [
+    "El suero y la vacuna contienen el mismo principio activo y se refuerzan.",
+    "El suero protege de inmediato mientras la vacuna genera memoria propia.",
+    "La vacuna protege de inmediato y el suero prolonga esa protección.",
+    "El suero neutraliza los efectos adversos que la vacuna podría producir."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: explicar el fundamento de una decisión clínica combinada.",
+    "concepto": "Según la sección, la inmunidad pasiva actúa de inmediato y no deja memoria, mientras que la activa tarda días o semanas y sí la deja.",
+    "desarrollo": "La pasiva cubre exactamente el tiempo que la activa necesita para funcionar, y por eso ambas se administran juntas en una situación urgente. La tercera alternativa invierte los papeles, la segunda supone una identidad que no existe y la cuarta atribuye al suero una función que no cumple.",
+    "saber_hacer": "Hay que entender la combinación como una manera de cubrir dos necesidades distintas: la protección inmediata y la protección duradera. Dato para la PAES: el suero cubre exactamente el intervalo de días o semanas que la vacuna necesita para funcionar."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Uno aporta anticuerpos y la otra, antígeno."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "Invierte los papeles del suero y de la vacuna."
+    },
+    "D": {
+     "tipo": "atribución cruzada",
+     "texto": "El suero no neutraliza efectos adversos de la vacuna."
+    }
+   }
+  },
+  {
+   "tema": "c-activa-y-pasiva",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Comunicar",
+   "enunciado": "Para un cuadro comparativo hay que indicar una diferencia entre inmunidad activa y pasiva. ¿Cuál de las siguientes filas es correcta?",
+   "alternativas": [
+    "La activa actúa de inmediato; la pasiva tarda semanas.",
+    "La activa se obtiene por suero; la pasiva por vacuna.",
+    "La activa deja memoria; la pasiva no.",
+    "La activa dura semanas; la pasiva dura años."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de comunicar: escoger la fila correcta de un cuadro comparativo.",
+    "concepto": "Según la sección, la inmunidad activa la produce el propio organismo, tarda días o semanas, deja memoria y dura años; la pasiva se recibe ya formada, actúa de inmediato, no deja memoria y dura semanas o meses.",
+    "desarrollo": "La primera fila recoge la diferencia más importante para la prueba. Las otras tres invierten sistemáticamente los atributos: cambian cuál actúa de inmediato, cuál se obtiene por suero y cuál dura más tiempo.",
+    "saber_hacer": "Hay que verificar cada fila del cuadro antes de aceptarla. Dato para la PAES: la memoria es el rasgo que mejor separa activa de pasiva."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La pasiva es la que actúa de inmediato."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El suero da inmunidad pasiva y la vacuna, activa."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La activa dura años y la pasiva, semanas."
+    }
+   }
+  },
+  {
+   "tema": "d-inmunidad-de-rebano",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere estimar si una comuna alcanzó la cobertura necesaria para interrumpir la transmisión de una enfermedad muy contagiosa. ¿Qué dato resulta indispensable?",
+   "alternativas": [
+    "La proporción de la población que es inmune y el umbral que exige esa enfermedad.",
+    "El número total de dosis de vacuna que la comuna recibió este año.",
+    "La cantidad de centros de salud disponibles en el territorio comunal.",
+    "El promedio de edad de las personas que acudieron a vacunarse."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: identificar los datos indispensables para una estimación.",
+    "concepto": "Según la sección, el umbral de inmunidad de rebaño depende de lo contagiosa que sea la enfermedad, y para el sarampión se requieren coberturas por encima del 95 %.",
+    "desarrollo": "Se necesitan, por lo tanto, dos datos: qué proporción de la población es inmune y cuál es el umbral que corresponde a esa enfermedad. El número de dosis recibidas, los centros de salud y la edad promedio describen recursos o características de la población sin permitir la comparación con el umbral.",
+    "saber_hacer": "Hay que comparar cobertura alcanzada con umbral requerido. Dato para la PAES: el umbral cambia con cada enfermedad."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "condición incompleta",
+     "texto": "Las dosis recibidas no indican la cobertura alcanzada."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Los centros de salud describen recursos disponibles."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La edad promedio no permite comparar con el umbral."
+    }
+   }
+  },
+  {
+   "tema": "d-inmunidad-de-rebano",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Se sostiene que vacunarse es una decisión puramente individual, sin efectos sobre terceros. ¿Cuál es la mejor evaluación de esa afirmación?",
+   "alternativas": [
+    "Es correcta, porque la vacuna solo protege a la persona que la recibe.",
+    "Es correcta, porque la transmisión depende únicamente de la higiene personal.",
+    "Es incorrecta, porque la vacunación transfiere inmunidad a los convivientes.",
+    "No lo es: quien se vacuna deja de ser un eslabón en la cadena de transmisión."
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: reconocer el efecto de una decisión individual sobre una población.",
+    "concepto": "Según la sección, la inmunidad de rebaño protege a terceros: quien se vacuna reduce su propio riesgo y además deja de ser un eslabón en la cadena.",
+    "desarrollo": "Ese efecto indirecto protege a recién nacidos y a personas con inmunidad comprometida que no pueden vacunarse. La última alternativa corrige por un camino equivocado, porque no hay transferencia de inmunidad entre personas: el efecto es epidemiológico y no biológico individual.",
+    "saber_hacer": "Hay que reconocer que una decisión individual puede tener efectos sobre terceros a través de la cadena de transmisión. Dato para la PAES: vacunarse reduce el riesgo propio y además corta la transmisión hacia quienes no pueden vacunarse."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sub-alcance",
+     "texto": "Omite el efecto de corte de la transmisión."
+    },
+    "B": {
+     "tipo": "sobre-alcance",
+     "texto": "La transmisión depende de muchos factores además de la higiene."
+    },
+    "C": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "No hay transferencia de inmunidad entre personas."
+    }
+   }
+  },
+  {
+   "tema": "d-inmunidad-de-rebano",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "En una comuna la cobertura de vacunación contra el sarampión baja del 96 % al 88 % y reaparecen casos tras años sin ellos. ¿Cómo se interpreta ese hecho?",
+   "alternativas": [
+    "El virus del sarampión mutó y la vacuna dejó de ser eficaz.",
+    "Las personas vacunadas perdieron toda su inmunidad de manera simultánea.",
+    "La cobertura cayó por debajo del umbral y la transmisión volvió a sostenerse.",
+    "La caída de ocho puntos no puede tener ningún efecto epidemiológico."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: interpretar un cambio epidemiológico con el concepto adecuado.",
+    "concepto": "Según la sección, el sarampión es muy transmisible y exige coberturas por encima del 95 %, de modo que una caída pequeña puede reactivar una enfermedad que parecía controlada.",
+    "desarrollo": "Al bajar al 88 % hay suficientes susceptibles para sostener la transmisión. Suponer una mutación del virus o una pérdida simultánea de inmunidad introduce hechos que el enunciado no respalda, y negar todo efecto a una caída de ocho puntos ignora lo estrecho que es el margen en esta enfermedad.",
+    "saber_hacer": "Hay que comparar la cobertura con el umbral de la enfermedad. Dato para la PAES: en sarampión el umbral supera el 95 %."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "sobre-alcance",
+     "texto": "El enunciado no aporta evidencia de una mutación."
+    },
+    "B": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La inmunidad no se pierde de forma simultánea."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "El margen del sarampión es muy estrecho."
+    }
+   }
+  },
+  {
+   "tema": "7-antibioticos-y-resistencia",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "Un antibiótico actúa sobre la pared celular, los ribosomas bacterianos o enzimas propias de las bacterias. ¿Qué consecuencia tiene esa selectividad?",
+   "alternativas": [
+    "Permite que el fármaco actúe también sobre los virus y los hongos.",
+    "Obliga a administrar el fármaco siempre por vía intravenosa directa.",
+    "Permite atacar a las bacterias sin destruir las células del paciente.",
+    "Impide que las bacterias desarrollen resistencia frente a ese fármaco."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: deducir la consecuencia de una propiedad descrita.",
+    "concepto": "Según la sección, el antibiótico actúa sobre estructuras que las bacterias tienen y nuestras células no, y esa diferencia permite atacarlas sin destruir al paciente.",
+    "desarrollo": "La misma selectividad explica que no sirva contra virus, hongos ni protozoos, que carecen de esas estructuras o tienen otras muy distintas, de modo que la segunda alternativa invierte la conclusión. La vía de administración depende de cada fármaco, y la selectividad no impide en absoluto la aparición de resistencia.",
+    "saber_hacer": "Hay que deducir el alcance del fármaco desde su diana. Dato para la PAES: sin diana propia, no hay efecto del antibiótico."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La selectividad explica justamente que no sirva contra virus ni hongos."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "La vía de administración depende de cada fármaco."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La selectividad no impide la aparición de resistencia."
+    }
+   }
+  },
+  {
+   "tema": "7-antibioticos-y-resistencia",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "En un consultorio se indica un antibiótico a todos los pacientes con dolor de garganta, sin examen previo, con el argumento de que «así no se corre riesgo». ¿Cuál es la principal objeción a esa práctica?",
+   "alternativas": [
+    "La mayoría de esos cuadros no es bacteriana, y el uso innecesario selecciona resistencia.",
+    "El antibiótico indicado debería administrarse en una dosis más alta desde el primer día.",
+    "Ninguna: indicar el fármaco a todos asegura que ningún caso bacteriano quede sin tratar.",
+    "La objeción es que los antibióticos empeoran siempre la evolución de los cuadros de garganta."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: juzgar una práctica considerando a la vez su beneficio y su costo.",
+    "concepto": "Según la sección, un virus no tiene pared, ni ribosomas propios, ni metabolismo, de modo que el antibiótico no acorta un cuadro viral y sí favorece la resistencia.",
+    "desarrollo": "La mayor parte de los dolores de garganta tiene origen viral, así que indicar el fármaco a todos significa tratar innecesariamente a casi todos y aumentar la presión de selección sobre las bacterias. La segunda alternativa discute la dosis de un fármaco que en la mayoría de los casos no corresponde, la tercera ignora por completo el costo y la última exagera el efecto sobre la evolución del cuadro.",
+    "saber_hacer": "Hay que pesar beneficio y costo antes de aceptar una práctica presentada como prudente. Dato para la PAES: el uso innecesario de antibióticos tiene un costo colectivo."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "condición incompleta",
+     "texto": "Discute la dosis de un fármaco que en la mayoría de los casos no corresponde."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "Ignora el costo de tratar innecesariamente a casi todos los pacientes."
+    },
+    "D": {
+     "tipo": "sobre-alcance",
+     "texto": "El daño es la selección de resistencia, no un empeoramiento del cuadro."
+    }
+   }
+  },
+  {
+   "tema": "a-que-hace-un-antibiotico-y-que-no",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Procesar y analizar la evidencia",
+   "enunciado": "¿Por qué un antibiótico no sirve contra una infección viral?",
+   "alternativas": [
+    "Porque el virus se multiplica demasiado rápido para el fármaco.",
+    "Porque el virus carece de las estructuras bacterianas que el fármaco ataca.",
+    "Porque el virus se oculta en el interior del núcleo de la célula.",
+    "Porque el fármaco se degrada antes de alcanzar a las partículas virales."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de procesar y analizar la evidencia: justificar una afirmación con el mecanismo correcto.",
+    "concepto": "Según la sección, el antibiótico actúa sobre la pared celular, los ribosomas bacterianos y algunas enzimas propias de las bacterias, y un virus no tiene ninguna de esas estructuras.",
+    "desarrollo": "No hay nada sobre lo cual el fármaco pueda actuar, y por eso tomarlo no acorta la enfermedad. Las otras alternativas proponen explicaciones de velocidad, de localización o de degradación que no corresponden y que además sugerirían, equivocadamente, que con ajustes el fármaco podría funcionar.",
+    "saber_hacer": "Hay que fundar la ineficacia en la ausencia de diana. Dato para la PAES: sin pared ni ribosomas propios, no hay blanco."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "La velocidad de multiplicación no es la razón."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "La localización no explicaría la falta total de efecto."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "El fármaco no se degrada antes de actuar."
+    }
+   }
+  },
+  {
+   "tema": "a-que-hace-un-antibiotico-y-que-no",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Se observa que los pacientes que reciben antibióticos para cuadros virales presentan más molestias digestivas que quienes no los reciben. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?",
+   "alternativas": [
+    "¿Cuántos pacientes con cuadros virales consultaron durante el último mes?",
+    "¿Qué marca de antibiótico se vende más en las farmacias de la zona?",
+    "¿Cuánto cuesta en promedio una consulta médica por un cuadro viral?",
+    "¿Cómo afecta el antibiótico a la microbiota intestinal de esos pacientes?"
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que apunta al mecanismo del efecto observado.",
+    "concepto": "Según la sección, tomar antibióticos sin necesidad no aporta beneficio y sí produce daño, porque altera la microbiota y favorece la resistencia.",
+    "desarrollo": "La pregunta correcta vincula el fármaco con el efecto sobre la microbiota, que es el mecanismo propuesto para las molestias digestivas. Un recuento de consultas, la marca más vendida y el costo de una consulta son datos que no abordan el fenómeno descrito.",
+    "saber_hacer": "Hay que dirigir la pregunta al mecanismo que produce el daño observado y no a los datos administrativos que lo rodean. Dato para la PAES: el antibiótico altera la microbiota intestinal incluso cuando no existe ninguna bacteria patógena a la que combatir."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Un recuento de consultas no explica las molestias."
+    },
+    "B": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La marca más vendida es un dato comercial."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "El costo de la consulta es un dato económico."
+    }
+   }
+  },
+  {
+   "tema": "a-que-hace-un-antibiotico-y-que-no",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere comprobar si un cuadro respiratorio es de origen bacteriano antes de indicar un antibiótico. ¿Qué procedimiento resulta más adecuado?",
+   "alternativas": [
+    "Indicar el antibiótico y observar si el paciente mejora en los días siguientes.",
+    "Medir la temperatura corporal del paciente durante tres días seguidos.",
+    "Tomar una muestra y cultivarla en un medio que permita crecer a las bacterias.",
+    "Preguntar al paciente cuántas veces enfermó de lo mismo el año anterior."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger el procedimiento que responde la pregunta antes de decidir.",
+    "concepto": "Según la sección, las bacterias se dividen por sí solas en un medio nutritivo, mientras que los virus necesitan células vivas para multiplicarse.",
+    "desarrollo": "Un cultivo permite establecer si hay una bacteria antes de indicar el tratamiento. Indicar el antibiótico y esperar convierte el tratamiento en una prueba diagnóstica poco fiable, ya que muchos cuadros mejoran solos. La temperatura y los antecedentes aportan contexto, pero no identifican el agente.",
+    "saber_hacer": "Hay que establecer el diagnóstico antes de tratar. Dato para la PAES: tratar para ver qué pasa no es un método diagnóstico válido."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "condición incompleta",
+     "texto": "Muchos cuadros mejoran solos: la prueba no es concluyente."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "La fiebre aparece en cuadros virales y bacterianos."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Los antecedentes no identifican el agente actual."
+    }
+   }
+  },
+  {
+   "tema": "b-como-aparece-la-resistencia",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Un estudiante afirma que las bacterias «se hicieron resistentes para poder sobrevivir al antibiótico». ¿Cuál es la corrección adecuada?",
+   "alternativas": [
+    "La mutación la provoca el antibiótico en cada una de las bacterias expuestas.",
+    "La mutación es previa y azarosa; el antibiótico solo selecciona a las que ya la tenían.",
+    "La resistencia es una decisión que cada bacteria toma frente a la amenaza.",
+    "La resistencia aparece porque las bacterias intercambian información entre sí."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: corregir una explicación finalista sustituyéndola por el mecanismo correcto.",
+    "concepto": "Según la sección, en una población bacteriana enorme existe variabilidad previa, y al aplicar el antibiótico las sensibles mueren mientras las resistentes sobreviven y se multiplican.",
+    "desarrollo": "El antibiótico no crea la resistencia: la selecciona. Hablar de decisión atribuye intención a un organismo que no la tiene, y aunque las bacterias sí intercambian material genético, ese intercambio difunde una resistencia que ya existía en alguna de ellas y no explica su origen.",
+    "saber_hacer": "Hay que sustituir cualquier explicación finalista, que atribuye intención al organismo, por el mecanismo de selección natural. Dato para la PAES: la mutación es previa y azarosa, y el antibiótico se limita a filtrar la población que ya existía."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "El antibiótico no provoca la mutación."
+    },
+    "C": {
+     "tipo": "sobre-alcance",
+     "texto": "Una bacteria no toma decisiones."
+    },
+    "D": {
+     "tipo": "condición incompleta",
+     "texto": "El intercambio difunde la resistencia, no la origina."
+    }
+   }
+  },
+  {
+   "tema": "b-como-aparece-la-resistencia",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "En una placa con antibiótico crecen tres colonias de entre diez millones de bacterias sembradas. ¿Cuál es la pregunta que mejor orienta una investigación sobre esas colonias?",
+   "alternativas": [
+    "¿Cuántos milímetros mide el diámetro de cada una de esas colonias?",
+    "¿De qué color se ven las colonias sobre el medio de cultivo empleado?",
+    "¿La resistencia de esas colonias se transmite a su descendencia?",
+    "¿Cuántas horas estuvo la placa dentro del incubador del laboratorio?"
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta cuya respuesta distingue entre hipótesis rivales.",
+    "concepto": "Según la sección, la resistencia es hereditaria: la descendencia de las bacterias que sobrevivieron es también resistente, como muestra la resiembra en una placa nueva.",
+    "desarrollo": "Esa pregunta discrimina entre una resistencia heredable y una simple tolerancia pasajera. El diámetro, el color y el tiempo de incubación describen el montaje y el resultado, pero no permiten decidir si la característica se transmite.",
+    "saber_hacer": "Hay que preguntar si la característica observada se transmite a la descendencia, porque esa es la diferencia entre resistencia y tolerancia pasajera. Dato para la PAES: la resiembra en una placa nueva con el mismo antibiótico demuestra que la resistencia es hereditaria."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "El diámetro describe el crecimiento, no la herencia."
+    },
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "El color no informa sobre la transmisión del rasgo."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "El tiempo de incubación es un dato del montaje."
+    }
+   }
+  },
+  {
+   "tema": "b-como-aparece-la-resistencia",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere comprobar que la resistencia a un antibiótico se hereda. ¿Qué procedimiento lo demuestra mejor?",
+   "alternativas": [
+    "Resembrar en una placa nueva con antibiótico las colonias que sobrevivieron.",
+    "Aumentar la concentración de antibiótico en la placa original de cultivo.",
+    "Sembrar una cepa distinta en una placa con el mismo antibiótico.",
+    "Observar al microscopio la forma de las bacterias que sobrevivieron."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: diseñar el ensayo que pone a prueba la transmisión de una característica.",
+    "concepto": "Según la sección, si las colonias sobrevivientes se resiembran en una placa nueva con el mismo antibiótico, crecen todas, lo que demuestra que la resistencia es hereditaria.",
+    "desarrollo": "La descendencia conserva la característica de sus progenitoras. Subir la concentración estudia el grado de resistencia, sembrar otra cepa cambia el material de partida y observar la forma al microscopio describe las células sin evaluar la herencia del rasgo.",
+    "saber_hacer": "Hay que estudiar la descendencia de los organismos sobrevivientes cuando lo que se quiere demostrar es la herencia de un rasgo. Dato para la PAES: la resiembra de las colonias sobrevivientes en una placa nueva es la prueba decisiva."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "Estudia el grado de resistencia, no su herencia."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "Cambiar de cepa altera el material de partida."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "La forma no informa sobre la transmisión del rasgo."
+    }
+   }
+  },
+  {
+   "tema": "c-por-que-es-un-problema-de-salud-publica",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Se observa que un gen de resistencia aparece en dos especies bacterianas distintas del mismo hospital. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?",
+   "alternativas": [
+    "¿Cuántas camas tiene el hospital donde se tomaron ambas muestras?",
+    "¿Qué antigüedad tiene el edificio en el que funciona ese hospital?",
+    "¿Cuántos funcionarios trabajan en el laboratorio que analizó las muestras?",
+    "¿Por qué mecanismo puede un gen de resistencia pasar de una especie a otra?"
+   ],
+   "correcta": "D",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que aborda el mecanismo del fenómeno observado.",
+    "concepto": "Según la sección, las bacterias intercambian material genético entre sí con relativa facilidad, incluso entre especies distintas, de modo que un gen de resistencia puede difundirse rápido.",
+    "desarrollo": "La pregunta correcta apunta justamente a ese mecanismo de transferencia, que es lo que explica la coincidencia entre especies. El número de camas, la antigüedad del edificio y la dotación del laboratorio son datos administrativos que no abordan el hallazgo.",
+    "saber_hacer": "Hay que preguntar por el mecanismo que permite la difusión del gen y no por las características del lugar donde se detectó. Dato para la PAES: las bacterias intercambian material genético incluso entre especies distintas, y eso acelera la propagación de la resistencia."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "El número de camas es un dato administrativo."
+    },
+    "B": {
+     "tipo": "anacronismo",
+     "texto": "La antigüedad del edificio no explica el hallazgo."
+    },
+    "C": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La dotación del laboratorio es ajena al fenómeno."
+    }
+   }
+  },
+  {
+   "tema": "c-por-que-es-un-problema-de-salud-publica",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Evaluar",
+   "enunciado": "Se sostiene que la resistencia a los antimicrobianos es un problema que excede al sector sanitario. ¿Qué argumento sostiene mejor esa afirmación?",
+   "alternativas": [
+    "Los antibióticos tienen un precio elevado para los presupuestos públicos.",
+    "El uso de antimicrobianos en animales y en la acuicultura también selecciona bacterias resistentes.",
+    "Las bacterias resistentes solo aparecen dentro de los recintos hospitalarios.",
+    "La resistencia desaparece por completo si se suspende su uso durante un mes."
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de evaluar: seleccionar el argumento que respalda el alcance de una afirmación.",
+    "concepto": "Según la sección, el Plan Nacional chileno es intersectorial porque el uso de antimicrobianos en animales y en la acuicultura selecciona bacterias resistentes que pueden llegar a las personas.",
+    "desarrollo": "Ese hecho es lo que vuelve insuficiente una respuesta puramente sanitaria. El precio es un problema económico distinto, restringir la resistencia a los hospitales contradice la evidencia y suponer que desaparece en un mes ignora que el rasgo es hereditario y se mantiene en las poblaciones.",
+    "saber_hacer": "Hay que buscar el argumento que amplía el alcance del problema. Dato para la PAES: producción animal y acuicultura son parte del problema."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "El precio es un problema económico distinto."
+    },
+    "C": {
+     "tipo": "sub-alcance",
+     "texto": "Las bacterias resistentes circulan fuera de los hospitales."
+    },
+    "D": {
+     "tipo": "relación inversa o inexistente",
+     "texto": "La resistencia es hereditaria y se mantiene."
+    }
+   }
+  },
+  {
+   "tema": "c-por-que-es-un-problema-de-salud-publica",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere vigilar la evolución de la resistencia bacteriana en un país. ¿Qué información resulta indispensable recoger de manera sistemática?",
+   "alternativas": [
+    "La proporción de aislamientos resistentes a cada antibiótico a lo largo del tiempo.",
+    "El número total de personas hospitalizadas cada año en el país.",
+    "La cantidad de laboratorios clínicos que existen en cada región.",
+    "El presupuesto anual que el sistema de salud destina a medicamentos."
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: identificar el indicador que permite seguir un fenómeno en el tiempo.",
+    "concepto": "Según la sección, la resistencia es una propiedad de las poblaciones bacterianas que puede difundirse rápido, de modo que vigilarla exige medir qué proporción de los aislamientos ya no responde a cada fármaco.",
+    "desarrollo": "Una serie de esas proporciones a lo largo de los años muestra si el problema crece o se contiene. El número de hospitalizados, la cantidad de laboratorios y el presupuesto describen el sistema de salud, no el comportamiento de las bacterias.",
+    "saber_hacer": "Hay que medir la proporción de resistentes a lo largo del tiempo. Dato para la PAES: vigilar exige una serie, no un dato aislado."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "variable equivocada",
+     "texto": "Describe la actividad hospitalaria, no la resistencia."
+    },
+    "C": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Es un dato de infraestructura del sistema."
+    },
+    "D": {
+     "tipo": "variable equivocada",
+     "texto": "El presupuesto no mide el comportamiento bacteriano."
+    }
+   }
+  },
+  {
+   "tema": "d-que-reduce-el-problema",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Un centro de salud quiere reducir la aparición de resistencia entre sus pacientes. ¿Cuál es la pregunta que mejor orienta esa tarea?",
+   "alternativas": [
+    "¿Qué proporción de las prescripciones de antibiótico corresponde a cuadros virales?",
+    "¿Cuántas recetas de antibiótico se emitieron en total el año pasado?",
+    "¿Qué día de la semana se atiende a más pacientes en el centro?",
+    "¿Cuántos médicos trabajan actualmente en el centro de salud?"
+   ],
+   "correcta": "A",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que orienta una intervención concreta.",
+    "concepto": "Según la sección, no usar antibióticos sin indicación médica, y menos aún para cuadros virales, es la primera medida para reducir la presión de selección.",
+    "desarrollo": "Conocer qué proporción de las prescripciones es innecesaria identifica dónde intervenir. El total de recetas no distingue las apropiadas de las que no lo son, y el día de mayor afluencia y la dotación de médicos son datos organizativos que no orientan la medida.",
+    "saber_hacer": "Hay que medir la proporción de uso inadecuado. Dato para la PAES: el total de recetas no distingue las necesarias de las que no lo son."
+   },
+   "distractores": {
+    "B": {
+     "tipo": "condición incompleta",
+     "texto": "El total no distingue prescripciones apropiadas de innecesarias."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "La afluencia por día es un dato organizativo."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "La dotación de médicos no orienta la medida."
+    }
+   }
+  },
+  {
+   "tema": "d-que-reduce-el-problema",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Planificar y conducir una investigación",
+   "enunciado": "Se quiere evaluar si una campaña de uso responsable de antibióticos dio resultado en una comuna. ¿Qué medición permite la comparación más directa?",
+   "alternativas": [
+    "El número de afiches y folletos distribuidos durante la campaña.",
+    "La cantidad de farmacias que participaron en la actividad comunal.",
+    "El consumo de antibióticos por habitante antes y después de la campaña.",
+    "La proporción de personas que recuerdan haber visto la campaña."
+   ],
+   "correcta": "C",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de planificar y conducir una investigación: escoger el indicador que mide el resultado buscado.",
+    "concepto": "Según la sección, reducir el uso innecesario de antibióticos disminuye la presión de selección, de modo que el resultado de una campaña se mide en consumo.",
+    "desarrollo": "Comparar el consumo por habitante antes y después responde directamente a la pregunta. Los afiches distribuidos y las farmacias participantes miden el esfuerzo invertido, y el recuerdo de la campaña mide alcance comunicacional: los tres pueden ser altos sin que el consumo baje.",
+    "saber_hacer": "Hay que medir el resultado y no el esfuerzo. Dato para la PAES: el consumo por habitante es el indicador de la conducta."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "Mide el esfuerzo invertido, no el resultado."
+    },
+    "B": {
+     "tipo": "sub-alcance",
+     "texto": "Mide participación, no cambio de conducta."
+    },
+    "D": {
+     "tipo": "sub-alcance",
+     "texto": "Mide alcance comunicacional, no consumo."
+    }
+   }
+  },
+  {
+   "tema": "d-que-reduce-el-problema",
+   "eje": "Procesos y funciones biológicas",
+   "habilidad": "Observar y plantear preguntas",
+   "enunciado": "Se observa que las personas que interrumpen el tratamiento antibiótico apenas desaparecen los síntomas presentan más recaídas. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?",
+   "alternativas": [
+    "¿Cuántos días dura en promedio un tratamiento antibiótico completo en adultos?",
+    "¿Qué ocurre con las bacterias menos sensibles si el tratamiento se interrumpe?",
+    "¿Qué sabor tienen los antibióticos que se administran por vía oral a los niños?",
+    "¿Cuántas personas abandonan el tratamiento en el país cada año?"
+   ],
+   "correcta": "B",
+   "comentario": {
+    "habilidad_tarea": "Esta pregunta evalúa la habilidad de observar y plantear preguntas: formular la pregunta que aborda el mecanismo detrás del fenómeno.",
+    "concepto": "Según la sección, completar el tratamiento importa porque interrumpirlo antes de tiempo deja sobrevivientes que reinician la población.",
+    "desarrollo": "La pregunta correcta apunta a lo que ocurre con esas bacterias menos sensibles, que es el mecanismo de la recaída. La duración media de un tratamiento, el sabor del fármaco y el número de abandonos son datos descriptivos que no explican por qué reaparece la infección.",
+    "saber_hacer": "Hay que preguntar por lo que queda vivo en la población bacteriana cuando el tratamiento se interrumpe antes de tiempo. Dato para la PAES: interrumpir deja sobrevivientes menos sensibles que reinician la población y provocan la recaída."
+   },
+   "distractores": {
+    "A": {
+     "tipo": "variable equivocada",
+     "texto": "La duración media no explica la recaída."
+    },
+    "C": {
+     "tipo": "variable equivocada",
+     "texto": "El sabor es una característica del fármaco."
+    },
+    "D": {
+     "tipo": "verdadero pero irrelevante",
+     "texto": "Un recuento de abandonos no explica el mecanismo."
+    }
+   }
+  }
+ ]
+}

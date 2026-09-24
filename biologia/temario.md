@@ -87,13 +87,13 @@ Otros documentos oficiales en `biologia/demre/`, para calibrar las preguntas:
 | Capítulo | Relación con el temario 2027 | Qué se hace |
 |---|---|---|
 | 1 Método científico | Transversal: sostiene las 5 habilidades evaluadas | Capítulo completo y con énfasis en el análisis de datos |
-| 2 Niveles de organización y teoría celular | Base de apoyo para el Área 1; no aparece como contenido explícito | Capítulo breve, enfocado en lo que sirve para el Área 1 |
-| 3 Química de la vida | **No está en el temario de Biología.** Sirve de apoyo para membrana, ADN y fotosíntesis | Versión corta de apoyo, marcada como tal; baja prioridad |
+| 2 Niveles de organización y teoría celular | Base de apoyo para el Área 1; no aparece como contenido explícito | **Completo.** Niveles, propiedades emergentes, teoría celular, diversidad celular y características de los seres vivos |
+| 3 Química de la vida | **No está en el temario de Biología.** Sirve de apoyo para membrana, ADN y fotosíntesis | **Completo** y marcado como apoyo: bioelementos, agua, las cuatro familias orgánicas, enzimas y vitaminas |
 | 4 Célula procarionte y eucarionte | **Núcleo del Área 1** (1.1 y 1.2) | Prioridad alta. Agregar los 4 tipos celulares (enterocito, fibra muscular, neurona, célula pancreática) |
 | 5 Sistema endocrino y sexualidad | La sexualidad y la reproducción son **Área 2** (2.2–2.6). El sistema endocrino ya no aparece como contenido propio | Reorientar: hormonas solo como apoyo de los ciclos; agregar anticoncepción, ITS y aspectos afectivos y sociales |
 | 6 ADN y reproducción celular | **Área 3** (3.1–3.2) | Prioridad alta |
 | 7 Manipulación genética | **Área 3** (3.3) | Ampliar: la teoría anterior era escasa. Agregar aplicaciones industriales (alimentos, detergentes, vestuario, fármacos) |
-| 8 Microorganismos y barreras defensivas | **No está en el temario 2027**, salvo las ITS (2.5) | Apoyo breve; las ITS se desarrollan en el capítulo 5 |
+| 8 Microorganismos y barreras defensivas | **No está en el temario 2027**, salvo las ITS (2.5) | **Completo** y marcado como apoyo: microorganismos, transmisión, barreras defensivas, vacunas y resistencia. Las ITS se desarrollan en el capítulo 5 |
 | 9 Evolución y biodiversidad | **Área 3** (3.4–3.6) | Prioridad alta |
 | 10 Materia y energía en el ecosistema | **Área 4** (4.1): fotosíntesis y respiración. Las tramas y pirámides tróficas no aparecen explícitamente | Centrar en la fotosíntesis y la respiración celular; lo trófico queda como contexto |
 | 11 Sistema nervioso | **Área 2** (2.1), **nuevo** | Capítulo nuevo completo |
