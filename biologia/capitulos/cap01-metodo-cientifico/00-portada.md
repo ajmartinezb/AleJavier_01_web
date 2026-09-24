@@ -21,5 +21,9 @@
 :::
 
 ::: nota
-**Capítulo en construcción.** Listo: teoría completa (secciones 1 a 8). Falta: ejemplos PAES resueltos, evaluación formativa e ítems de práctica.
+**Cómo usar este capítulo**
+
+- Lee la **teoría** (secciones 1 a 8). Cada título muestra los números de sus **preguntas de práctica (IA)**; haz clic para practicar ese tema.
+- Revisa los **Ejemplos PAES resueltos**, que muestran paso a paso cómo razonar una pregunta.
+- Mide tu avance con la **Evaluación formativa** (20 preguntas) y con las **Preguntas de práctica** del final. Cada una trae su respuesta comentada al estilo DEMRE y un botón «↩ Ver tema» para volver a la materia.
 :::
