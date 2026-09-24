@@ -60,6 +60,7 @@ Para intercalar una sección nueva entre dos existentes se usa un número libre 
 
 - **Ítems IA (`preguntas.json`)**: metodología DEMRE (contexto real, una habilidad focal, 4 alternativas paralelas, distractores con su error nombrado y respuesta comentada de 120–220 palabras). Se validan con
   `python herramientas/construir.py biologia --revisar` hasta que `problemas` quede vacío.
+- **Sin pistas por el largo:** la clave no debe delatarse por su largo. La posición de largo de la clave (la más larga, la segunda, la tercera o la más corta) debe repartirse de forma pareja, entre 22 % y 30 % de los ítems cada una. Se revisa con un script además de `--revisar`.
 - **Habilidades de Ciencias** y su proporción: Observar y plantear preguntas (10–20 %), Planificar y conducir una investigación (20–40 %), Procesar y analizar la evidencia (30–50 %), Evaluar (20–30 %) y Comunicar.
 - Si están disponibles las skills `paes-estudio-demre` o `paes-generador-preguntas`, su metodología manda.
 

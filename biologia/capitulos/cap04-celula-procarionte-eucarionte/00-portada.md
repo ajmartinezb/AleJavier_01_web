@@ -19,3 +19,11 @@
 ::: tip
 **Cómo pregunta esto la PAES.** El temario no pide memorizar listas de organelos. Pide **analizar investigaciones**: una droga que bloquea los microtúbulos, un marcador radiactivo que recorre el retículo y el Golgi, una célula que acumula H<sub>2</sub>O<sub>2</sub>. Para responder hay que saber qué hace cada organelo **y** razonar como en el capítulo 1: variables, controles, predicciones y conclusiones.
 :::
+
+::: nota
+**Cómo usar este capítulo**
+
+- Lee la **teoría** (secciones 1 a 10). Cada título muestra los números de sus **preguntas de práctica (IA)**.
+- Revisa los **Ejemplos PAES resueltos**, que muestran cómo razonar con experimentos sobre organelos.
+- Mide tu avance con la **Evaluación formativa** (20 preguntas) y las **Preguntas de práctica** (124), cada una con su respuesta comentada al estilo DEMRE.
+:::

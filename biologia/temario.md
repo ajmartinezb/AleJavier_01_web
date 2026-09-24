@@ -34,8 +34,8 @@ Otros documentos oficiales en `biologia/demre/`, para calibrar las preguntas:
 
 | Código | Conocimiento | Capítulo del libro | Estado |
 |---|---|---|---|
-| 1.1 | Estructura y función de organelos y estructuras celulares en procariontes y eucariontes animales y vegetales: cápsula, pared celular, membrana, citoesqueleto, núcleo, nucléolo, retículos endoplasmáticos, ribosomas, lisosomas, peroxisomas, aparato de Golgi, mitocondrias, cloroplastos, vacuolas, centriolos, cilios y flagelos | 4 | Pendiente |
-| 1.2 | Relación estructura–función en tipos celulares: enterocito, célula muscular esquelética, neurona y célula secretora pancreática | 4 (y 11 para la neurona) | Pendiente |
+| 1.1 | Estructura y función de organelos y estructuras celulares en procariontes y eucariontes animales y vegetales: cápsula, pared celular, membrana, citoesqueleto, núcleo, nucléolo, retículos endoplasmáticos, ribosomas, lisosomas, peroxisomas, aparato de Golgi, mitocondrias, cloroplastos, vacuolas, centriolos, cilios y flagelos | 4 (secciones 3–8) | Completo |
+| 1.2 | Relación estructura–función en tipos celulares: enterocito, célula muscular esquelética, neurona y célula secretora pancreática | 4 (sección 10; la neurona se profundiza en el cap. 11) | Completo |
 
 ### Área 2. Procesos y funciones biológicas
 
