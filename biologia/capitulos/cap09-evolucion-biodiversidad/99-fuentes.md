@@ -10,12 +10,6 @@
 - Convenio sobre la Diversidad Biológica (1992), artículo 2: definición de diversidad biológica en sus tres niveles.
 - Servicio Nacional de Geología y Minería. *Dinosaurios chilenos*, Plan Nacional de Geología. [plannacionalgeologia.sernageomin.cl](https://plannacionalgeologia.sernageomin.cl/content_infografia/dinosaurios-chilenos/)
 
-**Libros de consulta**
-
-- Mason, K. A., Duncan, T. y otros. *Understanding Biology*, 2.ª ed. McGraw-Hill. Capítulos sobre evolución, evidencias evolutivas y sistemática.
-- Brooker, R. J., Widmaier, E. P. y otros. *Principles of Biology*. McGraw-Hill. Capítulos sobre el origen de la vida, la evolución por selección natural y los árboles filogenéticos.
-- OpenStax. *Biology 2e* y *Concepts of Biology*, unidad «Evolutionary Processes» (disponibles con licencia CC BY).
-
 **Historia de la teoría**
 
 - Darwin, C. y Wallace, A. R. (1858). «On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection». *Journal of the Proceedings of the Linnean Society: Zoology*. Lectura conjunta del 1 de julio de 1858. [The Linnean Society](https://www.linnean.org/news/2018/07/01/1st-july-2018-160th-anniversary-of-the-presentation-of-on-the-tendency-of-species-to-form-varieties)
