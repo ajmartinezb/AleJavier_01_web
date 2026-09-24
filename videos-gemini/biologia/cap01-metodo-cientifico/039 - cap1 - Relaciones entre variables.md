@@ -1,6 +1,6 @@
-# 014 - Capítulo 1 - Comunicación de los resultados
+# 039 - cap1 - Relaciones entre variables
 
-*Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 3. Etapas de una investigación científica*
+*Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 8. Tablas y gráficos: procesar, analizar y comunicar evidencia · c. Relaciones entre variables*
 
 **Fuente del cuaderno (Sitio web):**
 https://raw.githack.com/ajmartinezb/AleJavier_01_web/claude/quirky-noether-0m1zqt/biologia/sitio/01-capitulo-1-metodo-cientifico.html
@@ -11,21 +11,22 @@ En Studio, usa el **ícono de lápiz (Personalizar)** del Resumen en video, no l
 
 - **Formato:** Explicativo
 - **Idioma:** Español (Latinoamérica)
-- **Estilo visual:** Personalizado (base: Arte en papel / cuaderno de campo, común a toda la sección 3). El cuaderno se abre al mundo: páginas que viajan y vuelven al inicio del ciclo.
+- **Estilo visual:** Personalizado (base: Arte en papel / cuaderno de campo, común a todo el Capítulo 1). Cinco curvas con forma propia dibujadas a mano.
 
 ## 2. Tema personalizado (instrucciones)
 
 ```
 Narración en español latinoamericano neutro, con tuteo; sin voseo ni modismos de España.
 Público: estudiantes chilenos de 3.° y 4.° medio que preparan la PAES de Ciencias, eje Biología.
-Enfócate solo en el apartado «viii. Comunicación de los resultados» de la sección «3. Etapas de una investigación científica» de las fuentes; ignora el resto del capítulo, las demás etapas y las preguntas.
+Enfócate solo en el apartado «c. Relaciones entre variables» de la sección «8. Tablas y gráficos: procesar, analizar y comunicar evidencia» de las fuentes; ignora el resto del capítulo y las preguntas.
 Estructura:
-1. Pregunta gancho (10 s): un descubrimiento guardado en un cajón no le sirve a nadie.
-2. Cómo se comunica (40 s): mediante artículos científicos, congresos o informes.
-3. Revisión de pares (70 s): antes de publicarse en una revista, el trabajo pasa por la revisión de pares: otros especialistas evalúan el diseño, los datos y las conclusiones.
-4. Replicar (50 s): la publicación permite que otros repliquen el trabajo y construyan sobre él.
-5. Cierre del ciclo (20 s): la comunicación abre nuevas preguntas y el ciclo vuelve a la observación.
-6. Resumen final en 3 puntos (20 s): se comunica en artículos, congresos o informes; la revisión de pares evalúa diseño, datos y conclusiones; publicar permite replicar y avanzar.
+1. Pregunta gancho (10 s): ¿una curva que sube y luego se aplana significa lo mismo que una que sube y baja?
+2. Directa e inversa (50 s): al aumentar X aumenta Y (fotosíntesis y luz, hasta cierto punto); al aumentar X disminuye Y (burbujas y distancia a la lámpara).
+3. Sin relación (20 s): Y no cambia al variar X.
+4. Con un óptimo (40 s): Y sube hasta un máximo y luego baja; típico de las enzimas según temperatura o pH.
+5. Con meseta (40 s): Y sube y se estabiliza porque otro factor pasa a ser limitante; típico de la fotosíntesis con más luz.
+6. Proporcionalidad (40 s): directamente proporcional es una recta que pasa por el origen; inversamente proporcional si al duplicar X, Y se reduce a la mitad; no toda relación directa es proporcional.
+7. Resumen final en 3 puntos (20 s): cinco formas de relación; óptimo y meseta son distintos; proporcional es un caso especial.
 Tono: profesor cercano y claro, ritmo pausado.
 Usa la terminología exacta de las fuentes. No inventes datos.
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
@@ -48,20 +49,18 @@ amarillo resaltador #FFE14D para palabras clave, verde hoja #5E9E4B para plantas
 rojo tomate #D9483B para tomates y errores, gris grafito #5A5A5A para notas secundarias.
 
 PERSONAJE Y OBJETOS RECURRENTES: una estudiante dibujada con trazo simple, de delantal,
-con una lupa grande y un lápiz. El símbolo de este video es el propio cuaderno, que al final se abre y deja salir sus
-páginas como hojas que viajan; la lupa ahora la usan otros personajes para revisarlas.
+con una lupa grande y un lápiz. El símbolo de este video son cinco pequeños ejes dibujados en fila, cada uno con una curva
+de forma distinta, que la lupa recorre de izquierda a derecha.
 
 ESCENAS SEGÚN EL CONTENIDO:
-- Gancho: el cuaderno cerrado con un candado dentro de un cajón dibujado; el candado se abre
-  y las páginas empiezan a salir.
-- Cómo se comunica: tres íconos a tinta con rótulo: una revista científica, un podio de
-  congreso con público y un informe engrapado.
-- Revisión de pares: tres especialistas dibujados con trazo simple, cada uno con su lupa,
-  revisan una hoja con tres casillas: «diseño», «datos», «conclusiones».
-- Replicar: dos mesas de laboratorio iguales en páginas distintas, con el mismo montaje de
-  tomateras, unidas por una flecha y un visto bueno verde.
-- Cierre del ciclo: el diagrama circular de las ocho etapas; la flecha final vuelve a
-  «Observación» y la lupa de la estudiante reaparece allí.
+- Gancho: dos curvas lado a lado, una con meseta y otra con pico, y un signo de pregunta.
+- Directa e inversa: una línea que sube junto a una hoja con sol; una que baja junto a una
+  lámpara que se aleja.
+- Sin relación: una línea horizontal plana.
+- Óptimo: una curva en forma de montaña con una enzima dibujada en la cima y un termómetro.
+- Meseta: una curva que sube y se aplana, con un sol cada vez más grande y un candado sobre
+  «otro factor».
+- Proporcionalidad: una recta desde el origen con marcas «×2 → ×2».
 - Resumen: tres notas adhesivas amarillas numeradas 1, 2 y 3.
 
 TIPOGRAFÍA Y TEXTO EN PANTALLA: títulos en letra manuscrita clara tipo imprenta, grande y

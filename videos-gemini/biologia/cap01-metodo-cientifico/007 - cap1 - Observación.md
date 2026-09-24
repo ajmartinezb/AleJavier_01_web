@@ -1,4 +1,4 @@
-# 007 - Capítulo 1 - Observación
+# 007 - cap1 - Observación
 
 *Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 3. Etapas de una investigación científica*
 

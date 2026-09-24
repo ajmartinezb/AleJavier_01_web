@@ -1,4 +1,4 @@
-# 008 - Capítulo 1 - Planteamiento del problema o pregunta de investigación
+# 008 - cap1 - Planteamiento del problema o pregunta de investigación
 
 *Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 3. Etapas de una investigación científica*
 

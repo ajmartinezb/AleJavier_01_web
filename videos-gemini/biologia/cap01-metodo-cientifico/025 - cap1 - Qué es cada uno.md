@@ -1,6 +1,6 @@
-# 002 - Capítulo 1 - ¿Qué es la ciencia?
+# 025 - cap1 - Qué es cada uno
 
-*Biología PAES — Ciencias · Capítulo 1: Método científico · 2. ¿Qué es la ciencia?*
+*Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 6. Hipótesis, teoría, ley, principio y modelo · a. Qué es cada uno*
 
 **Fuente del cuaderno (Sitio web):**
 https://raw.githack.com/ajmartinezb/AleJavier_01_web/claude/quirky-noether-0m1zqt/biologia/sitio/01-capitulo-1-metodo-cientifico.html
@@ -11,20 +11,22 @@ En Studio, usa el **ícono de lápiz (Personalizar)** del Resumen en video, no l
 
 - **Formato:** Explicativo
 - **Idioma:** Español (Latinoamérica)
-- **Estilo visual:** Personalizado (base: Arte en papel / cuaderno de campo, común a todo el Capítulo 1). La evidencia como base: una construcción que se levanta sobre ladrillos de datos.
+- **Estilo visual:** Personalizado (base: Arte en papel / cuaderno de campo, común a todo el Capítulo 1). Cinco fichas comparativas con un ejemplo biológico cada una.
 
 ## 2. Tema personalizado (instrucciones)
 
 ```
 Narración en español latinoamericano neutro, con tuteo; sin voseo ni modismos de España.
 Público: estudiantes chilenos de 3.° y 4.° medio que preparan la PAES de Ciencias, eje Biología.
-Enfócate solo en la sección «2. ¿Qué es la ciencia?» de las fuentes; ignora el resto del capítulo y las preguntas.
+Enfócate solo en el apartado «a. Qué es cada uno» de la sección «6. Hipótesis, teoría, ley, principio y modelo» de las fuentes; ignora el resto del capítulo y las preguntas.
 Estructura:
-1. Pregunta gancho (10 s): ¿por qué creemos que los seres vivos están formados por células? No porque alguien importante lo dijo.
-2. Qué es la ciencia (60 s): una forma de conocer el mundo natural que se basa en la evidencia. Una idea no se acepta por autoridad, por antigua o porque suene lógica, sino porque se contrastó con observaciones y experimentos y otros pudieron comprobarla.
-3. La biología (50 s): estudia a los seres vivos con esa misma lógica; lo que sabemos de la célula, la herencia o la evolución es resultado de investigaciones concretas, con preguntas, hipótesis, experimentos y discusiones.
-4. Lo que viene (40 s): anuncia sin desarrollar los tres subtemas: características del conocimiento científico; inducción y deducción; hecho, inferencia y opinión.
-5. Resumen final en 3 puntos (20 s): la ciencia se basa en evidencia; se acepta lo que se contrasta y se comprueba; la biología se construyó con investigaciones concretas.
+1. Pregunta gancho (10 s): si una teoría acumula mucha evidencia, ¿se convierte en ley? No.
+2. Hipótesis (30 s): explicación tentativa para un fenómeno específico; ejemplo de la luz roja y la fotosíntesis en Elodea.
+3. Teoría (40 s): explica por qué ocurre un conjunto amplio de fenómenos; ejemplos: teoría celular, evolución por selección natural, endosimbiótica, cromosómica.
+4. Ley (40 s): describe cómo ocurre un fenómeno de forma regular, sin explicar la causa, a menudo con una relación matemática; leyes de Mendel, ley de Fick.
+5. Principio y modelo (40 s): principio como base de una disciplina (Hardy-Weinberg, exclusión competitiva); modelo como representación simplificada (mosaico fluido, doble hélice, llave-cerradura).
+6. El error más común (50 s): creer que hay una escalera de hipótesis a teoría a ley; la ley describe el cómo y la teoría explica el por qué; una teoría es el conocimiento más sólido y explicativo.
+7. Resumen final en 3 puntos (20 s): cinco conceptos distintos; ley describe, teoría explica; no hay escalera.
 Tono: profesor cercano y claro, ritmo pausado.
 Usa la terminología exacta de las fuentes. No inventes datos.
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
@@ -47,19 +49,18 @@ amarillo resaltador #FFE14D para palabras clave, verde hoja #5E9E4B para plantas
 rojo tomate #D9483B para tomates y errores, gris grafito #5A5A5A para notas secundarias.
 
 PERSONAJE Y OBJETOS RECURRENTES: una estudiante dibujada con trazo simple, de delantal,
-con una lupa grande y un lápiz. El símbolo de este video es una pila de ladrillos dibujados a tinta, cada uno rotulado
-como una observación o un experimento, que la estudiante revisa con su lupa.
+con una lupa grande y un lápiz. El símbolo de este video son cinco fichas grandes de cartulina de distinto color, que la
+estudiante ordena lado a lado con su lupa.
 
 ESCENAS SEGÚN EL CONTENIDO:
-- Gancho: una célula dibujada a acuarela bajo la lupa y un signo de pregunta «¿cómo lo
-  sabemos?».
-- Qué es la ciencia: tres globos de diálogo tachados en rojo («lo dijo una autoridad», «es
-  muy antiguo», «suena lógico») y, al lado, una construcción de ladrillos rotulados
-  «observación», «experimento», «comprobación» con un visto bueno verde.
-- La biología: tres viñetas pequeñas: una célula al microscopio, una arveja para la
-  herencia y un pinzón para la evolución, cada una con un signo de pregunta y un tubo de
-  ensayo.
-- Lo que viene: tres pestañas de colores en el borde del cuaderno rotuladas a, b y c.
+- Gancho: una escalera dibujada con peldaños «hipótesis → teoría → ley» que se tacha en rojo.
+- Hipótesis: ficha con una rama de Elodea bajo luz roja y verde.
+- Teoría: ficha con un árbol de ramas y, colgando, una célula, un pinzón y una mitocondria.
+- Ley: ficha con arvejas y la proporción 3:1 escrita como fórmula; rótulo «¿cómo?».
+- Principio y modelo: ficha con una piedra angular; ficha con una maqueta de doble hélice y
+  una llave entrando en una cerradura.
+- Error común: dos columnas «LEY: cómo» y «TEORÍA: por qué», separadas y sin flecha entre
+  ellas.
 - Resumen: tres notas adhesivas amarillas numeradas 1, 2 y 3.
 
 TIPOGRAFÍA Y TEXTO EN PANTALLA: títulos en letra manuscrita clara tipo imprenta, grande y

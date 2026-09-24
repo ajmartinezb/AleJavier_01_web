@@ -1,6 +1,6 @@
-# 012 - Capítulo 1 - Resultados
+# 040 - cap1 - Interpretar sin equivocarse
 
-*Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 3. Etapas de una investigación científica*
+*Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 8. Tablas y gráficos: procesar, analizar y comunicar evidencia · d. Interpretar sin equivocarse*
 
 **Fuente del cuaderno (Sitio web):**
 https://raw.githack.com/ajmartinezb/AleJavier_01_web/claude/quirky-noether-0m1zqt/biologia/sitio/01-capitulo-1-metodo-cientifico.html
@@ -11,21 +11,19 @@ En Studio, usa el **ícono de lápiz (Personalizar)** del Resumen en video, no l
 
 - **Formato:** Explicativo
 - **Idioma:** Español (Latinoamérica)
-- **Estilo visual:** Personalizado (base: Arte en papel / cuaderno de campo, común a toda la sección 3). Datos que pasan de sueltos a tabla y de tabla a gráfico.
+- **Estilo visual:** Personalizado (base: Arte en papel / cuaderno de campo, común a todo el Capítulo 1). Un gráfico con notas de advertencia pegadas alrededor.
 
 ## 2. Tema personalizado (instrucciones)
 
 ```
 Narración en español latinoamericano neutro, con tuteo; sin voseo ni modismos de España.
 Público: estudiantes chilenos de 3.° y 4.° medio que preparan la PAES de Ciencias, eje Biología.
-Enfócate solo en el apartado «vi. Resultados» de la sección «3. Etapas de una investigación científica» de las fuentes; ignora el resto del capítulo, las demás etapas y las preguntas.
+Enfócate solo en el apartado «d. Interpretar sin equivocarse» de la sección «8. Tablas y gráficos: procesar, analizar y comunicar evidencia» de las fuentes; ignora el resto del capítulo y las preguntas.
 Estructura:
-1. Pregunta gancho (10 s): mediste algo y el número no calza con tu idea. ¿Lo borras? En ciencia, nunca.
-2. Qué son (40 s): los datos obtenidos se registran.
-3. Organizar (60 s): los datos se organizan en tablas y gráficos para encontrar patrones o tendencias.
-4. Tal como salieron (60 s): los resultados se informan tal como salieron, aunque contradigan la hipótesis; un resultado inesperado también es información valiosa.
-5. Error frecuente en la PAES (30 s): elegir alternativas que borran, cambian o esconden un dato que no calza; eso es manipular la evidencia.
-6. Resumen final en 3 puntos (20 s): se registran; se ordenan en tablas y gráficos para ver tendencias; se informan tal como salieron.
+1. Pregunta gancho (10 s): los helados y los golpes de calor suben juntos en verano. ¿Los helados causan golpes de calor?
+2. Cinco reglas (130 s): lee ejes y unidades antes que la curva; describe la tendencia completa con cambios de pendiente, máximos y mesetas; interpolar dentro del rango es razonable y extrapolar fuera es arriesgado; correlación no es causalidad, puede haber una tercera variable; compara siempre con el control.
+3. Ejemplo de la fuente (60 s): levaduras cuya producción de CO2 sube de 15 a 35 °C y baja hasta 45 °C; la conclusión correcta es la acotada al rango y al cultivo; son incorrectas «a mayor temperatura, mayor producción», «todas las levaduras» y «a 60 °C será cero».
+4. Resumen final en 3 puntos (20 s): lee ejes y tendencia completa; no extrapoles ni confundas correlación con causa; compara con el control.
 Tono: profesor cercano y claro, ritmo pausado.
 Usa la terminología exacta de las fuentes. No inventes datos.
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
@@ -48,18 +46,18 @@ amarillo resaltador #FFE14D para palabras clave, verde hoja #5E9E4B para plantas
 rojo tomate #D9483B para tomates y errores, gris grafito #5A5A5A para notas secundarias.
 
 PERSONAJE Y OBJETOS RECURRENTES: una estudiante dibujada con trazo simple, de delantal,
-con una lupa grande y un lápiz. El símbolo de este video es un pequeño gráfico de líneas dibujado a tinta en la esquina de
-la página, que crece a medida que avanza el video; la lupa se posa sobre sus puntos.
+con una lupa grande y un lápiz. El símbolo de este video es un gráfico grande pegado en el centro de la página, rodeado de
+notas adhesivas de advertencia que la estudiante lee con su lupa.
 
 ESCENAS SEGÚN EL CONTENIDO:
-- Gancho: una goma de borrar dibujada se acerca a un número en la libreta y se detiene ante
-  una señal roja de prohibido.
-- Qué son: números manuscritos sueltos que caen sobre la página como notas desordenadas.
-- Organizar: los números se acomodan en una tabla con líneas de regla y luego se convierten
-  en un gráfico de líneas con ejes rotulados; la tendencia se marca con resaltador.
-- Tal como salieron: un sello «TAL COMO SALIERON» en azul; un punto del gráfico queda fuera
-  de la tendencia, rodeado en amarillo con la nota «también informa».
-- Error PAES: la mano intenta tachar el punto raro; la tachadura se marca con cruz roja.
+- Gancho: un helado y un sol ardiente unidos por dos curvas que suben juntas; un termómetro
+  asoma detrás como tercera variable.
+- Reglas: cinco notas adhesivas pegadas alrededor del gráfico: una lupa sobre los ejes; una
+  curva con pico y meseta resaltados; una zona sombreada «interpolar» dentro y otra gris
+  «extrapolar» fuera; dos curvas con una tercera variable detrás; una barra del control al
+  lado de la del tratamiento.
+- Ejemplo: una curva de CO2 de levaduras que sube hasta 35 °C y baja hasta 45 °C; cuatro
+  tarjetas de conclusión, una con visto bueno verde y tres con cruz roja.
 - Resumen: tres notas adhesivas amarillas numeradas 1, 2 y 3.
 
 TIPOGRAFÍA Y TEXTO EN PANTALLA: títulos en letra manuscrita clara tipo imprenta, grande y

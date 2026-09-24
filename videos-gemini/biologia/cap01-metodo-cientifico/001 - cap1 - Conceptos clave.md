@@ -1,4 +1,4 @@
-# 001 - Capítulo 1 - Conceptos clave
+# 001 - cap1 - Conceptos clave
 
 *Biología PAES — Ciencias · Capítulo 1: Método científico · 1. Conceptos clave*
 

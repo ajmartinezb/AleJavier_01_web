@@ -1,4 +1,4 @@
-# 009 - Capítulo 1 - Hipótesis
+# 009 - cap1 - Hipótesis
 
 *Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 3. Etapas de una investigación científica*
 

@@ -1,6 +1,6 @@
-# 011 - Capítulo 1 - Experimentación
+# 036 - cap1 - Tablas y gráficos, procesar, analizar y comunicar evidencia
 
-*Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 3. Etapas de una investigación científica*
+*Biología PAES — Ciencias · Capítulo 1: Método científico · 8. Tablas y gráficos: procesar, analizar y comunicar evidencia*
 
 **Fuente del cuaderno (Sitio web):**
 https://raw.githack.com/ajmartinezb/AleJavier_01_web/claude/quirky-noether-0m1zqt/biologia/sitio/01-capitulo-1-metodo-cientifico.html
@@ -11,20 +11,20 @@ En Studio, usa el **ícono de lápiz (Personalizar)** del Resumen en video, no l
 
 - **Formato:** Explicativo
 - **Idioma:** Español (Latinoamérica)
-- **Estilo visual:** Personalizado (base: Arte en papel / cuaderno de campo, común a toda la sección 3). Tres perillas: una se gira, otra se lee y las demás quedan con candado.
+- **Estilo visual:** Personalizado (base: Arte en papel / cuaderno de campo, común a todo el Capítulo 1). Una hoja milimetrada que se llena de tablas y gráficos.
 
 ## 2. Tema personalizado (instrucciones)
 
 ```
 Narración en español latinoamericano neutro, con tuteo; sin voseo ni modismos de España.
 Público: estudiantes chilenos de 3.° y 4.° medio que preparan la PAES de Ciencias, eje Biología.
-Enfócate solo en el apartado «v. Experimentación» de la sección «3. Etapas de una investigación científica» de las fuentes; ignora el resto del capítulo, las demás etapas y las preguntas.
+Enfócate solo en la sección «8. Tablas y gráficos: procesar, analizar y comunicar evidencia» (solo su introducción y panorama) de las fuentes; ignora el resto del capítulo y las preguntas.
 Estructura:
-1. Pregunta gancho (10 s): si mueves varias perillas a la vez y algo cambia, ¿cuál fue la responsable?
-2. Qué es (40 s): se diseña y realiza un procedimiento para poner a prueba la hipótesis.
-3. Las tres acciones (90 s): se manipula la variable independiente, se mide la variable dependiente y se mantienen constantes las demás variables. Explica cada una con un ejemplo simple.
-4. Error frecuente en la PAES (30 s): no advertir que otra variable cambió sin querer; entonces no se sabe qué causó la diferencia.
-5. Cierre (20 s): el diseño experimental se desarrolla en detalle en la sección 4. Resumen en 3 puntos: pone a prueba la hipótesis; se manipula una variable y se mide otra; el resto se mantiene constante.
+1. Pregunta gancho (10 s): casi toda pregunta de la PAES de Ciencias trae una tabla o un gráfico. ¿Sabes leerlos?
+2. Procesar y analizar (60 s): una de las habilidades que más se repite; incluye identificar relaciones, patrones o tendencias, identificar predicciones y resultados, y sacar conclusiones o inferencias a partir de los datos.
+3. Comunicar (30 s): elegir el recurso adecuado (tabla, gráfico o modelo) para presentar la información.
+4. Lo que viene (40 s): anuncia sin desarrollar: las tablas; tipos de gráficos; relaciones entre variables; interpretar sin equivocarse.
+5. Resumen final en 3 puntos (20 s): tablas y gráficos están en casi toda la PAES; se procesan, analizan y comunican; hay que saber leerlos y elegirlos.
 Tono: profesor cercano y claro, ritmo pausado.
 Usa la terminología exacta de las fuentes. No inventes datos.
 En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
@@ -47,21 +47,15 @@ amarillo resaltador #FFE14D para palabras clave, verde hoja #5E9E4B para plantas
 rojo tomate #D9483B para tomates y errores, gris grafito #5A5A5A para notas secundarias.
 
 PERSONAJE Y OBJETOS RECURRENTES: una estudiante dibujada con trazo simple, de delantal,
-con una lupa grande y un lápiz. El símbolo de este video es un panel dibujado a tinta con tres perillas: una que la
-estudiante gira, un medidor con aguja y varias perillas cerradas con candado.
+con una lupa grande y un lápiz. El símbolo de este video es una hoja de papel milimetrado pegada en el cuaderno, que se va
+llenando de tablas y gráficos; la lupa recorre sus ejes.
 
 ESCENAS SEGÚN EL CONTENIDO:
-- Gancho: una consola de perillas dibujada a mano; varias giran a la vez y aparece un signo
-  de pregunta; la lupa busca cuál fue.
-- Qué es: una mesa de laboratorio escolar dibujada a tinta con macetas de tomate y la
-  palabra «EXPERIMENTAR» resaltada.
-- Tres acciones: tres íconos grandes con rótulo: una mano en una perilla, «MANIPULAR»
-  (temperatura); una regla junto a una tomatera, «MEDIR» (altura); un candado sobre
-  regadera, lámpara y semillas, «MANTENER CONSTANTE».
-- Error PAES: dos bandejas iguales, pero una junto a una ventana con sol dibujado; la
-  ventana se encierra en rojo como variable que se coló.
-- Cierre: una nota al margen «ver sección 4» con una flecha, y tres notas adhesivas
-  amarillas numeradas 1, 2 y 3.
+- Gancho: una hoja de prueba con una tabla y un gráfico, y un signo de pregunta.
+- Procesar y analizar: una tabla que se transforma en gráfico; una tendencia resaltada.
+- Comunicar: tres opciones en tarjetas (tabla, gráfico, modelo) y una mano que elige.
+- Lo que viene: cuatro pestañas de colores en el borde rotuladas a, b, c y d.
+- Resumen: tres notas adhesivas amarillas numeradas 1, 2 y 3.
 
 TIPOGRAFÍA Y TEXTO EN PANTALLA: títulos en letra manuscrita clara tipo imprenta, grande y
 legible; rótulos cortos de 1 a 4 palabras; nunca párrafos. Todo el texto en español.

@@ -1,4 +1,4 @@
-# 005 - Capítulo 1 - Hecho, inferencia y opinión
+# 005 - cap1 - Hecho, inferencia y opinión
 
 *Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 2. ¿Qué es la ciencia? · c. Hecho, inferencia y opinión*
 

@@ -1,4 +1,4 @@
-# 004 - Capítulo 1 - Dos formas de razonar: inducción y deducción
+# 004 - cap1 - Dos formas de razonar: inducción y deducción
 
 *Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 2. ¿Qué es la ciencia? · b. Dos formas de razonar: inducción y deducción*
 

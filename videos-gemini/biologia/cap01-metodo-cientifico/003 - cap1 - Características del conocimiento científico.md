@@ -1,4 +1,4 @@
-# 003 - Capítulo 1 - Características del conocimiento científico
+# 003 - cap1 - Características del conocimiento científico
 
 *Biología PAES — Ciencias · Capítulo 1: Método científico · Sección 2. ¿Qué es la ciencia? · a. Características del conocimiento científico*
 
