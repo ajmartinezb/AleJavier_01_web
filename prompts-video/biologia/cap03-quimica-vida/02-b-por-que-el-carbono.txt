@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 02: b. Por qué el carbono
+Sección: 2. Bioelementos y enlaces
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Por qué el carbono». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Forma cuatro enlaces covalentes, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Por qué el carbono», dentro de la sección «2. Bioelementos y enlaces» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Forma cuatro enlaces covalentes.
+
+Ideas guía:
+- El carbono ocupa el centro de la química de la vida por tres razones: Forma cuatro enlaces covalentes, lo que permite construir estructuras ramificadas y tridimensionales.
+- Se une a sí mismo formando cadenas largas, anillos y esqueletos estables.
+- Se combina con los otros cinco primarios, de modo que sobre el mismo esqueleto pueden colgarse grupos químicos muy distintos.
+- Esa versatilidad explica que existan millones de moléculas orgánicas distintas construidas prácticamente con los mismos ingredientes.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): ¿Qué propiedad del átomo de carbono explica la enorme diversidad de moléculas orgánicas?
+A) Que posee una masa atómica mucho más elevada que la de cualquier otro bioelemento.
+B) Que se disuelve con gran facilidad en el agua pura del interior de las células.
+C) Que forma enlaces iónicos con el oxígeno del aire.
+D) Que forma cuatro enlaces covalentes y se une a sí mismo en cadenas y anillos.
+Correcta: D. Por qué: Esa combinación permite construir esqueletos ramificados y tridimensionales sobre los que se cuelgan grupos químicos distintos, y de ahí salen millones de moléculas diferentes con los mismos ingredientes. El carbono tiene, además, una masa atómica baja, no se disuelve como átomo en agua y sus uniones características son covalentes, no iónicas.
+
+Pregunta 2 (Evaluar): Un estudiante afirma que cualquier elemento con cuatro electrones de valencia podría sustituir al carbono como base de la vida en la Tierra. ¿Cuál es la mejor evaluación de esa afirmación?
+A) No basta con la valencia: también se requieren enlaces estables en agua y capacidad de formar cadenas largas.
+B) Es correcta: la valencia es el único requisito que importa en química.
+C) Es correcta, porque todos esos elementos forman los mismos compuestos.
+D) Es incorrecta, porque ningún otro elemento químico conocido en la naturaleza posee cuatro electrones de valencia.
+Correcta: A. Por qué: La valencia es solo la primera condición. El silicio también tiene cuatro electrones de valencia, pero sus enlaces son menos estables en medio acuoso y no forma cadenas largas y variadas con la misma facilidad. La última alternativa, además, afirma un hecho falso, porque el silicio y otros elementos comparten esa valencia con el carbono.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se comparan dos esqueletos moleculares: uno formado por una cadena recta de doce carbonos y otro por seis carbonos cerrados en un anillo. ¿Qué tienen en común desde el punto de vista de los enlaces?
+A) Ambos se sostienen en enlaces iónicos entre carbonos con carga.
+B) Ambos se sostienen en enlaces covalentes entre átomos de carbono.
+C) Ambos se sostienen en puentes de hidrógeno entre carbonos vecinos.
+D) Ambos requieren un átomo metálico en el centro de la estructura.
+Correcta: B. Por qué: Que la cadena sea recta o cerrada en anillo no cambia el tipo de unión: en los dos casos los carbonos comparten electrones. Los enlaces iónicos aparecen en sales, no entre carbonos; los puentes de hidrógeno se dan entre un hidrógeno con carga parcial y un átomo electronegativo, no entre carbonos; y ningún esqueleto orgánico requiere un metal central.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

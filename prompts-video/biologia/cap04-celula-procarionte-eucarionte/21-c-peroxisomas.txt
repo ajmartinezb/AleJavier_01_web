@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 21: c. Peroxisomas
+Sección: 6. Organelos que transforman energía: mitocondrias, cloroplastos y peroxisomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Peroxisomas». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente una sola membrana, oxidan ácidos grasos, desintoxican, peróxido de hidrógeno (H<sub>2</sub>O<sub>2</sub>), catalasa, Pista para la PAES, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Peroxisomas», dentro de la sección «6. Organelos que transforman energía: mitocondrias, cloroplastos y peroxisomas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: una sola membrana, oxidan ácidos grasos, desintoxican, peróxido de hidrógeno (H<sub>2</sub>O<sub>2</sub>), catalasa, Pista para la PAES.
+
+Ideas guía:
+- El mismo peroxisoma lo descompone gracias a la enzima catalasa: 2 H2O2 → 2 H2O + O2.
+- Pista para la PAES: si un experimento muestra que una sustancia provoca acumulación de H2O2 en una célula, el organelo afectado más probable es el peroxisoma.
+- Una pregunta de la prueba oficial de invierno de 2027 se basa exactamente en esto.
+- Los peroxisomas abundan en los hepatocitos y en las células renales.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se cultivan hepatocitos y se les agrega una sustancia X. Después de dos horas se mide el H2O2 dentro de las células y la actividad de varias enzimas. Resultados respecto del control: H2O2, 8 veces mayor; actividad de catalasa, 10 % de la normal; actividad de hidrolasas ácidas, 100 %; producción de ATP, 95 %. ¿Qué explicación es más coherente con estos datos?
+A) La sustancia X inhibe la catalasa peroxisomal y el H2O2 se acumula en la célula.
+B) La sustancia X daña los lisosomas y sus hidrolasas liberan H2O2 hacia el citoplasma.
+C) La sustancia X bloquea las mitocondrias, que dejan de fabricar el ATP para la catalasa.
+D) La sustancia X activa la oxidación de ácidos grasos y la catalasa aumenta su actividad.
+Correcta: A. Por qué: El H2O2 aumenta ocho veces y la catalasa cae al 10 %: si la enzima que lo descompone casi no funciona, el H2O2 se acumula. Las hidrolasas ácidas siguen al 100 %, lo que descarta un daño lisosomal, y el ATP casi no cambia (95 %), lo que descarta un bloqueo mitocondrial. La explicación coherente es la inhibición de la catalasa peroxisomal.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere determinar si los peroxisomas participan en la desintoxicación del etanol en el hígado. Dispone de ratones normales y de ratones con una mutación que impide formar peroxisomas funcionales, ambos de igual edad y peso. ¿Qué diseño permite responder mejor esta pregunta?
+A) Dar etanol solo a los ratones mutantes y medir cuánto etanol queda en su sangre.
+B) Dar igual dosis de etanol a ambos grupos y medir en el tiempo el etanol en la sangre.
+C) Dar etanol a los ratones normales y contar cuántas mitocondrias tiene su hígado.
+D) Dar distinta dosis de etanol a cada grupo y medir el peso del hígado a la semana.
+Correcta: B. Por qué: La variable independiente es la presencia de peroxisomas funcionales (normales frente a mutantes). Para aislarla, ambos grupos deben recibir la misma dosis de etanol, y se mide la variable dependiente pertinente: la rapidez con que el etanol desaparece de la sangre. Si los mutantes lo eliminan más lento, se apoya la participación de los peroxisomas.
+
+Pregunta 3 (Observar y plantear preguntas): En una clase, un profesor pone un trozo de hígado crudo en agua oxigenada (H2O2) y se observa un intenso burbujeo; con un trozo de hígado previamente hervido casi no hay burbujas. ¿Cuál de las siguientes hipótesis se puede poner a prueba directamente a partir de esta observación?
+A) El hígado es el órgano más importante del cuerpo para eliminar sustancias tóxicas.
+B) El agua oxigenada es un desinfectante que se debe usar solo en heridas superficiales.
+C) Una enzima del hígado, inactivada por el calor, descompone el H2O2 y libera O2.
+D) Los animales que comen hígado crudo reciben más enzimas que los que lo comen cocido.
+Correcta: C. Por qué: El burbujeo indica que se libera un gas, y desaparece al hervir el tejido. Una hipótesis contrastable debe explicar ambos hechos: una enzima del hígado (la catalasa) descompone el H2O2 liberando O2, y como las enzimas son proteínas, el calor las desnaturaliza. Esta hipótesis se puede probar, por ejemplo, identificando el gas o calentando a distintas temperaturas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

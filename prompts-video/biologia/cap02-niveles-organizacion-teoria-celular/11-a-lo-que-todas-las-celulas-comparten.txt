@@ -1,0 +1,45 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 11: a. Lo que todas las células comparten
+Sección: 5. Unidad y diversidad celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Lo que todas las células comparten». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente Membrana plasmática, Citoplasma, Material genético, Ribosomas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Lo que todas las células comparten», dentro de la sección «5. Unidad y diversidad celular» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Membrana plasmática, Citoplasma, Material genético, Ribosomas.
+
+Ideas guía:
+- Por distintas que sean, todas las células tienen cuatro cosas: Membrana plasmática, que las separa del medio y controla lo que entra y sale.
+- Citoplasma, el medio interno donde ocurren las reacciones.
+- Material genético, ADN que contiene las instrucciones.
+- Ribosomas, donde se fabrican las proteínas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una célula recién descrita carece de mitocondrias, de aparato de Golgi y de núcleo delimitado. ¿Qué estructuras debe poseer de todos modos para ser considerada una célula?
+A) Membrana plasmática, citoplasma, material genético y ribosomas.
+B) Núcleo, retículo endoplasmático, citoesqueleto y ribosomas.
+C) Pared celular, cloroplastos, vacuola central y citoplasma.
+D) Membrana plasmática, mitocondrias, lisosomas y material genético.
+Correcta: A. Por qué: La descripción corresponde a una célula procarionte, que carece de organelos membranosos y de envoltura nuclear pero conserva esas cuatro. Las otras alternativas incluyen componentes exclusivos de los eucariontes, como el núcleo, el retículo o los lisosomas, o bien exclusivos de algunos grupos, como los cloroplastos y la vacuola central de las células vegetales.
+
+Pregunta 2 (Observar y plantear preguntas): Un equipo quiere investigar por qué los ribosomas están presentes en todas las células conocidas. ¿Cuál de las siguientes preguntas orienta mejor esa investigación?
+A) ¿Cuántos ribosomas tiene en promedio una célula hepática humana?
+B) ¿En qué año se describieron los ribosomas por primera vez?
+C) ¿De qué color se ven los ribosomas con las tinciones habituales?
+D) ¿Qué función cumplen los ribosomas y por qué ninguna célula puede prescindir de ella?
+Correcta: D. Por qué: La pregunta correcta apunta exactamente a esa función y a su carácter imprescindible. Contar ribosomas en un tipo celular entrega un dato descriptivo, la fecha de descripción es un hecho histórico y el color de tinción es una propiedad de la técnica. Ninguna de esas tres preguntas explica la universalidad observada.
+
+Pregunta 3 (Evaluar): Un estudiante concluye que, como todas las células tienen membrana plasmática, la membrana debe ser la estructura que contiene la información hereditaria. ¿Cuál es el principal error de ese razonamiento?
+A) Que la membrana plasmática no está presente en las células procariontes.
+B) Que ser universal no implica cumplir una función determinada: la información está en el ADN.
+C) Que la información hereditaria no se encuentra en ninguna estructura celular.
+D) Que la membrana plasmática solo aparece en las células de los pluricelulares.
+Correcta: B. Por qué: El razonamiento confunde universalidad con función: el hecho de que algo esté en todas las células no dice nada sobre qué hace. Las otras alternativas contienen errores factuales, porque la membrana sí está en procariontes y en unicelulares, y la información hereditaria sí reside en una estructura concreta, el material genético.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

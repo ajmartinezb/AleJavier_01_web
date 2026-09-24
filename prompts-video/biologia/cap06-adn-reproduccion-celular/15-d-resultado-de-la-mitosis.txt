@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 15: d. Resultado de la mitosis
+Sección: 4. Mitosis y citocinesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Resultado de la mitosis». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente dos células diploides (2n), genéticamente idénticas, conserva, fisión binaria, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Resultado de la mitosis», dentro de la sección «4. Mitosis y citocinesis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: dos células diploides (2n), genéticamente idénticas, conserva, fisión binaria.
+
+Ideas guía:
+- Una célula diploide (2n) produce dos células diploides (2n), genéticamente idénticas entre sí y a la célula madre, salvo que ocurran mutaciones.
+- La mitosis conserva la información genética.
+- Los procariontes no hacen mitosis: se dividen por fisión binaria.
+- Replican su cromosoma circular, las dos copias se separan a medida que la célula se alarga y la célula se divide en dos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un investigador quiere comprobar si las células hijas de una mitosis son genéticamente idénticas a la célula madre. Cuenta con células de piel humana en cultivo. ¿Qué procedimiento es el más adecuado para ese objetivo?
+A) Comparar el perfil de ADN de la célula madre con el de sus dos células hijas.
+B) Medir el tamaño de las células hijas y compararlo con el de la célula madre original.
+C) Contar cuántas células hijas se forman en 24 horas a partir de cada célula.
+D) Observar la forma de las células hijas bajo el microscopio óptico común.
+Correcta: A. Por qué: El objetivo es saber si la información genética se conserva. La única manera de comprobarlo es comparar directamente el ADN de la madre con el de las hijas, por ejemplo con un perfil de marcadores genéticos. El tamaño, la forma o la cantidad de células hijas no informan sobre la secuencia del ADN. Por eso el procedimiento adecuado es A.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una célula de una especie con 2n = 12 entra en fase G1 con 2c de ADN, replica su material genético y completa una mitosis seguida de citocinesis. ¿Cuántos cromosomas y qué cantidad de ADN tendrá cada célula hija al inicio de su propia fase G1?
+A) Seis cromosomas y la mitad del ADN de G1
+B) Doce cromosomas e igual cantidad de ADN que G1
+C) Doce cromosomas y el doble del ADN de G1
+D) Veinticuatro cromosomas y el doble de ADN
+Correcta: B. Por qué: En G1 la célula tiene 12 cromosomas y 2c. Tras la fase S sigue con 12 cromosomas, pero cada uno tiene dos cromátidas: 4c. En la anafase se separan las cromátidas y, con la citocinesis, cada hija recibe 12 cromosomas de una cromátida: vuelve a 2c. Así cada hija es 2n = 12 con 2c, clave B.
+
+Pregunta 3 (Evaluar): Un estudiante afirma que «las bacterias producen células hijas idénticas por mitosis, igual que las células de la piel», y lo fundamenta en que, tras dividirse, las bacterias de una colonia tienen el mismo cromosoma circular que la bacteria original. ¿Cuál es la evaluación correcta de su afirmación?
+A) Es correcta, porque toda división que produce células idénticas es una mitosis.
+B) Es incorrecta, porque las bacterias hijas nunca son idénticas a la célula madre.
+C) Es incorrecta en el proceso, pues las bacterias se dividen por fisión binaria.
+D) Es correcta, porque las bacterias también forman un huso al dividirse.
+Correcta: C. Por qué: La evidencia (hijas con el mismo cromosoma) apoya que el resultado es parecido: células genéticamente idénticas. Pero el estudiante concluye además que el proceso es la mitosis, y eso no se desprende del dato. Las bacterias no tienen núcleo ni huso mitótico; se dividen por fisión binaria. La afirmación falla en el proceso, no en el resultado, clave C.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

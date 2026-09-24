@@ -1,0 +1,43 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 03: c. Niveles biológicos y niveles ecológicos
+Sección: 2. Los niveles de organización
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Niveles biológicos y niveles ecológicos». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente niveles biológicos y niveles ecológicos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Niveles biológicos y niveles ecológicos», dentro de la sección «2. Los niveles de organización» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- Conviene notar que la escalera cambia de naturaleza a mitad de camino: Del átomo al organismo, los niveles describen cómo está construido un individuo.
+- De la población a la biosfera, describen cómo se relacionan los individuos entre sí y con el ambiente.
+- El organismo es la bisagra: es la última unidad que existe como individuo y la primera que forma parte de conjuntos mayores.
+- Por eso los capítulos 4 a 7 de este libro se mueven en la primera mitad de la escalera y el capítulo 10, en la segunda.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un humedal se estudian cuatro objetos de investigación: los sapos de una laguna, todas las especies que viven en la laguna, la laguna con su agua y sus sedimentos, y el hígado de un sapo. ¿Cuál de ellos corresponde a un nivel biológico dentro de un individuo?
+A) Los sapos de la laguna.
+B) Todas las especies que viven en la laguna.
+C) La laguna con su agua y sus sedimentos.
+D) El hígado de un sapo.
+Correcta: D. Por qué: El hígado es un órgano y, por lo tanto, un nivel dentro del individuo. Los sapos de la laguna forman una población, todas las especies juntas forman una comunidad y la laguna con sus componentes no vivos es un ecosistema. Las tres son unidades ecológicas, que existen por encima del organismo y que incluyen, en el último caso, componentes abióticos.
+
+Pregunta 2 (Comunicar): Para un panel divulgativo hay que explicar la diferencia entre comunidad y ecosistema en una sola frase. ¿Cuál es la formulación más precisa?
+A) La comunidad es más pequeña que el ecosistema en superficie ocupada.
+B) La comunidad incluye una sola especie y el ecosistema incluye siempre varias especies.
+C) La comunidad reúne a los seres vivos; el ecosistema suma los factores abióticos.
+D) La comunidad se estudia en el laboratorio y el ecosistema se estudia solo en terreno.
+Correcta: C. Por qué: La diferencia no es de tamaño ni de método de estudio, sino de qué se incluye: el ecosistema agrega el agua, el suelo, la luz y la temperatura. La tercera alternativa confunde comunidad con población, porque una comunidad involucra por definición varias especies. Una buena definición divulgativa debe nombrar el criterio de inclusión y no una propiedad accesoria.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere estudiar cómo una sequía prolongada afecta a un ecosistema y no solo a su comunidad. Además del censo de especies, ¿qué conjunto de mediciones debe incluir?
+A) El número de individuos de cada especie en cada estación del año de estudio.
+B) La humedad del suelo, el caudal del estero y la temperatura del aire.
+C) El peso promedio de los individuos de las especies más abundantes del lugar.
+D) El número de nidos y de madrigueras presentes en toda el área de estudio.
+Correcta: B. Por qué: La humedad del suelo, el caudal y la temperatura son justamente componentes abióticos, y sin ellos el estudio quedaría limitado al nivel de comunidad. Contar individuos por estación, pesar ejemplares o registrar nidos son mediciones válidas, pero todas describen a los seres vivos: ninguna agrega la dimensión que distingue al ecosistema.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

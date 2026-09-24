@@ -1,0 +1,45 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 13: c. Unicelulares y pluricelulares
+Sección: 5. Unidad y diversidad celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Unicelulares y pluricelulares». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente diferencian, cuáles expresan, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Unicelulares y pluricelulares», dentro de la sección «5. Unidad y diversidad celular» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: diferencian, cuáles expresan.
+
+Ideas guía:
+- La diferenciación celular es la clave de lo pluricelular.
+- Todas las células de tu cuerpo tienen el mismo ADN, pero una neurona y un glóbulo blanco no se parecen en nada.
+- La diferencia no está en los genes que tienen, sino en cuáles expresan.
+- Esa idea se desarrolla en el capítulo 6, y explica por qué la forma de una célula permite deducir su función, como verás en el capítulo 4.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una levadura es un hongo unicelular eucarionte. ¿Qué implica su condición de unicelular respecto de sus funciones vitales?
+A) Que una sola célula realiza todas las funciones vitales del organismo.
+B) Que necesita asociarse a otras levaduras para poder reproducirse.
+C) Que sus células se diferencian en tejidos con funciones especializadas.
+D) Que carece de núcleo delimitado por envoltura nuclear.
+Correcta: A. Por qué: En un organismo unicelular no hay reparto del trabajo ni tejidos, porque la especialización requiere muchas células diferenciadas que convivan en un mismo individuo. Tampoco se sigue nada sobre el núcleo: ser unicelular y ser procarionte son propiedades completamente independientes entre sí, y la levadura es justamente un eucarionte unicelular, con núcleo y organelos membranosos. Ese último punto es el que la prueba suele explotar para construir…
+
+Pregunta 2 (Observar y plantear preguntas): Todas las células de un organismo pluricelular tienen el mismo ADN, pero una neurona y una célula muscular son muy distintas. ¿Qué pregunta de investigación aborda mejor esa diferencia?
+A) ¿Cuántos genes contiene el genoma humano en total?
+B) ¿En qué momento exacto del desarrollo embrionario aparece la primera neurona?
+C) ¿Cuánto pesa una célula muscular esquelética comparada con el de una neurona?
+D) ¿Qué mecanismos determinan cuáles genes se expresan en cada tipo celular?
+Correcta: D. Por qué: La pregunta correcta apunta justamente a esos mecanismos de regulación. Contar genes del genoma o pesar células entrega datos descriptivos que no explican la diferencia, y preguntar cuándo aparece la primera neurona aborda la cronología del desarrollo sin tocar la causa de la especialización.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere comprobar que dos tipos celulares de un mismo organismo tienen idéntico ADN pero expresan genes distintos. ¿Qué par de mediciones debe realizar?
+A) Medir el tamaño de los dos tipos celulares y contar sus mitocondrias al microscopio electrónico.
+B) Secuenciar el ADN de ambos tipos y medir su velocidad de división.
+C) Secuenciar el ADN de ambos tipos y comparar el conjunto de proteínas que producen.
+D) Contar los cromosomas de ambos tipos y medir su consumo de oxígeno.
+Correcta: C. Por qué: La afirmación tiene dos partes y cada una exige su propia medición: secuenciar el ADN comprueba la identidad del genoma, y comparar las proteínas producidas comprueba la diferencia de expresión. Las demás alternativas miden a lo sumo una de las dos partes, o ninguna, y agregan variables como el tamaño, la velocidad de división o el consumo de oxígeno, que no informan sobre la expresión génica.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

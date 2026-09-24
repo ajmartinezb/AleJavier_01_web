@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 11: c. Reserva y estructura: el mismo ladrillo, otro resultado
+Sección: 4. Carbohidratos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Reserva y estructura: el mismo ladrillo, otro resultado». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente mismo monómero, Almidón, Glucógeno, Celulosa, Quitina, Cómo se pregunta, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Reserva y estructura: el mismo ladrillo, otro resultado», dentro de la sección «4. Carbohidratos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: mismo monómero, Almidón, Glucógeno, Celulosa, Quitina, Cómo se pregunta.
+
+Ideas guía:
+- El almidón, el glucógeno y la celulosa están hechos del mismo monómero, la glucosa.
+- Lo que cambia es el tipo de unión entre las unidades y el grado de ramificación, y ese detalle cambia por completo la función.
+- «Si el almidón y la celulosa están hechos de glucosa, ¿por qué no podemos digerir la celulosa?» Porque el tipo de enlace entre las glucosas es distinto y las enzimas humanas no lo reconocen.
+- Es el mejor ejemplo de que la estructura determina la función incluso con los mismos ladrillos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): El glucógeno es mucho más ramificado que el almidón. ¿Qué ventaja funcional aporta esa diferencia estructural?
+A) Permite movilizar la reserva con mayor rapidez cuando se necesita energía.
+B) Permite almacenar una cantidad mucho mayor de glucosa por molécula.
+C) Permite que el glucógeno resista la acción de todas las enzimas digestivas.
+D) Permite que el glucógeno cumpla funciones estructurales en el músculo.
+Correcta: A. Por qué: Cada ramificación ofrece un extremo libre donde las enzimas pueden actuar, de modo que muchas ramas significan muchos puntos de ataque simultáneo y liberación rápida de glucosa. La ramificación no aumenta la capacidad total de almacenamiento, no confiere resistencia enzimática ni convierte al glucógeno en una molécula estructural.
+
+Pregunta 2 (Evaluar): Se observa que un rumiante aprovecha la celulosa del pasto como fuente de energía, mientras que una persona no. ¿Cuál es la mejor explicación de esa diferencia?
+A) La celulosa presente en el pasto tiene una composición química distinta de la habitual.
+B) El rumiante posee un estómago con un pH bastante más ácido que el del intestino humano.
+C) La persona destruye la celulosa al masticar y no alcanza a absorberla.
+D) El rumiante aloja microorganismos que poseen la enzima capaz de degradar la celulosa.
+Correcta: D. Por qué: Los rumiantes resuelven el problema alojando microorganismos que sí poseen esa enzima y degradan la celulosa por ellos. La composición de la celulosa es la misma en todos los vegetales, el pH del estómago no determina qué enlaces se rompen y la masticación no degrada químicamente la molécula.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que el almidón y la celulosa, pese a estar hechos de glucosa, no se digieren igual. ¿Qué diseño lo pone mejor a prueba?
+A) Medir la masa de ambos polisacáridos antes y después de secarlos durante una hora en una estufa de laboratorio.
+B) Incubar cantidades iguales de ambos con extracto de enzimas digestivas humanas y medir la glucosa liberada.
+C) Observar ambos polisacáridos al microscopio y comparar su aspecto visual.
+D) Disolver ambos en agua caliente y comparar el tiempo que tardan en hacerlo.
+Correcta: B. Por qué: Medir la glucosa liberada tras la incubación detecta directamente esa diferencia: aparecerá glucosa a partir del almidón y no de la celulosa. Secar y pesar, observar al microscopio o comparar solubilidades son mediciones que no ponen en juego la acción enzimática, que es el punto en discusión.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

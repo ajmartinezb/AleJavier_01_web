@@ -1,0 +1,43 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 20: b. Tres errores de lectura que la PAES sí cobra
+Sección: 5. El árbol filogenético
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Tres errores de lectura que la PAES sí cobra». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente tres errores de lectura que la paes sí cobra, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Tres errores de lectura que la PAES sí cobra», dentro de la sección «5. El árbol filogenético» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- La cercanía en la punta no significa parentesco.
+- Dos taxones pueden estar dibujados uno al lado del otro y compartir un nodo muy antiguo.
+- Hay que seguir las ramas hacia atrás hasta el nodo común, no medir la distancia horizontal.
+- Rotar una rama no cambia la información.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Dos libros presentan árboles con distinto aspecto para el mismo grupo. En el primero, el taxón F aparece a la izquierda y el G a la derecha; en el segundo, en posiciones invertidas. Los nodos compartidos son idénticos en ambos. ¿Qué se concluye?
+A) El segundo árbol corrige un error de orientación presente en el primer libro.
+B) Los dos árboles proponen hipótesis de parentesco diferentes entre sí.
+C) El primer árbol indica que F es más antiguo que G dentro del grupo.
+D) Los dos árboles contienen la misma información sobre las relaciones de parentesco.
+Correcta: D. Por qué: El enunciado precisa que los nodos compartidos son idénticos, y los nodos son lo único que codifica parentesco. Por lo tanto, la diferencia entre ambos dibujos es solo gráfica: uno se obtiene del otro rotando ramas. La comparación correcta se hace nodo por nodo, no mirando el orden de las puntas.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un árbol que incluye bacterias, hongos, plantas y animales, un estudiante señala que las bacterias «son más primitivas, porque están a la izquierda y son más simples». ¿Qué corrección corresponde?
+A) Las bacterias están más emparentadas con los hongos que con las plantas del árbol.
+B) Las bacterias deberían ubicarse en la raíz, porque son el ancestro de los otros grupos.
+C) Las bacterias llevan el mismo tiempo evolucionando que los demás grupos del árbol.
+D) Las bacterias tienen menos genes, de modo que su posición izquierda es adecuada.
+Correcta: C. Por qué: Las bacterias actuales no son ancestros de nadie: son linajes contemporáneos que llevan evolucionando desde el origen de la vida, igual que los animales. Su menor complejidad morfológica no las hace más antiguas, y su posición en el dibujo es una convención gráfica. La corrección consiste precisamente en señalar esa igualdad de tiempo transcurrido.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere verificar si su lectura de un árbol es correcta antes de publicarla. ¿Qué procedimiento de verificación corresponde aplicar a cada par de taxones?
+A) Medir con una regla la distancia horizontal entre las puntas de cada par de ramas.
+B) Recorrer las ramas hacia la raíz e identificar el primer nodo compartido por el par.
+C) Comparar la longitud total de las ramas que conducen a cada uno de los taxones.
+D) Registrar el orden en que aparecen los taxones de izquierda a derecha en la figura.
+Correcta: B. Por qué: Un procedimiento válido debe recuperar exactamente la información que el árbol codifica. Recorrer las ramas desde cada punta hacia la raíz y anotar el primer nodo en que ambos recorridos se encuentran entrega justamente eso, y es además verificable por otra persona. Los demás procedimientos miden características del dibujo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

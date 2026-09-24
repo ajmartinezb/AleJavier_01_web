@@ -1,0 +1,38 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 01: 1. Conceptos clave
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Conceptos clave». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente Célula, Procarionte, Eucarionte, Organelo, Membrana plasmática, Citoplasma, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «1. Conceptos clave» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Célula, Procarionte, Eucarionte, Organelo, Membrana plasmática, Citoplasma.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una bióloga analiza muestras de dos microorganismos, X e Y. En X detecta ADN libre en el citoplasma, ribosomas y membrana plasmática, pero ninguna estructura interna rodeada de membrana. En Y detecta ADN dentro de una envoltura doble, ribosomas, mitocondrias y retículo endoplasmático. A partir de estos resultados, ¿qué conclusión es correcta?
+A) X es procarionte e Y es eucarionte.
+B) X es eucarionte e Y es procarionte.
+C) X e Y son procariontes con distinto tamaño.
+D) X e Y son eucariontes con distinto grado de desarrollo.
+Correcta: A. Por qué: Paso 1: X tiene ADN libre y ninguna estructura interna membranosa; eso corresponde a un procarionte. Paso 2: los ribosomas y la membrana plasmática no sirven para distinguir, porque los tienen ambos tipos. Paso 3: Y presenta envoltura nuclear, mitocondrias y retículo, todos compartimentos membranosos: es eucarionte.
+
+Pregunta 2 (Evaluar): Un estudiante observa que células del páncreas que secretan enzimas digestivas tienen abundante retículo endoplasmático rugoso y complejo de Golgi, y concluye: «estas células están especializadas en exportar proteínas». ¿Qué evaluación de su conclusión es adecuada?
+A) Es inválida, porque solo el núcleo determina la función celular.
+B) Es inválida, porque todas las células poseen la misma cantidad de organelos.
+C) Es coherente, porque la dotación de organelos se relaciona con la función celular.
+D) Es coherente, porque demuestra que estas células no fabrican lípidos.
+Correcta: C. Por qué: El retículo rugoso sintetiza proteínas destinadas a membranas o al exterior y el Golgi las modifica y empaca en vesículas. Una célula que tiene mucho de ambos invierte en producir y exportar proteínas, lo que calza con la secreción de enzimas. La conclusión es coherente y no afirma más de lo observado.
+
+Pregunta 3 (Comunicar): Un profesor pide representar en un esquema la relación entre las partes de una célula eucarionte. ¿Cuál de los siguientes esquemas de inclusión es correcto?
+A) Citosol contiene citoplasma, que contiene organelos.
+B) Organelos contienen citoplasma, que contiene citosol.
+C) Núcleo contiene citoplasma, que contiene citosol y organelos.
+D) Citoplasma contiene citosol y organelos, excluido el núcleo.
+Correcta: D. Por qué: Paso 1: el citoplasma es el conjunto mayor, delimitado por fuera por la membrana y por dentro por el núcleo. Paso 2: dentro de él están el citosol y los organelos, al mismo nivel. Paso 3: el núcleo queda fuera del citoplasma en esta definición. Por eso el esquema correcto es el que pone al citoplasma como contenedor de citosol y organelos, sin el núcleo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

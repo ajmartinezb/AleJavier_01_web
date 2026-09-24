@@ -1,0 +1,43 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 03: c. Los tres tipos de unión que importan
+Sección: 2. Bioelementos y enlaces
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Los tres tipos de unión que importan». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Enlace covalente, Enlace iónico, Puente de hidrógeno, Cómo se pregunta, individualmente, dentro, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Los tres tipos de unión que importan», dentro de la sección «2. Bioelementos y enlaces» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Enlace covalente, Enlace iónico, Puente de hidrógeno, Cómo se pregunta, individualmente, dentro.
+
+Ideas guía:
+- El puente de hidrógeno es débil individualmente, y esa debilidad es justamente lo que lo hace útil: permite que las dos hebras del ADN se separen para copiarse y vuelvan a unirse.
+- Una alternativa que diga que el ADN se mantiene unido por enlaces covalentes entre las hebras es falsa: los covalentes están dentro de cada hebra.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Las dos hebras del ADN se separan durante la duplicación y vuelven a unirse sin que la molécula se destruya. ¿Qué tipo de unión lo hace posible?
+A) Enlaces covalentes entre bases de hebras opuestas.
+B) Enlaces iónicos entre los grupos fosfato de ambas hebras.
+C) Enlaces peptídicos entre los azúcares de las dos cadenas.
+D) Puentes de hidrógeno entre bases complementarias.
+Correcta: D. Por qué: Si las hebras estuvieran unidas por enlaces covalentes, separarlas exigiría romper la molécula. Los enlaces covalentes sí existen en el ADN, pero dentro de cada hebra, entre el azúcar y el fosfato. Los enlaces peptídicos, por su parte, unen aminoácidos en las proteínas y no tienen ningún papel en los ácidos nucleicos.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere comprobar que un enlace es iónico y no covalente. ¿Qué observación experimental lo distingue mejor?
+A) Medir la masa total del compuesto antes y después de disolverlo.
+B) Determinar el color que adquiere el compuesto en estado sólido.
+C) Comprobar si el compuesto se disocia en iones al disolverse en agua.
+D) Comprobar si el compuesto contiene átomos de carbono en su estructura.
+Correcta: C. Por qué: Comprobar la disociación, por ejemplo midiendo la conductividad eléctrica de la solución, distingue con claridad los dos casos. La masa total se conserva en cualquier disolución, el color no informa sobre el tipo de enlace y la presencia de carbono indica que la molécula es orgánica, no qué tipo de unión la sostiene.
+
+Pregunta 3 (Evaluar): Un estudiante afirma que el puente de hidrógeno es una unión poco importante porque es débil. ¿Cuál es la mejor evaluación de esa afirmación?
+A) No lo es: su debilidad es funcional y, además, actúan en número enorme.
+B) Es correcta, porque las uniones débiles no cumplen funciones biológicas.
+C) Es correcta, porque el puente de hidrógeno se rompe a cualquier temperatura.
+D) Es incorrecta, porque el puente de hidrógeno es más fuerte que el covalente.
+Correcta: A. Por qué: Esa combinación de debilidad individual y abundancia es exactamente lo que se necesita: permite separar las hebras del ADN para copiarlas, sostiene el plegamiento de las proteínas y da al agua sus propiedades. La última alternativa invierte los hechos, porque el enlace covalente es mucho más fuerte que un puente de hidrógeno.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

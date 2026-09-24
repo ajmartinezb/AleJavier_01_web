@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 08: d. De cortar y pegar a escribir y corregir
+Sección: 3. Origen e historia de la manipulación genética
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «De cortar y pegar a escribir y corregir». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente ADN recombinante, Agregar, PCR y secuenciación, Copiar y leer, Edición genómica, Corregir, apagar o cambiar, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. De cortar y pegar a escribir y corregir», dentro de la sección «3. Origen e historia de la manipulación genética» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ADN recombinante, Agregar, PCR y secuenciación, Copiar y leer, Edición genómica, Corregir, apagar o cambiar.
+
+Ideas guía:
+- Conviene ver la historia como un cambio de capacidad, no como una acumulación de fechas: La pregunta que se repite.
+- Si un enunciado describe que a un organismo se le agregó un gen de otra especie, se trata de transgénesis.
+- Si describe que se corrigió una letra o se inactivó un gen propio, se trata de edición genómica.
+- La distinción decide la respuesta en muchos ítems, y también explica por qué la regulación de ambos casos es distinta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se comparan dos procedimientos aplicados a una misma planta. En el primero se le incorporó un gen bacteriano de resistencia. En el segundo se modificaron dos bases de un gen propio para inactivarlo. ¿Cómo se denominan respectivamente?
+A) Edición y transgénesis, en ese orden.
+B) Transgénesis en ambos casos, por tratarse de la misma planta.
+C) Transgénesis y edición genómica.
+D) Edición genómica en ambos casos, por modificarse el ADN.
+Correcta: C. Por qué: En el primer procedimiento entra ADN de una bacteria, es decir, de otra especie: es transgénesis. En el segundo no entra ADN ajeno; solo se cambiaron dos bases de una secuencia que ya estaba: es edición. Que se trate de la misma planta no altera la clasificación, que depende del tipo de modificación.
+
+Pregunta 2 (Evaluar): Una limitación reconocida de la tecnología del ADN recombinante clásica es que el gen se inserta en un lugar del genoma que no se controla. ¿Qué consecuencia puede tener ese hecho?
+A) El gen puede quedar donde no se transcribe, o interrumpir otro gen.
+B) El gen insertado se degrada en la primera división.
+C) El gen insertado no puede transmitirse nunca a las células hijas del organismo.
+D) El gen insertado cambia su secuencia al integrarse.
+Correcta: A. Por qué: Si el gen cae en una región que no se transcribe, estará presente pero no se expresará. Si cae dentro de otro gen, puede interrumpirlo y provocar un efecto no buscado. Por eso el paso 6 del procedimiento, la verificación, es indispensable. Esta es justamente la limitación que la edición dirigida vino a resolver.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo necesita corregir una única base mutada dentro de un gen humano, sin agregar ADN de otra especie y en un sitio exacto del genoma. ¿Qué herramienta corresponde emplear?
+A) Una enzima de restricción, que corta en su sitio.
+B) CRISPR-Cas9 con un molde de reparación, que dirige el corte al sitio.
+C) Un plásmido bacteriano, que transporta secuencias.
+D) La PCR, que produce millones de copias del fragmento que se quiere corregir.
+Correcta: B. Por qué: El objetivo impone tres condiciones: corregir una base, no agregar ADN ajeno y hacerlo en un sitio determinado. Las enzimas de restricción cortan solo donde está su secuencia de reconocimiento, que rara vez coincide con la mutación; un plásmido agregaría secuencias; y la PCR copia sin modificar el genoma. Solo CRISPR con molde cumple las tres.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

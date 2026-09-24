@@ -1,0 +1,44 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 02: b. Los dos grandes tipos de enfermedad
+Sección: 2. Salud y enfermedad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Los dos grandes tipos de enfermedad». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente Infecciosas, No infecciosas, Cómo se pregunta, no se transmiten, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Los dos grandes tipos de enfermedad», dentro de la sección «2. Salud y enfermedad» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Infecciosas, No infecciosas, Cómo se pregunta, no se transmiten.
+
+Ideas guía:
+- Es un error frecuente llamar «contagiosa» a cualquier enfermedad frecuente.
+- La diabetes y el cáncer son muy comunes y no se transmiten.
+- La pregunta suele presentar una lista mixta y pedir que separes los dos grupos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): De la siguiente lista, ¿cuál corresponde a una enfermedad no infecciosa?
+A) El cólera.
+B) La tuberculosis pulmonar.
+C) La hepatitis A.
+D) La artrosis de rodilla.
+Correcta: D. Por qué: La artrosis es degenerativa y no se transmite de una persona a otra. El cólera lo causa una bacteria y se transmite por agua o alimentos contaminados, la tuberculosis se transmite por vía aérea y la hepatitis A, por vía digestiva. El criterio decisivo es siempre si existe un agente biológico transmisible.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un estudiante afirma que el cáncer es una enfermedad contagiosa porque muchas personas lo padecen. ¿Cuál es el error de ese razonamiento?
+A) Confunde prevención primaria con prevención secundaria.
+B) Confunde un factor de riesgo con una causa suficiente.
+C) Confunde frecuencia con transmisibilidad.
+D) Confunde una enfermedad genética con una degenerativa.
+Correcta: C. Por qué: Que muchas personas padezcan una enfermedad dice algo sobre su prevalencia y nada sobre su mecanismo de aparición. Las otras alternativas nombran confusiones reales que aparecen en este capítulo, pero ninguna describe el error del enunciado, que consiste precisamente en deducir el contagio a partir de la cantidad de casos.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere determinar si una enfermedad recién descrita es infecciosa. ¿Qué evidencia resulta más decisiva?
+A) Comprobar si aparece en personas que conviven con casos, por encima de lo esperado por azar.
+B) Comprobar cuántas personas del país presentan la enfermedad durante el año en curso y el anterior.
+C) Comprobar si los síntomas de la enfermedad son graves o leves.
+D) Comprobar si la enfermedad afecta más a hombres que a mujeres.
+Correcta: A. Por qué: Un exceso de casos entre contactos cercanos, por encima de lo esperable por azar, es precisamente la señal de transmisión. El número total de casos, la gravedad de los síntomas y la distribución por sexo son datos descriptivos que pueden coincidir tanto en enfermedades infecciosas como en no infecciosas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

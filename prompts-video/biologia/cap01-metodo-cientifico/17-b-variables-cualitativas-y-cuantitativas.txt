@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 17: b. Variables cualitativas y cuantitativas
+Sección: 4. Diseño experimental: variables y grupos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Variables cualitativas y cuantitativas». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente Cuantitativas, continuas, discretas, Cualitativas, instrumento, gráfico, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Variables cualitativas y cuantitativas», dentro de la sección «4. Diseño experimental: variables y grupos» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Cuantitativas, continuas, discretas, Cualitativas, instrumento, gráfico.
+
+Ideas guía:
+- Cuantitativas: se expresan con números y unidades.
+- Pueden ser continuas (temperatura, masa, tiempo: admiten cualquier valor dentro de un rango) o discretas (número de semillas germinadas, número de hojas: solo valores enteros).
+- Cualitativas: se expresan con categorías (color de la flor, tipo de suelo, presencia o ausencia de un síntoma).
+- El tipo de variable determina qué instrumento se usa para medirla y qué gráfico conviene para presentarla (sección 8).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un equipo quiere comparar la cantidad de glucosa excretada en la orina de ratas diabéticas y de ratas sanas. Para ello debe tomar muestras de orina de exactamente 5 mL. ¿Qué instrumento es el más adecuado para medir ese volumen con precisión?
+A) Una pipeta graduada.
+B) Una balanza digital.
+C) Un termómetro clínico.
+D) Una regla milimetrada.
+Correcta: A. Por qué: Paso 1: la variable que debe medirse es un volumen de líquido (5 mL). Paso 2: la balanza mide masa, el termómetro temperatura y la regla longitud. Paso 3: la pipeta graduada permite medir con precisión volúmenes pequeños de líquido. Por eso es el instrumento correcto.
+
+Pregunta 2 (Planificar y conducir una investigación): En un cruce de plantas de arveja se registran, para cada descendiente, cuatro características: color de la semilla (amarilla o verde), número de semillas por vaina, masa de la semilla y forma de la semilla (lisa o rugosa). ¿Cuál de ellas es una variable cuantitativa discreta?
+A) El color que presenta la semilla.
+B) La masa de cada semilla en gramos.
+C) El número de semillas por vaina.
+D) La forma de la semilla, lisa o rugosa.
+Correcta: C. Por qué: Paso 1: color y forma se describen con categorías, así que son cualitativas. Paso 2: la masa se expresa en gramos y puede tomar cualquier valor, como 0,23 g: es cuantitativa continua. Paso 3: el número de semillas por vaina solo toma valores enteros (4, 5, 6…): es cuantitativa discreta.
+
+Pregunta 3 (Procesar y analizar la evidencia): En un estudio sobre suelos, se contó el número de lombrices por metro cuadrado en tres tipos de suelo: arcilloso, 12 lombrices; franco, 35 lombrices; arenoso, 6 lombrices. ¿Qué afirmación se desprende correctamente de estos datos?
+A) El suelo arenoso tiene más lombrices que el suelo arcilloso.
+B) El tipo de suelo es la variable cuantitativa de este estudio.
+C) La cantidad de lombrices es igual en los suelos analizados.
+D) El suelo franco presenta la mayor abundancia de lombrices.
+Correcta: D. Por qué: Paso 1: se ordenan los valores: franco 35, arcilloso 12, arenoso 6. Paso 2: el mayor valor corresponde al suelo franco. Paso 3: se descartan las opciones que contradicen los datos o que clasifican mal las variables. La conclusión válida es que el suelo franco tiene la mayor abundancia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

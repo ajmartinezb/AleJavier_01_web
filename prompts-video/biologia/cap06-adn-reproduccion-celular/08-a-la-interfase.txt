@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 08: a. La interfase
+Sección: 3. El ciclo celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «La interfase». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente G1, crece, (síntesis) | Se, duplican los centriolos, G2, revisa, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. La interfase», dentro de la sección «3. El ciclo celular» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: G1, crece, (síntesis) | Se, duplican los centriolos, G2, revisa.
+
+Ideas guía:
+- Aunque al microscopio la célula en interfase parece «quieta», es la etapa más activa y larga del ciclo: en una célula humana típica en cultivo, que se divide cada 24 horas, ocupa más del 90 % del tiempo.
+- Muchas células salen del ciclo desde G1 y entran en un estado de no división, llamado G0, en el que cumplen su función especializada.
+- Algunas quedan en G0 de forma casi permanente, como la mayoría de las neuronas y las fibras musculares cardíacas.
+- Otras pueden volver al ciclo si reciben una señal.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se tiñen con un marcador de nucleótidos recién incorporados 400 células de un cultivo no sincronizado durante un pulso breve. Resultan marcadas 120 células. Además, las células sin marca que tienen el doble de ADN que las de G1 son 60. Si el ciclo dura 20 horas, ¿cuánto dura aproximadamente la fase S?
+A) 3 horas
+B) 4 horas
+C) 4,5 horas
+D) 6 horas
+Correcta: D. Por qué: Las células marcadas son las que estaban en S: 120 de 400, es decir, 30 %. En un cultivo no sincronizado esa proporción equivale a la fracción del ciclo que ocupa S: 0,30 × 20 h = 6 horas, la clave D. Las 60 células sin marca con doble ADN están en G2 o en mitosis y no deben sumarse.
+
+Pregunta 2 (Planificar y conducir una investigación): Una investigadora sospecha que los hepatocitos de un ratón adulto están en G0 y que vuelven a ciclar solo tras perder parte del hígado. Puede medir el porcentaje de hepatocitos que replican ADN. ¿Qué procedimiento pone a prueba su hipótesis?
+A) Comparar ratones sin cirugía y ratones con hepatectomía parcial, midiendo la replicación en ambos.
+B) Medir la replicación en ratones con hepatectomía parcial en un solo momento después de la cirugía.
+C) Comparar la replicación de hepatocitos con la de neuronas, en ratones que no fueron operados.
+D) Medir el tamaño del hígado en ratones jóvenes y adultos que no fueron sometidos a cirugía.
+Correcta: A. Por qué: La hipótesis tiene dos partes: sin daño los hepatocitos no replican y, tras perder tejido, sí lo hacen. Para probarla se requiere un grupo control sin cirugía y un grupo experimental con hepatectomía parcial, midiendo la misma variable en ambos. Eso propone A. Medir solo a los operados no permite comparar; comparar con neuronas o medir el tamaño del hígado no manipula la señal.
+
+Pregunta 3 (Evaluar): En un cultivo se agrega una droga que despolimeriza los microtúbulos, sin afectar la replicación. Un estudiante concluye: «Como la droga impide el huso, las células quedan detenidas en G2». Los datos muestran que las células replican su ADN y luego se acumulan con cromosomas condensados y sin placa metafásica. ¿Qué evaluación es correcta?
+A) Es correcta, porque las células detenidas tienen 4c, igual que en G2.
+B) Es incorrecta, porque quedan detenidas ya iniciada la mitosis.
+C) Es correcta, porque la tubulina del huso se sintetiza durante G2.
+D) Es incorrecta, porque la droga impide también la replicación del ADN.
+Correcta: B. Por qué: Las células detenidas presentan cromosomas condensados, rasgo propio de la mitosis y no de la interfase. Por lo tanto superaron G2 y quedaron bloqueadas antes de alinear los cromosomas, porque sin microtúbulos no hay huso. La conclusión del estudiante es incorrecta, como señala B. Tener 4c no basta para ubicarlas en G2, y el enunciado indica que la replicación ocurre.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

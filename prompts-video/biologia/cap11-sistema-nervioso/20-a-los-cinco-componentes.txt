@@ -1,0 +1,42 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 20: a. Los cinco componentes
+Sección: 6. El arco reflejo simple
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Los cinco componentes». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente |, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Los cinco componentes», dentro de la sección «6. El arco reflejo simple» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: |.
+
+Ideas guía:
+- Conviene memorizarlos, porque la PAES los pregunta ordenados, desordenados o por omisión.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En el reflejo rotuliano, el golpe en el tendón estira el músculo y este se contrae. Identifica el receptor y el efector de ese arco reflejo.
+A) Receptor: la neurona motora del nervio femoral; efector: la médula espinal.
+B) Receptor: la médula espinal; efector: el tendón golpeado por el martillo.
+C) Receptor: la piel de la rodilla; efector: la neurona sensitiva del nervio.
+D) Receptor: el sensor de estiramiento; efector: el músculo del muslo.
+Correcta: D. Por qué: El estímulo es el estiramiento del músculo, de modo que el receptor es el sensor de estiramiento situado en su interior. La respuesta es la contracción de ese mismo músculo, así que el efector es el músculo del muslo. La médula espinal es el centro integrador y las neuronas son las vías, no el receptor ni el efector.
+
+Pregunta 2 (Planificar y conducir una investigación): Un estudiante quiere comprobar en qué componente del arco reflejo está la falla, en un caso en que el reflejo rotuliano no aparece. Se comprueba que el músculo se contrae al estimularlo eléctricamente de forma directa. ¿Qué componente queda descartado?
+A) El receptor de estiramiento situado en el músculo.
+B) La vía aferente que llega a la médula espinal.
+C) El efector, es decir, el propio músculo del muslo.
+D) El centro integrador ubicado en la médula espinal.
+Correcta: C. Por qué: La estimulación eléctrica directa pone a prueba solo al músculo, porque omite receptor, vías y centro integrador. Como el músculo responde, el efector está intacto y la falla debe estar en alguno de los cuatro componentes anteriores. La prueba no permite todavía distinguir entre ellos.
+
+Pregunta 3 (Observar y plantear preguntas): Al revisar el esquema de un arco reflejo, un estudiante advierte que el centro integrador aparece dibujado dentro de la médula espinal y no en el encéfalo. ¿Qué pregunta investigable surge de esa observación?
+A) ¿Qué consecuencias tiene, para la rapidez, que el centro esté en la médula?
+B) ¿Cuántos colores distintos se emplearon para dibujar el esquema del reflejo?
+C) ¿En qué año se incorporó ese esquema al programa escolar de biología?
+D) ¿Cuál es la longitud total de la médula espinal en un adulto de estatura media?
+Correcta: A. Por qué: El rasgo observado es la ubicación del centro integrador, y lo que cabe preguntar es qué implica esa ubicación: al no tener que subir al encéfalo, la señal recorre menos distancia y atraviesa menos relevos, con lo que la respuesta es mucho más rápida. Las otras preguntas se refieren al dibujo, a su historia o a un dato anatómico sin relación.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

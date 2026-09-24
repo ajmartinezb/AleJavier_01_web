@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 28: d. Cómo reconocerlos en una pregunta
+Sección: 6. Hipótesis, teoría, ley, principio y modelo
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Cómo reconocerlos en una pregunta». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente hipótesis, predicción, teoría, ley, modelo, conclusión, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Cómo reconocerlos en una pregunta», dentro de la sección «6. Hipótesis, teoría, ley, principio y modelo» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: hipótesis, predicción, teoría, ley, modelo, conclusión.
+
+Ideas guía:
+- La PAES también pregunta qué observación apoya una teoría.
+- Por ejemplo, la teoría endosimbiótica propone que mitocondrias y cloroplastos se originaron de bacterias que fueron incorporadas por otra célula.
+- La apoyan evidencias como estas: esos organelos tienen su propio ADN circular, similar al de las bacterias; tienen ribosomas parecidos a los bacterianos, y se dividen por sí mismos, de forma parecida a la fisión binaria.
+- Una evidencia a favor es un dato observable que la teoría predice o explica.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un grupo de estudiantes nota que, en tubos con agua oxigenada, un trozo de hígado crudo produce muchas burbujas, mientras que uno cocido casi no produce. Antes de hacer otras pruebas, escriben: «El calor de la cocción altera una enzima del hígado que descompone el agua oxigenada». ¿A qué corresponde este planteamiento?
+A) A una conclusión.
+B) A una hipótesis.
+C) A una teoría.
+D) A una ley.
+Correcta: B. Por qué: El enunciado propone una causa (una enzima alterada por el calor) para una observación concreta (menos burbujas con hígado cocido). Además, el texto dice que se escribe antes de las pruebas: todavía no se ha verificado. Una explicación tentativa, acotada y comprobable es una hipótesis. Se puede poner a prueba, por ejemplo, calentando hígado a distintas temperaturas. Clave: B.
+
+Pregunta 2 (Planificar y conducir una investigación): Santiago Ramón y Cajal sostuvo, a fines del siglo XIX, que el sistema nervioso está formado por células individuales, las neuronas, que se comunican por contacto sin fusionarse, en oposición a la idea de una red continua. ¿Qué evidencia apoya directamente su propuesta?
+A) Las neuronas transmiten impulsos eléctricos a gran velocidad.
+B) El cerebro humano contiene miles de millones de neuronas.
+C) Al microscopio electrónico, se ve un espacio entre dos neuronas.
+D) La tinción de Golgi permite ver una red sin límites entre células.
+Correcta: C. Por qué: La doctrina de la neurona predice que cada neurona es una célula separada. Su rival, la teoría reticular, predice continuidad. La evidencia que decide es aquella que solo una de las dos predice: un espacio entre neuronas. En la década de 1950, el microscopio electrónico mostró la hendidura sináptica, de unos 20 nm, que confirma la separación. Clave: C.
+
+Pregunta 3 (Procesar y analizar la evidencia): Un equipo midió la actividad de la amilasa salival a distintas temperaturas: 10 °C, 12 unidades; 20 °C, 25; 30 °C, 38; 37 °C, 45; 50 °C, 20; 60 °C, 3. Al terminar, redactaron un enunciado. ¿Cuál corresponde a una conclusión coherente con estos datos?
+A) Si se mide a 40 °C, la actividad será superior a 45 unidades.
+B) La actividad aumentó en todo el rango de temperaturas medido.
+C) Toda enzima de cualquier ser vivo tiene su óptimo a 37 °C.
+D) La actividad fue máxima a 37 °C y cayó a mayor temperatura.
+Correcta: D. Por qué: Se revisa la tabla: la actividad sube de 12 a 45 unidades entre 10 °C y 37 °C, y luego baja a 20 y 3 unidades a 50 °C y 60 °C. El valor más alto está en 37 °C. Una conclusión resume ese patrón para esta enzima y en este rango. No debe anticipar valores no medidos ni generalizar a todas las enzimas. Clave: D.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

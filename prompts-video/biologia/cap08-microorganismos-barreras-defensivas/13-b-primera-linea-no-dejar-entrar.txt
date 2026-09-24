@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 13: b. Primera línea: no dejar entrar
+Sección: 5. Las barreras defensivas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Primera línea: no dejar entrar». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente Piel, Mucosas, Cilios, Secreciones, Microbiota, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Primera línea: no dejar entrar», dentro de la sección «5. Las barreras defensivas» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Piel, Mucosas, Cilios, Secreciones, Microbiota.
+
+Ideas guía:
+- Piel: una capa de células muertas y queratinizadas que ningún patógeno común atraviesa si está intacta.
+- Mucosas: recubren las vías respiratoria, digestiva y urogenital, y producen mucus que atrapa partículas.
+- Cilios: en las vías respiratorias, barren el mucus con lo atrapado hacia afuera.
+- Secreciones: el sudor y el sebo tienen pH ácido; las lágrimas y la saliva contienen lisozima, una enzima que destruye la pared de muchas bacterias; el jugo gástrico es fuertemente ácido.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): La lisozima presente en las lágrimas y la saliva destruye la pared de muchas bacterias. ¿A qué línea de defensa pertenece?
+A) A la segunda, como parte de la respuesta inflamatoria.
+B) A la primera, como barrera química externa.
+C) A la tercera, como anticuerpo específico contra bacterias.
+D) A ninguna: es una enzima digestiva sin función defensiva.
+Correcta: B. Por qué: Actúa antes de que el agente ingrese y sin distinguir entre especies, de modo que es una barrera química inespecífica. No es un anticuerpo, porque no se produce en respuesta a un antígeno determinado, y tampoco forma parte de la inflamación, que ocurre una vez que el agente entró.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere comprobar que los cilios de las vías respiratorias participan en la defensa. ¿Qué observación lo respalda mejor?
+A) Medir el número de cilios presentes en una muestra de epitelio de la vía respiratoria superior.
+B) Determinar la longitud promedio de los cilios al microscopio electrónico.
+C) Comparar la frecuencia de infecciones respiratorias en personas con y sin cilios funcionales.
+D) Registrar la temperatura del aire que ingresa por las fosas nasales.
+Correcta: C. Por qué: Comparar personas con y sin cilios funcionales relaciona directamente la estructura con el resultado de salud, y existen alteraciones genéticas que permiten hacer esa comparación. Contar cilios, medir su longitud o registrar la temperatura del aire describe la estructura o el contexto sin evaluar su función defensiva.
+
+Pregunta 3 (Evaluar): Se sostiene que cubrir y limpiar una herida es una medida de defensa y no solo un detalle estético. ¿Qué argumento sostiene mejor esa afirmación?
+A) Una herida abierta activa de inmediato la respuesta inmune específica del organismo.
+B) Una herida abierta impide que se produzca la respuesta inflamatoria.
+C) Una herida abierta elimina la microbiota de toda la superficie corporal de la persona.
+D) Una herida abierta es una puerta de entrada que anula la primera línea de defensa.
+Correcta: D. Por qué: Con la piel rota desaparece la barrera que impedía el ingreso, y limpiar y cubrir restablece en parte esa protección. La respuesta específica tarda días y no se activa de inmediato, la inflamación sí ocurre en una herida y la microbiota del resto del cuerpo no se ve afectada por una lesión local.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

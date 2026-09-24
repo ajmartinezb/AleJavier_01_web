@@ -1,0 +1,40 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 10: d. Las extinciones masivas
+Sección: 3. La historia del planeta y la historia de la vida en 24 horas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Las extinciones masivas». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente las extinciones masivas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Las extinciones masivas», dentro de la sección «3. La historia del planeta y la historia de la vida en 24 horas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- Los mamíferos existían desde hacía más de 130 millones de años, pero recién después del límite K-Pg ocuparon los modos de vida que habían sido de los dinosaurios.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un informe señala que el grupo de los mamíferos ya estaba presente en el registro fósil mucho antes del límite K-Pg, con formas de pequeño tamaño, y que solo en los estratos posteriores a ese límite aparecen mamíferos de tamaños y modos de vida muy variados. ¿Qué explica mejor este patrón?
+A) El impacto del asteroide provocó en los mamíferos mutaciones que los diversificaron.
+B) La extinción de los dinosaurios no avianos dejó ambientes disponibles.
+C) Los mamíferos aparecieron recién después del límite K-Pg, junto con las primeras aves.
+D) El clima posterior al impacto fue el único favorable para la vida de los mamíferos.
+Correcta: B. Por qué: Los mamíferos ya existían y ya tenían variabilidad, pero convivían con dinosaurios que ocupaban la mayoría de los modos de vida de gran tamaño. Al desaparecer estos, los recursos y los espacios quedaron disponibles, y las poblaciones de mamíferos que los explotaron dejaron más descendencia. La diversificación siguió a la oportunidad, no a un cambio interno del grupo.
+
+Pregunta 2 (Planificar y conducir una investigación): Para evaluar si un episodio de extinción masiva fue global y no solo regional, un equipo debe diseñar su muestreo. ¿Qué diseño responde a esa pregunta?
+A) Muestrear con gran detalle una única columna estratigráfica muy bien conservada.
+B) Muestrear estratos de edades muy distintas dentro de una misma cuenca sedimentaria.
+C) Muestrear solo los estratos que ya contienen fósiles de los grupos que se extinguieron.
+D) Muestrear columnas estratigráficas de la misma edad en varios continentes y océanos.
+Correcta: D. Por qué: La afirmación que se evalúa es de alcance global. Para sostenerla o refutarla hay que comprobar que el mismo patrón aparece en localidades muy distantes y en ambientes distintos. Muestrear una sola columna, por muy detallada que sea, solo informa sobre esa localidad, así que no permite distinguir un evento global de uno regional.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo registra en una cuenca que, hace 18 mil años, existían praderas y doce especies de mamíferos de gran tamaño; hace 14 mil años aparecen restos humanos junto a esos mamíferos; hace 11 mil años el ambiente es boscoso y todos los mamíferos grandes están extintos. ¿Qué objetivo de investigación es acorde con estos registros?
+A) Describir la dieta que tenían los mamíferos de gran tamaño de la cuenca estudiada.
+B) Explicar cómo los seres humanos poblaron el continente americano desde el norte.
+C) Proponer las causas de la extinción de los mamíferos grandes de esa cuenca.
+D) Comparar la anatomía de los mamíferos extintos con la de los mamíferos actuales.
+Correcta: C. Por qué: Los registros entregan tres cosas ordenadas en el tiempo: el ambiente, la presencia humana y la desaparición de los mamíferos grandes. Con esos elementos se puede proponer qué causó la extinción, que es lo que cambia a lo largo de la secuencia. Los demás objetivos exigirían datos que no se recogieron, como la dieta, la ruta de poblamiento o la anatomía comparada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

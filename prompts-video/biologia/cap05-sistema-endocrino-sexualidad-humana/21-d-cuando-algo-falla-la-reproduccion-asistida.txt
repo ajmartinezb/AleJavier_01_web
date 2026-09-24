@@ -1,0 +1,42 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 21: d. Cuando algo falla: la reproducción asistida
+Sección: 6. La fecundación y los primeros días
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Cuando algo falla: la reproducción asistida». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Inseminación intrauterina, Fecundación _in vitro_, meiosis, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Cuando algo falla: la reproducción asistida», dentro de la sección «6. La fecundación y los primeros días» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Inseminación intrauterina, Fecundación _in vitro_, meiosis.
+
+Ideas guía:
+- Los ítems sobre técnicas de reproducción asistida se resuelven identificando qué paso del proceso reemplaza la técnica.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Se ofrece un procedimiento que inyecta directamente un espermatozoide en el citoplasma del ovocito. Cuatro personas consultan: la primera tiene bajo conteo espermático; la segunda, anomalías en el proceso meiótico; la tercera, enzimas acrosomales inactivas; la cuarta, falla en el reconocimiento entre gametos. ¿Para cuál sería inefectivo?
+A) Para la segunda, porque la técnica no corrige el genoma del gameto usado.
+B) Para la primera, porque el bajo conteo impide obtener espermatozoides.
+C) Para la tercera, porque la técnica requiere enzimas acrosomales activas.
+D) Para la cuarta, porque la técnica depende del reconocimiento entre gametos.
+Correcta: A. Por qué: La técnica sortea barreras físicas, de modo que resuelve los casos de bajo conteo, enzimas inactivas y falla de reconocimiento: en los tres basta con llevar un espermatozoide al interior del ovocito. En cambio, si la meiosis produjo gametos cromosómicamente anómalos, el problema viaja dentro del espermatozoide inyectado.
+
+Pregunta 2 (Planificar y conducir una investigación): Una persona tiene ambas trompas obstruidas y desea lograr un embarazo. ¿Qué técnica es apropiada y por qué?
+A) Inseminación intrauterina, porque deposita los espermatozoides en el útero.
+B) Fecundación in vitro, porque el encuentro de los gametos ocurre fuera del cuerpo.
+C) Estimulación ovárica sola, porque aumenta el número de ovocitos liberados.
+D) Registro de la temperatura basal, porque identifica los días más fértiles.
+Correcta: B. Por qué: Con las trompas bloqueadas, los gametos no pueden encontrarse dentro del cuerpo, de modo que el encuentro debe ocurrir en el laboratorio y el embrión transferirse después al útero. Estimular la ovulación o identificar días fértiles no resuelve nada si el conducto está interrumpido.
+
+Pregunta 3 (Comunicar): Se pide explicar en una frase qué paso del proceso reemplaza la fecundación in vitro. ¿Cuál es la correcta?
+A) Reemplaza la implantación del blastocisto en el endometrio uterino.
+B) Reemplaza la producción de gametos, que se fabrican artificialmente.
+C) Reemplaza el encuentro de los gametos, que ocurre en el laboratorio.
+D) Reemplaza el desarrollo completo del embrión hasta el nacimiento.
+Correcta: C. Por qué: La técnica no fabrica gametos, que se obtienen de las personas, ni reemplaza la implantación, que debe ocurrir en el endometrio como siempre, ni el desarrollo posterior. Su alcance es acotado y por eso no resuelve todos los casos de infertilidad.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

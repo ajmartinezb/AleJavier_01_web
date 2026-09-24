@@ -1,0 +1,44 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 14: viii. Comunicación de los resultados
+Sección: 3. Etapas de una investigación científica
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Comunicación de los resultados». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente revisión de pares, repliquen, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «viii. Comunicación de los resultados», dentro de la sección «3. Etapas de una investigación científica» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: revisión de pares, repliquen.
+
+Ideas guía:
+- La investigación se da a conocer mediante artículos científicos, congresos o informes.
+- Antes de publicarse en una revista, el trabajo pasa por la revisión de pares: otros especialistas evalúan el diseño, los datos y las conclusiones.
+- La publicación permite que otros repliquen el trabajo y construyan sobre él.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Comunicar): Un grupo registró el número de células en división observadas en raíces de ajo tratadas durante 24 horas con cuatro concentraciones de un extracto vegetal (0, 1, 2 y 4 %). Quiere presentar en la feria científica cómo cambia el número de células en división a medida que aumenta la concentración. ¿Qué recurso es el más adecuado para ese objetivo?
+A) Un gráfico de torta con el porcentaje de cada una de las concentraciones.
+B) Un gráfico de líneas, con la concentración en X y las células en Y.
+C) Un esquema de una célula de la raíz con sus organelos rotulados en detalle.
+D) Una fotografía de la raíz del ajo tomada al comenzar el experimento.
+Correcta: B. Por qué: El objetivo es mostrar cómo varía una variable cuantitativa (células en división) al cambiar otra también cuantitativa y ordenada (concentración). Para eso sirve un gráfico de líneas o de dispersión con la independiente en el eje X y la dependiente en el eje Y: la pendiente deja ver la tendencia. Un gráfico de torta muestra partes de un todo, y el esquema o la fotografía no contienen los datos medidos.
+
+Pregunta 2 (Evaluar): Un equipo envió a una revista un artículo que afirma que cierta población de moscas desarrolló resistencia a un insecticida. Los revisores piden que se indique con detalle el número de moscas usadas, la dosis aplicada y el método de conteo. ¿Qué propósito cumple principalmente esta petición?
+A) Aumentar la extensión del artículo para que sea aceptado más rápido.
+B) Asegurar que el artículo coincida con la opinión de los revisores.
+C) Permitir que otros equipos repitan el estudio y lo verifiquen.
+D) Evitar que otros investigadores estudien la resistencia en moscas.
+Correcta: C. Por qué: Los revisores piden datos del procedimiento: cantidad de moscas, dosis y forma de contar. Con esa información, otro laboratorio puede montar el mismo experimento y ver si obtiene resultados similares. Si lo logra, la conclusión gana confiabilidad; si no, se detecta un posible error. Esa es la función de la petición, como indica C. La revisión no busca alargar textos, imponer opiniones ni frenar a otros equipos.
+
+Pregunta 3 (Evaluar): Una empresa anuncia en redes sociales que su jugo «refuerza el sistema inmune», citando un estudio propio hecho en 12 personas, no publicado en ninguna revista. Otro estudio, publicado tras revisión de pares, siguió a 600 personas durante un año y no encontró diferencias. ¿Por qué el segundo estudio ofrece evidencia más confiable?
+A) Porque su conclusión resultó más favorable al consumo del jugo analizado.
+B) Porque apareció en redes sociales y así lo pudo conocer más gente.
+C) Porque lo financió una empresa interesada en vender el jugo analizado.
+D) Porque tuvo una muestra mayor y otros expertos revisaron su método.
+Correcta: D. Por qué: El primer estudio tiene 12 personas, no fue revisado y lo hizo la misma empresa que vende el producto. El segundo tiene 600 personas, un año de seguimiento y pasó por revisión de pares. Una muestra grande reduce el efecto del azar y la revisión externa filtra errores de diseño. Por eso el segundo es más confiable, como señala D, aunque su resultado no apoye al jugo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

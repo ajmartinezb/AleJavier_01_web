@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 25: c. Lamarck: el primer mecanismo explícito
+Sección: 6. La evolución antes de Darwin
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Lamarck: el primer mecanismo explícito». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Jean-Baptiste Lamarck, se transforman, transformismo, transmiten a la descendencia, August Weismann, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Lamarck: el primer mecanismo explícito», dentro de la sección «6. La evolución antes de Darwin» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Jean-Baptiste Lamarck, se transforman, transformismo, transmiten a la descendencia, August Weismann.
+
+Ideas guía:
+- Jean-Baptiste Lamarck publicó en 1809 su Filosofía zoológica, donde sostuvo algo que en su época era una ruptura: las especies se transforman unas en otras a lo largo del tiempo (transformismo), y los organismos complejos provienen de otros más simples.
+- Propuso dos mecanismos: Ley del uso y el desuso.
+- Las exigencias del ambiente llevan a que un organismo use más ciertos órganos, que por eso se desarrollan, y deje de usar otros, que se atrofian.
+- Las modificaciones así conseguidas durante la vida del individuo se transmiten a la descendencia.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): A fines del siglo XIX, August Weismann quiso poner a prueba la herencia de los caracteres adquiridos. ¿Qué diseño experimental permite hacerlo?
+A) Criar ratones en ambientes fríos durante generaciones y medir el largo de su pelaje.
+B) Seleccionar como reproductores a los ratones de cola más corta durante generaciones.
+C) Alimentar a los ratones con dietas distintas y comparar el peso que alcanzan de adultos.
+D) Cortar la cola a ratones durante varias generaciones y observar la cola de las crías.
+Correcta: D. Por qué: Para contrastar esa idea hace falta una modificación que sea indudablemente adquirida, no genética, y observar si aparece en la descendencia. Cortar la cola cumple esa condición: si las crías nacieran con la cola corta, la hipótesis se sostendría. Como nacieron con cola normal generación tras generación, quedó refutada.
+
+Pregunta 2 (Evaluar): Un estudiante afirma que la teoría de Lamarck «no tuvo ningún valor, porque su mecanismo resultó equivocado». ¿Qué objeción corresponde hacer a esta valoración?
+A) Lamarck describió la selección natural, aunque con otro nombre y menos evidencia.
+B) Lamarck propuso que las especies cambian por causas naturales, lo que abrió el problema.
+C) Lamarck demostró experimentalmente la transmisión de los caracteres adquiridos.
+D) Lamarck estableció el sistema de clasificación que se emplea hasta la actualidad.
+Correcta: B. Por qué: Una teoría puede aportar aunque su mecanismo sea incorrecto, si plantea el problema en términos investigables. Lamarck sacó el origen de las especies del terreno de lo sobrenatural y lo convirtió en una pregunta científica, con un mecanismo explícito que precisamente por serlo pudo ser puesto a prueba y refutado.
+
+Pregunta 3 (Procesar y analizar la evidencia): En un criadero se documenta que ratones sometidos durante seis generaciones a ejercicio intenso desarrollan mayor masa muscular, pero que sus crías, criadas sin ejercicio, presentan la misma masa muscular que el grupo control. ¿Qué respaldan estos resultados?
+A) Que el ejercicio intenso no produce ningún efecto sobre la masa muscular del individuo.
+B) Que la masa muscular carece por completo de componente genético heredable.
+C) Que las modificaciones adquiridas durante la vida no se transmiten a la descendencia.
+D) Que seis generaciones son insuficientes para que aparezca un cambio evolutivo.
+Correcta: C. Por qué: Los resultados tienen dos partes. La primera muestra que el ejercicio sí modifica al individuo. La segunda muestra que esa modificación no aparece en las crías criadas sin ejercicio. Juntas indican que el carácter adquirido no se transmitió, que es exactamente lo que predice el mecanismo correcto y contradice el lamarckiano.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

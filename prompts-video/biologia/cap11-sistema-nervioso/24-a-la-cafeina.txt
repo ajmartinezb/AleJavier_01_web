@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 24: a. La cafeína
+Sección: 7. Efectos del café, el alcohol y las drogas de abuso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «La cafeína». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Dónde actúa, receptores de adenosina, Cómo, antagonista, Efecto, se acumula, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. La cafeína», dentro de la sección «7. Efectos del café, el alcohol y las drogas de abuso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Dónde actúa, receptores de adenosina, Cómo, antagonista, Efecto, se acumula.
+
+Ideas guía:
+- La adenosina es una molécula que se acumula en el cerebro a lo largo del día y que, al unirse a sus receptores, produce somnolencia y frena la liberación de varios neurotransmisores.
+- La cafeína tiene una forma parecida, ocupa esos receptores y impide que la adenosina actúe.
+- La cafeína no elimina el cansancio ni aporta energía: bloquea la señal que lo comunica.
+- La adenosina sigue acumulándose mientras tanto, y cuando el efecto de la cafeína pasa, esa señal acumulada se hace sentir de golpe.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): La adenosina se acumula durante la vigilia y, al unirse a sus receptores, produce somnolencia. La cafeína se une a esos mismos receptores sin activarlos. ¿Cómo se clasifica la cafeína y qué efecto produce?
+A) Es un antagonista de los receptores de adenosina y por eso reduce la somnolencia.
+B) Es un agonista de los receptores de adenosina y por eso induce el sueño.
+C) Es un inhibidor de la recaptación de adenosina y por eso aumenta su efecto.
+D) Es un bloqueador de la liberación de adenosina y por eso la elimina del organismo.
+Correcta: A. Por qué: El enunciado indica que la cafeína ocupa el receptor pero no lo activa: esa es la definición de antagonista. Como la adenosina ya no puede unirse, su señal de somnolencia no se produce y la persona se siente despierta. La cafeína no elimina la adenosina, que sigue acumulándose mientras dura la vigilia.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una persona que consume café a diario nota que necesita cada vez más tazas para sentirse igual de despierta, y que sin café se siente más somnolienta que antes. ¿Qué explica ambos hechos?
+A) La pérdida definitiva de las neuronas que responden a la adenosina.
+B) La tolerancia: el aumento del número de receptores de adenosina en las neuronas.
+C) La disminución progresiva de la absorción intestinal de la cafeína.
+D) La transformación de la cafeína en una molécula que induce el sueño.
+Correcta: B. Por qué: Con más receptores disponibles, la misma dosis de cafeína bloquea una fracción menor y el efecto se debilita: eso explica la necesidad de más tazas. Y si falta la cafeína, todos esos receptores quedan libres para la adenosina, cuya señal se amplifica: eso explica la somnolencia mayor. Un solo mecanismo da cuenta de ambos hechos.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar si la cafeína mejora el tiempo de reacción en estudiantes. ¿Cuál es el diseño más adecuado?
+A) Medir el tiempo de reacción solo en quienes toman café todos los días.
+B) Preguntar a los estudiantes si se sienten más despiertos después de tomar café.
+C) Medir el tiempo de reacción de un grupo antes de tomar café y de otro grupo después.
+D) Comparar dos grupos: uno con cafeína y otro con una bebida idéntica sin ella.
+Correcta: D. Por qué: El diseño correcto tiene dos grupos que difieren solo en la presencia de cafeína y una bebida control indistinguible, de modo que la expectativa sea la misma en ambos. Preguntar por la sensación mide una percepción y no el tiempo de reacción, y comparar grupos distintos en momentos distintos mezcla dos variables.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

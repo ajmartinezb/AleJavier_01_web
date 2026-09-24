@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 15: b. Las cinco etapas
+Sección: 5. La sinapsis química
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Las cinco etapas». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Entra calcio, Ca<sup>2+</sup>, Se libera el neurotransmisor, exocitosis, Se retira el neurotransmisor, no se libera neurotransmisor, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Las cinco etapas», dentro de la sección «5. La sinapsis química» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Entra calcio, Ca<sup>2+</sup>, Se libera el neurotransmisor, exocitosis, Se retira el neurotransmisor, no se libera neurotransmisor.
+
+Ideas guía:
+- Llega el potencial de acción al terminal axónico de la neurona presináptica.
+- La despolarización abre canales de Ca2+ dependientes de voltaje, y el calcio entra al terminal.
+- El calcio hace que las vesículas se fusionen con la membrana y vacíen su contenido al espacio sináptico por exocitosis.
+- El neurotransmisor difunde por el espacio y se une a receptores específicos de la membrana postsináptica, lo que abre canales iónicos y cambia el potencial de esa célula.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Ordena estos hechos de la transmisión sináptica: 1, apertura de canales de calcio; 2, unión del neurotransmisor al receptor; 3, llegada del potencial de acción al terminal; 4, fusión de las vesículas con la membrana. ¿Cuál es el orden correcto?
+A) 1, 3, 4, 2.
+B) 3, 4, 1, 2.
+C) 3, 1, 4, 2.
+D) 2, 3, 1, 4.
+Correcta: C. Por qué: La cadena empieza necesariamente con el hecho eléctrico, la llegada del potencial de acción (3). Ese cambio de voltaje abre los canales de calcio (1). El calcio que entra desencadena la fusión de las vesículas (4). Solo entonces el neurotransmisor puede unirse al receptor (2). El orden es, por lo tanto, 3, 1, 4, 2.
+
+Pregunta 2 (Planificar y conducir una investigación): Se dispone de un fármaco del que se sabe solo que reduce la respuesta postsináptica. Para averiguar si actúa antes o después del espacio sináptico, ¿qué experimento conviene hacer?
+A) Aplicar el neurotransmisor directamente sobre la membrana postsináptica.
+B) Medir el potencial de acción de la neurona presináptica antes y después del fármaco.
+C) Medir la concentración de calcio en el interior del terminal presináptico en reposo.
+D) Registrar la velocidad de conducción del axón presináptico con y sin fármaco.
+Correcta: A. Por qué: Aplicar el neurotransmisor directamente saltea todos los pasos presinápticos. Si aun así la respuesta sigue reducida, el fármaco actúa en el lado postsináptico; si la respuesta es normal, el problema estaba antes, en la liberación. Medir el potencial de acción o la velocidad de conducción no distingue entre esas dos opciones.
+
+Pregunta 3 (Evaluar): Un estudiante afirma que «el neurotransmisor se queda unido al receptor, y por eso el efecto de una sinapsis dura horas». ¿Cuál es la corrección pertinente?
+A) Es correcta, porque la unión al receptor es permanente e irreversible.
+B) Es incorrecta, porque el neurotransmisor nunca llega a unirse al receptor postsináptico.
+C) Es correcta, aunque el efecto de la sinapsis dura días y no solo algunas horas.
+D) Es incorrecta: el neurotransmisor se retira del espacio en milisegundos.
+Correcta: D. Por qué: Si el neurotransmisor quedara unido al receptor, la sinapsis no podría transmitir un segundo mensaje y el sistema perdería su capacidad de responder a cambios rápidos. Justamente para evitarlo existe el quinto paso, el retiro del mensajero, que limita el efecto a milisegundos y devuelve la sinapsis a su estado de reposo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

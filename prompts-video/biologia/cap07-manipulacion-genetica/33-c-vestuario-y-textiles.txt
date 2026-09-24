@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 33: c. Vestuario y textiles
+Sección: 8. Aplicaciones industriales: detergentes y vestuario
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Vestuario y textiles». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente 2. El procesamiento: enzimas, Bio-stoning, Biopulido, Desencolado, Descrudado, seda de araña, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Vestuario y textiles», dentro de la sección «8. Aplicaciones industriales: detergentes y vestuario» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 2. El procesamiento: enzimas, Bio-stoning, Biopulido, Desencolado, Descrudado, seda de araña.
+
+Ideas guía:
+- Aquí la manipulación genética interviene en tres puntos distintos de la cadena, y conviene distinguirlos porque son tres cosas diferentes: 1.
+- El algodón es uno de los cuatro grandes cultivos transgénicos, con unos 25 millones de hectáreas.
+- La variedad Bt lleva el gen de Bacillus thuringiensis y resiste a las larvas que atacan la cápsula.
+- El algodón es un cultivo históricamente intensivo en insecticidas, así que el efecto sobre su uso es significativo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En la cadena textil, la manipulación genética interviene en tres puntos: el algodón Bt, las enzimas de procesamiento y la seda de araña recombinante. ¿Qué distingue a estos tres casos?
+A) Los tres modifican la fibra en el cultivo, aunque empleen organismos distintos.
+B) El primero modifica la fibra en el cultivo, el segundo el procesamiento y el tercero crea una fibra nueva.
+C) Los tres corresponden a enzimas producidas por microorganismos recombinantes.
+D) El primero crea una fibra nueva, el segundo modifica el cultivo y el tercero el procesamiento.
+Correcta: B. Por qué: El algodón Bt actúa en el cultivo, protegiendo la planta de las larvas. Las celulasas y amilasas actúan en la fábrica, sobre la tela ya producida. La seda de araña recombinante no modifica una fibra existente: produce una que no se podía obtener a escala. Son tres etapas distintas.
+
+Pregunta 2 (Evaluar): El bio-stoning reemplaza la piedra pómez por celulasas para desgastar la mezclilla. ¿Qué ventajas ofrece el proceso enzimático?
+A) Daña menos la tela y la maquinaria, y entrega un resultado más uniforme.
+B) Aumenta la resistencia de la fibra y permite prescindir del lavado posterior.
+C) Permite desgastar telas sintéticas, que no contienen celulosa en su estructura.
+D) Tiñe la prenda simultáneamente, lo que elimina una etapa del proceso textil.
+Correcta: A. Por qué: La piedra pómez es abrasiva: desgasta la tela de forma despareja y también daña el tambor de la máquina. Las celulasas actúan sobre la superficie de la fibra de manera más controlada, de modo que el resultado es más uniforme y el desgaste del equipo, menor.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere comparar el desgaste con piedra pómez y con celulasas en jeans. ¿Qué variables debe mantener constantes?
+A) El método de desgaste, el tipo de tela y el operario a cargo de cada tratamiento.
+B) El grado de desgaste obtenido, para que ambos resultados sean comparables entre sí.
+C) El proveedor de las enzimas y el origen geográfico de la piedra pómez utilizada.
+D) El tipo de tela, el tiempo de tratamiento, la temperatura y la carga de la máquina.
+Correcta: D. Por qué: Lo que se quiere comparar es el método, de modo que ese es el único factor que debe cambiar. Todo lo demás se mantiene igual para que cualquier diferencia se atribuya al método. Mantener constante el método sería absurdo, y fijar el grado de desgaste convertiría en constante justamente lo que se quiere medir.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

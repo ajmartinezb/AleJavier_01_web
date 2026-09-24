@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 12: d. PCR: la fotocopiadora
+Sección: 4. Las herramientas: cortar, pegar, copiar y leer el ADN
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «PCR: la fotocopiadora». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente partidores, duplica, Desnaturación, Hibridación, Extensión, 2<sup>n</sup>, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. PCR: la fotocopiadora», dentro de la sección «4. Las herramientas: cortar, pegar, copiar y leer el ADN» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: partidores, duplica, Desnaturación, Hibridación, Extensión, 2<sup>n</sup>.
+
+Ideas guía:
+- La reacción en cadena de la polimerasa produce millones de copias de un fragmento de ADN en pocas horas.
+- Necesita cuatro ingredientes: el ADN molde, dos partidores que delimitan la región a copiar, nucleótidos libres y una ADN polimerasa resistente al calor (la clásica proviene de una bacteria de aguas termales).
+- Un ciclo de PCR y el crecimiento exponencial del número de copias.
+- Cada ciclo tiene tres pasos y duplica la cantidad de fragmento: La cuenta que la PAES sí pide.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una PCR parte de 5 moléculas de ADN molde y se programan 20 ciclos, cada uno de los cuales duplica la cantidad de fragmento. ¿Qué orden de magnitud de copias se espera al terminar?
+A) Alrededor de 100
+B) Alrededor de 5000
+C) Alrededor de 100 000
+D) Alrededor de 5 millones
+Correcta: D. Por qué: Cada molde se amplifica de forma independiente, de modo que el resultado es el número inicial multiplicado por 2²⁰. Como 2²⁰ ≈ 1 000 000, el total es 5 × 1 000 000 = 5 millones aproximadamente. Conviene apoyarse en que 2¹⁰ ≈ 1000 y que 2²⁰ = (2¹⁰)².
+
+Pregunta 2 (Planificar y conducir una investigación): Al preparar una PCR, un equipo olvida agregar uno de los componentes y no obtiene producto. ¿Cuál de los siguientes es imprescindible y explica el resultado?
+A) Una enzima de restricción que corte el fragmento por sus extremos.
+B) Una ADN polimerasa resistente a las altas temperaturas del ciclo.
+C) Una ADN ligasa que una los fragmentos sintetizados en cada ciclo.
+D) Un plásmido que sirva de vector para el fragmento amplificado.
+Correcta: B. Por qué: La polimerasa es la que sintetiza las hebras nuevas, y debe resistir el calor porque cada ciclo incluye un paso de desnaturación cerca de los 95 °C. Sin ella no hay síntesis y no hay producto. Las enzimas de restricción, la ligasa y los plásmidos pertenecen a la construcción de ADN recombinante, no a la PCR.
+
+Pregunta 3 (Evaluar): En una PCR se mantiene la temperatura de hibridación demasiado alta. ¿Qué consecuencia es esperable?
+A) La polimerasa se desnaturaliza y deja de funcionar definitivamente.
+B) Las dos hebras del molde no alcanzan a separarse entre sí.
+C) Los partidores no se unen al molde y no se sintetiza producto.
+D) Los nucleótidos libres se degradan antes de ser incorporados.
+Correcta: C. Por qué: El apareamiento de los partidores con el molde depende de enlaces de hidrógeno, que se rompen al subir la temperatura. Si la hibridación se realiza demasiado caliente, los partidores no logran mantenerse unidos y la polimerasa no tiene desde dónde empezar, de modo que no hay síntesis.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

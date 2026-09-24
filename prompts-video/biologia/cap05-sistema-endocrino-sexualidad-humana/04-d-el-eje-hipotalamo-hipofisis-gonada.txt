@@ -1,0 +1,44 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 04: d. El eje hipotálamo-hipófisis-gónada
+Sección: 2. El sistema endocrino: hormonas y regulación
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «El eje hipotálamo-hipófisis-gónada». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Hipotálamo, GnRH, Hipófisis anterior, FSH, LH, Gónadas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. El eje hipotálamo-hipófisis-gónada», dentro de la sección «2. El sistema endocrino: hormonas y regulación» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Hipotálamo, GnRH, Hipófisis anterior, FSH, LH, Gónadas.
+
+Ideas guía:
+- El circuito que controla la reproducción tiene tres niveles: Y las hormonas de las gónadas vuelven a los dos niveles superiores para frenarlos: eso es la retroalimentación negativa.
+- El hipotálamo es, además, el punto donde el sistema nervioso y el endocrino se conectan: recibe información del encéfalo sobre el estrés, la nutrición y los ritmos de luz, y la traduce en señales hormonales.
+- Por eso una pérdida de peso importante, un entrenamiento extremo o un estrés sostenido pueden alterar los ciclos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Ordena los niveles del eje reproductivo según el sentido de la señal: 1, gónadas; 2, hipófisis anterior; 3, hipotálamo. ¿Cuál es el orden correcto y qué hormona conecta los dos primeros pasos?
+A) 3 → 2 → 1, y la GnRH conecta el hipotálamo con la hipófisis.
+B) 1 → 2 → 3, y la FSH conecta las gónadas con la hipófisis.
+C) 2 → 3 → 1, y la LH conecta la hipófisis con el hipotálamo.
+D) 3 → 1 → 2, y la testosterona conecta el hipotálamo con la gónada.
+Correcta: A. Por qué: La señal desciende desde el hipotálamo, pasa por la hipófisis y llega a las gónadas. El primer tramo lo cubre la GnRH; el segundo, las gonadotropinas FSH y LH. Lo que sube son las hormonas sexuales, pero como freno, no como orden.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una persona presenta niveles muy bajos de hormonas sexuales y también de FSH y LH. ¿Dónde se ubica con mayor probabilidad la alteración?
+A) En las gónadas, que dejaron de responder a las gonadotropinas.
+B) En los receptores periféricos de las hormonas sexuales.
+C) En el hipotálamo o la hipófisis, que no estimulan la gónada.
+D) En la sangre, que no logra transportar las hormonas producidas.
+Correcta: C. Por qué: La clave está en que **ambas** medidas son bajas. Si el problema estuviera en la gónada, faltarían hormonas sexuales y, al desaparecer el freno, la FSH y la LH estarían **altas**. Que las dos estén bajas indica que el estímulo no está llegando, es decir, que la falla es de los niveles superiores del eje.
+
+Pregunta 3 (Evaluar): Se afirma que «el hipotálamo es solo una glándula endocrina más, sin relación con el sistema nervioso». ¿Cuál es la objeción correcta?
+A) Es correcta: el hipotálamo funciona con total independencia del encéfalo.
+B) Es incorrecta: es parte del encéfalo y traduce señales nerviosas.
+C) Es incorrecta, porque el hipotálamo no produce ninguna hormona.
+D) Es incorrecta, porque el hipotálamo controla directamente a las gónadas.
+Correcta: B. Por qué: El hipotálamo forma parte del encéfalo y recibe entradas nerviosas, de modo que no es una glándula aislada. Esa condición doble explica por qué una pérdida de peso importante, un entrenamiento extremo o un estrés sostenido pueden alterar los ciclos reproductivos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

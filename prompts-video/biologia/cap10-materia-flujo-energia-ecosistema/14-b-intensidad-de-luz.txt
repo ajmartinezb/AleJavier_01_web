@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 14: b. Intensidad de luz
+Sección: 6. Variables ambientales que afectan la fotosíntesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Intensidad de luz». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente Tramo inicial ascendente, Punto de compensación, fotoinhibición, sí, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Intensidad de luz», dentro de la sección «6. Variables ambientales que afectan la fotosíntesis» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Tramo inicial ascendente, Punto de compensación, fotoinhibición, sí.
+
+Ideas guía:
+- La curva de luz tiene tres tramos y dos puntos con nombre: Tramo inicial ascendente.
+- A poca luz, cada aumento de intensidad aumenta la fotosíntesis casi en proporción directa: la luz es el factor limitante.
+- Es la intensidad a la que la fotosíntesis iguala exactamente a la respiración.
+- La planta consume tanto O2 como produce y libera tanto CO2 como fija, de modo que el intercambio neto de gases es cero.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se registra el intercambio neto de O₂ de una planta: a 0 unidades de luz, −5 mg/h; a 30 unidades, 0 mg/h; a 90 unidades, +9 mg/h; a 200 unidades, +14 mg/h; a 400 unidades, +14 mg/h. ¿Qué indica el valor medido a 30 unidades?
+A) Que la planta no realiza fotosíntesis a esa intensidad de luz.
+B) Que la planta alcanzó su tasa máxima de fotosíntesis.
+C) Que la respiración celular se detuvo por completo a esa intensidad.
+D) Que la fotosíntesis y la respiración ocurren a igual velocidad.
+Correcta: D. Por qué: Un valor de cero no significa ausencia de actividad: significa que lo producido y lo consumido se cancelan. A 0 unidades el valor es negativo porque solo hay respiración; a 30 se equilibran; desde ahí la fotosíntesis supera a la respiración y el valor se hace positivo, hasta la meseta de 200 y 400 unidades.
+
+Pregunta 2 (Procesar y analizar la evidencia): En la serie anterior, la tasa neta se mantiene en +14 mg/h tanto a 200 como a 400 unidades de luz. ¿Qué nombre recibe el valor de luz a partir del cual la tasa deja de aumentar?
+A) Punto de compensación lumínica.
+B) Punto de saturación lumínica.
+C) Punto de fotoinhibición.
+D) Punto de desnaturalización enzimática.
+Correcta: B. Por qué: La tasa se estabiliza en +14 mg/h, es decir, la curva entró en su meseta. Ese inicio de meseta es el punto de saturación. El punto de compensación corresponde al valor cero del intercambio neto, la fotoinhibición implicaría una caída de la tasa y la desnaturalización se relaciona con la temperatura.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante observa que dos especies vegetales cultivadas en el mismo lugar alcanzan su punto de compensación a intensidades de luz muy distintas. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuántas hojas tiene cada una de las dos especies al final del cultivo?
+B) ¿Quién describió por primera vez el punto de compensación lumínica?
+C) ¿Cómo se relaciona ese punto con el ambiente de cada especie?
+D) ¿Qué precio tiene cada una de las dos especies en un vivero comercial?
+Correcta: C. Por qué: La observación es que un mismo parámetro difiere entre especies, de modo que la pregunta pertinente busca a qué se asocia esa diferencia. Una planta adaptada a la sombra alcanza su compensación con muy poca luz, lo que la hace viable bajo un dosel. Las demás preguntas piden datos morfológicos, históricos o comerciales.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

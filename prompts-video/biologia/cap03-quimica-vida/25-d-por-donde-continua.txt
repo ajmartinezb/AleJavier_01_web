@@ -1,0 +1,41 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 25: d. Por dónde continúa
+Sección: 7. Ácidos nucleicos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Por dónde continúa». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente por dónde continúa, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Por dónde continúa», dentro de la sección «7. Ácidos nucleicos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- El ADN, su compactación, su duplicación y su relación con la división celular se desarrollan en el capítulo 6, y su manipulación en el laboratorio, en el capítulo 7.
+- Aquí basta con la química: monómero, bases, complementariedad y tipo de enlace.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un estudiante quiere profundizar en cómo se duplica el ADN antes de una división celular. ¿En qué capítulo del libro debe buscar ese contenido?
+A) En el capítulo 3, sobre la química de la vida.
+B) En el capítulo 10, sobre materia y energía en el ecosistema.
+C) En el capítulo 6, sobre ciclo celular, mitosis y meiosis.
+D) En el capítulo 2, sobre niveles de organización.
+Correcta: C. Por qué: El capítulo 3 se limita al monómero, las bases, la complementariedad y el tipo de enlace. El capítulo 10 aborda la fotosíntesis y el flujo de energía, y el capítulo 2 trata los niveles de organización y la teoría celular: ninguno desarrolla la duplicación del material genético.
+
+Pregunta 2 (Evaluar): Un estudiante sostiene que conocer la química del ADN basta para entender cómo se hereda un carácter. ¿Cuál es la mejor evaluación de esa afirmación?
+A) Es correcta, porque la composición química determina por completo la herencia.
+B) Es insuficiente: hace falta además conocer la duplicación, la meiosis y la expresión génica.
+C) Es incorrecta, porque la química del ADN no tiene relación con la herencia.
+D) Es correcta, porque la herencia depende únicamente del número de bases.
+Correcta: B. Por qué: Entender la herencia exige saber cómo se copia el material genético, cómo se reparte en la meiosis y cómo se expresa en proteínas. La química es la base necesaria, pero no la explicación completa. La tercera alternativa cae en el extremo contrario y la última reduce la herencia a un recuento de bases.
+
+Pregunta 3 (Observar y plantear preguntas): Se quiere investigar por qué una mutación puntual en un gen puede alterar por completo la función de una proteína. ¿Cuál es la pregunta que mejor orienta esa investigación?
+A) ¿Cuántas mutaciones puntuales ocurren en promedio en un genoma humano?
+B) ¿En qué cromosoma se ubica el gen que sufrió la mutación puntual?
+C) ¿Qué edad tenía la persona en la que se detectó la mutación puntual?
+D) ¿Cómo afecta un cambio en la secuencia al plegamiento tridimensional de la proteína?
+Correcta: D. Por qué: Un cambio de un solo aminoácido puede alterar las interacciones entre grupos laterales y modificar la forma tridimensional, y con ella la función. La pregunta correcta conecta justamente el nivel de la secuencia con el de la forma. Contar mutaciones, ubicar el gen o conocer la edad de la persona son datos que no explican el mecanismo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

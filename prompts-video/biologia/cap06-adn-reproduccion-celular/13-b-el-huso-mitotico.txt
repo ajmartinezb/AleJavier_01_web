@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 13: b. El huso mitótico
+Sección: 4. Mitosis y citocinesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «El huso mitótico». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente microtúbulos, Microtúbulos del cinetocoro, Microtúbulos polares, Ásteres, vinblastina, vincristina, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. El huso mitótico», dentro de la sección «4. Mitosis y citocinesis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: microtúbulos, Microtúbulos del cinetocoro, Microtúbulos polares, Ásteres, vinblastina, vincristina.
+
+Ideas guía:
+- El huso está formado por microtúbulos que se organizan desde los centrosomas.
+- Hay de varios tipos: Microtúbulos del cinetocoro: se unen a los cromosomas y los arrastran hacia los polos.
+- Microtúbulos polares: se superponen en el centro y empujan los polos hacia afuera, alargando la célula.
+- Ásteres: irradian hacia la membrana y orientan el huso.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un equipo quiere probar la hipótesis de que el taxol detiene la división celular porque impide el desarmado de los microtúbulos del huso. Cultiva células humanas en dos grupos: uno con taxol y otro sin él. ¿Qué observación deberían registrar para poner a prueba esa hipótesis?
+A) La cantidad de glucosa consumida por las células en cada placa.
+B) El volumen de las células de cada grupo al terminar el ensayo.
+C) La proporción de células detenidas en metafase en cada grupo.
+D) El tiempo que tardan las células en replicar su ADN en fase S.
+Correcta: C. Por qué: La hipótesis dice que el taxol actúa sobre el huso. Si es correcta, el grupo tratado debe acumular muchas más células en metafase que el grupo control, porque la anafase requiere que los microtúbulos se acorten. Medir la proporción de células en metafase en ambos grupos pone a prueba directamente la predicción. Glucosa, volumen o duración de la fase S no dependen del huso, clave C.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se trataron cultivos de células con distintas concentraciones de colchicina durante 12 horas y se contó el porcentaje de células en metafase. Resultados: sin colchicina, 3 %; con 0,1 µM, 12 %; con 0,5 µM, 28 %; con 1,0 µM, 41 %. ¿Qué conclusión es coherente con estos datos?
+A) A mayor concentración de colchicina, menor es el bloqueo del huso.
+B) La colchicina estabiliza los microtúbulos e impide que se desarmen.
+C) La colchicina acelera el paso de las células desde metafase a anafase.
+D) A mayor concentración de colchicina, más células se detienen en metafase.
+Correcta: D. Por qué: Al subir la concentración de 0 a 1,0 µM, el porcentaje de células en metafase sube de 3 % a 41 %: hay una relación directa. Como la colchicina impide formar el huso, más droga significa más células sin poder pasar a anafase. La conclusión D describe esa tendencia. A la invierte, C propone lo opuesto (menos células se acumularían) y B describe el mecanismo del taxol.
+
+Pregunta 3 (Evaluar): Una investigadora trata células tumorales con vinblastina y observa que el 60 % queda detenido en metafase, frente a un 4 % en el cultivo sin tratar. Concluye que «la vinblastina elimina solo las células tumorales y no daña las células sanas del organismo». ¿Cuál es la evaluación más adecuada de esta conclusión?
+A) No está respaldada, porque no se estudiaron células sanas que se dividen.
+B) Está respaldada, porque las células tumorales se detienen en metafase.
+C) No está respaldada, porque la vinblastina actúa en fase S y no en mitosis.
+D) Está respaldada, porque el cultivo sin tratar tuvo muy pocas metafases.
+Correcta: A. Por qué: El experimento compara células tumorales tratadas con células tumorales sin tratar. Muestra que la droga bloquea su mitosis, pero no incluye ningún grupo de células sanas. Por eso no puede afirmar nada sobre ellas. Además, por su mecanismo, se espera que la vinblastina también detenga células sanas que se dividen rápido. La conclusión no está respaldada por falta de ese grupo, clave A.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

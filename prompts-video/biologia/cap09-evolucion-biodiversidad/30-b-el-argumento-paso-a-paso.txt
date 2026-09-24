@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 30: b. El argumento, paso a paso
+Sección: 7. La teoría de la selección natural de Darwin y Wallace
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «El argumento, paso a paso». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente necesariamente, 1. Variación, no son idénticos, 2. Herencia, heredable, 3. Superproducción, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. El argumento, paso a paso», dentro de la sección «7. La teoría de la selección natural de Darwin y Wallace» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: necesariamente, 1. Variación, no son idénticos, 2. Herencia, heredable, 3. Superproducción.
+
+Ideas guía:
+- La selección natural es una consecuencia lógica de cuatro observaciones.
+- Si las cuatro se cumplen, el resultado necesariamente ocurre.
+- El mecanismo de la selección natural en cuatro pasos.
+- Consecuencia: como las variantes ventajosas se heredan, su frecuencia aumenta en la población generación tras generación.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una población de caracoles, el grosor de la concha varía entre individuos, pero ese grosor depende únicamente de la cantidad de calcio disponible en el suelo y no de diferencias genéticas. Aparece un depredador que solo rompe conchas delgadas. ¿Qué ocurrirá con la población a lo largo de las generaciones?
+A) El grosor promedio aumentará, porque los caracoles de concha gruesa dejan más crías.
+B) El grosor promedio disminuirá, porque los caracoles gastarán calcio en reproducirse.
+C) El grosor promedio no cambiará por selección, porque la variación no es heredable.
+D) El grosor promedio se volverá uniforme, porque todos los caracoles se adaptarán.
+Correcta: C. Por qué: El enunciado precisa que el grosor depende solo del calcio del suelo. Hay variación y hay reproducción diferencial, pero falta el paso 2: la herencia. Las crías de un caracol de concha gruesa que crezcan en suelo pobre tendrán conchas delgadas, así que la composición de la población no se desplaza por selección.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere comprobar que se cumplen los cuatro pasos del mecanismo de la selección natural en una población de escarabajos. ¿Qué conjunto de mediciones necesita?
+A) La variación del rasgo, la temperatura del hábitat, la humedad y la hora de actividad.
+B) El número total de individuos, su peso promedio, su longevidad y su distribución.
+C) La velocidad de desplazamiento, la dieta, el color del sustrato y el tipo de vegetación.
+D) La variación del rasgo, su transmisión a las crías, la mortalidad y el éxito reproductivo.
+Correcta: D. Por qué: Cada paso se corresponde con una medición: la variación del rasgo entre individuos, su transmisión de padres a crías, la mortalidad que indica que no todos sobreviven, y el éxito reproductivo asociado al rasgo. Medir variables ambientales o descriptivas puede ser útil como contexto, pero no comprueba ninguno de los cuatro pasos.
+
+Pregunta 3 (Evaluar): Un texto afirma que «la selección natural actúa sobre el individuo, transformándolo a lo largo de su vida para que se ajuste mejor a su ambiente». ¿Qué corresponde corregir en esta afirmación?
+A) La selección natural actúa solo sobre los caracteres que no se transmiten a las crías.
+B) La unidad que evoluciona es la población, y lo hace a lo largo de las generaciones.
+C) La selección natural elimina por completo la variación presente en las poblaciones.
+D) La unidad que evoluciona es la especie, y lo hace dentro de una misma generación.
+Correcta: B. Por qué: El texto comete dos errores encadenados: atribuye el cambio al individuo y lo sitúa dentro de su vida. La selección natural no transforma a nadie: hace que unos dejen más descendencia que otros, y el efecto se ve al comparar la composición de una generación con la siguiente. Corregir ambos puntos basta para que la formulación sea correcta.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

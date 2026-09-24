@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 27: d. Los tres tipos de pirámide
+Sección: 8. Flujo de energía: niveles tróficos, cadenas, tramas y pirámides
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Los tres tipos de pirámide». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente De energía, Nunca, De biomasa, Sí, De números, océano, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Los tres tipos de pirámide», dentro de la sección «8. Flujo de energía: niveles tróficos, cadenas, tramas y pirámides» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: De energía, Nunca, De biomasa, Sí, De números, océano.
+
+Ideas guía:
+- El caso clásico de pirámide de biomasa invertida es el océano: en un momento cualquiera, la masa de fitoplancton es menor que la del zooplancton que se lo come, porque el fitoplancton se reproduce en horas y se consume casi por completo.
+- Medida como energía por unidad de tiempo, en cambio, la pirámide vuelve a tener la base ancha.
+- Si un ítem muestra una pirámide invertida y pregunta de qué tipo puede ser, la respuesta nunca es «de energía».
+- Y si pregunta por qué una de biomasa está invertida, la razón siempre tiene que ver con la velocidad de renovación del nivel inferior, no con que haya más energía arriba.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un estudiante compara tres pirámides del mismo ecosistema marino: la de números y la de biomasa aparecen invertidas, y la de energía no. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Qué propiedad de la energía impide que su pirámide pueda invertirse?
+B) ¿Cuántos colores distintos se usaron para dibujar cada una de las pirámides?
+C) ¿Qué profundidad tiene el mar en el lugar donde se tomaron los datos?
+D) ¿Quién propuso por primera vez representar los ecosistemas con pirámides?
+Correcta: A. Por qué: Lo llamativo es que dos de las tres representaciones del mismo ecosistema se inviertan y una no, de modo que la pregunta pertinente busca qué distingue a la magnitud que no admite inversión. La respuesta apunta a la degradación de la energía. Las demás opciones se refieren al dibujo, al lugar o a la historia del concepto.
+
+Pregunta 2 (Evaluar): En un ecosistema marino, la biomasa de fitoplancton medida en un instante es menor que la del zooplancton que se alimenta de él. Un estudiante concluye que el zooplancton produce su propio alimento. ¿Cuál es la evaluación correcta?
+A) La conclusión es correcta: solo un productor puede tener mayor biomasa.
+B) La conclusión es correcta, porque el zooplancton contiene clorofila en sus células.
+C) La conclusión es incorrecta, porque el zooplancton no se alimenta de fitoplancton.
+D) Es incorrecta: el fitoplancton se renueva muy rápido y sostiene esa biomasa.
+Correcta: D. Por qué: La biomasa es una fotografía de un instante. El fitoplancton se divide en horas y es consumido casi por completo, de modo que su masa presente en cualquier momento es pequeña aunque su producción anual sea enorme. Por eso la pirámide se invierte sin que cambie quién es el productor.
+
+Pregunta 3 (Comunicar): Se quiere rotular el eje de una pirámide que representa la cantidad de individuos de cada nivel trófico. ¿Cuál es el rótulo correcto?
+A) Energía disponible por unidad de superficie y de tiempo.
+B) Masa de materia orgánica presente en cada nivel trófico.
+C) Número de individuos presentes en cada nivel trófico.
+D) Velocidad de renovación de los organismos de cada nivel.
+Correcta: C. Por qué: El enunciado especifica que la pirámide representa cantidad de individuos, de modo que el rótulo debe decir eso. Usar el rótulo de energía o de biomasa cambiaría por completo la interpretación, sobre todo porque esas tres pirámides pueden tener formas distintas para el mismo ecosistema.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

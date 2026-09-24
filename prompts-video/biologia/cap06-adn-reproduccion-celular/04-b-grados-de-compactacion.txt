@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 04: b. Grados de compactación
+Sección: 2. Cromatina y cromosomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Grados de compactación». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente Doble hélice de ADN, Nucleosomas («collar de perlas»), histonas, Fibra de 30 nm, Bucles de cromatina, Cromosoma metafásico, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Grados de compactación», dentro de la sección «2. Cromatina y cromosomas» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Doble hélice de ADN, Nucleosomas («collar de perlas»), histonas, Fibra de 30 nm, Bucles de cromatina, Cromosoma metafásico.
+
+Ideas guía:
+- Niveles de compactación del ADN, desde la doble hélice hasta el cromosoma metafásico.
+- Según su grado de condensación en interfase, la cromatina puede ser: Eucromatina: poco condensada, con genes activos que se transcriben.
+- Heterocromatina: muy condensada, con genes poco o nada activos.
+- ¿Por qué los cromosomas se condensan antes de dividirse?
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se trata cromatina con una enzima que corta el ADN no cubierto por proteínas y se miden los fragmentos. Con cromatina intacta aparecen fragmentos de unos 200, 400 y 600 pares de bases. Con ADN al que se quitaron las histonas, los fragmentos tienen tamaños variados, sin patrón. ¿Qué inferencia es coherente con estos resultados?
+A) El ADN está protegido a intervalos regulares por unidades que se repiten a lo largo de él.
+B) Las histonas cortan el ADN en fragmentos de igual tamaño cuando se une la enzima.
+C) El ADN libre de histonas es más resistente a la enzima que el ADN de la cromatina.
+D) Cada fragmento de 200 pares de bases corresponde a un cromosoma completo del núcleo.
+Correcta: A. Por qué: Los fragmentos son múltiplos de unos 200 pares de bases: la enzima corta solo en sitios repetidos cada cierta distancia. Si se quitan las histonas, ese patrón desaparece. Por lo tanto, las histonas protegen el ADN en unidades regulares (los nucleosomas), y la enzima solo accede al ADN de unión que queda entre ellas.
+
+Pregunta 2 (Evaluar): Un estudiante observa al microscopio óptico núcleos de células en interfase. No distingue cromosomas individuales, sino una masa teñida de forma irregular. Concluye: «En interfase las células no tienen cromosomas». ¿Cuál es la evaluación correcta de esta conclusión?
+A) Es válida, porque los cromosomas se forman de nuevo en cada mitosis.
+B) Es inválida, porque los cromosomas existen, aunque descondensados.
+C) Es válida, porque en interfase el ADN está disperso en el citoplasma.
+D) Es inválida, porque en interfase los cromosomas ya están duplicados.
+Correcta: B. Por qué: El microscopio óptico no distingue estructuras de unas decenas de nanómetros. En interfase los cromosomas siguen existiendo como moléculas de ADN con proteínas, pero están descondensados y entremezclados. Recién al condensarse en la división se vuelven visibles. Por eso, no verlos se explica por una limitación del instrumento y del estado de la cromatina, no por su ausencia.
+
+Pregunta 3 (Observar y plantear preguntas): Al medir la síntesis de ARN en células de un cultivo, se observa que es alta durante la interfase y casi nula mientras las células están en mitosis. ¿Cuál es una hipótesis coherente con esta observación que podría ponerse a prueba?
+A) Durante la mitosis la célula elimina sus genes y los recupera en la interfase.
+B) Durante la mitosis el ADN se degrada y se vuelve a sintetizar al terminar.
+C) Durante la mitosis la transcripción ocurre solo en el citoplasma celular.
+D) Durante la mitosis la condensación máxima impide el acceso a los genes.
+Correcta: D. Por qué: La observación es un contraste: mucha síntesis de ARN en interfase y casi nada en mitosis. Una buena hipótesis debe explicar ese contraste con un mecanismo conocido y ser comprobable. La condensación máxima reduce el acceso de la maquinaria de transcripción al ADN; esto se puede probar, por ejemplo, comparando transcripción en regiones con distinto grado de compactación. Las demás opciones proponen procesos que no ocurren.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

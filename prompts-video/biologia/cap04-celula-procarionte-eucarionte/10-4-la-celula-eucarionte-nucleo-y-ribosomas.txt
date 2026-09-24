@@ -1,0 +1,42 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 10: 4. La célula eucarionte: núcleo y ribosomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «La célula eucarionte: núcleo y ribosomas». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente la célula eucarionte: núcleo y ribosomas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «4. La célula eucarionte: núcleo y ribosomas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- La célula eucarionte (del griego eu, «verdadero», y karyon, «núcleo») es en general de 10 a 100 veces más grande que una procarionte.
+- Resuelve el problema de su tamaño dividiendo el trabajo en compartimentos: sus organelos rodeados de membrana permiten que reacciones incompatibles ocurran al mismo tiempo en lugares distintos.
+- Por ejemplo, la digestión con enzimas muy ácidas ocurre dentro del lisosoma, sin dañar el resto de la célula.
+- Célula animal (izquierda) y célula vegetal (derecha).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Una investigadora observa que en una célula eucarionte las enzimas digestivas, muy ácidas, están dentro de lisosomas, mientras que el citosol mantiene un pH cercano a 7. ¿Cuál de las siguientes hipótesis se relaciona con esta observación y puede ponerse a prueba?
+A) Si se rompen las membranas de los lisosomas, se dañarán componentes del citosol.
+B) Las células eucariontes son mejores que las procariontes porque tienen organelos.
+C) Las enzimas de los lisosomas prefieren un ambiente ácido porque son más eficaces.
+D) Los lisosomas existen para que la célula tenga más organelos que una bacteria.
+Correcta: A. Por qué: La observación muestra que la membrana separa dos ambientes distintos. Una hipótesis contrastable es que esa separación protege al citosol, y predice que al romper las membranas habrá daño. Esto se puede medir. Las demás son juicios de valor o explicaciones finalistas que no se pueden medir.
+
+Pregunta 2 (Planificar y conducir una investigación): Un estudiante quiere comparar el tamaño de células procariontes y eucariontes. Mide con un microscopio con reglilla calibrada 30 bacterias E. coli y 30 células de epitelio bucal. ¿Qué variable es la dependiente en esta investigación?
+A) El número de células medidas de cada tipo.
+B) El tipo celular comparado, procarionte o eucarionte.
+C) El diámetro o el largo de cada célula.
+D) El aumento usado en el microscopio óptico.
+Correcta: C. Por qué: El estudiante elige qué tipos celulares comparar: esa es la variable independiente. El número de células y el aumento deben mantenerse controlados. Lo que registra con la reglilla es la longitud de cada célula: esa es la variable dependiente, y con ella podrá calcular promedios para cada tipo.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se mide el volumen de distintos compartimentos de un hepatocito como porcentaje del volumen celular: citosol 54 %, mitocondrias 22 %, retículo endoplasmático 12 %, núcleo 6 %, otros organelos 6 %. ¿Qué conclusión se desprende de estos datos?
+A) El núcleo es el compartimento de mayor volumen, porque guarda todo el ADN.
+B) Casi la mitad del volumen celular corresponde a los compartimentos membranosos.
+C) Las mitocondrias ocupan menos volumen que el retículo en esta célula hepática.
+D) El citosol ocupa menos volumen que las mitocondrias y el núcleo sumados.
+Correcta: B. Por qué: Los compartimentos membranosos suman 22 + 12 + 6 + 6 = 46 %, es decir, casi la mitad del volumen. El citosol ocupa el 54 % restante, más que mitocondrias y núcleo juntos (28 %), y el núcleo es de los compartimentos menores.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

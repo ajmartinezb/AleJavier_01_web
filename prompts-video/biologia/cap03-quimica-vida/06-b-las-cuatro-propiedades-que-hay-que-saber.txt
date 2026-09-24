@@ -1,0 +1,43 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 06: b. Las cuatro propiedades que hay que saber
+Sección: 3. El agua y las sales minerales
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Las cuatro propiedades que hay que saber». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Alto calor específico, Cohesión y tensión superficial, El hielo flota, polar, iónico, apolar, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Las cuatro propiedades que hay que saber», dentro de la sección «3. El agua y las sales minerales» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Alto calor específico, Cohesión y tensión superficial, El hielo flota, polar, iónico, apolar.
+
+Ideas guía:
+- Se la llama «disolvente universal» por costumbre, pero disuelve bien lo polar y lo iónico, y mal lo apolar.
+- Los aceites no se mezclan con el agua justamente por eso, y esa incompatibilidad es la que mantiene ordenada la membrana celular.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una laguna cordillerana mantiene su temperatura mucho más estable que el aire que la rodea a lo largo del día. ¿Qué propiedad del agua lo explica?
+A) Su elevada tensión superficial.
+B) Su capacidad de disolver sales minerales.
+C) Su menor densidad en estado sólido.
+D) Su alto calor específico.
+Correcta: D. Por qué: Por eso una masa de agua amortigua los cambios de temperatura del ambiente, y por eso mismo el organismo mantiene su temperatura con relativa facilidad. La tensión superficial explica que un insecto camine sobre el agua, el poder disolvente explica que las reacciones ocurran en solución y la menor densidad del hielo explica que un lago se congele por arriba.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un lago de la Patagonia, el hielo se forma en la superficie y los peces sobreviven en el agua líquida del fondo. ¿Qué propiedad del agua hace posible esa situación?
+A) Que al congelarse ocupa más volumen y el hielo flota.
+B) Que al congelarse se vuelve más densa y desciende al fondo.
+C) Que el hielo conduce el calor mejor que el agua líquida.
+D) Que el agua del fondo contiene más sales y no puede congelarse.
+Correcta: A. Por qué: La capa de hielo superficial aísla el agua de abajo y permite que la vida continúe durante el invierno. La segunda alternativa invierte el hecho, porque si el hielo se hundiera los lagos se congelarían desde el fondo. La conducción del calor no explica la posición del hielo, y las sales del fondo no son la causa del fenómeno.
+
+Pregunta 3 (Evaluar): Se sostiene que la savia sube por el tallo de un árbol de treinta metros gracias a la cohesión del agua. ¿Qué evidencia respalda mejor esa explicación?
+A) Que el agua del suelo está más caliente que el aire del follaje del árbol.
+B) Que la savia contiene azúcares que la hacen más densa que el agua pura.
+C) Que las moléculas de agua se atraen entre sí por puentes de hidrógeno y forman una columna continua.
+D) Que las raíces empujan el agua hacia arriba con una fuerza más que suficiente para vencer la gravedad.
+Correcta: C. Por qué: La columna de agua se comporta como un hilo continuo que, al evaporarse el agua en las hojas, es traccionado desde arriba. La temperatura del suelo no interviene en ese mecanismo, la densidad de la savia dificultaría el ascenso en lugar de facilitarlo y la presión radicular por sí sola no alcanza para elevar agua treinta metros.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

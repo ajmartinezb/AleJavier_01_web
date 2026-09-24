@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 10: b. El potencial de acción
+Sección: 4. El impulso nervioso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «El potencial de acción». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente umbral, −55 mV, Reposo, Despolarización, Na<sup>+</sup>, entra, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. El potencial de acción», dentro de la sección «4. El impulso nervioso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: umbral, −55 mV, Reposo, Despolarización, Na<sup>+</sup>, entra.
+
+Ideas guía:
+- Si un estímulo despolariza la membrana hasta el umbral, cercano a −55 mV, se dispara un potencial de acción: una inversión rápida y transitoria de la polaridad.
+- Si el estímulo no alcanza el umbral, no hay potencial de acción.
+- Si lo alcanza o lo supera, el potencial de acción se produce siempre con la misma amplitud.
+- Un estímulo más intenso no genera un potencial de acción más grande: genera más potenciales de acción por segundo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un axón se aplica una toxina que impide la apertura de los canales de sodio dependientes de voltaje. ¿Qué se observa al estimular el axón por encima del umbral?
+A) Un potencial de acción de amplitud reducida pero de igual duración.
+B) Una hiperpolarización de gran magnitud en lugar del potencial habitual.
+C) Un potencial de acción normal, porque el sodio solo participa en la repolarización.
+D) No se genera potencial de acción, porque falta la fase de despolarización.
+Correcta: D. Por qué: Sin apertura de canales de sodio no hay entrada de carga positiva y, por lo tanto, no hay despolarización. Como la despolarización es el primer paso y el que desencadena todo el resto, el potencial de acción simplemente no se produce, aunque el estímulo supere el umbral. El sodio no participa en la repolarización.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un gráfico muestra que, al aplicar estímulos de intensidad creciente a una misma neurona, la amplitud de los potenciales de acción registrados se mantiene en 100 mV, mientras el número de potenciales por segundo pasa de 5 a 45. ¿Qué principio ilustran esos datos?
+A) La ley del todo o nada, con la intensidad codificada por frecuencia.
+B) El período refractario absoluto, que impide cualquier respuesta repetida.
+C) La conducción saltatoria, que depende de los nodos de Ranvier del axón.
+D) La suma de potenciales locales en las dendritas de la neurona.
+Correcta: A. Por qué: Los datos muestran dos cosas a la vez: la amplitud no cambia, lo que corresponde a la ley del todo o nada, y la frecuencia aumenta nueve veces, que es el modo en que la neurona informa sobre la intensidad. Ningún otro principio explica esas dos observaciones en conjunto.
+
+Pregunta 3 (Observar y plantear preguntas): Al observar el registro de un potencial de acción, un estudiante nota que el ascenso hasta el pico dura cerca de 1 ms, mientras la vuelta al reposo tarda algo más. ¿Qué pregunta investigable surge de esa asimetría?
+A) ¿Cuántos milímetros de ancho tiene la línea trazada en el gráfico?
+B) ¿A qué se debe que la repolarización tarde más que la despolarización?
+C) ¿Qué marca de osciloscopio se utilizó para obtener el registro mostrado?
+D) ¿Cuántos potenciales de acción ocurren durante un día completo de vigilia?
+Correcta: B. Por qué: La observación relevante es la diferencia de duración entre las dos fases, de modo que la pregunta pertinente indaga su causa, que está en la cinética distinta de los dos tipos de canal. Las demás opciones se refieren al trazado o al instrumento y no permiten explicar el fenómeno observado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

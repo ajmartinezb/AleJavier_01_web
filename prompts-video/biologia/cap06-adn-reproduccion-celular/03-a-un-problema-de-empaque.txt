@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 03: a. Un problema de empaque
+Sección: 2. Cromatina y cromosomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Un problema de empaque». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente 2 metros, 5 a 10 µm, cromatina, Ordena y protege, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Un problema de empaque», dentro de la sección «2. Cromatina y cromosomas» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 2 metros, 5 a 10 µm, cromatina, Ordena y protege.
+
+Ideas guía:
+- Si se estirara el ADN de una sola célula humana, mediría unos 2 metros.
+- Ese ADN cabe en un núcleo de apenas 5 a 10 µm de diámetro.
+- Para lograrlo, se empaqueta asociado a proteínas, formando la cromatina.
+- El empaque cumple dos funciones: Ordena y protege el ADN dentro del núcleo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): El ADN de una célula humana mide unos 2 m si se estira por completo, y el núcleo que lo contiene tiene un diámetro cercano a 10 µm (1 µm = 0,000001 m). ¿Cuántas veces es mayor la longitud del ADN que el diámetro del núcleo?
+A) 20000
+B) 200000
+C) 2000000
+D) 20000000
+Correcta: B. Por qué: Paso 1: pasar ambas medidas a la misma unidad. 10 µm = 10 × 0,000001 m = 0,00001 m. Paso 2: dividir. 2 m ÷ 0,00001 m = 200 000. Paso 3: interpretar. El ADN es unas 200 000 veces más largo que el ancho del núcleo, por lo que no basta con doblarlo: requiere varios niveles de plegamiento.
+
+Pregunta 2 (Planificar y conducir una investigación): Para saber si el grado de compactación de la cromatina afecta cuánto se lee un gen, un equipo inserta el mismo gen que produce una proteína fluorescente en una zona muy compacta del ADN de un grupo de células, y en una zona laxa en otro grupo del mismo tipo celular. Luego mide la fluorescencia. ¿Cuál es la variable independiente?
+A) La intensidad de fluorescencia medida en cada grupo de células.
+B) El gen indicador insertado, que es idéntico en los dos grupos.
+C) El grado de compactación de la zona donde se insertó el gen.
+D) El tipo celular usado, que es el mismo en ambos grupos.
+Correcta: C. Por qué: El equipo decide dónde insertar el gen: en una zona compacta o en una laxa. Eso es lo que cambia entre los grupos, así que es la variable independiente. La fluorescencia es lo que se registra al final: variable dependiente. El gen y el tipo celular se mantienen iguales en ambos grupos: son variables controladas, necesarias para atribuir las diferencias a la compactación.
+
+Pregunta 3 (Comunicar): Una estudiante reunió, para seis especies, la longitud total del ADN de una célula y el diámetro promedio de su núcleo. Quiere mostrar si existe una relación entre ambas variables. ¿Qué recurso es el más adecuado para ese objetivo?
+A) Un gráfico circular con el porcentaje del ADN total que aporta cada especie.
+B) Un gráfico de barras con la longitud del ADN de cada especie ordenada.
+C) Una tabla con las especies ordenadas alfabéticamente y sus nombres comunes.
+D) Un gráfico de dispersión con la longitud del ADN y el diámetro nuclear.
+Correcta: D. Por qué: El objetivo es mostrar una relación entre dos variables numéricas. El gráfico de dispersión ubica cada especie como un punto, con una variable en cada eje, y así se ve de inmediato si hay tendencia. El gráfico circular muestra partes de un todo; el de barras presenta una sola variable; la tabla alfabética no muestra el diámetro y dificulta ver cualquier patrón.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

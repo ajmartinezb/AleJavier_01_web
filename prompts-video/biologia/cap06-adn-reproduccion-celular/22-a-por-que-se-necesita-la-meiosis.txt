@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 22: a. ¿Por qué se necesita la meiosis?
+Sección: 7. La meiosis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «¿Por qué se necesita la meiosis?». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente fecundación, reduce a la mitad, células germinales, dos divisiones sucesivas, una sola replicación, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. ¿Por qué se necesita la meiosis?», dentro de la sección «7. La meiosis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: fecundación, reduce a la mitad, células germinales, dos divisiones sucesivas, una sola replicación.
+
+Ideas guía:
+- En la reproducción sexual, dos gametos se unen en la fecundación.
+- Si cada gameto tuviera 46 cromosomas, el cigoto tendría 92, y el número se duplicaría en cada generación.
+- La meiosis resuelve el problema: reduce a la mitad el número de cromosomas, de 2n a n.
+- Así, al unirse dos gametos haploides (n = 23), se restablece el número diploide (2n = 46).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un investigador quiere poner a prueba la idea de que, sin una reducción previa del número de cromosomas, la fecundación duplicaría ese número en cada generación. Para ello trabaja con una planta que puede formar gametos por meiosis normal o, si se trata con una droga, gametos sin reducción. ¿Qué diseño permite someter mejor a prueba esta idea?
+A) Contar los cromosomas solo en las hojas de plantas no tratadas durante varias generaciones.
+B) Contar cromosomas en la progenie de cruces con gametos normales y con gametos no reducidos.
+C) Medir la altura de las plantas tratadas con la droga y compararla con la de plantas sin tratar.
+D) Contar los cromosomas de los gametos no reducidos sin realizar ningún tipo de fecundación.
+Correcta: B. Por qué: La hipótesis relaciona dos cosas: si el gameto está reducido o no (variable independiente) y el número de cromosomas del descendiente (variable dependiente). Hace falta comparar ambos tipos de gametos y contar cromosomas en la progenie. Solo B incluye las dos condiciones y la medición correcta; la condición con meiosis normal sirve de control.
+
+Pregunta 2 (Procesar y analizar la evidencia): En una especie de ave, las células de la piel tienen 80 cromosomas. En una hembra, una falla hizo que un óvulo se formara sin reducir su número de cromosomas. Ese óvulo es fecundado por un espermatozoide producido normalmente. ¿Cuántos cromosomas tendrá el cigoto?
+A) 40
+B) 80
+C) 120
+D) 160
+Correcta: C. Por qué: Las células de la piel son somáticas: 2n = 80, por lo que un gameto normal tiene n = 40. El espermatozoide es normal y aporta 40. El óvulo no se redujo y aporta 80. El cigoto suma 80 + 40 = 120 cromosomas, tres juegos (3n): es un cigoto triploide.
+
+Pregunta 3 (Evaluar): En un texto de divulgación se lee: «La meiosis ocurre en todas las células del cuerpo que se dividen, y su función es reparar tejidos dañados». Un grupo de estudiantes revisa esta frase usando lo que sabe sobre la reproducción sexual. ¿Cuál es la evaluación más adecuada de la frase?
+A) Es errónea, pues la meiosis ocurre en células germinales y da gametos haploides.
+B) Es correcta, pues la meiosis forma células idénticas que reemplazan a las dañadas.
+C) Es errónea, pues la meiosis ocurre en todas las células, pero no repara tejidos.
+D) Es correcta, pues toda célula que se divide debe reducir su número de cromosomas.
+Correcta: A. Por qué: La frase tiene dos errores. Primero, la meiosis no ocurre en todas las células: se limita a las germinales. Segundo, reparar tejidos es tarea de la mitosis, que produce células idénticas con igual número de cromosomas. La meiosis, en cambio, reduce el número a la mitad para formar gametos. La única evaluación que corrige ambos errores es la A.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

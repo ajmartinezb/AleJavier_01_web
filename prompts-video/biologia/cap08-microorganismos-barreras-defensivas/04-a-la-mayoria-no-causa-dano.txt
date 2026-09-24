@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 04: a. La mayoría no causa daño
+Sección: 3. Los microorganismos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «La mayoría no causa daño». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente microbiota, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. La mayoría no causa daño», dentro de la sección «3. Los microorganismos» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: microbiota.
+
+Ideas guía:
+- Antes de hablar de patógenos conviene fijar una proporción: de los millones de especies microbianas conocidas, solo una minoría produce enfermedad en humanos.
+- En tu intestino, tu piel y tus mucosas vive la microbiota, un conjunto enorme de microorganismos que ayudan a digerir, producen vitaminas y ocupan el espacio que de otro modo usarían los patógenos.
+- Cuando un tratamiento con antibióticos la altera, aparecen infecciones oportunistas que antes no ocurrían.
+- Esa es una de las razones por las que los antibióticos no deben tomarse sin necesidad.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Tras un tratamiento prolongado con antibióticos, una persona desarrolla una infección por un microorganismo que antes convivía con ella sin causar daño. ¿Cómo se explica ese cuadro?
+A) El antibiótico alteró la microbiota y liberó el espacio que la contenía.
+B) El antibiótico transformó a ese microorganismo en un verdadero agente patógeno.
+C) El antibiótico debilitó de forma directa la tercera línea de defensa del cuerpo.
+D) El antibiótico introdujo un microorganismo nuevo en el organismo.
+Correcta: A. Por qué: El antibiótico no transforma a un microorganismo ni lo introduce: elimina competidores y deja el nicho libre. Tampoco actúa sobre los linfocitos, que constituyen la tercera línea de defensa, de modo que la tercera alternativa atribuye al fármaco un efecto que no tiene.
+
+Pregunta 2 (Observar y plantear preguntas): Se observa que las personas tratadas con antibióticos de amplio espectro presentan más episodios de diarrea que quienes reciben antibióticos dirigidos. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?
+A) ¿Cuántas personas recibieron antibióticos en este hospital durante el último año completo?
+B) ¿Qué precio tiene cada uno de los dos tipos de antibiótico en el mercado nacional actual?
+C) ¿En qué año se comenzó a usar el primer antibiótico de amplio espectro?
+D) ¿Cómo afecta cada tipo de antibiótico a la composición de la microbiota intestinal?
+Correcta: D. Por qué: La pregunta correcta relaciona el tipo de antibiótico con el efecto sobre la microbiota, que es el mecanismo propuesto, y puede responderse comparando muestras antes y después del tratamiento. Un recuento de pacientes, el precio del fármaco o la fecha de su introducción no explican la diferencia observada.
+
+Pregunta 3 (Comunicar): Para un afiche de sala de clases hay que resumir en una frase el papel de la microbiota. ¿Cuál es la formulación más precisa?
+A) Produce anticuerpos específicos contra los microorganismos que invaden el cuerpo.
+B) Ayuda a digerir, produce vitaminas y ocupa el espacio de los patógenos.
+C) Se activa solo cuando un agente patógeno atraviesa la piel y las mucosas.
+D) Genera memoria inmunológica frente a las infecciones que ya se padecieron.
+Correcta: B. Por qué: Las otras alternativas atribuyen a la microbiota funciones que corresponden al sistema inmune: la producción de anticuerpos es de los linfocitos B, la activación ante un invasor describe a la segunda línea de defensa y la memoria inmunológica pertenece a la tercera. La microbiota actúa por competencia, no por reconocimiento específico.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

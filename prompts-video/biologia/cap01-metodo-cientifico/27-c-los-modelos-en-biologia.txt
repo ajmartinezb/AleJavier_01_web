@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 27: c. Los modelos en biología
+Sección: 6. Hipótesis, teoría, ley, principio y modelo
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Los modelos en biología». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente simplifica, limitaciones, modifica o reemplaza, atraviesan, se desplazan lateralmente, modelo de mosaico fluido, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Los modelos en biología», dentro de la sección «6. Hipótesis, teoría, ley, principio y modelo» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: simplifica, limitaciones, modifica o reemplaza, atraviesan, se desplazan lateralmente, modelo de mosaico fluido.
+
+Ideas guía:
+- Un modelo es útil justamente porque simplifica: deja fuera detalles para destacar lo importante.
+- Por eso: todo modelo tiene limitaciones: no representa todos los aspectos de la realidad; un modelo se modifica o reemplaza cuando aparece evidencia que no puede explicar.
+- La evolución de un modelo: la membrana celular.
+- En 1935, Davson y Danielli propusieron un modelo tipo «sándwich»: una bicapa de lípidos cubierta por dos capas de proteínas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En 1935, Davson y Danielli representaron la membrana plasmática como una bicapa lipídica cubierta por dos capas continuas de proteínas. Décadas después, la criofractura mostró proteínas que atraviesan la bicapa, y experimentos de fusión celular mostraron que las proteínas se desplazan lateralmente. ¿Qué conclusión sobre el modelo de 1935 se apoya en esta evidencia?
+A) Seguía siendo válido, porque ya incluía una bicapa.
+B) Era incorrecto, porque la membrana no tiene lípidos.
+C) Debía reemplazarse, pues no explicaba la evidencia nueva.
+D) Probaba que los modelos no sirven en la biología.
+Correcta: C. Por qué: El modelo de 1935 dibujaba las proteínas como capas fijas por fuera de la bicapa. La evidencia nueva mostró dos hechos que no calzaban: proteínas que cruzan la membrana y proteínas que se mueven. Un modelo que no puede dar cuenta de observaciones confiables debe modificarse o reemplazarse. Eso ocurrió en 1972 con el mosaico fluido de Singer y Nicolson. Clave: C.
+
+Pregunta 2 (Comunicar): Un profesor quiere que sus estudiantes comprendan que la membrana plasmática es fluida y que sus proteínas pueden desplazarse lateralmente. ¿Qué recurso comunica mejor esa idea?
+A) Una tabla con el porcentaje de lípidos de la membrana.
+B) Una fotografía de células vistas al microscopio óptico.
+C) Un gráfico de barras con el grosor de varias membranas.
+D) Una animación con proteínas que se mueven en la bicapa.
+Correcta: D. Por qué: El objetivo es mostrar una propiedad dinámica: el movimiento lateral de las proteínas en una bicapa fluida. Una tabla o un gráfico entregan datos numéricos, pero no muestran movimiento. Una fotografía al microscopio óptico no tiene resolución para ver moléculas. Un modelo animado representa justamente lo que se quiere destacar, dejando fuera otros detalles. Clave: D.
+
+Pregunta 3 (Planificar y conducir una investigación): En 1953, Watson y Crick construyeron con varillas y placas metálicas una representación del ADN como dos cadenas enrolladas en hélice, unidas por pares de bases A-T y G-C. Para ello usaron los datos de difracción de rayos X de Rosalind Franklin y las proporciones de bases medidas por Erwin Chargaff. ¿Qué componente del conocimiento científico es la estructura que construyeron?
+A) Un modelo.
+B) Una ley.
+C) Un principio.
+D) Una conclusión.
+Correcta: A. Por qué: Watson y Crick no midieron un fenómeno ni formularon una regularidad: integraron datos ajenos (difracción de rayos X y regla de Chargaff) en una estructura física que representa cómo se organiza la molécula. Esa representación simplificada permite explicar y predecir, por ejemplo, cómo se copia el ADN. Eso es un modelo. Clave: A.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

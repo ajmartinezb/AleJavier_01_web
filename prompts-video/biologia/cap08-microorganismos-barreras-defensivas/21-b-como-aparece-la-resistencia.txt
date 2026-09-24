@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 21: b. Cómo aparece la resistencia
+Sección: 7. Antibióticos y resistencia
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Cómo aparece la resistencia». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente variabilidad previa, las resistentes sobreviven, selecciona, población, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Cómo aparece la resistencia», dentro de la sección «7. Antibióticos y resistencia» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: variabilidad previa, las resistentes sobreviven, selecciona, población.
+
+Ideas guía:
+- La resistencia no la produce el antibiótico, y este punto es el que más se equivoca.
+- Lo que ocurre es selección natural, exactamente como en el capítulo 9: En una población bacteriana enorme existe variabilidad previa: unas pocas bacterias ya portan, por mutación, una característica que las hace insensibles al antibiótico.
+- Al aplicar el antibiótico, las sensibles mueren y las resistentes sobreviven.
+- Las sobrevivientes se multiplican sin competencia y, en pocas horas, la población es mayoritariamente resistente.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un estudiante afirma que las bacterias «se hicieron resistentes para poder sobrevivir al antibiótico». ¿Cuál es la corrección adecuada?
+A) La mutación la provoca el antibiótico en cada una de las bacterias expuestas.
+B) La mutación es previa y azarosa; el antibiótico solo selecciona a las que ya la tenían.
+C) La resistencia es una decisión que cada bacteria toma frente a la amenaza.
+D) La resistencia aparece porque las bacterias intercambian información entre sí.
+Correcta: B. Por qué: El antibiótico no crea la resistencia: la selecciona. Hablar de decisión atribuye intención a un organismo que no la tiene, y aunque las bacterias sí intercambian material genético, ese intercambio difunde una resistencia que ya existía en alguna de ellas y no explica su origen.
+
+Pregunta 2 (Observar y plantear preguntas): En una placa con antibiótico crecen tres colonias de entre diez millones de bacterias sembradas. ¿Cuál es la pregunta que mejor orienta una investigación sobre esas colonias?
+A) ¿Cuántos milímetros mide el diámetro de cada una de esas colonias?
+B) ¿De qué color se ven las colonias sobre el medio de cultivo empleado?
+C) ¿La resistencia de esas colonias se transmite a su descendencia?
+D) ¿Cuántas horas estuvo la placa dentro del incubador del laboratorio?
+Correcta: C. Por qué: Esa pregunta discrimina entre una resistencia heredable y una simple tolerancia pasajera. El diámetro, el color y el tiempo de incubación describen el montaje y el resultado, pero no permiten decidir si la característica se transmite.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que la resistencia a un antibiótico se hereda. ¿Qué procedimiento lo demuestra mejor?
+A) Resembrar en una placa nueva con antibiótico las colonias que sobrevivieron.
+B) Aumentar la concentración de antibiótico en la placa original de cultivo.
+C) Sembrar una cepa distinta en una placa con el mismo antibiótico.
+D) Observar al microscopio la forma de las bacterias que sobrevivieron.
+Correcta: A. Por qué: La descendencia conserva la característica de sus progenitoras. Subir la concentración estudia el grado de resistencia, sembrar otra cepa cambia el material de partida y observar la forma al microscopio describe las células sin evaluar la herencia del rasgo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

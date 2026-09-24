@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 37: a. Las tablas
+Sección: 8. Tablas y gráficos: procesar, analizar y comunicar evidencia
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Las tablas». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente título, encabezados, unidad, variable independiente, dependiente, promedio, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Las tablas», dentro de la sección «8. Tablas y gráficos: procesar, analizar y comunicar evidencia» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: título, encabezados, unidad, variable independiente, dependiente, promedio.
+
+Ideas guía:
+- Una tabla organiza los datos para compararlos con facilidad.
+- Número de burbujas de O2 liberadas en 5 minutos por una rama de Elodea según su distancia a una lámpara (promedio de 3 réplicas).
+- La independiente es la distancia a la lámpara, que el investigador varía.
+- La dependiente es el número de burbujas, que se mide.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Para estudiar el efecto de la cafeína, se midió el tiempo de reacción de un grupo de voluntarios en tres réplicas por condición. Sin cafeína (ms): 312; 300; 303. Con 100 mg de cafeína (ms): 280; 274; 286. Según los promedios, ¿en cuántos milisegundos se redujo el tiempo de reacción con cafeína?
+A) 12 ms
+B) 17 ms
+C) 23 ms
+D) 25 ms
+Correcta: D. Por qué: Promedio sin cafeína: (312 + 300 + 303) ÷ 3 = 915 ÷ 3 = 305 ms. Promedio con cafeína: (280 + 274 + 286) ÷ 3 = 840 ÷ 3 = 280 ms. Diferencia: 305 − 280 = 25 ms. Con cafeína, el tiempo de reacción promedio fue 25 ms menor.
+
+Pregunta 2 (Evaluar): Un estudiante quiere saber si la temperatura afecta el tiempo de germinación de semillas de lenteja. Coloca una sola semilla a 15 °C, otra a 20 °C y otra a 25 °C, y registra los días que tarda cada una en germinar en una tabla con título, con la temperatura (°C) en la primera columna y los días en la segunda. ¿Cuál es la principal limitación de su tabla como evidencia?
+A) Hubo una semilla por temperatura, sin réplicas.
+B) La temperatura se registró en grados Celsius.
+C) Las temperaturas se ordenaron de menor a mayor.
+D) La variable independiente va en la primera columna.
+Correcta: A. Por qué: La tabla cumple con título, unidades y orden de las columnas. El problema está en los datos: cada temperatura tiene un único valor. Una semilla puede tardar más por ser defectuosa o por azar, y ese efecto no se puede separar del efecto de la temperatura. Con varias semillas por condición y su promedio, la conclusión sería más confiable.
+
+Pregunta 3 (Planificar y conducir una investigación): Una profesora de Educación Física mide la frecuencia cardíaca de un estudiante al trotar en una cinta a 4, 6, 8 y 10 km/h, con tres mediciones por velocidad. Antes de medir, debe preparar la tabla de registro. ¿Qué encabezado corresponde a la primera columna de esa tabla?
+A) Frecuencia cardíaca (latidos/min)
+B) Velocidad de la cinta (km/h)
+C) Promedio de las tres mediciones
+D) Número de mediciones realizadas
+Correcta: B. Por qué: La profesora decide las velocidades (4, 6, 8 y 10 km/h): esa es la variable independiente. La frecuencia cardíaca se mide en respuesta a cada velocidad, por lo que es la dependiente. En consecuencia, la primera columna debe decir «Velocidad de la cinta (km/h)», seguida de las columnas de cada medición y del promedio.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

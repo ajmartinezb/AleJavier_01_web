@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 06: c. Por qué el virus es un caso aparte
+Sección: 3. Los microorganismos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Por qué el virus es un caso aparte». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente previniéndolas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Por qué el virus es un caso aparte», dentro de la sección «3. Los microorganismos» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: previniéndolas.
+
+Ideas guía:
+- Un virus tiene material genético, ADN o ARN, y una cubierta de proteínas; algunos añaden una envoltura lipídica.
+- No tiene citoplasma con metabolismo, ni ribosomas propios, ni capacidad de dividirse.
+- Fuera de una célula es una partícula inerte.
+- Para multiplicarse debe entrar en una célula hospedera y usar su maquinaria: sus ribosomas, sus enzimas y su energía.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): ¿Por qué se dice que un virus fuera de una célula es una partícula inerte?
+A) Porque pierde todo su material genético al salir de la célula hospedera que lo alojaba.
+B) Porque se desintegra de inmediato al entrar en contacto con el aire exterior.
+C) Porque deja de tener cubierta proteica al abandonar la célula.
+D) Porque carece de metabolismo y no realiza ninguna actividad por sí mismo.
+Correcta: D. Por qué: Conserva, eso sí, su material genético y su cubierta proteica, que son justamente lo que le permite infectar una nueva célula más adelante. Muchos virus sobreviven horas o días en superficies, así que tampoco es cierto que se desintegren de inmediato al contacto con el aire.
+
+Pregunta 2 (Evaluar): Se sostiene que diseñar un antiviral es más difícil que diseñar un antibiótico. ¿Cuál es la razón que mejor sostiene esa afirmación?
+A) El virus usa la maquinaria de la célula, de modo que atacarlo puede dañar a la célula.
+B) El virus es demasiado grande para que un fármaco pueda atravesarlo.
+C) El virus se multiplica fuera de las células, donde el fármaco no llega.
+D) El virus posee una pared celular mucho más resistente que la de cualquier bacteria conocida.
+Correcta: A. Por qué: El antibiótico, en cambio, ataca estructuras bacterianas que nuestras células no tienen, y esa diferencia es la que facilita su diseño. Las otras alternativas contradicen hechos básicos: el virus es mucho más pequeño que una bacteria, se multiplica dentro de las células y carece por completo de pared celular.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere cultivar un virus en el laboratorio para estudiarlo. ¿Qué condición debe cumplir el medio de cultivo?
+A) Debe contener únicamente azúcares y sales en solución acuosa.
+B) Debe mantenerse a temperatura de congelación durante todo el ensayo.
+C) Debe contener células vivas susceptibles de ser infectadas.
+D) Debe estar libre de cualquier tipo de material genético ajeno.
+Correcta: C. Por qué: Sin células vivas no hay replicación posible, por muy completo que sea el medio nutritivo. La congelación detendría cualquier proceso biológico, y exigir un medio libre de material genético ajeno confunde una medida de pureza con una condición de crecimiento.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

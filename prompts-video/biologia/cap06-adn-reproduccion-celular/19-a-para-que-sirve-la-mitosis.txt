@@ -1,0 +1,42 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 19: a. Para qué sirve la mitosis
+Sección: 6. Importancia de la mitosis: crecimiento, reparación y cáncer
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Para qué sirve la mitosis». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente genéticamente idénticas, Crecimiento y desarrollo, Renovación de tejidos, Reparación de heridas, Reproducción asexual, conserva la información genética, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Para qué sirve la mitosis», dentro de la sección «6. Importancia de la mitosis: crecimiento, reparación y cáncer» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: genéticamente idénticas, Crecimiento y desarrollo, Renovación de tejidos, Reparación de heridas, Reproducción asexual, conserva la información genética.
+
+Ideas guía:
+- La mitosis produce células genéticamente idénticas, y eso la hace indispensable en tres procesos: Que las células hijas sean idénticas conserva la información genética: cada célula del cuerpo tiene el mismo genoma que el cigoto.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un agricultor quiere comprobar que las plantas de papa obtenidas a partir de tubérculos de una misma planta madre son genéticamente idénticas entre sí. ¿Qué procedimiento le permite verificarlo?
+A) Medir la altura de las plantas hijas a los dos meses y comparar los promedios obtenidos.
+B) Sembrar semillas de la planta madre y comparar sus flores con las de las plantas hijas.
+C) Contar los tubérculos que produce cada planta hija y compararlos con los de la madre.
+D) Comparar el ADN de varias plantas hijas y de la madre con marcadores moleculares.
+Correcta: D. Por qué: La pregunta es sobre la información genética, así que hay que medir algo del ADN. Comparar marcadores moleculares de la madre y de varias hijas mostraría si son iguales. La altura y el número de tubérculos dependen también del ambiente, así que dos clones pueden diferir en ellos. Las semillas vienen de reproducción sexual, así que no son clones y no sirven para responder.
+
+Pregunta 2 (Comunicar): Un profesor quiere representar cómo varía la cantidad de ADN por núcleo en una célula de la piel durante dos ciclos celulares seguidos (con mitosis) en un gráfico de cantidad de ADN versus tiempo. Si al inicio de G1 la cantidad es 2c, ¿qué descripción corresponde a ese gráfico?
+A) Sube a 4c en la fase S, baja a 2c al dividirse y repite ese patrón en el segundo ciclo.
+B) Se duplica en la fase S y en cada división cae a 1c, la mitad del valor inicial.
+C) Se mantiene en 2c durante todo el ciclo porque las hijas son idénticas a la madre.
+D) Sube a 4c en la fase S, se mantiene así en el segundo ciclo y baja a 2c al final.
+Correcta: A. Por qué: En G1 hay 2c. En la fase S el ADN se replica y llega a 4c; en G2 se mantiene. Al dividirse, cada hija recibe la mitad, 2c, igual que la madre al inicio. El segundo ciclo repite lo mismo, así que el gráfico tiene forma de escalones que suben y bajan. Bajar a 1c ocurre en la meiosis, y quedarse en 2c olvida la replicación.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se cuenta el número de células de un embrión de pez cebra en distintos momentos: 0 h, 1 célula; 1 h, 4 células; 2 h, 64 células; 3 h, 1024 células. Suponiendo que todas las células se dividen de forma sincronizada, ¿cuánto dura aproximadamente cada ciclo celular en esta etapa?
+A) 10 minutos
+B) 15 minutos
+C) 20 minutos
+D) 30 minutos
+Correcta: B. Por qué: Si cada ciclo duplica las células, el número es 2 elevado al número de divisiones. De 1 a 4 células hay 2 divisiones en 1 hora; de 4 a 64 (2^6) hay 4 divisiones más en la segunda hora; de 64 a 1024 (2^10), otras 4 divisiones en la tercera. A partir de la primera hora se producen 4 divisiones por hora, es decir, una cada 15 minutos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

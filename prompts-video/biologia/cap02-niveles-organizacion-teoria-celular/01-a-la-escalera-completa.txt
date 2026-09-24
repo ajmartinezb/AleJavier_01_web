@@ -1,0 +1,45 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 01: a. La escalera completa
+Sección: 2. Los niveles de organización
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «La escalera completa». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente Átomo, Molécula, Biomolécula, Organelo, Célula, Primer nivel con vida, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. La escalera completa», dentro de la sección «2. Los niveles de organización» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Átomo, Molécula, Biomolécula, Organelo, Célula, Primer nivel con vida.
+
+Ideas guía:
+- La materia viva se ordena en niveles de complejidad creciente.
+- Cada nivel está formado por unidades del nivel anterior, y en cada paso aparece algo nuevo.
+- El primer nivel que cumple todas las características de un ser vivo es la célula.
+- Un organelo aislado no se reproduce ni mantiene su medio interno; una mitocondria fuera de la célula deja de funcionar.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se ordenan las siguientes estructuras del cuerpo humano: fibra muscular cardíaca, corazón, sistema circulatorio, tejido muscular cardíaco. ¿Cuál es el orden correcto de menor a mayor complejidad?
+A) Corazón, tejido muscular cardíaco, fibra muscular cardíaca, sistema circulatorio.
+B) Tejido muscular cardíaco, fibra muscular cardíaca, sistema circulatorio, corazón.
+C) Fibra muscular cardíaca, tejido muscular cardíaco, corazón, sistema circulatorio.
+D) Fibra muscular cardíaca, corazón, tejido muscular cardíaco, sistema circulatorio.
+Correcta: C. Por qué: La fibra muscular cardíaca es una célula, el tejido muscular cardíaco es el conjunto de esas células similares, el corazón es el órgano formado por ese tejido junto a otros, y el sistema circulatorio reúne al corazón con los vasos sanguíneos. Cada alternativa incorrecta rompe al menos un paso de esa cadena, casi siempre adelantando el órgano o intercalando el sistema antes de tiempo.
+
+Pregunta 2 (Observar y plantear preguntas): Al estudiar un bosque, un equipo quiere trabajar en el nivel de organización de población. ¿Cuál de las siguientes preguntas corresponde a ese nivel?
+A) ¿Qué organelos contiene una célula de la hoja de coigüe?
+B) ¿Qué especies de aves e insectos conviven en este bosque?
+C) ¿Cómo varía la temperatura media del bosque a lo largo del año?
+D) ¿Cuántos individuos de coigüe hay por hectárea en este bosque?
+Correcta: D. Por qué: Contar individuos de coigüe por hectárea es medir exactamente eso. Preguntar por los organelos baja al nivel subcelular; preguntar por las especies que conviven sube al nivel de comunidad, porque involucra a más de una especie; y preguntar por la temperatura describe un componente abiótico del ecosistema. Cada opción es una pregunta legítima, pero solo una se sitúa en el nivel pedido.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere determinar si la contaminación de un río afecta al nivel de organización de comunidad y no solo al de población. ¿Qué medición permite responder mejor esa pregunta?
+A) Contar el número de truchas antes y después del punto de descarga del efluente.
+B) Registrar el número de especies presentes y su abundancia en los dos tramos.
+C) Medir la concentración de oxígeno disuelto en los dos tramos del río estudiado.
+D) Medir la longitud promedio de las truchas capturadas en cada tramo.
+Correcta: B. Por qué: Para hablar de la comunidad hay que registrar varias especies a la vez, y por eso el número de especies y su abundancia es la medición adecuada. Contar truchas o medir su longitud informa sobre una única población y no permite concluir nada sobre el conjunto. El oxígeno disuelto es una variable abiótica: puede explicar el efecto, pero no lo mide en el nivel pedido.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

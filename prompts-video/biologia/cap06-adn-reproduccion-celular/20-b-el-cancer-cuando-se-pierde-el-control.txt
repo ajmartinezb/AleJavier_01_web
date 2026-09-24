@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 20: b. El cáncer: cuando se pierde el control
+Sección: 6. Importancia de la mitosis: crecimiento, reparación y cáncer
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «El cáncer: cuando se pierde el control». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente cáncer, divide sin control, mutaciones acumuladas, sin necesitar señales, evaden la apoptosis, inhibición por contacto, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. El cáncer: cuando se pierde el control», dentro de la sección «6. Importancia de la mitosis: crecimiento, reparación y cáncer» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: cáncer, divide sin control, mutaciones acumuladas, sin necesitar señales, evaden la apoptosis, inhibición por contacto.
+
+Ideas guía:
+- El cáncer es un conjunto de enfermedades en que un grupo de células se divide sin control, ignorando las señales y los puntos de control del ciclo.
+- Se origina por mutaciones acumuladas en los genes que regulan el ciclo: protooncogenes que se vuelven oncogenes y genes supresores que se inactivan (sección 5.b).
+- En general se necesita que una misma célula acumule varias mutaciones en distintos genes para que se vuelva cancerosa.
+- Eso explica por qué la mayoría de los cánceres son más frecuentes con la edad: con los años, las células acumulan más mutaciones.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se siembran fibroblastos normales y células de un tumor en placas iguales, con el mismo medio. Cuando la superficie queda cubierta, se cuentan las células por cm²: fibroblastos, 5 × 10⁴ a los 5 días y 5 × 10⁴ a los 10 días; células tumorales, 5 × 10⁴ a los 5 días y 2 × 10⁵ a los 10 días, formando capas superpuestas. ¿Qué conclusión es coherente con los datos?
+A) Las células tumorales se dividen más rápido desde el inicio porque tienen más ADN.
+B) Los fibroblastos mueren al cubrir la placa porque se les agotan los nutrientes.
+C) Las tumorales siguen dividiéndose al tocarse, a diferencia de las células normales.
+D) Las células tumorales emigran de la placa y forman metástasis en la zona del medio.
+Correcta: C. Por qué: Al día 5 ambas placas tienen la misma densidad, así que al principio crecen de forma parecida. Desde ahí, los fibroblastos se mantienen en 5 × 10⁴: se detuvieron al quedar en contacto. Las células tumorales se cuadruplican y se amontonan. Esa diferencia indica pérdida de la inhibición por contacto. No hay datos de muerte ni de cantidad de ADN, y en un cultivo no hay metástasis.
+
+Pregunta 2 (Evaluar): Knudson registró que el retinoblastoma hereditario aparece a edades más tempranas y a menudo en ambos ojos, mientras que la forma no hereditaria aparece más tarde y en un solo ojo. A partir de esto propuso que se necesitan dos mutaciones en el gen RB. ¿Qué dato apoya mejor que los niños con la forma hereditaria nacen con uno de los dos «golpes»?
+A) Que los tumores de ambas formas tienen el mismo aspecto al observarlos al microscopio.
+B) Que el retinoblastoma es un cáncer poco frecuente en la población infantil en general.
+C) Que el gen RB codifica una proteína que frena el ciclo celular en el punto G1–S.
+D) Que la forma hereditaria surge antes y en ambos ojos, porque le basta una mutación más.
+Correcta: D. Por qué: Si una persona hereda un golpe, todas sus células de retina ya tienen una copia mutada, así que basta una segunda mutación en cualquiera de ellas. Eso hace más probable que ocurra pronto y en más de un sitio, lo que explica la aparición temprana y en ambos ojos. En la forma no hereditaria, una misma célula debe acumular dos mutaciones, algo más raro y tardío. Las otras opciones son ciertas o irrelevantes, pero no distinguen las dos formas.
+
+Pregunta 3 (Observar y plantear preguntas): Un registro de cáncer muestra que la incidencia de cáncer de colon es de 5 casos por cada 100 000 personas entre los 30 y 39 años, y de 150 casos por cada 100 000 entre los 70 y 79 años. ¿Qué pregunta de investigación surge directamente de estos datos?
+A) ¿Se relaciona la acumulación de mutaciones con los años con este aumento?
+B) ¿Qué tratamiento resulta más efectivo contra el cáncer de colon avanzado?
+C) ¿Cuántas células en división tiene el epitelio del colon de un adulto sano?
+D) ¿Por qué el cáncer de colon es más frecuente en hombres que en mujeres?
+Correcta: A. Por qué: Los datos relacionan dos variables: edad e incidencia, que se multiplica 30 veces entre ambos grupos. La pregunta que surge es a qué se debe ese aumento, y una explicación investigable es la acumulación de mutaciones con los años. El tratamiento, la tasa de división del colon sano y la diferencia por sexo no se desprenden de los datos, que no incluyen esas variables.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

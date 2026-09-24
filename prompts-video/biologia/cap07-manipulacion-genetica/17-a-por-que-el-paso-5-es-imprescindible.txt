@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 17: a. Por qué el paso 5 es imprescindible
+Sección: 5. Cómo se obtiene un organismo transgénico
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Por qué el paso 5 es imprescindible». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente ineficiente, Un error frecuente, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Por qué el paso 5 es imprescindible», dentro de la sección «5. Cómo se obtiene un organismo transgénico» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ineficiente, Un error frecuente.
+
+Ideas guía:
+- La transformación es ineficiente: de millones de células tratadas, solo una fracción incorpora el vector.
+- Sin un método de selección habría que revisar una por una.
+- El gen marcador resuelve el problema: al cultivar en un medio con el antibiótico, solo sobreviven las células que recibieron el plásmido, porque solo ellas tienen el gen de resistencia.
+- El antibiótico no hace que las bacterias incorporen el plásmido ni las vuelve resistentes: solo elimina a las que no lo tienen.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Tras sembrar bacterias tratadas en un medio con ampicilina, crecen solo algunas colonias. Un estudiante concluye que «el antibiótico volvió resistentes a esas bacterias». ¿Qué corresponde objetar?
+A) El antibiótico transfirió el gen de resistencia a las bacterias del cultivo.
+B) El antibiótico solo eliminó a las bacterias sin el plásmido.
+C) El antibiótico aumentó la tasa de mutación de las bacterias del cultivo.
+D) El antibiótico indujo en las bacterias la producción de una enzima protectora.
+Correcta: B. Por qué: El gen de resistencia venía en el plásmido, antes de cualquier contacto con el antibiótico. Al sembrar en el medio, mueren las bacterias que no lo incorporaron y sobreviven las que sí. El antibiótico actúa como un filtro, exactamente igual que una presión de selección natural, y no genera nada nuevo.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere comprobar que su método de selección funciona. ¿Qué control debería incluir?
+A) Sembrar bacterias sin tratar con antibiótico y verificar que no crecen.
+B) Sembrar bacterias transformadas en un medio sin antibiótico y contar las colonias.
+C) Repetir la transformación aumentando la cantidad de plásmido empleado.
+D) Medir la concentración de antibiótico presente en el medio de cultivo.
+Correcta: A. Por qué: Un control negativo consiste en someter al filtro material que no debería pasarlo. Si bacterias sin tratar crecen igual en el medio con antibiótico, el filtro no funciona: la concentración es insuficiente o el antibiótico se degradó. Si no crecen ninguna, el método discrimina correctamente.
+
+Pregunta 3 (Procesar y analizar la evidencia): De 10 millones de bacterias tratadas, crecen 40 colonias en el medio con antibiótico. ¿Qué indica ese resultado sobre la transformación?
+A) Que el antibiótico eliminó por error a la mayoría de las células transformadas.
+B) Que la transformación es muy eficiente, porque toda colonia proviene de una célula.
+C) Que la transformación es poco eficiente: casi ninguna célula lo incorporó.
+D) Que las 40 colonias corresponden a bacterias que no recibieron el plásmido.
+Correcta: C. Por qué: Cada colonia proviene de una célula transformada que se multiplicó. Cuarenta colonias sobre diez millones de células corresponde a una fracción diminuta, del orden de cuatro por millón. El resultado confirma la baja eficiencia del proceso, que es justamente la razón por la que el paso de selección existe.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,44 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 05: a. Una molécula torcida y polar
+Sección: 3. El agua y las sales minerales
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Una molécula torcida y polar». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente carga parcial negativa, carga parcial positiva, polar, puentes de hidrógeno, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Una molécula torcida y polar», dentro de la sección «3. El agua y las sales minerales» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: carga parcial negativa, carga parcial positiva, polar, puentes de hidrógeno.
+
+Ideas guía:
+- El agua es una molécula pequeña, pero no lineal: los dos hidrógenos forman un ángulo con el oxígeno.
+- Como el oxígeno atrae los electrones con más fuerza, queda con carga parcial negativa y los hidrógenos con carga parcial positiva.
+- De ahí nace todo lo demás: cada molécula de agua puede formar puentes de hidrógeno con varias vecinas, y el conjunto se comporta como una red.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un modelo de la molécula de agua muestra una zona de carga eléctrica algo negativa junto al átomo de oxígeno y zonas algo positivas junto a cada uno de sus dos átomos de hidrógeno. ¿Qué origina esa distribución desigual?
+A) Que el oxígeno cede un electrón completo a cada uno de los dos hidrógenos del enlace.
+B) Que el oxígeno atrae los electrones compartidos con más fuerza que el hidrógeno.
+C) Que los hidrógenos pierden su único protón al formar el enlace.
+D) Que la molécula adopta una forma perfectamente lineal y simétrica en el espacio físico.
+Correcta: B. Por qué: Las cargas son parciales precisamente porque los electrones se comparten de manera desigual y no se transfieren por completo: si se cedieran enteros, el enlace sería iónico y las cargas, completas. Los hidrógenos conservan su protón, y la molécula no es lineal sino angular, condición necesaria para que las cargas no se cancelen.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere comprobar experimentalmente que el agua es una molécula polar. ¿Qué procedimiento lo demuestra de manera más directa?
+A) Medir con un termómetro la temperatura del agua antes y después de dejarla reposar una hora.
+B) Pesar un volumen conocido de agua en una balanza de precisión analítica.
+C) Acercar una varilla cargada eléctricamente a un chorro fino de agua y observar si se desvía.
+D) Observar el agua al microscopio óptico con el mayor aumento disponible.
+Correcta: C. Por qué: Un chorro de agua se desvía al acercarle una varilla cargada porque las moléculas se orientan según sus cargas parciales: es la demostración clásica de polaridad. Medir la temperatura o la masa entrega datos que no dependen de la polaridad, y el microscopio óptico no resuelve moléculas individuales.
+
+Pregunta 3 (Observar y plantear preguntas): Se observa que un insecto camina sobre la superficie de un charco sin hundirse. ¿Cuál es la pregunta que mejor orienta una investigación sobre esa observación?
+A) ¿Cómo influyen los puentes de hidrógeno de la superficie del agua en la tensión superficial?
+B) ¿Qué especie de insecto es la que aparece en el charco?
+C) ¿Cuántos charcos hay en el terreno estudiado durante el invierno?
+D) ¿De qué color se ve el agua del charco a primera hora de la mañana, antes de que salga el sol?
+Correcta: A. Por qué: La pregunta correcta relaciona el mecanismo, los puentes de hidrógeno, con la propiedad observable, la tensión superficial, y puede ponerse a prueba agregando detergente para debilitarla. Identificar la especie, contar charcos o describir el color son observaciones que no explican por qué el insecto no se hunde.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

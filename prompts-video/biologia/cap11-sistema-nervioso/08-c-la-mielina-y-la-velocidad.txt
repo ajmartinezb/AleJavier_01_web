@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 08: c. La mielina y la velocidad
+Sección: 3. La neurona: estructura y función
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «La mielina y la velocidad». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente nodos de Ranvier, Mielinizado y grueso, No mielinizado y delgado, conducción saltatoria, rápido y preciso, lento y difuso, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. La mielina y la velocidad», dentro de la sección «3. La neurona: estructura y función» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: nodos de Ranvier, Mielinizado y grueso, No mielinizado y delgado, conducción saltatoria, rápido y preciso, lento y difuso.
+
+Ideas guía:
+- La vaina de mielina es una envoltura formada por células gliales que se enrollan alrededor del axón.
+- No es continua: se interrumpe en los nodos de Ranvier.
+- La diferencia es de dos órdenes de magnitud, y la razón está en la conducción saltatoria (sección 4d): en un axón mielinizado el potencial de acción no se regenera en cada punto, sino que salta de un nodo al siguiente.
+- La mielina ocupa espacio y consume recursos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un nervio conduce un impulso a 120 m/s. Tras un tratamiento que destruye parte de la mielina, la velocidad baja a 12 m/s en el mismo nervio. ¿Cuántas veces se enlenteció la conducción y por qué?
+A) Diez veces, porque el axón redujo su diámetro al perder la vaina de mielina.
+B) Cien veces, porque la velocidad depende del cuadrado del grosor de la mielina.
+C) Diez veces, porque se perdió parte de la conducción saltatoria entre nodos.
+D) Dos veces, porque la mielina aporta la mitad de la velocidad de conducción.
+Correcta: C. Por qué: El cociente entre 120 m/s y 12 m/s es 10, de modo que la conducción se volvió diez veces más lenta. La causa es la pérdida de la conducción saltatoria: donde falta mielina el impulso debe propagarse de forma continua, punto a punto, lo que consume mucho más tiempo. El diámetro del axón no cambia por la desmielinización.
+
+Pregunta 2 (Evaluar): Se afirma que «la conducción saltatoria es más rápida porque el impulso viaja por el interior del axón sin tocar la membrana». ¿Cuál es la evaluación correcta de esa explicación?
+A) Es correcta, porque la mielina impide por completo el paso de iones en el axón.
+B) Es incorrecta: el potencial de acción se regenera en cada nodo de Ranvier de la membrana.
+C) Es correcta, porque el impulso deja de ser un fenómeno de membrana al haber mielina.
+D) Es incorrecta, porque la conducción saltatoria es en realidad más lenta que la continua.
+Correcta: B. Por qué: Es cierto que la conducción saltatoria es más rápida, pero la razón está mal descrita. El impulso no abandona la membrana: la corriente fluye por el citoplasma bajo los segmentos aislados y el potencial de acción se vuelve a generar en cada nodo, donde sí hay canales. Lo que ahorra tiempo es no tener que regenerarlo en cada punto de la membrana.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere determinar si la caída de velocidad de conducción observada en un paciente se debe a desmielinización y no a una pérdida de axones. ¿Qué información adicional resulta más pertinente?
+A) La amplitud de la respuesta, que cae solo si se han perdido axones.
+B) La edad exacta del paciente y su masa corporal en el momento del examen.
+C) El número total de nervios periféricos que posee el organismo humano adulto.
+D) El tiempo que el paciente lleva con síntomas antes de la consulta médica.
+Correcta: A. Por qué: Ambas causas bajan la velocidad, así que la velocidad por sí sola no distingue entre ellas. La amplitud sí lo hace: si se pierden axones hay menos fibras que contribuyen y la respuesta se reduce, mientras que una desmielinización pura enlentece la señal sin disminuir el número de fibras. Esa es la medición discriminante.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

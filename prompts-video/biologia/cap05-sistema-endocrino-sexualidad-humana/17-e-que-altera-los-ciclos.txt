@@ -1,0 +1,43 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 17: e. Qué altera los ciclos
+Sección: 5. El ciclo ovárico y el ciclo uterino
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Qué altera los ciclos». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente tabaquismo, implantación, índice de masa corporal, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Qué altera los ciclos», dentro de la sección «5. El ciclo ovárico y el ciclo uterino» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: tabaquismo, implantación, índice de masa corporal.
+
+Ideas guía:
+- Como todo el eje depende del hipotálamo, cualquier cosa que lo afecte puede alterar el ciclo: estrés sostenido, pérdida o ganancia importante de peso, ejercicio de alta intensidad, enfermedades y algunos fármacos.
+- En ambos, la clave estaba en seguir la cadena desde la variable alterada hasta la función que depende de ella.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un estudio encuentra que, en personas fumadoras habituales, los niveles de un factor de crecimiento vascular están disminuidos en el tejido uterino. ¿Qué inferencia es correcta?
+A) El tabaquismo aumentaría la cantidad de folículos ováricos disponibles.
+B) El tabaquismo incrementaría el volumen de la menstruación en cada ciclo.
+C) El tabaquismo elevaría la concentración de hormonas sexuales en la sangre.
+D) El tabaquismo dificultaría la implantación del blastocisto en el endometrio.
+Correcta: D. Por qué: El hallazgo es preciso: baja un factor que promueve la formación de vasos sanguíneos, y el tejido afectado es el uterino. La consecuencia esperable está en la función que depende de esa vascularización, es decir, la implantación. Las otras opciones se refieren a folículos, a volumen menstrual o a hormonas, que el estudio no midió.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una deportista de alto rendimiento con bajo porcentaje de grasa corporal deja de presentar ciclos menstruales. ¿Cuál es la explicación más probable?
+A) El útero perdió la capacidad de responder a las hormonas ováricas.
+B) El hipotálamo reduce la secreción pulsátil de GnRH y se frena el eje.
+C) Los ovarios se quedaron sin folículos disponibles de forma permanente.
+D) El ejercicio destruyó de manera irreversible las trompas uterinas.
+Correcta: B. Por qué: El hipotálamo integra señales del estado energético del organismo y, ante un balance muy negativo, reduce la GnRH. Con ello bajan la FSH y la LH, no hay desarrollo folicular ni ovulación, y el ciclo se detiene. El proceso es reversible al recuperar el balance energético.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere estudiar si el estrés sostenido altera la regularidad de los ciclos. ¿Cuál es el diseño más adecuado?
+A) Medir una sola vez el nivel de una hormona del estrés en un grupo de personas.
+B) Comparar la duración del ciclo de dos personas en un solo mes del año.
+C) Seguir durante varios meses a un grupo amplio, registrando estrés y ciclos.
+D) Preguntar a las participantes si creen que el estrés afecta sus ciclos.
+Correcta: C. Por qué: La regularidad es, por definición, una propiedad que exige observar varios ciclos seguidos, y la asociación con el estrés requiere medir ambas variables en las mismas personas y en el mismo período. Una medición única, una comparación de un solo mes o una opinión no permiten establecerla.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

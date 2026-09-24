@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 11: c. El período refractario
+Sección: 4. El impulso nervioso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «El período refractario». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente no puede generar otro, período refractario, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. El período refractario», dentro de la sección «4. El impulso nervioso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: no puede generar otro, período refractario.
+
+Ideas guía:
+- Inmediatamente después de un potencial de acción, la membrana no puede generar otro, porque los canales de sodio quedan temporalmente inactivados.
+- Ese lapso es el período refractario y tiene dos consecuencias importantes: El impulso avanza en un solo sentido.
+- La zona que el impulso acaba de recorrer está refractaria, de modo que no puede reexcitarse y el potencial solo puede propagarse hacia adelante.
+- Por muy intenso que sea el estímulo, una neurona no puede disparar más allá de cierto número de potenciales por segundo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un axón se estimula dos veces con un intervalo de 0,5 ms y solo responde a la primera estimulación; con un intervalo de 5 ms responde a las dos. ¿Qué explica esa diferencia?
+A) Que el segundo estímulo de 0,5 ms fue de menor intensidad que el primero.
+B) Que con 0,5 ms el axón estaba en período refractario y aún no podía responder.
+C) Que el axón se desmieliniza cuando recibe estímulos muy seguidos.
+D) Que la amplitud del potencial de acción disminuye al repetir los estímulos.
+Correcta: B. Por qué: La única diferencia entre las dos condiciones es el intervalo. Con 0,5 ms el segundo estímulo cae dentro del período refractario, cuando los canales de sodio están inactivados, y no hay respuesta. Con 5 ms los canales ya se recuperaron y el axón responde de nuevo. La intensidad no cambió entre ambas pruebas.
+
+Pregunta 2 (Evaluar): Se afirma que «el período refractario es un defecto de las neuronas, porque las hace perder información». ¿Cuál es la evaluación más adecuada?
+A) Es adecuada, porque durante ese lapso la neurona queda inutilizada sin ninguna ventaja.
+B) Es inadecuada, porque el período refractario no existe en las neuronas mielinizadas.
+C) Es inadecuada: asegura el sentido único del impulso y limita su frecuencia.
+D) Es adecuada, porque las neuronas podrían disparar sin límite si no existiera ese lapso.
+Correcta: C. Por qué: El período refractario no es un defecto, sino la razón por la cual el potencial de acción viaja en una sola dirección: la porción de membrana que quedó atrás no puede volver a excitarse de inmediato. Además, al acotar la frecuencia máxima, hace que la codificación por frecuencia sea un código confiable.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere determinar la frecuencia máxima de disparo de una neurona. ¿Cuál es el procedimiento más apropiado?
+A) Aplicar un estímulo único muy intenso y medir la amplitud del potencial resultante.
+B) Medir el potencial de reposo de la neurona y calcular su diferencia con el umbral.
+C) Aplicar estímulos de intensidad creciente y registrar la amplitud de cada respuesta.
+D) Aplicar pares de estímulos y hallar el menor intervalo con dos respuestas.
+Correcta: D. Por qué: La frecuencia máxima es el inverso del intervalo mínimo entre dos respuestas, de modo que hay que acortar progresivamente ese intervalo hasta encontrar el límite. Un estímulo único no informa sobre intervalos, y medir amplitudes no sirve porque la amplitud es constante por la ley del todo o nada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

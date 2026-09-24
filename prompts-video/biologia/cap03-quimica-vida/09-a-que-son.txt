@@ -1,0 +1,43 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 09: a. Qué son
+Sección: 4. Carbohidratos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Qué son». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente carbono, hidrógeno y oxígeno, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Qué son», dentro de la sección «4. Carbohidratos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: carbono, hidrógeno y oxígeno.
+
+Ideas guía:
+- Los carbohidratos, también llamados glúcidos o azúcares, están formados por carbono, hidrógeno y oxígeno, con el hidrógeno y el oxígeno aproximadamente en la proporción del agua.
+- Son la fuente de energía más accesible de la célula y, en algunos casos, también material de construcción.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se analiza la composición elemental de un almidón y la de una albúmina. En el almidón aparecen solo tres elementos; en la albúmina aparece además un cuarto. ¿Cuál es ese cuarto elemento, característico de las proteínas y ausente en los carbohidratos?
+A) El carbono, base del esqueleto.
+B) El oxígeno de los grupos hidroxilo.
+C) El hidrógeno de las cadenas.
+D) El nitrógeno del grupo amino.
+Correcta: D. Por qué: El nitrógeno forma parte del grupo amino de cada aminoácido, de modo que su presencia es una señal característica de las proteínas y de los ácidos nucleicos. Las otras tres alternativas nombran elementos que los carbohidratos sí contienen, así que ninguna puede ser la respuesta.
+
+Pregunta 2 (Observar y plantear preguntas): Un análisis de un compuesto desconocido revela carbono, hidrógeno y oxígeno en la proporción típica de un carbohidrato, sin nitrógeno ni fósforo. ¿Qué observación adicional conviene hacer para saber si se trata de un monosacárido o de un polisacárido?
+A) Determinar el tamaño de la molécula y si se degrada en unidades menores.
+B) Medir el color que adquiere la muestra al calentarla suavemente en un tubo.
+C) Comprobar si la muestra es sólida o líquida a temperatura ambiente normal.
+D) Determinar la masa total de la muestra disponible en el laboratorio actual.
+Correcta: A. Por qué: Si la molécula se degrada en unidades menores que siguen siendo azúcares, se trata de un polímero. El color al calentar, el estado físico y la masa disponible son datos que no distinguen entre las dos posibilidades planteadas.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que una muestra contiene azúcares reductores usando un reactivo que cambia de color en su presencia. ¿Qué control debe incluir el diseño?
+A) Un tubo con la muestra calentada a mayor temperatura que los demás.
+B) Un tubo con la muestra y el doble de volumen de reactivo.
+C) Un tubo con el reactivo y agua destilada, sin la muestra.
+D) Un tubo con la muestra observado después de un tiempo mayor.
+Correcta: C. Por qué: El control negativo, con reactivo y sin muestra, muestra qué color tiene el reactivo cuando no hay azúcares, de modo que cualquier cambio observado en el tubo problema sea atribuible a la muestra. Las otras opciones modifican la temperatura, el volumen o el tiempo, introduciendo variables adicionales en lugar de aportar una referencia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

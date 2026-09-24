@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 18: e. Agonistas y antagonistas
+Sección: 5. La sinapsis química
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Agonistas y antagonistas». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Agonista, Imita, Antagonista, Impide, Inhibidor de la recaptación, Prolonga y potencia, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Agonistas y antagonistas», dentro de la sección «5. La sinapsis química» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Agonista, Imita, Antagonista, Impide, Inhibidor de la recaptación, Prolonga y potencia.
+
+Ideas guía:
+- Muchas sustancias actúan sobre la sinapsis, y casi siempre de una de estas maneras.
+- Esta tabla es la herramienta para entender la sección 7.
+- Cómo resolver cualquier ítem de este tipo.
+- Pregúntate primero dónde actúa la sustancia: en el terminal presináptico, en el espacio o en el receptor.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un fármaco impide que el neurotransmisor sea recaptado hacia el terminal presináptico. ¿Cuál es el efecto esperado sobre la sinapsis?
+A) El neurotransmisor deja de unirse a los receptores de la membrana postsináptica.
+B) El terminal presináptico deja de fabricar nuevas vesículas de neurotransmisor.
+C) El neurotransmisor permanece más tiempo en el espacio y su efecto se prolonga.
+D) La cantidad de neurotransmisor en el espacio sináptico disminuye rápidamente.
+Correcta: C. Por qué: La recaptación es una de las vías por las que la señal se apaga. Si se bloquea, el mensajero queda disponible más tiempo y sigue uniéndose a sus receptores, de modo que el efecto postsináptico se intensifica y se prolonga. No se altera la síntesis de vesículas ni la capacidad de unión al receptor.
+
+Pregunta 2 (Evaluar): Dos sustancias reducen la respuesta postsináptica: la sustancia X se une al receptor sin activarlo y la sustancia Y impide la salida del neurotransmisor desde el terminal. ¿Cómo se clasifican?
+A) X es un agonista y Y, un inhibidor de la degradación enzimática.
+B) X es un antagonista y Y, un bloqueador de la liberación.
+C) X es un bloqueador de la liberación y Y, un antagonista del receptor.
+D) X es un inhibidor de la recaptación y Y, un agonista del receptor.
+Correcta: B. Por qué: La sustancia X se describe uniéndose al receptor sin activarlo, que es la definición exacta de antagonista. La sustancia Y actúa antes, en el terminal, impidiendo que el neurotransmisor salga: es un bloqueador de la liberación. Ambas reducen la respuesta, pero por mecanismos situados en lados distintos de la sinapsis.
+
+Pregunta 3 (Planificar y conducir una investigación): Para averiguar si una sustancia nueva actúa como agonista o como antagonista de un receptor, ¿qué diseño experimental es apropiado?
+A) Aplicar la sustancia sola y observar si por sí misma genera respuesta postsináptica.
+B) Aplicar la sustancia y medir la velocidad de conducción del axón presináptico.
+C) Aplicar la sustancia y contar el número de vesículas del terminal presináptico.
+D) Aplicar la sustancia y medir el potencial de reposo de la neurona presináptica.
+Correcta: A. Por qué: La diferencia decisiva es si la sustancia produce o no respuesta por sí sola: un agonista la produce y un antagonista no. Aplicarla sola es, por lo tanto, la prueba que separa las dos hipótesis, y conviene completarla aplicando después el neurotransmisor para ver si el efecto está bloqueado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

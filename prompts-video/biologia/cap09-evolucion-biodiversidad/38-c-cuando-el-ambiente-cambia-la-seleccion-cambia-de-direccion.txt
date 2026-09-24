@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 38: c. Cuando el ambiente cambia, la selección cambia de dirección
+Sección: 8. Los pinzones y la selección natural
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Cuando el ambiente cambia, la selección cambia de dirección». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente El Niño de 1983, pequeño, en sentido contrario, La sequía de 2003–2004, más pequeño, otra especie, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Cuando el ambiente cambia, la selección cambia de dirección», dentro de la sección «8. Los pinzones y la selección natural» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: El Niño de 1983, pequeño, en sentido contrario, La sequía de 2003–2004, más pequeño, otra especie.
+
+Ideas guía:
+- Esta es la parte más instructiva del estudio de los Grant, porque desmonta la idea de que la evolución «avanza» hacia un óptimo.
+- Llovió muchísimo, las plantas de semillas pequeñas y blandas se multiplicaron y pasaron a ser el recurso dominante.
+- Ahora las aves de pico pequeño, más eficientes con esas semillas, tuvieron la ventaja, y el promedio de la población se desplazó en sentido contrario al de 1977.
+- Poco antes se había establecido en Daphne Major el pinzón terrestre grande, G.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Durante El Niño de 1983 abundaron en Daphne Major las semillas pequeñas y blandas, y el pico promedio de la población de Geospiza fortis disminuyó respecto del valor alcanzado tras la sequía de 1977. ¿Qué muestra esta secuencia de resultados?
+A) Que la selección natural dejó de operar sobre la población durante ese período.
+B) Que la población retornó al estado óptimo hacia el cual venía evolucionando.
+C) Que el tamaño del pico dejó de transmitirse de padres a crías en esa población.
+D) Que la dirección del cambio depende del recurso disponible en cada momento.
+Correcta: D. Por qué: Al abundar las semillas pequeñas y blandas, las aves de pico pequeño resultaron más eficientes y dejaron más descendencia, de modo que el promedio se desplazó en sentido contrario al de 1977. La selección siguió actuando: lo que cambió fue su dirección, porque cambió el recurso.
+
+Pregunta 2 (Evaluar): En 2003 y 2004, tras establecerse en Daphne Major un pinzón de mayor tamaño muy eficaz con las semillas grandes, una nueva sequía favoreció a los Geospiza fortis de pico más pequeño. ¿Qué muestra este resultado sobre las presiones de selección?
+A) Que una presión de selección puede provenir de otra especie y no solo del clima.
+B) Que las sequías favorecen siempre a los individuos de pico de menor tamaño.
+C) Que la llegada de una especie nueva suspende la acción de la selección natural.
+D) Que las dos especies de pinzones se fusionaron en una sola población local.
+Correcta: A. Por qué: En 1977 la escasez favoreció a los picos grandes. En 2003 la misma escasez favoreció a los pequeños, porque ahora un competidor mucho más eficaz explotaba las semillas grandes. Lo que cambió no fue el clima, sino la presencia de otra especie: la presión fue biótica.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere determinar si el desplazamiento del pico observado en una población se debe a la competencia con otra especie o a un cambio en el clima. ¿Qué comparación permite distinguirlo?
+A) Comparar el tamaño del pico entre machos y hembras dentro de la misma población.
+B) Comparar el cambio del pico entre años secos con competidor y años secos sin competidor.
+C) Comparar la longevidad de las aves de pico grande con la de las aves de pico pequeño.
+D) Comparar el número total de aves presentes al inicio y al final de cada temporada.
+Correcta: B. Por qué: Los dos factores candidatos son la sequía y el competidor. Si se comparan años secos con competidor y años secos sin competidor, la sequía queda fijada y la única diferencia es la presencia de la otra especie. Cualquier diferencia en el desplazamiento del pico podrá atribuirse entonces a la competencia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

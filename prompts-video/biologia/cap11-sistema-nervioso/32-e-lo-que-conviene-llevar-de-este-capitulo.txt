@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 32: e. Lo que conviene llevar de este capítulo
+Sección: 8. Cuidado del sistema nervioso: sueño y prevención de traumatismos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Lo que conviene llevar de este capítulo». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente todo o nada, frecuencia, todos, médula, dónde, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Lo que conviene llevar de este capítulo», dentro de la sección «8. Cuidado del sistema nervioso: sueño y prevención de traumatismos» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: todo o nada, frecuencia, todos, médula, dónde.
+
+Ideas guía:
+- La señal va siempre en un sentido: dendritas → soma → axón → terminal.
+- El potencial de acción es todo o nada, y la intensidad se codifica en la frecuencia.
+- La sinapsis es química, y ahí actúan todos los fármacos y drogas del capítulo.
+- El reflejo es rápido porque su centro integrador está en la médula y no en el encéfalo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un ítem describe una sustancia que se une al receptor postsináptico de acetilcolina en el músculo sin activarlo. ¿Qué efecto debe predecirse?
+A) El músculo se contrae de forma sostenida por exceso de estimulación.
+B) El músculo no se contrae, porque la acetilcolina no puede activar su receptor.
+C) El nervio motor deja de conducir potenciales de acción hacia el músculo.
+D) El músculo aumenta su fuerza de contracción por encima de lo normal.
+Correcta: B. Por qué: La sustancia ocupa el receptor y no lo activa, de modo que la acetilcolina liberada por el nervio ya no encuentra receptores disponibles. Sin activación del receptor no hay señal para contraer, y el resultado es debilidad o parálisis del músculo. El nervio, en cambio, sigue conduciendo normalmente sus impulsos.
+
+Pregunta 2 (Comunicar): Se quiere cerrar un resumen del capítulo con una frase que conecte los dos lenguajes del sistema nervioso. ¿Cuál es la más adecuada?
+A) Dentro de la neurona la señal es química; entre neuronas, eléctrica.
+B) La señal es eléctrica en todo el recorrido, incluido el paso entre neuronas.
+C) La señal es química en todo el recorrido, incluido el interior del axón.
+D) Dentro de la neurona la señal es eléctrica; entre neuronas, química.
+Correcta: D. Por qué: La frase correcta asigna cada lenguaje a su lugar: eléctrico a lo largo de la neurona, químico en el paso de una a otra. Esa distinción es la que permite entender tanto la velocidad de la conducción como la posibilidad de modular la transmisión con fármacos, que actúan precisamente sobre el tramo químico.
+
+Pregunta 3 (Observar y plantear preguntas): Al repasar el capítulo, un estudiante advierte que casi todos los ítems sobre sustancias se resuelven identificando un paso de la sinapsis. ¿Qué pregunta le conviene plantearse para estudiar mejor?
+A) ¿Cuáles son los pasos de la sinapsis y qué efecto tiene interferir en cada uno?
+B) ¿Cuántos ítems de este tipo aparecieron en pruebas de años anteriores?
+C) ¿Cuántas páginas tiene el capítulo dedicado al sistema nervioso?
+D) ¿Qué colores se usaron en los diagramas de la sinapsis del capítulo?
+Correcta: A. Por qué: El patrón observado es que la clave está siempre en el mismo esquema, de modo que la pregunta útil es cuáles son esos pasos y qué ocurre al interferir en cada uno. Responderla entrega una herramienta aplicable a cualquier sustancia nueva. Las demás preguntas se refieren al formato del capítulo y no al contenido.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 29: d. Diagnóstico e identificación
+Sección: 7. Aplicaciones en fármacos y salud
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Diagnóstico e identificación». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente formas de saber, Diagnóstico molecular, Pruebas genéticas, No, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Diagnóstico e identificación», dentro de la sección «7. Aplicaciones en fármacos y salud» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: formas de saber, Diagnóstico molecular, Pruebas genéticas, No.
+
+Ideas guía:
+- Algunas de las aplicaciones más cotidianas no son tratamientos, sino formas de saber: Diagnóstico molecular.
+- La PCR detecta el material genético de un patógeno con enorme sensibilidad, incluso antes de que aparezcan síntomas.
+- Es la base de las pruebas que se popularizaron durante la pandemia de COVID-19.
+- Secuenciar permite detectar mutaciones asociadas a enfermedades hereditarias o a la respuesta a ciertos fármacos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): En un juicio se informa que el ADN hallado en un objeto coincide con el de una persona. ¿Qué permite concluir ese resultado?
+A) Que esa persona cometió el hecho investigado en el lugar donde estaba el objeto.
+B) Que esa persona estuvo en el lugar exactamente en el momento del hecho investigado.
+C) Que ninguna otra persona pudo haber tenido contacto con ese mismo objeto.
+D) Que el material genético de esa persona llegó a ese objeto, sin indicar cómo ni cuándo.
+Correcta: D. Por qué: La coincidencia establece el origen del material biológico. No informa sobre el momento en que llegó allí, ni sobre el modo, ni sobre la intención. El material pudo depositarse antes, ser transferido por contacto indirecto o llegar de otra manera. Concluir culpabilidad excede lo que la evidencia sostiene.
+
+Pregunta 2 (Planificar y conducir una investigación): Un laboratorio debe detectar el material genético de un patógeno en una muestra donde se encuentra en cantidad mínima. ¿Qué técnica corresponde?
+A) Electroforesis directa de la muestra, para separar sus componentes por tamaño.
+B) Secuenciación directa de la muestra, sin ningún tratamiento previo del material.
+C) PCR, que amplifica la secuencia del patógeno hasta hacerla detectable.
+D) Cultivo de la muestra en un medio con antibiótico durante varios días.
+Correcta: C. Por qué: El obstáculo es que hay muy poco material. La PCR lo resuelve multiplicando específicamente la secuencia del patógeno, hasta llevarla a una cantidad detectable. La electroforesis y la secuenciación directas requieren material suficiente de partida, y un cultivo con antibiótico no sirve para detectar un patógeno cualquiera.
+
+Pregunta 3 (Procesar y analizar la evidencia): En una prueba de paternidad se comparan regiones muy variables del ADN de un niño, de su madre y de un presunto padre. ¿Qué patrón respalda la paternidad?
+A) Que las bandas del niño que no coinciden con las de la madre coincidan con las del presunto padre.
+B) Que las bandas del niño coincidan por completo con las del presunto padre en todas las regiones.
+C) Que las bandas del niño coincidan por completo con las de la madre en todas las regiones.
+D) Que ninguna banda del niño coincida con las de la madre ni con las del presunto padre.
+Correcta: A. Por qué: Cada persona hereda la mitad de su material genético de cada progenitor. Por lo tanto, cada banda del niño proviene de la madre o del padre biológico. Al descontar las bandas que coinciden con la madre, las restantes deben coincidir con las del padre biológico. Ese es el patrón que respalda la paternidad.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

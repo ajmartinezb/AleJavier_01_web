@@ -1,0 +1,42 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 33: d. Coherencia entre los componentes
+Sección: 7. Evaluar una investigación científica
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Coherencia entre los componentes». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente pregunta, hipótesis, diseño, conclusión, no es coherente, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Coherencia entre los componentes», dentro de la sección «7. Evaluar una investigación científica» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: pregunta, hipótesis, diseño, conclusión, no es coherente.
+
+Ideas guía:
+- Por ejemplo, no es coherente plantear «¿influye la luz en la fotosíntesis?» y luego variar la temperatura; tampoco lo es concluir sobre el crecimiento cuando solo se midió la germinación.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Una investigadora pregunta: «¿Influye la intensidad de la luz en la tasa de fotosíntesis de la elodea?». Coloca ramas de elodea a 10, 20 y 40 cm de una lámpara y cuenta las burbujas de oxígeno por minuto. ¿Qué hipótesis es coherente con esa pregunta y ese diseño?
+A) A mayor intensidad de luz, mayor cantidad de burbujas de oxígeno.
+B) A mayor temperatura del agua, mayor cantidad de burbujas de oxígeno.
+C) A mayor intensidad de luz, mayor crecimiento en largo de la elodea.
+D) A mayor distancia a la lámpara, mayor cantidad de burbujas liberadas.
+Correcta: A. Por qué: Paso 1: la pregunta relaciona intensidad de luz con fotosíntesis. Paso 2: el diseño cambia la distancia a la lámpara (es decir, la intensidad) y mide burbujas de oxígeno. Paso 3: la hipótesis coherente conecta ambas variables en el sentido esperado: más luz, más oxígeno liberado.
+
+Pregunta 2 (Evaluar): Un estudio preguntó si el consumo de bebidas energéticas afecta la memoria de adolescentes. Se dividió a 60 estudiantes en dos grupos: uno bebió una bebida energética y otro agua. Luego se midió su frecuencia cardíaca. Los autores concluyeron que la bebida mejora la memoria. ¿Qué evaluación es correcta?
+A) Es coherente, porque se comparó un grupo experimental con uno control.
+B) No es coherente, porque la conclusión trata una variable no medida.
+C) No es coherente, porque 60 estudiantes son pocos para cualquier estudio.
+D) Es coherente, porque la frecuencia cardíaca refleja siempre la memoria.
+Correcta: B. Por qué: Paso 1: la pregunta trata sobre memoria. Paso 2: el diseño compara dos grupos, pero mide frecuencia cardíaca. Paso 3: la conclusión habla de memoria, variable que nunca se registró. Por lo tanto, existe una incoherencia entre la variable dependiente medida y la conclusión.
+
+Pregunta 3 (Planificar y conducir una investigación): Un estudiante pregunta: «¿Afecta la concentración de sal la germinación de semillas de rabanito?». Planea preparar placas con 0, 50 y 100 mM de NaCl, con 20 semillas cada una, a igual temperatura. ¿Qué medición completa el diseño de forma coherente con su pregunta?
+A) El largo de las hojas de las plántulas a las tres semanas.
+B) La temperatura de cada placa registrada cada día a mediodía.
+C) El porcentaje de semillas germinadas en cada placa tras 5 días.
+D) La masa de sal disuelta en el agua de riego de cada placa.
+Correcta: C. Por qué: Paso 1: la independiente es la concentración de NaCl (0, 50, 100 mM). Paso 2: la pregunta menciona la germinación, por lo que esa debe ser la dependiente. Paso 3: la forma directa de medirla es el porcentaje de semillas germinadas en un plazo fijo. Las demás opciones miden otra variable o repiten la independiente.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

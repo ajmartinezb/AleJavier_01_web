@@ -1,0 +1,44 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 20: b. Cloroplastos
+Sección: 6. Organelos que transforman energía: mitocondrias, cloroplastos y peroxisomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Cloroplastos». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente fotosíntesis, Doble membrana, Tilacoides, grana, clorofila, Estroma, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Cloroplastos», dentro de la sección «6. Organelos que transforman energía: mitocondrias, cloroplastos y peroxisomas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: fotosíntesis, Doble membrana, Tilacoides, grana, clorofila, Estroma.
+
+Ideas guía:
+- Están en las células de las plantas y las algas que hacen fotosíntesis: transforman la energía de la luz en energía química y la guardan en moléculas orgánicas como la glucosa, a partir de CO2 y agua.
+- Los cloroplastos son un tipo de plastidio.
+- Otros plastidios son los amiloplastos, que almacenan almidón y abundan en la papa, y los cromoplastos, que acumulan pigmentos amarillos o rojos en frutos y flores.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un estudiante quiere demostrar que el almidón de una hoja de geranio se produce solo en zonas con cloroplastos. Usa una hoja variegada, que tiene regiones verdes y regiones blancas sin clorofila, la expone a la luz por seis horas y luego la tiñe con lugol (reactivo que se torna azul oscuro con el almidón). ¿Cuál es la variable independiente de este diseño?
+A) La coloración que toma cada zona tras aplicar el reactivo de lugol.
+B) El tiempo durante el cual la hoja completa permanece iluminada.
+C) La presencia o ausencia de cloroplastos en cada una de las regiones de la hoja.
+D) La especie de planta usada y la cantidad de agua que se le aporta.
+Correcta: C. Por qué: En este diseño toda la hoja recibe la misma luz y el mismo tiempo, y pertenece a la misma planta. Lo único que difiere entre regiones es si tienen o no cloroplastos con clorofila: esa es la variable independiente. La coloración con lugol es lo que se registra al final, es decir, la variable dependiente. La luz, el tiempo y la especie son variables controladas.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un experimento se iluminan cloroplastos aislados y se separan sus partes. A cada fracción se le entrega lo necesario para su etapa y se registra qué se produce. Tilacoides iluminados: producen ATP, NADPH y O2, pero no glucosa. Estroma en oscuridad, con CO2 solo: no produce glucosa. Estroma en oscuridad, con CO2, ATP y NADPH: produce glucosa. ¿Qué conclusión es coherente con estos resultados?
+A) El estroma capta la luz y fabrica el ATP que luego ocupan los tilacoides para su síntesis.
+B) El estroma fija CO2 en glucosa con el ATP y NADPH que generan los tilacoides.
+C) Los tilacoides fabrican glucosa solo si el estroma les entrega CO2 en la oscuridad.
+D) La síntesis de glucosa en el estroma exige luz directa aunque se agregue ATP y NADPH.
+Correcta: B. Por qué: Los tilacoides iluminados producen ATP, NADPH y O2, pero no glucosa. El estroma, con CO2 solo, tampoco produce glucosa; basta con agregarle ATP y NADPH para que la fabrique, incluso en oscuridad. Se concluye que el estroma fija CO2 usando los productos de los tilacoides, y que lo que necesita no es la luz en sí, sino ATP y NADPH.
+
+Pregunta 3 (Evaluar): Una estudiante concluye: «Los cloroplastos se forman solo en presencia de luz». Su evidencia: sembró porotos en oscuridad y observó al microscopio que las hojas, amarillentas, carecían de cloroplastos maduros, pero tenían plastidios sin tilacoides desarrollados. No incluyó plantas crecidas a la luz ni controló la temperatura. ¿Cuál es la principal limitación de su investigación?
+A) Usó una sola especie, por lo que no puede hablar de la estructura de los plastidios.
+B) Debió medir la glucosa del suelo en lugar de observar las hojas del poroto.
+C) El microscopio óptico no deja observar ningún tipo de plastidio dentro de las células.
+D) Faltó un grupo control a la luz, con igual temperatura, para comparar.
+Correcta: D. Por qué: Para atribuir un efecto a la luz hay que compararlo con un grupo que sí la reciba y que, en todo lo demás, sea igual. La estudiante solo tiene plantas en oscuridad y además no controló la temperatura, que podría explicar por sí sola el desarrollo anormal. Sin grupo control no puede afirmar que la falta de luz sea la causa, aunque su conclusión resulte ser correcta.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

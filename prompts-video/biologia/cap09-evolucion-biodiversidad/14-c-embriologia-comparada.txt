@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 14: c. Embriología comparada
+Sección: 4. Evidencias evolutivas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Embriología comparada». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente arcos faríngeos, cola, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Embriología comparada», dentro de la sección «4. Evidencias evolutivas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: arcos faríngeos, cola.
+
+Ideas guía:
+- Los embriones de los vertebrados pasan por etapas tempranas notablemente parecidas: todos presentan arcos faríngeos, un tubo neural dorsal, una cola y somitos, incluso los que no tendrán nada de eso en el adulto.
+- En el pez, los arcos faríngeos se convierten en branquias; en el humano, en estructuras del oído medio, la mandíbula y la laringe.
+- El desarrollo, entonces, no se rediseña de cero en cada linaje: se hereda un programa y se modifica su tramo final.
+- Es el mismo argumento de la homología, visto durante la construcción del organismo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En los embriones tempranos de pez, tortuga, pollo y ser humano se observan arcos faríngeos. En el adulto, esas estructuras originan branquias en el pez y parte del oído medio, la mandíbula y la laringe en el ser humano. ¿Qué se concluye?
+A) Que el embrión humano atraviesa una etapa adulta propia de los peces actuales.
+B) Que los arcos faríngeos cumplen la misma función en las cuatro especies comparadas.
+C) Que el mismo conjunto de estructuras embrionarias dio origen a órganos distintos.
+D) Que las cuatro especies comparten el mismo número total de genes reguladores.
+Correcta: C. Por qué: El dato entregado tiene dos partes: una estructura compartida en el embrión y destinos distintos en el adulto. La conclusión que las une es que el punto de partida del desarrollo es el mismo y lo que cambia es el proceso posterior. Eso es exactamente lo que se espera si las cuatro especies heredaron el mismo programa de desarrollo.
+
+Pregunta 2 (Planificar y conducir una investigación): Un laboratorio quiere poner a prueba la hipótesis de que dos especies de vertebrados comparten el programa de desarrollo de las extremidades. ¿Qué procedimiento aporta evidencia directa sobre esa hipótesis?
+A) Comparar la longitud final de las extremidades de los adultos de ambas especies.
+B) Comparar el número de crías que cada especie produce en un mismo período anual.
+C) Comparar la resistencia mecánica de los huesos de las extremidades ya formadas.
+D) Comparar los genes que se expresan en el esbozo de la extremidad.
+Correcta: D. Por qué: La hipótesis se refiere al programa de desarrollo, no al resultado final. Por eso la observación debe hacerse durante el desarrollo y sobre la estructura implicada: comparar qué genes se expresan en el esbozo de la extremidad y en qué orden. Medir el adulto informa sobre el producto, que puede diferir aunque el programa sea el mismo.
+
+Pregunta 3 (Evaluar): Un divulgador escribe que «el desarrollo embrionario repite, paso a paso, la historia evolutiva completa de la especie». ¿Qué corresponde objetar a esta formulación?
+A) Que el embrión no reproduce las formas adultas de sus ancestros, sino etapas del desarrollo.
+B) Que el desarrollo embrionario de los vertebrados no presenta ninguna semejanza entre especies.
+C) Que la embriología comparada no aporta evidencia sobre las relaciones de parentesco.
+D) Que los embriones de especies emparentadas se diferencian desde la primera división celular.
+Correcta: A. Por qué: La formulación citada afirma algo más fuerte y falso: que el embrión pasa por los adultos de sus ancestros. Lo que se observa es distinto: los embriones tempranos de vertebrados se parecen entre sí y luego divergen. Corregir la afirmación no obliga a negar la semejanza embrionaria, que está bien documentada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

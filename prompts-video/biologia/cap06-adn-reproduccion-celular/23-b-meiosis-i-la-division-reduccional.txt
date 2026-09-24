@@ -1,0 +1,39 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 23: b. Meiosis I: la división reduccional
+Sección: 7. La meiosis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Meiosis I: la división reduccional». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente cromosomas homólogos, Profase I, homólogos se aparean, sinapsis, complejo sinaptonémico, bivalente, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Meiosis I: la división reduccional», dentro de la sección «7. La meiosis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: cromosomas homólogos, Profase I, homólogos se aparean, sinapsis, complejo sinaptonémico, bivalente.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Al observar una preparación de anteras de lirio, un estudiante describe cuatro células: 1) cromosomas individuales, con dos cromátidas cada uno, alineados en el ecuador; 2) pares de cromosomas homólogos alineados en el ecuador; 3) cromátidas separadas dirigiéndose a los polos; 4) núcleo intacto con cromatina difusa. ¿Cuál de las células se encuentra en metafase I?
+A) La primera célula
+B) La segunda célula
+C) La tercera célula
+D) La cuarta célula
+Correcta: B. Por qué: La clave está en qué se alinea en el ecuador. En la célula 2 se alinean pares de homólogos: eso ocurre solo en la metafase I. En la célula 1 se alinean cromosomas sueltos con dos cromátidas: es la metafase II (o una mitosis). La célula 3 separa cromátidas, lo que corresponde a la anafase II. La célula 4, con cromatina difusa, está en interfase.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un organismo tiene 2n = 6, con los pares de homólogos Aa, Bb y Cc (mayúscula de origen materno y minúscula de origen paterno). Una investigadora analiza miles de células al final de la meiosis I, sin considerar el entrecruzamiento, y registra las combinaciones de cromosomas que recibe cada célula. ¿Cuántas combinaciones distintas se esperan?
+A) 3
+B) 6
+C) 8
+D) 9
+Correcta: C. Por qué: Cada par ofrece dos opciones (materno o paterno) de forma independiente. Con n = 3 pares, el total es 2 × 2 × 2 = 2³ = 8 combinaciones: ABC, ABc, AbC, Abc, aBC, aBc, abC y abc. No se suman los pares ni se multiplica 2 por 3, sino que se eleva 2 a n.
+
+Pregunta 3 (Planificar y conducir una investigación): Una investigadora sospecha que una proteína del complejo sinaptonémico es necesaria para que los homólogos se separen correctamente en la anafase I. Dispone de ratones normales y de ratones sin esa proteína. ¿Qué procedimiento le permite poner a prueba su sospecha?
+A) Contar cromosomas en células de piel de los ratones sin la proteína.
+B) Medir el tamaño de los testículos solo en los ratones normales de la colonia.
+C) Contar cromosomas en espermatozoides maduros de los ratones normales.
+D) Contar cromosomas en células tras la meiosis I de ambos tipos de ratones.
+Correcta: D. Por qué: La variable independiente es la presencia o ausencia de la proteína, así que se necesitan ambos tipos de ratones. La dependiente es si los homólogos se reparten bien, lo que se ve contando cromosomas justo después de la meiosis I: si hay errores, habrá células con más o menos de n. La alternativa D reúne grupos, tejido y momento adecuados.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

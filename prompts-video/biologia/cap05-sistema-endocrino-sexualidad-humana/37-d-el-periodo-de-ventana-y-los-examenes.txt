@@ -1,0 +1,44 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 37: d. El período de ventana y los exámenes
+Sección: 9. Infecciones de transmisión sexual
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «El período de ventana y los exámenes». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente período de ventana, negativo tomado demasiado pronto, sí puede transmitir, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. El período de ventana y los exámenes», dentro de la sección «9. Infecciones de transmisión sexual» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: período de ventana, negativo tomado demasiado pronto, sí puede transmitir.
+
+Ideas guía:
+- Entre la infección y el momento en que un examen puede detectarla transcurre un período de ventana: el organismo todavía no produce suficientes anticuerpos, o la cantidad de agente es demasiado baja.
+- Esto tiene dos consecuencias prácticas que la prueba usa: Un examen negativo tomado demasiado pronto no descarta la infección, y por eso se repite pasado el plazo correspondiente.
+- Durante ese período la persona sí puede transmitir la infección.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una persona se realiza un examen de VIH tres días después de una exposición de riesgo y obtiene un resultado negativo. ¿Qué conclusión corresponde?
+A) El resultado puede ser negativo por el período de ventana y debe repetirse.
+B) Queda descartada la infección de manera definitiva.
+C) El resultado indica que la persona ya desarrolló inmunidad al virus.
+D) El resultado es inválido y no aporta ninguna información clínica.
+Correcta: A. Por qué: Tres días es un plazo demasiado breve, de modo que un resultado negativo no descarta la infección y el examen debe repetirse pasado el período correspondiente. Además, durante ese tiempo la persona sí puede transmitir el virus, dato que la prueba usa con frecuencia.
+
+Pregunta 2 (Evaluar): Se afirma que «durante el período de ventana la persona no puede transmitir la infección, porque el examen no la detecta». ¿Cuál es la corrección pertinente?
+A) Es correcta: si el examen no la detecta, el agente aún no está presente.
+B) Es incorrecta, porque el período de ventana no existe en las ITS virales.
+C) Es correcta, siempre que el examen utilizado sea de última generación.
+D) Es incorrecta: el agente ya está presente y la transmisión es posible.
+Correcta: D. Por qué: El examen mide una señal indirecta, como los anticuerpos, que tarda en aparecer. El agente, en cambio, ya está en el organismo y puede pasar a otra persona. Confundir ambas cosas lleva a la conclusión peligrosa de que un negativo reciente autoriza a no tomar precauciones.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere diseñar un protocolo de tamizaje de ITS para personas con una exposición de riesgo reciente. ¿Qué elemento es indispensable?
+A) Tomar un único examen el mismo día de la consulta y entregar el alta.
+B) Repetir el examen una vez transcurrido el período de ventana correspondiente.
+C) Indicar antibióticos a todas las personas antes de tomar cualquier examen.
+D) Realizar el examen solo a quienes presenten síntomas evidentes.
+Correcta: B. Por qué: El protocolo debe contemplar una segunda toma, porque un solo examen inmediato puede dar un falso negativo. Indicar antibióticos a todas las personas sin diagnóstico favorece la resistencia, y examinar solo a quienes tienen síntomas dejaría fuera a la mayoría de los casos de clamidia y gonorrea.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

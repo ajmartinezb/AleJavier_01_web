@@ -1,0 +1,43 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 24: b. La geología entrega el tiempo
+Sección: 6. La evolución antes de Darwin
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «La geología entrega el tiempo». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente antiguo, James Hutton, Charles Lyell, tiempo profundo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. La geología entrega el tiempo», dentro de la sección «6. La evolución antes de Darwin» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: antiguo, James Hutton, Charles Lyell, tiempo profundo.
+
+Ideas guía:
+- Para que cualquier mecanismo gradual pudiera funcionar, hacía falta un planeta antiguo.
+- Darwin llevó el primer volumen de Lyell a bordo del Beagle y lo usó para interpretar lo que veía.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un historiador de la ciencia sostiene que la obra geológica de Lyell fue decisiva para la teoría de Darwin, aunque Lyell no propuso ningún mecanismo evolutivo. ¿Qué argumento respalda esa afirmación?
+A) Lyell describió por primera vez la variación heredable dentro de las poblaciones.
+B) Lyell demostró que las especies se transforman por acción de procesos lentos.
+C) Lyell estableció el orden de aparición de los grandes grupos de vertebrados.
+D) Lyell aportó el tiempo profundo, sin el cual un proceso gradual no podría acumularse.
+Correcta: D. Por qué: La selección natural produce cambios pequeños en cada generación, de modo que necesita un planeta muy antiguo para que esos cambios se acumulen hasta producir la diversidad observada. Eso es exactamente lo que aportó Lyell. Darwin llevó su obra a bordo del Beagle y la usó para interpretar lo que veía.
+
+Pregunta 2 (Procesar y analizar la evidencia): En una costa se mide que el nivel del terreno se eleva en promedio 3 milímetros por año. Manteniendo esa tasa, ¿cuántos metros se elevaría el terreno en un millón de años?
+A) 30 metros
+B) 3000 metros
+C) 300 metros
+D) 30 000 metros
+Correcta: B. Por qué: La tasa es 3 mm por año, es decir, 0,003 metros por año. Multiplicando por 1 000 000 de años se obtiene 3000 metros. El resultado ilustra el argumento de Lyell: una tasa imperceptible en la escala humana levanta una cordillera si se mantiene el tiempo suficiente.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere comprobar si una formación rocosa de gran espesor pudo originarse por procesos que aún operan hoy. ¿Qué procedimiento permite contrastar esa hipótesis?
+A) Medir la tasa actual de sedimentación y estimar el tiempo necesario para ese espesor.
+B) Medir el peso total de la formación rocosa y compararlo con el de otras formaciones.
+C) Describir los minerales presentes en la formación y clasificarlos por su dureza.
+D) Contar las especies de fósiles presentes en la base y en la cima de la formación.
+Correcta: A. Por qué: La hipótesis afirma que un proceso conocido, actuando durante mucho tiempo, explica la formación. Para contrastarla hay que medir la tasa a la que ese proceso ocurre hoy y calcular cuánto tiempo requeriría acumular el espesor observado. Si el tiempo resultante es compatible con la edad de las rocas, la hipótesis se sostiene.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

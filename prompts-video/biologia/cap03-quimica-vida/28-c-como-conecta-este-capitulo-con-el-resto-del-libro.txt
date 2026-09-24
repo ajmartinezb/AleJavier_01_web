@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 28: c. Cómo conecta este capítulo con el resto del libro
+Sección: 8. Vitaminas y lo que conviene llevar
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Cómo conecta este capítulo con el resto del libro». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente fosfolípido, capítulo 4, enzima, capítulo 10, capítulo 6, nucleótido, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Cómo conecta este capítulo con el resto del libro», dentro de la sección «8. Vitaminas y lo que conviene llevar» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: fosfolípido, capítulo 4, enzima, capítulo 10, capítulo 6, nucleótido.
+
+Ideas guía:
+- El fosfolípido explica la membrana y el transporte del capítulo 4.
+- La enzima explica la RuBisCO y las variables de la fotosíntesis del capítulo 10, y también los puntos de control del capítulo 6.
+- El nucleótido y la complementariedad de bases explican el ADN del capítulo 6 y las técnicas del capítulo 7.
+- La proteína y su plegamiento explican por qué una mutación puede cambiar una función, tema del capítulo 6.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un estudiante decide saltarse este capítulo porque la química de la vida no aparece en el temario DEMRE 2027. ¿Cuál es la mejor evaluación de esa decisión?
+A) Es acertada, porque ningún contenido de la prueba requiere estos conceptos.
+B) Es equivocada, porque la química de la vida sí figura como un contenido propio del temario oficial de Biología.
+C) Es discutible: el vocabulario de este capítulo se da por sabido en preguntas de membrana, ADN y fotosíntesis.
+D) Es acertada, porque la prueba evalúa solo habilidades y no conocimientos.
+Correcta: C. Por qué: La premisa del estudiante es correcta: el capítulo está fuera del temario. Lo que falla es la conclusión, porque los enunciados dan por sabidos términos como enzima, fosfolípido o nucleótido. Afirmar que figura en el temario sería falso, y sostener que la prueba evalúa solo habilidades ignora que todas las preguntas se desprenden de contenidos.
+
+Pregunta 2 (Planificar y conducir una investigación): Un estudiante quiere entender por qué la RuBisCO deja de ser eficiente a temperaturas altas. ¿Qué contenidos de este capítulo debe repasar antes?
+A) El plegamiento de las proteínas y el efecto de la temperatura sobre las enzimas.
+B) La clasificación de los carbohidratos en mono, di y polisacáridos.
+C) Las propiedades del agua como disolvente y su alto calor específico.
+D) La diferencia entre vitaminas hidrosolubles y liposolubles.
+Correcta: A. Por qué: Entender ese punto exige saber que la función depende del plegamiento tridimensional y que la temperatura alta lo destruye. La clasificación de los carbohidratos, las propiedades del agua y la solubilidad de las vitaminas son contenidos del mismo capítulo que no intervienen en esta explicación.
+
+Pregunta 3 (Observar y plantear preguntas): Se quiere entender por qué una membrana celular deja pasar con facilidad una molécula apolar pequeña y no un ion con carga. ¿Cuál es la pregunta que mejor orienta esa investigación?
+A) ¿Cuántos fosfolípidos contiene en total una membrana celular típica?
+B) ¿Cómo influye el interior hidrofóbico de la bicapa en el paso de cada tipo de molécula?
+C) ¿En qué año se propuso el modelo actual de la membrana plasmática?
+D) ¿Qué color adquiere la membrana con las tinciones habituales de laboratorio?
+Correcta: B. Por qué: Ese interior apolar deja pasar con facilidad lo que se le parece y bloquea lo que tiene carga, que es exactamente el contraste observado. Contar fosfolípidos, buscar una fecha o describir un color no abordan el mecanismo de la selectividad.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

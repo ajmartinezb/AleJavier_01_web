@@ -1,0 +1,45 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 02: b. Dónde se corta la escalera
+Sección: 2. Los niveles de organización
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Dónde se corta la escalera». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente bacteria, esponja, ser humano, El error más frecuente, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Dónde se corta la escalera», dentro de la sección «2. Los niveles de organización» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: bacteria, esponja, ser humano, El error más frecuente.
+
+Ideas guía:
+- No todos los organismos pasan por todos los niveles.
+- Una bacteria es un organismo unicelular: en ella, el nivel «célula» y el nivel «organismo» coinciden.
+- Una esponja tiene células especializadas, pero no verdaderos órganos.
+- Un ser humano recorre la escalera completa.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se afirma que la vida aparece en el nivel celular y no antes. ¿Cuál es la razón que mejor sostiene esa afirmación?
+A) Porque las moléculas son demasiado pequeñas para observarse al microscopio óptico.
+B) Porque solo en las células hay átomos de carbono formando moléculas orgánicas.
+C) Porque la célula es la unidad más simple capaz de realizar las funciones vitales.
+D) Porque por debajo del nivel celular no existe materia químicamente organizada.
+Correcta: C. Por qué: Una biomolécula aislada, incluso el ADN, no hace nada de eso: necesita estar dentro de una célula. El tamaño no es el criterio, porque hay virus más pequeños que algunas moléculas grandes y no están vivos. El carbono está presente en moléculas orgánicas fuera de las células, y por debajo del nivel celular sí hay materia altamente organizada, como los organelos.
+
+Pregunta 2 (Evaluar): Un estudiante concluye que un organelo aislado en un tubo de ensayo está vivo porque sigue consumiendo oxígeno durante un tiempo. ¿Cuál es la mejor evaluación de esa conclusión?
+A) Es válida, porque el consumo de oxígeno demuestra que hay metabolismo activo.
+B) Es válida, porque el organelo mantiene su estructura durante todo el experimento.
+C) No es válida, porque los organelos aislados no realizan ninguna reacción química.
+D) No es válida, porque una sola función aislada no basta como criterio de vida.
+Correcta: D. Por qué: Una mitocondria aislada conserva su maquinaria enzimática y consume oxígeno por un rato, pero no se divide, no repone sus proteínas ni regula su interior; cuando se agotan sus componentes, se detiene. Por eso el dato es real pero insuficiente. La última alternativa, en cambio, niega un hecho comprobado: los organelos aislados sí realizan reacciones, y en eso se basa el experimento descrito.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere poner a prueba si una estructura recién descubierta de dos micrómetros está viva. Ya se comprobó que tiene membrana, material genético y que consume glucosa. ¿Qué observación adicional es más decisiva?
+A) Registrar si aumenta su número en un cultivo mantenido durante varios días.
+B) Medir su diámetro con mucha mayor precisión usando un microscopio electrónico.
+C) Determinar la composición química exacta de su membrana externa.
+D) Comprobar si flota o si se deposita en el fondo del recipiente de cultivo usado.
+Correcta: A. Por qué: Con membrana, material genético y consumo de glucosa ya hay organización y metabolismo; lo que aún no se sabe es si la estructura se multiplica. Registrar el aumento del número de unidades en cultivo responde exactamente esa pregunta. Medir el diámetro con más precisión o analizar la composición de la membrana agrega detalle descriptivo sin decidir nada, y la flotabilidad es una propiedad física irrelevante.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

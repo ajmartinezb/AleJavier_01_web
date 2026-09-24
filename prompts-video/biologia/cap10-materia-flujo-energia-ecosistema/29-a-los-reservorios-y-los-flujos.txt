@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 29: a. Los reservorios y los flujos
+Sección: 9. El ciclo del carbono y el ecosistema chileno
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Los reservorios y los flujos». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente reservorios, procesos, Atmósfera, Seres vivos, Suelo, Océano, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Los reservorios y los flujos», dentro de la sección «9. El ciclo del carbono y el ecosistema chileno» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: reservorios, procesos, Atmósfera, Seres vivos, Suelo, Océano.
+
+Ideas guía:
+- El carbono está guardado en unos pocos reservorios y se mueve entre ellos por unos pocos procesos: Dónde se rompe el equilibrio.
+- Formar un combustible fósil toma millones de años; quemarlo toma segundos.
+- La combustión devuelve a la atmósfera, en pocas décadas, carbono que había quedado fuera del ciclo durante eras geológicas.
+- Ese desajuste entre la velocidad de entrada y la de salida es la raíz del aumento del CO2 atmosférico.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): ¿En cuál de los siguientes reservorios el carbono se encuentra en forma de carbonato de calcio?
+A) En la atmósfera, como parte del CO₂ del aire.
+B) En los seres vivos, formando sus moléculas orgánicas.
+C) En el océano y las rocas, en conchas y caliza.
+D) En el suelo, como humus en descomposición.
+Correcta: C. Por qué: El carbonato de calcio es el material de conchas, corales y calizas, de modo que corresponde al reservorio oceánico y a las rocas que se forman a partir de él. En la atmósfera el carbono está como CO₂, en los seres vivos como moléculas orgánicas y en el suelo como materia orgánica en descomposición.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un esquema del ciclo del carbono muestra una flecha que va desde los seres vivos hacia la atmósfera. ¿Qué procesos puede representar esa flecha?
+A) La fotosíntesis y la fijación de carbono por los productores.
+B) La respiración celular y la descomposición de materia muerta.
+C) La sedimentación de conchas en el fondo del océano.
+D) La disolución del CO₂ atmosférico en el agua de mar.
+Correcta: B. Por qué: La flecha va de los organismos al aire, de modo que solo pueden representarla procesos que liberen CO₂: la respiración de todos los seres vivos y la degradación de materia orgánica muerta. La fotosíntesis recorre el camino inverso, la sedimentación lleva carbono a las rocas y la disolución ocurre entre la atmósfera y el océano.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante observa en un esquema que la flecha de la combustión es mucho más gruesa que la de la fosilización, aunque ambas conectan los mismos reservorios. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Qué implica que el carbono fósil salga más rápido de lo que entra?
+B) ¿Qué colores conviene usar para representar cada flecha del esquema?
+C) ¿Cuántas flechas en total aparecen dibujadas en el esquema del ciclo?
+D) ¿Quién diseñó la primera representación gráfica del ciclo del carbono?
+Correcta: A. Por qué: El grosor de las flechas representa la magnitud de cada flujo, así que la diferencia observada indica un desbalance. La pregunta pertinente indaga qué implica ese desbalance, cuya respuesta es la acumulación de CO₂ en la atmósfera. Las demás opciones se refieren al dibujo como objeto gráfico.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

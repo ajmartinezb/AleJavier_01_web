@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 26: e. El marco legal chileno
+Sección: 7. Caracteres sexuales y dimensiones de la sexualidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «El marco legal chileno». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Ley 20.418, información completa, elegir libremente, confidencialidad, se entrega primero, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. El marco legal chileno», dentro de la sección «7. Caracteres sexuales y dimensiones de la sexualidad» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Ley 20.418, información completa, elegir libremente, confidencialidad, se entrega primero.
+
+Ideas guía:
+- La Ley 20.418 fija las normas sobre información, orientación y prestaciones en materia de regulación de la fertilidad.
+- Tres puntos importan para este capítulo: Toda persona tiene derecho a recibir información completa sobre los métodos de regulación de la fertilidad y a elegir libremente entre los autorizados.
+- La ley garantiza la confidencialidad sobre las decisiones y los métodos que cada persona elige, y la edad no es motivo para romperla.
+- Los establecimientos de salud deben poner a disposición de la población los métodos autorizados, tanto hormonales como no hormonales, incluida la anticoncepción de emergencia.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un equipo de salud quiere evaluar si se está cumpliendo el derecho a información sobre métodos de regulación de la fertilidad. ¿Qué indicador conviene registrar?
+A) El número de folletos impresos por el establecimiento durante el año.
+B) La opinión del equipo de salud sobre la utilidad de la ley vigente.
+C) La proporción de consultantes que recibió información sobre todos los métodos disponibles.
+D) La cantidad de horas de funcionamiento semanal del establecimiento.
+Correcta: C. Por qué: El derecho se cumple cuando la persona efectivamente recibe la información, de modo que el indicador debe medir eso en quienes consultan. Los folletos impresos, la opinión del equipo y las horas de funcionamiento describen recursos y condiciones, pero no acreditan que la información haya llegado.
+
+Pregunta 2 (Evaluar): Se afirma que «un establecimiento de salud puede negar la anticoncepción de emergencia a una persona menor de 14 años hasta que llegue un adulto responsable». ¿Cuál es la precisión correcta?
+A) Es correcta: la ley exige la presencia de un adulto antes de entregarla.
+B) Es incorrecta: la ley dispone que el método se entrega y el aviso es posterior.
+C) Es incorrecta, porque la ley prohíbe entregar anticoncepción de emergencia.
+D) Es correcta, porque la confidencialidad no rige para personas menores de edad.
+Correcta: B. Por qué: El orden importa: condicionar la entrega a la llegada de un adulto podría hacer perder la oportunidad del método, que depende del tiempo transcurrido. La ley garantiza además la confidencialidad como regla general, y la edad no es motivo para romperla salvo en este caso puntual y con aviso posterior.
+
+Pregunta 3 (Comunicar): Se quiere resumir en una frase la garantía de confidencialidad de la Ley 20.418. ¿Cuál es la adecuada?
+A) Los datos sobre métodos elegidos se comparten con el establecimiento educacional.
+B) La confidencialidad se aplica solo a quienes han cumplido 18 años de edad.
+C) La confidencialidad depende de la autorización previa de un adulto responsable.
+D) Toda persona tiene derecho a la confidencialidad sobre los métodos que elige.
+Correcta: D. Por qué: El resumen correcto enuncia el derecho sin restricciones inventadas. Las otras opciones agregan condiciones de edad, de autorización o de comunicación a terceros que la norma no establece, y que además desincentivarían la consulta, que es justamente lo que la ley busca facilitar.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

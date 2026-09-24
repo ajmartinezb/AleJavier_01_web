@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 10: c. Otra forma de estudiar el ciclo: contar células
+Sección: 3. El ciclo celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Otra forma de estudiar el ciclo: contar células». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente 5 %, 1,2 horas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Otra forma de estudiar el ciclo: contar células», dentro de la sección «3. El ciclo celular» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 5 %, 1,2 horas.
+
+Ideas guía:
+- En un cultivo en el que las células se dividen sin sincronizar, la proporción de células en cada fase es aproximadamente igual a la fracción del ciclo que ocupa esa fase.
+- Si de 200 células observadas al microscopio, 10 están en mitosis, entonces la mitosis ocupa cerca del 10/200 = 5 % del ciclo.
+- Si el ciclo dura 24 horas, la mitosis dura unos 0,05 × 24 ≈ 1,2 horas.
+- Este razonamiento aparece en preguntas con datos: se entrega el número de células en cada fase y se pide estimar su duración.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una preparación de raíz de cebolla, cuyas células se dividen sin sincronía, un estudiante cuenta 500 células: 440 en interfase, 30 en profase, 10 en metafase, 8 en anafase y 12 en telofase. Si el ciclo dura 25 horas, ¿cuánto dura aproximadamente la mitosis completa?
+A) 1,5 horas
+B) 3 horas
+C) 6 horas
+D) 22 horas
+Correcta: B. Por qué: Células en mitosis: 30 + 10 + 8 + 12 = 60. Proporción: 60/500 = 0,12, es decir, 12 %. Duración: 0,12 × 25 h = 3 horas. Por eso la clave es B. Si se usara solo la profase se obtendría 1,5 h, y si se usara la interfase se obtendría 22 h.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un cultivo no sincronizado cuyo ciclo dura 16 horas se clasifican 800 células: 400 en G1, 240 en S, 120 en G2 y 40 en mitosis. ¿Qué afirmación se deduce de estos datos?
+A) La fase S dura el doble que la fase G1.
+B) G1 y G2 duran lo mismo, porque ambas son intervalos.
+C) La fase S dura 4,8 h y la fase G2, 2,4 h.
+D) La mitosis dura 4 horas, un cuarto del ciclo.
+Correcta: C. Por qué: G1: 400/800 = 0,5 → 8 h. S: 240/800 = 0,3 → 4,8 h. G2: 120/800 = 0,15 → 2,4 h. Mitosis: 40/800 = 0,05 → 0,8 h. La única afirmación que coincide es la C. S no dura el doble que G1 (es menor), G1 dura más que G2 y la mitosis dura 0,8 h, no 4 h.
+
+Pregunta 3 (Procesar y analizar la evidencia): Dos cultivos de la misma línea celular, sin sincronizar, se observan tras 3 días. En el cultivo control, 20 de 400 células están en mitosis; en el cultivo tratado con una sustancia, 80 de 400 lo están. La densidad de células en ambos cultivos es similar. ¿Qué interpretación es más coherente con los datos?
+A) La sustancia acelera la división, ya que hay más células en mitosis.
+B) La sustancia acorta la interfase, pues hay menos células en ella.
+C) La sustancia no tiene efecto, porque el número total de células es igual.
+D) La sustancia retrasa la mitosis, sin que crezca más la población.
+Correcta: D. Por qué: En el control 20/400 = 5 % está en mitosis; en el tratado, 80/400 = 20 %. La mitosis ocupa, por lo tanto, una fracción mayor del tiempo. Si la división se acelerara, la población habría crecido más, pero la densidad es similar. Lo coherente es que las células demoran más en completar la mitosis: se acumulan en ella sin dividirse más rápido. Por eso la clave es D.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,44 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 07: d. Bacterias: no todas son enemigas
+Sección: 3. Los microorganismos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Bacterias: no todas son enemigas». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente invadiendo, liberando toxinas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Bacterias: no todas son enemigas», dentro de la sección «3. Los microorganismos» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: invadiendo, liberando toxinas.
+
+Ideas guía:
+- Algunas causan enfermedades graves, pero muchas otras son indispensables: fijan nitrógeno en el suelo, fermentan alimentos, sintetizan vitamina K en el intestino y participan en el ciclo del carbono, como viste en el capítulo 10.
+- Las bacterias patógenas dañan de dos maneras: invadiendo tejidos y multiplicándose en ellos, o liberando toxinas.
+- El tétanos y el botulismo son ejemplos del segundo caso: el daño lo hace la toxina, no la bacteria en sí.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): El tétanos y el botulismo producen daño incluso cuando la bacteria permanece localizada en un solo punto del cuerpo. ¿Cómo se explica?
+A) La bacteria viaja por la sangre y coloniza con rapidez todo el organismo del paciente.
+B) La bacteria se transforma en un virus capaz de infectar otros tejidos.
+C) El daño lo produce una toxina liberada por la bacteria, no la bacteria misma.
+D) El daño se debe a la respuesta inflamatoria local que produce la herida inicial.
+Correcta: C. Por qué: La toxina se difunde y actúa a distancia, lo que explica que los síntomas sean generales aunque la bacteria no se haya diseminado. Una bacteria no se transforma en virus, y la inflamación local no da cuenta de síntomas neurológicos en todo el cuerpo.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se afirma que muchas bacterias son indispensables para los ecosistemas y para el ser humano. ¿Cuál de los siguientes ejemplos respalda esa afirmación?
+A) La producción de toxinas que dañan el sistema nervioso humano.
+B) La invasión de los tejidos pulmonares por el agente de la tuberculosis.
+C) La formación de biofilms resistentes en instrumentos hospitalarios.
+D) La fijación de nitrógeno en el suelo por bacterias asociadas a raíces.
+Correcta: D. Por qué: La fijación de nitrógeno hace disponible para las plantas un elemento que abunda en el aire pero que ellas no pueden aprovechar directamente. Las otras tres alternativas describen efectos perjudiciales y, por lo tanto, respaldan justamente lo contrario de lo que la afirmación sostiene.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo quiere investigar por qué algunas bacterias del intestino resultan beneficiosas y otras causan enfermedad. ¿Cuál es la pregunta que mejor orienta esa investigación?
+A) ¿Cuántas especies bacterianas distintas llegan a vivir en el intestino de una persona?
+B) ¿Qué características hacen que una bacteria invada tejidos o libere toxinas?
+C) ¿Qué forma tienen las bacterias intestinales vistas al microscopio?
+D) ¿En qué momento exacto del día se realizó la toma de la muestra intestinal analizada?
+Correcta: B. Por qué: La pregunta correcta apunta a las características que determinan esas conductas, que es lo que distingue a una bacteria patógena de una inofensiva. Contar especies, describir su forma o registrar la hora de la muestra son datos descriptivos que no explican la diferencia de comportamiento.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

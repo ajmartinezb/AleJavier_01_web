@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 30: a. No disyunción y aneuploidías
+Sección: 9. Errores en la meiosis y comparación con la mitosis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «No disyunción y aneuploidías». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente no disyunción, no se separan, en la meiosis I, en la meiosis II, 2n + 1, trisomía, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. No disyunción y aneuploidías», dentro de la sección «9. Errores en la meiosis y comparación con la mitosis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: no disyunción, no se separan, en la meiosis I, en la meiosis II, 2n + 1, trisomía.
+
+Ideas guía:
+- La no disyunción ocurre cuando los cromosomas no se separan correctamente: en la meiosis I, un par de homólogos va completo a una sola célula; en la meiosis II, las dos cromátidas hermanas van a la misma célula.
+- El resultado son gametos con un cromosoma de más (n + 1) o de menos (n − 1).
+- Si uno de ellos participa en la fecundación, el cigoto tendrá 2n + 1 (trisomía) o 2n − 1 (monosomía).
+- A estas alteraciones del número de cromosomas se las llama aneuploidías.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): La tabla muestra el riesgo aproximado de tener un hijo con trisomía 21 según la edad materna: 20 años, 1 en 1500; 35 años, 1 en 385; 40 años, 1 en 105; 45 años, 1 en 30. Según estos datos, ¿cuántas veces mayor es el riesgo a los 45 años que a los 20 años?
+A) 15 veces
+B) 50 veces
+C) 100 veces
+D) 250 veces
+Correcta: B. Por qué: Un riesgo de 1 en 1500 equivale a 1/1500 y uno de 1 en 30 equivale a 1/30. El cociente es (1/30) / (1/1500) = 1500 / 30 = 50. El riesgo a los 45 años es 50 veces mayor. Responder 15 es dividir 1500 por 105 aproximadamente (usar los 40 años); 100 y 250 no se obtienen de las cifras correctas, sino de errores de lectura o de restar edades.
+
+Pregunta 2 (Evaluar): Un estudiante analiza el cariotipo de un niño con trisomía 21 y descubre que sus tres cromosomas 21 incluyen dos idénticos que provienen de las dos cromátidas hermanas de un mismo cromosoma de la madre. Concluye: «El error ocurrió en la meiosis I de la madre». ¿Cuál es la mejor evaluación de esta conclusión?
+A) Es correcta, porque en la meiosis I se separan las cromátidas hermanas de cada cromosoma.
+B) Es correcta, porque toda no disyunción que origina trisomía ocurre en la meiosis I.
+C) Es incorrecta, porque dos copias idénticas indican que las cromátidas no se separaron en la meiosis II.
+D) Es incorrecta, porque la trisomía 21 solo puede originarse por un error del padre.
+Correcta: C. Por qué: Si el error hubiera sido en la meiosis I, el ovocito habría recibido los dos homólogos distintos (el que la madre heredó de su padre y el de su madre). Aquí, en cambio, las dos copias extra son idénticas porque provienen de cromátidas hermanas: eso ocurre cuando las cromátidas no se separan en la anafase II. La conclusión es incorrecta; la evidencia apunta a la meiosis II. Sin considerar el entrecruzamiento, que puede complicar el análisis, esta…
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere estudiar si la edad materna se asocia con la frecuencia de trisomía 21. Tiene acceso a los registros de un hospital con la edad de la madre y el cariotipo de cada recién nacido. ¿Qué procedimiento es el más adecuado?
+A) Agrupar nacimientos por edad materna y calcular la proporción de trisomía 21.
+B) Contar el número total de casos de trisomía 21 del hospital y compararlo con otro hospital.
+C) Registrar la edad promedio de todas las madres del hospital durante un año de nacimientos.
+D) Seleccionar solo madres mayores de 40 años y contar cuántos hijos nacieron con trisomía 21.
+Correcta: A. Por qué: La variable independiente es la edad materna y la dependiente es la frecuencia de trisomía 21. Para relacionarlas hay que formar grupos de edad y calcular en cada uno la proporción de recién nacidos con trisomía, porque cada grupo tiene un número distinto de nacimientos. Estudiar solo madres de más de 40 años no deja con qué comparar; el promedio de edad no mide la trisomía; y comparar hospitales cambia de variable.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

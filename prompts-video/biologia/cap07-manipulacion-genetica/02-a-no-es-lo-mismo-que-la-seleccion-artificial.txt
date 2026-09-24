@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 02: a. No es lo mismo que la selección artificial
+Sección: 2. Qué es la manipulación genética
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «No es lo mismo que la selección artificial». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente cómo, Qué se modifica, Origen de las variantes, cualquier, Tiempo, Precisión, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. No es lo mismo que la selección artificial», dentro de la sección «2. Qué es la manipulación genética» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: cómo, Qué se modifica, Origen de las variantes, cualquier, Tiempo, Precisión.
+
+Ideas guía:
+- El ser humano lleva unos 10 000 años modificando el genoma de otras especies.
+- El maíz actual proviene del teosinte, un pasto silvestre mexicano de mazorcas diminutas y granos duros.
+- No se parecen en nada, y sin embargo nadie llama transgénico al maíz común: el cambio se logró por selección artificial, generación tras generación.
+- Esto importa para responder bien en la PAES: modificar el genoma de otra especie no es una novedad; lo nuevo es la precisión y la posibilidad de cruzar la barrera entre especies.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): El teosinte es un pasto silvestre mexicano de mazorcas diminutas y granos muy duros. El maíz actual, con mazorcas grandes y granos blandos, desciende de él. ¿Qué proceso explica esta transformación?
+A) La inserción de genes de otras especies en el genoma del teosinte original.
+B) La selección artificial de los individuos con las características deseadas.
+C) La aparición de una única mutación que cambió todos los rasgos a la vez.
+D) La edición dirigida de los genes responsables del tamaño de la mazorca.
+Correcta: B. Por qué: La transformación del teosinte en maíz ocurrió a lo largo de miles de años, mucho antes de que existiera cualquier técnica de laboratorio. Los agricultores sembraron repetidamente las semillas de las plantas de mazorcas mayores y granos más blandos, y esa elección desplazó las frecuencias de los genes implicados.
+
+Pregunta 2 (Planificar y conducir una investigación): Un programa de mejoramiento quiere incorporar a un tomate comercial un gen de resistencia a un hongo que solo existe en una especie de bacteria. ¿Qué procedimiento permite lograrlo?
+A) Cruzar el tomate comercial con variedades silvestres de tomate durante varias generaciones.
+B) Sembrar el tomate en suelos con el hongo y elegir los sobrevivientes.
+C) Insertar el gen bacteriano en el tomate mediante técnicas de ADN recombinante.
+D) Exponer las semillas a un mutagénico y elegir las resistentes.
+Correcta: C. Por qué: El gen buscado está en una bacteria, que no se puede cruzar con un tomate. Por eso los tres primeros procedimientos no pueden aportarlo: cruzar solo combina variantes ya presentes en tomates, seleccionar en el campo solo favorece las que existan, y mutagenizar produce cambios al azar en el genoma del tomate, no la secuencia bacteriana. Solo la transferencia dirigida lo logra.
+
+Pregunta 3 (Evaluar): Un consumidor prefiere una variedad de manzana obtenida por mejoramiento tradicional antes que una transgénica, y sostiene que la primera «no tiene el genoma alterado». ¿Cómo debe juzgarse esa afirmación?
+A) Correcta: el mejoramiento tradicional no modifica el ADN.
+B) Correcta, porque solo las técnicas de laboratorio pueden cambiar una secuencia de ADN.
+C) Incorrecta, porque el mejoramiento tradicional introduce genes de especies distintas.
+D) Incorrecta: el mejoramiento tradicional altera el genoma de forma más extensa.
+Correcta: D. Por qué: En cada cruzamiento se recombinan genomas completos y se arrastran miles de diferencias. Por eso una variedad mejorada tiene el genoma muy alterado respecto de su antecesora, en muchos más puntos que una transgénica, a la que se le agregó una secuencia conocida. La afirmación invierte la comparación.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

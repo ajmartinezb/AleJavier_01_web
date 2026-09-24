@@ -1,0 +1,44 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 17: e. Otras variables
+Sección: 6. Variables ambientales que afectan la fotosíntesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Otras variables». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente Agua, Nutrientes minerales, Cantidad de enzima, RuBisCO, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Otras variables», dentro de la sección «6. Variables ambientales que afectan la fotosíntesis» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Agua, Nutrientes minerales, Cantidad de enzima, RuBisCO.
+
+Ideas guía:
+- Es reactante de la fotosíntesis, pero su efecto principal es indirecto: la falta de agua cierra los estomas y corta el CO2.
+- El nitrógeno y el magnesio forman parte de la clorofila y de las enzimas; su carencia reduce la capacidad fotosintética.
+- Con luz y CO2 abundantes, el límite puede estar en cuánta RuBisCO tiene la planta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una planta bien regada y bien iluminada presenta hojas amarillentas y una tasa de fotosíntesis baja. El análisis del suelo muestra una carencia de nitrógeno y magnesio. ¿Cómo se explica la situación?
+A) Ambos elementos son la fuente de carbono que la planta necesita fijar.
+B) Ambos forman parte de la clorofila y de las enzimas.
+C) Ambos elementos reemplazan al agua como reactante de la fotosíntesis.
+D) Ambos elementos actúan como fuente de energía para el ciclo de Calvin.
+Correcta: B. Por qué: El amarillamiento indica poca clorofila, y el magnesio es el átomo central de esa molécula, mientras el nitrógeno forma parte tanto de la clorofila como de las proteínas, entre ellas la RuBisCO. Con menos pigmento y menos enzima, la tasa cae aunque la luz y el agua sean adecuadas.
+
+Pregunta 2 (Procesar y analizar la evidencia): Durante una sequía prolongada, una planta bien iluminada reduce su tasa de fotosíntesis antes de mostrar signos de marchitez. ¿Cuál es el mecanismo más probable?
+A) El agua deja de ser necesaria como reactante de la fase luminosa.
+B) Los cloroplastos se desplazan hacia las raíces para buscar agua.
+C) La planta cierra sus estomas y con ello disminuye la entrada de CO₂.
+D) La clorofila se transforma en un pigmento incapaz de absorber luz.
+Correcta: C. Por qué: Antes de que la planta se marchite, ya está regulando su pérdida de agua cerrando los estomas. Esa respuesta protectora tiene un costo: los mismos poros por donde sale el vapor son los que dejan entrar el CO₂. Así, el carbono pasa a ser el factor limitante aunque haya luz de sobra.
+
+Pregunta 3 (Comunicar): Se quiere advertir en un afiche sobre un error frecuente: creer que regar más aumenta siempre la fotosíntesis. ¿Cuál es la formulación más precisa?
+A) El agua no participa en la fotosíntesis, así que regar no tiene ningún efecto.
+B) Regar más siempre aumenta la tasa, porque el agua es el reactante principal.
+C) El agua solo sirve para transportar minerales y no influye en la fotosíntesis.
+D) El riego importa porque mantiene los estomas abiertos y permite que entre el CO₂.
+Correcta: D. Por qué: El mensaje correcto explica por qué el riego importa y, al mismo tiempo, deja claro que su efecto pasa por el CO₂ y no por una relación directa sin límite. Negar toda participación del agua sería tan falso como afirmar que más riego siempre mejora la tasa, porque el exceso de agua puede asfixiar las raíces.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,42 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 13: a. Cómo leer el esquema
+Sección: 5. El ciclo ovárico y el ciclo uterino
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Cómo leer el esquema». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente cómo leer el esquema, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Cómo leer el esquema», dentro de la sección «5. El ciclo ovárico y el ciclo uterino» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- Todo se cuenta desde el día 1, que es el primer día de la menstruación.
+- En un ciclo de 28 días, la ovulación ocurre alrededor del día 14.
+- Las cuatro bandas de la figura están alineadas en el tiempo, así que cada momento puede leerse en los cuatro niveles a la vez.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Se quiere construir el esquema del ciclo de una persona a partir de sus registros. ¿Qué dato debe registrarse primero para poder alinear todas las bandas?
+A) La fecha del primer día de menstruación de cada ciclo.
+B) El peso corporal medido al comienzo de cada mes del año.
+C) La cantidad de horas dormidas durante la fase lútea.
+D) La temperatura ambiente del lugar donde vive la persona.
+Correcta: A. Por qué: Sin un punto de inicio común, los registros hormonales, de temperatura y de moco no pueden superponerse ni compararse entre ciclos. La menstruación se usa como referencia porque es el suceso visible e inequívoco. Las otras opciones registran variables que no sirven para alinear las series.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un esquema de un ciclo de 28 días, ¿qué ocurre simultáneamente alrededor del día 14?
+A) La menstruación, la caída de progesterona y el inicio de la fase folicular.
+B) El máximo de progesterona, la implantación y la fase secretora avanzada.
+C) El pico de LH, la ovulación y el fin de la fase proliferativa.
+D) El inicio de la FSH, el crecimiento folicular y la descamación endometrial.
+Correcta: C. Por qué: Alrededor del día 14 coinciden tres cosas: el pico de LH en la banda hipofisaria, la ovulación en la banda ovárica y el término de la fase proliferativa en la uterina, que dará paso a la secretora. Las demás combinaciones mezclan sucesos del comienzo y del final del ciclo.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante compara los esquemas de dos personas: una con ciclos de 26 días y otra con ciclos de 34, y advierte que en ambas la fase lútea ocupa el mismo número de días. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuántos ciclos completos tiene una persona a lo largo de su vida?
+B) ¿Qué determina que la fase lútea tenga una duración tan constante?
+C) ¿Qué colores conviene usar para distinguir las fases en el esquema?
+D) ¿Quién propuso por primera vez dibujar el ciclo en forma de bandas?
+Correcta: B. Por qué: Lo llamativo es que dos ciclos de duración muy distinta compartan una fase de igual extensión, lo que sugiere que algo fija esa duración. La respuesta está en la vida útil del cuerpo lúteo. Las demás opciones piden datos de recuento, diseño gráfico o historia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

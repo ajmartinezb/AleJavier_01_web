@@ -1,0 +1,44 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 21: c. El reciclaje del carbono y del oxígeno
+Sección: 7. Respiración celular: el otro lado del balance
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «El reciclaje del carbono y del oxígeno». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente carbono, oxígeno, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. El reciclaje del carbono y del oxígeno», dentro de la sección «7. Respiración celular: el otro lado del balance» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: carbono, oxígeno.
+
+Ideas guía:
+- Puestos uno junto al otro, los dos procesos forman un circuito: El carbono pasa de CO2 a materia orgánica en la fotosíntesis y vuelve a CO2 en la respiración y en la descomposición.
+- El oxígeno se libera como O2 en la fotosíntesis y se consume en la respiración, donde termina formando agua.
+- Ese circuito explica por qué la atmósfera actual contiene un 21 % de oxígeno: es un producto acumulado por la fotosíntesis a lo largo de miles de millones de años, desde las primeras cianobacterias.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se estudia el recorrido de un átomo de oxígeno que formaba parte de una molécula de agua absorbida por la raíz de una planta. ¿Cuál es un destino posible de ese átomo?
+A) Formar parte del carbono estructural de la glucosa sintetizada.
+B) Convertirse en un átomo de carbono dentro del ciclo de Calvin.
+C) Integrar el O₂ liberado por la hoja tras la fotólisis del agua.
+D) Transformarse en energía luminosa dentro del tilacoide.
+Correcta: C. Por qué: El agua se rompe en la fase luminosa y sus átomos de oxígeno forman el O₂ que sale por los estomas. Ese es el destino característico. Un átomo de oxígeno no puede convertirse en carbono ni en energía, porque los elementos no se transmutan en las reacciones bioquímicas.
+
+Pregunta 2 (Evaluar): Se afirma que «el oxígeno de la atmósfera siempre estuvo allí desde la formación de la Tierra». ¿Cuál es la evaluación correcta?
+A) Es correcta, porque el O₂ es un componente original de los planetas rocosos.
+B) Es incorrecta: el O₂ se acumuló por la fotosíntesis durante miles de millones de años.
+C) Es incorrecta, porque la atmósfera actual no contiene ya oxígeno molecular.
+D) Es correcta, porque la fotosíntesis consume tanto O₂ como el que produce.
+Correcta: B. Por qué: La atmósfera primitiva prácticamente carecía de O₂ libre. Fue la fotosíntesis, primero de cianobacterias y luego de algas y plantas, la que lo fue acumulando durante miles de millones de años. Ese cambio permitió después la aparición del metabolismo aerobio, mucho más eficiente que el anaerobio.
+
+Pregunta 3 (Procesar y analizar la evidencia): En un frasco cerrado se colocan una planta acuática y un pequeño caracol, y el conjunto se mantiene iluminado durante semanas sin que ninguno muera. ¿Qué explica ese resultado?
+A) El caracol fabrica el O₂ que la planta consume durante la noche.
+B) La planta y el caracol dejan de respirar al estar dentro del frasco.
+C) El frasco cerrado impide que ocurran reacciones metabólicas en su interior.
+D) La planta produce el O₂ que el caracol usa, y este libera el CO₂ que ella fija.
+Correcta: D. Por qué: El sistema se sostiene porque los productos de cada organismo son los reactantes del otro, y porque la luz aporta la energía que lo mantiene en marcha. El caracol no produce oxígeno y ambos siguen respirando; lo que el frasco cerrado impide es el intercambio de materia con el exterior, no el metabolismo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

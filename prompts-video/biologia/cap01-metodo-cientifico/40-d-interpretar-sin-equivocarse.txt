@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 40: d. Interpretar sin equivocarse
+Sección: 8. Tablas y gráficos: procesar, analizar y comunicar evidencia
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Interpretar sin equivocarse». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente Describe la tendencia completa, Interpolar vs. extrapolar, Interpolar, dentro, Extrapolar, fuera, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Interpretar sin equivocarse», dentro de la sección «8. Tablas y gráficos: procesar, analizar y comunicar evidencia» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Describe la tendencia completa, Interpolar vs. extrapolar, Interpolar, dentro, Extrapolar, fuera.
+
+Ideas guía:
+- Lee los ejes y las unidades antes que la curva.
+- Muchos errores vienen de confundir qué variable está en cada eje.
+- Describe la tendencia completa, incluyendo cambios de pendiente, máximos y mesetas.
+- Interpolar es estimar un valor dentro del rango medido.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un estudio en 20 localidades rurales europeas encontró que, donde hay más nidos de cigüeña, también nacen más niños. Un periodista concluye que las cigüeñas favorecen los nacimientos. Se sabe que las localidades más grandes tienen, a la vez, más techos para anidar y más habitantes. ¿Cuál es la mejor evaluación de la conclusión del periodista?
+A) No es válida: hay correlación y el tamaño explicaría ambas.
+B) Es válida, porque ambas variables aumentan juntas.
+C) Es válida, porque se estudiaron veinte localidades.
+D) No es válida: son los nacimientos los que atraen cigüeñas.
+Correcta: A. Por qué: Los datos solo muestran que nidos y nacimientos aumentan juntos. El enunciado agrega un dato clave: las localidades grandes tienen más techos (más nidos) y más habitantes (más nacimientos). El tamaño de la localidad es una tercera variable que explica las dos cosas. Por eso la conclusión causal del periodista no se sostiene.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una mujer registró su temperatura basal durante un ciclo menstrual de 28 días. Día del ciclo / temperatura (°C): 4 → 36,4; 10 → 36,4; 13 → 36,3; 16 → 36,8; 22 → 36,8; 26 → 36,7. ¿Qué afirmación se ajusta a estos datos?
+A) La temperatura basal baja 0,4 °C en la segunda mitad del ciclo.
+B) La temperatura basal sube cerca de 0,5 °C entre los días 13 y 16.
+C) El alza de la temperatura basal es la causa de la ovulación.
+D) El día 35 la temperatura basal seguirá siendo de 36,8 °C.
+Correcta: B. Por qué: Hasta el día 13 la temperatura se mantiene cerca de 36,3-36,4 °C. El día 16 ya está en 36,8 °C: 36,8 − 36,3 = 0,5 °C de alza entre los días 13 y 16, y se mantiene alta hasta el día 26. La afirmación B describe justamente ese cambio. Los datos no muestran causas ni valores fuera de los 28 días.
+
+Pregunta 3 (Procesar y analizar la evidencia): Para probar un extracto vegetal antibacteriano se prepararon dos cultivos con 60 × 10³ bacterias/mL. A uno se le agregó el extracto y el otro quedó como control. A las 8 h: control, 480 × 10³ bacterias/mL; con extracto, 300 × 10³ bacterias/mL. ¿Cuál es el efecto del extracto sobre la población a las 8 h?
+A) 420 × 10³ bacterias/mL menos
+B) 240 × 10³ bacterias/mL menos
+C) 180 × 10³ bacterias/mL menos
+D) 60 × 10³ bacterias/mL menos
+Correcta: C. Por qué: Ambos cultivos partieron igual (60 × 10³/mL) y se midieron al mismo tiempo, así que lo único distinto fue el extracto. Efecto: 480 × 10³ − 300 × 10³ = 180 × 10³ bacterias/mL. Con extracto hubo 180 × 10³ bacterias/mL menos que sin él. Observa que el extracto no mató a las bacterias: la población creció igual, pero menos que en el control.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

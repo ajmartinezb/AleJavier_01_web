@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 17: a. Veinte letras, un número enorme de palabras
+Sección: 6. Proteínas y enzimas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Veinte letras, un número enorme de palabras». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente aminoácidos, enlaces peptídicos, grupo lateral, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Veinte letras, un número enorme de palabras», dentro de la sección «6. Proteínas y enzimas» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: aminoácidos, enlaces peptídicos, grupo lateral.
+
+Ideas guía:
+- Las proteínas son polímeros de aminoácidos, unidos por enlaces peptídicos.
+- Existen veinte aminoácidos distintos, y con ellos se construyen todas las proteínas de todos los seres vivos.
+- Una cadena de cien aminoácidos admite una cantidad de combinaciones astronómica: de ahí la diversidad funcional del grupo.
+- Cada aminoácido tiene la misma parte central y un grupo lateral propio, que puede ser polar, apolar o con carga.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Todos los aminoácidos comparten la misma parte central y difieren en un grupo lateral. ¿Qué papel cumple ese grupo lateral?
+A) Determina el orden en que los aminoácidos se unen durante la síntesis.
+B) Determina el número total de aminoácidos que tendrá la proteína.
+C) Determina en qué organelo se almacenará la proteína terminada.
+D) Determina cómo se pliega la cadena al interactuar con los demás grupos laterales.
+Correcta: D. Por qué: Los grupos apolares tienden a esconderse del agua y los polares o cargados a quedar expuestos o a atraerse entre sí, y de esas interacciones sale la forma tridimensional. El orden de unión lo fija el gen, la longitud también, y el destino final de la proteína depende de señales específicas, no del grupo lateral de cada aminoácido.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere determinar la estructura primaria de una proteína desconocida. ¿Qué información hay que obtener?
+A) La forma tridimensional que adopta la cadena plegada.
+B) La secuencia en que se ordenan sus aminoácidos.
+C) El número de subunidades que se unen entre sí.
+D) La temperatura a la que la proteína se desnaturaliza.
+Correcta: B. Por qué: Determinarla significa establecer ese orden, hoy mediante secuenciación. La forma tridimensional corresponde a la estructura terciaria, el número de subunidades a la cuaternaria y la temperatura de desnaturalización es una propiedad experimental que no describe ningún nivel de estructura.
+
+Pregunta 3 (Observar y plantear preguntas): Se observa que dos organismos muy distantes en el árbol evolutivo utilizan los mismos veinte aminoácidos para construir sus proteínas. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?
+A) ¿Qué explica que el repertorio de aminoácidos sea el mismo en linajes tan distantes?
+B) ¿Cuántas proteínas distintas produce cada uno de los dos organismos?
+C) ¿Cuál de los dos organismos tiene el genoma de mayor tamaño?
+D) ¿En qué ambiente vive actualmente cada uno de los dos organismos?
+Correcta: A. Por qué: Una coincidencia tan completa entre linajes distantes pide una explicación, y la respuesta apunta a un ancestro común, como ocurre con las estructuras celulares universales. Contar proteínas, comparar tamaños de genoma o describir hábitats son preguntas legítimas que no abordan el patrón observado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

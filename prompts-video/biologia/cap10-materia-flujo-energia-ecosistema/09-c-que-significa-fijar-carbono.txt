@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 09: c. Qué significa «fijar» carbono
+Sección: 4. La fotosíntesis: lugar, reactantes y productos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Qué significa «fijar» carbono». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente fijación de carbono, puerta de entrada, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Qué significa «fijar» carbono», dentro de la sección «4. La fotosíntesis: lugar, reactantes y productos» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: fijación de carbono, puerta de entrada.
+
+Ideas guía:
+- Se llama fijación de carbono a incorporar el carbono que estaba en una molécula inorgánica —el CO2 del aire— a una molécula orgánica.
+- Es el paso que introduce materia al mundo vivo: todo el carbono de tu cuerpo, del de un ballenato y del de un hongo pasó alguna vez por una reacción de fijación dentro de un autótrofo.
+- Por eso la fotosíntesis no es solo «cómo se alimentan las plantas».
+- Es la puerta de entrada de la materia y de la energía a casi todos los ecosistemas del planeta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se define la fijación de carbono como la incorporación de carbono inorgánico a una molécula orgánica. ¿Cuál de los siguientes procesos corresponde a una fijación de carbono?
+A) Una planta une el CO₂ del aire a una molécula del estroma.
+B) Un herbívoro incorpora a sus tejidos el carbono de la celulosa que comió.
+C) Un descomponedor libera CO₂ al degradar hojas caídas en el suelo.
+D) Una mitocondria oxida glucosa y produce CO₂ y agua.
+Correcta: A. Por qué: Solo la acción de la RuBisCO parte de carbono inorgánico y termina en una molécula orgánica. El herbívoro traslada carbono que ya era orgánico; el descomponedor y la mitocondria hacen lo contrario, porque devuelven carbono orgánico al ambiente en forma de CO₂.
+
+Pregunta 2 (Evaluar): Se afirma que «la fotosíntesis es solo la manera en que se alimentan las plantas, de modo que su importancia se limita al reino vegetal». ¿Cuál es la objeción mejor fundamentada?
+A) Es correcta, porque los animales obtienen su carbono de fuentes minerales del suelo.
+B) Es incorrecta, porque la fotosíntesis es realizada mayoritariamente por animales marinos.
+C) Es incorrecta, porque las plantas no obtienen su alimento de la fotosíntesis.
+D) Es incorrecta: la fijación de carbono abastece a casi todos los ecosistemas hoy.
+Correcta: D. Por qué: La afirmación reduce la fotosíntesis a una función doméstica de las plantas. Lo que omite es que los heterótrofos dependen íntegramente de esa materia orgánica: sin fijación no habría alimento para ningún nivel trófico. Además, buena parte de la fijación global la realizan algas y cianobacterias, no plantas.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere estimar cuánto carbono fija por día un cultivo de microalgas en un fotobiorreactor. ¿Cuál es el procedimiento más adecuado?
+A) Contar el número de células presentes en una gota del cultivo al iniciar el día.
+B) Medir el volumen total de agua contenido en el fotobiorreactor cada mañana.
+C) Medir la disminución de CO₂ en el aire que circula por el reactor en el día.
+D) Registrar la intensidad de luz que emiten las lámparas del reactor durante el día.
+Correcta: C. Por qué: Si se conoce el CO₂ que entra y el que sale del reactor, la diferencia corresponde al carbono que las microalgas incorporaron. Contar células en un instante no entrega una tasa, el volumen de agua no cambia con la fijación y la intensidad de luz es una variable de entrada, no una medida de lo fijado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

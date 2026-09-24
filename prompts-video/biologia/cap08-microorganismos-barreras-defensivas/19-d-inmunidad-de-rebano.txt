@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 19: d. Inmunidad de rebaño
+Sección: 6. Vacunas e inmunidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Inmunidad de rebaño». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente indirectamente, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Inmunidad de rebaño», dentro de la sección «6. Vacunas e inmunidad» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: indirectamente.
+
+Ideas guía:
+- Cuando una proporción alta de la población es inmune, el agente encuentra pocos hospederos disponibles y la cadena de transmisión se interrumpe.
+- Los no inmunes —recién nacidos, personas con inmunidad comprometida, quienes no pueden vacunarse por razones médicas— quedan protegidos indirectamente.
+- El umbral depende de lo contagiosa que sea la enfermedad: para el sarampión, muy transmisible, se requieren coberturas por encima del 95 %; para otras, menos.
+- Por eso una caída pequeña de la cobertura puede reactivar una enfermedad que parecía controlada.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Se quiere estimar si una comuna alcanzó la cobertura necesaria para interrumpir la transmisión de una enfermedad muy contagiosa. ¿Qué dato resulta indispensable?
+A) La proporción de la población que es inmune y el umbral que exige esa enfermedad.
+B) El número total de dosis de vacuna que la comuna recibió este año.
+C) La cantidad de centros de salud disponibles en el territorio comunal.
+D) El promedio de edad de las personas que acudieron a vacunarse.
+Correcta: A. Por qué: Se necesitan, por lo tanto, dos datos: qué proporción de la población es inmune y cuál es el umbral que corresponde a esa enfermedad. El número de dosis recibidas, los centros de salud y la edad promedio describen recursos o características de la población sin permitir la comparación con el umbral.
+
+Pregunta 2 (Evaluar): Se sostiene que vacunarse es una decisión puramente individual, sin efectos sobre terceros. ¿Cuál es la mejor evaluación de esa afirmación?
+A) Es correcta, porque la vacuna solo protege a la persona que la recibe.
+B) Es correcta, porque la transmisión depende únicamente de la higiene personal.
+C) Es incorrecta, porque la vacunación transfiere inmunidad a los convivientes.
+D) No lo es: quien se vacuna deja de ser un eslabón en la cadena de transmisión.
+Correcta: D. Por qué: Ese efecto indirecto protege a recién nacidos y a personas con inmunidad comprometida que no pueden vacunarse. La última alternativa corrige por un camino equivocado, porque no hay transferencia de inmunidad entre personas: el efecto es epidemiológico y no biológico individual.
+
+Pregunta 3 (Evaluar): En una comuna la cobertura de vacunación contra el sarampión baja del 96 % al 88 % y reaparecen casos tras años sin ellos. ¿Cómo se interpreta ese hecho?
+A) El virus del sarampión mutó y la vacuna dejó de ser eficaz.
+B) Las personas vacunadas perdieron toda su inmunidad de manera simultánea.
+C) La cobertura cayó por debajo del umbral y la transmisión volvió a sostenerse.
+D) La caída de ocho puntos no puede tener ningún efecto epidemiológico.
+Correcta: C. Por qué: Al bajar al 88 % hay suficientes susceptibles para sostener la transmisión. Suponer una mutación del virus o una pérdida simultánea de inmunidad introduce hechos que el enunciado no respalda, y negar todo efecto a una caída de ocho puntos ignora lo estrecho que es el margen en esta enfermedad.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

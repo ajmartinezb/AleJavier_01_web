@@ -1,0 +1,44 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 02: b. Dos tipos de hormona y dos tipos de receptor
+Sección: 2. El sistema endocrino: hormonas y regulación
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Dos tipos de hormona y dos tipos de receptor». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Esteroidales, Sí, Dentro, Peptídicas y proteicas, No, En la membrana, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Dos tipos de hormona y dos tipos de receptor», dentro de la sección «2. El sistema endocrino: hormonas y regulación» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Esteroidales, Sí, Dentro, Peptídicas y proteicas, No, En la membrana.
+
+Ideas guía:
+- Dónde está el receptor depende de si la hormona puede atravesar la membrana: Por qué esto importa.
+- Las hormonas sexuales son esteroidales, y por eso pueden administrarse por vía oral y actúan modificando la expresión génica de sus células blanco.
+- La FSH y la LH son peptídicas: se degradarían en el estómago, así que se administran inyectadas en los tratamientos de fertilidad.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una hormona es liposoluble, atraviesa la membrana plasmática y su receptor está dentro de la célula. ¿A qué tipo pertenece y qué efecto se espera?
+A) Peptídica, con un efecto rápido y transitorio sobre la célula.
+B) Peptídica, con un efecto lento mediado por segundos mensajeros.
+C) Esteroidal, con un efecto inmediato sobre los canales de la membrana.
+D) Esteroidal, con un efecto lento y duradero sobre la expresión génica.
+Correcta: D. Por qué: La liposolubilidad y el receptor intracelular identifican de inmediato a una hormona esteroidal, como los estrógenos o la testosterona. Su efecto exige transcribir genes y sintetizar proteínas, lo que toma tiempo y persiste. Las peptídicas, en cambio, no cruzan la membrana y actúan en minutos.
+
+Pregunta 2 (Evaluar): Se propone administrar FSH por vía oral en un tratamiento de fertilidad. ¿Cuál es la evaluación correcta de esa propuesta?
+A) Es inadecuada: la FSH es peptídica y se degradaría en el tubo digestivo.
+B) Es adecuada, porque toda hormona puede administrarse por vía oral.
+C) Es inadecuada, porque la FSH no tiene ningún efecto sobre el ovario.
+D) Es adecuada, porque la FSH es liposoluble y atraviesa las membranas.
+Correcta: A. Por qué: Una proteína ingerida es digerida como cualquier otra proteína de la dieta, así que no llegaría intacta a la sangre. Por eso los tratamientos con gonadotropinas son inyectables, mientras que la píldora anticonceptiva, hecha de hormonas esteroidales, sí funciona por vía oral.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante advierte que el efecto de una inyección de adrenalina se nota en segundos, mientras que el de un tratamiento con hormonas sexuales tarda semanas. ¿Qué pregunta investigable plantea esa diferencia?
+A) ¿Cuántos miligramos de cada hormona contiene la preparación farmacéutica?
+B) ¿Qué relación hay entre el receptor y la rapidez del efecto?
+C) ¿Cuál de las dos hormonas fue descubierta primero por la ciencia?
+D) ¿Qué color tiene la solución en que viene cada uno de los preparados?
+Correcta: B. Por qué: La observación contrasta dos velocidades muy distintas, así que la pregunta pertinente indaga qué las explica. La respuesta está en el tipo de receptor y en lo que cada uno desencadena. Las otras opciones piden datos de dosis, historia o apariencia que no abordan la diferencia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

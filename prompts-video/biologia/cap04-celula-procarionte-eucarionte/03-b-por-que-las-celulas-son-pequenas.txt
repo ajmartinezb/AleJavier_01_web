@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 03: b. ¿Por qué las células son pequeñas?
+Sección: 2. La teoría celular y cómo se estudian las células
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «¿Por qué las células son pequeñas?». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente superficie, volumen, pliegues y prolongaciones, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. ¿Por qué las células son pequeñas?», dentro de la sección «2. La teoría celular y cómo se estudian las células» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: superficie, volumen, pliegues y prolongaciones.
+
+Ideas guía:
+- La mayoría de las células mide entre 1 y 100 micrómetros (µm; 1 µm = 0,001 mm).
+- Una célula intercambia sustancias con su entorno a través de su superficie, pero sus necesidades dependen de su volumen.
+- Al crecer, el volumen aumenta más rápido que la superficie: Al duplicar el tamaño, la relación superficie/volumen se reduce a la mitad: cada unidad de volumen tiene menos membrana para abastecerse.
+- Por eso las células son pequeñas, y las que necesitan intercambiar mucho aumentan su superficie con pliegues y prolongaciones, como las microvellosidades del enterocito (sección 10).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se modelan tres células cúbicas de arista 1 µm, 3 µm y 6 µm. Considerando que la superficie es 6 × arista² y el volumen es arista³, ¿cuál es la relación superficie/volumen de la célula de 3 µm?
+A) 2
+B) 3
+C) 6
+D) 18
+Correcta: A. Por qué: Paso 1: superficie = 6 × 3² = 6 × 9 = 54 µm². Paso 2: volumen = 3³ = 27 µm³. Paso 3: 54 / 27 = 2. Como control: en un cubo, la relación siempre es 6 / arista, y 6 / 3 = 2.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una estudiante corta cubos de agar con indicador de pH de 1 cm, 2 cm y 4 cm de arista y los sumerge 10 minutos en ácido. El ácido avanza 0,5 cm desde cada cara en todos los cubos. ¿Qué resultado es esperable?
+A) El cubo de 4 cm queda teñido por completo, por su mayor superficie.
+B) Los tres cubos quedan teñidos en la misma fracción de su volumen.
+C) El cubo de 2 cm queda teñido por completo, igual que el de 1 cm.
+D) Solo el cubo de 1 cm queda teñido por completo en su interior.
+Correcta: D. Por qué: El ácido penetra 0,5 cm por cada cara. En el cubo de 1 cm, 0,5 cm desde cada lado alcanza el centro: queda teñido entero. En el de 2 cm, el centro está a 1 cm de las caras, así que queda un núcleo sin teñir de 1 cm de arista. En el de 4 cm, el núcleo sin teñir mide 3 cm de arista. Solo el más pequeño se tiñe por completo.
+
+Pregunta 3 (Planificar y conducir una investigación): Un grupo quiere poner a prueba la hipótesis «a mayor relación superficie/volumen, más rápido se absorbe una sustancia por difusión» usando cubos de papa sumergidos en una solución coloreada. ¿Qué diseño es el adecuado?
+A) Usar cubos de igual tamaño en soluciones de distinta concentración.
+B) Usar cubos de distinto tamaño, igual solución y el mismo tiempo.
+C) Usar un solo cubo y medir su color en distintos tiempos.
+D) Usar cubos de distinto tamaño en soluciones distintas.
+Correcta: B. Por qué: La variable independiente es la relación superficie/volumen, que se modifica cambiando el tamaño de los cubos. La dependiente es la rapidez de absorción, medida como fracción teñida. Todo lo demás, concentración de la solución, tiempo y tipo de papa, debe quedar constante. Solo el diseño con tamaños distintos, misma solución y mismo tiempo cumple esto.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

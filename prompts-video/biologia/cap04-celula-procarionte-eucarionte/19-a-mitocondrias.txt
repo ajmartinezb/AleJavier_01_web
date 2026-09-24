@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 19: a. Mitocondrias
+Sección: 6. Organelos que transforman energía: mitocondrias, cloroplastos y peroxisomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Mitocondrias». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente respiración celular aeróbica, ATP, Membrana externa, Espacio intermembrana, Membrana interna, crestas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Mitocondrias», dentro de la sección «6. Organelos que transforman energía: mitocondrias, cloroplastos y peroxisomas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: respiración celular aeróbica, ATP, Membrana externa, Espacio intermembrana, Membrana interna, crestas.
+
+Ideas guía:
+- Las mitocondrias están en casi todas las células eucariontes, tanto animales como vegetales.
+- En ellas ocurre la respiración celular aeróbica, que extrae la energía química de los nutrientes, como la glucosa y los ácidos grasos, y la guarda en moléculas de ATP, la «moneda energética» de la célula (capítulo 10).
+- Relación estructura-función: mientras más energía gasta una célula, más mitocondrias tiene y más crestas presentan estas.
+- Las fibras musculares, las neuronas, los espermatozoides (en la pieza intermedia) y las células del túbulo renal tienen muchas mitocondrias.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un grupo de estudiantes observa en micrografías que las mitocondrias de células del músculo cardíaco tienen crestas mucho más numerosas y apretadas que las mitocondrias de células de la piel. ¿Cuál de las siguientes preguntas se puede responder mediante una investigación a partir de esta observación?
+A) ¿Por qué razón la naturaleza dotó al corazón de mitocondrias mejores que las de la piel?
+B) ¿Producen más ATP por minuto las mitocondrias cardíacas que las de la piel?
+C) ¿Es el músculo cardíaco un tejido más importante para el organismo que la piel?
+D) ¿Deberían los deportistas preocuparse por el número de crestas de sus mitocondrias?
+Correcta: B. Por qué: La observación sugiere una relación entre número de crestas y producción de energía. Una pregunta investigable debe contener variables que se puedan medir: la alternativa B compara la cantidad de ATP producida por unidad de tiempo en dos tipos de mitocondrias, algo que se puede cuantificar en el laboratorio. Las demás preguntas involucran propósitos, juicios de importancia o recomendaciones, que no se resuelven con mediciones.
+
+Pregunta 2 (Planificar y conducir una investigación): Una investigadora quiere poner a prueba la hipótesis: «Las fibras musculares de personas entrenadas en resistencia tienen más mitocondrias que las de personas sedentarias». Obtiene biopsias del músculo del muslo de 20 corredores y de 20 personas sedentarias de la misma edad. ¿Qué procedimiento le permite obtener la evidencia más adecuada para su hipótesis?
+A) Medir la masa total de cada biopsia y comparar el promedio de ambos grupos de personas.
+B) Contar las fibras musculares por corte y comparar ese número entre corredores y sedentarios.
+C) Medir la glucosa en la sangre de cada persona en reposo y comparar ambos grupos entre sí.
+D) Contar las mitocondrias en igual área de fibra al microscopio electrónico en ambos grupos de personas.
+Correcta: D. Por qué: La variable dependiente de la hipótesis es el número de mitocondrias. Por eso el procedimiento debe medir exactamente eso y de forma comparable: contar mitocondrias en una misma área de fibra evita que diferencias de tamaño de la muestra alteren el resultado. Medir masa, número de fibras o glucosa sanguínea entrega datos de otras variables que no responden la hipótesis.
+
+Pregunta 3 (Procesar y analizar la evidencia): Unos científicos aíslan mitocondrias y las separan en dos fracciones: la membrana externa y la membrana interna con sus crestas. Luego agregan a cada fracción los sustratos necesarios y miden la producción de ATP. Además, en un tercer tubo mezclan mitocondrias intactas con una sustancia que hace permeable la membrana interna a los H+. Resultados (ATP producido, unidades arbitrarias): membrana externa, 2; membrana interna, 85; mitocondrias con la sustancia, 5. ¿Qué inferencia se desprende de estos resultados?
+A) El ATP se sintetiza en la membrana interna y depende de que retenga los H+.
+B) La membrana externa produce la mayor parte del ATP cuando la mitocondria está intacta.
+C) La sustancia agregada destruye la membrana externa y así detiene la producción de ATP.
+D) La cantidad de ATP es independiente de la membrana en que se ubiquen las enzimas.
+Correcta: A. Por qué: La fracción de membrana interna produce 85 unidades de ATP, frente a solo 2 de la membrana externa: el ATP se genera en la interna. Cuando la sustancia deja que los H+ atraviesen libremente esa membrana, la producción cae a 5, aunque la mitocondria esté intacta. Por lo tanto, la síntesis de ATP requiere que la membrana interna mantenga la acumulación de protones.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 26: a. La pared celular vegetal
+Sección: 8. Pared celular y comparación entre tipos de células
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «La pared celular vegetal». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente pared de celulosa, Pared primaria, Pared secundaria, lignina, Lámina media, Plasmodesmos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. La pared celular vegetal», dentro de la sección «8. Pared celular y comparación entre tipos de células» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: pared de celulosa, Pared primaria, Pared secundaria, lignina, Lámina media, Plasmodesmos.
+
+Ideas guía:
+- Las células vegetales están rodeadas por una pared de celulosa, por fuera de la membrana plasmática.
+- Las fibras de celulosa, un polisacárido, forman una malla muy resistente, reforzada con otros polisacáridos.
+- Pared primaria: es delgada y flexible, y permite que la célula joven crezca.
+- Pared secundaria: se deposita por dentro de la primaria cuando la célula deja de crecer.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Una estudiante quiere saber si la pared celular impide que las células vegetales estallen en agua destilada. Dispone de trozos de hoja, agua destilada y una enzima que degrada la celulosa. ¿Qué diseño experimental es adecuado?
+A) Poner células con pared en agua destilada y otras en agua con sal, y contar cuántas estallan en cada medio.
+B) Poner en agua destilada células con pared y células tratadas con la enzima, y contar las que estallan.
+C) Tratar todas las células con la enzima y ponerlas en agua destilada por distintos tiempos.
+D) Tratar células con la enzima y medir cuánta celulosa queda en la pared tras una hora.
+Correcta: B. Por qué: La variable independiente es la presencia de pared, que se elimina con la enzima que degrada celulosa. Ambos grupos deben estar en el mismo medio, agua destilada, y se mide cuántas células estallan. Si estallan solo las tratadas, la pared es la que protege. Cambiar la sal, usar solo células tratadas o medir celulosa no responde la pregunta.
+
+Pregunta 2 (Evaluar): Se mide la resistencia a la compresión de dos tejidos de un mismo árbol. Tejido X, de un brote nuevo: pared delgada, sin lignina, 2 unidades. Tejido Y, de madera del tronco: pared secundaria gruesa con lignina, 45 unidades. Un estudiante concluye: «La lignina es la única causa de la mayor resistencia del tejido Y». ¿Qué evaluación de esa conclusión es correcta?
+A) Es correcta, porque el tejido Y tiene lignina y es 20 veces más resistente que X.
+B) Es correcta, porque la pared primaria del tejido X no contiene fibras de celulosa.
+C) Es incorrecta, porque la lignina ablanda la pared y el tejido Y resulta resistente a pesar de tenerla.
+D) Es incorrecta, porque X e Y difieren también en el grosor de su pared, que podría influir.
+Correcta: D. Por qué: Entre X e Y no cambia solo la lignina: también cambia el grosor de la pared y el tipo de pared (primaria frente a secundaria). Por eso no se puede afirmar que la lignina sea la única causa; el grosor también podría explicar parte de la diferencia. Para atribuir el efecto solo a la lignina habría que comparar paredes de igual grosor con y sin lignina.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se colocan trozos de papa en tres soluciones y se mide la firmeza a los 30 minutos. En agua destilada, firmeza alta; en solución de sal al 1 %, firmeza media; en solución de sal al 5 %, firmeza baja y tejido flácido. En ningún caso las células se rompieron. ¿Qué interpretación es coherente con estos resultados?
+A) La sal disuelve la celulosa, por lo que la pared se debilita al aumentar la concentración.
+B) El agua destilada hace que las células pierdan agua y la pared las deja más firmes.
+C) La entrada de agua presiona la membrana contra la pared, que impide el estallido.
+D) La pared deja de existir en agua destilada y reaparece al aumentar la sal del medio.
+Correcta: C. Por qué: En agua destilada entra agua a las células, la vacuola se llena y la membrana presiona contra la pared: el tejido queda firme. Al aumentar la sal, las células ganan menos agua o la pierden, y el tejido se vuelve flácido. Que ninguna célula estallara, ni siquiera en agua destilada, muestra que la pared resistió la presión.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

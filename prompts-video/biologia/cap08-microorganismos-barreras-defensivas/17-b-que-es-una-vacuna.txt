@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 17: b. Qué es una vacuna
+Sección: 6. Vacunas e inmunidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Qué es una vacuna». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente antígeno sin la enfermedad, antes, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Qué es una vacuna», dentro de la sección «6. Vacunas e inmunidad» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: antígeno sin la enfermedad, antes.
+
+Ideas guía:
+- Una vacuna introduce el antígeno sin la enfermedad: un agente muerto, uno atenuado, un fragmento de él, o la instrucción para que la propia célula fabrique ese fragmento.
+- El sistema inmune monta una respuesta primaria y deja linfocitos de memoria.
+- Cuando después llega el agente real, la respuesta que se desencadena es la secundaria: rápida y potente.
+- La vacuna no es un antibiótico ni un tratamiento.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): ¿Qué contiene una vacuna y qué consigue con ello?
+A) Un antígeno sin capacidad de enfermar, que provoca memoria inmunológica.
+B) Anticuerpos ya formados, que neutralizan al agente de inmediato.
+C) Un antibiótico de acción prolongada, que impide la multiplicación bacteriana.
+D) Linfocitos de memoria obtenidos de una persona que ya estuvo enferma.
+Correcta: A. Por qué: Aportar anticuerpos ya formados corresponde a la inmunidad pasiva, no a una vacuna. Una vacuna tampoco contiene antibióticos, que actúan sobre bacterias ya presentes, ni células de otra persona, porque la respuesta debe generarla el propio organismo.
+
+Pregunta 2 (Evaluar): Una persona se vacuna y contrae la enfermedad tres días después. Concluye que la vacuna no funciona. ¿Cuál es la mejor evaluación de esa conclusión?
+A) Es correcta, porque una vacuna eficaz protege desde el mismo día en que se aplica.
+B) Es correcta, porque la vacuna probablemente contenía el agente activo.
+C) Es incorrecta, porque ninguna vacuna puede fallar en ninguna circunstancia.
+D) No lo es: la respuesta primaria tarda días o semanas en generar protección.
+Correcta: D. Por qué: Tres días no bastan para completar ese proceso, de modo que la infección pudo ocurrir antes de que la protección se estableciera, o incluso antes de vacunarse. La tercera alternativa sugiere un hecho no respaldado por el enunciado, y la última convierte una corrección en una afirmación absoluta insostenible.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere evaluar si una nueva vacuna reduce la incidencia de una enfermedad. Se dispone de 4000 voluntarios sanos de una misma ciudad. ¿Qué diseño responde mejor la pregunta?
+A) Vacunar a los 4000 voluntarios y registrar cuántos enferman durante ese año.
+B) Vacunar a los 2000 de mayor edad y dejar sin vacunar a los 2000 más jóvenes.
+C) Asignar al azar 2000 a la vacuna y 2000 a un placebo, y comparar la incidencia durante un año.
+D) Vacunar a 2000 y comparar su incidencia con la de la ciudad el año anterior.
+Correcta: C. Por qué: La asignación al azar equilibra las características de ambos grupos y el placebo evita que expectativas y registro sesguen el resultado. Vacunar a todos elimina la comparación, separar por edad introduce una variable confundida y comparar con otro año cambia las condiciones de circulación del agente.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

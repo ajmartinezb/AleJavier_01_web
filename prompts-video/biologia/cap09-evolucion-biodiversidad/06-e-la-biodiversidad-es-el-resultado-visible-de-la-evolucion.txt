@@ -1,0 +1,44 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 06: e. La biodiversidad es el resultado visible de la evolución
+Sección: 2. Biodiversidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «La biodiversidad es el resultado visible de la evolución». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente fotografía de un proceso, Extinción, velocidad, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. La biodiversidad es el resultado visible de la evolución», dentro de la sección «2. Biodiversidad» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: fotografía de un proceso, Extinción, velocidad.
+
+Ideas guía:
+- Este es el hilo que une todo el capítulo.
+- La extinción es tan parte de la historia de la vida como el origen de nuevas especies: más del 99 % de las especies que han existido ya se extinguieron.
+- En Chile, cerca de 950 especies tienen asignada una categoría de conservación por el Ministerio del Medio Ambiente.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un texto escolar afirma: «La biodiversidad actual es el catálogo definitivo de los seres vivos del planeta, porque todas las especies que pueden existir ya existen». ¿Qué error contiene esta afirmación?
+A) Desconoce que el número de especies descritas supera con creces al de especies reales.
+B) Desconoce que las especies extintas siguen formando parte de la biodiversidad actual.
+C) Desconoce que la biodiversidad cambia, con extinciones y especies nuevas.
+D) Desconoce que la biodiversidad solo considera a las especies de gran tamaño corporal.
+Correcta: C. Por qué: La afirmación supone que el conjunto de especies es cerrado y estable. El registro fósil muestra lo contrario: la composición cambia continuamente, por extinción y por especiación. Por eso la biodiversidad de hoy es un estado momentáneo, no un catálogo definitivo.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un estudio compara la tasa de extinción registrada en el promedio del registro fósil con la estimada para los últimos siglos, y obtiene que la segunda es varios órdenes de magnitud mayor. ¿Qué conclusión se desprende de este resultado?
+A) Que la extinción es un fenómeno reciente, ausente en la historia previa de la vida.
+B) Que la pérdida actual de especies ocurre a una velocidad inusual.
+C) Que el registro fósil sobrestima la cantidad de especies que existieron en el pasado.
+D) Que las especies actuales resisten mejor los cambios que las especies del pasado.
+Correcta: B. Por qué: El estudio compara dos tasas, no dos totales. Lo que cambia es el ritmo: las extinciones actuales ocurren mucho más rápido que el promedio del registro fósil. La conclusión correcta se refiere entonces a la velocidad, sin negar que la extinción haya existido siempre.
+
+Pregunta 3 (Comunicar): Un equipo debe presentar a una comunidad la idea de que la biodiversidad de su valle es el resultado de un proceso histórico y no un conjunto fijo de especies. ¿Qué recurso comunica mejor esa idea?
+A) Una línea de tiempo con la llegada, la diversificación y la extinción.
+B) Un listado alfabético de todas las especies registradas en el valle hasta la fecha.
+C) Un mapa con la ubicación exacta de cada especie observada dentro del valle.
+D) Un gráfico de barras con el número de individuos contados por cada especie.
+Correcta: A. Por qué: La idea que hay que comunicar es que el conjunto de especies cambia en el tiempo. Un listado, un mapa y un gráfico de abundancias describen bien el estado actual, pero lo presentan como algo estático. Una línea de tiempo, en cambio, hace visible la sucesión de llegadas, diversificaciones y extinciones, que es exactamente el proceso.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

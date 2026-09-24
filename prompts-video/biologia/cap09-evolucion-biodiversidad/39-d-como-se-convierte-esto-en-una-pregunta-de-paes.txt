@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 39: d. Cómo se convierte esto en una pregunta de PAES
+Sección: 8. Los pinzones y la selección natural
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Cómo se convierte esto en una pregunta de PAES». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente trabajar con los datos, Elegir la explicación correcta, Proponer el procedimiento, Guion de resolución, rasgo, presión, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Cómo se convierte esto en una pregunta de PAES», dentro de la sección «8. Los pinzones y la selección natural» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: trabajar con los datos, Elegir la explicación correcta, Proponer el procedimiento, Guion de resolución, rasgo, presión.
+
+Ideas guía:
+- Los ítems sobre este contenido casi nunca piden recordar el caso: piden trabajar con los datos.
+- Las tareas habituales son cuatro: Leer un gráfico de distribución de un rasgo antes y después de un evento, y decidir en qué dirección se desplazó.
+- Identificar la presión de selección que describe el enunciado (¿qué recurso faltó?
+- Elegir la explicación correcta entre una darwiniana y una lamarckiana disfrazada.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un gráfico muestra la distribución de la profundidad del pico de una población antes y después de un evento ambiental. Antes, el máximo de la curva está en 9,0 mm; después, en 10,2 mm, y la forma general de la curva se mantiene. ¿Qué describe correctamente el gráfico?
+A) Cada individuo de la población aumentó su profundidad de pico en 1,2 milímetros.
+B) La población perdió toda la variación que presentaba antes del evento ambiental.
+C) La curva completa se desplazó hacia valores mayores de profundidad del pico.
+D) La profundidad del pico dejó de variar entre los individuos después del evento.
+Correcta: C. Por qué: Que el máximo pase de 9,0 a 10,2 mm y la forma se conserve significa que toda la distribución se corrió hacia valores mayores, manteniendo la variación. No significa que cada individuo haya cambiado, porque el gráfico describe poblaciones en dos momentos, no un seguimiento individual.
+
+Pregunta 2 (Planificar y conducir una investigación): Un curso quiere poner a prueba la hipótesis de que un cambio en el alimento disponible desplaza el tamaño de una estructura heredable en una población de invertebrados de laboratorio. ¿Qué diseño corresponde aplicar?
+A) Medir la estructura en los cinco individuos de mayor tamaño antes y después del cambio.
+B) Cambiar el alimento y la temperatura a la vez y registrar la estructura al final del ensayo.
+C) Medir la estructura solo al final del ensayo y compararla con valores publicados en la literatura.
+D) Medir la estructura en toda la población antes y después del cambio de alimento, con un grupo control.
+Correcta: D. Por qué: Medir toda la población, y no solo los individuos extremos, permite describir la distribución completa. Hacerlo antes y después entrega el cambio, y el grupo control, mantenido con el alimento original, permite descartar que el cambio se deba al tiempo o a las condiciones de cultivo. Cambiar dos variables a la vez confundiría sus efectos.
+
+Pregunta 3 (Evaluar): Ante un ítem que describe un cambio de frecuencias en una población tras un evento ambiental, un estudiante duda entre dos alternativas. Una dice que los individuos desarrollaron el rasgo para enfrentar el evento; la otra, que los portadores del rasgo dejaron más descendencia. ¿Qué criterio permite decidir?
+A) Debe elegirse la que sitúa la variación antes de la presión de selección descrita.
+B) Debe elegirse la que sitúa la variación después de la presión de selección descrita.
+C) Debe elegirse la que describe un cambio ocurrido dentro de la vida de cada individuo.
+D) Debe elegirse la que atribuye el cambio a una necesidad percibida por los organismos.
+Correcta: A. Por qué: La primera alternativa describe individuos que generan el rasgo porque lo necesitan, es decir, sitúa la variación después de la presión: es lamarckiana. La segunda describe portadores que ya tenían el rasgo y que dejaron más descendencia: sitúa la variación antes. Ese orden es el criterio que decide.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

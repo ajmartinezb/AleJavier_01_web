@@ -1,0 +1,42 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 08: c. Cómo se pregunta esto: razonar desde la falla
+Sección: 3. Los sistemas reproductores
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Cómo se pregunta esto: razonar desde la falla». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente vasectomía, epidídimo, Endometrio, hipotálamo-hipófisis, no pueden encontrarse, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Cómo se pregunta esto: razonar desde la falla», dentro de la sección «3. Los sistemas reproductores» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: vasectomía, epidídimo, Endometrio, hipotálamo-hipófisis, no pueden encontrarse.
+
+Ideas guía:
+- Los ítems de esta sección suelen describir una alteración y pedir localizarla.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una persona presenta adherencias de tejido cicatricial en la cavidad uterina, con ovulación normal, y no logra que se establezca un embarazo. ¿Qué estructura está comprometida?
+A) El ovario, que no libera ovocitos maduros.
+B) El cuello uterino, que impide el paso del semen.
+C) El endometrio, donde debe implantarse el blastocisto.
+D) La hipófisis, que no secreta gonadotropinas.
+Correcta: C. Por qué: Las adherencias ocupan la cavidad uterina y dañan el endometrio, que es el tejido donde el blastocisto debe anidar. Como la ovulación es normal, el eje hormonal y el ovario funcionan, y como el semen ingresa, el cuello uterino no está en juego. Ese fue el planteamiento de un ítem oficial de 2027.
+
+Pregunta 2 (Planificar y conducir una investigación): Tras una cirugía de reconexión de los conductos deferentes, se quiere comprobar si la reversión fue exitosa. ¿Qué acción entrega la evidencia directa?
+A) Medir la concentración de testosterona en la sangre del paciente.
+B) Evaluar la formación de espermatozoides en los túbulos seminíferos.
+C) Medir el volumen total del semen obtenido en una eyaculación.
+D) Estudiar una muestra de semen al microscopio del laboratorio.
+Correcta: D. Por qué: Lo que la cirugía intenta restablecer es el **paso** de los espermatozoides, de modo que el éxito se comprueba encontrándolos en el semen. La testosterona nunca estuvo alterada, la producción testicular tampoco, y el volumen del semen depende de las glándulas accesorias y no cambia con la vasectomía.
+
+Pregunta 3 (Evaluar): Un estudiante concluye que, como una persona no logra un embarazo, el problema debe estar necesariamente en la producción de gametos. ¿Cuál es la evaluación correcta de esa conclusión?
+A) Es correcta: la infertilidad siempre se origina en la formación de los gametos.
+B) Es apresurada: la falla puede estar en otro paso del proceso reproductivo.
+C) Es incorrecta, porque la producción de gametos nunca influye en la fertilidad.
+D) Es correcta, siempre que los ciclos hormonales sean regulares.
+Correcta: B. Por qué: La ausencia de embarazo es el resultado final de una cadena larga, así que no identifica por sí sola el eslabón comprometido. De hecho, los ítems de esta sección se construyen justamente sobre esa ambigüedad: entregan un dato adicional que permite descartar unos pasos y quedarse con otro.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

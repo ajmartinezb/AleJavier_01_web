@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 14: c. Segunda línea: contener al que entró
+Sección: 5. Las barreras defensivas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Segunda línea: contener al que entró». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente Inflamación, Fagocitosis, Fiebre, Interferón, Cómo se pregunta, respuestas del organismo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Segunda línea: contener al que entró», dentro de la sección «5. Las barreras defensivas» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Inflamación, Fagocitosis, Fiebre, Interferón, Cómo se pregunta, respuestas del organismo.
+
+Ideas guía:
+- Si el patógeno atraviesa la barrera externa, se activa la respuesta innata: Inflamación.
+- Los vasos de la zona se dilatan y se vuelven más permeables.
+- De ahí el enrojecimiento, el calor, la hinchazón y el dolor.
+- La dilatación sirve: lleva más células defensivas y más plasma al lugar.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una persona presenta fiebre durante una infección bacteriana. ¿Cómo se interpreta ese signo?
+A) Es un daño directo que la bacteria produce sobre el hipotálamo.
+B) Es una señal de que el sistema inmune dejó de funcionar.
+C) Es una reacción alérgica frente a las toxinas bacterianas.
+D) Es una respuesta del organismo que dificulta la multiplicación del agente.
+Correcta: D. Por qué: Es, por lo tanto, una respuesta organizada y no un daño. Interpretarla como fallo del sistema inmune invierte su significado, y calificarla de reacción alérgica confunde un mecanismo de defensa inespecífico con una respuesta de hipersensibilidad, que es otra cosa.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un macrófago engulle una bacteria y la degrada en su interior. ¿Cómo se llama ese proceso y a qué línea pertenece?
+A) Fagocitosis, de la tercera línea de defensa.
+B) Fagocitosis, de la segunda línea de defensa.
+C) Inflamación, de la primera línea de defensa.
+D) Neutralización, de la tercera línea de defensa.
+Correcta: B. Por qué: Es una respuesta inespecífica, porque el macrófago no reconoce un antígeno particular ni deja memoria. La inflamación es otro componente de la misma segunda línea, no de la primera, y la neutralización mediante anticuerpos sí corresponde a la tercera línea.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que el interferón dificulta la replicación de un virus en células vecinas. ¿Qué comparación resulta más adecuada?
+A) Medir la cantidad de interferón producida por una célula infectada.
+B) Comparar el tamaño de las células antes y después de la infección viral.
+C) Infectar cultivos celulares tratados y no tratados con interferón, y comparar la replicación.
+D) Registrar la temperatura del incubador durante todo el experimento.
+Correcta: C. Por qué: Comparar cultivos tratados y no tratados aísla el efecto de la proteína sobre la replicación. Medir cuánto interferón se produce describe la respuesta sin evaluar su efecto, el tamaño celular no mide replicación viral y la temperatura del incubador es una condición del montaje.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

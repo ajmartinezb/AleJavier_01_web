@@ -1,0 +1,44 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 22: a. Caracteres sexuales primarios y secundarios
+Sección: 7. Caracteres sexuales y dimensiones de la sexualidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Caracteres sexuales primarios y secundarios». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Qué son, Cuándo aparecen, pubertad, Qué los provoca, Testosterona, estrógenos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Caracteres sexuales primarios y secundarios», dentro de la sección «7. Caracteres sexuales y dimensiones de la sexualidad» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Qué son, Cuándo aparecen, pubertad, Qué los provoca, Testosterona, estrógenos.
+
+Ideas guía:
+- La distinción se pregunta con frecuencia.
+- Si un ítem describe un rasgo que aparece en la pubertad, es secundario; si describe una estructura presente desde el nacimiento y necesaria para la reproducción, es primario.
+- Un ítem oficial de 2027 relacionaba el índice de masa corporal con el desarrollo prematuro de los caracteres sexuales secundarios, y distinguirlos era justamente lo que separaba la clave de su distractor.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Se quiere estudiar si el estado nutricional influye en la edad de aparición de los caracteres sexuales secundarios. ¿Qué diseño resulta adecuado?
+A) Medir el peso de un grupo de adultos y preguntarles a qué edad comenzó su pubertad.
+B) Comparar la estatura de dos personas de la misma edad en un solo momento.
+C) Seguir por años a un grupo amplio registrando nutrición y pubertad.
+D) Registrar la cantidad de horas de clase de educación física de un curso.
+Correcta: C. Por qué: La pregunta relaciona una condición sostenida con la fecha de un suceso, de modo que exige un seguimiento en el tiempo de las mismas personas y el registro de ambas variables. Preguntar a adultos por su pasado introduce errores de recuerdo, y las otras opciones no miden la aparición de los caracteres.
+
+Pregunta 2 (Evaluar): Se afirma que «los caracteres sexuales secundarios también están presentes al nacer, solo que no se ven». ¿Cuál es la corrección pertinente?
+A) Es correcta: solo se hacen visibles al crecer la persona.
+B) Es incorrecta: se desarrollan en la pubertad por las hormonas sexuales.
+C) Es incorrecta, porque los caracteres secundarios no existen en el ser humano.
+D) Es correcta, porque dependen únicamente de la información genética.
+Correcta: B. Por qué: La información genética está desde el comienzo, pero el rasgo no existe hasta que las hormonas lo desarrollan: no es que estuviera oculto. Eso explica por qué un cambio en el momento de inicio de la pubertad adelanta o retrasa su aparición, como muestran los estudios sobre nutrición y desarrollo.
+
+Pregunta 3 (Comunicar): En una tabla comparativa hay que completar la celda «qué los provoca» para los caracteres sexuales secundarios. ¿Cuál es el contenido correcto?
+A) La determinación genética durante el desarrollo embrionario.
+B) La alimentación recibida durante los primeros meses de vida.
+C) La acción directa de la FSH sobre la piel y las cuerdas vocales.
+D) La testosterona y los estrógenos a partir de la pubertad.
+Correcta: D. Por qué: La celda pide la causa, no el momento ni los ejemplos. Para los secundarios esa causa son las hormonas sexuales que las gónadas comienzan a producir en cantidad al activarse el eje. La FSH actúa sobre las gónadas y no directamente sobre la piel ni sobre las cuerdas vocales.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

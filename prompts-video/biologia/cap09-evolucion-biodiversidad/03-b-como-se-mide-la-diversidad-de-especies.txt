@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 03: b. Cómo se mide la diversidad de especies
+Sección: 2. Biodiversidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Cómo se mide la diversidad de especies». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Riqueza de especies, número, Abundancia relativa, proporción, misma riqueza, más diverso, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Cómo se mide la diversidad de especies», dentro de la sección «2. Biodiversidad» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Riqueza de especies, número, Abundancia relativa, proporción, misma riqueza, más diverso.
+
+Ideas guía:
+- Para comparar dos lugares no basta con una impresión.
+- Se usan dos medidas distintas, y confundirlas es un error frecuente: Riqueza de especies: el número de especies distintas presentes.
+- Abundancia relativa: qué proporción del total representa cada especie.
+- Los dos sitios tienen la misma riqueza (4 especies), pero el sitio B es más diverso: si se toma un individuo al azar, es mucho más difícil predecir a qué especie pertenece.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En tres parcelas de bosque se cuentan aves con el mismo esfuerzo de muestreo. Parcela 1: 40, 38, 41 y 39 individuos de cuatro especies. Parcela 2: 150, 4, 3 y 1 individuos de cuatro especies. Parcela 3: 80 individuos de una sola especie. ¿Cuál es el orden correcto de diversidad, de mayor a menor?
+A) Parcela 2, parcela 1 y parcela 3, por el número total de individuos contados.
+B) Parcela 3, parcela 1 y parcela 2, por la concentración de individuos por especie.
+C) Parcela 2, parcela 3 y parcela 1, por la dominancia de una especie.
+D) Parcela 1, parcela 2 y parcela 3, por su riqueza y su abundancia relativa.
+Correcta: D. Por qué: Las parcelas 1 y 2 tienen la misma riqueza, cuatro especies, pero en la 2 una sola especie aporta el 94 % de los individuos, mientras que en la 1 las cuatro aportan proporciones casi iguales. Por eso la 1 es más diversa que la 2. La parcela 3 tiene riqueza 1, el mínimo posible, así que va al final.
+
+Pregunta 2 (Evaluar): Un informe concluye: «El humedal está mejor conservado que el estero, porque en el humedal se capturaron 900 peces y en el estero solo 260». Ambos sitios se muestrearon con la misma red y durante el mismo tiempo. ¿Cuál es el principal reparo a esa conclusión?
+A) El informe usa el número de individuos, que no dice cuántas especies hay.
+B) El informe compara sitios muestreados con el mismo esfuerzo, lo que invalida la comparación.
+C) El informe no indica la hora del día en que se realizó cada uno de los dos muestreos.
+D) El informe no distingue entre peces nativos y peces introducidos.
+Correcta: A. Por qué: El informe solo entrega el total de individuos capturados. Con ese dato, el humedal podría tener 900 peces de una sola especie y el estero, 260 repartidos entre diez especies; en ese caso la conclusión sería exactamente la contraria. Sin conocer cuántas especies hay y cómo se reparten, la comparación no se sostiene.
+
+Pregunta 3 (Planificar y conducir una investigación): Un curso quiere comparar la diversidad de insectos de dos praderas vecinas, una con manejo agrícola y otra sin intervención. ¿Cuál de los siguientes diseños permite una comparación válida?
+A) Muestrear la pradera intervenida en primavera y la no intervenida en pleno otoño.
+B) Muestrear ambas praderas el mismo día, con igual número de trampas y de horas.
+C) Muestrear la pradera no intervenida con el doble de trampas, por ser más extensa.
+D) Muestrear ambas praderas hasta completar cien insectos en cada una de las dos.
+Correcta: B. Por qué: La variable que se quiere estudiar es el manejo agrícola. Todo lo demás —fecha, número de trampas, tiempo de exposición— debe mantenerse igual, porque si cambia también, no se podrá saber a qué atribuir la diferencia observada. El único diseño que cumple esa condición es el que iguala día, trampas y horas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

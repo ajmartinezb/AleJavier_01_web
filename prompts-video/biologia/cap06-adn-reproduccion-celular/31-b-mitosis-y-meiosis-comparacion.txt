@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 31: b. Mitosis y meiosis: comparación
+Sección: 9. Errores en la meiosis y comparación con la mitosis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Mitosis y meiosis: comparación». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente pares, homólogos, diploides (2n) |, pares de homólogos juntos, metafase I, 4 cromosomas sueltos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Mitosis y meiosis: comparación», dentro de la sección «9. Errores en la meiosis y comparación con la mitosis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: pares, homólogos, diploides (2n) |, pares de homólogos juntos, metafase I, 4 cromosomas sueltos.
+
+Ideas guía:
+- Para identificar una etapa en un dibujo con 2n = 4: Si hay pares de homólogos juntos en el ecuador, es la metafase I.
+- Si hay 4 cromosomas sueltos en el ecuador, cada uno con 2 cromátidas, es la metafase mitótica.
+- Si hay 2 cromosomas en el ecuador, cada uno con 2 cromátidas, es la metafase II.
+- Luego verifica si lo que se separa son homólogos (anafase I) o cromátidas (anafase mitótica o anafase II).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Al observar al microscopio una preparación de una célula de una especie con 2n = 4, una estudiante ve en el plano ecuatorial dos pares de cromosomas dobles, cada par formado por dos cromosomas del mismo tamaño y forma unidos entre sí. ¿En qué etapa se encuentra la célula?
+A) Metafase de la primera división meiótica
+B) Metafase de la segunda división meiótica
+C) Metafase de la división mitótica
+D) Anafase de la división mitótica
+Correcta: A. Por qué: La clave está en que los cromosomas del ecuador aparecen en pares de homólogos unidos (bivalentes): mismo tamaño y forma, juntos. Eso solo ocurre en la metafase I. En la metafase mitótica se verían cuatro cromosomas dobles sueltos; en la metafase II, solo dos cromosomas dobles; y en la anafase ya no hay cromosomas alineados, sino cromátidas migrando a los polos.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una célula de una especie con 2n = 6 tiene 12 pg de ADN en G1. Un investigador mide la cantidad de ADN de cada célula hija al final de la mitosis y de cada célula al final de la meiosis II. ¿Qué valores espera obtener, respectivamente?
+A) Mitosis: 12 pg; meiosis II: 12 pg
+B) Mitosis: 12 pg; meiosis II: 6 pg
+C) Mitosis: 6 pg; meiosis II: 3 pg
+D) Mitosis: 24 pg; meiosis II: 6 pg
+Correcta: B. Por qué: En la fase S el ADN pasa de 12 a 24 pg. En la mitosis hay una división, así que cada hija queda con 12 pg, igual que la célula en G1. En la meiosis la célula de 24 pg se divide dos veces: tras la meiosis I cada célula tiene 12 pg y tras la meiosis II, 6 pg, la mitad de G1, lo que corresponde a una célula haploide.
+
+Pregunta 3 (Evaluar): Un estudiante compara la mitosis y la meiosis y concluye: «Como ambos procesos parten de una sola replicación del ADN, ambos generan células genéticamente idénticas a la célula madre». ¿Cuál es la mejor evaluación de esta conclusión?
+A) Es correcta, porque la cantidad de ADN replicado es igual en ambos procesos.
+B) Es correcta, porque ambos procesos separan cromátidas hermanas en alguna anafase.
+C) Es incorrecta, porque la mitosis genera células distintas y la meiosis células idénticas.
+D) Es incorrecta, porque la meiosis incluye entrecruzamiento y separación de homólogos.
+Correcta: D. Por qué: Tener una sola replicación es un rasgo común, pero no determina la identidad genética. En la mitosis se separan cromátidas hermanas, idénticas, y resultan dos células iguales a la madre. En la meiosis, en cambio, el entrecruzamiento crea cromátidas recombinadas y la anafase I separa homólogos con orientación al azar, por lo que las cuatro células son haploides y distintas. La conclusión generaliza sin sustento.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,42 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 09: b. Las vías de transmisión
+Sección: 4. Transmisión y prevención
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Las vías de transmisión». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente Aérea, Por contacto, Sexual, Digestiva, Vertical, Por vector, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Las vías de transmisión», dentro de la sección «4. Transmisión y prevención» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Aérea, Por contacto, Sexual, Digestiva, Vertical, Por vector.
+
+Ideas guía:
+- Las infecciones de transmisión sexual se desarrollan en detalle en el capítulo 5, que es donde el temario 2027 las ubica.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una infección pasa de la madre al hijo durante el embarazo o el parto. ¿Cómo se denomina esa vía de transmisión?
+A) Parenteral.
+B) Por vector.
+C) Digestiva.
+D) Vertical.
+Correcta: D. Por qué: La vía parenteral ocurre por sangre, mediante jeringas, transfusiones o instrumentos; la transmisión por vector requiere un animal que transporte el agente; y la vía digestiva implica agua o alimentos contaminados con heces. Ninguna de esas tres describe el paso directo de madre a hijo.
+
+Pregunta 2 (Procesar y analizar la evidencia): En una localidad aumentan los casos de una enfermedad diarreica tras un desborde del alcantarillado. ¿Cuál es la vía de transmisión más probable?
+A) Aérea, por gotitas emitidas al toser o al hablar.
+B) Digestiva, por agua o alimentos contaminados con heces.
+C) Sexual, por contacto con fluidos durante relaciones sexuales.
+D) Parenteral, por instrumentos contaminados con sangre.
+Correcta: B. Por qué: El desborde del alcantarillado es exactamente la situación que contamina el agua con material fecal, y el cuadro diarreico coincide con esa vía. Las otras alternativas describen vías que el contexto no sugiere y que no producirían un brote diarreico asociado a un problema sanitario del agua.
+
+Pregunta 3 (Observar y plantear preguntas): En un pueblo rural aumentan los casos de una enfermedad transmitida por un insecto que vive en las grietas de las viviendas de adobe. ¿Cuál es la pregunta que mejor orienta una investigación para el control?
+A) ¿Cuántas personas viven en promedio en cada una de las casas del pueblo?
+B) ¿Desde qué año se construyeron las primeras viviendas de adobe del lugar?
+C) ¿Qué mejoras en la vivienda reducen la presencia del insecto vector?
+D) ¿Qué color tienen las paredes interiores de las viviendas afectadas?
+Correcta: C. Por qué: La pregunta correcta relaciona una intervención posible con la presencia del vector, y puede responderse comparando viviendas mejoradas y no mejoradas. El número de habitantes, la antigüedad de las casas y el color de las paredes son datos que no orientan ninguna medida de control.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

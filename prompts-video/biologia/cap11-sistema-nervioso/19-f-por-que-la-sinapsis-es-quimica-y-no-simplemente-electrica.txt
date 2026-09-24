@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 19: f. Por qué la sinapsis es química y no simplemente eléctrica
+Sección: 5. La sinapsis química
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Por qué la sinapsis es química y no simplemente eléctrica». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente retardo, Permite amplificar o atenuar, Permite invertirla, Asegura un solo sentido, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «f. Por qué la sinapsis es química y no simplemente eléctrica», dentro de la sección «5. La sinapsis química» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: retardo, Permite amplificar o atenuar, Permite invertirla, Asegura un solo sentido.
+
+Ideas guía:
+- Convertir la señal a química parece un rodeo, y tiene un costo: introduce un retardo de aproximadamente medio milisegundo.
+- A cambio entrega tres ventajas: Permite amplificar o atenuar la señal, según cuánto neurotransmisor se libere.
+- Permite invertirla: una señal excitatoria puede convertirse en inhibitoria en la célula siguiente.
+- Asegura un solo sentido: el neurotransmisor se libera en un lado y los receptores están en el otro.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Se sostiene que «si la sinapsis fuera eléctrica y directa, el sistema nervioso funcionaría mejor, porque perdería menos tiempo». ¿Cuál es la objeción más sólida?
+A) Una unión eléctrica directa no podría transmitir ninguna señal entre dos células vecinas.
+B) El sistema nervioso humano carece por completo de uniones eléctricas entre células.
+C) Transmitiría igual la señal, pero no permitiría inhibir ni modular.
+D) Una unión eléctrica directa sería más lenta que la transmisión química por neurotransmisores.
+Correcta: C. Por qué: El argumento juzga la sinapsis solo por el tiempo. La objeción más sólida acepta la ventaja de velocidad y muestra lo que se perdería: sin un mensajero químico y sus distintos receptores no habría inhibición, ni amplificación, ni la posibilidad de que la experiencia o un fármaco modifiquen la transmisión.
+
+Pregunta 2 (Comunicar): Se busca una analogía adecuada para explicar por qué la sinapsis necesita un mensajero químico. ¿Cuál es la más apropiada?
+A) Como dos cables soldados, por los que la corriente pasa sin interrupción alguna.
+B) Como dos personas separadas por un río estrecho que se lanzan un mensaje escrito.
+C) Como un cable de fibra óptica, en el que la señal viaja en forma de luz.
+D) Como un imán que atrae a otro sin necesidad de ningún contacto entre ellos.
+Correcta: B. Por qué: La analogía del río estrecho conserva los dos rasgos decisivos: hay una separación física y hay un objeto material que la cruza y que el otro lado debe recibir e interpretar. Las demás analogías suponen continuidad, o una transmisión a distancia sin mensajero, que es justamente lo que la sinapsis química no es.
+
+Pregunta 3 (Procesar y analizar la evidencia): En una preparación se aplica un neurotransmisor directamente sobre la membrana postsináptica, sin estimular la neurona presináptica, y se registra una respuesta idéntica a la habitual. ¿Qué demuestra ese resultado?
+A) Que la neurona presináptica no participa en ningún momento de la transmisión.
+B) Que la transmisión entre las dos neuronas es de naturaleza puramente eléctrica.
+C) Que el espacio sináptico no existe en esta preparación experimental.
+D) La respuesta se desencadena al unirse el neurotransmisor a sus receptores.
+Correcta: D. Por qué: Como la respuesta aparece sin que la presináptica dispare, lo que se demuestra es que basta el neurotransmisor sobre sus receptores para generarla: la naturaleza de la señal que llega al lado postsináptico es química. Eso no significa que la presináptica sea prescindible en condiciones normales, porque es ella la que libera el mensajero.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 18: e. La ruta de secreción: el experimento de pulso y caza
+Sección: 5. El sistema de endomembranas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «La ruta de secreción: el experimento de pulso y caza». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente Modelo experimental, acinares, Procedimiento, Pulso, 3 minutos, aminoácido radiactivo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. La ruta de secreción: el experimento de pulso y caza», dentro de la sección «5. El sistema de endomembranas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Modelo experimental, acinares, Procedimiento, Pulso, 3 minutos, aminoácido radiactivo.
+
+Ideas guía:
+- ¿Cómo se supo que las proteínas de secreción recorren el camino RER → Golgi → vesículas → membrana?
+- Lo demostraron James Jamieson y George Palade con un experimento clásico publicado en 1967.
+- Por estos trabajos Palade recibió el Premio Nobel de Medicina en 1974.
+- Usaron cortes de páncreas de cobayo, formados principalmente por células acinares, que fabrican grandes cantidades de enzimas digestivas y las secretan.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un experimento de pulso y caza con células acinares se mide el porcentaje de radiactividad en cada compartimento. A los 3 min: RER 85 %, Golgi 10 %, gránulos 5 %. A los 20 min: RER 40 %, Golgi 50 %, gránulos 10 %. A los 120 min: RER 10 %, Golgi 15 %, gránulos 75 %. ¿Qué conclusión apoyan estos datos?
+A) Las proteínas marcadas se sintetizan en el Golgi y se envían al RER.
+B) Los gránulos de secreción fabrican las proteínas marcadas al inicio.
+C) El máximo de radiactividad pasa del RER al Golgi y luego a los gránulos.
+D) La radiactividad total disminuye con el tiempo porque las proteínas se degradan.
+Correcta: C. Por qué: El máximo está en el RER a los 3 min, en el Golgi a los 20 min y en los gránulos a los 120 min. Ese desplazamiento revela el recorrido RER, Golgi, gránulos. En cada tiempo los porcentajes suman 100 %, así que los datos no muestran pérdida de radiactividad.
+
+Pregunta 2 (Planificar y conducir una investigación): En el experimento de pulso y caza, tras 3 minutos con leucina radiactiva se cambia el medio por uno con abundante leucina no radiactiva. ¿Cuál es el propósito de este cambio en el diseño?
+A) Evitar que las proteínas fabricadas después del pulso queden marcadas.
+B) Aumentar la síntesis total de proteínas de secreción en la célula.
+C) Eliminar la radiactividad de las proteínas marcadas durante el pulso.
+D) Permitir que los gránulos de secreción capturen la leucina radiactiva que quedó libre.
+Correcta: A. Por qué: Si la leucina radiactiva siguiera disponible, se marcarían continuamente nuevas proteínas en el RER y la marca estaría en todos los compartimentos a la vez. Con la caza, solo queda marcada la cohorte sintetizada durante el pulso, y es posible seguir su avance. La caza no borra la marca ya incorporada.
+
+Pregunta 3 (Evaluar): Se repite el pulso y caza en tres grupos y se mide dónde está la mayor parte de la radiactividad a los 120 min. Control: gránulos de secreción. Con brefeldina A (bloquea la salida de vesículas del RER): RER. A 15 °C: Golgi. Un estudiante concluye que «la baja temperatura bloquea la síntesis de proteínas en el RER». ¿Por qué es inválida esta conclusión?
+A) Porque a 15 °C las proteínas no deberían marcarse con leucina radiactiva.
+B) Porque la brefeldina A actúa sobre el Golgi y no sobre el retículo.
+C) Porque en el grupo control también se retiene la marca en el RER a los 120 minutos.
+D) Porque la marca llegó al Golgi, lo que muestra que sí se sintetizó en el RER.
+Correcta: D. Por qué: A 15 °C la marca aparece en el Golgi. Para llegar ahí, la proteína tuvo que sintetizarse en el RER y salir de él. Por lo tanto, la baja temperatura no bloqueó la síntesis, sino un paso posterior: la salida desde el Golgi. La conclusión contradice el propio dato.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

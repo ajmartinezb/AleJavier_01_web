@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 11: c. El ovocito y sus cubiertas
+Sección: 4. Los gametos: espermatozoide y ovocito
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «El ovocito y sus cubiertas». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Corona radiada, Zona pelúcida, reconocimiento específico, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. El ovocito y sus cubiertas», dentro de la sección «4. Los gametos: espermatozoide y ovocito» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Corona radiada, Zona pelúcida, reconocimiento específico.
+
+Ideas guía:
+- Alrededor del ovocito hay dos capas que cumplen funciones distintas y que la prueba distingue: Corona radiada: capa externa de células foliculares que acompañan al ovocito al salir del ovario.
+- El espermatozoide debe atravesarla primero.
+- Zona pelúcida: cubierta de glicoproteínas pegada al ovocito.
+- Aquí ocurre el reconocimiento específico entre gametos, que impide que un espermatozoide de otra especie fecunde al ovocito, y aquí se produce después el bloqueo de la poliespermia.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): ¿Cuál es la función de la zona pelúcida durante la fecundación?
+A) Aportar las enzimas que digieren la corona radiada del ovocito.
+B) Permitir el reconocimiento entre gametos y frenar la entrada.
+C) Producir el ATP que el ovocito necesita para completar la meiosis.
+D) Transportar el ovocito desde el ovario hasta el útero.
+Correcta: B. Por qué: Esa cubierta cumple dos papeles sucesivos: primero asegura que solo un espermatozoide compatible se una, lo que impide la fecundación entre especies distintas, y luego se endurece para que no entre un segundo. Las enzimas provienen del acrosoma y el transporte lo realiza la trompa.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere determinar si el fracaso de una fecundación in vitro se debe a un problema de reconocimiento entre gametos. ¿Qué observación resulta más informativa?
+A) Observar si los espermatozoides se unen a la zona pelúcida del ovocito.
+B) Contar el número de espermatozoides presentes en la muestra de semen.
+C) Medir la temperatura del medio de cultivo durante el procedimiento.
+D) Registrar el tiempo total que dura el procedimiento en el laboratorio.
+Correcta: A. Por qué: Si el problema fuera de reconocimiento, los espermatozoides llegarían hasta la zona pelúcida pero no se unirían a ella, y eso puede observarse directamente. El recuento espermático evalúa otra causa posible, y la temperatura o la duración son condiciones del procedimiento, no del encuentro entre gametos.
+
+Pregunta 3 (Evaluar): Se afirma que «la corona radiada y la zona pelúcida son dos nombres para la misma estructura del ovocito». ¿Cuál es la corrección pertinente?
+A) Es correcta: ambos términos designan la cubierta externa del ovocito.
+B) Es incorrecta, porque el ovocito humano carece por completo de corona radiada.
+C) Es correcta, porque ambas se forman a partir de la membrana del ovocito.
+D) Es incorrecta: la corona radiada es celular y la zona pelúcida, glicoproteica.
+Correcta: D. Por qué: Son estructuras distintas en naturaleza y en orden: el espermatozoide atraviesa primero las células de la corona y después la zona pelúcida, que es donde ocurre el reconocimiento. Confundirlas lleva a errores al describir la secuencia de la fecundación.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

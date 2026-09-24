@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 25: c. Cilios y flagelos eucariontes
+Sección: 7. Citoesqueleto, centriolos, cilios y flagelos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Cilios y flagelos eucariontes». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente axonema, 9 + 2, cuerpo basal, dineína, curva, Espermatozoide, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Cilios y flagelos eucariontes», dentro de la sección «7. Citoesqueleto, centriolos, cilios y flagelos» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: axonema, 9 + 2, cuerpo basal, dineína, curva, Espermatozoide.
+
+Ideas guía:
+- Son prolongaciones de la membrana plasmática con un armazón interno de microtúbulos, el axonema, organizado en el patrón 9 + 2: nueve pares de microtúbulos en la periferia y dos microtúbulos centrales.
+- Nacen de un cuerpo basal, que tiene la misma estructura que un centriolo (9 tripletes).
+- El movimiento se produce porque los brazos de dineína hacen deslizar unos pares de microtúbulos sobre otros, usando ATP.
+- Como los pares están unidos entre sí, en vez de deslizarse la estructura se curva, y el cilio o flagelo ondula.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se estudian cuatro personas con infecciones respiratorias frecuentes. En cada una se toma una muestra del epitelio de la tráquea y se registran dos datos: batido de los cilios (sí/no) y presencia de brazos de dineína en el axonema (sí/no). Persona 1: no/no. Persona 2: sí/sí. Persona 3: no/no. Persona 4: sí/sí. ¿Qué conclusión es coherente con estos datos?
+A) Las infecciones de las cuatro personas se deben a la falta de dineína en sus cilios.
+B) En las personas 1 y 3, la falta de batido se asocia a la ausencia de brazos de dineína.
+C) Las personas 2 y 4 tienen cilios inmóviles, aunque conservan los brazos de dineína.
+D) Las cuatro personas presentarán también infertilidad, por tener flagelos espermáticos sin movimiento.
+Correcta: B. Por qué: En las personas 1 y 3 los dos datos son «no»: sin dineína, no hay batido. En las personas 2 y 4 hay dineína y los cilios baten, así que sus infecciones deben tener otra causa. Por eso solo se puede asociar la inmovilidad con la falta de dineína en 1 y 3.
+
+Pregunta 2 (Observar y plantear preguntas): Una bióloga observa que el paramecio avanza gracias a miles de cilios cortos que baten coordinados, mientras que el espermatozoide humano avanza con un único flagelo largo que ondula. Al microscopio electrónico, ambos muestran el mismo patrón 9 + 2 en su axonema. ¿Qué pregunta investigable surge de esta observación?
+A) ¿Por qué el paramecio tiene cilios si vive en un medio acuático y no en uno terrestre o aéreo?
+B) ¿Qué organelo produce la energía que usa el espermatozoide durante el ayuno?
+C) ¿Cuántos cromosomas contiene el núcleo de un espermatozoide y de un paramecio?
+D) ¿De qué depende que un mismo axonema 9 + 2 genere batido o movimiento ondulatorio?
+Correcta: D. Por qué: Lo llamativo de la observación es la paradoja: la misma organización interna produce dos movimientos distintos. Una pregunta investigable debe apuntar a esa diferencia y a sus posibles causas, como el largo de la estructura o la coordinación de la dineína. Las otras preguntas tratan temas no observados: el hábitat, la energía en ayuno o el número de cromosomas.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que el movimiento de los flagelos requiere ATP. Se extraen axonemas de flagelos de espermatozoides de erizo, quitándoles la membrana, y se colocan en una solución con sales. ¿Qué diseño permite poner a prueba esa idea?
+A) Dividir los axonemas en dos grupos, agregar ATP solo a uno de ellos y registrar si ondulan.
+B) Agregar ATP a todos los axonemas y medir la longitud que alcanza cada uno de ellos.
+C) Agregar ATP a los axonemas y a espermatozoides enteros y comparar sus velocidades.
+D) Dividir los axonemas en dos grupos, aplicar colchicina a uno y medir su diámetro.
+Correcta: A. Por qué: La variable independiente es la presencia de ATP; la dependiente, si el axonema ondula. Se requiere un grupo sin ATP como control y todo lo demás igual. El diseño que separa los axonemas en dos grupos, agrega ATP solo a uno y observa el movimiento cumple con esto. Medir longitud o diámetro no evalúa el movimiento, y comparar con espermatozoides enteros agrega diferencias no controladas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

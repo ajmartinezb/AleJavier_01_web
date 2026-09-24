@@ -1,0 +1,45 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 14: d. La forma sigue a la función
+Sección: 5. Unidad y diversidad celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «La forma sigue a la función». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente Neurona, Glóbulo rojo, Célula muscular, Espermatozoide, Enterocito, Cómo se pregunta, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. La forma sigue a la función», dentro de la sección «5. Unidad y diversidad celular» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Neurona, Glóbulo rojo, Célula muscular, Espermatozoide, Enterocito, Cómo se pregunta.
+
+Ideas guía:
+- La diversidad de formas celulares no es arbitraria.
+- Cada tipo de célula tiene la forma que su tarea exige: Cómo se pregunta.
+- La PAES rara vez pide el nombre de una célula: pide inferir la función a partir de la forma, o al revés.
+- Ante una célula con mucha superficie, piensa en absorción o intercambio; ante muchas mitocondrias, en gasto de energía; ante mucho retículo rugoso, en producción de proteínas para exportar.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una célula presenta la cara libre cubierta de prolongaciones finas y numerosas que multiplican varias veces su superficie. ¿Qué función se infiere con mayor respaldo?
+A) Contracción rápida en un solo eje.
+B) Conducción de señales a larga distancia.
+C) Almacenamiento de agua en su interior.
+D) Absorción de nutrientes desde el medio.
+Correcta: D. Por qué: Es el caso del enterocito y sus microvellosidades, que multiplican la superficie disponible para captar nutrientes. La contracción requiere filamentos ordenados en un eje, la conducción de señales exige prolongaciones largas y no numerosas prolongaciones cortas, y el almacenamiento de agua se resuelve con una vacuola grande y no con relieve en la superficie.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere poner a prueba la hipótesis de que las células con mayor gasto de energía contienen más mitocondrias. ¿Qué diseño lo evalúa mejor?
+A) Contar mitocondrias en varios tipos celulares y comparar con su consumo de oxígeno.
+B) Contar mitocondrias en un solo tipo celular en dos momentos del día.
+C) Medir el consumo de oxígeno de varios tipos celulares durante una hora.
+D) Medir el diámetro de las mitocondrias de un tejido muy activo.
+Correcta: A. Por qué: La hipótesis vincula dos variables, el número de mitocondrias y el gasto energético, de modo que hay que medir ambas en varios tipos celulares y buscar la relación. Medir solo el consumo de oxígeno deja fuera una de las variables, contar en un único tipo celular impide comparar, y el diámetro de las mitocondrias no es la variable enunciada en la hipótesis.
+
+Pregunta 3 (Observar y plantear preguntas): Se observa una célula con una prolongación única y muy larga, que se extiende desde el cuerpo celular hasta una estructura situada a gran distancia. ¿Qué función se infiere con mayor respaldo?
+A) Absorber nutrientes desde el líquido que la rodea.
+B) Conducir señales entre puntos distantes del cuerpo.
+C) Almacenar sustancias de reserva en su interior.
+D) Secretar grandes cantidades de proteínas al exterior.
+Correcta: B. Por qué: Una prolongación única y extensa no aumenta de manera relevante la superficie de absorción ni sirve para acumular reservas, tareas que exigen otras formas. La secreción intensa de proteínas se asocia a un citoplasma con mucho retículo rugoso y aparato de Golgi desarrollado, y no a una prolongación larga. La estructura observada apunta con claridad a la conducción de señales.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

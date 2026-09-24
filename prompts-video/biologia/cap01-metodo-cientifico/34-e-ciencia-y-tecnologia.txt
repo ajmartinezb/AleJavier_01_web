@@ -1,0 +1,44 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 34: e. Ciencia y tecnología
+Sección: 7. Evaluar una investigación científica
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Ciencia y tecnología». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente tecnologías, cómo una investigación contribuyó, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Ciencia y tecnología», dentro de la sección «7. Evaluar una investigación científica» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: tecnologías, cómo una investigación contribuyó.
+
+Ideas guía:
+- La investigación científica genera conocimiento que luego se aplica en tecnologías.
+- A su vez, las nuevas tecnologías, como el microscopio electrónico o la secuenciación de ADN, permiten nuevas investigaciones.
+- En la PAES puede pedirse evaluar cómo una investigación contribuyó a una tecnología determinada.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): En la década de 1970 se descubrió que las enzimas de restricción cortan el ADN en secuencias específicas. Pocos años después, una empresa insertó el gen de la insulina humana en bacterias y las usó para producir la hormona. ¿Cuál fue el principal aporte del descubrimiento a esta tecnología?
+A) Permitir que las bacterias fabricaran ADN humano por sí solas.
+B) Permitir diagnosticar la diabetes midiendo insulina en la sangre.
+C) Permitir aislar la insulina desde el páncreas de otros animales.
+D) Permitir cortar y unir el gen de la insulina al ADN bacteriano.
+Correcta: D. Por qué: Paso 1: el descubrimiento fue que ciertas enzimas cortan el ADN en sitios precisos. Paso 2: para producir insulina en bacterias hay que recortar el gen humano e insertarlo en un plásmido. Paso 3: esas enzimas, junto con la ligasa, permiten ese corte y unión. Ese es el aporte que conecta el hallazgo con la tecnología.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un invernadero de pimentones registró la producción según la concentración de CO₂ del aire, con luz y temperatura constantes. Producción (kg/m²): 400 ppm → 8,0; 700 ppm → 9,6; 1000 ppm → 10,4; 1300 ppm → 10,5. ¿Qué decisión tecnológica se sustenta mejor en estos datos?
+A) Enriquecer el aire hasta cerca de 1000 ppm de CO₂.
+B) Enriquecer el aire hasta cerca de 400 ppm de CO₂.
+C) Enriquecer el aire tanto como sea posible con CO₂.
+D) Evitar enriquecer el aire del invernadero con CO₂.
+Correcta: A. Por qué: Paso 1: se calculan los aumentos: +1,6 kg/m² (400 a 700), +0,8 (700 a 1000) y +0,1 (1000 a 1300). Paso 2: la ganancia se hace casi nula sobre 1000 ppm, porque otro factor pasa a ser limitante. Paso 3: la decisión más respaldada es enriquecer hasta cerca de 1000 ppm, donde se logra casi todo el beneficio.
+
+Pregunta 3 (Evaluar): El microscopio electrónico, desarrollado en la década de 1930, alcanza aumentos mucho mayores que el óptico. ¿Cuál de los siguientes avances científicos dependió más directamente de esta tecnología?
+A) La formulación de las leyes de la herencia a partir de arvejas.
+B) La descripción de la estructura interna de mitocondrias.
+C) La observación de las primeras células en láminas de corcho.
+D) La comprobación de que la sangre circula por todo el cuerpo.
+Correcta: B. Por qué: Paso 1: se reconoce qué aporta el microscopio electrónico: resolución suficiente para ver estructuras de decenas de nanómetros. Paso 2: se revisa cuándo ocurrió cada avance y qué requería. Paso 3: las crestas y membranas de las mitocondrias solo pudieron describirse con esa resolución, en la década de 1950; los otros hallazgos son anteriores a este instrumento.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

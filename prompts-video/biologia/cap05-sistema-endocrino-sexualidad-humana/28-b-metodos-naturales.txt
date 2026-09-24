@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 28: b. Métodos naturales
+Sección: 8. Métodos de control de la natalidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Métodos naturales». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Calendario (ritmo), Temperatura basal, Confirma, Billings (moco cervical), Coito interrumpido, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Métodos naturales», dentro de la sección «8. Métodos de control de la natalidad» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Calendario (ritmo), Temperatura basal, Confirma, Billings (moco cervical), Coito interrumpido.
+
+Ideas guía:
+- Se basan en identificar la ventana fértil y evitar relaciones sexuales en esos días.
+- Lo que los hace poco confiables no es el principio, sino la variabilidad.
+- El ciclo cambia con el estrés, una enfermedad, un viaje o un cambio de peso, y la ventana fértil se desplaza con él.
+- Por eso su eficacia en uso típico es muy inferior a la de los métodos hormonales o de barrera.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un estudiante advierte que dos métodos naturales usan señales distintas: uno observa el moco cervical y el otro la temperatura, pero solo el primero permite anticipar la ovulación. ¿Qué pregunta investigable plantea esa diferencia?
+A) ¿Cuál de los dos métodos se enseña primero en los colegios del país?
+B) ¿Qué hormona produce cada señal y en qué momento del ciclo lo hace?
+C) ¿Cuántas personas usan cada uno de los dos métodos en el mundo?
+D) ¿Qué termómetro conviene comprar para registrar la temperatura basal?
+Correcta: B. Por qué: La diferencia de utilidad se explica por el momento en que actúa cada hormona, así que la pregunta pertinente indaga justamente eso. Responderla aclara por qué uno de los indicadores anticipa y el otro solo confirma. Las demás opciones piden datos educativos, de uso o de compra.
+
+Pregunta 2 (Evaluar): Se afirma que «el coito interrumpido es seguro, porque los espermatozoides solo salen durante la eyaculación». ¿Cuál es la objeción correcta?
+A) Es correcta: sin eyaculación no hay espermatozoides en el tracto femenino.
+B) Es incorrecta, porque los espermatozoides no pueden desplazarse por sí mismos.
+C) Es incorrecta: puede haber espermatozoides antes de la eyaculación.
+D) Es correcta, siempre que la persona tenga ciclos regulares y conocidos.
+Correcta: C. Por qué: El razonamiento se apoya en un supuesto falso sobre el momento en que los espermatozoides ingresan. A eso se suma que el método exige una decisión precisa en un momento de poco control, lo que explica que su eficacia en uso típico sea de las más bajas entre todos los métodos.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comparar la eficacia de dos métodos naturales en condiciones reales de uso. ¿Qué dato hay que registrar?
+A) El grado de satisfacción que cada participante declara con su método.
+B) El número de días de abstinencia que cada grupo declara al mes.
+C) La opinión del equipo de salud sobre la facilidad de cada método.
+D) La proporción de embarazos durante el primer año de uso en cada grupo.
+Correcta: D. Por qué: La eficacia anticonceptiva se define por el resultado que el método busca evitar, de modo que hay que contar embarazos en un período definido y referirlo al número de usuarias. La satisfacción, los días de abstinencia y la opinión profesional describen otros aspectos, legítimos pero distintos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

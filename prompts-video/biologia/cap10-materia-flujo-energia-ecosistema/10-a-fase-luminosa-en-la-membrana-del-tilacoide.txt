@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 10: a. Fase luminosa (en la membrana del tilacoide)
+Sección: 5. Las etapas de la fotosíntesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Fase luminosa (en la membrana del tilacoide)». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente Captura de la luz, clorofila, Fotólisis del agua, agua, todo el oxígeno, ATP, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Fase luminosa (en la membrana del tilacoide)», dentro de la sección «5. Las etapas de la fotosíntesis» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Captura de la luz, clorofila, Fotólisis del agua, agua, todo el oxígeno, ATP.
+
+Ideas guía:
+- Ocurre en tres pasos encadenados: Captura de la luz.
+- Los pigmentos, sobre todo la clorofila, absorben fotones.
+- La energía absorbida excita electrones de la clorofila, que quedan con más energía de la que tenían.
+- La clorofila que cedió electrones debe reponerlos, y los toma del agua, que se rompe: 2 H2O → 4 H+ + 4 e− + O2.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se aplica a un cloroplasto un inhibidor que impide la fotólisis del agua. ¿Qué consecuencia inmediata se espera en la fase luminosa?
+A) Aumenta la producción de O₂ porque el agua queda disponible.
+B) Se acumula NADPH porque los electrones no pueden ser usados.
+C) Se detiene la liberación de O₂ y falta el aporte de electrones.
+D) El ciclo de Calvin se acelera al disponer de más agua libre.
+Correcta: C. Por qué: El paso bloqueado cumple dos funciones a la vez, así que ambas se pierden: no hay O₂ y la clorofila se queda sin la fuente que repone sus electrones. Sin flujo de electrones tampoco se forma NADPH, de modo que su acumulación es imposible, y el ciclo de Calvin se frena poco después por falta de poder reductor.
+
+Pregunta 2 (Procesar y analizar la evidencia): Ordena los siguientes hechos de la fase luminosa: 1, los electrones se entregan al NADP⁺; 2, la clorofila absorbe fotones; 3, el agua se rompe y repone los electrones; 4, los electrones recorren la cadena de transporte. ¿Cuál es el orden correcto?
+A) 3, 2, 1, 4.
+B) 1, 2, 3, 4.
+C) 4, 2, 3, 1.
+D) 2, 3, 4, 1.
+Correcta: D. Por qué: La secuencia comienza con la absorción de luz (2), porque es el único hecho que no depende de los demás. La fotólisis (3) ocurre para reponer lo que la clorofila cedió. Después los electrones recorren la cadena (4) y solo al término de ese recorrido llegan al NADP⁺ (1).
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que la producción de O₂ de un cloroplasto aislado depende de la presencia de luz. ¿Cuál es el diseño adecuado?
+A) Iluminar la muestra y medir la producción de O₂ solo al final del ensayo.
+B) Medir la producción de O₂ de la misma muestra con luz y luego en oscuridad.
+C) Medir la producción de O₂ de dos muestras iluminadas a temperaturas distintas.
+D) Medir la concentración de clorofila de la muestra antes de iluminarla.
+Correcta: B. Por qué: Comparar la misma muestra con y sin luz entrega una condición experimental y un control con idéntica composición, de modo que la diferencia se atribuye a la luz. Iluminar sin comparar no prueba nada, variar la temperatura manipula otra variable y medir clorofila describe la muestra sin evaluar el proceso.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

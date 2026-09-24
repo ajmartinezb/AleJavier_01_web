@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 07: a. Cómo se sabe la edad de las rocas y los fósiles
+Sección: 3. La historia del planeta y la historia de la vida en 24 horas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Cómo se sabe la edad de las rocas y los fósiles». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Datación relativa, Principio de superposición, orden, Fósiles guía, Datación radiométrica, vida media, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Cómo se sabe la edad de las rocas y los fósiles», dentro de la sección «3. La historia del planeta y la historia de la vida en 24 horas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Datación relativa, Principio de superposición, orden, Fósiles guía, Datación radiométrica, vida media.
+
+Ideas guía:
+- Antes de mirar la escala, hay que entender de dónde salen las fechas.
+- Se combinan dos tipos de datación: Cada isótopo sirve en un rango distinto de tiempo, y elegir el adecuado es parte del diseño de la investigación: Error típico.
+- El carbono-14 no sirve para datar un fósil de dinosaurio: después de unas diez vidas medias (≈ 57 000 años) queda tan poco 14C que no se puede medir.
+- Un hueso de 66 millones de años se data indirectamente, fechando con potasio-argón las capas volcánicas que están inmediatamente debajo y encima del fósil.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un equipo encuentra un fósil de molusco en un estrato sedimentario, entre dos capas de ceniza volcánica sin alterar. Quiere estimar su edad numérica y sabe que el fósil tiene entre 5 y 50 millones de años. ¿Qué procedimiento corresponde aplicar?
+A) Datar con potasio-argón las dos capas de ceniza y acotar la edad entre ambas.
+B) Datar el fósil con carbono-14 y corregir el resultado con la profundidad del estrato.
+C) Datar con carbono-14 las dos capas de ceniza y promediar los valores obtenidos.
+D) Estimar la edad contando los estratos que hay sobre el fósil y multiplicando por mil.
+Correcta: A. Por qué: El rango declarado, de 5 a 50 millones de años, excede por completo el alcance del carbono-14, así que ese isótopo queda descartado. El potasio-argón sí cubre ese rango, pero requiere roca volcánica, que aquí aportan las dos capas de ceniza. Fechándolas se obtiene un intervalo: el fósil es más joven que la capa inferior y más antiguo que la superior.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una muestra orgánica conserva la octava parte del carbono-14 que tenía cuando el organismo murió. La vida media del carbono-14 es de 5730 años. ¿Cuál es la edad aproximada de la muestra?
+A) 5730 años
+B) 17 190 años
+C) 11 460 años
+D) 45 840 años
+Correcta: B. Por qué: Queda 1/8 del carbono-14 inicial. Como 1/8 = (1/2)³, transcurrieron exactamente tres vidas medias. Multiplicando, 3 × 5730 = 17 190 años. Conviene seguir la secuencia: tras una vida media queda 1/2, tras dos queda 1/4 y tras tres, 1/8.
+
+Pregunta 3 (Evaluar): En un corte de camino se observan cuatro estratos horizontales no plegados ni invertidos. El estrato 1 está en la base y el 4, en la superficie. Un informe afirma que el fósil del estrato 3 es más antiguo que el del estrato 2. ¿Cómo debe juzgarse esa afirmación?
+A) Correcta, porque los fósiles más profundos corresponden siempre a organismos más simples.
+B) Correcta, porque la posición de un fósil no permite deducir su antigüedad relativa.
+C) Incorrecta, porque la antigüedad solo puede establecerse mediante datación radiométrica.
+D) Incorrecta, porque el estrato 3 se depositó después que el 2 y por eso es más reciente.
+Correcta: D. Por qué: El enunciado declara que los estratos no están plegados ni invertidos, de modo que el principio se aplica sin reservas. El estrato 2 está por debajo del 3, así que se depositó antes: su fósil es el más antiguo de los dos. La afirmación del informe invierte el orden y por eso es incorrecta.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 16: a. Respuesta primaria y respuesta secundaria
+Sección: 6. Vacunas e inmunidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Respuesta primaria y respuesta secundaria». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente Respuesta primaria, Respuesta secundaria, Cómo se pregunta, memoria inmunológica, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Respuesta primaria y respuesta secundaria», dentro de la sección «6. Vacunas e inmunidad» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Respuesta primaria, Respuesta secundaria, Cómo se pregunta, memoria inmunológica.
+
+Ideas guía:
+- La diferencia entre ambas es el fundamento de toda la vacunación.
+- Un gráfico muestra dos picos de anticuerpos frente al tiempo: uno pequeño y tardío, otro alto y rápido.
+- Lo que se pide es identificar cuál corresponde al segundo contacto y explicar por qué.
+- La respuesta es la memoria inmunológica, no que «el cuerpo se acostumbró» ni que «el patógeno se debilitó».
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): ¿Por qué la respuesta primaria tarda varios días en alcanzar su máximo?
+A) Porque el antígeno debe alcanzar todos los tejidos del cuerpo antes de actuar.
+B) Porque hay que seleccionar y multiplicar los linfocitos que reconocen ese antígeno.
+C) Porque los anticuerpos requieren varios días para llegar hasta la sangre.
+D) Porque la primera línea de defensa bloquea al antígeno durante ese tiempo.
+Correcta: B. Por qué: En la respuesta secundaria ese trabajo ya está hecho y por eso resulta mucho más rápida. Las otras alternativas inventan mecanismos que el texto no describe: ni el antígeno necesita recorrer todo el cuerpo, ni los anticuerpos tardan días en circular una vez producidos, ni la primera línea retiene al antígeno durante ese lapso.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere comprobar en un modelo animal que existe memoria inmunológica frente a un antígeno. ¿Qué diseño lo demuestra mejor?
+A) Administrar el antígeno, esperar, administrarlo otra vez y comparar ambas respuestas.
+B) Administrar el antígeno una sola vez y medir la respuesta durante un mes.
+C) Administrar dos antígenos distintos y comparar la respuesta frente a cada uno.
+D) Medir la cantidad de linfocitos totales antes de administrar el antígeno.
+Correcta: A. Por qué: Comparar la primera y la segunda exposición al mismo antígeno es la única manera de mostrarla. Una sola administración no permite comparación, dos antígenos distintos ponen a prueba la especificidad y no la memoria, y un recuento previo de linfocitos no evalúa ninguna respuesta.
+
+Pregunta 3 (Observar y plantear preguntas): Se observa que algunas vacunas requieren una segunda dosis de refuerzo varias semanas después de la primera. ¿Cuál es la pregunta que mejor orienta una investigación sobre esa práctica?
+A) ¿Cuántas dosis de vacuna se distribuyeron en el país durante el año pasado?
+B) ¿Qué precio tiene cada dosis de la vacuna en el sistema público de salud?
+C) ¿Cómo cambia el nivel de anticuerpos tras la segunda dosis respecto de la primera?
+D) ¿En qué laboratorio se fabricó el lote de vacunas que se está administrando?
+Correcta: C. Por qué: La pregunta correcta compara ambos niveles y explica por qué el refuerzo es útil. El número de dosis distribuidas, el precio y el laboratorio fabricante son datos logísticos o económicos que no abordan el fundamento inmunológico de la práctica.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

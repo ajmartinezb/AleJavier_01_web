@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 03: c. Factores de riesgo y prevención
+Sección: 2. Salud y enfermedad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Factores de riesgo y prevención». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente factor de riesgo, Primaria, Secundaria, Terciaria, Riesgo no es causa, sobre-alcance, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Factores de riesgo y prevención», dentro de la sección «2. Salud y enfermedad» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: factor de riesgo, Primaria, Secundaria, Terciaria, Riesgo no es causa, sobre-alcance.
+
+Ideas guía:
+- Un factor de riesgo es una condición que aumenta la probabilidad de desarrollar una enfermedad, sin garantizar que ocurra.
+- Fumar aumenta el riesgo de cáncer pulmonar, pero hay fumadores que no lo desarrollan y no fumadores que sí.
+- La prevención se organiza en tres niveles: Primaria: evitar que la enfermedad aparezca.
+- Vacunación, agua potable, uso de preservativo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un examen de detección aplicado a personas sin síntomas permite encontrar la enfermedad en una etapa temprana. ¿A qué nivel de prevención corresponde?
+A) A la prevención secundaria.
+B) A la prevención primaria.
+C) A la prevención terciaria.
+D) A la rehabilitación funcional.
+Correcta: A. Por qué: La prevención primaria actúa antes de que la enfermedad exista, como la vacunación o el agua potable, y la terciaria busca reducir el daño y las secuelas en quien ya enfermó. La rehabilitación forma parte de ese tercer nivel, de modo que la última alternativa no constituye un nivel distinto.
+
+Pregunta 2 (Evaluar): Un aviso publicitario afirma que quien no fuma no desarrollará cáncer pulmonar. ¿Cuál es la principal limitación de esa afirmación?
+A) Subestima el daño que el tabaco llega a producir en el tejido pulmonar.
+B) Ignora que fumar es en realidad un factor protector frente al cáncer.
+C) Confunde la prevención terciaria con la prevención primaria del cáncer.
+D) Convierte una relación de probabilidad en una certeza absoluta.
+Correcta: D. Por qué: El mensaje es peligroso porque puede llevar a descartar el diagnóstico en personas que nunca fumaron. La segunda alternativa va en sentido contrario al problema señalado, la tercera invierte la relación conocida entre tabaco y cáncer, y la cuarta nombra una confusión distinta que aquí no se comete.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere estimar si un hábito determinado es un factor de riesgo de una enfermedad. ¿Qué diseño resulta más adecuado?
+A) Estudiar solo a las personas que ya presentan la enfermedad y registrar sus hábitos.
+B) Seguir en el tiempo a dos grupos, con y sin el hábito, y comparar la aparición de la enfermedad.
+C) Preguntar a los médicos de un hospital cuál creen ellos que es el principal factor de riesgo implicado.
+D) Medir la frecuencia del hábito en la población general durante un solo año.
+Correcta: B. Por qué: El seguimiento en el tiempo de expuestos y no expuestos permite medir cuánto más frecuente es la enfermedad en un grupo que en el otro. Estudiar solo a los enfermos impide esa comparación, la opinión de los médicos no es evidencia y medir la frecuencia del hábito describe la población sin relacionarla con la enfermedad.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

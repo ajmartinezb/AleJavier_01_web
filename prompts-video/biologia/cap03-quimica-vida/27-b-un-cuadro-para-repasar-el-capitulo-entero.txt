@@ -1,0 +1,39 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 27: b. Un cuadro para repasar el capítulo entero
+Sección: 8. Vitaminas y lo que conviene llevar
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Un cuadro para repasar el capítulo entero». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Carbohidratos, Lípidos, Proteínas, Ácidos nucleicos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Un cuadro para repasar el capítulo entero», dentro de la sección «8. Vitaminas y lo que conviene llevar» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Carbohidratos, Lípidos, Proteínas, Ácidos nucleicos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Comunicar): Para un cuadro resumen hay que indicar el monómero de cada familia orgánica. ¿Cuál de las siguientes filas es correcta?
+A) Carbohidratos: nucleótido.
+B) Ácidos nucleicos: monosacárido.
+C) Proteínas: aminoácido.
+D) Lípidos: ácido graso como monómero repetido.
+Correcta: C. Por qué: Las tres alternativas incorrectas cruzan las categorías o atribuyen a los lípidos un monómero que no tienen. Los lípidos se agrupan por una propiedad física y un triglicérido combina un glicerol con tres ácidos grasos, sin repetir indefinidamente una unidad.
+
+Pregunta 2 (Planificar y conducir una investigación): Se recibe una biomolécula desconocida y se sabe que contiene carbono, hidrógeno, oxígeno, nitrógeno y fósforo. ¿Qué familias quedan como candidatas y qué observación adicional conviene hacer?
+A) Carbohidratos o lípidos: conviene comprobar el número de anillos de carbono.
+B) Proteínas o carbohidratos: conviene comprobar la presencia de azufre.
+C) Solo proteínas: conviene comprobar el número de cadenas presentes.
+D) Ácidos nucleicos o fosfolípidos: conviene comprobar la solubilidad en agua.
+Correcta: D. Por qué: La presencia de fósforo descarta a los carbohidratos, que solo tienen carbono, hidrógeno y oxígeno, y a las proteínas, que llevan nitrógeno y a veces azufre. Entre los dos candidatos restantes, la solubilidad en agua decide, porque el fosfolípido es insoluble y el ácido nucleico no.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo dispone del cuadro resumen de las cuatro familias orgánicas y quiere clasificar una muestra desconocida. ¿Cuál es la primera observación que conviene realizar?
+A) Determinar el peso total de la muestra recibida en el laboratorio.
+B) Determinar qué elementos químicos contiene la muestra.
+C) Determinar el nombre comercial del reactivo empleado en la extracción.
+D) Determinar cuántas personas participaron en la preparación de la muestra.
+Correcta: B. Por qué: Por eso el análisis elemental es el primer paso más informativo: descarta de entrada varias familias. El peso de la muestra, el nombre del reactivo y el número de personas que participaron son datos administrativos o de procedimiento que no clasifican nada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 07: c. Asilomar: la ciencia se pone límites a sí misma
+Sección: 3. Origen e historia de la manipulación genética
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Asilomar: la ciencia se pone límites a sí misma». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente declararon una pausa voluntaria, Lo que muestra Asilomar, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Asilomar: la ciencia se pone límites a sí misma», dentro de la sección «3. Origen e historia de la manipulación genética» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: declararon una pausa voluntaria, Lo que muestra Asilomar.
+
+Ideas guía:
+- Vale la pena detenerse aquí, porque es un episodio que la PAES puede usar como contexto de una pregunta sobre el quehacer científico.
+- Apenas se demostró que se podía mover ADN entre especies, los propios investigadores advirtieron que no sabían qué riesgos implicaba.
+- En vez de seguir, declararon una pausa voluntaria y convocaron una conferencia en Asilomar, California, en febrero de 1975.
+- De allí salieron normas de contención según el riesgo de cada experimento: qué cepas usar, qué condiciones de laboratorio exigir y qué experimentos no hacer por el momento.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): En 1975, los propios investigadores que desarrollaban la tecnología del ADN recombinante propusieron una pausa voluntaria y se reunieron para acordar normas de contención. ¿Qué muestra ese episodio sobre el quehacer científico?
+A) Que la investigación se detiene ante cada técnica nueva.
+B) Que los resultados científicos se validan por acuerdo entre investigadores.
+C) Que la comunidad científica rechazó la tecnología del ADN recombinante.
+D) Que la ciencia incluye decisiones sobre qué investigar y cómo hacerlo.
+Correcta: D. Por qué: Los investigadores no dudaban de que la técnica funcionara; lo que no sabían era qué riesgos implicaba. Detenerse y acordar condiciones fue una decisión sobre el modo de investigar, no sobre la validez de un resultado. Ese es exactamente el componente normativo del quehacer científico.
+
+Pregunta 2 (Procesar y analizar la evidencia): Las normas acordadas en Asilomar fueron voluntarias y no tenían fuerza legal. ¿Qué consecuencia tuvo esa característica?
+A) Impidió que la investigación continuara durante años.
+B) Obligó a que cada país adoptara exactamente las mismas normas de contención.
+C) Hizo necesario que la actividad quedara regulada por el Estado.
+D) Permitió que esos resultados no se publicaran nunca.
+Correcta: C. Por qué: Un acuerdo voluntario obliga solo a quien decide acatarlo. Sirve mientras hay consenso y buena disposición, pero no alcanza a quien no participa ni permite sancionar incumplimientos. Esa limitación es la que explica el paso posterior a marcos legales con organismos encargados de autorizar y fiscalizar.
+
+Pregunta 3 (Comunicar): Un equipo debe exponer el episodio de Asilomar ante un curso, de modo que se entienda por qué se lo considera un caso ejemplar de autorregulación. ¿Qué información resulta imprescindible incluir?
+A) Que la pausa la propusieron los propios investigadores, sin ley previa.
+B) Los nombres de los asistentes a la conferencia.
+C) El presupuesto total que demandó la organización de la conferencia en 1975.
+D) La ciudad y el hotel donde se realizó la reunión.
+Correcta: A. Por qué: Que la exposición se entienda como autorregulación depende de un solo elemento: quién impuso el límite y cuándo. Si fueron los propios investigadores, y sin obligación legal, el episodio ilustra autorregulación. Los nombres, el presupuesto y el lugar son datos de contexto que no cambian el sentido de lo ocurrido.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

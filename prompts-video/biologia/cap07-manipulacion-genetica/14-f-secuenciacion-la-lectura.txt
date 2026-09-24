@@ -1,0 +1,42 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 14: f. Secuenciación: la lectura
+Sección: 4. Las herramientas: cortar, pegar, copiar y leer el ADN
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Secuenciación: la lectura». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente secuenciación: la lectura, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «f. Secuenciación: la lectura», dentro de la sección «4. Las herramientas: cortar, pegar, copiar y leer el ADN» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- Determina el orden exacto de los nucleótidos.
+- Es lo que permite saber si una edición quedó bien hecha, diagnosticar una mutación o comparar especies (capítulo 9).
+- Su costo se ha desplomado: el primer genoma humano tomó unos trece años y miles de millones de dólares, y hoy secuenciar un genoma completo toma días.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Tras editar un gen con CRISPR, un equipo debe comprobar que la corrección quedó exactamente como se buscaba, sin cambios adicionales en esa región. ¿Qué técnica corresponde?
+A) Separar el ADN por electroforesis y verificar que aparece una sola banda.
+B) Secuenciar la región editada y compararla con la secuencia de referencia.
+C) Amplificar la región por PCR y medir la cantidad de producto obtenido.
+D) Cultivar las células en un medio con antibiótico y contar las sobrevivientes.
+Correcta: B. Por qué: La pregunta exige saber qué bases quedaron en esa región, no cuánto ADN hay ni de qué tamaño es. La electroforesis detecta diferencias de tamaño, pero una corrección de una sola base no cambia el tamaño de forma apreciable. Solo leer la secuencia y compararla con la referencia responde.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un informe compara el esfuerzo que demandó leer por primera vez un genoma humano, del orden de una década de trabajo internacional y un presupuesto enorme, con lo que cuesta hoy hacerlo en un laboratorio corriente, del orden de unos pocos días. ¿Qué consecuencia tuvo esa evolución?
+A) Hizo innecesarias la PCR y la electroforesis en los laboratorios actuales.
+B) Demostró que el genoma humano es más pequeño de lo que se estimaba.
+C) Permitió usar la secuenciación de forma rutinaria en diagnóstico.
+D) Eliminó la necesidad de verificar los resultados de una edición genómica.
+Correcta: C. Por qué: Cuando una técnica pasa de costar años y miles de millones a costar días, deja de reservarse para grandes proyectos y se incorpora a la práctica habitual: diagnóstico de enfermedades hereditarias, identificación de patógenos, comparación entre especies. Esa es la consecuencia directa del dato.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo médico observa que dos pacientes con el mismo diagnóstico responden de manera muy distinta a un mismo fármaco, en dosis equivalentes y con edades y pesos similares. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Cuántos pacientes recibieron ese fármaco en el hospital durante el último año?
+B) ¿Qué costo tiene el tratamiento completo para cada uno de los dos pacientes?
+C) ¿Cuántos años de formación tiene el equipo médico que indicó el tratamiento?
+D) ¿Qué diferencias genéticas entre ambos pacientes explican esa respuesta?
+Correcta: D. Por qué: El enunciado descarta explícitamente las explicaciones más obvias al declarar equivalentes la dosis, la edad y el peso. Queda entonces la variabilidad individual, y una parte importante de ella es genética: variantes en las enzimas que metabolizan el fármaco pueden cambiar por completo su efecto. Esa es la pregunta que se desprende.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

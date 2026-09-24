@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 32: d. Cuatro malentendidos que hay que desarmar
+Sección: 7. La teoría de la selección natural de Darwin y Wallace
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Cuatro malentendidos que hay que desarmar». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente mutación, selecciona, no se hereda, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Cuatro malentendidos que hay que desarmar», dentro de la sección «7. La teoría de la selección natural de Darwin y Wallace» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: mutación, selecciona, no se hereda.
+
+Ideas guía:
+- La selección natural no crea las variantes.
+- Las crea la mutación, al azar y antes de que exista la presión.
+- La selección solo actúa sobre lo que ya está.
+- Un antibiótico no genera bacterias resistentes: selecciona las que ya lo eran.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un titular de prensa anuncia: «Una bacteria crea resistencia frente al nuevo antibiótico». ¿Qué corrección corresponde hacer a esa formulación?
+A) El antibiótico induce en las bacterias las mutaciones que originan la resistencia.
+B) Las bacterias resistentes aparecen solo cuando el tratamiento se aplica por completo.
+C) El antibiótico selecciona variantes resistentes que ya existían por mutación previa.
+D) Las bacterias no pueden heredar la resistencia, porque no se reproducen sexualmente.
+Correcta: C. Por qué: El titular sugiere que la bacteria genera la resistencia cuando la necesita. Lo que ocurre es lo contrario: en la población ya había variantes resistentes por mutaciones previas, y el antibiótico elimina a las sensibles, dejando que las resistentes se multipliquen. La resistencia no se crea durante el tratamiento: se hace frecuente.
+
+Pregunta 2 (Procesar y analizar la evidencia): En una especie de pez, los individuos de mayor tamaño tienen ventaja en un lago con depredadores grandes, pero desventaja en un arroyo somero donde son más visibles para las aves. ¿Qué muestra esta situación?
+A) Que el tamaño grande es una característica más evolucionada que el tamaño pequeño.
+B) Que la ventaja de una variante depende del ambiente en que se encuentre la población.
+C) Que la selección natural dejó de actuar en uno de los dos ambientes descritos.
+D) Que los peces modifican su tamaño según el ambiente al que son trasladados.
+Correcta: B. Por qué: El mismo rasgo, el tamaño grande, tiene efectos opuestos según el ambiente: protege frente a depredadores acuáticos grandes y expone frente a aves en agua somera. Por lo tanto, no existe un tamaño mejor en abstracto; la dirección de la selección depende de dónde viva la población.
+
+Pregunta 3 (Planificar y conducir una investigación): Para demostrar que las variantes resistentes a un antibiótico existen antes de la exposición, un equipo dispone de un cultivo bacteriano. ¿Qué procedimiento aporta esa evidencia?
+A) Dividir el cultivo, exponer solo una parte y buscar la variante en la parte no expuesta.
+B) Exponer el cultivo al antibiótico y contar cuántas colonias logran sobrevivir.
+C) Aumentar progresivamente la dosis del antibiótico y registrar la supervivencia.
+D) Cultivar las bacterias sin antibiótico y medir su velocidad de crecimiento.
+Correcta: A. Por qué: Si la variante ya existía, debe estar presente también en la fracción del cultivo que nunca recibió antibiótico. Dividir el cultivo permite usar una parte como registro del estado previo y otra para aplicar la presión. Encontrar la variante en la parte no expuesta demuestra que su origen es independiente del antibiótico.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

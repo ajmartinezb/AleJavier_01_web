@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 12: d. La propagación y la conducción saltatoria
+Sección: 4. El impulso nervioso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «La propagación y la conducción saltatoria». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente se regenera, sin, con, Dónde se regenera, nodos de Ranvier, Cómo avanza, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. La propagación y la conducción saltatoria», dentro de la sección «4. El impulso nervioso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: se regenera, sin, con, Dónde se regenera, nodos de Ranvier, Cómo avanza.
+
+Ideas guía:
+- El potencial de acción no se desplaza como una onda que se debilita: se regenera en cada punto, de modo que llega al final del axón con la misma amplitud con que empezó.
+- Cómo se regenera depende de la mielina: Dos preguntas que se repiten.
+- Primera: si se daña la mielina, ¿qué ocurre?
+- La conducción se enlentece o se bloquea, aunque la neurona esté viva.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se registra la amplitud del potencial de acción en tres puntos de un mismo axón, separados por 1 cm: 100 mV, 100 mV y 100 mV. ¿Qué propiedad de la propagación muestran esos datos?
+A) Que el potencial de acción se atenúa con la distancia recorrida.
+B) Que la señal se regenera en cada tramo y viaja sin atenuarse.
+C) Que la velocidad de conducción aumenta a lo largo del axón.
+D) Que el axón conduce el impulso en ambos sentidos a la vez.
+Correcta: B. Por qué: Las tres mediciones son idénticas a lo largo de 2 cm, así que la amplitud no depende de la distancia: eso es lo que significa que la señal se regenere en lugar de decaer, a diferencia de una corriente pasiva. Los datos son de amplitud y no informan sobre velocidad ni sobre el sentido de la propagación.
+
+Pregunta 2 (Evaluar): Un estudiante sostiene que, en un axón mielinizado, el potencial de acción «desaparece en los segmentos con mielina y reaparece en los nodos, como si se teletransportara». ¿Cuál es la precisión necesaria?
+A) La corriente fluye por el citoplasma bajo la mielina y regenera el potencial en el nodo siguiente.
+B) El potencial de acción efectivamente desaparece y vuelve a crearse sin ninguna conexión entre nodos.
+C) En los segmentos con mielina el potencial de acción se conduce más lento que en los nodos.
+D) La mielina genera su propio potencial de acción, distinto del de la membrana axonal.
+Correcta: A. Por qué: La metáfora del salto es útil, pero no debe entenderse como una discontinuidad física: hay una corriente continua por el citoplasma que conecta un nodo con el siguiente. El potencial de acción como tal solo se regenera en los nodos, porque allí están los canales, pero nada ocurre sin conexión eléctrica entre ellos.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que los nodos de Ranvier son los puntos donde se regenera el potencial de acción. ¿Cuál es el registro más informativo?
+A) Registrar el potencial únicamente en el terminal presináptico del axón estudiado.
+B) Medir la longitud de cada segmento mielinizado con un microscopio calibrado.
+C) Registrar el potencial en un axón sin mielina y compararlo con el valor teórico.
+D) Registrar el potencial dentro y fuera de los nodos del mismo axón.
+Correcta: D. Por qué: La afirmación es sobre la localización del fenómeno, de modo que hay que registrar en distintas posiciones a lo largo del axón y comparar qué se observa en los nodos y entre ellos. Medir solo el terminal, o medir longitudes, o trabajar con un axón sin mielina no permite localizar nada dentro de una fibra mielinizada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 08: ii. Planteamiento del problema o pregunta de investigación
+Sección: 3. Etapas de una investigación científica
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Planteamiento del problema o pregunta de investigación». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente En la PAES, exactamente, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «ii. Planteamiento del problema o pregunta de investigación», dentro de la sección «3. Etapas de una investigación científica» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: En la PAES, exactamente.
+
+Ideas guía:
+- La observación se transforma en una pregunta que se pueda responder con evidencia.
+- Una buena pregunta de investigación: es precisa; relaciona variables que se pueden medir; se puede responder con una investigación (no es una pregunta de opinión ni de valores).
+- En la PAES: cuando te piden «¿qué pregunta pudo guiar esta investigación?», busca la alternativa que relaciona exactamente las dos variables del experimento (la que se manipuló y la que se midió).
+- Descarta las preguntas demasiado amplias o que mencionan variables que no se estudiaron.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Unos estudiantes colocaron ramas de la planta acuática Elodea en tubos con agua a 20 °C, cada uno a 10, 20, 30 o 40 cm de una lámpara. Durante cinco minutos contaron las burbujas de gas que liberaba cada rama. ¿Qué pregunta de investigación pudo guiar este trabajo?
+A) ¿Cómo influye la temperatura del agua en las burbujas que libera la Elodea?
+B) ¿Cómo influye la luz en el crecimiento de todas las plantas acuáticas?
+C) ¿Cómo influye la distancia a la lámpara en las burbujas que libera Elodea?
+D) ¿Cómo influye el número de burbujas en la distancia de la lámpara?
+Correcta: C. Por qué: Primero se identifica qué se cambió: la distancia de cada tubo a la lámpara (10, 20, 30 y 40 cm). Luego qué se midió: el número de burbujas liberadas en cinco minutos. La temperatura se mantuvo en 20 °C, así que no se estudió. La pregunta correcta vincula la distancia a la lámpara con las burbujas, en ese sentido causal, y se limita a Elodea.
+
+Pregunta 2 (Observar y plantear preguntas): Un grupo de estudiantes de biología prepara una salida a terreno y propone varias preguntas relacionadas con la evolución de las aves. ¿Cuál de ellas se puede responder mediante una investigación científica?
+A) ¿Es correcto modificar genéticamente a las aves de granja?
+B) ¿Cuál es la especie de ave más hermosa de las islas Galápagos?
+C) ¿Por qué la evolución es el tema más importante de toda la biología?
+D) ¿Difiere el largo del pico entre pinzones de dos islas distintas?
+Correcta: D. Por qué: Se analiza si cada pregunta puede contestarse midiendo algo. La pregunta sobre el pico permite medir con un pie de metro el largo del pico de pinzones en dos islas y comparar los promedios: es investigable. Preguntar si algo es «correcto» plantea un problema ético; «más hermosa» depende del gusto; y «el tema más importante» es una valoración que ningún dato puede resolver.
+
+Pregunta 3 (Planificar y conducir una investigación): Una agrónoma quiere responder la pregunta: «¿Cómo afecta la concentración de sal del agua de riego al porcentaje de germinación de semillas de quínoa?». ¿Cuál de los siguientes procedimientos permite responderla?
+A) Regar semillas de quínoa con agua con 0, 5, 10 y 15 g/L de sal y contar germinadas.
+B) Regar semillas de quínoa con agua sin sal a 10, 15, 20 y 25 °C y contar las semillas germinadas.
+C) Regar semillas de quínoa, trigo y maíz con agua con sal y contar las germinadas.
+D) Regar semillas de quínoa con agua con 10 g/L de sal y medir la altura de las plántulas.
+Correcta: A. Por qué: La pregunta tiene dos variables: la concentración de sal (la que se debe hacer variar) y el porcentaje de germinación (la que se debe medir), en semillas de quínoa. Solo el procedimiento que usa varias concentraciones de sal y cuenta las semillas germinadas cumple ambas condiciones. Cambiar la temperatura, comparar especies o usar una sola concentración no permite ver cómo cambia la germinación con la sal.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

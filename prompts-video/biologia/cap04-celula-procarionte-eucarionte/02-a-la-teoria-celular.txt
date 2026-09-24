@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 02: a. La teoría celular
+Sección: 2. La teoría celular y cómo se estudian las células
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «La teoría celular». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente estructural, origen, inducción, teoría, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. La teoría celular», dentro de la sección «2. La teoría celular y cómo se estudian las células» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: estructural, origen, inducción, teoría.
+
+Ideas guía:
+- La teoría celular es una de las ideas más importantes de la biología.
+- Se construyó con aportes de varios investigadores: Hoy la teoría celular se resume en tres postulados: Todos los seres vivos están formados por una o más células.
+- La célula es la unidad funcional: en ella ocurren las reacciones que mantienen la vida.
+- Toda célula proviene de otra célula preexistente.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): En 1665, Robert Hooke describió pequeñas celdas en láminas de corcho y las llamó «células». Un estudiante afirma: «Hooke demostró que todos los seres vivos están formados por células». ¿Qué evaluación de esta afirmación es correcta?
+A) Es correcta, porque el corcho proviene de un ser vivo.
+B) Es incorrecta, porque observó una sola muestra de tejido muerto.
+C) Es correcta, porque fue quien acuñó el término «célula».
+D) Es incorrecta, porque Hooke nunca usó un microscopio.
+Correcta: B. Por qué: Hooke vio paredes de células muertas en un solo material. Pasar de ahí a «todos los seres vivos» es un salto enorme: una generalización exige muchas observaciones en organismos distintos. Esa generalización llegó casi dos siglos después con Schleiden y Schwann. Por eso la afirmación es incorrecta por sobre-alcance.
+
+Pregunta 2 (Observar y plantear preguntas): Leeuwenhoek observó en gotas de agua de lluvia estancada numerosos «animálculos» que se movían, mientras que en agua recién hervida no vio ninguno. ¿Qué pregunta investigable se desprende de esta observación?
+A) ¿Por qué Leeuwenhoek pulía sus propias lentes?
+B) ¿Qué color tiene el agua de lluvia estancada?
+C) ¿Cuántos años tenía Leeuwenhoek en su hallazgo?
+D) ¿Destruye el hervor a los microorganismos del agua?
+Correcta: D. Por qué: La observación contrasta dos condiciones: agua estancada, con organismos, y agua hervida, sin ellos. La diferencia entre ambas es el hervor. Una pregunta investigable lógica es si el calor elimina esos organismos; se podría probar hirviendo agua estancada y observándola. Las demás opciones no surgen de la comparación.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se cultivan levaduras en un medio estéril. Al inicio hay 100 células; a las 2 horas hay 200 y a las 4 horas, 400. Al microscopio se ven células con yemas que se separan de la célula madre, y nunca aparecen células en frascos con medio estéril sin levaduras. ¿Qué postulado de la teoría celular respaldan directamente estos datos?
+A) La célula es la unidad estructural de los seres vivos.
+B) La célula es la unidad funcional de los seres vivos.
+C) Toda célula proviene de otra célula preexistente.
+D) Todos los organismos están formados por muchas células.
+Correcta: C. Por qué: Los datos muestran que el número se duplica cada 2 horas (100, 200, 400), que las nuevas células salen como yemas de células madre y que en el control sin levaduras no aparece ninguna. Juntos indican que las células nuevas solo se forman a partir de células existentes. Eso es el postulado de origen.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

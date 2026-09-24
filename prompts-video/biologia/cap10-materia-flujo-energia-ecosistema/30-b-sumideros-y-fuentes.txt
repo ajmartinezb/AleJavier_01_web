@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 30: b. Sumideros y fuentes
+Sección: 9. El ciclo del carbono y el ecosistema chileno
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Sumideros y fuentes». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente sumidero, fuente, océano, surgencia, acidifica, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Sumideros y fuentes», dentro de la sección «9. El ciclo del carbono y el ecosistema chileno» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: sumidero, fuente, océano, surgencia, acidifica.
+
+Ideas guía:
+- Un sumidero de carbono es un sistema que capta más CO2 del que emite; una fuente, uno que emite más del que capta.
+- Un bosque en crecimiento es un sumidero, porque acumula carbono en su madera y en su suelo.
+- Un bosque quemado es, en cambio, una fuente: libera de golpe el carbono que había acumulado durante décadas.
+- En Chile esto tiene una dimensión concreta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Se quiere determinar si un bosque está actuando como sumidero o como fuente de carbono durante un año. ¿Qué información se necesita?
+A) El número de especies arbóreas presentes en el bosque estudiado.
+B) La altura promedio de los árboles al comienzo del período.
+C) La cantidad de visitantes que recorren el bosque durante el año.
+D) El carbono que el bosque capta y el que emite en ese mismo período.
+Correcta: D. Por qué: Un balance exige conocer las dos direcciones del flujo en el mismo período: lo que entra por fotosíntesis y crecimiento, y lo que sale por respiración, descomposición o incendios. La riqueza de especies, la altura de los árboles y la afluencia de visitantes describen el bosque, pero no permiten calcular ese balance.
+
+Pregunta 2 (Procesar y analizar la evidencia): Frente a la costa de Chile, la surgencia trae nutrientes desde el fondo hacia la zona iluminada. ¿Qué consecuencia tiene ese fenómeno para el ecosistema marino?
+A) Disminuye la productividad primaria, porque el agua profunda es más fría.
+B) Impide la fotosíntesis, porque los nutrientes bloquean el paso de la luz.
+C) Aumenta la productividad primaria del fitoplancton y sostiene la pesquería.
+D) Convierte al fitoplancton en un organismo heterótrofo temporalmente.
+Correcta: C. Por qué: El fitoplancton necesita luz y nutrientes al mismo tiempo, y en el océano abierto suelen estar separados: la luz arriba y los nutrientes abajo. La surgencia los reúne, y por eso la productividad primaria se dispara. Esa producción sostiene después a todos los niveles tróficos siguientes.
+
+Pregunta 3 (Evaluar): Se afirma que «como el océano absorbe CO₂, cuanto más CO₂ emitamos mejor será para los organismos marinos». ¿Cuál es la objeción mejor fundamentada?
+A) Es incorrecta: el CO₂ disuelto acidifica el agua del mar.
+B) Es correcta, porque el CO₂ disuelto favorece a todos los organismos del mar.
+C) Es incorrecta, porque el océano no absorbe CO₂ de la atmósfera terrestre.
+D) Es incorrecta, porque el CO₂ disuelto impide la fotosíntesis del fitoplancton.
+Correcta: A. Por qué: Es cierto que el océano actúa como sumidero, y esa es la parte verdadera del argumento. Lo que omite es el costo químico: un agua más ácida disuelve el carbonato y perjudica a corales, moluscos y a parte del plancton calcáreo, que son la base de cadenas tróficas completas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 07: a. Estructuras de la célula procarionte
+Sección: 3. La célula procarionte
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Estructuras de la célula procarionte». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente Cápsula, Pared celular, peptidoglicano, Membrana plasmática, Citoplasma, Nucleoide, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Estructuras de la célula procarionte», dentro de la sección «3. La célula procarionte» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Cápsula, Pared celular, peptidoglicano, Membrana plasmática, Citoplasma, Nucleoide.
+
+Ideas guía:
+- Los procariontes sí tienen ribosomas; lo que no tienen son organelos membranosos.
+- Los procariontes sí tienen ADN, pero no dentro de un núcleo.
+- El flagelo bacteriano no tiene la estructura 9 + 2 de microtúbulos del flagelo eucarionte.
+- Es otra proteína (flagelina) y funciona girando, no ondulando.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un grupo quiere saber si la cápsula protege a una bacteria de ser fagocitada por macrófagos. Dispone de una cepa con cápsula y de una cepa mutante idéntica, pero sin cápsula. ¿Qué diseño permite responder esa pregunta?
+A) Poner la cepa con cápsula junto a macrófagos y contar las bacterias ingeridas en el tiempo.
+B) Poner cada cepa por separado con la misma cantidad de macrófagos y comparar las bacterias ingeridas.
+C) Poner la cepa sin cápsula en dos medios de cultivo distintos y comparar su crecimiento.
+D) Poner ambas cepas sin macrófagos y medir cuánto tardan en dividirse a igual temperatura.
+Correcta: B. Por qué: La variable independiente es la presencia de cápsula, y la dependiente es cuántas bacterias son ingeridas. Hace falta comparar ambas cepas en las mismas condiciones, con igual número de macrófagos. Si se ingieren menos bacterias encapsuladas, la cápsula protege. Solo el diseño B cumple ambas condiciones.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se cultivan dos cepas de una misma bacteria en un medio con el antibiótico tetraciclina. La cepa 1 posee un plásmido con un gen de resistencia; la cepa 2 no tiene plásmidos. Tras 24 h, la cepa 1 alcanza 10⁸ células/mL y la cepa 2 no crece. Luego se mezclan ambas cepas sin antibiótico durante 2 h y, al pasarlas a un medio con tetraciclina, aparecen colonias de la cepa 2. ¿Cuál es la explicación más coherente con estos resultados?
+A) La cepa 2 recibió el plásmido de resistencia desde la cepa 1 durante el contacto.
+B) La tetraciclina perdió su efecto al estar en contacto con la cepa 1 durante las 2 h de mezcla.
+C) La cepa 2 incorporó el cromosoma completo de la cepa 1 a través de su flagelo.
+D) La cepa 1 cambió su identidad y pasó a ser la cepa 2 al mezclarse en el cultivo.
+Correcta: A. Por qué: Antes de la mezcla, solo la cepa con el plásmido resiste. Después del contacto, la cepa 2 crece con el antibiótico, así que ganó la resistencia. Lo que se transfiere con facilidad entre bacterias es el plásmido, no el cromosoma completo. La explicación coherente es la conjugación.
+
+Pregunta 3 (Observar y plantear preguntas): Al observar un video de bacterias en movimiento, un estudiante nota que algunas avanzan en línea recta, se detienen, giran sobre sí mismas y cambian de dirección. Sabe que el flagelo bacteriano rota impulsado por un motor ubicado en la membrana. ¿Cuál de las siguientes preguntas puede responderse con una investigación a partir de lo observado?
+A) ¿Por qué las bacterias prefieren nadar en línea recta y no en círculos?
+B) ¿Es el flagelo bacteriano más importante que la cápsula para la bacteria?
+C) ¿Cambia la frecuencia de los giros si se agrega azúcar a un solo lado del medio?
+D) ¿Sería mejor para las bacterias tener un flagelo como el de los eucariontes?
+Correcta: C. Por qué: Una pregunta investigable relaciona una variable manipulable con una medible. En C se manipula la presencia de azúcar y se mide la frecuencia de los giros. Las otras preguntas se refieren a preferencias, importancia o conveniencia: son juicios que no pueden medirse con un experimento directo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

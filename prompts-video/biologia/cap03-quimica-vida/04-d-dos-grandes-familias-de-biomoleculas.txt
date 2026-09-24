@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 04: d. Dos grandes familias de biomoléculas
+Sección: 2. Bioelementos y enlaces
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Dos grandes familias de biomoléculas». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Inorgánicas, Orgánicas, polímeros, monómeros, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Dos grandes familias de biomoléculas», dentro de la sección «2. Bioelementos y enlaces» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Inorgánicas, Orgánicas, polímeros, monómeros.
+
+Ideas guía:
+- No están construidas sobre esqueletos de carbono.
+- Orgánicas: carbohidratos, lípidos, proteínas y ácidos nucleicos.
+- Tres de las cuatro familias orgánicas son polímeros: se construyen uniendo muchas unidades pequeñas, los monómeros.
+- Los lípidos son la excepción, porque no se forman por repetición de una unidad.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un texto clasifica las biomoléculas en inorgánicas y orgánicas. ¿Cuál es el criterio de esa clasificación?
+A) Estar o no disueltas en el agua del citoplasma celular.
+B) Provenir o no de la alimentación del organismo.
+C) Tener o no una masa molecular superior a mil unidades.
+D) Estar o no construidas sobre un esqueleto de carbono.
+Correcta: D. Por qué: El criterio es estructural. Las sales minerales están disueltas en el citoplasma igual que la glucosa, de modo que la solubilidad no separa los grupos. El origen alimentario tampoco sirve, porque ambos tipos se obtienen de la dieta, y la masa molecular varía enormemente dentro de cada grupo.
+
+Pregunta 2 (Comunicar): Para un esquema de resumen hay que indicar cuál de las cuatro familias orgánicas no se construye repitiendo un monómero. ¿Cuál corresponde señalar?
+A) Las proteínas.
+B) Los lípidos.
+C) Los carbohidratos.
+D) Los ácidos nucleicos.
+Correcta: B. Por qué: Las proteínas repiten aminoácidos, los carbohidratos repiten monosacáridos y los ácidos nucleicos repiten nucleótidos. Un triglicérido, en cambio, combina un glicerol con tres ácidos grasos, y un esteroide ni siquiera tiene esa estructura: los lípidos se agrupan por una propiedad física, la insolubilidad en agua, y no por una composición común.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo obtiene un extracto celular y quiere determinar a qué familia de biomoléculas pertenece el compuesto mayoritario. ¿Cuál es la primera observación que conviene realizar?
+A) Medir la masa total del extracto obtenido a partir de las células estudiadas.
+B) Registrar el olor característico que despide el extracto una vez bien seco.
+C) Determinar si el compuesto se disuelve en agua o en un disolvente apolar.
+D) Anotar la cantidad exacta de células que se emplearon para preparar el extracto.
+Correcta: C. Por qué: Una prueba de solubilidad separa de entrada los lípidos de las otras tres familias, que sí interactúan bien con el agua, y por eso es el primer paso más informativo. La masa del extracto y el número de células empleadas son datos de rendimiento del procedimiento, y el olor no permite ninguna clasificación fiable.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

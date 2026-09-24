@@ -1,0 +1,42 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 36: a. Los riesgos que se discuten, y qué dice la evidencia
+Sección: 9. Bioética, bioseguridad y regulación
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Los riesgos que se discuten, y qué dice la evidencia». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente Seguridad alimentaria, Flujo de genes, real y documentado, Resistencia de las plagas, Pérdida de biodiversidad agrícola, anterior, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Los riesgos que se discuten, y qué dice la evidencia», dentro de la sección «9. Bioética, bioseguridad y regulación» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Seguridad alimentaria, Flujo de genes, real y documentado, Resistencia de las plagas, Pérdida de biodiversidad agrícola, anterior.
+
+Ideas guía:
+- Una alternativa que generaliza sobre todos los OGM suele ser incorrecta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Tras varias temporadas de cultivo Bt continuo, una población de la plaga deja de verse afectada por la toxina. ¿Qué explica este resultado?
+A) La presión de selección favoreció a los individuos que ya portaban variantes resistentes.
+B) La toxina Bt perdió su actividad al degradarse dentro de las plantas del cultivo.
+C) Las larvas se acostumbraron progresivamente a la presencia de la toxina en su dieta.
+D) La planta dejó de producir la proteína por agotamiento del gen introducido.
+Correcta: A. Por qué: Las variantes resistentes surgen por mutaciones al azar, antes e independientemente del cultivo Bt. Al sembrar Bt de forma continua, toda la población queda bajo la misma presión y solo esas variantes dejan descendencia, de modo que su frecuencia aumenta. Es el mismo mecanismo del capítulo 9.
+
+Pregunta 2 (Planificar y conducir una investigación): Para retrasar la aparición de resistencia a la toxina Bt se destinan parcelas sin Bt, llamadas refugios. ¿Qué fundamento tiene esta medida?
+A) En los refugios se aplican insecticidas que eliminan a los individuos resistentes.
+B) En los refugios se impide la aparición de nuevas mutaciones en la plaga.
+C) En los refugios la toxina Bt se degrada y pierde su efecto sobre las larvas.
+D) En los refugios sobreviven insectos sensibles que se cruzan con los resistentes.
+Correcta: D. Por qué: Si toda la superficie fuera Bt, solo los resistentes dejarían descendencia y la resistencia se fijaría rápido. El refugio mantiene una población de individuos sensibles que se cruzan con los resistentes, de modo que buena parte de la descendencia vuelve a ser sensible. Eso mantiene baja la frecuencia del alelo de resistencia.
+
+Pregunta 3 (Evaluar): Un informe sostiene que la pérdida de variedades locales de cultivo es «una consecuencia exclusiva de los transgénicos». ¿Qué corresponde objetar?
+A) Es un problema inexistente: la diversidad de variedades ha aumentado sostenidamente.
+B) Es un problema real, pero anterior a los transgénicos: proviene de la agricultura industrial.
+C) Es un problema real, pero afecta solo a los cultivos destinados a la exportación.
+D) Es un problema real, pero no tiene relación alguna con la actividad agrícola.
+Correcta: B. Por qué: La sustitución de variedades locales por unas pocas comerciales de alto rendimiento comenzó décadas antes de que existiera la transgénesis, con la mecanización y la estandarización de la agricultura. Los cultivos transgénicos se insertan en ese modelo y pueden acentuarlo, pero no lo originaron.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

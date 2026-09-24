@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 22: c. Monosináptico y polisináptico
+Sección: 6. El arco reflejo simple
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Monosináptico y polisináptico». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Neuronas involucradas, Velocidad, monosináptico, polisináptico, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Monosináptico y polisináptico», dentro de la sección «6. El arco reflejo simple» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Neuronas involucradas, Velocidad, monosináptico, polisináptico.
+
+Ideas guía:
+- Cuenta las sinapsis dentro del centro integrador, no las neuronas del dibujo.
+- Si la neurona sensitiva contacta directamente con la motora, es monosináptico.
+- Si hay al menos una interneurona en medio, es polisináptico.
+- El reflejo rotuliano es el ejemplo clásico de monosináptico, y por eso es el más rápido del cuerpo humano.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Al pisar un objeto punzante, una persona flexiona la pierna afectada y simultáneamente extiende la otra para no caer. ¿Qué indica esa coordinación sobre el circuito implicado?
+A) Que se trata de un reflejo monosináptico, con una sola sinapsis en la médula.
+B) Que es polisináptico, con interneuronas que coordinan varios músculos.
+C) Que la respuesta fue decidida voluntariamente en la corteza cerebral.
+D) Que el circuito no incluye ninguna neurona motora en su recorrido.
+Correcta: B. Por qué: La respuesta descrita afecta a las dos piernas y con signos opuestos: flexión en una y extensión en otra. Coordinar efectos distintos en músculos distintos exige interneuronas que distribuyan la señal, es decir, un circuito polisináptico. Un arco con una sola sinapsis no podría producir esa combinación.
+
+Pregunta 2 (Comunicar): En una tabla comparativa hay que completar la casilla «número de sinapsis en la médula» para el reflejo rotuliano y para el reflejo de retirada. ¿Cuál es el par correcto?
+A) Reflejo rotuliano: ninguna; reflejo de retirada: una.
+B) Reflejo rotuliano: más de una; reflejo de retirada: una.
+C) Reflejo rotuliano: una; reflejo de retirada: más de una.
+D) Reflejo rotuliano: más de una; reflejo de retirada: ninguna.
+Correcta: C. Por qué: El reflejo rotuliano se describe como monosináptico justamente porque tiene una sola sinapsis medular. El de retirada coordina varios músculos y, por lo tanto, incorpora al menos una interneurona, con lo que suma más de una sinapsis. Ningún reflejo puede tener cero sinapsis, porque la neurona sensitiva y la motora son células distintas.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere clasificar un reflejo desconocido como monosináptico o polisináptico. ¿Qué medición aporta la mejor evidencia?
+A) La fuerza máxima de la contracción muscular provocada por el reflejo.
+B) El diámetro del nervio que conduce la información sensitiva hacia la médula.
+C) La temperatura corporal de la persona registrada al momento de la medición.
+D) El retardo entre estímulo y respuesta, frente a un reflejo monosináptico.
+Correcta: D. Por qué: El retardo total es la variable que cambia con el número de sinapsis, así que compararlo con un reflejo monosináptico conocido del mismo recorrido permite decidir. Un retardo claramente mayor indica relevos adicionales. La fuerza de la contracción, el diámetro del nervio y la temperatura no distinguen entre los dos tipos de circuito.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

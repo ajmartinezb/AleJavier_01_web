@@ -1,0 +1,42 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 37: c. Neurona: especialista en comunicar
+Sección: 10. Relación entre estructura y función: cuatro tipos celulares
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Neurona: especialista en comunicar». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente impulsos nerviosos, Dendritas, recibir, Soma, Integra, RER muy abundante, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Neurona: especialista en comunicar», dentro de la sección «10. Relación entre estructura y función: cuatro tipos celulares» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: impulsos nerviosos, Dendritas, recibir, Soma, Integra, RER muy abundante.
+
+Ideas guía:
+- Las neuronas reciben estímulos, los integran y transmiten impulsos nerviosos a otras células (capítulo 11).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un grupo de investigación quiere determinar si los microtúbulos del axón son necesarios para llevar vesículas desde el soma hasta los terminales. Dispone de una droga que despolimeriza microtúbulos y de un marcador fluorescente para vesículas. ¿Qué medición es la más adecuada como variable dependiente?
+A) El largo total del axón de las neuronas tratadas y sin tratar.
+B) La cantidad de vesículas marcadas en los terminales.
+C) El número de dendritas del soma en las neuronas tratadas.
+D) La cantidad de mielina que rodea al axón de cada neurona.
+Correcta: B. Por qué: La variable independiente es la presencia de la droga que desarma los microtúbulos. La pregunta se refiere al transporte de vesículas, así que lo que hay que medir es cuántas vesículas marcadas alcanzan los terminales. Si la cantidad disminuye en las neuronas tratadas, se apoya la idea de que los microtúbulos son necesarios. El largo del axón, las dendritas y la mielina no miden el transporte.
+
+Pregunta 2 (Observar y plantear preguntas): Al teñir el soma de neuronas motoras, una estudiante observa gránulos oscuros muy abundantes (cuerpos de Nissl), que corresponden a RER. En cambio, en el axón esos gránulos no aparecen. ¿Cuál es la pregunta de investigación que se desprende de esta observación?
+A) ¿Cuántas neuronas motoras hay en la médula espinal de un mamífero?
+B) ¿Cómo se forma la vaina de mielina que rodea a los axones motores?
+C) ¿De dónde obtiene el axón las proteínas si no posee RER propio?
+D) ¿Qué neurotransmisor liberan las neuronas en la unión con el músculo?
+Correcta: C. Por qué: La observación muestra un contraste: el RER está en el soma, pero falta en el axón. Si el axón no tiene donde fabricar muchas proteínas, surge la duda de cómo las obtiene. Esta pregunta sigue directamente de lo observado y puede investigarse, por ejemplo, marcando proteínas en el soma y siguiendo su recorrido. Las demás preguntas son de neurobiología, pero no nacen del contraste observado.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se contó el número promedio de mitocondrias por µm3 en tres regiones de una neurona: dendritas, 0,4; zona media del axón, 0,2; terminales axónicos, 1,5. Además, se sabe que la liberación de neurotransmisores por exocitosis consume gran cantidad de ATP. ¿Qué conclusión es coherente con estos datos?
+A) La zona media del axón es la región de mayor gasto energético.
+B) Las dendritas liberan más neurotransmisores que los terminales.
+C) Las mitocondrias se distribuyen de manera homogénea en la célula.
+D) Las mitocondrias se concentran donde ocurre la exocitosis.
+Correcta: D. Por qué: Los terminales tienen 1,5 mitocondrias por µm3, casi cuatro veces más que las dendritas (0,4) y siete veces más que la zona media del axón (0,2). La distribución, por lo tanto, no es homogénea. El enunciado indica que la exocitosis gasta mucho ATP y esta ocurre en los terminales. La conclusión coherente es que las mitocondrias se concentran en la región donde se liberan neurotransmisores.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

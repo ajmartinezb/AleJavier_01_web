@@ -1,0 +1,47 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 19: d. Réplicas y tamaño de la muestra
+Sección: 4. Diseño experimental: variables y grupos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Réplicas y tamaño de la muestra». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente varios individuos por grupo, repite el experimento, confiables, 
+-, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Réplicas y tamaño de la muestra», dentro de la sección «4. Diseño experimental: variables y grupos» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: varios individuos por grupo, repite el experimento, confiables, 
+-.
+
+Ideas guía:
+- Las diferencias entre dos plantas pueden deberse al azar: una semilla más vigorosa, una maceta mejor ubicada.
+- Por eso: se usan varios individuos por grupo (tamaño de muestra mayor), y.
+- Así los resultados son más confiables, porque el efecto del azar se diluye al promediar muchos datos.
+- Errores de diseño que la PAES pide detectar.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un estudiante quiere saber si la radiación ultravioleta aumenta las mutaciones en levaduras. Expone una placa con levaduras a luz UV y deja otra sin exponer. Observa 5 colonias mutantes en la placa expuesta y 3 en la no expuesta, y concluye que la radiación UV aumenta las mutaciones. ¿Cuál es la principal limitación de su conclusión?
+A) Usó una placa por grupo y la diferencia puede ser azar.
+B) La radiación UV es un agente que no produce cambios en el ADN.
+C) Debió exponer ambas placas a la luz UV para compararlas.
+D) Las levaduras son organismos que no presentan mutaciones.
+Correcta: A. Por qué: Paso 1: hay una sola placa por grupo. Paso 2: la diferencia es de apenas dos colonias (5 frente a 3), que puede aparecer por azar entre dos placas cualesquiera. Paso 3: sin réplicas no se sabe si la diferencia se repite. La conclusión es poco confiable por el tamaño de la muestra.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se midió el tiempo de coagulación de la sangre, en minutos, en tres réplicas de dos grupos de conejos. Grupo sin anticoagulante: 6, 7 y 8 min. Grupo con anticoagulante: 11, 12 y 13 min. ¿Cuál es la diferencia entre los promedios de ambos grupos?
+A) 4 minutos
+B) 5 minutos
+C) 6 minutos
+D) 7 minutos
+Correcta: B. Por qué: Paso 1: promedio sin anticoagulante = (6 + 7 + 8) / 3 = 21 / 3 = 7 min. Paso 2: promedio con anticoagulante = (11 + 12 + 13) / 3 = 36 / 3 = 12 min. Paso 3: diferencia = 12 − 7 = 5 min. El anticoagulante alarga la coagulación en 5 minutos en promedio.
+
+Pregunta 3 (Planificar y conducir una investigación): Un grupo de estudiantes quiere saber si la luz influye en la germinación de semillas de rabanito. Tienen 200 semillas y dos cámaras idénticas, una iluminada y otra oscura. ¿Cuál procedimiento es el más adecuado?
+A) Poner 1 semilla en cada cámara y repetir la prueba una vez.
+B) Poner 100 semillas en la cámara iluminada y ninguna en la oscura.
+C) Poner 190 semillas en la cámara oscura y 10 en la iluminada.
+D) Poner 100 semillas en cada cámara, en 5 bandejas de 20.
+Correcta: D. Por qué: Paso 1: se requieren dos grupos comparables, luz y oscuridad. Paso 2: ambos deben tener un tamaño de muestra grande y similar. Paso 3: dividir cada grupo en bandejas entrega réplicas internas. Repartir 100 y 100 en cinco bandejas de 20 cumple todo. Por eso la clave es D.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

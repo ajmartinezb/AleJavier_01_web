@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 07: c. Las funciones del agua en la célula
+Sección: 3. El agua y las sales minerales
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Las funciones del agua en la célula». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Disolvente, Transporte, Termorregulación, Estructural, Reactivo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Las funciones del agua en la célula», dentro de la sección «3. El agua y las sales minerales» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Disolvente, Transporte, Termorregulación, Estructural, Reactivo.
+
+Ideas guía:
+- Disolvente: el medio donde ocurren las reacciones.
+- Transporte: lleva nutrientes y desechos dentro del organismo.
+- Termorregulación: al evaporarse absorbe mucho calor, y por eso el sudor enfría.
+- Estructural: da turgencia a las células vegetales y volumen a los tejidos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Durante la fotosíntesis, el agua no solo es el medio donde ocurren las reacciones: también se rompe para liberar electrones y oxígeno. ¿Qué función del agua ilustra ese hecho?
+A) Su función como reactivo que participa directamente en la reacción.
+B) Su función como disolvente de las sustancias disueltas en el estroma del cloroplasto.
+C) Su función estructural, que da turgencia a las células vegetales de la hoja.
+D) Su función termorreguladora dentro de la hoja iluminada durante el día.
+Correcta: A. Por qué: En la fase luminosa la molécula de agua se rompe y aporta los electrones que repondrán los cedidos por la clorofila, quedando el oxígeno como residuo. Las otras tres funciones del agua son reales y ocurren al mismo tiempo, pero ninguna describe una molécula que se consume en la reacción.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere determinar si el agua que una planta libera por transpiración proviene del agua absorbida por la raíz. ¿Qué procedimiento resulta más adecuado?
+A) Medir la masa de la planta completa antes y después de un día soleado de pleno verano austral.
+B) Contar el número de estomas presentes en la cara inferior de las hojas.
+C) Regar la planta con agua marcada isotópicamente y buscar la marca en el vapor liberado.
+D) Comparar el crecimiento de dos plantas regadas con volúmenes distintos.
+Correcta: C. Por qué: El marcaje isotópico permite exactamente eso: si la marca aparece en el vapor, el agua liberada procede de la que entró por la raíz. Pesar la planta muestra que pierde masa, pero no de dónde viene el agua perdida; contar estomas describe la anatomía; y comparar crecimientos responde otra pregunta.
+
+Pregunta 3 (Observar y plantear preguntas): Una célula vegetal colocada en agua destilada aumenta de volumen y se vuelve turgente, mientras que en una solución salina concentrada se arruga. ¿Qué pregunta de investigación se desprende mejor de esa observación?
+A) ¿Cuántas células vegetales caben dentro de una sola gota del agua destilada que se utilizó?
+B) ¿Cómo influye la concentración de sales del medio en el movimiento de agua hacia la célula?
+C) ¿De qué color se ve la pared celular con la tinción utilizada?
+D) ¿Qué edad tenía la planta de la que se obtuvieron las células?
+Correcta: B. Por qué: La observación contrasta dos medios con distinta concentración de sales y dos resultados opuestos, así que la pregunta natural relaciona ambas variables. Contar células, describir un color o averiguar la edad de la planta son preguntas que se responden con un dato y que no abordan el fenómeno observado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

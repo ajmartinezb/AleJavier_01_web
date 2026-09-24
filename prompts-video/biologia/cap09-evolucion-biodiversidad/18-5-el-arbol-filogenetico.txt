@@ -1,0 +1,42 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 18: 5. El árbol filogenético
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «El árbol filogenético». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente árbol filogenético, modelo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «5. El árbol filogenético» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: árbol filogenético, modelo.
+
+Ideas guía:
+- Un árbol filogenético es la hipótesis de parentesco entre un grupo de especies, dibujada como un diagrama ramificado.
+- No es un adorno: es un modelo que se construye a partir de datos y que se puede poner a prueba, corregir o descartar cuando aparece evidencia nueva.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un equipo publica un árbol filogenético para un grupo de plantas y, tres años después, otro equipo propone un árbol distinto tras incorporar secuencias de genes adicionales. Un lector concluye que la filogenia «no es científica, porque cambia». ¿Qué corresponde objetar?
+A) Que los dos árboles publicados deben ser necesariamente equivalentes entre sí.
+B) Que solo el primer árbol publicado tiene validez, por haber aparecido antes.
+C) Que un árbol filogenético no puede modificarse una vez que ha sido publicado.
+D) Que un árbol es una hipótesis y revisarla ante evidencia nueva es normal.
+Correcta: D. Por qué: Que una hipótesis cambie al incorporar más datos no la debilita como conocimiento científico; al contrario, muestra que está sujeta a evidencia. Lo que sería sospechoso es un modelo que no cambiara nunca, porque significaría que ningún dato podría ponerlo a prueba.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un árbol filogenético de cinco especies, la especie D y la especie E salen del mismo nodo, situado más cerca del presente que cualquier otro del árbol. ¿Qué describe correctamente esa relación?
+A) D desciende directamente de E, porque ambas comparten el mismo nodo terminal.
+B) D y E son grupos hermanos y comparten el ancestro común más reciente.
+C) D y E constituyen la raíz del árbol, por estar más próximas al presente.
+D) D y E son las especies más antiguas de las cinco comparadas en el árbol.
+Correcta: B. Por qué: Que D y E salgan de un mismo nodo significa que descienden de un mismo ancestro y que ese ancestro no dio origen a ninguna otra de las especies del árbol: son grupos hermanos. Que ese nodo sea el más cercano al presente significa que se separaron después que cualquier otro par, es decir, son las dos especies más emparentadas del conjunto.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo advierte que dos grupos de plantas de familias distintas presentan hojas carnosas y espinas, y que ambos habitan zonas áridas de continentes separados. ¿Qué pregunta investigable permite decidir si esa semejanza indica parentesco?
+A) ¿Comparten ambos grupos un nodo reciente al comparar secuencias de un mismo gen?
+B) ¿Qué cantidad de agua almacena cada grupo de plantas durante la estación seca?
+C) ¿Qué antigüedad tienen las zonas áridas que habita cada uno de los dos grupos?
+D) ¿Qué superficie ocupa actualmente cada uno de los dos grupos en su continente?
+Correcta: A. Por qué: La observación admite dos lecturas: que los grupos sean parientes cercanos o que hayan llegado por separado a la misma solución frente a la aridez. Lo que decide entre ambas es la posición de los grupos en un árbol construido con secuencias, porque un nodo compartido reciente indicaría parentesco y uno antiguo, convergencia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

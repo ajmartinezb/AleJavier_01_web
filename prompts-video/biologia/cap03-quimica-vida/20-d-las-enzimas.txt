@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 20: d. Las enzimas
+Sección: 6. Proteínas y enzimas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Las enzimas». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente enzima, energía de activación, sustrato, sitio activo, específica, productos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Las enzimas», dentro de la sección «6. Proteínas y enzimas» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: enzima, energía de activación, sustrato, sitio activo, específica, productos.
+
+Ideas guía:
+- Una enzima es una proteína que acelera una reacción química sin consumirse.
+- Lo hace disminuyendo la energía de activación, es decir, el empujón mínimo que la reacción necesita para ocurrir.
+- El sustrato se une al sitio activo de la enzima.
+- La unión es específica: la forma del sitio activo solo acepta ciertos sustratos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una enzima acelera una reacción química. ¿Cuál es el mecanismo por el que lo consigue?
+A) Aporta a los reactantes la energía que necesitan para transformarse.
+B) Desplaza el equilibrio de la reacción hacia los productos finales.
+C) Disminuye la energía de activación que la reacción debe superar.
+D) Aumenta la temperatura local para acelerar el movimiento molecular.
+Correcta: C. Por qué: Las otras tres alternativas repiten los malentendidos más frecuentes: que la enzima aporta energía, que cambia el punto de equilibrio y que calienta el medio. Ninguno es cierto. La enzima solo rebaja la barrera, y por eso una reacción que a temperatura corporal sería lentísima ocurre en fracciones de segundo.
+
+Pregunta 2 (Evaluar): Se observa que una cantidad muy pequeña de enzima procesa una cantidad enorme de sustrato a lo largo de una hora. ¿Qué propiedad de las enzimas explica ese resultado?
+A) Que no se consumen: al liberar los productos quedan libres para repetir el ciclo.
+B) Que se multiplican dentro del tubo a medida que avanza la reacción.
+C) Que cada molécula de enzima se une a muchos sustratos a la vez.
+D) Que el sustrato se transforma en enzima durante la propia reacción.
+Correcta: A. Por qué: Esa reutilización explica que poca enzima baste para mucho sustrato. Las enzimas no se multiplican en un tubo, porque no son organismos; cada sitio activo une un sustrato por vez, no muchos simultáneamente; y el sustrato se convierte en producto, nunca en enzima.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que una enzima es específica para un sustrato determinado. ¿Qué diseño lo pone mejor a prueba?
+A) Incubar la enzima con su sustrato habitual a cuatro temperaturas distintas.
+B) Incubar concentraciones crecientes de enzima con un único sustrato conocido.
+C) Medir la masa molecular exacta de la enzima purificada en el laboratorio.
+D) Incubar la enzima por separado con varios sustratos distintos y medir la actividad en cada caso.
+Correcta: D. Por qué: Probar varios sustratos y comprobar que solo uno es transformado demuestra exactamente esa especificidad. Variar la temperatura estudia otra variable, aumentar la concentración de enzima mide rendimiento y determinar la masa molecular es una caracterización que no dice nada sobre qué sustratos acepta.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

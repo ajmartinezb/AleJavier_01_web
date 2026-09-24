@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 16: d. Dos señales corporales del ciclo
+Sección: 5. El ciclo ovárico y el ciclo uterino
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Dos señales corporales del ciclo». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Temperatura corporal basal, ya ocurrió, Moco cervical, abundante, transparente y elástico, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Dos señales corporales del ciclo», dentro de la sección «5. El ciclo ovárico y el ciclo uterino» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Temperatura corporal basal, ya ocurrió, Moco cervical, abundante, transparente y elástico.
+
+Ideas guía:
+- Ambas se usan en los métodos naturales de la sección 8 y aparecen con frecuencia en los ítems con gráficos.
+- Es la temperatura medida al despertar, antes de cualquier actividad.
+- Durante la fase folicular se mantiene baja; después de la ovulación sube entre 0,3 y 0,5 °C por efecto de la progesterona y se mantiene alta durante toda la fase lútea.
+- El alza de temperatura confirma que la ovulación ya ocurrió: no la anticipa.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una persona registra su temperatura basal durante un ciclo y observa valores bajos hasta el día 15 y valores 0,4 °C más altos desde el día 16 hasta el final. ¿Qué indica ese patrón?
+A) Que la persona no ovuló durante ese ciclo en particular.
+B) Que la ovulación ocurrirá en los días siguientes al registro.
+C) Que el endometrio dejó de engrosarse a partir del día 16.
+D) Que la ovulación ocurrió en torno al día 15 del ciclo.
+Correcta: D. Por qué: El salto térmico marca el inicio de la fase lútea, de modo que la ovulación ocurrió justo antes del ascenso. Que la temperatura se mantenga alta indica que el cuerpo lúteo está secretando progesterona. Si no hubiera habido ovulación, la curva sería plana durante todo el ciclo.
+
+Pregunta 2 (Evaluar): Una persona decide usar solo la temperatura basal para identificar sus días fértiles y evitar un embarazo. ¿Cuál es la evaluación correcta de esa decisión?
+A) Es adecuada: la temperatura permite anticipar la ovulación con precisión.
+B) Es inadecuada: el alza confirma la ovulación, pero no la anticipa.
+C) Es inadecuada, porque la temperatura basal no cambia durante el ciclo.
+D) Es adecuada, porque la fertilidad comienza justo después del alza térmica.
+Correcta: B. Por qué: El problema es de oportunidad: los días fértiles incluyen los cinco previos a la ovulación, porque los espermatozoides sobreviven varios días, y para entonces la temperatura todavía no ha subido. Por eso el método sirve para reconocer el patrón del propio ciclo, pero no como único recurso anticonceptivo.
+
+Pregunta 3 (Procesar y analizar la evidencia): El moco cervical se vuelve abundante, transparente y elástico en cierto momento del ciclo. ¿Cuándo ocurre y qué función cumple ese cambio?
+A) En la menstruación, y sirve para expulsar el endometrio descamado.
+B) En la fase lútea, y forma una barrera densa por acción de los estrógenos.
+C) Cerca de la ovulación, y facilita el paso de los espermatozoides.
+D) Al final del ciclo, y facilita la implantación del blastocisto.
+Correcta: C. Por qué: El cambio acompaña al momento de máxima fertilidad y es la base del método de Billings, que a diferencia de la temperatura sí permite anticipar la ovulación. El moco espeso de la fase lútea cumple el papel contrario: forma una barrera.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

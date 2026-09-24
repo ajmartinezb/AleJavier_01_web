@@ -1,0 +1,44 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 03: b. Los tres tipos funcionales de neurona
+Sección: 2. Organización general del sistema nervioso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Los tres tipos funcionales de neurona». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Sensitiva, hacia, Interneurona, Motora, sistema nervioso central, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Los tres tipos funcionales de neurona», dentro de la sección «2. Organización general del sistema nervioso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Sensitiva, hacia, Interneurona, Motora, sistema nervioso central.
+
+Ideas guía:
+- «Aferente» viene de llevar hacia; «eferente», de llevar fuera.
+- La referencia es siempre el sistema nervioso central: aferente entra, eferente sale.
+- Las interneuronas, que son la gran mayoría en el encéfalo humano, conectan a las otras dos y hacen posible que la respuesta no sea siempre la misma.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un experimento se corta selectivamente la raíz posterior de un nervio espinal, por donde entran las fibras sensitivas. Al pinchar la piel correspondiente, el animal no siente el estímulo pero conserva el movimiento de la extremidad. ¿Qué tipo de neurona se interrumpió?
+A) La neurona aferente, es decir, la sensitiva.
+B) La neurona eferente, es decir, la motora.
+C) La interneurona de la médula espinal.
+D) La célula glial que forma la mielina.
+Correcta: A. Por qué: Se perdió la sensibilidad y se conservó el movimiento. Como la orden motora sigue llegando al músculo, la vía eferente está intacta; lo que dejó de funcionar es la entrada de información, es decir, la neurona aferente. El resultado concuerda con la vía cortada: la raíz posterior contiene precisamente las fibras sensitivas.
+
+Pregunta 2 (Observar y plantear preguntas): Al observar un corte de médula espinal al microscopio, un estudiante advierte que la mayoría de los cuerpos neuronales no se conectan ni con un receptor ni con un músculo, sino con otras neuronas. ¿Qué pregunta investigable se desprende de esa observación?
+A) ¿Cuál es el grosor, en micrómetros, del corte histológico observado?
+B) ¿Qué colorante se usó para teñir la preparación del corte de médula?
+C) ¿Qué proporción de las neuronas de la médula espinal corresponde a interneuronas?
+D) ¿Cuántos años vive, en promedio, el animal del que proviene la muestra?
+Correcta: C. Por qué: La observación es que predominan las neuronas conectadas con otras neuronas. La pregunta que continúa ese hallazgo pide precisar cuánto predominan, es decir, transformar una impresión en una proporción medible sobre la misma preparación. Las demás preguntas se refieren a la técnica o al animal y no profundizan en lo observado.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere averiguar si una neurona aislada de un ganglio es sensitiva o motora. ¿Cuál de los siguientes procedimientos entrega la evidencia más directa?
+A) Medir el diámetro del soma de la neurona con un microscopio calibrado.
+B) Rastrear con qué estructura contacta cada extremo de la célula.
+C) Contar cuántas dendritas ramificadas rodean al soma de la neurona aislada.
+D) Medir el potencial de reposo de la membrana en la neurona recién aislada.
+Correcta: B. Por qué: La categoría se define por las conexiones: una neurona sensitiva parte de un receptor y llega al sistema nervioso central, mientras una motora sale de él y termina en un efector. Por eso hay que rastrear con qué estructuras contacta cada extremo. El tamaño del soma, el número de dendritas y el potencial de reposo son similares entre ambos tipos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

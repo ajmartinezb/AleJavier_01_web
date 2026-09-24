@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 05: c. La estructura de un cromosoma
+Sección: 2. Cromatina y cromosomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «La estructura de un cromosoma». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente dos cromátidas hermanas, centrómero, cohesinas, cinetocoro, cromosomas, centrómeros, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. La estructura de un cromosoma», dentro de la sección «2. Cromatina y cromosomas» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: dos cromátidas hermanas, centrómero, cohesinas, cinetocoro, cromosomas, centrómeros.
+
+Ideas guía:
+- Después de la replicación, en la fase S, cada cromosoma está formado por dos cromátidas hermanas idénticas, unidas en el centrómero por proteínas llamadas cohesinas.
+- En el centrómero se forma el cinetocoro, donde se enganchan los microtúbulos del huso.
+- Se cuentan cromosomas contando centrómeros.
+- Un cromosoma no replicado tiene 1 cromátida; uno replicado tiene 2 cromátidas, pero sigue siendo un cromosoma.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una especie tiene 2n = 12. Se analiza una de sus células somáticas en G2, después de completar la fase S. ¿Cuántos cromosomas y cuántas cromátidas tiene esa célula?
+A) Seis cromosomas y doce cromátidas
+B) Doce cromosomas y doce cromátidas
+C) Doce cromosomas y veinticuatro cromátidas
+D) Veinticuatro cromosomas y veinticuatro cromátidas
+Correcta: C. Por qué: Paso 1: una célula somática de esta especie tiene 2n = 12, es decir, 12 cromosomas. Paso 2: la replicación no agrega centrómeros, así que en G2 sigue teniendo 12 cromosomas. Paso 3: cada uno tiene ahora dos cromátidas, por lo que hay 12 × 2 = 24 cromátidas.
+
+Pregunta 2 (Procesar y analizar la evidencia): En una línea celular mutante, las cohesinas se degradan poco después de la fase S. Al observar esas células, se ven cromátidas hermanas separadas antes de la mitosis y, tras la división, células hijas con números anormales de cromosomas. ¿Qué inferencia se desprende de estos resultados?
+A) Las cohesinas mantienen unidas las cromátidas hasta su separación ordenada.
+B) Las cohesinas replican el ADN durante la fase S en las células normales del tejido.
+C) Las cohesinas forman el huso que reparte los cromosomas en la división.
+D) Las cohesinas condensan la cromatina solo en las células en interfase.
+Correcta: A. Por qué: Sin cohesinas, las cromátidas se separan antes de tiempo. Si llegan sueltas a la división, no se pueden repartir de a pares y cada célula hija puede recibir cromátidas de más o de menos. Ambos efectos apuntan a una misma función normal: mantener unidas las cromátidas hasta el momento de separarlas de forma ordenada.
+
+Pregunta 3 (Planificar y conducir una investigación): Una investigadora quiere comprobar si el cinetocoro es necesario para que los microtúbulos del huso se unan a un cromosoma. Obtiene células en las que un solo cromosoma carece de las proteínas que forman el cinetocoro. ¿Qué debe registrar para responder su pregunta?
+A) La cantidad total de ADN del núcleo de cada célula antes de la división.
+B) El número de cromátidas del cromosoma modificado después de la fase S.
+C) El tamaño de las células que tienen el cromosoma modificado en interfase.
+D) Si los microtúbulos del huso se unen al centrómero del cromosoma modificado.
+Correcta: D. Por qué: La pregunta relaciona dos cosas: la presencia del cinetocoro (lo que se modifica) y la unión de los microtúbulos (lo que se espera que cambie). Por eso se debe observar si los microtúbulos se unen o no al centrómero del cromosoma sin cinetocoro, idealmente comparando con los demás cromosomas de la misma célula, que sirven de control interno.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

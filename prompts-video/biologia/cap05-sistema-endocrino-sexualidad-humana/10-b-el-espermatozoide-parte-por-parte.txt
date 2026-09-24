@@ -1,0 +1,44 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 10: b. El espermatozoide, parte por parte
+Sección: 4. Los gametos: espermatozoide y ovocito
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «El espermatozoide, parte por parte». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Acrosoma, enzimas hidrolíticas, Núcleo, Pieza media, Mitocondrias, Flagelo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. El espermatozoide, parte por parte», dentro de la sección «4. Los gametos: espermatozoide y ovocito» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Acrosoma, enzimas hidrolíticas, Núcleo, Pieza media, Mitocondrias, Flagelo.
+
+Ideas guía:
+- Se describían espermatozoides con acrosomas de apariencia y volumen normales, pero con enzimas de actividad reducida, y se pedía predecir la consecuencia.
+- La clave está en la función del acrosoma: sin enzimas activas, el espermatozoide no puede degradar las cubiertas del ovocito, aunque nade perfectamente.
+- Fíjate en el método: se altera una estructura y se pregunta por la función que depende de ella.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se obtienen espermatozoides con acrosomas de tamaño y apariencia normales, pero con enzimas de actividad muy reducida. ¿Qué consecuencia se predice?
+A) Tendrán dificultad para degradar la zona pelúcida.
+B) Tendrán déficit de energía para desplazarse por el tracto.
+C) Presentarán movimientos erráticos de su flagelo.
+D) Generarán con alta probabilidad anomalías cromosómicas.
+Correcta: A. Por qué: El enunciado precisa que la estructura está intacta y lo alterado es la actividad enzimática, de modo que solo se pierde la función que depende de esas enzimas: abrir paso a través de las cubiertas. La energía la produce la pieza media, la movilidad depende del flagelo y el contenido cromosómico, de la meiosis.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere determinar si la baja movilidad de los espermatozoides de una muestra se debe a un problema energético. ¿Qué observación resulta más informativa?
+A) Medir el diámetro de la cabeza de los espermatozoides al microscopio.
+B) Contar el número total de espermatozoides presentes en la muestra.
+C) Determinar el volumen total del semen obtenido en la eyaculación.
+D) Evaluar la cantidad y la integridad de las mitocondrias de la pieza media.
+Correcta: D. Por qué: La hipótesis atribuye la baja movilidad a un déficit de energía, de modo que hay que examinar la estructura que la produce. El tamaño de la cabeza, el recuento total y el volumen del semen describen otros aspectos de la muestra y no permiten confirmar ni descartar el problema energético.
+
+Pregunta 3 (Comunicar): Se rotula un esquema del espermatozoide. ¿Qué rótulo corresponde a la estructura que aporta el material genético?
+A) Acrosoma: vesícula con enzimas hidrolíticas.
+B) Núcleo: 23 cromosomas muy compactados.
+C) Pieza media: mitocondrias que producen ATP.
+D) Flagelo: microtúbulos que generan el movimiento.
+Correcta: B. Por qué: Los otros tres rótulos son correctos en sí mismos, pero describen estructuras con funciones distintas: enzimas para penetrar las cubiertas, energía para el movimiento y el aparato que lo ejecuta. Solo el núcleo cumple la función que el enunciado pide identificar.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

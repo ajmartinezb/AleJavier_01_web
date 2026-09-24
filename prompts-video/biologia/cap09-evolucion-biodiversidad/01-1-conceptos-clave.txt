@@ -1,0 +1,38 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 01: 1. Conceptos clave
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Conceptos clave». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Evolución, Población, Especie, Biodiversidad, Especie endémica, Especie nativa, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «1. Conceptos clave» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Evolución, Población, Especie, Biodiversidad, Especie endémica, Especie nativa.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un humedal se registran 60 sapos de una misma especie. De ellos, 41 presentan dorso moteado y 19 dorso liso; el patrón depende de un gen con dos variantes. Un año después, tras el ingreso de una garza depredadora, se cuentan 22 moteados y 3 lisos. ¿Qué afirmación describe correctamente lo observado en ese humedal?
+A) Cada sapo de dorso liso adquirió un dorso moteado para camuflarse.
+B) La variabilidad genética de la población aumentó por la llegada de la garza.
+C) El número total de sapos de dorso moteado creció respecto del año anterior.
+D) La frecuencia del dorso liso bajó y la del moteado subió en la población.
+Correcta: D. Por qué: En el primer registro los lisos son 19 de 60, es decir, un 32 %. En el segundo son 3 de 25, es decir, un 12 %. Los moteados pasan de 41/60 (68 %) a 22/25 (88 %). La proporción de moteados aumentó, aunque su número absoluto bajó de 41 a 22, porque murió gran parte de la población.
+
+Pregunta 2 (Evaluar): Un divulgador escribe: «El guanaco y la llama pertenecen a la misma especie, porque ambos son camélidos sudamericanos de aspecto muy semejante y viven en el mismo altiplano». ¿Qué evidencia habría que exigirle para aceptar o rechazar su afirmación?
+A) El grado de semejanza anatómica entre los adultos de ambos grupos.
+B) La coincidencia del rango altitudinal y del clima en que habitan ambos grupos.
+C) La capacidad de los cruces entre ambos grupos de dejar descendencia fértil.
+D) La similitud de la dieta y del comportamiento social observado en ambos grupos.
+Correcta: C. Por qué: El divulgador apoya su conclusión en el parecido y en el lugar donde viven, dos rasgos que ninguna definición de especie exige. El criterio biológico se basa en el aislamiento reproductivo, de modo que la evidencia decisiva es si los cruces entre ambos grupos producen descendencia fértil. Sin ese dato, la afirmación no puede aceptarse ni rechazarse.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo sostiene que una variante que da resistencia a un hongo ya estaba presente en un cultivo de trigo antes de que el hongo llegara al campo. Dispone de semillas guardadas en un banco desde hace veinte años, anteriores a la llegada del hongo. ¿Qué procedimiento pone a prueba esa afirmación?
+A) Sembrar las semillas guardadas y medir cuántas plantas sobreviven a una sequía severa.
+B) Buscar la variante de resistencia en el ADN de las semillas guardadas del banco.
+C) Exponer al hongo las plantas actuales y contar cuántas se infectan.
+D) Comparar la altura de las plantas actuales con la de las plantas de hace veinte años.
+Correcta: B. Por qué: La afirmación se refiere a la presencia de la variante antes de la llegada del hongo. Las semillas del banco son material anterior a ese momento, de modo que buscar la variante en su ADN permite decidir directamente si ya estaba. Si aparece, la afirmación se sostiene; si no aparece en ninguna semilla, queda debilitada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

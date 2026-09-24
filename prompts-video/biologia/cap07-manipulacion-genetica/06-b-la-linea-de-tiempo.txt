@@ -1,0 +1,39 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 06: b. La línea de tiempo
+Sección: 3. Origen e historia de la manipulación genética
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «La línea de tiempo». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente 1953, 1973, Cohen y Boyer, 1975, Conferencia de Asilomar, 1976, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. La línea de tiempo», dentro de la sección «3. Origen e historia de la manipulación genética» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 1953, 1973, Cohen y Boyer, 1975, Conferencia de Asilomar, 1976.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Ordena cronológicamente cuatro hitos: la aprobación de la insulina humana recombinante, el primer ADN recombinante funcional, la conferencia de Asilomar y el Premio Nobel por CRISPR-Cas9.
+A) Asilomar, primer ADN recombinante, insulina y Nobel por CRISPR.
+B) Primer ADN recombinante, insulina recombinante, Asilomar y Nobel por CRISPR.
+C) Insulina recombinante, primer ADN recombinante, Asilomar y Nobel por CRISPR.
+D) Primer ADN recombinante, Asilomar, insulina recombinante y Nobel por CRISPR.
+Correcta: D. Por qué: La secuencia tiene una lógica clara: primero se demuestra que la técnica funciona, enseguida la comunidad científica se plantea los riesgos y acuerda normas, después llega la primera aplicación aprobada y décadas más tarde, el reconocimiento de la herramienta de edición.
+
+Pregunta 2 (Observar y plantear preguntas): Un equipo observa que entre 1973 y 1982 transcurrieron nueve años desde el primer ADN recombinante hasta el primer fármaco aprobado, mientras que CRISPR-Cas9 pasó de describirse en 2012 a usarse en ensayos clínicos en poco más de una década. ¿Qué pregunta investigable plantea esta comparación?
+A) ¿Qué determina el tiempo entre un hallazgo y su aplicación clínica?
+B) ¿Cuántos investigadores participaron en cada uno de los dos hallazgos mencionados?
+C) ¿En qué ciudades se originó cada una de las técnicas?
+D) ¿Cuántas páginas tenían los artículos originales de cada técnica?
+Correcta: A. Por qué: Lo que la comparación pone en evidencia es la existencia de un intervalo entre el hallazgo y su aplicación, y que ese intervalo puede variar. La pregunta pertinente indaga qué lo determina: la complejidad técnica, los requisitos regulatorios, el financiamiento o la infraestructura disponible.
+
+Pregunta 3 (Planificar y conducir una investigación): Un estudiante quiere verificar la fecha en que se aprobó el primer fármaco recombinante y qué fármaco fue. ¿Qué fuente resulta más adecuada?
+A) Un foro de discusión donde usuarios comentan la historia de la biotecnología.
+B) Una encuesta a estudiantes sobre lo que recuerdan.
+C) Un artículo científico o el registro de la agencia que la aprobó.
+D) Un anuncio publicitario de un laboratorio farmacéutico.
+Correcta: C. Por qué: Se busca un hecho verificable con fecha. Las fuentes apropiadas son las que llevan registro formal: la agencia que otorgó la aprobación y las publicaciones revisadas por pares. Un foro y una encuesta recogen opiniones o recuerdos, y un anuncio publicitario tiene un interés comercial que compromete su imparcialidad.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

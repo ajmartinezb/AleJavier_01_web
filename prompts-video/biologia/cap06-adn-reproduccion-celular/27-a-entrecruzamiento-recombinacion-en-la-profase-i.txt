@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 27: a. Entrecruzamiento (recombinación) en la profase I
+Sección: 8. Meiosis y variabilidad genética
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Entrecruzamiento (recombinación) en la profase I». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente mosaico, combinaciones nuevas de alelos, quiasmas, menos quiasmas, más errores de separación, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Entrecruzamiento (recombinación) en la profase I», dentro de la sección «8. Meiosis y variabilidad genética» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: mosaico, combinaciones nuevas de alelos, quiasmas, menos quiasmas, más errores de separación.
+
+Ideas guía:
+- Durante la sinapsis, las cromátidas de cromosomas homólogos intercambian segmentos.
+- Resultado: cada cromátida queda como un mosaico de ADN materno y paterno, con combinaciones nuevas de alelos que no existían en ninguno de los dos cromosomas originales.
+- En humanos ocurren en promedio uno a tres entrecruzamientos por par de homólogos en cada meiosis.
+- Los quiasmas tienen además una función mecánica: mantienen unidos a los homólogos hasta la anafase I, lo que asegura que se separen correctamente.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un investigador sospecha que una proteína, llamada R, es necesaria para que ocurra el entrecruzamiento entre cromosomas homólogos. Dispone de ratones normales y de ratones mutantes que no producen la proteína R. ¿Qué procedimiento permite poner a prueba su hipótesis?
+A) Comparar el número de células en mitosis en la piel de ambos tipos de ratón.
+B) Comparar el número de quiasmas en espermatocitos en profase I de ambos tipos de ratón.
+C) Contar los cromosomas de las células hepáticas de los ratones mutantes y de los normales.
+D) Medir la cantidad de proteína R en espermatocitos de ratones normales de distintas edades.
+Correcta: B. Por qué: La variable independiente es la presencia o ausencia de la proteína R (ratones normales frente a mutantes). La variable dependiente debe reflejar el entrecruzamiento, y su huella visible son los quiasmas. Además, hay que mirar en las células donde ocurre: espermatocitos en profase I. Si los mutantes muestran muchos menos quiasmas, se apoya la hipótesis. Mitosis y células hepáticas no tienen entrecruzamiento, y medir R solo en ratones normales no…
+
+Pregunta 2 (Procesar y analizar la evidencia): En un estudio de espermatocitos humanos se contó el número de quiasmas por célula y la frecuencia de espermatozoides con un cromosoma extra. Los resultados fueron: con 40 a 44 quiasmas, 0,2 % de espermatozoides aneuploides; con 45 a 49, 0,1 %; con 50 a 54, 0,05 %. ¿Qué conclusión es coherente con estos datos?
+A) A mayor número de quiasmas, mayor es la proporción de espermatozoides aneuploides.
+B) El número de quiasmas no se relaciona con la aparición de espermatozoides aneuploides.
+C) A menor número de quiasmas, mayor es la proporción de espermatozoides aneuploides.
+D) Los espermatozoides aneuploides son los que producen una mayor cantidad de quiasmas.
+Correcta: C. Por qué: Al pasar de 40-44 a 50-54 quiasmas, la frecuencia de aneuploidía baja de 0,2 % a 0,05 %. La relación es inversa: menos quiasmas se asocian con más espermatozoides con cromosoma extra. Esto calza con la función mecánica de los quiasmas: si un par de homólogos no queda bien unido, puede no separarse bien en la anafase I (no disyunción).
+
+Pregunta 3 (Evaluar): Un estudiante observa al microscopio una célula en profase I con 2n = 4 y concluye: «Como las cromátidas de cada par de homólogos se ven cruzadas, las cuatro células que se formen al final de la meiosis serán genéticamente idénticas a la célula madre». ¿Cuál es la mejor evaluación de su conclusión?
+A) Es correcta, porque el entrecruzamiento solo cambia la posición física de las cromátidas.
+B) Es correcta, porque las cromátidas intercambian segmentos entre dos copias del mismo cromosoma.
+C) Es incorrecta, porque se forman solo dos células y ambas son idénticas entre sí.
+D) Es incorrecta, porque el intercambio crea cromátidas con combinaciones nuevas de alelos.
+Correcta: D. Por qué: El cruce visible entre cromátidas de homólogos es un quiasma: allí hubo intercambio de segmentos entre el cromosoma de origen materno y el de origen paterno. Como esos cromosomas pueden tener alelos distintos, las cromátidas recombinadas portan combinaciones nuevas. Por lo tanto, las cuatro células haploides serán distintas entre sí y de la célula madre. La conclusión del estudiante es incorrecta.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 25: d. El ADN y los cromosomas a lo largo de la meiosis
+Sección: 7. La meiosis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «El ADN y los cromosomas a lo largo de la meiosis». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente ploidía, meiosis I, reduccional, ecuacional, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. El ADN y los cromosomas a lo largo de la meiosis», dentro de la sección «7. La meiosis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ploidía, meiosis I, reduccional, ecuacional.
+
+Ideas guía:
+- Dónde se reduce el número de cromosomas.
+- La ploidía se reduce en la meiosis I, porque se separan los homólogos y cada célula queda con un solo juego.
+- La meiosis II no cambia el número de cromosomas (sigue siendo n): solo separa cromátidas y reduce el ADN de 2c a c.
+- Por eso se dice que la meiosis I es reduccional y la meiosis II, ecuacional.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una célula germinal de una especie de pez tiene 2n = 48 y, en G1, contiene 3 pg de ADN. ¿Cuánto ADN tendrá cada célula al término de la meiosis I?
+A) 1,5 pg
+B) 3 pg
+C) 6 pg
+D) 12 pg
+Correcta: B. Por qué: En G1 hay 2c = 3 pg. La fase S duplica el ADN: 4c = 6 pg. La meiosis I reparte ese ADN entre dos células: cada una queda con 2c = 3 pg, igual que en G1, aunque ahora con 24 cromosomas de dos cromátidas. Solo tras la meiosis II se llega a c = 1,5 pg.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un investigador registra, en tres momentos de la meiosis humana, el número de cromosomas por célula y de cromátidas por cromosoma: momento X, 46 y 2; momento Y, 23 y 2; momento Z, 23 y 1. ¿Qué secuencia de etapas corresponde a X, Y y Z, respectivamente?
+A) Profase I, metafase II y final de la meiosis II
+B) Metafase II, profase I y final de la meiosis II
+C) Final de la meiosis I, profase I y metafase II
+D) Profase I, final de la meiosis II y metafase II
+Correcta: A. Por qué: X tiene 46 cromosomas duplicados: la célula ya replicó y aún no se divide, como en la profase I. Y tiene 23 cromosomas con dos cromátidas: ya pasó la meiosis I, pero no la anafase II; la metafase II calza. Z tiene 23 cromosomas simples: es el producto final de la meiosis II. La secuencia es la A.
+
+Pregunta 3 (Planificar y conducir una investigación): Una estudiante quiere comprobar que la meiosis II reduce la cantidad de ADN por célula pero no el número de cromosomas. Dispone de un citómetro que mide ADN por núcleo y de un microscopio para contar cromosomas. ¿Qué comparación le permite comprobarlo?
+A) Medir solo el ADN en las células al inicio de la meiosis I y al final de la meiosis II.
+B) Contar solo cromosomas en las células en G1 y en las células al final de la meiosis II.
+C) Medir ADN y contar cromosomas en células de piel y en células en G1 del ovario.
+D) Medir ADN y contar cromosomas al terminar la meiosis I y al terminar la meiosis II.
+Correcta: D. Por qué: La afirmación habla de lo que ocurre durante la meiosis II, así que hay que comparar el antes (final de la meiosis I) y el después (final de la meiosis II). Además hay que medir las dos variables: el ADN, que debería bajar de 2c a c, y los cromosomas, que deberían seguir en n. Solo B cumple ambos requisitos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 18: a. Dónde y cuándo
+Sección: 6. La fecundación y los primeros días
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Dónde y cuándo». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente ovocito, espermatozoides, ventana fértil, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Dónde y cuándo», dentro de la sección «6. La fecundación y los primeros días» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ovocito, espermatozoides, ventana fértil.
+
+Ideas guía:
+- La fecundación ocurre en el tercio externo de la trompa uterina, el extremo cercano al ovario, y debe ocurrir dentro de un plazo acotado: El ovocito sobrevive entre 12 y 24 horas tras la ovulación.
+- Los espermatozoides sobreviven en el tracto femenino hasta unos 5 días, según las condiciones del moco cervical.
+- De ahí sale el concepto de ventana fértil: los días en que una relación sexual puede terminar en embarazo son aproximadamente los cinco previos a la ovulación y el día de la ovulación misma.
+- No es un día, sino un intervalo, y esa es la razón de que los métodos basados en el calendario sean poco confiables.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): El ovocito sobrevive entre 12 y 24 horas tras la ovulación y los espermatozoides hasta unos 5 días en el tracto femenino. ¿Qué se concluye sobre la ventana fértil?
+A) Dura un solo día: el de la ovulación.
+B) Abarca los cinco días previos a la ovulación y ese mismo día.
+C) Abarca los 5 días posteriores a la ovulación.
+D) Dura todo el ciclo, porque los gametos sobreviven indefinidamente.
+Correcta: B. Por qué: Los dos datos se combinan hacia atrás y no hacia adelante: un espermatozoide que ingresa cinco días antes puede seguir vivo cuando el ovocito es liberado, mientras que después de la ovulación el ovocito solo dura un día. Por eso la ventana se extiende antes y no después.
+
+Pregunta 2 (Evaluar): Una persona sostiene que «si la relación sexual ocurre varios días antes de la ovulación, no hay ninguna posibilidad de embarazo». ¿Cuál es la objeción correcta?
+A) Es incorrecta: los espermatozoides sobreviven hasta unos cinco días.
+B) Es correcta: sin ovocito disponible la fecundación es imposible.
+C) Es incorrecta, porque la ovulación puede ocurrir varias veces en un mismo día.
+D) Es correcta, siempre que el ciclo de la persona sea perfectamente regular.
+Correcta: A. Por qué: El razonamiento considera solo la vida del ovocito y olvida la del espermatozoide. Un gameto masculino que ingresa días antes puede permanecer viable en las criptas del cuello uterino y fecundar cuando el ovocito sea liberado. De ahí que la ventana fértil se extienda hacia atrás.
+
+Pregunta 3 (Comunicar): Se quiere explicar en una frase por qué los métodos basados en el calendario son poco confiables. ¿Cuál es la formulación adecuada?
+A) Porque la ovulación ocurre siempre el mismo día en todas las personas.
+B) Porque el ovocito puede ser fecundado durante toda la fase lútea.
+C) Porque la ventana fértil se desplaza cuando el ciclo varía.
+D) Porque los espermatozoides mueren apenas ingresan al tracto femenino.
+Correcta: C. Por qué: El problema tiene dos partes: la ventana no es un día sino un intervalo, y su posición se estima a partir de ciclos pasados, que no garantizan el comportamiento del ciclo actual. Basta un retraso o un adelanto para que los días calculados no correspondan.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

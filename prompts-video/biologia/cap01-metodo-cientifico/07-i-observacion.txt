@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 07: i. Observación
+Sección: 3. Etapas de una investigación científica
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Observación». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente objetiva y precisa, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «i. Observación», dentro de la sección «3. Etapas de una investigación científica» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: objetiva y precisa.
+
+Ideas guía:
+- Todo comienza cuando alguien nota un fenómeno y lo registra.
+- La observación puede hacerse con los sentidos o con instrumentos (microscopio, termómetro, sensor).
+- Una buena observación es objetiva y precisa: describe lo que ocurre sin interpretarlo.
+- Ejemplo: un grupo de estudiantes nota que las plantas de tomate del invernadero crecen más que las del patio.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un estudiante tiñe con lugol una capa de epidermis de cebolla y la mira al microscopio óptico con aumento de 400×. En su cuaderno anota varias frases. ¿Cuál de ellas corresponde a una observación?
+A) Los núcleos se tiñen más porque concentran más proteínas.
+B) Con azul de metileno, los núcleos se verán de color azul.
+C) El colorante entra a la célula porque su membrana es permeable.
+D) Los núcleos se ven como cuerpos redondeados de color café.
+Correcta: D. Por qué: Hay que revisar si cada frase describe lo que se ve o si agrega algo más. La frase sobre núcleos redondeados y de color café solo describe forma y color percibidos con el microscopio: es una observación. Las frases que incluyen «porque» proponen una causa, por lo que son explicaciones tentativas. La frase sobre el azul de metileno anticipa un resultado de otro procedimiento: es una predicción.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una bióloga registró el porcentaje de la superficie de troncos de roble cubierta por líquenes a distintas distancias de un camino con alto tránsito. Sus datos fueron: a 50 m, 10 %; a 200 m, 35 %; a 500 m, 60 %. ¿Qué enunciado describe lo observado sin agregar interpretaciones?
+A) La cobertura de líquenes aumenta a medida que crece la distancia al camino.
+B) Los gases de los vehículos impiden el crecimiento de los líquenes más cercanos.
+C) Los líquenes crecen mejor en cualquier bosque alejado de los caminos.
+D) La cobertura de líquenes disminuye a medida que se aleja del camino.
+Correcta: A. Por qué: Al ordenar los datos por distancia se ve que la cobertura sube de 10 % a 35 % y luego a 60 % al alejarse del camino. Esa relación es lo que efectivamente se registró. Afirmar que los gases de los vehículos son la causa puede ser razonable, pero es una explicación que los datos no contienen. Tampoco se puede extender el patrón a todos los bosques, porque solo se estudió un lugar.
+
+Pregunta 3 (Evaluar): Dos estudiantes observan a un pez en un acuario a 24 °C para estudiar su respiración. El estudiante 1 anota: «el pez respira muy rápido y parece estresado». El estudiante 2 anota: «el opérculo se abre 72 veces por minuto». ¿Cuál evaluación de estos registros es correcta?
+A) El registro 1 es más adecuado, porque además describe el estado del animal.
+B) El registro 2 es más adecuado, porque es preciso y no interpreta.
+C) Ambos registros son igual de adecuados, porque observan al mismo animal.
+D) El registro 2 es menos adecuado, porque no usa los sentidos del observador.
+Correcta: B. Por qué: El registro 1 usa «muy rápido», un término vago que otra persona no podría comparar, y «parece estresado», que es una interpretación del estado del pez. El registro 2 entrega un valor numérico concreto de una estructura observable, el opérculo, que cualquier observador podría verificar contando en un minuto. Por eso el segundo registro cumple mejor los criterios de objetividad y precisión.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

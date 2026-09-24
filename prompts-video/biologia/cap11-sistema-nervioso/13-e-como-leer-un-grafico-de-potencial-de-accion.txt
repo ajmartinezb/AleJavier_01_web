@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 13: e. Cómo leer un gráfico de potencial de acción
+Sección: 4. El impulso nervioso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Cómo leer un gráfico de potencial de acción». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Mira el eje vertical, entrada de Na<sup>+</sup>, salida de K<sup>+</sup>, subumbral, Si hay varios picos, intensidad, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Cómo leer un gráfico de potencial de acción», dentro de la sección «4. El impulso nervioso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Mira el eje vertical, entrada de Na<sup>+</sup>, salida de K<sup>+</sup>, subumbral, Si hay varios picos, intensidad.
+
+Ideas guía:
+- Es el formato más probable en la prueba.
+- Conviene tener el guion: Mira el eje vertical.
+- Ubica el −70 (reposo) y el −55 (umbral).
+- Es la despolarización, y la produce la entrada de Na+.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En el eje vertical de un gráfico de potencial de acción se marca −70 mV con una línea horizontal de referencia y el trazado cruza esa línea dos veces. ¿Qué representan esos dos cruces?
+A) El inicio del umbral y el final del período refractario absoluto.
+B) El paso por el reposo durante la despolarización y durante la repolarización.
+C) Los dos momentos en que se abren los canales de sodio dependientes de voltaje.
+D) El pico del potencial de acción y el punto de máxima hiperpolarización.
+Correcta: B. Por qué: La línea de −70 mV es el nivel de reposo. El trazado la cruza al subir, cuando la membrana se despolariza, y vuelve a cruzarla al bajar, cuando la repolarización lleva el potencial por debajo del reposo. El pico y el mínimo de la hiperpolarización no están sobre esa línea, sino muy por encima y por debajo de ella.
+
+Pregunta 2 (Comunicar): Un compañero pide ayuda para rotular el eje horizontal y el eje vertical de un gráfico de potencial de acción. ¿Cuál es el rotulado correcto?
+A) Eje horizontal: potencial de membrana (mV); eje vertical: tiempo (ms).
+B) Eje horizontal: intensidad del estímulo (mA); eje vertical: potencial de membrana (mV).
+C) Eje horizontal: tiempo (ms); eje vertical: potencial de membrana (mV).
+D) Eje horizontal: distancia recorrida (cm); eje vertical: frecuencia de disparo (Hz).
+Correcta: C. Por qué: En un registro de potencial de acción la variable independiente es el tiempo y va en el eje horizontal, mientras la variable dependiente es el potencial de membrana y va en el vertical, con sus unidades respectivas. Intercambiar los ejes, o poner intensidad o distancia, produciría un gráfico que representa otra cosa.
+
+Pregunta 3 (Observar y plantear preguntas): Al comparar dos registros de potencial de acción de neuronas distintas, un estudiante advierte que ambos alcanzan +30 mV pero uno dura 1 ms y el otro 3 ms. ¿Qué pregunta investigable se desprende de esa comparación?
+A) ¿Cuál de los dos registros se imprimió con mejor calidad en el papel?
+B) ¿Qué edad tenían los animales de los que provienen las dos neuronas?
+C) ¿Cuántos gráficos de potencial de acción existen publicados en total?
+D) ¿De qué depende la duración del potencial de acción si su amplitud es la misma?
+Correcta: D. Por qué: La comparación muestra una coincidencia en amplitud y una diferencia en duración, de modo que la pregunta pertinente se centra justamente en esa diferencia. Las demás opciones se refieren a la impresión del gráfico, al animal o a un recuento bibliográfico, y ninguna profundiza en lo observado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

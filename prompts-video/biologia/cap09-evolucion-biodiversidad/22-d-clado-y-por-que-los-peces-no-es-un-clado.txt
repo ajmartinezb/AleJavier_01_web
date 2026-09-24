@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 22: d. Clado, y por qué «los peces» no es un clado
+Sección: 5. El árbol filogenético
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Clado, y por qué «los peces» no es un clado». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente clado, todos, aves, «Peces» tampoco lo es, Cómo se pregunta, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Clado, y por qué «los peces» no es un clado», dentro de la sección «5. El árbol filogenético» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: clado, todos, aves, «Peces» tampoco lo es, Cómo se pregunta.
+
+Ideas guía:
+- Un clado es un ancestro y todos sus descendientes.
+- Los grupos que dejan fuera a algunos descendientes no son clados y la clasificación moderna trata de evitarlos.
+- «Mamíferos» sí es un clado: incluye al ancestro común de los mamíferos y a todos sus descendientes.
+- «Reptiles», en el uso tradicional, no lo es: excluye a las aves, que descienden del mismo ancestro.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un árbol, el nodo N da origen a cuatro linajes: T, U, V y W. Un grupo propuesto incluye a T, U y V, pero deja fuera a W. ¿Cómo debe clasificarse ese grupo propuesto?
+A) Es un clado, porque los tres linajes incluidos comparten el mismo nodo de origen.
+B) No es un clado, porque excluye a un descendiente del nodo del que parte el grupo.
+C) Es un clado, porque incluye a la mayoría de los linajes que se originan en el nodo N.
+D) No es un clado, porque un clado debe incluir exactamente dos linajes descendientes.
+Correcta: B. Por qué: El grupo propuesto parte del nodo N, pero omite a W, que también desciende de él. La definición exige totalidad, no mayoría, de modo que basta una exclusión para que el grupo deje de ser un clado. Sería un clado si incluyera a los cuatro linajes o si se limitara a un subnodo con todos sus descendientes.
+
+Pregunta 2 (Evaluar): Un estudiante sostiene que agrupar a todos los animales que llamamos peces constituye un grupo natural, porque todos viven en el agua y tienen aletas y branquias. ¿Qué objeción corresponde hacer?
+A) Que las aletas y las branquias son estructuras análogas entre los distintos peces.
+B) Que los peces no descienden de un ancestro común, sino de varios linajes distintos.
+C) Que vivir en el agua es una condición que no comparten todas las especies de peces.
+D) Que el ancestro común de todos los peces es también ancestro de los tetrápodos.
+Correcta: D. Por qué: El problema no está en que los peces no compartan ancestro: lo comparten. Está en que ese mismo ancestro dio origen además a anfibios, reptiles, aves y mamíferos. Por eso el grupo «peces», tal como se usa habitualmente, queda incompleto y no constituye un clado. Los rasgos compartidos que invoca el estudiante son en buena parte ancestrales.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo debe decidir si un grupo taxonómico tradicional corresponde o no a un clado. ¿Qué procedimiento permite tomar esa decisión?
+A) Comprobar si todos los descendientes del ancestro común del grupo están incluidos.
+B) Contar cuántas especies incluye el grupo tradicional y compararlo con otros grupos.
+C) Comprobar si las especies del grupo comparten el mismo hábitat y modo de vida.
+D) Contar cuántos caracteres anatómicos comparten entre sí las especies del grupo.
+Correcta: A. Por qué: El procedimiento tiene dos pasos: ubicar en el árbol el nodo que corresponde al ancestro común de las especies del grupo y luego revisar, rama por rama, si todos los linajes que salen de ese nodo están incluidos. Si falta alguno, el grupo no es un clado. Número de especies, hábitat o cantidad de caracteres compartidos no intervienen en esta definición.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

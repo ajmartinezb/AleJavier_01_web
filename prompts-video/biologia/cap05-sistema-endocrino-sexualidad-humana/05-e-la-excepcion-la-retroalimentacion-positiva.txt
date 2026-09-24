@@ -1,0 +1,44 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 05: e. La excepción: la retroalimentación positiva
+Sección: 2. El sistema endocrino: hormonas y regulación
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «La excepción: la retroalimentación positiva». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente estimula, ovulación, pico de LH, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. La excepción: la retroalimentación positiva», dentro de la sección «2. El sistema endocrino: hormonas y regulación» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: estimula, ovulación, pico de LH.
+
+Ideas guía:
+- Existe un caso en que el producto estimula en vez de frenar, y no es un detalle menor: es el que desencadena la ovulación.
+- Cuando el folículo maduro alcanza una concentración alta y sostenida de estrógenos, el efecto sobre la hipófisis se invierte y provoca un pico de LH.
+- Por eso en el ciclo ovárico conviven los dos mecanismos: la retroalimentación negativa durante casi todo el ciclo y una ventana breve de retroalimentación positiva justo antes de la ovulación.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Durante casi todo el ciclo, los estrógenos frenan la secreción de LH. Sin embargo, cuando alcanzan concentraciones altas y sostenidas antes de la ovulación, provocan un pico de LH. ¿Qué nombre recibe ese segundo comportamiento?
+A) Retroalimentación negativa, porque los estrógenos regulan la LH.
+B) Inhibición competitiva, porque los estrógenos ocupan el receptor de la LH.
+C) Retroalimentación positiva, porque el producto estimula su propio estímulo.
+D) Homeostasis, porque el organismo mantiene constante la concentración.
+Correcta: C. Por qué: El criterio para clasificar es si el producto frena o estimula lo que lo produce. Aquí los estrógenos, en vez de frenar, amplifican la secreción de LH: eso es retroalimentación positiva. No es inhibición competitiva, porque no hay competencia por un receptor, ni homeostasis, porque el resultado es un cambio brusco y no una estabilidad.
+
+Pregunta 2 (Evaluar): Se sostiene que «la retroalimentación positiva es un error del sistema endocrino, porque desestabiliza las concentraciones hormonales». ¿Cuál es la evaluación adecuada?
+A) Es inadecuada: ese cambio brusco es justamente lo que desencadena la ovulación.
+B) Es correcta: cualquier desestabilización de una variable es perjudicial.
+C) Es inadecuada, porque la retroalimentación positiva no existe en el ser humano.
+D) Es correcta, porque el organismo debe mantener siempre valores constantes.
+Correcta: A. Por qué: Un cambio brusco es exactamente lo que se necesita cuando el organismo debe producir un suceso puntual, como romper el folículo y liberar el ovocito. Una regulación que solo estabilizara nunca generaría ese pico. Por eso la retroalimentación positiva no es un error, sino un mecanismo con una función específica y acotada en el tiempo.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que el pico de LH es consecuencia de niveles altos y sostenidos de estrógenos. ¿Qué diseño es el adecuado?
+A) Medir la LH durante un ciclo completo sin administrar ninguna sustancia.
+B) Administrar estrógenos altos y sostenidos, y luego registrar la LH.
+C) Administrar LH y registrar los niveles de estrógenos resultantes.
+D) Comparar la LH de dos personas con ciclos de distinta duración.
+Correcta: B. Por qué: La hipótesis afirma que los estrógenos son la causa, de modo que hay que manipularlos y observar la LH, que es el efecto esperado. Medir sin intervenir solo describe el fenómeno, administrar LH invierte la relación causal y comparar dos personas no manipula nada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

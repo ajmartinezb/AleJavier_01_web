@@ -1,0 +1,43 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 35: e. Lo que tienen en común los cuatro campos del temario
+Sección: 8. Aplicaciones industriales: detergentes y vestuario
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Lo que tienen en común los cuatro campos del temario». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente Alimentos, Fármacos, Detergentes, Vestuario, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Lo que tienen en común los cuatro campos del temario», dentro de la sección «8. Aplicaciones industriales: detergentes y vestuario» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Alimentos, Fármacos, Detergentes, Vestuario.
+
+Ideas guía:
+- En los cuatro casos el esquema es el mismo: se identifica un gen útil, se lo introduce en un organismo que crece bien y barato, y se cosecha lo que ese organismo produce.
+- Cambia el gen y cambia el producto; el procedimiento de la sección 5 no cambia.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): En los cuatro campos del temario se sigue el mismo esquema: identificar un gen útil, introducirlo en un organismo que crece bien y barato, y cosechar lo que produce. ¿Qué cambia entre un campo y otro?
+A) El gen elegido y el producto obtenido, pero no el procedimiento empleado.
+B) El procedimiento empleado, que es distinto en cada uno de los cuatro campos.
+C) El código genético del organismo receptor, que se adapta a cada producto.
+D) La necesidad de verificar la expresión, que solo se exige en el campo farmacéutico.
+Correcta: A. Por qué: Se elige un gen distinto según lo que se quiera obtener, y el organismo productor se elige según sus condiciones de cultivo y sus capacidades. Pero los seis pasos —aislar, cortar, unir, introducir, seleccionar y verificar— se repiten en todos los casos. Esa constancia es lo que permite estudiar los cuatro campos juntos.
+
+Pregunta 2 (Procesar y analizar la evidencia): El algodón aparece a la vez entre los cultivos transgénicos alimentarios y entre las aplicaciones textiles. ¿Qué explica esa doble presencia?
+A) Es una especie que se modifica con dos genes distintos según su destino final.
+B) Es una especie que cambia de nombre según la industria que la procesa.
+C) Es una especie que se cultiva solo para uso textil, pese a figurar entre los alimentarios.
+D) Es una especie de la que se aprovechan tanto la semilla como la fibra.
+Correcta: D. Por qué: Del algodón se obtiene la fibra que rodea la semilla, destinada a la industria textil, y también la semilla misma, de la que se extrae aceite y se elabora alimento para ganado. Por eso una misma planta modificada rinde productos que pertenecen a dos de los campos del temario.
+
+Pregunta 3 (Comunicar): Un grupo debe presentar los cuatro campos de aplicación del temario a un curso, mostrando que responden a un mismo principio. ¿Qué organización comunica mejor esa idea?
+A) Presentar cada campo por separado, sin establecer relaciones entre ellos.
+B) Presentar solo el campo farmacéutico, por ser el de mayor impacto sanitario.
+C) Presentar el esquema común y luego un ejemplo representativo de cada campo.
+D) Presentar los campos ordenados según el año en que apareció cada aplicación.
+Correcta: C. Por qué: Si el mensaje es que los cuatro responden a un mismo principio, la exposición debe empezar por ese principio y usar los ejemplos para ilustrarlo. Presentarlos por separado o por orden cronológico deja el principio invisible, y reducirse a uno solo impide mostrar que se repite.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

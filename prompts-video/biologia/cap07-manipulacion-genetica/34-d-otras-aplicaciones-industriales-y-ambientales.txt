@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 34: d. Otras aplicaciones industriales y ambientales
+Sección: 8. Aplicaciones industriales: detergentes y vestuario
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Otras aplicaciones industriales y ambientales». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente Biocombustibles, Biorremediación, Papel, Alimentación animal, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Otras aplicaciones industriales y ambientales», dentro de la sección «8. Aplicaciones industriales: detergentes y vestuario» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Biocombustibles, Biorremediación, Papel, Alimentación animal.
+
+Ideas guía:
+- Microorganismos modificados que fermentan residuos vegetales y producen etanol.
+- Bacterias capaces de degradar hidrocarburos o metabolizar contaminantes en suelos y aguas.
+- Enzimas que reemplazan parte de los compuestos clorados usados para blanquear la pulpa.
+- Fitasas que liberan el fósforo del alimento, lo que reduce el fósforo excretado y, con ello, la contaminación de las aguas cercanas a los planteles.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se agrega fitasa al alimento de un plantel animal y se observa que disminuye el fósforo presente en las excretas. ¿Qué explica ese resultado?
+A) La enzima destruye el fósforo del alimento, lo que reduce su presencia en las excretas.
+B) La enzima impide que el animal absorba el fósforo, que queda retenido en el intestino.
+C) La enzima libera el fósforo del alimento, de modo que el animal lo aprovecha en vez de excretarlo.
+D) La enzima transforma el fósforo en nitrógeno, que se elimina por una vía distinta.
+Correcta: C. Por qué: Buena parte del fósforo de los alimentos vegetales está en una forma que muchos animales no pueden absorber, y por eso pasa directamente a las excretas. La fitasa lo libera y lo vuelve aprovechable, de modo que el animal lo absorbe y se excreta menos. El elemento no desaparece ni se transforma en otro.
+
+Pregunta 2 (Planificar y conducir una investigación): Se propone usar bacterias modificadas para degradar hidrocarburos en un suelo contaminado. ¿Qué evidencia permitiría evaluar si el tratamiento funciona?
+A) El número de bacterias presentes en el suelo al finalizar el período de tratamiento.
+B) El color y el olor del suelo tratado, comparados con los de un suelo sin contaminación.
+C) El costo total del tratamiento por metro cuadrado de suelo intervenido.
+D) La concentración de hidrocarburos en el suelo antes y después, comparada con un sector sin tratar.
+Correcta: D. Por qué: El objetivo del tratamiento es reducir la concentración del contaminante, de modo que esa es la variable que hay que medir, antes y después. El sector sin tratar funciona como control y permite descartar que la disminución se deba a evaporación o a lluvia. El número de bacterias indica que sobreviven, no que degraden.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo observa que un derrame de petróleo ocurrido hace años se degradó mucho más rápido en un sector de la costa que en otro, pese a condiciones de marea y temperatura semejantes. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Qué microorganismos presentes en cada sector se asocian a esa diferencia de degradación?
+B) ¿Cuántos litros de petróleo se derramaron en total durante el accidente ocurrido?
+C) ¿Qué empresa era la responsable del transporte del petróleo en ese momento?
+D) ¿Cuántas personas viven actualmente en las localidades cercanas a la costa?
+Correcta: A. Por qué: El enunciado descarta la marea y la temperatura al declararlas semejantes. Queda entonces la comunidad de microorganismos de cada sector como explicación plausible, y esa es la pregunta que abre además una aplicación práctica: identificar esos microorganismos para usarlos en biorremediación.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

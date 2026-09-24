@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 27: d. Cómo se pregunta esto en la PAES
+Sección: 7. Efectos del café, el alcohol y las drogas de abuso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Cómo se pregunta esto en la PAES». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente razonar con el mecanismo, Deducir el efecto, aumenta, disminuye, Interpretar datos, Evaluar una afirmación, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Cómo se pregunta esto en la PAES», dentro de la sección «7. Efectos del café, el alcohol y las drogas de abuso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: razonar con el mecanismo, Deducir el efecto, aumenta, disminuye, Interpretar datos, Evaluar una afirmación.
+
+Ideas guía:
+- No se pide memorizar sustancias, sino razonar con el mecanismo.
+- Las tareas habituales son: Deducir el efecto a partir del mecanismo: si algo bloquea un receptor inhibitorio, la actividad aumenta; si potencia uno inhibitorio, disminuye.
+- Interpretar datos de consumo, de tiempo de reacción o de accidentabilidad.
+- Evaluar una afirmación, del tipo «el alcohol estimula» o «la cafeína da energía», que son justamente las dos confusiones más frecuentes.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un ítem entrega este dato: «La sustancia Z impide que el transportador devuelva la serotonina al terminal presináptico». ¿Qué efecto debe predecirse sobre la sinapsis serotoninérgica?
+A) La serotonina deja de sintetizarse en la neurona presináptica.
+B) La serotonina permanece más tiempo en el espacio sináptico y su efecto se prolonga.
+C) La serotonina se degrada más rápido dentro del terminal presináptico.
+D) La serotonina deja de liberarse hacia el espacio sináptico.
+Correcta: B. Por qué: El transportador mencionado es el de recaptación, es decir, uno de los mecanismos que retiran el neurotransmisor del espacio sináptico. Si se bloquea, la serotonina no vuelve al terminal y permanece más tiempo disponible para sus receptores, con lo que el efecto postsináptico se intensifica y se prolonga. La síntesis y la liberación no se ven afectadas.
+
+Pregunta 2 (Evaluar): Un ítem presenta un gráfico con el consumo de alcohol en escolares entre 2013 y 2023 y pide una conclusión. Un estudiante responde: «El alcohol es una sustancia peligrosa para la salud». ¿Cómo debe evaluarse esa respuesta?
+A) Es adecuada, porque describe con precisión la tendencia que muestra el gráfico.
+B) Es inadecuada, porque el alcohol no representa ningún riesgo para la salud escolar.
+C) Es inadecuada: puede ser cierta, pero no se desprende de los datos.
+D) Es adecuada, porque toda conclusión sobre alcohol es válida ante un gráfico de consumo.
+Correcta: C. Por qué: El gráfico informa sobre la evolución del consumo en el tiempo, de modo que una conclusión válida debe hablar de aumentos o descensos entre años. La afirmación sobre la peligrosidad del alcohol es correcta en sí misma, pero pertenece a otro tipo de evidencia y no puede leerse en ese gráfico.
+
+Pregunta 3 (Comunicar): Se debe redactar el pie de un gráfico que muestra la concentración de alcohol en la sangre a lo largo de las horas posteriores a su ingesta. ¿Cuál es el pie más adecuado?
+A) Cantidad de bebidas consumidas por persona en cada hora de la jornada.
+B) Número de personas que consumieron alcohol durante cada hora del día.
+C) Tiempo, en horas, que tarda cada bebida alcohólica en ser servida.
+D) Concentración de alcohol en la sangre, en g/L, según el tiempo.
+Correcta: D. Por qué: El pie correcto nombra la variable dependiente con su unidad, gramos por litro, y la independiente, el tiempo transcurrido, que es exactamente lo que el gráfico representa. Las demás opciones describen recuentos de bebidas o de personas, es decir, gráficos distintos del descrito en el enunciado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

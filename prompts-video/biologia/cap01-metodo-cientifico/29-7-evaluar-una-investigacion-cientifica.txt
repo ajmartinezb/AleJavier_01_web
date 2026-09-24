@@ -1,0 +1,41 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 29: 7. Evaluar una investigación científica
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Evaluar una investigación científica». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente validez, confiabilidad, alcances y limitaciones, replicabilidad, coherencia, tecnología, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «7. Evaluar una investigación científica» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: validez, confiabilidad, alcances y limitaciones, replicabilidad, coherencia, tecnología.
+
+Ideas guía:
+- «Evaluar» es una de las cinco habilidades de la PAES y, según el temario oficial, incluye juzgar la validez, la confiabilidad, los alcances y limitaciones de una investigación, su replicabilidad, la coherencia entre sus partes y su aporte a la tecnología.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un equipo estudió si la cafeína altera el sueño. Quince voluntarios bebieron café con 200 mg de cafeína a las 20:00 y, esa noche, se midió con un sensor de muñeca el tiempo que tardaron en dormirse: promedio de 38 minutos. El equipo concluyó que la cafeína retrasa el inicio del sueño. ¿Cuál es la principal debilidad de esta investigación?
+A) No incluyó un grupo que bebiera café sin cafeína en igual horario.
+B) Usó un sensor de muñeca en vez de registrar el sueño con otro método.
+C) Midió la latencia del sueño en lugar de medir la duración total.
+D) Entregó una dosis de cafeína mayor que la de una taza habitual.
+Correcta: A. Por qué: Paso 1: la conclusión afirma un efecto causal de la cafeína. Paso 2: para atribuir los 38 minutos a la cafeína hay que saber cuánto tardan en dormirse personas en iguales condiciones sin ella. Paso 3: el estudio no tiene ese grupo, por lo que el valor podría deberse al ambiente, a la bebida caliente o a la expectativa. La debilidad principal es la ausencia de un grupo control con café descafeinado.
+
+Pregunta 2 (Evaluar): Para evaluar un medio de cultivo nuevo, una bióloga siembra células de piel humana en 3 placas con el medio nuevo y 3 con el medio estándar, todas a 37 °C. Tras 48 horas, en cada placa cuenta células con un microscopio distinto calibrado por diferentes técnicos. ¿Qué aspecto de la investigación se ve más comprometido?
+A) La coherencia, porque la pregunta no se relaciona con el diseño.
+B) La confiabilidad, por medir con instrumentos no estandarizados.
+C) La ética, porque se utilizan células de origen humano en placas.
+D) El alcance, porque solo se probó una temperatura de incubación.
+Correcta: B. Por qué: Paso 1: el diseño compara medios y controla la temperatura, así que la idea es coherente. Paso 2: el conteo final se hace con seis microscopios distintos calibrados por personas diferentes. Paso 3: si cada instrumento cuenta de forma levemente distinta, la variación entre placas puede deberse al instrumento y no al medio. Por eso se compromete la confiabilidad de los datos.
+
+Pregunta 3 (Procesar y analizar la evidencia): Un grupo cultivó bacterias E. coli con ampicilina en concentraciones de 0, 2, 4 y 8 µg/mL. El porcentaje de colonias sobrevivientes fue 100, 60, 25 y 3 %, respectivamente. A partir solo de estos datos, ¿qué conclusión es válida?
+A) La ampicilina elimina a toda bacteria si supera los 8 µg/mL.
+B) Las bacterias sobrevivientes adquirieron resistencia al antibiótico.
+C) En el rango probado, a más ampicilina hay menos sobrevivencia.
+D) La sobrevivencia disminuye a la mitad cada vez que se duplica la dosis.
+Correcta: C. Por qué: Paso 1: se ordena la tabla: 0 → 100 %, 2 → 60 %, 4 → 25 %, 8 → 3 %. Paso 2: la tendencia es inversa: al aumentar la concentración, baja la sobrevivencia. Paso 3: se verifica cada alternativa contra el rango (0 a 8 µg/mL) y la especie (E. coli). Solo la conclusión que se restringe al rango probado es válida.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

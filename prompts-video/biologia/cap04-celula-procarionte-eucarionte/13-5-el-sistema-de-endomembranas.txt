@@ -1,0 +1,43 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 13: 5. El sistema de endomembranas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «El sistema de endomembranas». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente conectados, vesículas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «5. El sistema de endomembranas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: conectados, vesículas.
+
+Ideas guía:
+- El sistema de endomembranas es un conjunto de organelos que trabajan conectados, ya sea directamente o mediante vesículas que viajan de uno a otro.
+- Lo forman la envoltura nuclear, el retículo endoplasmático, el complejo de Golgi, los lisosomas, las vacuolas y la membrana plasmática.
+- Juntos fabrican, modifican, empaquetan y distribuyen proteínas y lípidos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una investigadora compara la superficie total de membranas internas en dos tipos celulares de ratón, expresada como porcentaje del total de membranas de la célula. En las células acinares del páncreas, el retículo endoplasmático rugoso representa 60 % y el Golgi 10 %; en los eritrocitos maduros, ambos valores son 0 %. ¿Qué inferencia es coherente con estos datos?
+A) Las células acinares dedican gran parte de su maquinaria a producir y exportar proteínas.
+B) Los eritrocitos maduros sintetizan sus proteínas de exportación en el retículo endoplasmático liso.
+C) Las células acinares carecen de membrana plasmática porque todo es membrana interna.
+D) Los eritrocitos maduros secretan más proteínas que las células acinares del páncreas.
+Correcta: A. Por qué: Las acinares tienen 70 % de su membrana en RER y Golgi: son fábricas de enzimas digestivas que se secretan. Los eritrocitos maduros no tienen estos organelos, así que no pueden fabricar ni exportar proteínas por esta vía. La única inferencia que conecta estructura y función es A.
+
+Pregunta 2 (Observar y plantear preguntas): Un estudiante observa al microscopio electrónico que ciertas vesículas aparecen entre el retículo endoplasmático y el Golgi, y otras entre el Golgi y la membrana plasmática. Piensa que las vesículas transportan material en un solo sentido, desde el retículo hacia la membrana. ¿Cuál de las siguientes preguntas de investigación permite poner a prueba directamente esa idea?
+A) ¿Cuántas vesículas tiene una célula acinar del páncreas en comparación con una neurona?
+B) ¿Una proteína marcada en el retículo aparece después en el Golgi y luego en la membrana?
+C) ¿Qué tamaño promedio tienen las vesículas que se ubican alrededor del complejo de Golgi?
+D) ¿El complejo de Golgi de las células vegetales fabrica los polisacáridos de la pared?
+Correcta: B. Por qué: La hipótesis habla del sentido del transporte en el tiempo. Para comprobarlo hay que seguir el mismo material y ver en qué orden visita los compartimentos. La alternativa B plantea justamente rastrear una proteína marcada y registrar la secuencia retículo, Golgi, membrana. Las demás miden número, tamaño o una función del Golgi, datos que no informan sobre la dirección del movimiento.
+
+Pregunta 3 (Evaluar): Para demostrar que la membrana plasmática recibe material desde el Golgi, un grupo marca con fluorescencia una proteína de membrana en cultivos celulares. Tras 60 minutos, la fluorescencia aparece en la superficie celular. El grupo no registró la fluorescencia en tiempos intermedios. ¿Cuál es la principal limitación de este diseño para la conclusión planteada?
+A) No usó un aminoácido radiactivo, que es el único marcador válido en biología celular.
+B) Usó cultivos celulares en lugar de un órgano completo extraído desde un animal adulto sano.
+C) No prueba que la proteína pasó por el Golgi antes de llegar a la superficie celular.
+D) No midió la cantidad de ribosomas libres presentes en el citosol de cada célula.
+Correcta: C. Por qué: El dato final solo muestra que la proteína terminó en la membrana plasmática. Sin observaciones a tiempos intermedios, no hay evidencia de que haya estado en el Golgi: podría haber llegado por otra vía. Por eso la limitación central es C. El tipo de marcador o de material biológico no invalida la conclusión, y los ribosomas libres no forman parte del recorrido estudiado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

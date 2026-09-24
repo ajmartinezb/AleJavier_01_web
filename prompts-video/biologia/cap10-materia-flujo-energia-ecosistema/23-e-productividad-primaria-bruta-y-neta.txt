@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 23: e. Productividad primaria bruta y neta
+Sección: 7. Respiración celular: el otro lado del balance
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Productividad primaria bruta y neta». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente Productividad primaria bruta (PPB), Productividad primaria neta (PPN), después, neta, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Productividad primaria bruta y neta», dentro de la sección «7. Respiración celular: el otro lado del balance» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Productividad primaria bruta (PPB), Productividad primaria neta (PPN), después, neta.
+
+Ideas guía:
+- De aquí sale una distinción que después se usa en las pirámides: Productividad primaria bruta (PPB): toda la materia orgánica que los productores fabrican por fotosíntesis en un tiempo y una superficie dados.
+- Productividad primaria neta (PPN): lo que queda después de descontar lo que los propios productores gastan en su respiración.
+- Es la materia realmente disponible para los consumidores.
+- PPN = PPB − respiración de los productores Si un ítem entrega los tres valores y pregunta cuánta materia queda para los herbívoros, la respuesta es la neta, nunca la bruta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un estudiante observa que dos ecosistemas tienen la misma productividad primaria bruta, pero uno entrega mucha menos materia a sus herbívoros. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuántas especies de herbívoros habitan en cada uno de los dos ecosistemas?
+B) ¿Cuánto gastan los productores de cada ecosistema en su propia respiración?
+C) ¿En qué año se midió por primera vez la productividad de esos lugares?
+D) ¿Qué superficie en kilómetros cuadrados ocupa cada uno de los ecosistemas?
+Correcta: B. Por qué: Si la bruta es la misma y lo disponible difiere, la diferencia tiene que estar en el descuento, es decir, en cuánto respiran los productores de cada lugar. Preguntar por eso es ir directamente a la variable que falta. Las demás preguntas se refieren a la fauna, a la historia de las mediciones o a la superficie.
+
+Pregunta 2 (Evaluar): Un informe sostiene que «toda la materia orgánica que fabrican los productores queda disponible para los herbívoros». ¿Cuál es la precisión necesaria?
+A) Es correcta, porque los productores no consumen la materia que fabrican.
+B) Es incorrecta, porque los herbívoros no se alimentan de los productores.
+C) Es incorrecta: hay que descontar la respiración de los productores.
+D) Es incorrecta, porque los productores fabrican materia inorgánica y no orgánica.
+Correcta: C. Por qué: Las plantas usan una parte importante de lo que producen para mantenerse vivas, crecer y transportar sustancias, y esa parte se degrada en su propia respiración. Solo lo que queda puede pasar al nivel siguiente. Por eso distinguir bruta de neta no es un tecnicismo: cambia la cifra que se usa en los cálculos tróficos.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comparar la productividad primaria neta de dos ecosistemas de superficie distinta. ¿Qué precaución es indispensable?
+A) Expresar los resultados por unidad de superficie y de tiempo en ambos casos.
+B) Medir solo el ecosistema de mayor superficie y extrapolar al otro.
+C) Comparar la masa total de materia orgánica acumulada en cada ecosistema.
+D) Registrar la cantidad de especies presentes en cada uno de los ecosistemas.
+Correcta: A. Por qué: Si un ecosistema es mayor, su producción total será mayor aunque sea menos productivo por metro cuadrado. Referir los datos a una misma unidad de superficie y de tiempo elimina esa distorsión. Comparar masa acumulada mide biomasa, que es un estado, y no producción, que es una tasa.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

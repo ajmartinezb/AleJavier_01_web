@@ -1,0 +1,44 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 18: b. Los cuatro niveles de estructura
+Sección: 6. Proteínas y enzimas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Los cuatro niveles de estructura». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Primaria, Secundaria, Terciaria, Cuaternaria, desnaturaliza, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Los cuatro niveles de estructura», dentro de la sección «6. Proteínas y enzimas» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Primaria, Secundaria, Terciaria, Cuaternaria, desnaturaliza.
+
+Ideas guía:
+- Una proteína funciona por su forma tridimensional, no por su composición.
+- Si esa forma se pierde —por calor, por pH extremo o por ciertas sustancias— la proteína se desnaturaliza y deja de servir, aunque su secuencia siga intacta.
+- Por eso un huevo cocido no vuelve a ser crudo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una proteína está formada por cuatro cadenas polipeptídicas que se unen entre sí para funcionar. ¿Qué nivel de estructura describe esa organización?
+A) Primaria.
+B) Cuaternaria.
+C) Secundaria.
+D) Terciaria.
+Correcta: B. Por qué: La hemoglobina, con cuatro cadenas, es el ejemplo clásico. La estructura primaria es la secuencia de aminoácidos, la secundaria son las hélices y láminas locales sostenidas por puentes de hidrógeno del esqueleto, y la terciaria es la forma tridimensional completa de una sola cadena.
+
+Pregunta 2 (Evaluar): Un huevo cocido no vuelve a ser crudo al enfriarse. Un estudiante concluye que el calor rompió los enlaces peptídicos de sus proteínas. ¿Cuál es la mejor evaluación de esa conclusión?
+A) Es correcta, porque la desnaturalización consiste en romper enlaces peptídicos.
+B) Es correcta, porque el huevo cocido ya no contiene proteínas completas.
+C) Es incorrecta, porque el calor no produce ningún cambio en las proteínas.
+D) No lo es: el calor destruyó el plegamiento, pero la secuencia de aminoácidos se mantiene.
+Correcta: D. Por qué: Las interacciones que sostienen el plegamiento son débiles y el calor las deshace; los enlaces peptídicos, en cambio, son covalentes y resisten. Por eso el huevo cocido conserva sus proteínas, solo que desplegadas y agregadas entre sí. La última alternativa niega un cambio evidente a simple vista.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que una proteína pierde su función al desnaturalizarse sin perder su secuencia de aminoácidos. ¿Qué par de mediciones se necesita?
+A) Medir la actividad antes y después del calentamiento y secuenciar la proteína en ambos momentos.
+B) Medir la masa de la proteína antes y después del calentamiento aplicado.
+C) Medir la temperatura del baño y el tiempo total de calentamiento empleado.
+D) Medir el color de la solución antes y después de aplicar el calentamiento.
+Correcta: A. Por qué: La afirmación tiene dos partes y cada una exige su medición: la actividad comprueba la pérdida de función y la secuenciación comprueba que la cadena sigue completa. La masa, la temperatura del baño y el color son datos del procedimiento o del aspecto, y no responden ninguna de las dos partes.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

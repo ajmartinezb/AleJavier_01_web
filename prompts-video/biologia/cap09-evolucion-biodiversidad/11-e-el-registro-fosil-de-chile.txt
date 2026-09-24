@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 11: e. El registro fósil de Chile
+Sección: 3. La historia del planeta y la historia de la vida en 24 horas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «El registro fósil de Chile». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Atacamatitan chilensis, Chilesaurus diegosuarezi, desierto de Atacama, partes duras, ambientes sedimentarios, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. El registro fósil de Chile», dentro de la sección «3. La historia del planeta y la historia de la vida en 24 horas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Atacamatitan chilensis, Chilesaurus diegosuarezi, desierto de Atacama, partes duras, ambientes sedimentarios.
+
+Ideas guía:
+- Chile aporta piezas propias a esta historia, y son un contexto habitual de las preguntas de la PAES: Atacamatitan chilensis: titanosaurio del Cretácico, de hace unos 100 Ma, hallado cerca de Conchi Viejo en la Región de Antofagasta.
+- Fue el primer dinosaurio no aviano descrito para Chile.
+- Chilesaurus diegosuarezi: dinosaurio del Jurásico superior (150–146 Ma) de la Región de Aysén, encontrado en 2004 por Diego Suárez cuando tenía siete años.
+- Su interés científico está en que combina rasgos de tres grandes grupos de dinosaurios, lo que obliga a revisar cómo se reconstruye su parentesco.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un aficionado sostiene que la ausencia de fósiles de un grupo de anfibios en un bosque de montaña demuestra que ese grupo nunca habitó allí. ¿Qué objeción corresponde hacer a su razonamiento?
+A) La fosilización ocurre en todos los ambientes por igual, de modo que la muestra es suficiente.
+B) La fosilización es poco probable y depende del ambiente, así que la ausencia no prueba nada.
+C) Los anfibios tienen esqueleto óseo, por lo que fosilizan con más facilidad que otros grupos.
+D) La ausencia de fósiles solo puede evaluarse si se dispone de una datación radiométrica.
+Correcta: B. Por qué: Un bosque de montaña es un ambiente erosivo, con poca sedimentación y mucha actividad descomponedora: casi no conserva restos. Por eso la ausencia de fósiles allí es lo esperable aunque el grupo haya sido abundante. Concluir que nunca habitó el lugar confunde «no hay evidencia» con «hay evidencia de ausencia».
+
+Pregunta 2 (Procesar y analizar la evidencia): El dinosaurio chileno Chilesaurus diegosuarezi combina rasgos que hasta su hallazgo se consideraban propios de tres grupos distintos de dinosaurios. ¿Qué consecuencia tiene un hallazgo de este tipo para el trabajo científico?
+A) Obliga a revisar la hipótesis de parentesco de esos grupos de dinosaurios.
+B) Invalida el uso del registro fósil como evidencia del proceso evolutivo.
+C) Demuestra que los tres grupos de dinosaurios pertenecían a una sola especie.
+D) Confirma que los rasgos anatómicos no sirven para reconstruir parentescos.
+Correcta: A. Por qué: Una combinación inesperada de caracteres significa que la distribución supuesta de esos rasgos entre los linajes era incorrecta o incompleta. Lo que corresponde, entonces, es reanalizar la matriz de caracteres y proponer un árbol que explique la nueva combinación con el menor número de cambios. El hallazgo corrige el modelo, no destruye el método.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo planifica una prospección de fósiles de vertebrados marinos en el norte de Chile y debe elegir dónde excavar. ¿Qué criterio aumenta la probabilidad de hallazgo?
+A) Excavar en rocas volcánicas recientes, porque conservan mejor la materia orgánica.
+B) Excavar en laderas con vegetación densa, porque protegen los restos de la erosión.
+C) Excavar en suelos agrícolas profundos, porque acumulan sedimento continuamente.
+D) Excavar en rocas sedimentarias marinas de la edad en que vivió el grupo buscado.
+Correcta: D. Por qué: Buscar vertebrados marinos exige rocas que se hayan formado en el mar, y buscarlos de una época determinada exige que esas rocas tengan la edad correspondiente. Ambas condiciones se cumplen en rocas sedimentarias marinas de esa edad. Las rocas volcánicas se forman a temperaturas que destruyen los restos, y los suelos agrícolas o las laderas con vegetación no conservan fósiles antiguos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

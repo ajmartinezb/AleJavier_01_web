@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 29: c. Fecundación al azar
+Sección: 8. Meiosis y variabilidad genética
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Fecundación al azar». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente 70 billones, algunos, partenogénesis, meiosis, más variabilidad, clones, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Fecundación al azar», dentro de la sección «8. Meiosis y variabilidad genética» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 70 billones, algunos, partenogénesis, meiosis, más variabilidad, clones.
+
+Ideas guía:
+- Cualquier espermatozoide puede fecundar a cualquier ovocito.
+- Solo por segregación independiente, una pareja humana puede formar unos 8,4 millones × 8,4 millones ≈ 70 billones de combinaciones distintas de cigotos, y el entrecruzamiento las multiplica todavía más.
+- Una población con individuos genéticamente diversos tiene más probabilidades de que algunos sobrevivan ante un cambio ambiental, como una enfermedad nueva o un cambio de clima.
+- La variabilidad es la materia prima de la selección natural (capítulo 9).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): En un laboratorio se fecundan in vitro diez ovocitos de una misma hembra de erizo de mar con espermatozoides de un mismo macho. Al analizar el ADN de las larvas, se observa que todas son genéticamente distintas entre sí. ¿Qué pregunta de investigación surge de manera más directa de esta observación?
+A) ¿Por qué descendientes de los mismos progenitores tienen combinaciones de alelos distintas?
+B) ¿A qué temperatura se desarrollan más rápido las larvas de erizo de mar en cultivo?
+C) ¿Cuántos ovocitos puede liberar una hembra de erizo de mar en cada temporada?
+D) ¿Qué alimento prefieren las larvas de erizo de mar durante sus primeros días?
+Correcta: A. Por qué: Lo llamativo es que diez larvas de los mismos padres, obtenidas en las mismas condiciones, sean todas genéticamente distintas. La pregunta que se desprende apunta al origen de esa diferencia: por qué hijos de los mismos progenitores tienen combinaciones distintas de alelos. La respuesta involucra la meiosis (cada gameto es único) y la fecundación al azar (se unen gametos distintos en cada caso). Las otras preguntas son investigables, pero no…
+
+Pregunta 2 (Planificar y conducir una investigación): Una estudiante quiere demostrar a su curso que la fecundación al azar aumenta la cantidad de combinaciones posibles. Para ello usa dos bolsas: la bolsa 1 simula los gametos de la madre y la bolsa 2 los del padre. ¿Qué procedimiento representa mejor la fecundación al azar?
+A) Sacar varias fichas de la bolsa 1 y comparar entre sí los colores que se obtienen.
+B) Sacar sin mirar una ficha de cada bolsa, unirlas, anotar el par y devolverlas.
+C) Sacar siempre la primera ficha de la bolsa 1 y unirla con cualquiera de la bolsa 2.
+D) Sacar dos fichas de la bolsa 2, unirlas, anotarlas y repetir muchas veces el paso.
+Correcta: B. Por qué: Un cigoto se forma con un gameto de cada progenitor, elegido al azar entre muchos posibles. Sacar sin mirar una ficha de cada bolsa, unirlas y devolverlas para repetir representa esas dos condiciones y permite registrar todas las combinaciones. Usar una sola bolsa no representa a dos progenitores; fijar la ficha de la madre elimina el azar de uno de los gametos; y unir dos fichas del padre no forma un cigoto.
+
+Pregunta 3 (Procesar y analizar la evidencia): En una especie hipotética con 2n = 8, se consideran solo las combinaciones generadas por la segregación independiente de los homólogos, sin entrecruzamiento. ¿Cuántas combinaciones cromosómicas distintas pueden originarse en los cigotos de una pareja por fecundación al azar?
+A) 16
+B) 32
+C) 64
+D) 256
+Correcta: D. Por qué: Con 2n = 8 hay n = 4 pares, así que cada progenitor puede formar 2⁴ = 16 tipos de gametos. Como cualquier gameto de la madre puede unirse con cualquiera del padre, los cigotos posibles son 16 × 16 = 256. Responder 16 es quedarse en un solo progenitor; 32 es sumar 16 + 16; y 64 es calcular 2⁴ × 4 o 8², confundiendo el procedimiento.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

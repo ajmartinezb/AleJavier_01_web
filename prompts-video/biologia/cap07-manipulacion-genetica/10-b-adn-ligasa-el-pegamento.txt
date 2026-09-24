@@ -1,0 +1,44 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 10: b. ADN ligasa: el pegamento
+Sección: 4. Las herramientas: cortar, pegar, copiar y leer el ADN
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «ADN ligasa: el pegamento». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente ADN ligasa, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. ADN ligasa: el pegamento», dentro de la sección «4. Las herramientas: cortar, pegar, copiar y leer el ADN» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ADN ligasa.
+
+Ideas guía:
+- Los extremos cohesivos se aparean por puentes de hidrógeno, que son débiles.
+- La ADN ligasa forma el enlace covalente que une definitivamente las hebras.
+- Es la misma enzima que sella los fragmentos durante la replicación del ADN.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Tras mezclar un plásmido abierto y un gen, ambos cortados con la misma enzima, los extremos cohesivos se aparean pero la molécula se separa con facilidad al manipularla. ¿Qué falta para estabilizarla?
+A) Agregar más enzima de restricción, para que el corte sea más completo.
+B) Elevar la temperatura, para reforzar los puentes de hidrógeno del apareamiento.
+C) Agregar partidores, que fijan los extremos de la región seleccionada.
+D) Agregar ADN ligasa, que forma el enlace covalente entre los fragmentos.
+Correcta: D. Por qué: El apareamiento por complementariedad mantiene juntos los fragmentos, pero mediante enlaces débiles que se rompen con facilidad. La ligasa sella el esqueleto de azúcar y fosfato con enlaces covalentes, mucho más estables. Es el paso 3 del procedimiento y sin él no hay ADN recombinante.
+
+Pregunta 2 (Evaluar): Un estudiante sostiene que la ADN ligasa es «una enzima artificial creada para la ingeniería genética». ¿Qué corresponde objetar?
+A) Es una enzima natural, la misma que sella fragmentos durante la replicación.
+B) Es una enzima natural, pero solo existe en bacterias sometidas a laboratorio.
+C) Es una proteína artificial, aunque se obtenga a partir de cultivos bacterianos.
+D) Es una enzima natural cuya única función conocida es unir fragmentos ajenos.
+Correcta: A. Por qué: La ligasa no fue creada: existe en las células porque la replicación produce fragmentos que deben unirse, y también participa en la reparación del ADN. La ingeniería genética la aprovecha para un fin distinto, igual que ocurre con las enzimas de restricción y con CRISPR.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere comprobar si la ligación entre un plásmido y un inserto tuvo éxito antes de transformar las bacterias. ¿Qué procedimiento le entrega esa información?
+A) Medir la temperatura de la mezcla de reacción al finalizar la ligación.
+B) Separar la mezcla por electroforesis y comparar los tamaños obtenidos.
+C) Contar las colonias que crecen en un medio de cultivo sin antibiótico.
+D) Determinar el pH de la mezcla antes y después de agregar la ligasa.
+Correcta: B. Por qué: Si la ligación funcionó, la molécula resultante es mayor que el plásmido vacío, porque incorpora el inserto. Al separar por electroforesis y comparar con el plásmido sin ligar, la diferencia de tamaño revela el resultado. Temperatura y pH son condiciones de reacción, no resultados, y contar colonias exige haber transformado antes.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

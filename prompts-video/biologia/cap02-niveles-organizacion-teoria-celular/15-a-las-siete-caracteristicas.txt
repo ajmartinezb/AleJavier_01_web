@@ -1,0 +1,43 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 15: a. Las siete características
+Sección: 6. Características de los sistemas biológicos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Las siete características». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente Organización, Metabolismo, Homeostasis, Irritabilidad, Crecimiento y desarrollo, Reproducción, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Las siete características», dentro de la sección «6. Características de los sistemas biológicos» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Organización, Metabolismo, Homeostasis, Irritabilidad, Crecimiento y desarrollo, Reproducción.
+
+Ideas guía:
+- La adaptación evolutiva ocurre en poblaciones y a lo largo de generaciones: un individuo no se adapta, se aclimata.
+- Y el crecimiento de un ser vivo no es lo mismo que el de un cristal: el cristal suma material desde fuera, el organismo lo incorpora, lo transforma y lo integra a su propia estructura.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Al pasar de un ambiente oscuro a uno muy iluminado, la pupila se contrae en fracciones de segundo. ¿Qué característica de los seres vivos ilustra esa respuesta?
+A) La irritabilidad, es decir, la capacidad de detectar estímulos y responder.
+B) La reproducción, porque el ojo genera constantemente nuevas células receptoras.
+C) La adaptación evolutiva, porque el ojo humano ha cambiado con las generaciones.
+D) El crecimiento, porque el músculo del iris aumenta con rapidez su tamaño total.
+Correcta: A. Por qué: La contracción pupilar ocurre en fracciones de segundo, dentro de un mismo individuo y de forma reversible, así que corresponde a irritabilidad. La adaptación evolutiva se da en poblaciones y a lo largo de generaciones, la reproducción implica generar nuevos individuos y el crecimiento supone un aumento de tamaño sostenido, no una contracción momentánea de un músculo.
+
+Pregunta 2 (Evaluar): Un estudiante afirma que un individuo «se adapta» al frío de la cordillera durante el mes que pasa allí, porque produce más glóbulos rojos. ¿Cuál es la corrección conceptual adecuada?
+A) Ninguna: la adaptación ocurre en los individuos a lo largo de toda su vida.
+B) La adaptación solo ocurre en los organismos unicelulares y en las bacterias.
+C) La adaptación ocurre en poblaciones y por generaciones; el individuo se aclimata.
+D) La adaptación es un cambio del ADN que el individuo produce cuando lo necesita.
+Correcta: C. Por qué: Producir más glóbulos rojos en altura es una respuesta fisiológica que revierte al bajar, y por eso corresponde a aclimatación. La tercera alternativa agrega un error más grave, porque sugiere que el organismo modifica su ADN según la necesidad, algo que la selección natural no requiere ni permite. La segunda restringe sin fundamento el fenómeno a los unicelulares.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo encuentra una estructura microscópica y quiere determinar si corresponde a un ser vivo. Ya comprobó que posee organización interna y que consume glucosa. ¿Qué pregunta orienta mejor el paso siguiente?
+A) ¿De qué color se ve la estructura al teñirla con azul de metileno diluido?
+B) ¿Aumenta el número de estructuras en un cultivo mantenido varios días?
+C) ¿Cuál es el peso exacto de cada una de estas estructuras al microscopio?
+D) ¿En qué profundidad del lago fue recogida la muestra original de agua turbia?
+Correcta: B. Por qué: Preguntar si el número de estructuras aumenta en cultivo aborda directamente esa característica pendiente y puede responderse con una observación sencilla. El color con un colorante, el peso exacto y la profundidad de muestreo entregan datos descriptivos o contextuales que no permiten avanzar en la clasificación.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

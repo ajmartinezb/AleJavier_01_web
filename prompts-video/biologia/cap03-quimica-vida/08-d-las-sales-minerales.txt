@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 08: d. Las sales minerales
+Sección: 3. El agua y las sales minerales
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Las sales minerales». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente precipitadas, disueltas, Cómo se pregunta, iones, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Las sales minerales», dentro de la sección «3. El agua y las sales minerales» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: precipitadas, disueltas, Cómo se pregunta, iones.
+
+Ideas guía:
+- Las sales pueden estar precipitadas, dando estructura, o disueltas en forma de iones, cumpliendo funciones dinámicas.
+- Un enunciado describe a una persona que pierde mucho sudor y solo repone agua pura.
+- La respuesta esperada es que pierde también iones, y que su reposición importa tanto como la del agua.
+- Es la lógica de las bebidas de rehidratación.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): El fosfato de calcio de los huesos y el sodio disuelto en el plasma son ambos sales minerales, pero cumplen funciones muy distintas. ¿Qué explica esa diferencia?
+A) Que el fosfato de calcio es orgánico y el sodio es inorgánico.
+B) Que una está precipitada y da estructura, y el otro está disuelto y cumple funciones dinámicas.
+C) Que solo el sodio proviene de la alimentación de la persona.
+D) Que el fosfato de calcio se forma dentro de las propias células y el sodio siempre fuera de ellas.
+Correcta: B. Por qué: El fosfato de calcio precipitado endurece huesos y dientes; el sodio disuelto interviene en el impulso nervioso y la contracción muscular. Ambas sales son inorgánicas y ambas provienen de la dieta, de modo que esas alternativas son falsas, y el lugar de formación no es el criterio que distingue sus funciones.
+
+Pregunta 2 (Evaluar): Un deportista repone con agua pura todo el líquido perdido durante una carrera larga en clima caluroso. ¿Cuál es la principal limitación de esa estrategia?
+A) Que el sudor arrastra iones y su reposición importa tanto como la del agua.
+B) Que el agua pura no puede ser absorbida por el intestino delgado de la persona.
+C) Que el agua pura eleva de manera peligrosa la glucosa presente en la sangre.
+D) Que el agua pura impide la producción posterior de sudor durante el ejercicio.
+Correcta: A. Por qué: Reponer solo agua diluye aún más esos iones y puede provocar calambres y, en casos extremos, un cuadro grave por sodio bajo. Esa es la razón de que las bebidas de rehidratación contengan sales. El agua pura, en cambio, sí se absorbe con normalidad, no altera la glucosa y no impide sudar de nuevo.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere determinar si una muestra de agua de vertiente contiene sales minerales disueltas, sin disponer de análisis químicos sofisticados. ¿Qué procedimiento sencillo lo permite?
+A) Medir la temperatura de la muestra en dos momentos distintos del día.
+B) Observar una gota de la muestra al microscopio óptico con gran aumento.
+C) Comparar el color de la muestra con el de una muestra de agua de mar.
+D) Evaporar un volumen conocido y pesar el residuo sólido que queda.
+Correcta: D. Por qué: Evaporar y pesar el residuo cuantifica directamente la cantidad de sólidos disueltos, que es justamente lo que se pregunta. La temperatura no informa sobre el contenido salino, el microscopio óptico no resuelve iones disueltos y comparar colores no es cuantitativo ni confiable, porque el agua salada es igualmente incolora.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 05: d. Chile: un territorio de islas
+Sección: 2. Biodiversidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Chile: un territorio de islas». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente 33 000 especies nativas, 25 %, endémicas, desierto de Atacama, cordillera de los Andes, océano Pacífico, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Chile: un territorio de islas», dentro de la sección «2. Biodiversidad» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 33 000 especies nativas, 25 %, endémicas, desierto de Atacama, cordillera de los Andes, océano Pacífico.
+
+Ideas guía:
+- Chile tiene unas 33 000 especies nativas descritas y cerca de un 25 % de ellas son endémicas, una proporción muy alta para un país continental.
+- La razón es geográfica: Chile está rodeado de barreras que aíslan a sus poblaciones, igual que si fueran islas.
+- Una población aislada deja de intercambiar genes con las demás.
+- Con el tiempo, la mutación, la deriva genética y la selección natural hacen que acumule diferencias propias hasta constituir una especie distinta (sección 7).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Chile continental está limitado por el desierto de Atacama, la cordillera de los Andes, el océano Pacífico y los hielos australes, y presenta cerca de un 25 % de endemismo entre sus especies descritas. ¿Qué relación entre ambos hechos es correcta?
+A) Las barreras aumentan el número de especies que ingresan desde países vecinos.
+B) Las barreras limitan el intercambio de genes, y ese aislamiento favorece el endemismo.
+C) El endemismo se explica por la extensión latitudinal y no por el aislamiento del territorio.
+D) El endemismo obligó a las especies a generar barreras para evitar mezclarse.
+Correcta: B. Por qué: Las cuatro barreras impiden o dificultan el paso de organismos hacia y desde el territorio. Al interrumpirse el flujo génico, cada población sigue su propio camino evolutivo, y las especies que se originan quedan restringidas a ese territorio: son endémicas. El aislamiento es, entonces, la causa, y el endemismo, la consecuencia.
+
+Pregunta 2 (Observar y plantear preguntas): Un grupo observa que dos poblaciones de un lagarto, separadas por un cordón montañoso surgido hace un millón de años, presentan diferencias notorias en el patrón de manchas y en el tamaño de las escamas. ¿Qué pregunta de investigación se desprende de esta observación?
+A) ¿Qué diferencias genéticas acumularon ambas poblaciones al separarse?
+B) ¿Qué temperatura corporal alcanzan los lagartos al mediodía?
+C) ¿Cuántos depredadores de lagartos habitan actualmente en cada una de las laderas?
+D) ¿Qué altitud máxima alcanza el cordón montañoso que separa a las dos poblaciones?
+Correcta: A. Por qué: La observación combina dos hechos: una separación antigua y diferencias visibles en rasgos heredables. La pregunta que conecta ambos indaga cuánta divergencia genética acumularon las poblaciones desde que dejaron de intercambiar genes. Las otras preguntas son legítimas, pero no se desprenden de lo observado.
+
+Pregunta 3 (Planificar y conducir una investigación): Para decidir si una zona debe declararse prioritaria para la conservación por su alto endemismo, un equipo debe recolectar información. ¿Cuál de los siguientes conjuntos de datos corresponde a esa decisión?
+A) El número total de individuos y su tasa anual de crecimiento.
+B) La superficie de la zona y la cantidad de personas que la visitan cada temporada.
+C) La temperatura y la precipitación medias registradas en la zona durante diez años.
+D) El número de especies de la zona y el porcentaje de ellas que es exclusivo.
+Correcta: D. Por qué: El criterio nombrado en la pregunta es el endemismo. Para evaluarlo hacen falta dos cifras: cuántas especies hay en la zona y qué proporción de ellas no existe fuera de ella. Con esas dos variables se puede comparar la zona con otras y fundamentar la decisión; sin la segunda, solo se sabe cuántas especies hay.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

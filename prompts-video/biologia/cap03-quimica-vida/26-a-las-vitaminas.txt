@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 26: a. Las vitaminas
+Sección: 8. Vitaminas y lo que conviene llevar
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Las vitaminas». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente vitamina, Hidrosolubles, Liposolubles, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Las vitaminas», dentro de la sección «8. Vitaminas y lo que conviene llevar» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: vitamina, Hidrosolubles, Liposolubles.
+
+Ideas guía:
+- Una vitamina es un compuesto orgánico que el organismo necesita en cantidades muy pequeñas y que, en general, no puede fabricar: debe obtenerlo de la dieta.
+- No aportan energía ni sirven de material de construcción; su papel es auxiliar el trabajo de las enzimas.
+- Como las vitaminas liposolubles se acumulan, una sobredosis sostenida puede causar daño.
+- Las hidrosolubles, en cambio, se eliminan con facilidad, y por eso su carencia aparece antes cuando falta en la dieta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Se quiere comprobar que una vitamina es indispensable para una especie animal de laboratorio. ¿Qué diseño lo pone mejor a prueba?
+A) Alimentar a un grupo con dieta completa y a otro con la misma dieta sin esa vitamina.
+B) Alimentar a todos los animales con una dieta enriquecida en esa vitamina.
+C) Medir la concentración de la vitamina en la sangre de animales sanos.
+D) Comparar el peso de dos especies distintas alimentadas con la misma dieta.
+Correcta: A. Por qué: Dos dietas idénticas salvo en ese componente permiten atribuir cualquier diferencia a la vitamina ausente. Enriquecer la dieta no demuestra necesidad, medir la concentración en animales sanos es descriptivo y comparar especies distintas introduce diferencias genéticas que confunden el resultado.
+
+Pregunta 2 (Observar y plantear preguntas): Se observa que la carencia de vitamina C aparece antes que la de vitamina A cuando ambas faltan en la dieta. ¿Cuál es la pregunta que mejor orienta una investigación sobre esa diferencia?
+A) ¿Cuántos miligramos de cada vitamina contiene una porción de fruta fresca?
+B) ¿En qué año se identificó cada una de estas dos vitaminas?
+C) ¿Cómo influye la solubilidad de cada vitamina en su acumulación dentro del cuerpo?
+D) ¿Qué sabor tienen los alimentos ricos en cada una de las dos vitaminas?
+Correcta: C. Por qué: Esa diferencia de acumulación explica por qué la carencia de una vitamina hidrosoluble como la C se manifiesta antes: no hay reservas que amortigüen la falta. El contenido en una porción de fruta, la fecha de identificación y el sabor de los alimentos no abordan el fenómeno descrito.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se clasifican cuatro vitaminas según su solubilidad: A, D, E y K en un grupo, y el complejo B y la C en otro. ¿Qué consecuencia tiene esa diferencia?
+A) El primer grupo se elimina por la orina y el segundo se almacena en el hígado.
+B) El primer grupo se almacena en el cuerpo y el segundo se elimina por la orina.
+C) El primer grupo aporta energía y el segundo cumple funciones estructurales.
+D) El primer grupo lo fabrica el cuerpo y el segundo debe obtenerse de la dieta.
+Correcta: B. Por qué: La segunda alternativa invierte exactamente esa relación. Ninguno de los dos grupos aporta energía ni cumple funciones estructurales, y el organismo humano no fabrica en cantidad suficiente ninguna de estas vitaminas: todas deben obtenerse de la dieta.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

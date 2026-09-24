@@ -1,0 +1,44 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 36: 8. Tablas y gráficos: procesar, analizar y comunicar evidencia
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Tablas y gráficos: procesar, analizar y comunicar evidencia». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente más se repite, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «8. Tablas y gráficos: procesar, analizar y comunicar evidencia» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: más se repite.
+
+Ideas guía:
+- «Procesar y analizar la evidencia» es una de las habilidades que más se repite en la PAES de Ciencias.
+- Casi siempre aparece como una tabla o un gráfico que hay que interpretar.
+- Según el temario oficial, incluye identificar relaciones, patrones o tendencias entre variables, identificar predicciones y resultados, y sacar conclusiones o inferencias a partir de los datos.
+- La habilidad «Comunicar» agrega elegir el recurso adecuado (tabla, gráfico o modelo) para presentar la información.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una estudiante mide la actividad de la enzima catalasa extraída de papa a distintas temperaturas, manteniendo constantes el pH y la cantidad de sustrato. Sus resultados son: Temperatura (°C) / actividad (unidades arbitrarias): 10 → 12; 20 → 25; 30 → 41; 40 → 18. Según estos datos, ¿qué enunciado describe correctamente la tendencia observada?
+A) La actividad sube hasta los 30 °C y luego baja a los 40 °C.
+B) La actividad sube de forma sostenida con la temperatura.
+C) La actividad baja de forma sostenida con la temperatura.
+D) La actividad se mantiene similar entre 10 °C y 40 °C.
+Correcta: A. Por qué: Se recorre la tabla en orden: de 10 a 20 °C la actividad pasa de 12 a 25 unidades; de 20 a 30 °C, de 25 a 41. Hasta ahí aumenta. Pero de 30 a 40 °C cae de 41 a 18 unidades. Por tanto, la actividad crece hasta 30 °C, donde alcanza el valor más alto medido, y después disminuye.
+
+Pregunta 2 (Comunicar): Un equipo cuenta, cada una hora durante 10 horas, el número de bacterias presentes en un cultivo de Escherichia coli mantenido a 37 °C. Quieren presentar sus resultados de modo que se aprecie cómo cambia el tamaño de la población a lo largo del tiempo. ¿Qué recurso es el más adecuado para ese objetivo?
+A) Un gráfico circular con el porcentaje de bacterias en cada hora.
+B) Un gráfico de líneas con el tiempo en el eje horizontal.
+C) Un gráfico de barras con el tiempo en el eje vertical.
+D) Un histograma con las horas agrupadas en intervalos iguales.
+Correcta: B. Por qué: El tiempo (0 a 10 h) es la variable independiente y es continua; el número de bacterias es la dependiente. La independiente se ubica en el eje horizontal (X) y la dependiente en el vertical (Y). Unir los puntos con una línea permite ver la forma de la curva de crecimiento, por ejemplo, si se acelera o se estabiliza.
+
+Pregunta 3 (Procesar y analizar la evidencia): En un experimento con plantas acuáticas iluminadas con la misma intensidad de luz se midió la producción de oxígeno a dos concentraciones de CO₂ disuelto. Concentración de CO₂ (%) / O₂ producido (mL/h): 0,01 → 20; 0,04 → 50. ¿En qué porcentaje aumentó la producción de oxígeno al pasar de 0,01 % a 0,04 % de CO₂?
+A) 30 %
+B) 40 %
+C) 150 %
+D) 250 %
+Correcta: C. Por qué: Valor inicial: 20 mL/h; valor final: 50 mL/h. Diferencia: 50 − 20 = 30 mL/h. Se divide por el valor inicial: 30 ÷ 20 = 1,5. Multiplicado por 100 da 150 %. Es decir, la producción de oxígeno aumentó en 150 % (llegó a 2,5 veces el valor inicial).
+
+Narración en español de Chile neutro, tono cercano y riguroso.

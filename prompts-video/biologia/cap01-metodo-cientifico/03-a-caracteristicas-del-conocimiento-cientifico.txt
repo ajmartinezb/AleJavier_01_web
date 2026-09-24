@@ -1,0 +1,44 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 03: a. Características del conocimiento científico
+Sección: 2. ¿Qué es la ciencia?
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Características del conocimiento científico». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente Empírico, Contrastable (falsable), Reproducible, Provisional, Acumulativo y colectivo, no, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Características del conocimiento científico», dentro de la sección «2. ¿Qué es la ciencia?» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Empírico, Contrastable (falsable), Reproducible, Provisional, Acumulativo y colectivo, no.
+
+Ideas guía:
+- Que el conocimiento científico pueda cambiar no significa que sea débil o que «cualquier opinión valga lo mismo».
+- Significa que la ciencia se corrige a sí misma cuando aparece mejor evidencia.
+- Las teorías más sólidas, como la evolución o la teoría celular, han resistido más de un siglo de pruebas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Durante décadas se representó la membrana celular como una capa de proteínas rígida a ambos lados de los lípidos. Con nuevas técnicas de microscopía se observó que las proteínas se desplazan dentro de la membrana, y el modelo se reemplazó por el de mosaico fluido. ¿Qué característica del conocimiento científico ilustra mejor este caso?
+A) Que el conocimiento científico es débil, porque sus modelos terminan siempre siendo falsos.
+B) Que los modelos científicos se aceptan por la opinión mayoritaria de los investigadores.
+C) Que el conocimiento científico es provisional y se corrige si surge nueva evidencia.
+D) Que las técnicas de microscopía no permiten obtener evidencia fiable sobre las células.
+Correcta: C. Por qué: El modelo antiguo de membrana se abandonó porque nuevas observaciones mostraron proteínas en movimiento. El cambio lo produjo la evidencia, no un gusto ni una votación. Eso es la provisionalidad: la ciencia revisa sus modelos a la luz de mejores datos (C). A confunde provisional con débil; B pone el consenso por sobre la evidencia; D contradice el caso, en que la microscopía aportó justamente la evidencia.
+
+Pregunta 2 (Planificar y conducir una investigación): Una investigadora publica que un extracto de hoja de boldo reduce la actividad de una enzima digestiva en tubos de ensayo. Otro laboratorio quiere comprobar si el resultado es reproducible. ¿Qué debe hacer este segundo laboratorio?
+A) Probar el extracto en pacientes con problemas digestivos para ver si mejoran.
+B) Usar un extracto de otra planta para ver si también reduce la actividad enzimática.
+C) Leer el artículo y aceptar el resultado si la revista en que salió es prestigiosa.
+D) Repetir el procedimiento publicado, en iguales condiciones, y comparar los datos.
+Correcta: D. Por qué: Para comprobar la reproducibilidad no se cambia el experimento: se repite con el mismo extracto, la misma enzima, las mismas concentraciones y temperaturas, y se comparan los datos. Si se obtiene una reducción similar, el resultado se fortalece. Eso es D. A cambia el sistema estudiado (de tubos a pacientes), B cambia la variable independiente y C reemplaza la comprobación por confianza en una autoridad.
+
+Pregunta 3 (Procesar y analizar la evidencia): En el siglo XVII se creía que los gusanos de la carne surgían espontáneamente de ella. Un naturalista puso carne en frascos abiertos y en frascos cubiertos con gasa fina. En la tabla se muestran los resultados: frascos abiertos → moscas posadas y larvas en la carne; frascos con gasa → moscas sobre la gasa, huevos en la gasa y ninguna larva en la carne. ¿Qué conclusión apoyan estos resultados?
+A) Las larvas provienen de huevos de mosca y no se originan de la carne podrida.
+B) La carne en descomposición produce larvas solo cuando recibe aire fresco del ambiente.
+C) La gasa impide que la carne se descomponga y, por eso, en ella no aparecen larvas.
+D) Todos los seres vivos se originan siempre de otros seres vivos de su misma especie.
+Correcta: A. Por qué: Ambos frascos tienen carne y reciben aire (la gasa lo deja pasar). La diferencia es que las moscas no llegan a la carne cubierta: allí no hay larvas, y los huevos quedan sobre la gasa. Por lo tanto, las larvas provienen de huevos de mosca (A). B no se sostiene porque ambos frascos reciben aire; C no se midió; D generaliza a todos los seres vivos a partir de un solo caso.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

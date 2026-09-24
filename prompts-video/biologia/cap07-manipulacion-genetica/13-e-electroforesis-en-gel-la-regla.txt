@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 13: e. Electroforesis en gel: la regla
+Sección: 4. Las herramientas: cortar, pegar, copiar y leer el ADN
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Electroforesis en gel: la regla». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente por su tamaño, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Electroforesis en gel: la regla», dentro de la sección «4. Las herramientas: cortar, pegar, copiar y leer el ADN» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: por su tamaño.
+
+Ideas guía:
+- Se depositan las muestras en un gel y se aplica un campo eléctrico; como el ADN tiene carga negativa por sus grupos fosfato, migra hacia el polo positivo.
+- Los fragmentos pequeños avanzan más rápido y llegan más lejos; los grandes quedan cerca del punto de partida.
+- Comparando con un patrón de tamaños conocidos se estima cuánto mide cada banda.
+- Para comprobar que una PCR funcionó y que amplificó el fragmento del tamaño esperado; para verificar que un plásmido recibió el inserto; y para comparar muestras, que es la base de las pruebas de paternidad y de la identificación forense.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un gel se cargan cuatro muestras junto a un patrón de tamaños conocidos. Las bandas quedan así: la muestra 1 migró 4,0 cm; la 2, 1,5 cm; la 3, 2,8 cm; y la 4, 0,9 cm. ¿Cómo se ordenan las muestras de menor a mayor tamaño de fragmento?
+A) 4, 2, 3 y 1
+B) 2, 4, 1 y 3
+C) 1, 3, 2 y 4
+D) 3, 1, 4 y 2
+Correcta: C. Por qué: La relación es inversa: a mayor distancia recorrida, menor tamaño. La muestra 1 recorrió 4,0 cm, así que es la más pequeña; le sigue la 3 con 2,8 cm; luego la 2 con 1,5 cm; y la más grande es la 4, que apenas avanzó 0,9 cm. El orden de menor a mayor tamaño es 1, 3, 2 y 4.
+
+Pregunta 2 (Observar y plantear preguntas): En un gel, dos muestras de una misma PCR muestran una banda del tamaño esperado, pero una de ellas presenta además dos bandas adicionales de otros tamaños. Ambas reacciones usaron los mismos partidores y el mismo molde. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Cuántos microlitros de muestra se cargaron en cada uno de los dos pocillos del gel?
+B) ¿Qué condición hizo que los partidores se unieran en sitios no buscados?
+C) ¿Qué voltaje se aplicó al gel durante el tiempo que duró la separación de las bandas?
+D) ¿Cuántos minutos transcurrieron entre el término de la PCR y la carga del gel?
+Correcta: B. Por qué: Las bandas adicionales indican que se amplificaron fragmentos distintos del buscado. Como los partidores y el molde fueron los mismos, la diferencia debe estar en las condiciones de la reacción, y la más determinante para la especificidad es la temperatura de hibridación. Esa es la pregunta que se desprende.
+
+Pregunta 3 (Planificar y conducir una investigación): Un laboratorio quiere comprobar si una PCR amplificó el fragmento correcto, de 450 pares de bases, y no un producto inespecífico. ¿Qué procedimiento lo permite?
+A) Separar el producto por electroforesis junto a un patrón de tamaños.
+B) Medir el volumen final de la reacción y compararlo con el volumen inicial.
+C) Repetir la PCR con más ciclos y observar si aumenta la cantidad de producto.
+D) Calcular el número de copias esperado a partir del número de ciclos aplicados.
+Correcta: A. Por qué: Lo que se quiere saber es si el producto mide 450 pares de bases. Solo una técnica que separe por tamaño y permita comparar con una referencia responde a eso. Medir volúmenes o calcular copias informa sobre la cantidad, no sobre la identidad, y repetir con más ciclos amplificaría también un producto inespecífico.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

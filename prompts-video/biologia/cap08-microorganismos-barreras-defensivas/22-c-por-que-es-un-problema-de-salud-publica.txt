@@ -1,0 +1,43 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 22: c. Por qué es un problema de salud pública
+Sección: 7. Antibióticos y resistencia
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Por qué es un problema de salud pública». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente por qué es un problema de salud pública, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Por qué es un problema de salud pública», dentro de la sección «7. Antibióticos y resistencia» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- Las bacterias intercambian material genético entre sí con relativa facilidad, incluso entre especies distintas, de modo que un gen de resistencia puede difundirse rápido.
+- Cuando una infección deja de responder a los antibióticos disponibles, procedimientos hoy rutinarios —una cirugía, una quimioterapia, un parto complicado— vuelven a ser peligrosos.
+- En Chile, el Ministerio de Salud coordina un Plan Nacional contra la Resistencia a los Antimicrobianos, con participación del Instituto de Salud Pública, del sector agrícola y del acuícola.
+- El enfoque es intersectorial porque el uso de antimicrobianos en animales y en la acuicultura también selecciona bacterias resistentes que pueden llegar a las personas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Se observa que un gen de resistencia aparece en dos especies bacterianas distintas del mismo hospital. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?
+A) ¿Cuántas camas tiene el hospital donde se tomaron ambas muestras?
+B) ¿Qué antigüedad tiene el edificio en el que funciona ese hospital?
+C) ¿Cuántos funcionarios trabajan en el laboratorio que analizó las muestras?
+D) ¿Por qué mecanismo puede un gen de resistencia pasar de una especie a otra?
+Correcta: D. Por qué: La pregunta correcta apunta justamente a ese mecanismo de transferencia, que es lo que explica la coincidencia entre especies. El número de camas, la antigüedad del edificio y la dotación del laboratorio son datos administrativos que no abordan el hallazgo.
+
+Pregunta 2 (Evaluar): Se sostiene que la resistencia a los antimicrobianos es un problema que excede al sector sanitario. ¿Qué argumento sostiene mejor esa afirmación?
+A) Los antibióticos tienen un precio elevado para los presupuestos públicos.
+B) El uso de antimicrobianos en animales y en la acuicultura también selecciona bacterias resistentes.
+C) Las bacterias resistentes solo aparecen dentro de los recintos hospitalarios.
+D) La resistencia desaparece por completo si se suspende su uso durante un mes.
+Correcta: B. Por qué: Ese hecho es lo que vuelve insuficiente una respuesta puramente sanitaria. El precio es un problema económico distinto, restringir la resistencia a los hospitales contradice la evidencia y suponer que desaparece en un mes ignora que el rasgo es hereditario y se mantiene en las poblaciones.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere vigilar la evolución de la resistencia bacteriana en un país. ¿Qué información resulta indispensable recoger de manera sistemática?
+A) La proporción de aislamientos resistentes a cada antibiótico a lo largo del tiempo.
+B) El número total de personas hospitalizadas cada año en el país.
+C) La cantidad de laboratorios clínicos que existen en cada región.
+D) El presupuesto anual que el sistema de salud destina a medicamentos.
+Correcta: A. Por qué: Una serie de esas proporciones a lo largo de los años muestra si el problema crece o se contiene. El número de hospitalizados, la cantidad de laboratorios y el presupuesto describen el sistema de salud, no el comportamiento de las bacterias.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

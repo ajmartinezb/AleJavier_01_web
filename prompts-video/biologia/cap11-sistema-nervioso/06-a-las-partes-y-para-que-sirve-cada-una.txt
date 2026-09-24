@@ -1,0 +1,44 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 06: a. Las partes y para qué sirve cada una
+Sección: 3. La neurona: estructura y función
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Las partes y para qué sirve cada una». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Dendritas, Reciben, Soma, Integra, Cono axónico, se dispara, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Las partes y para qué sirve cada una», dentro de la sección «3. La neurona: estructura y función» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Dendritas, Reciben, Soma, Integra, Cono axónico, se dispara.
+
+Ideas guía:
+- La regla que resuelve la mitad de los ítems.
+- La señal entra por las dendritas, se integra en el soma, se dispara en el cono axónico, viaja por el axón y sale por los terminales.
+- Si una alternativa dice que el impulso viaja desde el terminal hacia las dendritas de la misma neurona, es incorrecta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un registro se estimula una neurona en distintos puntos y se anota si aparece un potencial de acción propagado: al estimular una dendrita, el potencial local se atenúa; al estimular el cono axónico, aparece un potencial de acción completo. ¿Qué explica esa diferencia?
+A) Que las dendritas no reciben información y por eso no responden al estímulo.
+B) Que las dendritas están cubiertas por vaina de mielina y el cono axónico no.
+C) Que el cono axónico concentra los canales de sodio dependientes de voltaje.
+D) Que el potencial de acción se origina en el soma y viaja hacia las dendritas.
+Correcta: C. Por qué: El potencial de acción exige una densidad alta de canales de sodio dependientes de voltaje, y esa densidad se encuentra en el cono axónico, no en las dendritas. Por eso la señal dendrítica se atenúa con la distancia y solo cuando la suma de esas señales alcanza el umbral en el cono se dispara un potencial que se propaga sin decaer.
+
+Pregunta 2 (Observar y plantear preguntas): Un estudiante observa que, en un dibujo de una neurona motora de la médula espinal, el axón mide alrededor de un metro mientras el soma mide unas decenas de micrómetros. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuántos colores se usaron para representar las partes de la neurona en el dibujo?
+B) ¿Qué escala de reducción se aplicó para que el dibujo entre en la página del libro?
+C) ¿Cuál es el nombre del científico que dibujó por primera vez una neurona motora?
+D) ¿Qué mecanismos permiten mantener un axón tan largo si la síntesis ocurre en el soma?
+Correcta: D. Por qué: Lo llamativo del dato es la desproporción: casi todo el material de la célula debe fabricarse en un soma diminuto y llegar hasta el extremo de un axón enorme. Preguntar por los mecanismos de transporte y mantenimiento es continuar esa observación. Las demás preguntas se refieren al dibujo como objeto gráfico, no a la célula.
+
+Pregunta 3 (Evaluar): Un compañero afirma: «Como el soma contiene el núcleo, es la parte de la neurona que conduce el impulso hacia la siguiente célula». ¿Cuál es la objeción correcta?
+A) El impulso se conduce hacia la siguiente célula por el axón, no por el soma.
+B) El soma no contiene núcleo, de modo que no puede cumplir esa función.
+C) El impulso hacia la siguiente célula lo conducen las dendritas de la neurona.
+D) Ninguna parte de la neurona conduce el impulso hacia otra célula.
+Correcta: A. Por qué: La premisa es verdadera: el soma sí contiene el núcleo. Lo que no se sigue es la conclusión, porque tener el núcleo no lo convierte en la vía de conducción. Esa función es del axón, que termina en el botón sináptico desde donde se libera el neurotransmisor hacia la célula siguiente.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

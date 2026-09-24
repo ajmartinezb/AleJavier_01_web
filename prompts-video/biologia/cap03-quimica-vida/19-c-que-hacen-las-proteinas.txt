@@ -1,0 +1,37 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 19: c. Qué hacen las proteínas
+Sección: 6. Proteínas y enzimas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Qué hacen las proteínas». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente qué hacen las proteínas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Qué hacen las proteínas», dentro de la sección «6. Proteínas y enzimas» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): La hemoglobina transporta oxígeno, los anticuerpos defienden y el colágeno da soporte a la piel. ¿Qué tienen en común esas tres moléculas?
+A) Las tres son lípidos y su función depende de su insolubilidad en agua.
+B) Las tres son proteínas y su función depende de su forma tridimensional.
+C) Las tres son polisacáridos y su función depende de sus ramificaciones.
+D) Las tres son ácidos nucleicos y su función depende de su secuencia de bases.
+Correcta: B. Por qué: La hemoglobina ilustra el transporte, los anticuerpos la defensa y el colágeno la función estructural, y en los tres casos la forma tridimensional es la que permite la función. Ninguna de las tres es un lípido, un polisacárido ni un ácido nucleico, aunque las tres familias también cumplan funciones importantes.
+
+Pregunta 2 (Comunicar): Para un esquema de aula hay que asignar a cada proteína su función. ¿Cuál de las siguientes asociaciones es correcta?
+A) Insulina con función de transporte de oxígeno.
+B) Actina con función de defensa inmunitaria.
+C) Colágeno con función de catálisis enzimática.
+D) Queratina con función estructural en el pelo.
+Correcta: D. Por qué: La queratina forma el pelo y las uñas, de modo que la primera asociación es correcta. La insulina es una hormona reguladora y no transporta oxígeno, la actina interviene en la contracción muscular y no en la defensa, y el colágeno da soporte sin catalizar ninguna reacción.
+
+Pregunta 3 (Evaluar): Un estudiante afirma que todas las enzimas son proteínas y, por lo tanto, que todas las proteínas son enzimas. ¿Cuál es la mejor evaluación de esa afirmación?
+A) Ambas partes son correctas, porque los términos enzima y proteína son en realidad palabras sinónimas entre sí.
+B) Ambas partes son incorrectas, porque las enzimas no son proteínas.
+C) La primera parte es correcta y la segunda no: la catálisis es solo una de las funciones de las proteínas.
+D) La primera parte es incorrecta y la segunda, correcta.
+Correcta: C. Por qué: Las enzimas forman un subconjunto de las proteínas, no el conjunto completo: el colágeno y los anticuerpos son proteínas y no catalizan nada. Invertir una relación de inclusión es un error lógico frecuente, y la prueba lo aprovecha con regularidad en este y en otros contenidos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

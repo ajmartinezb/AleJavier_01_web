@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 25: b. El alcohol
+Sección: 7. Efectos del café, el alcohol y las drogas de abuso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «El alcohol». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Qué es, depresor, Dónde actúa, GABA, glutamato, Efecto, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. El alcohol», dentro de la sección «7. Efectos del café, el alcohol y las drogas de abuso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Qué es, depresor, Dónde actúa, GABA, glutamato, Efecto.
+
+Ideas guía:
+- Por qué parece un estimulante si es un depresor.
+- En las primeras copas el alcohol deprime antes que nada las áreas encargadas del autocontrol, de modo que la persona se desinhibe y se ve más eufórica y conversadora.
+- Eso no es estimulación: es la pérdida de un freno.
+- A medida que la concentración aumenta, la depresión alcanza a la coordinación, al habla, al juicio y finalmente a los centros del tronco encefálico que controlan la respiración, que es el mecanismo de la intoxicación grave.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una tabla indica los efectos del alcohol según su concentración en la sangre: 0,3 g/L, leve alteración de los reflejos; 0,8 g/L, pérdida de coordinación; 1,5 g/L, dificultad para mantenerse en pie. ¿Qué relación muestra la tabla?
+A) El efecto es idéntico en todo el rango, porque el alcohol es siempre un depresor.
+B) El efecto aumenta a medida que sube la concentración en la sangre.
+C) El efecto disminuye al aumentar la concentración por la tolerancia del organismo.
+D) El efecto depende del tipo de bebida y no de la concentración en la sangre.
+Correcta: B. Por qué: Los tres valores de la tabla se ordenan de menor a mayor concentración y los efectos descritos se ordenan de menor a mayor gravedad: de una alteración leve de los reflejos a la imposibilidad de mantenerse en pie. La relación es, por lo tanto, directa entre concentración y magnitud del efecto.
+
+Pregunta 2 (Evaluar): Una persona sostiene que «el alcohol no puede ser un depresor, porque en las fiestas la gente se pone más activa y conversadora». ¿Cuál es la respuesta correcta?
+A) «Depresor» alude a la actividad neuronal: la desinhibición viene del frenado.
+B) Es cierto: en dosis bajas el alcohol actúa como estimulante del sistema nervioso.
+C) El alcohol no altera el comportamiento social, que depende solo del contexto.
+D) Es cierto, porque el alcohol aumenta la transmisión excitatoria mediada por glutamato.
+Correcta: A. Por qué: La objeción confunde «depresor» con «que produce tristeza» o «que reduce la actividad visible». El término se refiere a la actividad del sistema nervioso. La aparente estimulación inicial ocurre porque los primeros circuitos frenados son los del autocontrol, de modo que la desinhibición es una consecuencia del efecto depresor, no una excepción a él.
+
+Pregunta 3 (Procesar y analizar la evidencia): En Chile, un conductor registra 0,5 g/L de alcohol en la sangre. ¿En qué situación legal se encuentra, según la Ley de Tolerancia Cero?
+A) En estado de ebriedad, porque superó el límite de 0,3 g/L establecido.
+B) Sin infracción, porque el límite legal para conducir es de 0,8 g/L.
+C) Conduciendo bajo la influencia del alcohol, por estar entre 0,3 y 0,8 g/L.
+D) Sin infracción, porque la ley solo se aplica a conductores profesionales.
+Correcta: C. Por qué: El valor 0,5 g/L es mayor que 0,3 y menor que 0,8, de modo que cae en el primer tramo: conducción bajo la influencia del alcohol. No corresponde al estado de ebriedad, que empieza en 0,8 g/L, y sí constituye infracción, porque supera el umbral inferior fijado por la ley.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

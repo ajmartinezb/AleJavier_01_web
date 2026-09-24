@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 14: a. Retículo endoplasmático rugoso (RER)
+Sección: 5. El sistema de endomembranas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Retículo endoplasmático rugoso (RER)». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente ribosomas adheridos, Inicio de la glicosilación, Envío al Golgi, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Retículo endoplasmático rugoso (RER)», dentro de la sección «5. El sistema de endomembranas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ribosomas adheridos, Inicio de la glicosilación, Envío al Golgi.
+
+Ideas guía:
+- Es una red de sacos aplanados (cisternas) conectada con la envoltura nuclear, con ribosomas adheridos a su cara externa.
+- Por eso se ve «rugoso» al microscopio electrónico.
+- Síntesis de proteínas de secreción, de membrana y de lisosomas: la proteína recién fabricada entra al interior del retículo, el lumen.
+- Plegamiento y control de calidad: las proteínas mal plegadas se retienen y se degradan.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un equipo quiere averiguar si las proteínas que una célula secreta se sintetizan en ribosomas adheridos al retículo o en ribosomas libres del citosol. Separa ambas poblaciones de ribosomas y las incuba por separado con aminoácidos marcados y los ARNm necesarios. ¿Qué resultado deben medir para responder su pregunta?
+A) La cantidad total de ribosomas obtenida en cada una de las dos fracciones.
+B) El tamaño de las subunidades mayor y menor de los ribosomas de cada fracción.
+C) La velocidad de síntesis de proteínas en general dentro de cada fracción.
+D) La fracción donde aparecen marcadas las proteínas que la célula secreta.
+Correcta: D. Por qué: La pregunta no es cuántos ribosomas hay ni qué tan rápido trabajan, sino dónde se fabrican las proteínas de secreción. La variable que hay que medir es, entonces, en qué fracción aparecen marcadas esas proteínas específicas. Si aparecen en la fracción adherida, se confirma la función del RER. Las demás opciones miden variables que no distinguen entre ambos sitios de síntesis.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una investigadora mide la superficie de retículo endoplasmático rugoso (en µm² por célula) en tres tipos celulares: plasmocito (célula que secreta anticuerpos), 1500; fibra muscular esquelética, 150; célula de la corteza suprarrenal, 120. ¿Cuál es la conclusión más coherente con estos datos?
+A) El plasmocito exporta una gran cantidad de proteínas, pues su RER es abundante.
+B) La corteza suprarrenal fabrica más proteínas de secreción que la fibra muscular.
+C) La fibra muscular no necesita ribosomas para fabricar proteínas, porque tiene poco RER.
+D) Las tres células sintetizan la misma cantidad de lípidos, ya que sus valores son similares.
+Correcta: A. Por qué: El plasmocito tiene diez veces más RER que las otras dos células, lo que calza con la producción masiva de anticuerpos, que son proteínas secretadas. La corteza suprarrenal tiene menos RER que la fibra muscular, por lo que no puede concluirse que secrete más proteínas. Tener poco RER no significa carecer de ribosomas, y los datos no incluyen lípidos.
+
+Pregunta 3 (Evaluar): Un estudio informa que al tratar hepatocitos con una sustancia que impide el plegamiento correcto de las proteínas en el lumen del RER, disminuye la secreción de albúmina. Los autores concluyen: «el RER es el único organelo que controla la secreción de proteínas». ¿Por qué esta conclusión excede lo que muestran los datos?
+A) Porque la albúmina se fabrica en ribosomas libres del citosol y no ingresa nunca al RER.
+B) Porque solo muestra que el plegamiento en el RER es necesario, no que sea suficiente.
+C) Porque los hepatocitos no secretan proteínas, sino solo lípidos y glicógeno.
+D) Porque el plegamiento de proteínas ocurre en el Golgi y no en el retículo.
+Correcta: B. Por qué: Bloquear el plegamiento y ver que cae la secreción demuestra que ese paso del RER es necesario. Pero no descarta que otros organelos, como el Golgi o las vesículas, también controlen la salida. Afirmar que el RER es el único regulador generaliza más de lo que el experimento prueba. Las otras opciones contienen errores de contenido.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

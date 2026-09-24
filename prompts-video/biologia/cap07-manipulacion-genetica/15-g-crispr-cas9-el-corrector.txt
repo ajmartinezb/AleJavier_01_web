@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 15: g. CRISPR-Cas9: el corrector
+Sección: 4. Las herramientas: cortar, pegar, copiar y leer el ADN
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «CRISPR-Cas9: el corrector». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente ARN guía, Cas9, repara, inactivado, corregir, insertar, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «g. CRISPR-Cas9: el corrector», dentro de la sección «4. Las herramientas: cortar, pegar, copiar y leer el ADN» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ARN guía, Cas9, repara, inactivado, corregir, insertar.
+
+Ideas guía:
+- Es un sistema de defensa de las bacterias contra los virus, adaptado como herramienta.
+- Tiene dos componentes: Un ARN guía, diseñado en el laboratorio, complementario a la secuencia que se quiere modificar.
+- La proteína Cas9, una nucleasa que corta las dos hebras del ADN en el sitio al que la lleva el ARN guía.
+- Cómo edita CRISPR-Cas9 una secuencia del genoma.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un equipo aplica CRISPR-Cas9 a un cultivo celular sin aportar ningún molde de ADN. Al analizar el gen diana, encuentra que en la mayoría de las células perdió o ganó unas pocas bases. ¿Qué explica ese resultado?
+A) La proteína Cas9 insertó bases adicionales durante el proceso de corte.
+B) La célula reparó el corte uniendo los extremos, lo que altera bases.
+C) El ARN guía se incorporó al genoma en el sitio donde se produjo el corte.
+D) El gen diana se duplicó al repararse, generando dos copias consecutivas.
+Correcta: B. Por qué: Sin molde, la célula dispone solo de la reparación por unión de extremos, que es rápida pero imprecisa y con frecuencia pierde o agrega nucleótidos. Esas pequeñas alteraciones desplazan el marco de lectura y dejan el gen sin función. Es el procedimiento habitual cuando el objetivo es inactivar un gen.
+
+Pregunta 2 (Planificar y conducir una investigación): Un laboratorio quiere editar tres genes distintos con CRISPR-Cas9, uno después de otro. ¿Qué debe modificar en cada caso?
+A) El ARN guía, sintetizado con la secuencia complementaria de cada gen.
+B) La proteína Cas9, rediseñada para reconocer cada uno de los tres genes.
+C) La temperatura de reacción, ajustada al contenido de bases de cada gen.
+D) El tipo de célula receptora, elegida según el gen que se quiera editar.
+Correcta: A. Por qué: La especificidad del sistema reside por completo en el ARN guía, que se aparea con la secuencia diana y lleva la nucleasa hasta allí. Cas9 no distingue secuencias por sí misma. Por eso editar tres genes exige tres ARN guía y una única proteína.
+
+Pregunta 3 (Evaluar): Tras editar un gen con CRISPR-Cas9, un equipo secuencia además otras regiones del genoma parecidas a la secuencia diana. ¿Qué justifica ese control adicional?
+A) Comprobar si la edición se transmitió a las células hijas del cultivo.
+B) Comprobar si el ARN guía quedó integrado en alguna región del genoma.
+C) Comprobar si la proteína Cas9 permanece activa después de la edición.
+D) Comprobar si hubo cortes fuera del blanco en secuencias similares.
+Correcta: D. Por qué: El ARN guía se aparea por complementariedad, y ese apareamiento tolera algunos desajustes. Por eso puede llevar a Cas9 a regiones semejantes a la diana y producir allí cortes no buscados. Secuenciar justamente esas regiones es el control que permite detectarlos, y por eso se eligen por su parecido con la diana.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

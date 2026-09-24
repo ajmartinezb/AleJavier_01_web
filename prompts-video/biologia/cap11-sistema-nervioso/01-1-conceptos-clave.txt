@@ -1,0 +1,38 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 01: 1. Conceptos clave
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Conceptos clave». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Neurona, Soma, Dendritas, reciben, Axón, conduce, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «1. Conceptos clave» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Neurona, Soma, Dendritas, reciben, Axón, conduce.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un axón se mide un potencial de reposo de −70 mV y un umbral de −55 mV. Un estímulo lleva la membrana a −58 mV y un segundo estímulo la lleva a −52 mV. ¿Qué se concluye de esas dos mediciones?
+A) Solo el segundo estímulo desencadena un potencial de acción.
+B) Ambos estímulos desencadenan un potencial de acción en el axón.
+C) Solo el primer estímulo desencadena un potencial de acción.
+D) Ninguno de los dos estímulos despolariza la membrana del axón.
+Correcta: A. Por qué: El umbral es −55 mV. El primer estímulo llega a −58 mV, que es más negativo que −55 mV y por lo tanto no alcanza el umbral. El segundo llega a −52 mV, menos negativo que el umbral, de modo que sí lo supera y dispara el potencial de acción. Los dos estímulos despolarizan la membrana, porque ambos la alejan de −70 mV, pero solo uno cruza el umbral.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una tabla registra la velocidad de conducción de cuatro axones: P, 0,8 m/s; Q, 15 m/s; R, 60 m/s; S, 110 m/s. ¿Cuál de esas fibras es la que con mayor probabilidad carece de vaina de mielina?
+A) El axón Q, que conduce a 15 m/s.
+B) El axón R, que conduce a 60 m/s.
+C) El axón S, que conduce a 110 m/s.
+D) El axón P, que conduce a 0,8 m/s.
+Correcta: D. Por qué: El axón P conduce a 0,8 m/s, un valor del orden de 1 m/s, que es el rango propio de una fibra amielínica. Q, R y S tienen velocidades de decenas de metros por segundo, compatibles con axones mielinizados de distinto diámetro. La velocidad es, por lo tanto, un indicio indirecto de la presencia de mielina.
+
+Pregunta 3 (Comunicar): Un estudiante debe explicar a un curso de séptimo básico qué es una sinapsis. ¿Cuál de las siguientes formulaciones es científicamente correcta y además comprensible para ese público?
+A) Es la unión física entre dos neuronas, que quedan fusionadas en una sola célula.
+B) Es el aumento de tamaño del potencial de acción cuando el estímulo se hace más intenso.
+C) Es el punto de contacto donde una neurona pasa su mensaje a otra por vía química.
+D) Es la capa de grasa que envuelve al axón y le permite conducir más rápido el impulso.
+Correcta: C. Por qué: La alternativa correcta menciona los tres elementos imprescindibles: dos células, un contacto y un mensajero químico, sin usar vocabulario técnico innecesario. Las demás describen otra cosa: una fusión celular que no existe, la ley del todo o nada mal enunciada y la vaina de mielina.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 32: d. Lo que conviene llevar de este capítulo
+Sección: 9. El ciclo del carbono y el ecosistema chileno
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Lo que conviene llevar de este capítulo». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente Tilacoide o estroma, Factor limitante, Punto de compensación, Las plantas también respiran, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Lo que conviene llevar de este capítulo», dentro de la sección «9. El ciclo del carbono y el ecosistema chileno» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Tilacoide o estroma, Factor limitante, Punto de compensación, Las plantas también respiran.
+
+Ideas guía:
+- La materia circula; la energía fluye y se degrada.
+- Ante cualquier alternativa que hable de reciclar energía, descártala.
+- No importa si es planta, alga o bacteria, ni si vive dentro de otro organismo.
+- Las dos etapas están acopladas: ATP y NADPH bajan al estroma; ADP y NADP+ vuelven al tilacoide.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un ítem entrega este dato: «En una hoja iluminada se mide una intensa actividad de fijación de CO₂». ¿En qué compartimiento del cloroplasto debe centrarse el análisis?
+A) En la membrana del tilacoide, donde ocurre la fase luminosa.
+B) En la membrana externa del cloroplasto de la hoja.
+C) En el estroma, donde actúa la enzima RuBisCO.
+D) En la mitocondria de las células de la hoja iluminada.
+Correcta: C. Por qué: La fijación de CO₂ es el primer paso del ciclo de Calvin y la cataliza la RuBisCO, enzima que se encuentra en el estroma. El tilacoide alberga la fase luminosa, la membrana externa solo delimita el organelo y la mitocondria realiza la respiración celular.
+
+Pregunta 2 (Evaluar): Un estudiante revisa cuatro afirmaciones y debe identificar la única correcta. ¿Cuál lo es?
+A) La productividad primaria neta es la bruta menos la respiración de los productores.
+B) El O₂ liberado por la fotosíntesis proviene del CO₂ del aire.
+C) El punto de compensación indica que la planta dejó de fotosintetizar.
+D) La pirámide de energía puede invertirse si el nivel inferior se renueva rápido.
+Correcta: A. Por qué: Solo la última afirmación es correcta. Las otras tres corresponden a los errores más frecuentes de la unidad: atribuir el oxígeno al CO₂, confundir un balance nulo con la ausencia del proceso y extender a la pirámide de energía una inversión que solo admiten las de biomasa y de números.
+
+Pregunta 3 (Planificar y conducir una investigación): Se prepara una guía de estudio con un experimento por cada variable ambiental de la sección 6. Para la variable temperatura, ¿qué diseño conviene incluir?
+A) Medir la tasa a una sola temperatura y compararla con la de otra especie.
+B) Medir la tasa de fotosíntesis a varias temperaturas, con luz y CO₂ constantes.
+C) Medir la tasa aumentando la temperatura y la luz al mismo tiempo.
+D) Medir la temperatura del aire del laboratorio durante varios días seguidos.
+Correcta: B. Por qué: Solo la primera opción manipula la temperatura y controla la luz y el CO₂, que son las otras dos variables capaces de limitar el proceso. Una medición única no revela la forma de la curva, subir dos variables a la vez impide atribuir el efecto y registrar la temperatura ambiente no mide fotosíntesis.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

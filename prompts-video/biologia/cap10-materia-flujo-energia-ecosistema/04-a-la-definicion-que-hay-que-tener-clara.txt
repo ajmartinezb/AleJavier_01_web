@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 04: a. La definición que hay que tener clara
+Sección: 3. Nutrición autótrofa y heterótrofa
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «La definición que hay que tener clara». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente autótrofo, materia inorgánica, fotoautótrofos, quimioautótrofos, heterótrofo, ya formadas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. La definición que hay que tener clara», dentro de la sección «3. Nutrición autótrofa y heterótrofa» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: autótrofo, materia inorgánica, fotoautótrofos, quimioautótrofos, heterótrofo, ya formadas.
+
+Ideas guía:
+- Un autótrofo («que se alimenta a sí mismo») construye sus moléculas orgánicas a partir de materia inorgánica, sobre todo CO2 y agua.
+- Necesita, además, una fuente externa de energía: la luz en los fotoautótrofos (plantas, algas, cianobacterias) o la oxidación de compuestos inorgánicos en los quimioautótrofos (algunas bacterias de fuentes hidrotermales y de suelos).
+- Un heterótrofo («que se alimenta de otro») obtiene sus moléculas orgánicas ya formadas, consumiendo a otros organismos o su materia orgánica.
+- Animales, hongos y la mayoría de las bacterias son heterótrofos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una bacteria vive en una fuente hidrotermal oceánica, a oscuridad total, y construye sus moléculas orgánicas a partir de CO₂ usando la energía que libera al oxidar sulfuro de hidrógeno. ¿Cómo se clasifica su nutrición?
+A) Heterótrofa, porque vive en ausencia total de luz solar.
+B) Autótrofa quimiosintética, porque fija CO₂ con energía química.
+C) Autótrofa fotosintética, porque produce su propia materia orgánica.
+D) Heterótrofa, porque obtiene su energía de un compuesto del ambiente.
+Correcta: B. Por qué: El organismo fija CO₂, de modo que es autótrofo por definición. Su fuente de energía no es la luz sino la oxidación del sulfuro de hidrógeno, lo que lo hace quimioautótrofo. La ausencia de luz no lo convierte en heterótrofo: ese criterio se refiere a la energía, no al carbono.
+
+Pregunta 2 (Evaluar): Un estudiante afirma que «los autótrofos no necesitan energía, porque se fabrican su propio alimento». ¿Cuál es la corrección pertinente?
+A) Es correcta: fabricar alimento propio hace innecesaria toda fuente de energía.
+B) Es incorrecta, porque los autótrofos obtienen su energía del alimento de otros.
+C) Es incorrecta, porque los autótrofos no fabrican sus propias moléculas orgánicas.
+D) Es incorrecta: todo organismo necesita energía, incluido el autótrofo.
+Correcta: D. Por qué: La afirmación confunde autonomía en el carbono con independencia energética. Fabricar materia orgánica cuesta energía, y de hecho esa es la razón por la que la fotosíntesis requiere luz. Además, los autótrofos también respiran para obtener ATP, igual que cualquier célula aerobia.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere determinar si un microorganismo recién aislado es autótrofo o heterótrofo. ¿Cuál es el procedimiento más informativo?
+A) Medir la temperatura óptima a la que su población se duplica más rápido.
+B) Observar su forma y su tamaño al microscopio óptico con tinción.
+C) Cultivarlo en un medio sin materia orgánica y comprobar si crece.
+D) Determinar el número de flagelos que presenta cada célula del cultivo.
+Correcta: C. Por qué: Un medio sin materia orgánica solo permite crecer a quien pueda fabricarla, de modo que el crecimiento o su ausencia responde directamente la pregunta. La temperatura óptima, la morfología y el número de flagelos describen otras características del organismo, pero no discriminan entre los dos tipos de nutrición.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 07: a. Dónde ocurre
+Sección: 4. La fotosíntesis: lugar, reactantes y productos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Dónde ocurre». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente cloroplasto, Tilacoides, granas, Fase luminosa, Estroma, Ciclo de Calvin, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Dónde ocurre», dentro de la sección «4. La fotosíntesis: lugar, reactantes y productos» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: cloroplasto, Tilacoides, granas, Fase luminosa, Estroma, Ciclo de Calvin.
+
+Ideas guía:
+- En las células eucariontes fotosintéticas, la fotosíntesis ocurre dentro del cloroplasto, un organelo con doble membrana que se estudió en el capítulo 4.
+- Su interior tiene dos compartimientos, y cada etapa de la fotosíntesis ocurre en uno distinto: Figura 2.
+- Estructura del cloroplasto y ubicación de las dos etapas de la fotosíntesis.
+- «¿En qué estructura del cloroplasto hay que buscar tal actividad?» Si lo que se mide tiene que ver con luz, pigmentos u oxígeno, la respuesta es el tilacoide.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una cianobacteria realiza fotosíntesis y libera O₂, pero al observarla con microscopía electrónica no se identifican cloroplastos. ¿Cómo se explica ese resultado?
+A) La cianobacteria no realiza realmente fotosíntesis: el O₂ proviene del agua del medio.
+B) Sus cloroplastos son demasiado pequeños para verse con microscopía electrónica.
+C) La cianobacteria obtiene los cloroplastos de las algas con las que convive.
+D) Es procarionte: su maquinaria fotosintética está en repliegues de la membrana.
+Correcta: D. Por qué: La contradicción es solo aparente. Lo que la fotosíntesis exige no es el organelo, sino la maquinaria: pigmentos, cadena de electrones y enzimas. Una célula procarionte la tiene, solo que organizada de otra manera. El microscopio electrónico resuelve estructuras mucho menores que un cloroplasto, así que el tamaño no explica nada.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un equipo separa por centrifugación los tilacoides del estroma de un cloroplasto y los incuba por separado. La fracción de tilacoides, iluminada y con agua, produce O₂; la fracción de estroma, con CO₂ y en oscuridad, no produce materia orgánica. ¿Qué explica el segundo resultado?
+A) El estroma carece de la enzima que fija el CO₂ del medio.
+B) El CO₂ no puede ingresar a la fracción de estroma aislada.
+C) Falta el ATP y el NADPH que normalmente aportan los tilacoides.
+D) El ciclo de Calvin requiere luz directa para que sus enzimas funcionen.
+Correcta: C. Por qué: Al separar las fracciones se corta el suministro de ATP y NADPH, que son el nexo entre las dos etapas. La RuBisCO sigue estando en el estroma y el CO₂ está disponible, pero sin poder reductor ni energía el ciclo no avanza. Eso confirma, además, que el ciclo no necesita luz directa: lo que necesita son los productos de la luz.
+
+Pregunta 3 (Observar y plantear preguntas): Al comparar una hoja verde con una raíz blanca de la misma planta, un estudiante advierte que solo la hoja produce O₂ al ser iluminada. ¿Qué pregunta investigable surge de esa observación?
+A) ¿Qué estructura celular de la hoja falta en la raíz?
+B) ¿Cuántos centímetros mide la raíz de esa planta al cabo de un mes?
+C) ¿Qué tipo de maceta conviene usar para cultivar esa especie vegetal?
+D) ¿A qué hora del día se recolectó cada una de las dos muestras analizadas?
+Correcta: A. Por qué: La observación contrasta dos órganos de la misma planta ante la misma condición, de modo que la pregunta pertinente busca la estructura que los diferencia. La respuesta apunta a los cloroplastos con clorofila, que dan además el color verde. Las demás opciones piden datos de cultivo o de muestreo que no explican la diferencia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

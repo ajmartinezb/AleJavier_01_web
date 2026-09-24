@@ -1,0 +1,43 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 10: b. Los tres niveles
+Sección: 4. Carbohidratos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Los tres niveles». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Monosacárido, Disacárido, Polisacárido, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Los tres niveles», dentro de la sección «4. Carbohidratos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Monosacárido, Disacárido, Polisacárido.
+
+Ideas guía:
+- Es el azúcar que la respiración celular degrada para obtener energía y el que la fotosíntesis produce.
+- Casi todos los demás carbohidratos se convierten en glucosa o derivan de ella.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): La sacarosa se forma por la unión de una glucosa y una fructosa. ¿A qué nivel de los carbohidratos corresponde?
+A) Monosacárido.
+B) Disacárido.
+C) Polisacárido.
+D) Aminoácido.
+Correcta: B. Por qué: La glucosa y la fructosa son, por separado, monosacáridos, y su unión produce un disacárido. Un polisacárido reúne muchas unidades, como el almidón o la celulosa, y el aminoácido pertenece a otra familia por completo, la de las proteínas.
+
+Pregunta 2 (Procesar y analizar la evidencia): La ribosa y la desoxirribosa son monosacáridos, pero no se usan principalmente como fuente de energía. ¿Qué papel cumplen?
+A) Constituyen la pared celular de las plantas superiores.
+B) Transportan oxígeno disuelto en la sangre de los vertebrados.
+C) Forman parte de la estructura de los ácidos nucleicos.
+D) Actúan como hormonas reguladoras del metabolismo celular.
+Correcta: C. Por qué: Cada nucleótido incluye un azúcar de cinco carbonos: ribosa en el ARN y desoxirribosa en el ADN. La pared celular vegetal está hecha de celulosa, el transporte de oxígeno corresponde a la hemoglobina, que es una proteína, y las hormonas reguladoras son en su mayoría proteínas o esteroides.
+
+Pregunta 3 (Evaluar): Un texto afirma que la lactosa es un monosacárido presente en la leche. ¿Cuál es la corrección adecuada?
+A) La lactosa es un disacárido formado por dos monosacáridos unidos.
+B) La lactosa es un polisacárido de reserva propio de los mamíferos.
+C) La lactosa es un lípido que aporta la energía de la leche materna.
+D) La lactosa es una proteína característica de la leche de vaca.
+Correcta: A. Por qué: La intolerancia a la lactosa se explica precisamente por eso: falta la enzima que separa las dos unidades, y el disacárido sin digerir llega al intestino grueso. Clasificarla como polisacárido, como lípido o como proteína contradice tanto su composición como el mecanismo de esa intolerancia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

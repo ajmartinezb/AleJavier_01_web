@@ -1,0 +1,48 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 10: iv. Predicción
+Sección: 3. Etapas de una investigación científica
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Predicción». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente Si, entonces, Hipótesis ≠ predicción, hipótesis explica, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «iv. Predicción», dentro de la sección «3. Etapas de una investigación científica» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Si, entonces, Hipótesis ≠ predicción, hipótesis explica.
+
+Ideas guía:
+- La predicción dice qué resultado se espera obtener si la hipótesis es correcta.
+- Se suele redactar como «si…, entonces…».
+- Ejemplo: «Si la temperatura aumenta la velocidad de crecimiento, entonces las plantas mantenidas a 25 °C serán más altas a las cuatro semanas que las mantenidas a 15 °C».
+- Es la confusión más frecuente en la PAES.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un estudiante plantea la hipótesis de que la pepsina, enzima del estómago, digiere proteínas con mayor eficacia en medio ácido. Prepara tres tubos con igual cantidad de pepsina y un cubo de clara de huevo cocida del mismo tamaño, ajustados a pH 2, pH 5 y pH 8, a 37 °C. Registra el tiempo que tarda en desaparecer cada cubo. Si la hipótesis es correcta, ¿qué predicción se cumplirá?
+A) El cubo de clara desaparecerá antes en el tubo más ácido, de pH 2.
+B) El cubo de clara desaparecerá antes en el tubo más básico, de pH 8.
+C) El cubo de clara desaparecerá al mismo tiempo en los tres tubos.
+D) La pepsina actuará mejor en el estómago que en el intestino.
+Correcta: A. Por qué: La hipótesis dice que la pepsina es más eficaz en medio ácido. En el diseño, el tubo más ácido es el de pH 2. Mayor eficacia significa digerir la proteína más rápido, por lo que el cubo de clara debería desaparecer en menos tiempo en ese tubo. Un tiempo menor a pH 8 o tiempos iguales contradirían la hipótesis.
+
+Pregunta 2 (Procesar y analizar la evidencia): En una costa rocosa, un ecólogo propone que la estrella de mar, un depredador que se alimenta de choritos, mantiene la diversidad de especies de las pozas intermareales porque impide que los choritos cubran todas las rocas. Retira las estrellas de mar de un grupo de pozas y deja otro grupo intacto; dos años después cuenta las especies de cada grupo. ¿Qué predicción se deriva de su hipótesis?
+A) Las pozas sin estrellas de mar tendrán más especies que las pozas intactas.
+B) Las pozas intactas tendrán menos estrellas de mar que al inicio de todo el estudio.
+C) Las estrellas de mar retiradas comerán más especies en su nuevo hábitat.
+D) Las pozas sin estrellas de mar tendrán menos especies que las pozas intactas.
+Correcta: D. Por qué: Si la estrella de mar mantiene la diversidad al controlar a los choritos, entonces al retirarla los choritos se expandirán y desplazarán a otras especies. En consecuencia, las pozas sin estrellas deberían tener menos especies que las pozas intactas al cabo de dos años. La predicción usa los grupos y la variable medida del diseño: número de especies.
+
+Pregunta 3 (Observar y plantear preguntas): Una estudiante investiga el color de las semillas de arveja y escribe dos enunciados:
+I. El color amarillo de la semilla está determinado por un alelo dominante sobre el alelo del color verde.
+II. Si se cruzan dos plantas heterocigotas, cerca de tres cuartos de las semillas obtenidas serán amarillas.
+¿Cuál opción clasifica correctamente estos enunciados?
+A) I es una predicción y II es la hipótesis que la explica.
+B) I es una hipótesis y II, una predicción basada en ella.
+C) I y II son hipótesis, porque las dos tratan sobre el color.
+D) I es una observación y II es la conclusión del estudio.
+Correcta: B. Por qué: El enunciado I propone un mecanismo general (dominancia de un alelo) sin mencionar ningún cruce ni cifra: es una hipótesis. El enunciado II parte de «si se cruzan…», menciona un grupo concreto (dos heterocigotas) y un valor esperado (tres cuartos amarillas): es una predicción que se deduce de I. Si la proporción observada fuese muy distinta, la hipótesis quedaría en duda.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

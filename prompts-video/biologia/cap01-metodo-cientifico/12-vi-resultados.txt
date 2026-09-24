@@ -1,0 +1,44 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 12: vi. Resultados
+Sección: 3. Etapas de una investigación científica
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Resultados». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente tablas y gráficos, tal como salieron, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «vi. Resultados», dentro de la sección «3. Etapas de una investigación científica» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: tablas y gráficos, tal como salieron.
+
+Ideas guía:
+- Los datos obtenidos se registran y se organizan en tablas y gráficos para encontrar patrones o tendencias.
+- Los resultados se informan tal como salieron, aunque contradigan la hipótesis.
+- Un resultado inesperado también es información valiosa.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un equipo midió la frecuencia cardíaca de 10 voluntarios en reposo y después de 1, 3 y 5 minutos de trote. Los promedios, en latidos por minuto, fueron: reposo 72; 1 minuto 110; 3 minutos 135; 5 minutos 138. ¿Qué descripción de los resultados es correcta según estos datos?
+A) La frecuencia cardíaca bajó a medida que se extendió el trote.
+B) La frecuencia cardíaca aumentó en igual cantidad cada minuto.
+C) La frecuencia cardíaca se mantuvo constante en todos los tramos.
+D) La frecuencia cardíaca subió y luego tendió a estabilizarse.
+Correcta: D. Por qué: Entre reposo y el primer minuto la frecuencia sube 38 latidos; entre el minuto 1 y el 3 sube 25; entre el 3 y el 5 sube solo 3. El aumento es cada vez menor, de modo que la curva se aplana cerca de 135-138. Eso corresponde a un alza seguida de una estabilización, como dice D. No hay descensos ni incrementos iguales.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un cruce de plantas de arveja se esperaba, según la hipótesis del equipo, obtener semillas amarillas y verdes en proporción 3:1. Se contaron 400 semillas: 302 amarillas y 98 verdes. ¿Qué afirmación describe correctamente estos resultados?
+A) Se acercan a la proporción esperada: 3 amarillas por 1 verde.
+B) Muestran igual número de semillas amarillas y de semillas verdes.
+C) Indican que hubo más semillas verdes que amarillas en el cruce.
+D) Se alejan mucho de lo esperado, pues predomina el color verde.
+Correcta: A. Por qué: Con 400 semillas, una proporción 3:1 predice 300 amarillas y 100 verdes. Se obtuvieron 302 y 98: al dividir, 302/98 ≈ 3,1, muy cerca de 3. Por lo tanto, los resultados se aproximan a lo esperado, como señala A. Las diferencias pequeñas son normales en recuentos con azar.
+
+Pregunta 3 (Planificar y conducir una investigación): Una investigadora contó durante un año, mes a mes, las aves playeras de un humedal de la costa central. Al revisar sus datos nota que en marzo hubo el doble de aves de lo que suponía su hipótesis. ¿Cómo debe proceder con ese dato en la etapa de resultados?
+A) Borrar el valor de marzo para que la serie coincida con la hipótesis inicial.
+B) Registrar el valor de marzo tal como se midió y analizarlo con los demás.
+C) Reemplazar el valor de marzo por el promedio de los meses vecinos.
+D) Guardar el valor de marzo solo si otros autores obtuvieron uno igual.
+Correcta: B. Por qué: El conteo de marzo es un dato medido. Si se borra, se promedia o se condiciona a otros autores, se manipula la evidencia para que calce con la idea previa, y la conclusión quedaría sesgada. Lo correcto es registrarlo y analizarlo junto con los demás; quizá refleje una migración, lo que abre una pregunta nueva. Por eso la clave es B.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

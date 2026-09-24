@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 15: d. Tercera línea: reconocer y recordar
+Sección: 5. Las barreras defensivas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Tercera línea: reconocer y recordar». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente antígeno, Linfocitos B, anticuerpos, Linfocitos T citotóxicos, Linfocitos T colaboradores, Linfocitos de memoria, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Tercera línea: reconocer y recordar», dentro de la sección «5. Las barreras defensivas» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: antígeno, Linfocitos B, anticuerpos, Linfocitos T citotóxicos, Linfocitos T colaboradores, Linfocitos de memoria.
+
+Ideas guía:
+- La respuesta específica se dirige contra un antígeno determinado y deja memoria.
+- Producen anticuerpos, proteínas que se unen al antígeno con gran precisión, lo neutralizan y lo marcan para que sea fagocitado.
+- Destruyen las células propias que están infectadas por un virus.
+- Son las células que el VIH destruye, y por eso esa infección desarma toda la respuesta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una persona que tuvo sarampión queda protegida frente a esa enfermedad, pero puede contraer influenza al año siguiente. ¿Qué explica esa situación?
+A) La memoria inmunológica se agota al cabo de un año de la infección.
+B) El virus de la influenza destruye la memoria generada por el sarampión.
+C) La primera línea de defensa deja de funcionar tras una infección grave.
+D) La respuesta inmune específica y su memoria son propias de cada antígeno.
+Correcta: D. Por qué: La especificidad implica que cada respuesta y cada memoria valen solo para su antígeno. La memoria frente al sarampión no se agota en un año, el virus de la influenza no destruye memorias previas y la primera línea sigue funcionando después de cualquier infección.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere comprobar que una respuesta observada en un animal es específica frente a un antígeno determinado. ¿Qué procedimiento lo demuestra mejor?
+A) Exponerlo dos veces al mismo antígeno y medir cuánto tarda en responder.
+B) Medir la cantidad total de linfocitos presentes en su sangre periférica.
+C) Exponerlo a ese antígeno y a otro distinto, y comparar la respuesta en cada caso.
+D) Observar si presenta fiebre e inflamación tras la primera exposición.
+Correcta: C. Por qué: Repetir el mismo antígeno pone a prueba la memoria, que es una propiedad distinta. Un recuento total de linfocitos no distingue contra qué están dirigidos, y la fiebre y la inflamación pertenecen a la segunda línea, que es inespecífica por definición.
+
+Pregunta 3 (Observar y plantear preguntas): Se observa que las personas con infección avanzada por VIH presentan enfermedades causadas por agentes que rara vez afectan a otras personas. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?
+A) ¿Cómo afecta la pérdida de linfocitos T colaboradores a la respuesta inmune completa?
+B) ¿Cuántas personas viven con VIH en el país según el último registro?
+C) ¿En qué año se describió por primera vez el virus de la inmunodeficiencia humana?
+D) ¿Qué proporción de las consultas médicas corresponde a estos pacientes?
+Correcta: A. Por qué: La pregunta correcta apunta a ese mecanismo de coordinación, que explica por qué aparecen agentes oportunistas. Un recuento de personas con VIH, la fecha de descripción del virus y la proporción de consultas son datos epidemiológicos o históricos que no explican la vulnerabilidad observada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

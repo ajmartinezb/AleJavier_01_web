@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 30: b. Transporte pasivo: a favor del gradiente, sin gasto de ATP
+Sección: 9. La membrana plasmática y el transporte de sustancias
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Transporte pasivo: a favor del gradiente, sin gasto de ATP». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente más concentradas, menos concentradas, gradiente, Difusión simple, Difusión facilitada por canales, acuaporinas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Transporte pasivo: a favor del gradiente, sin gasto de ATP», dentro de la sección «9. La membrana plasmática y el transporte de sustancias» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: más concentradas, menos concentradas, gradiente, Difusión simple, Difusión facilitada por canales, acuaporinas.
+
+Ideas guía:
+- Las sustancias se mueven espontáneamente desde donde están más concentradas hacia donde están menos concentradas.
+- Esa diferencia de concentración se llama gradiente.
+- Gráfico típico en la PAES: en la difusión simple, la velocidad de entrada aumenta en línea recta con la concentración.
+- En la difusión facilitada, aumenta y luego forma una meseta, porque los transportadores se saturan.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se midió la velocidad de entrada de dos sustancias, X e Y, a células en cultivo, a concentraciones externas de 1, 2, 4, 8 y 16 mM. Para X, la velocidad fue 2, 4, 8, 16 y 32 unidades. Para Y, fue 5, 9, 14, 15 y 15 unidades. ¿Qué conclusión se obtiene de los datos?
+A) X entra por transporte activo, porque su velocidad crece sin límite con la concentración.
+B) Y entra mediante proteínas transportadoras que se saturan sobre cierta concentración externa.
+C) X e Y entran por el mismo mecanismo, ya que ambas velocidades aumentan al inicio.
+D) Y entra por difusión simple, porque a 16 mM supera con claridad la velocidad de X.
+Correcta: B. Por qué: Para X, al duplicar la concentración se duplica la velocidad (2, 4, 8, 16, 32): relación lineal, propia de la difusión simple. Para Y, la velocidad aumenta al principio y luego se estanca en 15 unidades desde 8 mM: hay saturación, señal de que participan transportadores en número limitado. Además, a 16 mM Y (15) es menor que X (32), lo que descarta D.
+
+Pregunta 2 (Planificar y conducir una investigación): Una investigadora sospecha que la sustancia Z entra a los glóbulos rojos a través de un transportador proteico y no por difusión simple. ¿Qué experimento le permitiría poner a prueba esta hipótesis?
+A) Medir la entrada de Z a una sola concentración en glóbulos rojos de personas de distinta edad.
+B) Medir la entrada de Z a concentración creciente en glóbulos rojos colocados en agua destilada.
+C) Medir la entrada de Z a concentración creciente, con y sin un inhibidor del transportador.
+D) Medir la cantidad de Z que sale de los glóbulos rojos en un medio sin Z, sin variar la concentración.
+Correcta: C. Por qué: Si Z usa un transportador, dos resultados lo delatan: la curva de entrada se aplana al aumentar la concentración y el inhibidor reduce la entrada. El diseño C combina ambos y tiene un grupo control sin inhibidor. A cambia la edad, otra variable. B introduce agua destilada, que hace estallar a los glóbulos rojos. D no mide la entrada ni varía la concentración.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante lee que el oxígeno y el dióxido de carbono atraviesan la membrana sin ayuda de proteínas, mientras que los iones Na+ y Cl−, que son también muy pequeños, casi no la atraviesan si no hay canales. ¿Qué pregunta de investigación surge de comparar estos hechos?
+A) ¿Cuánto oxígeno consume por minuto una célula que se encuentra en reposo?
+B) ¿Qué proteínas del citosol degradan los iones que entran a la célula?
+C) ¿Por qué el dióxido de carbono sale de la célula y no entra a ella?
+D) ¿La carga eléctrica de una partícula le impide cruzar la bicapa lipídica?
+Correcta: D. Por qué: Los cuatro ejemplos son partículas pequeñas, así que el tamaño no explica la diferencia. Lo que separa a O2 y CO2 de Na+ y Cl− es que los primeros no tienen carga y los iones sí. Una pregunta investigable que nace de ese contraste es si la carga impide cruzar el interior hidrofóbico de la bicapa. Las demás preguntas se desvían hacia el consumo, la degradación o el sentido del flujo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

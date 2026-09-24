@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 10: d. Prevención: lo que de verdad funciona
+Sección: 4. Transmisión y prevención
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Prevención: lo que de verdad funciona». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente Agua potable y alcantarillado, Lavado de manos, Vacunación, Control de vectores, Preservativo, Manipulación segura de alimentos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Prevención: lo que de verdad funciona», dentro de la sección «4. Transmisión y prevención» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Agua potable y alcantarillado, Lavado de manos, Vacunación, Control de vectores, Preservativo, Manipulación segura de alimentos.
+
+Ideas guía:
+- Es la medida que más muertes por enfermedades infecciosas ha evitado en la historia.
+- Corta la vía de contacto y la digestiva.
+- Actúa sobre el hospedero y, con cobertura alta, protege también a quien no puede vacunarse.
+- Eliminar criaderos de mosquitos o mejorar las viviendas rurales.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Comunicar): Para una cartilla informativa hay que indicar qué medida corta la transmisión sexual de una infección. ¿Cuál corresponde señalar?
+A) El lavado frecuente de manos con agua y jabón.
+B) El uso correcto y sistemático del preservativo.
+C) La ventilación adecuada de los espacios cerrados.
+D) La cocción completa de los alimentos de origen animal.
+Correcta: B. Por qué: Cada medida es eficaz para la vía que le corresponde y no para las demás: el lavado de manos actúa sobre las vías de contacto y digestiva, la ventilación sobre la vía aérea y la cocción sobre la vía digestiva. Una cartilla que mezcle vías y medidas transmite información errónea.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere comparar la eficacia de dos campañas de prevención de enfermedades diarreicas en dos localidades semejantes. ¿Qué medición permite la comparación más directa?
+A) La incidencia de casos nuevos en cada localidad durante el mismo período.
+B) El número de folletos distribuidos por cada una de las dos campañas.
+C) La cantidad de personas que declaran recordar el mensaje central de la campaña.
+D) El presupuesto total que cada municipio destinó a su propia campaña preventiva.
+Correcta: A. Por qué: La incidencia de casos nuevos en un mismo período es el indicador que responde directamente a esa pregunta. El número de folletos y el presupuesto miden el esfuerzo invertido, y el recuerdo del mensaje mide alcance comunicacional: los tres pueden ser altos sin que la enfermedad disminuya.
+
+Pregunta 3 (Evaluar): Un historiador de la salud pública afirma que llevar redes de agua limpia y de alcantarillado a las ciudades salvó más vidas que cualquier otra intervención sanitaria. ¿Qué tipo de evidencia respaldaría mejor esa afirmación?
+A) La opinión mayoritaria de los profesionales de la salud que fueron consultados antes.
+B) El número de kilómetros de tuberías que se instalaron durante todo el último siglo.
+C) La cantidad de agua potable que consume una persona cada día.
+D) La caída de la mortalidad infecciosa en ciudades tras instalar esos sistemas.
+Correcta: D. Por qué: Respaldar esa afirmación exige datos de mortalidad antes y después de la intervención en poblaciones concretas, que es justamente lo que ofrece la primera alternativa. Una opinión no es evidencia, los kilómetros de tubería miden cobertura y el consumo diario por persona describe un hábito, no un efecto en salud.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 29: a. El modelo de mosaico fluido
+Sección: 9. La membrana plasmática y el transporte de sustancias
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «El modelo de mosaico fluido». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente bicapa de fosfolípidos, mosaico fluido, mosaico, proteínas, fluido, se desplazan lateralmente, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. El modelo de mosaico fluido», dentro de la sección «9. La membrana plasmática y el transporte de sustancias» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: bicapa de fosfolípidos, mosaico fluido, mosaico, proteínas, fluido, se desplazan lateralmente.
+
+Ideas guía:
+- La membrana plasmática es una bicapa de fosfolípidos.
+- Cada fosfolípido tiene una «cabeza» hidrofílica, que se orienta hacia el agua (el medio externo y el citosol), y dos «colas» hidrofóbicas, que quedan escondidas en el interior de la bicapa.
+- Así la membrana forma una barrera que las sustancias polares y los iones no atraviesan con facilidad.
+- Frye y Edidin lo demostraron en 1970: fusionaron una célula de ratón con una humana, cada una con sus proteínas de membrana marcadas con un color fluorescente distinto, y en menos de una hora los colores estaban mezclados en toda la superficie.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un investigador quiere poner a prueba si la temperatura influye en la velocidad con que se mezclan las proteínas de membrana de dos células fusionadas, cada una marcada con un fluorocromo distinto. ¿Cuál de los siguientes diseños es el más adecuado?
+A) Fusionar pares de células a 37 °C y medir el tiempo de mezcla usando en cada par fluorocromos de distinto color y brillo.
+B) Fusionar pares de células a 37 °C y a 15 °C, y medir en cada caso la cantidad de proteína fabricada en una hora.
+C) Fusionar pares de células a 37 °C, 25 °C y 15 °C, con iguales marcadores, y medir cuánto tardan en mezclarse.
+D) Fusionar un solo par de células a 15 °C y observar si al cabo de una hora los colores aparecen mezclados.
+Correcta: C. Por qué: La variable independiente es la temperatura, así que debe haber varios niveles; la dependiente es el tiempo hasta que los colores se mezclan; los marcadores deben ser iguales en todos los grupos para no agregar otra variable. Solo C cumple las tres condiciones. A no cambia la temperatura; B mide síntesis de proteínas; D tiene una sola condición y no permite comparar.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se analizó la composición de ácidos grasos de las membranas de un pez que vive en aguas a 4 °C y de otro que vive a 25 °C. En el pez de agua fría, el 60 % de los ácidos grasos es insaturado; en el de agua templada, el 35 %. ¿Qué interpretación es coherente con estos datos?
+A) El pez de agua templada necesita más dobles enlaces para que su membrana no se vuelva demasiado fluida.
+B) Las membranas de ambos peces tienen igual fluidez porque sus ácidos grasos tienen la misma longitud.
+C) El pez de agua fría tiene menos ácidos grasos saturados porque su membrana carece de colesterol.
+D) La mayor proporción de insaturados en el pez de agua fría evita que su membrana se vuelva rígida.
+Correcta: D. Por qué: El frío tiende a endurecer la membrana. El pez de 4 °C tiene 60 % de insaturados, casi el doble que el de 25 °C. Esos dobles enlaces generan quiebres en las colas, que así no se ordenan apretadamente, y la membrana conserva su fluidez pese al frío. Por eso D es la interpretación coherente. A invierte la relación; B y C recurren a datos que el estudio no entrega.
+
+Pregunta 3 (Evaluar): En un experimento se trataron células humanas con una enzima que elimina las cadenas de azúcares expuestas en la cara externa de la membrana. Luego se observó que esas células ya no se agrupaban con células del mismo tejido, aunque seguían vivas. Un estudiante concluye: «Las cadenas de azúcares de la membrana participan en el reconocimiento entre células». ¿Es válida esta conclusión?
+A) Sí, porque la única diferencia fue la pérdida de los azúcares externos y con ella se perdió el agrupamiento.
+B) No, porque la enzima también debió destruir la bicapa de fosfolípidos y con ello matar a las células.
+C) No, porque los azúcares de la membrana solo sirven como reserva de energía para la célula en periodos de ayuno.
+D) Sí, porque demuestra que los azúcares son las únicas moléculas que intervienen en toda unión celular.
+Correcta: A. Por qué: El tratamiento eliminó selectivamente los azúcares externos y las células siguieron vivas, por lo que no se destruyó la bicapa. El único cambio observado fue la pérdida del agrupamiento. La conclusión afirma que los azúcares participan, sin decir que sean los únicos; eso es lo que los datos permiten afirmar, así que A es correcta.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

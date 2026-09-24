@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 23: d. Qué reduce el problema
+Sección: 7. Antibióticos y resistencia
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Qué reduce el problema». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente Completar el tratamiento, No reutilizar, Vacunarse, todas, hereditaria, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Qué reduce el problema», dentro de la sección «7. Antibióticos y resistencia» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Completar el tratamiento, No reutilizar, Vacunarse, todas, hereditaria.
+
+Ideas guía:
+- No usar antibióticos sin indicación médica, y menos aún para cuadros virales.
+- Completar el tratamiento según lo indicado: interrumpirlo antes de tiempo deja sobrevivientes.
+- No reutilizar antibióticos sobrantes ni compartirlos.
+- Vacunarse: menos infecciones significan menos tratamientos y menos presión de selección.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un centro de salud quiere reducir la aparición de resistencia entre sus pacientes. ¿Cuál es la pregunta que mejor orienta esa tarea?
+A) ¿Qué proporción de las prescripciones de antibiótico corresponde a cuadros virales?
+B) ¿Cuántas recetas de antibiótico se emitieron en total el año pasado?
+C) ¿Qué día de la semana se atiende a más pacientes en el centro?
+D) ¿Cuántos médicos trabajan actualmente en el centro de salud?
+Correcta: A. Por qué: Conocer qué proporción de las prescripciones es innecesaria identifica dónde intervenir. El total de recetas no distingue las apropiadas de las que no lo son, y el día de mayor afluencia y la dotación de médicos son datos organizativos que no orientan la medida.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere evaluar si una campaña de uso responsable de antibióticos dio resultado en una comuna. ¿Qué medición permite la comparación más directa?
+A) El número de afiches y folletos distribuidos durante la campaña.
+B) La cantidad de farmacias que participaron en la actividad comunal.
+C) El consumo de antibióticos por habitante antes y después de la campaña.
+D) La proporción de personas que recuerdan haber visto la campaña.
+Correcta: C. Por qué: Comparar el consumo por habitante antes y después responde directamente a la pregunta. Los afiches distribuidos y las farmacias participantes miden el esfuerzo invertido, y el recuerdo de la campaña mide alcance comunicacional: los tres pueden ser altos sin que el consumo baje.
+
+Pregunta 3 (Observar y plantear preguntas): Se observa que las personas que interrumpen el tratamiento antibiótico apenas desaparecen los síntomas presentan más recaídas. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?
+A) ¿Cuántos días dura en promedio un tratamiento antibiótico completo en adultos?
+B) ¿Qué ocurre con las bacterias menos sensibles si el tratamiento se interrumpe?
+C) ¿Qué sabor tienen los antibióticos que se administran por vía oral a los niños?
+D) ¿Cuántas personas abandonan el tratamiento en el país cada año?
+Correcta: B. Por qué: La pregunta correcta apunta a lo que ocurre con esas bacterias menos sensibles, que es el mecanismo de la recaída. La duración media de un tratamiento, el sabor del fármaco y el número de abandonos son datos descriptivos que no explican por qué reaparece la infección.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

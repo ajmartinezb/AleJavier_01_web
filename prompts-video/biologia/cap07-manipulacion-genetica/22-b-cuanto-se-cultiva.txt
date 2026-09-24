@@ -1,0 +1,44 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 22: b. Cuánto se cultiva
+Sección: 6. Aplicaciones en alimentos y agricultura
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Cuánto se cultiva». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente 210 millones de hectáreas, algodón, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Cuánto se cultiva», dentro de la sección «6. Aplicaciones en alimentos y agricultura» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 210 millones de hectáreas, algodón.
+
+Ideas guía:
+- En 2024 la superficie mundial de cultivos genéticamente modificados alcanzó unos 210 millones de hectáreas, más del 12 % de la superficie cultivable del planeta.
+- Cuatro especies concentran casi todo: Estados Unidos, Brasil y Argentina son los mayores productores.
+- Nótese que el algodón aparece aquí y volverá a aparecer en la sección 8: es un cultivo alimentario y textil a la vez.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un boletín agrícola informa que en 2024 la siembra mundial de variedades modificadas llegó a unos 210 millones de hectáreas, cifra que corresponde a algo más de una de cada ocho hectáreas cultivadas del planeta. ¿Qué se concluye de estos datos?
+A) La mayor parte de la superficie cultivable del mundo corresponde a cultivos modificados.
+B) Los cultivos modificados se concentran exclusivamente en países del hemisferio sur.
+C) La superficie de cultivos modificados disminuyó respecto de los años anteriores.
+D) Los cultivos modificados ocupan una fracción minoritaria pero considerable.
+Correcta: D. Por qué: Un 12 % es claramente minoritario respecto del total, pero nada despreciable: equivale a una de cada ocho hectáreas cultivadas del planeta. La conclusión correcta debe reconocer ambas cosas. Los datos tampoco informan sobre distribución por hemisferio ni sobre tendencia.
+
+Pregunta 2 (Observar y plantear preguntas): Un equipo observa que cuatro especies —soya, maíz, algodón y canola— concentran casi toda la superficie transgénica mundial, mientras que decenas de otras especies cultivadas no tienen variedades modificadas comerciales. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Cuántos kilogramos de semilla se siembran por hectárea en cada uno de esos cultivos?
+B) ¿Qué temperatura media requiere cada una de esas cuatro especies para germinar?
+C) ¿Qué factores explican que se haya concentrado en esas cuatro especies?
+D) ¿Cuántos agricultores trabajan actualmente con cada uno de esos cuatro cultivos?
+Correcta: C. Por qué: Lo llamativo no es cuánto se cultiva cada especie, sino por qué la modificación se concentró justamente en esas cuatro y no en otras. La pregunta pertinente indaga los factores detrás de esa concentración, que pueden ser agronómicos, económicos o regulatorios. Las demás preguntas piden datos descriptivos que no abordan el patrón.
+
+Pregunta 3 (Evaluar): Un informe concluye que «los cultivos transgénicos aumentan el rendimiento» basándose solo en que su superficie mundial crece cada año. ¿Qué objeción corresponde?
+A) La superficie sembrada indica adopción, no rendimiento por hectárea.
+B) La superficie sembrada es un dato poco confiable, porque varía entre fuentes distintas.
+C) La superficie sembrada solo puede compararse entre países de un mismo continente.
+D) La superficie sembrada mide el rendimiento, pero únicamente en cultivos alimentarios.
+Correcta: A. Por qué: Que la superficie crezca indica que más agricultores eligen esas variedades, lo que puede deberse a rendimiento, pero también a menor costo de manejo, a disponibilidad de semilla o a decisiones comerciales. Para concluir sobre rendimiento habría que comparar producción por hectárea entre variedades en condiciones equivalentes.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

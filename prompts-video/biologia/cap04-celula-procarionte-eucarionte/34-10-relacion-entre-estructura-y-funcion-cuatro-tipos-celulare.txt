@@ -1,0 +1,43 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 34: 10. Relación entre estructura y función: cuatro tipos celulares
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Relación entre estructura y función: cuatro tipos celulares». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente especializan, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «10. Relación entre estructura y función: cuatro tipos celulares» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: especializan.
+
+Ideas guía:
+- En un organismo pluricelular todas las células tienen el mismo ADN, pero se especializan: cada tipo celular expresa genes distintos y desarrolla la forma y los organelos que su función necesita.
+- El temario DEMRE 2027 pide analizar cuatro casos.
+- La regla general es simple: la célula tiene más de aquello que más usa.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una históloga estimó, mediante microscopía electrónica, el porcentaje del volumen citoplasmático ocupado por tres organelos en cuatro tipos celulares de un mamífero (W, X, Y y Z). Resultados: W: RER 2 %, REL 30 %, mitocondrias 12 %; X: RER 25 %, REL 2 %, mitocondrias 8 %; Y: RER 3 %, REL 4 %, mitocondrias 35 %; Z: RER 4 %, REL 3 %, mitocondrias 6 %. Según estos datos, ¿qué célula corresponde con mayor probabilidad a una productora de hormonas esteroidales?
+A) W, por la proporción de su REL
+B) X, por la proporción de su RER
+C) Y, por sus abundantes mitocondrias
+D) Z, pues ningún organelo predomina
+Correcta: A. Por qué: Primero se identifica qué valor sobresale en cada fila. En W destaca el REL (30 %), muy por encima de las demás células (2 a 4 %). En X sobresale el RER, en Y las mitocondrias y Z no tiene ningún organelo dominante. Las hormonas esteroidales, como la testosterona, son lípidos derivados del colesterol; su síntesis depende de enzimas del REL. Por lo tanto, la célula W es la mejor candidata.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un estudio se comparó la abundancia relativa de lisosomas y de RER en tres tipos celulares, usando una escala de 0 (ausente) a 4 (muy abundante). Célula 1: lisosomas 4, RER 1. Célula 2: lisosomas 1, RER 4. Célula 3: lisosomas 1, RER 1. ¿Qué afirmación es coherente con estos resultados?
+A) La célula 1 exporta gran cantidad de enzimas digestivas al exterior.
+B) La célula 3 sintetiza más proteínas de secreción que la célula 2.
+C) La célula 1 podría ser un macrófago que fagocita bacterias.
+D) La célula 2 degrada en su interior más material que la célula 1.
+Correcta: C. Por qué: La célula 1 tiene el máximo de lisosomas (4) y poco RER: su perfil es el de una célula que digiere material en su interior, como un macrófago que ingiere bacterias. La célula 2 tiene el máximo de RER, típico de una célula secretora de proteínas. La célula 3 tiene valores bajos en ambos. Al revisar las alternativas, solo la que relaciona la célula 1 con un macrófago es coherente con los datos.
+
+Pregunta 3 (Evaluar): Un estudiante observa que, en un corte de tejido, cierto tipo celular presenta mitocondrias muy abundantes en comparación con las células vecinas. A partir de solo esta observación concluye: «Estas células son fibras musculares esqueléticas». ¿Cuál es la evaluación más adecuada de su conclusión?
+A) Es correcta, porque solo el músculo esquelético tiene muchas mitocondrias.
+B) No está justificada, pues otras células de alto gasto también las tienen.
+C) Es correcta, porque la abundancia de mitocondrias indica una célula multinucleada.
+D) No está justificada, porque las fibras musculares casi no presentan mitocondrias.
+Correcta: B. Por qué: La observación muestra un solo rasgo: muchas mitocondrias. Ese rasgo indica un alto consumo de ATP, pero no es exclusivo del músculo. El enterocito las usa para mantener la bomba Na+/K+ y la neurona las concentra en los terminales axónicos. Para identificar una fibra esquelética se necesitarían otros rasgos, como estriaciones, varios núcleos o miofibrillas. La conclusión, entonces, va más allá de lo que la evidencia permite.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 04: a. Qué es una propiedad emergente
+Sección: 3. Las propiedades emergentes
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Qué es una propiedad emergente». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente propiedad emergente, Molécula, líquida, Célula, viva, Tejido nervioso, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Qué es una propiedad emergente», dentro de la sección «3. Las propiedades emergentes» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: propiedad emergente, Molécula, líquida, Célula, viva, Tejido nervioso.
+
+Ideas guía:
+- Una propiedad emergente es una característica que aparece en un nivel de organización y que ninguno de sus componentes posee por separado.
+- No se trata de una suma, sino de algo nuevo que resulta de la interacción entre las partes.
+- Tres ejemplos que la prueba usa con frecuencia: La frase que resume la idea.
+- El todo es distinto de la suma de sus partes.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): El hidrógeno es un gas inflamable y el oxígeno aviva la combustión, pero el agua apaga el fuego. ¿Qué permite afirmar este hecho sobre la relación entre una molécula y sus átomos?
+A) Que las propiedades de la molécula no se deducen sumando las de sus átomos.
+B) Que los átomos pierden sus protones al formar la molécula.
+C) Que la molécula conserva todas las propiedades químicas de los átomos que la forman.
+D) Que el agua contiene átomos distintos de los del hidrógeno y los del oxígeno.
+Correcta: A. Por qué: El agua contiene exactamente los mismos átomos de hidrógeno y de oxígeno, con sus protones intactos, pero la manera en que se unen produce un comportamiento nuevo y hasta opuesto. La tercera alternativa afirma lo contrario de lo observado, y la cuarta niega la composición conocida del agua. El caso ilustra que la organización, y no un cambio de ingredientes, es lo que genera la propiedad.
+
+Pregunta 2 (Observar y plantear preguntas): Un equipo observa que un hormiguero regula su temperatura interna, aunque ninguna hormiga individual lo hace. ¿Cuál es la pregunta que mejor orienta una investigación sobre esa observación?
+A) ¿Cuántas hormigas viven en un hormiguero de tamaño medio durante el verano?
+B) ¿Qué conductas individuales, combinadas, regulan el calor del hormiguero?
+C) ¿Cuál es la temperatura del cuerpo de una hormiga obrera mantenida aislada?
+D) ¿Desde cuándo existen las hormigas según el registro fósil actualmente conocido?
+Correcta: B. Por qué: La pregunta correcta apunta justamente a esa organización: qué conductas simples, repetidas y coordinadas producen el resultado colectivo. Contar hormigas o medir la temperatura de una hormiga aislada entrega datos descriptivos que no explican la regulación, y la pregunta sobre el registro fósil cambia de tema hacia la historia evolutiva del grupo.
+
+Pregunta 3 (Evaluar): Un investigador sostiene que ha explicado por completo la conciencia humana tras describir el funcionamiento de una neurona aislada. ¿Cuál es la principal limitación de esa conclusión?
+A) Que las neuronas aisladas no pueden estudiarse en laboratorio.
+B) Que la conciencia no depende en absoluto del funcionamiento de las neuronas del cerebro.
+C) Que la conciencia es una propiedad emergente de redes de neuronas conectadas.
+D) Que solo se estudió una neurona aislada y no dos o tres neuronas conectadas entre sí.
+Correcta: C. Por qué: Describir una neurona explica cómo se genera y conduce una señal, pero no cómo un conjunto enorme de ellas, conectado de un modo específico, produce experiencia consciente. Afirmar que la conciencia no depende de las neuronas sería el extremo opuesto y también un error. Y el problema no es el número exacto estudiado, sino que el nivel de análisis elegido no contiene el fenómeno.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

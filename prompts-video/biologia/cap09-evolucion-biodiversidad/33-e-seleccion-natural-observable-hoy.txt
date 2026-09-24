@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 33: e. Selección natural observable hoy
+Sección: 7. La teoría de la selección natural de Darwin y Wallace
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Selección natural observable hoy». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Polilla del abedul, Resistencia a antibióticos, Resistencia a pesticidas, Pinzones de Galápagos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Selección natural observable hoy», dentro de la sección «7. La teoría de la selección natural de Darwin y Wallace» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Polilla del abedul, Resistencia a antibióticos, Resistencia a pesticidas, Pinzones de Galápagos.
+
+Ideas guía:
+- La selección natural no es un relato del pasado: se mide en poblaciones actuales.
+- Por qué es tan buen ejemplo el antibiótico.
+- Y deja clara la regla del punto 1: el antibiótico no induce la resistencia, la selecciona.
+- De ahí la recomendación médica de completar el tratamiento y no usar antibióticos para infecciones virales.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una región industrial de Inglaterra, la forma oscura de la polilla del abedul pasó de ser muy rara a mediados del siglo XIX a predominar hacia fines de ese siglo, en coincidencia con el ennegrecimiento de las cortezas por el hollín. Al reducirse la contaminación en el siglo XX, la forma clara volvió a predominar. ¿Qué muestra esta secuencia?
+A) Que las polillas oscurecieron su color al posarse sobre las cortezas ennegrecidas.
+B) Que la dirección de la selección siguió los cambios en la visibilidad de cada forma.
+C) Que la contaminación industrial provocó la aparición de la forma oscura por mutación.
+D) Que la forma clara desapareció por completo durante el período más contaminado.
+Correcta: B. Por qué: Cuando la corteza se ennegreció, la forma clara quedó visible y fue depredada más, de modo que la oscura aumentó. Al limpiarse el aire y recuperarse la corteza clara, la situación se invirtió y la forma clara volvió a predominar. El rasgo no cambió en ningún individuo: cambió la frecuencia en la población, siguiendo la visibilidad.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere comprobar en terreno que la depredación por aves es la presión de selección que explica el cambio de frecuencias en una población de polillas. ¿Qué diseño permite comprobarlo?
+A) Contar la proporción de cada forma en la población durante varios años consecutivos.
+B) Medir la concentración de hollín en el aire de la zona a lo largo de varios años.
+C) Colocar igual número de polillas de ambas formas en cortezas claras y oscuras y registrar cuáles son depredadas.
+D) Criar polillas de ambas formas en el laboratorio y comparar su tasa de crecimiento.
+Correcta: C. Por qué: Contar frecuencias año a año o medir el hollín solo establece correlaciones. Para comprobar la causa hay que manipular la variable: colocar igual número de ambas formas sobre cada tipo de corteza y registrar cuáles son depredadas. Si la depredación depende del contraste, el resultado diferirá entre sustratos, y esa es la predicción a poner a prueba.
+
+Pregunta 3 (Evaluar): Tras varias temporadas aplicando el mismo insecticida, una plaga deja de responder a la dosis habitual. Un agricultor propone aumentar la dosis y mantener el mismo producto. ¿Qué objeción corresponde hacer a esa medida?
+A) Aumentar la dosis revertiría la resistencia, porque elimina también a los individuos resistentes.
+B) El insecticida dejó de funcionar porque los insectos se acostumbraron a su presencia.
+C) La resistencia desaparecerá por sí sola si se aplica el producto durante más temporadas.
+D) Mantener el mismo producto sigue favoreciendo a las variantes resistentes que ya predominan.
+Correcta: D. Por qué: La resistencia ya está extendida en la población. Insistir con el mismo producto mantiene la misma presión de selección y sigue favoreciendo a las mismas variantes, de modo que el problema se agrava. Por eso las estrategias de manejo recomiendan rotar productos con mecanismos de acción distintos y combinar métodos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

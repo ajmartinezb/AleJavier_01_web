@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 23: c. Alimentos: más allá del cultivo
+Sección: 6. Aplicaciones en alimentos y agricultura
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Alimentos: más allá del cultivo». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente Quimosina para el queso, fermentación, misma secuencia de aminoácidos, Papaya resistente a virus, Arroz dorado, betacaroteno, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Alimentos: más allá del cultivo», dentro de la sección «6. Aplicaciones en alimentos y agricultura» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Quimosina para el queso, fermentación, misma secuencia de aminoácidos, Papaya resistente a virus, Arroz dorado, betacaroteno.
+
+Ideas guía:
+- La quimosina es la enzima que coagula la leche.
+- Tradicionalmente se extraía del cuajo del estómago de terneros lactantes.
+- Desde 1990 se produce por fermentación, con microorganismos que recibieron el gen bovino: la enzima resultante tiene la misma secuencia de aminoácidos que la del ternero.
+- Hoy la mayor parte del queso industrial se hace así, y eso permite además quesos aptos para dietas vegetarianas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): La quimosina obtenida por fermentación se produce con microorganismos que recibieron el gen bovino, y su secuencia de aminoácidos es la misma que la de la enzima del cuajo de ternero. ¿Qué se concluye?
+A) La enzima obtenida por fermentación actúa sobre un sustrato distinto de la bovina.
+B) La enzima obtenida por fermentación contiene ADN del microorganismo productor.
+C) Ambas enzimas coagulan la leche del mismo modo, porque son la misma proteína.
+D) Ambas enzimas difieren en su función, aunque compartan la secuencia de aminoácidos.
+Correcta: C. Por qué: La función de una proteína depende de su estructura, y esta de su secuencia de aminoácidos. Si ambas secuencias son idénticas, ambas proteínas son la misma molécula y actúan igual sobre la caseína de la leche. Lo único que cambia es el organismo que la fabricó.
+
+Pregunta 2 (Evaluar): El arroz dorado acumula betacaroteno, precursor de la vitamina A, en el grano. ¿En qué se diferencia el objetivo de esta modificación respecto del maíz Bt?
+A) Busca un beneficio nutricional para quien lo consume, no una ventaja agronómica.
+B) Busca reducir la aplicación de plaguicidas, igual que el maíz resistente a insectos.
+C) Busca tolerar herbicidas, lo que permite un control más sencillo de las malezas.
+D) Busca aumentar el rendimiento por hectárea en suelos de baja fertilidad.
+Correcta: A. Por qué: Las modificaciones agronómicas, como la resistencia a insectos o la tolerancia a herbicidas, benefician al agricultor facilitando el manejo del cultivo. El arroz dorado, en cambio, no mejora la planta como cultivo: mejora el alimento para quien lo come. Esa es la diferencia de categoría.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere determinar si un champiñón editado, al que se inactivó un gen propio de pardeamiento, contiene ADN de otra especie. ¿Qué procedimiento lo resuelve?
+A) Medir el tiempo que tarda en oscurecerse tras ser cortado y expuesto al aire.
+B) Secuenciar su genoma y buscar secuencias ajenas a la especie del champiñón.
+C) Comparar su color y su textura con los de champiñones convencionales del mercado.
+D) Cultivarlo en un medio con antibiótico y observar si logra desarrollarse igual.
+Correcta: B. Por qué: La pregunta es sobre la composición del genoma. Solo leerlo permite responder: si aparecen secuencias que no corresponden a la especie, hay ADN ajeno; si no, la modificación se limita al gen propio. El tiempo de pardeamiento y el aspecto miden el efecto de la edición, no su composición genética.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

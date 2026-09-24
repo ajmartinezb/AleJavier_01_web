@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 17: a. Ciclinas y quinasas: el motor del ciclo
+Sección: 5. Control del ciclo celular: los puntos de control
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Ciclinas y quinasas: el motor del ciclo». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente Ciclinas, sube y baja, MPF, fase S, G1, mitosis, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Ciclinas y quinasas: el motor del ciclo», dentro de la sección «5. Control del ciclo celular: los puntos de control» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Ciclinas, sube y baja, MPF, fase S, G1, mitosis.
+
+Ideas guía:
+- El avance del ciclo depende de un grupo de proteínas reguladoras: Quinasas dependientes de ciclinas (Cdk): enzimas que activan o desactivan otras proteínas agregándoles grupos fosfato.
+- Están siempre presentes, pero solo funcionan cuando se unen a una ciclina.
+- Ciclinas: proteínas cuya concentración sube y baja a lo largo del ciclo.
+- Se fabrican en una etapa y se destruyen en la siguiente.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Una investigadora sospecha que una proteína X presente en el citoplasma de células en mitosis induce la condensación de la cromatina. Obtiene extracto citoplasmático de células en mitosis y núcleos aislados de células en G2. ¿Qué procedimiento pone a prueba mejor su sospecha?
+A) Inyectar el extracto en núcleos de G2 y en núcleos de G1, y comparar la condensación en ambos.
+B) Inyectar el extracto completo en núcleos de G2 y observar si su cromatina llega a condensarse.
+C) Inyectar extracto de células en G2 en núcleos de G2, y observar si su cromatina se condensa.
+D) Inyectar extracto completo o sin la proteína X en núcleos de G2 y comparar la condensación.
+Correcta: D. Por qué: La hipótesis no se refiere al citoplasma en general, sino a una proteína concreta. Para atribuirle el efecto hay que comparar dos tratamientos que difieran solo en su presencia: extracto completo frente a extracto sin X, aplicados al mismo tipo de núcleo. Si solo el primero condensa la cromatina, X es necesaria. Usar solo el extracto completo no distingue X del resto, y cambiar el tipo de núcleo altera otra variable.
+
+Pregunta 2 (Procesar y analizar la evidencia): En embriones de erizo de mar que se dividen en forma sincronizada, se mide cada 10 minutos la concentración de una ciclina. Los datos muestran que sube de forma gradual durante cada interfase, alcanza su máximo al comienzo de la mitosis y cae casi a cero al terminar la metafase, en cada uno de tres ciclos seguidos. ¿Qué interpretación es coherente con los datos?
+A) La ciclina se acumula hasta activar la entrada en mitosis y su destrucción la termina.
+B) La ciclina se fabrica sobre todo durante la mitosis y se degrada de manera constante en G1.
+C) La ciclina alcanza su máximo en la fase S porque se necesita para duplicar los cromosomas.
+D) La ciclina mantiene una concentración estable y solo cambia la actividad de la quinasa Cdk.
+Correcta: A. Por qué: El máximo coincide con el inicio de la mitosis, lo que sugiere que la acumulación permite entrar en ella. La caída brusca al terminar la metafase indica destrucción, lo que coincide con la salida de mitosis. Como el patrón se repite en tres ciclos, se trata de un comportamiento regular. Las otras opciones ubican el máximo en otra fase o niegan que la concentración varíe, lo que contradice los datos.
+
+Pregunta 3 (Observar y plantear preguntas): En un laboratorio se fusiona una célula en fase S con una célula en G1. Poco después, el núcleo que estaba en G1 comienza a replicar su ADN, aunque no le correspondía hacerlo todavía. ¿Qué pregunta de investigación surge directamente de esta observación?
+A) ¿Cuánto tiempo tarda una célula humana cualquiera en completar su ciclo celular?
+B) ¿Qué componente del citoplasma de la célula en fase S induce la replicación?
+C) ¿Por qué las células en G1 son más grandes que las células que están en fase S?
+D) ¿En qué fase del ciclo se condensa la cromatina de un núcleo en interfase?
+Correcta: B. Por qué: Lo llamativo es que un núcleo en G1 adelantó su replicación solo por compartir citoplasma con una célula en S. Eso invita a preguntar qué sustancia de ese citoplasma produjo el cambio, pregunta que luego se respondió con los complejos ciclina-Cdk. La duración del ciclo, el tamaño celular o la condensación de la cromatina no se relacionan con lo observado en esta fusión.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

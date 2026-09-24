@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 24: b. Centrosoma y centriolos
+Sección: 7. Citoesqueleto, centriolos, cilios y flagelos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Centrosoma y centriolos». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente centrosoma, organizan los microtúbulos, centriolos, 9 tripletes de microtúbulos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Centrosoma y centriolos», dentro de la sección «7. Citoesqueleto, centriolos, cilios y flagelos» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: centrosoma, organizan los microtúbulos, centriolos, 9 tripletes de microtúbulos.
+
+Ideas guía:
+- El centrosoma es la zona cercana al núcleo donde se organizan los microtúbulos de la célula.
+- En las células animales contiene un par de centriolos, cilindros perpendiculares entre sí formados por 9 tripletes de microtúbulos.
+- Antes de la división celular, el centrosoma se duplica y cada copia va a un polo de la célula para organizar el huso mitótico.
+- Las células vegetales no tienen centriolos, pero igual forman el huso a partir de otros centros organizadores de microtúbulos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Una investigadora sospecha que el centrosoma es el sitio desde donde crecen los microtúbulos de una célula animal. Trata las células con frío, que desarma todos los microtúbulos, y luego las devuelve a 37 °C, fijándolas a los 0, 1, 3 y 10 minutos para teñir la tubulina. ¿Qué resultado debería registrar para apoyar su hipótesis?
+A) Una cantidad de tubulina igual en todos los tiempos, repartida en el citoplasma.
+B) Microtúbulos que aparecen al mismo tiempo en todas partes del citoplasma celular.
+C) Microtúbulos que se forman primero bajo la membrana plasmática y después avanzan hacia el núcleo.
+D) Microtúbulos cortos junto al núcleo que se alargan hacia la periferia con el tiempo.
+Correcta: D. Por qué: Si los microtúbulos nacen del centrosoma, al recuperar la temperatura deberían aparecer primero junto al núcleo, donde está el centrosoma, y alargarse con los minutos hacia el borde celular, formando un patrón radiado. Un crecimiento simultáneo en todo el citoplasma o desde la membrana contradiría la hipótesis. La cantidad total de tubulina no sirve, porque no indica dónde se ensamblan.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se cuenta el número de centriolos por célula en tres muestras. Muestra 1: células de riñón de ratón en interfase temprana, 2 centriolos. Muestra 2: las mismas células justo antes de dividirse, 4 centriolos. Muestra 3: células del meristema de una raíz de arveja en división, 0 centriolos, pero con huso mitótico visible. ¿Qué conclusión se desprende de estos datos?
+A) Los centriolos se duplican antes de la división, pero no son indispensables para formar el huso.
+B) Los centriolos son indispensables para formar el huso mitótico en todas las células que se dividen.
+C) Las células vegetales pierden sus centriolos cuando comienzan a dividirse por mitosis.
+D) Las células animales tienen cuatro centriolos durante toda la interfase de su ciclo.
+Correcta: A. Por qué: Las muestras 1 y 2 muestran que la célula animal pasa de 2 a 4 centriolos justo antes de dividirse: hubo duplicación. La muestra 3 corresponde a células que se dividen con un huso visible y sin centriolos. Por lo tanto, formar el huso es posible sin ellos. La conclusión debe reunir ambas ideas.
+
+Pregunta 3 (Evaluar): Un estudiante observa al microscopio electrónico una célula en división que no tiene centriolos y concluye: «Esta célula no puede ser animal, porque todas las células animales tienen centriolos». Su profesora le informa que algunos ovocitos de ratón se dividen normalmente sin centriolos. ¿Cómo debe evaluarse la conclusión del estudiante?
+A) Es válida, porque la ausencia de centriolos basta para identificar una célula vegetal.
+B) Es válida, porque sin centriolos ninguna célula animal logra formar el huso mitótico.
+C) No es válida, porque la falta de centriolos no basta para excluir el origen animal.
+D) No es válida, porque los centriolos solo aparecen en células de plantas y de hongos.
+Correcta: C. Por qué: El razonamiento del estudiante depende de la premisa «todas las células animales tienen centriolos». El caso de los ovocitos de ratón, que se dividen sin centriolos, muestra que la premisa tiene excepciones. Entonces, la sola ausencia de centriolos no permite descartar que la célula sea animal; para identificarla habría que buscar otros rasgos, como la ausencia de pared celular.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

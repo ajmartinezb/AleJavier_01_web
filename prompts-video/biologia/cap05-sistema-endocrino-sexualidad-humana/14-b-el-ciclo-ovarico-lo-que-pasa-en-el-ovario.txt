@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 14: b. El ciclo ovárico: lo que pasa en el ovario
+Sección: 5. El ciclo ovárico y el ciclo uterino
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «El ciclo ovárico: lo que pasa en el ovario». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Folicular, FSH, estrógenos, Ovulación, pico de LH, Lútea, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. El ciclo ovárico: lo que pasa en el ovario», dentro de la sección «5. El ciclo ovárico y el ciclo uterino» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Folicular, FSH, estrógenos, Ovulación, pico de LH, Lútea.
+
+Ideas guía:
+- El dato que más se pregunta: cuál fase es variable.
+- La fase lútea dura casi siempre 14 días, porque ese es el tiempo de vida del cuerpo lúteo.
+- Lo que varía entre personas y entre ciclos es la fase folicular.
+- Por eso, en un ciclo de 32 días la ovulación no ocurre el día 16, sino alrededor del día 18: se cuentan 14 días hacia atrás desde el final.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un estudiante advierte que el folículo, después de liberar el ovocito, no desaparece sino que se transforma en una estructura que secreta otra hormona. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuántos folículos tiene un ovario en el momento del nacimiento?
+B) ¿Qué instrumento permite observar un folículo dentro del ovario?
+C) ¿En qué idioma se describió por primera vez el cuerpo lúteo?
+D) ¿Qué función cumple esa estructura durante la fase lútea?
+Correcta: D. Por qué: Lo llamativo es que una estructura que ya cumplió su tarea se reconvierta en otra cosa en lugar de degenerar de inmediato, lo que sugiere una función nueva. Preguntar cuál es esa función continúa la observación. Las demás opciones piden datos de recuento, de técnica o de historia.
+
+Pregunta 2 (Procesar y analizar la evidencia): Durante la fase folicular se desarrollan varios folículos, pero habitualmente solo uno llega a ovular. ¿Qué ocurre con los demás?
+A) Degeneran, mientras el dominante continúa su desarrollo.
+B) Se transforman todos en cuerpos lúteos al mismo tiempo.
+C) Permanecen intactos y ovulan en los ciclos siguientes.
+D) Se fusionan entre sí para formar un único folículo grande.
+Correcta: A. Por qué: La selección de un folículo dominante explica que lo habitual sea la ovulación de un solo ovocito por ciclo. Los tratamientos de estimulación ovárica intervienen justamente en ese punto, manteniendo niveles altos de gonadotropinas para que maduren varios folículos a la vez.
+
+Pregunta 3 (Planificar y conducir una investigación): En un tratamiento de estimulación ovárica, los fármacos deben aplicarse durante los 10 a 12 días previos al término de la fase folicular. En una persona con ciclos de 32 días, ¿en qué intervalo corresponde aplicarlos?
+A) Entre los días 1 y 12 del ciclo.
+B) Entre los días 18 y 29 del ciclo.
+C) Entre los días 6 y 17 del ciclo.
+D) Entre los días 21 y 32 del ciclo.
+Correcta: C. Por qué: Primero se ubica el término de la fase folicular: 32 menos 14 da el día 18. Luego se cuentan hacia atrás los 10 a 12 días de tratamiento, lo que sitúa el inicio entre los días 6 y 8. El intervalo que cumple ambas condiciones es el que va del día 6 al 17, justo antes de la ovulación.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

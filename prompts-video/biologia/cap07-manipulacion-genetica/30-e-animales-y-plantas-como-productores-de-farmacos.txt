@@ -1,0 +1,43 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 30: e. Animales y plantas como productores de fármacos
+Sección: 7. Aplicaciones en fármacos y salud
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Animales y plantas como productores de fármacos». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente biofarmacia, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Animales y plantas como productores de fármacos», dentro de la sección «7. Aplicaciones en fármacos y salud» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: biofarmacia.
+
+Ideas guía:
+- Existe una variante llamada a veces biofarmacia: se obtienen animales o plantas transgénicos que producen la proteína terapéutica en un tejido del que se pueda extraer con facilidad, por ejemplo en la leche de una cabra.
+- Reduce costos para proteínas complejas que las bacterias no pueden fabricar correctamente, y plantea cuestiones propias de bienestar animal.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se obtienen cabras transgénicas que producen una proteína terapéutica en su leche. ¿Qué ventaja ofrece este sistema frente a un cultivo bacteriano?
+A) Permite producir la proteína sin necesidad de insertar ningún gen en el animal.
+B) Permite que la proteína se produzca en todos los tejidos del animal a la vez.
+C) Permite obtener proteínas complejas que las bacterias no fabrican correctamente.
+D) Permite prescindir de los pasos de purificación posteriores a la extracción.
+Correcta: C. Por qué: Las bacterias no realizan las modificaciones posteriores a la traducción que muchas proteínas humanas requieren. Un mamífero sí, y además concentra el producto en la leche, de donde se extrae con facilidad. Obtener el animal exige insertar el gen en el cigoto, y la purificación sigue siendo necesaria.
+
+Pregunta 2 (Evaluar): Un comité evalúa un proyecto que usa cabras transgénicas como productoras de un fármaco. ¿Qué consideración, además de la eficacia y la seguridad del producto, corresponde incorporar?
+A) El bienestar de los animales empleados durante todo el proceso productivo.
+B) El color del pelaje de los animales seleccionados para el proyecto.
+C) La distancia entre el criadero y la planta de purificación del producto.
+D) El número de publicaciones científicas del equipo responsable del proyecto.
+Correcta: A. Por qué: Cuando el sistema de producción son animales vivos, su bienestar se vuelve parte de la evaluación, junto con la eficacia y la seguridad del fármaco. Las demás opciones son datos logísticos o curriculares, legítimos en otros contextos, pero ajenos a la dimensión que el enunciado pide agregar.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo observa que una misma proteína terapéutica, producida en bacterias y en células de mamífero, muestra distinta actividad biológica al ser ensayada. Las secuencias de aminoácidos son idénticas. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Cuántos litros de cultivo se requieren para obtener un gramo de proteína en cada sistema?
+B) ¿Qué costo tiene el medio de cultivo empleado en cada uno de los dos sistemas?
+C) ¿Cuántos días tarda cada sistema en alcanzar la densidad celular máxima posible?
+D) ¿Qué modificaciones posteriores a la traducción diferencian ambas versiones de la proteína?
+Correcta: D. Por qué: El enunciado descarta la explicación más obvia al declarar idénticas las secuencias. Si la secuencia es la misma y la actividad difiere, la diferencia debe estar en lo que ocurre después de la traducción: el plegamiento y las modificaciones que cada sistema agrega. Esa es la pregunta que se desprende.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

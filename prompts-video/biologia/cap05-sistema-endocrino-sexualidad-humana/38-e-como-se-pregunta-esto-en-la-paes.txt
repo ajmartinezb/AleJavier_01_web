@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 38: e. Cómo se pregunta esto en la PAES
+Sección: 9. Infecciones de transmisión sexual
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Cómo se pregunta esto en la PAES». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente específico, con ningún otro, tasa, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Cómo se pregunta esto en la PAES», dentro de la sección «9. Infecciones de transmisión sexual» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: específico, con ningún otro, tasa.
+
+Ideas guía:
+- La prueba oficial de Invierno 2027 incluyó dos ítems de esta sección, y ninguno pedía memorizar síntomas.
+- Uno presentaba cuatro tests diseñados para detectar una proteína del virus del herpes y una tabla con las reacciones de cada uno frente a proteínas de varios virus.
+- Había que elegir el test específico, es decir, el que reaccionaba con el herpes y con ningún otro.
+- Un test que reacciona con varios agentes da falsos positivos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se diseñan cuatro tests para detectar una proteína del virus del herpes. El test 1 reacciona con el herpes y también con el VIH; el test 2, solo con hepatitis; el test 3, solo con el herpes; el test 4, con herpes y hepatitis. ¿Cuál permite detectar exclusivamente el herpes?
+A) El test 1.
+B) El test 3.
+C) El test 2.
+D) El test 4.
+Correcta: B. Por qué: El test 3 es el único que reacciona con el herpes y con nada más, de modo que un resultado positivo identifica sin ambigüedad a ese virus. Los tests 1 y 4 también reaccionan con otros agentes, así que un positivo no permitiría saber cuál está presente, y el test 2 ni siquiera detecta el herpes.
+
+Pregunta 2 (Evaluar): Un gráfico entrega el número de casos nuevos de tres ITS en tres grupos de personas atendidas en un centro de salud. Un estudiante concluye que un grupo tiene mayor riesgo que otro. ¿Cuál es la evaluación correcta?
+A) Es válida: más casos indican siempre mayor riesgo en ese grupo.
+B) Es válida, siempre que los datos provengan de un solo centro de salud.
+C) Es inválida: sin conocer el tamaño de cada grupo no puede compararse el riesgo.
+D) Es inválida, porque los casos nuevos no se relacionan con ninguna infección.
+Correcta: C. Por qué: Si un grupo es mucho más numeroso, puede tener más casos y aun así menor riesgo individual. Sin el denominador, la comparación no se sostiene. Lo que sí permite el gráfico es comparar infecciones **dentro** de un mismo grupo, porque allí el denominador es común.
+
+Pregunta 3 (Procesar y analizar la evidencia): En el mismo gráfico, en el grupo de recién nacidos aparecen casos de clamidia, gonorrea y VIH. ¿Qué explica esos casos?
+A) Se adquirieron de la madre durante el embarazo o el parto.
+B) Se adquirieron por vía sexual, igual que en los grupos de adultos.
+C) Se adquirieron por contacto casual en la sala de atención.
+D) Corresponden a un error de registro, porque esas infecciones no afectan a recién nacidos.
+Correcta: A. Por qué: En un recién nacido la vía sexual está descartada por completo, y el contacto casual no transmite estas infecciones. La transmisión vertical explica los tres casos y, además, fundamenta el control prenatal: detectar y tratar estas infecciones durante el embarazo previene la transmisión al recién nacido.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

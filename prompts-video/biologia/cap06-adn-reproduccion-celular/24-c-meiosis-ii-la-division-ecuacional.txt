@@ -1,0 +1,42 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 24: c. Meiosis II: la división ecuacional
+Sección: 7. La meiosis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Meiosis II: la división ecuacional». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente no hay replicación previa, Profase II, Metafase II, Anafase II, cromátidas hermanas, Telofase II y citocinesis, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Meiosis II: la división ecuacional», dentro de la sección «7. La meiosis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: no hay replicación previa, Profase II, Metafase II, Anafase II, cromátidas hermanas, Telofase II y citocinesis.
+
+Ideas guía:
+- Es muy parecida a una mitosis, pero en células haploides, y no hay replicación previa.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un estudiante quiere demostrar que en la meiosis II se separan cromátidas hermanas y no cromosomas homólogos. Tiene acceso a células de un organismo 2n = 4 en el que un cromosoma de cada par lleva una marca fluorescente. ¿Qué observación debería registrar en la anafase II para apoyar su idea?
+A) Que cada polo reciba una cromátida de cada uno de los cromosomas de la célula.
+B) Que cada polo reciba un cromosoma completo de cada par de homólogos de la especie.
+C) Que un polo reciba todos los cromosomas marcados y el otro reciba los no marcados.
+D) Que cada polo reciba dos pares de homólogos completos, uno marcado y otro sin marca.
+Correcta: A. Por qué: Al empezar la meiosis II, cada célula es haploide (n = 2): tiene un cromosoma de cada par, con dos cromátidas. Si se separan cromátidas, cada polo recibe una cromátida de cada uno de esos dos cromosomas. Repartir pares de homólogos ya no es posible, porque se separaron en la meiosis I. Por eso A es la observación que apoya la idea.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un organismo con 2n = 12, un investigador marca el ADN y cuenta, en una célula en metafase II, cuántos cromosomas y cuántas cromátidas hay en total. ¿Qué valores obtiene, respectivamente?
+A) Seis cromosomas y seis cromátidas
+B) Seis cromosomas y doce cromátidas
+C) Doce cromosomas y doce cromátidas
+D) Doce cromosomas y veinticuatro cromátidas
+Correcta: B. Por qué: La meiosis I redujo el número de 2n = 12 a n = 6 cromosomas por célula. En la metafase II las cromátidas todavía no se han separado, así que cada uno de los 6 cromosomas tiene dos: 6 × 2 = 12 cromátidas. El resultado es 6 cromosomas y 12 cromátidas.
+
+Pregunta 3 (Evaluar): Dos estudiantes discuten. Paula dice: «La meiosis II es igual que una mitosis, porque en ambas se separan cromátidas hermanas». Tomás responde: «No son iguales, porque la meiosis II no va precedida de una replicación y parte de una célula haploide». ¿Cuál es la evaluación correcta de la discusión?
+A) Solo Paula tiene razón, porque ambos procesos producen células idénticas a la célula madre.
+B) Solo Tomás tiene razón, pues en la meiosis II se separan cromosomas homólogos.
+C) Ambos tienen parte de razón: separan cromátidas, pero difieren en la ploidía inicial.
+D) Ninguno tiene razón, porque la meiosis II sí incluye una replicación del ADN previa.
+Correcta: C. Por qué: Paula acierta en el mecanismo: en la anafase II, como en la mitótica, se separan cromátidas. Tomás acierta en las diferencias: no hay fase S antes de la meiosis II y la célula de partida es haploide. Además, por el entrecruzamiento, las cromátidas ya no son idénticas. Ambos aportan datos válidos, como señala B.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

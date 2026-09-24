@@ -1,0 +1,42 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 35: g. Qué se le agregó a la teoría después
+Sección: 7. La teoría de la selección natural de Darwin y Wallace
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Qué se le agregó a la teoría después». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente teoría sintética, Mutación, Recombinación, Deriva genética, al azar, Flujo génico, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «g. Qué se le agregó a la teoría después», dentro de la sección «7. La teoría de la selección natural de Darwin y Wallace» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: teoría sintética, Mutación, Recombinación, Deriva genética, al azar, Flujo génico.
+
+Ideas guía:
+- Darwin y Wallace no conocían las leyes de Mendel ni la estructura del ADN.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una población de 30 insectos aislados en un islote, una variante de color sin efecto sobre la supervivencia ni la reproducción pasa del 20 % al 65 % en cinco generaciones. ¿Qué mecanismo explica mejor este cambio?
+A) La selección natural, porque la variante resultó ventajosa en ese ambiente.
+B) La deriva genética, porque en poblaciones pequeñas las frecuencias cambian al azar.
+C) El flujo génico, porque llegaron individuos portadores desde otras poblaciones.
+D) La mutación recurrente, porque la variante se originó muchas veces seguidas.
+Correcta: B. Por qué: El enunciado declara dos cosas decisivas: la variante no afecta la supervivencia ni la reproducción, lo que descarta la selección natural, y la población es pequeña y está aislada, lo que descarta el flujo génico. Queda la deriva genética, cuyo efecto es justamente notorio con 30 individuos.
+
+Pregunta 2 (Evaluar): De los cuatro mecanismos de la teoría sintética, solo uno produce adaptación. ¿Qué argumento justifica esa afirmación?
+A) La selección natural es el único mecanismo que no actúa al azar respecto del ambiente.
+B) La selección natural es el único mecanismo capaz de generar variantes genéticas nuevas.
+C) La selección natural es el único mecanismo que modifica las frecuencias génicas.
+D) La selección natural es el único mecanismo que opera en poblaciones de gran tamaño.
+Correcta: A. Por qué: La adaptación es un ajuste entre el organismo y su ambiente. Para que aparezca, el mecanismo debe discriminar entre variantes según su efecto en ese ambiente. La mutación ocurre al azar, la deriva fija variantes sin relación con su ventaja y el flujo génico depende de quién migra. Solo la selección natural establece esa relación.
+
+Pregunta 3 (Planificar y conducir una investigación): Dos poblaciones vecinas de una misma planta intercambian polen de manera frecuente. Un equipo quiere estimar la magnitud de ese intercambio para evaluar cuánto se parecen genéticamente. ¿Qué debe medir?
+A) La cantidad de flores que produce cada una de las dos poblaciones por temporada.
+B) La distancia en metros que separa a las dos poblaciones dentro del mismo valle.
+C) El número de especies de insectos polinizadores presentes en la zona estudiada.
+D) La proporción de semillas de cada población cuyo padre proviene de la otra población.
+Correcta: D. Por qué: El flujo génico se mide por genes efectivamente transferidos, no por cercanía ni por oferta de flores. Determinar qué proporción de las semillas de cada población tiene como padre un individuo de la otra cuantifica exactamente cuántas variantes cruzaron. La distancia y los polinizadores son factores que influyen, pero no son la medida.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

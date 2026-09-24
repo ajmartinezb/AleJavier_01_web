@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 16: c. Excitatoria o inhibitoria
+Sección: 5. La sinapsis química
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Excitatoria o inhibitoria». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Excitatoria, acerca, más probable, Inhibitoria, aleja, menos probable, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Excitatoria o inhibitoria», dentro de la sección «5. La sinapsis química» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Excitatoria, acerca, más probable, Inhibitoria, aleja, menos probable.
+
+Ideas guía:
+- Lo que determina el efecto no es el neurotransmisor por sí solo, sino el receptor al que se une: Por qué el soma tiene que sumar.
+- Una neurona recibe a la vez miles de señales, unas excitatorias y otras inhibitorias.
+- El soma las integra, y solo si el resultado alcanza el umbral en el cono axónico se dispara un potencial de acción.
+- Esto explica por qué el sistema nervioso puede hacer algo más que reaccionar: puede decidir entre respuestas, y por eso el mismo estímulo no siempre produce el mismo resultado.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una neurona recibe simultáneamente 12 señales excitatorias, cada una de +2 mV, y 5 señales inhibitorias, cada una de −3 mV. Si el reposo es −70 mV y el umbral, −55 mV, ¿se genera un potencial de acción?
+A) Sí, porque el potencial alcanza −46 mV y supera el umbral requerido.
+B) No, porque el potencial alcanza solo −61 mV y no llega al umbral.
+C) No, porque las señales inhibitorias anulan por completo a las excitatorias.
+D) Sí, porque el número de señales excitatorias es mayor que el de inhibitorias.
+Correcta: B. Por qué: Las excitatorias aportan 12 multiplicado por 2 mV, es decir, +24 mV. Las inhibitorias aportan 5 multiplicado por −3 mV, es decir, −15 mV. La suma neta es +9 mV, de modo que el potencial pasa de −70 mV a −61 mV. Como −61 mV es más negativo que el umbral de −55 mV, no se genera potencial de acción.
+
+Pregunta 2 (Evaluar): Se afirma que «un neurotransmisor es excitatorio o inhibitorio por su propia naturaleza química». ¿Cuál es la precisión necesaria?
+A) Es correcta: cada neurotransmisor produce siempre el mismo efecto en todas las sinapsis.
+B) El efecto depende exclusivamente de la cantidad de neurotransmisor liberada.
+C) El efecto depende del receptor al que se une en la membrana postsináptica.
+D) El efecto depende del diámetro del axón de la neurona presináptica.
+Correcta: C. Por qué: El mismo neurotransmisor puede excitar en una sinapsis e inhibir en otra, porque lo que decide el resultado es qué canales se abren en la membrana postsináptica: si entran cargas positivas, la membrana se despolariza; si entran negativas o sale potasio, se hiperpolariza. La molécula es solo la llave; el receptor es la cerradura que define el efecto.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere determinar si una sinapsis recién descubierta es excitatoria o inhibitoria. ¿Qué medición permite decidirlo?
+A) Registrar si el potencial postsináptico se acerca o se aleja de su umbral.
+B) Contar cuántas vesículas hay en el terminal presináptico de esa sinapsis.
+C) Medir el diámetro del espacio sináptico mediante microscopía electrónica.
+D) Medir la velocidad con que el potencial de acción recorre el axón presináptico.
+Correcta: A. Por qué: La clasificación se define por el efecto sobre el potencial postsináptico, así que hay que registrar precisamente ese potencial al activar la sinapsis y observar en qué dirección cambia. Contar vesículas, medir el espacio o la velocidad de conducción describe la estructura o la vía, pero no el signo del efecto.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

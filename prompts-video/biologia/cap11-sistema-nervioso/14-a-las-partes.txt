@@ -1,0 +1,39 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 14: a. Las partes
+Sección: 5. La sinapsis química
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Las partes». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Neurona presináptica, envía, Espacio sináptico, Neurona postsináptica, recibe, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Las partes», dentro de la sección «5. La sinapsis química» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Neurona presináptica, envía, Espacio sináptico, Neurona postsináptica, recibe.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una micrografía de una sinapsis se identifican tres elementos: una estructura con abundantes vesículas, un espacio de unos 20 nm y una membrana con receptores. ¿Cómo se denominan, en ese orden?
+A) Terminal presináptico, espacio sináptico y membrana postsináptica.
+B) Membrana postsináptica, espacio sináptico y terminal presináptico.
+C) Nodo de Ranvier, vaina de mielina y cono axónico.
+D) Dendrita, soma neuronal y axón de la neurona siguiente.
+Correcta: A. Por qué: Las vesículas son el rasgo distintivo del lado que libera, es decir, el presináptico. El espacio de 20 nm es la hendidura sináptica. Los receptores identifican el lado que recibe, es decir, la membrana postsináptica. El orden del enunciado corresponde, por lo tanto, al sentido en que viaja la señal.
+
+Pregunta 2 (Observar y plantear preguntas): Un estudiante observa que el espacio sináptico mide unos 20 nm, mientras el diámetro de un axón ronda los 10 000 nm. ¿Qué pregunta investigable plantea esa comparación?
+A) ¿Qué unidad de medida es más conveniente para expresar ambas magnitudes?
+B) ¿Cuántas sinapsis caben, una al lado de otra, en el grosor de un axón?
+C) ¿Cómo logra el neurotransmisor cruzar ese espacio sin perderse en el medio?
+D) ¿Qué microscopio permite ver estructuras de tamaño nanométrico?
+Correcta: C. Por qué: Lo notable del dato es lo diminuto del espacio en comparación con la célula, y eso conduce a preguntar cómo se asegura que el mensajero llegue a su destino: la respuesta está en la estrechez misma, que hace la difusión muy rápida, y en la disposición enfrentada de las membranas. Las otras preguntas son metodológicas o de mera conversión de unidades.
+
+Pregunta 3 (Comunicar): Se prepara un esquema de la sinapsis y hay que rotular la flecha que representa el sentido de la transmisión. ¿Cuál es el rótulo correcto?
+A) Desde la membrana postsináptica hacia el terminal presináptico.
+B) Desde el terminal presináptico hacia la membrana postsináptica.
+C) En ambos sentidos a la vez, según la intensidad del estímulo.
+D) Desde el espacio sináptico hacia el interior de las vesículas.
+Correcta: B. Por qué: El sentido de la transmisión queda definido por la ubicación de las vesículas y de los receptores: las vesículas solo están en el lado que libera y los receptores en el lado que recibe. Por eso la flecha debe ir del terminal presináptico a la membrana postsináptica, y no al revés ni en los dos sentidos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

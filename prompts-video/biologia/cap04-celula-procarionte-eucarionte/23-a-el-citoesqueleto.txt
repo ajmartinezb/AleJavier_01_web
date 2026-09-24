@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 23: a. El citoesqueleto
+Sección: 7. Citoesqueleto, centriolos, cilios y flagelos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «El citoesqueleto». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente dinámica, dar forma y resistencia, moverla, transportar, Microfilamentos, Actina, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. El citoesqueleto», dentro de la sección «7. Citoesqueleto, centriolos, cilios y flagelos» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: dinámica, dar forma y resistencia, moverla, transportar, Microfilamentos, Actina.
+
+Ideas guía:
+- El citoesqueleto es una red dinámica de filamentos de proteína que recorre el citoplasma.
+- A diferencia de un esqueleto óseo, se arma y desarma constantemente según lo que la célula necesita.
+- Cumple tres grandes funciones: dar forma y resistencia a la célula, moverla y transportar organelos y vesículas en su interior.
+- Las vesículas no se mueven solas: las arrastran proteínas motoras que «caminan» sobre los microtúbulos gastando ATP.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un cultivo de células del páncreas que secretan enzimas, se marca con un colorante fluorescente el contenido de las vesículas que salen del complejo de Golgi. Luego se divide el cultivo en dos: a uno se le agrega colchicina y al otro no. Tras 2 horas se mide la fluorescencia en el medio externo y dentro de la célula. Control: 80 % afuera y 20 % adentro. Con colchicina: 15 % afuera y 85 % adentro, acumulada cerca del Golgi. ¿Qué explica mejor estos resultados?
+A) Las vesículas no pudieron ser transportadas a la membrana plasmática.
+B) El complejo de Golgi dejó de producir vesículas con el contenido marcado.
+C) La membrana plasmática perdió su capacidad de fusionarse con otras membranas.
+D) Las enzimas marcadas fueron degradadas por los lisosomas antes de salir.
+Correcta: A. Por qué: Con colchicina la marca no desaparece, sino que queda dentro de la célula (85 %) y junto al Golgi. Eso muestra que las vesículas se formaron, porque llevan la marca, pero no avanzaron. Si no hay microtúbulos, la quinesina no tiene por dónde caminar y las vesículas no llegan a la membrana, por lo que la secreción cae de 80 % a 15 %.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere saber si la fagocitosis que realizan los macrófagos depende de los microfilamentos de actina. Dispone de macrófagos en cultivo, bacterias marcadas con fluorescencia y citocalasina. ¿Cuál de los siguientes diseños permite responder esa pregunta?
+A) Tratar todos los macrófagos con citocalasina y medir cuántas bacterias quedan en el medio.
+B) Agregar citocalasina a las bacterias y medir cuántas de ellas fagocita un macrófago sin tratar.
+C) Comparar macrófagos con y sin citocalasina, midiendo las bacterias fluorescentes internalizadas.
+D) Comparar macrófagos con y sin bacterias, midiendo el contenido total de actina de cada grupo celular.
+Correcta: C. Por qué: La variable independiente debe ser la presencia o ausencia de citocalasina en los macrófagos, que son las células cuyo citoesqueleto se quiere alterar. La dependiente debe medir la fagocitosis: cuántas bacterias fluorescentes quedan dentro de cada macrófago. Además, hace falta un grupo sin droga para comparar. Solo la opción que contrasta ambos grupos de macrófagos y cuenta bacterias internalizadas cumple todo.
+
+Pregunta 3 (Observar y plantear preguntas): En un laboratorio se observa que las células de una raíz de cebolla tratadas con colchicina acumulan cromosomas condensados en el centro, sin separarse hacia los polos, mientras que en las células no tratadas la división termina en unas horas. ¿Qué pregunta de investigación se desprende directamente de esta observación?
+A) ¿La colchicina aumenta la cantidad de ADN que contiene cada cromosoma de la raíz?
+B) ¿La separación de cromosomas requiere microtúbulos ensamblados durante la división?
+C) ¿Las células de raíz de cebolla tienen más cromosomas que otras células vegetales?
+D) ¿La colchicina provoca que la raíz de la cebolla absorba menos agua desde el suelo húmedo?
+Correcta: B. Por qué: Lo observado es que, con colchicina, los cromosomas se detienen sin migrar a los polos. La pregunta que surge directamente es si esa migración depende de los microtúbulos que la droga impide formar. Las demás preguntas hablan de variables que no aparecen en la observación: cantidad de ADN, número de cromosomas o absorción de agua.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

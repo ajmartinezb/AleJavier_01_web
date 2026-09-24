@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 09: a. Dos células haploides con estrategias opuestas
+Sección: 4. Los gametos: espermatozoide y ovocito
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Dos células haploides con estrategias opuestas». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente 23 cromosomas, Tamaño, Movilidad, Citoplasma, Cantidad, uno, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Dos células haploides con estrategias opuestas», dentro de la sección «4. Los gametos: espermatozoide y ovocito» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 23 cromosomas, Tamaño, Movilidad, Citoplasma, Cantidad, uno.
+
+Ideas guía:
+- Ambos gametos tienen 23 cromosomas, la mitad que una célula somática, y ambos se forman por meiosis.
+- Pero todo lo demás en ellos es distinto, y esa diferencia tiene una lógica.
+- Las pocas mitocondrias que el espermatozoide lleva en su pieza media se degradan tras la fecundación.
+- Por eso el ADN mitocondrial se hereda solo por vía materna, un dato que aparece tanto aquí como en el capítulo 9, al usar el ADN mitocondrial para reconstruir parentescos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): El ovocito humano mide entre 100 y 150 µm y el espermatozoide, unos 60 µm de los cuales casi todo es flagelo. ¿Qué explica esa diferencia de diseño?
+A) El ovocito necesita más espacio porque contiene el doble de cromosomas.
+B) El espermatozoide es pequeño porque no contiene material genético.
+C) El tamaño de ambos gametos depende solo de la edad del organismo.
+D) El ovocito almacena reservas; el espermatozoide prioriza nadar.
+Correcta: D. Por qué: Cada gameto resuelve un problema distinto. El espermatozoide debe recorrer una distancia larga en poco tiempo, y todo peso adicional lo entorpece. El ovocito, en cambio, es transportado y debe sostener al embrión hasta la implantación, cuando recién obtiene nutrientes del endometrio.
+
+Pregunta 2 (Observar y plantear preguntas): Un estudiante advierte que el ovocito se describe como la célula más grande del cuerpo humano y, al mismo tiempo, como una célula sin capacidad de movimiento propio. ¿Qué pregunta investigable plantea esa combinación?
+A) ¿Cuántas células tiene en total el cuerpo humano adulto?
+B) ¿Cómo llega el ovocito al sitio de la fecundación sin moverse?
+C) ¿Qué aumento del microscopio permite observar un ovocito humano?
+D) ¿En qué museo se conserva la primera imagen de un ovocito humano?
+Correcta: B. Por qué: Si la célula no se mueve, algo tiene que moverla, y esa es exactamente la pregunta pertinente. La respuesta está en los cilios y en las contracciones de la trompa. Las demás opciones piden datos de recuento, de técnica o de historia que no resuelven la tensión observada.
+
+Pregunta 3 (Comunicar): Se necesita una frase que resuma por qué el ovocito aporta las reservas del embrión. ¿Cuál es la adecuada?
+A) Porque el embrión vive de esas reservas hasta implantarse en el endometrio.
+B) Porque el embrión no necesita nutrientes durante sus primeros días.
+C) Porque el espermatozoide consume todas sus reservas al desplazarse.
+D) Porque el endometrio nutre al embrión desde el momento de la fecundación.
+Correcta: A. Por qué: Entre la fecundación y la implantación pasan unos seis o siete días en los que el embrión no está conectado a ningún tejido materno: todo lo que consume proviene del ovocito. Por eso la implantación es también el momento en que comienza a recibir nutrientes desde el endometrio.
+
+Narración en español de Chile neutro, tono cercano y riguroso.
