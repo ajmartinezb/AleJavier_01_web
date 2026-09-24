@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" role="img" aria-label="Clasificación de los métodos de control de la natalidad en naturales, de barrera, hormonales, intrauterinos y quirúrgicos, con el paso del proceso en que actúa cada uno y su eficacia en uso típico" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Clasificación de los métodos de control de la natalidad en naturales, de barrera, hormonales, intrauterinos y quirúrgicos, con el paso del proceso en que actúa cada uno y su eficacia en uso típico</title>
+<rect width="1200" height="700" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="flv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f855a"/></marker><marker id="flr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c53030"/></marker></defs>
+<text x="600.0" y="34.0" font-size="21" text-anchor="middle" fill="#1a202c" font-weight="700">Métodos de control de la natalidad: en qué paso actúa cada uno</text>
+<rect x="62" y="80" width="236" height="62" rx="11" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<text x="180.0" y="106.0" font-size="13" text-anchor="middle" fill="#14532d" font-weight="700">Producción de</text>
+<text x="180.0" y="124.0" font-size="13" text-anchor="middle" fill="#14532d" font-weight="700">gametos y ovulación</text>
+<line x1="300" y1="111" x2="348" y2="111" stroke="#2f855a" stroke-width="2.6" marker-end="url(#flv)"/>
+<rect x="352" y="80" width="236" height="62" rx="11" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<text x="470.0" y="106.0" font-size="13" text-anchor="middle" fill="#14532d" font-weight="700">Encuentro de</text>
+<text x="470.0" y="124.0" font-size="13" text-anchor="middle" fill="#14532d" font-weight="700">los gametos</text>
+<line x1="590" y1="111" x2="638" y2="111" stroke="#2f855a" stroke-width="2.6" marker-end="url(#flv)"/>
+<rect x="642" y="80" width="236" height="62" rx="11" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<text x="760.0" y="106.0" font-size="13" text-anchor="middle" fill="#14532d" font-weight="700">Fecundación</text>
+<line x1="880" y1="111" x2="908" y2="111" stroke="#2f855a" stroke-width="2.6" marker-end="url(#flv)"/>
+<rect x="912" y="80" width="236" height="62" rx="11" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<text x="1030.0" y="106.0" font-size="13" text-anchor="middle" fill="#14532d" font-weight="700">Implantación</text>
+<rect x="46" y="212" width="218" height="286" rx="13" fill="#ffffff" stroke="#2f855a" stroke-width="2.5"/>
+<text x="155.0" y="242.0" font-size="15" text-anchor="middle" fill="#2f855a" font-weight="700">Naturales</text>
+<text x="155.0" y="274.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">calendario o ritmo</text>
+<text x="155.0" y="294.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">temperatura basal</text>
+<text x="155.0" y="314.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">moco cervical (Billings)</text>
+<text x="155.0" y="334.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">coito interrumpido</text>
+<line x1="70" y1="374" x2="240" y2="374" stroke="#2f855a" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="155.0" y="398.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">actúa en:</text>
+<text x="155.0" y="418.0" font-size="12" text-anchor="middle" fill="#2f855a" font-weight="700">evitan</text>
+<text x="155.0" y="435.0" font-size="12" text-anchor="middle" fill="#2f855a" font-weight="700">el encuentro</text>
+<text x="155.0" y="466.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal">embarazos, uso típico:</text>
+<text x="155.0" y="486.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">15 a 25 %</text>
+<line x1="155.0" y1="206" x2="470" y2="148" stroke="#2f855a" stroke-width="2" stroke-dasharray="6 4"/>
+<rect x="280" y="212" width="218" height="286" rx="13" fill="#ebf4ff" stroke="#2b6cb0" stroke-width="2.5"/>
+<text x="389.0" y="242.0" font-size="15" text-anchor="middle" fill="#2b6cb0" font-weight="700">De barrera</text>
+<text x="389.0" y="274.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">condón externo e interno</text>
+<text x="389.0" y="294.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">diafragma con espermicida</text>
+<line x1="304" y1="374" x2="474" y2="374" stroke="#2b6cb0" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="389.0" y="398.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">actúa en:</text>
+<text x="389.0" y="418.0" font-size="12" text-anchor="middle" fill="#2b6cb0" font-weight="700">impiden</text>
+<text x="389.0" y="435.0" font-size="12" text-anchor="middle" fill="#2b6cb0" font-weight="700">el encuentro</text>
+<text x="389.0" y="466.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal">embarazos, uso típico:</text>
+<text x="389.0" y="486.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">13 a 18 %</text>
+<line x1="389.0" y1="206" x2="470" y2="148" stroke="#2b6cb0" stroke-width="2" stroke-dasharray="6 4"/>
+<rect x="514" y="212" width="218" height="286" rx="13" fill="#f3ebff" stroke="#6b46c1" stroke-width="2.5"/>
+<text x="623.0" y="242.0" font-size="15" text-anchor="middle" fill="#6b46c1" font-weight="700">Hormonales</text>
+<text x="623.0" y="274.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">píldora, inyectable, implante</text>
+<text x="623.0" y="294.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">parche, anillo vaginal</text>
+<text x="623.0" y="314.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">anticoncepción de emergencia</text>
+<line x1="538" y1="374" x2="708" y2="374" stroke="#6b46c1" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="623.0" y="398.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">actúa en:</text>
+<text x="623.0" y="418.0" font-size="12" text-anchor="middle" fill="#6b46c1" font-weight="700">impiden</text>
+<text x="623.0" y="435.0" font-size="12" text-anchor="middle" fill="#6b46c1" font-weight="700">la ovulación</text>
+<text x="623.0" y="466.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal">embarazos, uso típico:</text>
+<text x="623.0" y="486.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">menos de 1 a 9 %</text>
+<line x1="623.0" y1="206" x2="180" y2="148" stroke="#6b46c1" stroke-width="2" stroke-dasharray="6 4"/>
+<rect x="748" y="212" width="218" height="286" rx="13" fill="#fff5eb" stroke="#c05621" stroke-width="2.5"/>
+<text x="857.0" y="242.0" font-size="15" text-anchor="middle" fill="#c05621" font-weight="700">Intrauterino (DIU)</text>
+<text x="857.0" y="274.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">de cobre</text>
+<text x="857.0" y="294.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">con hormona</text>
+<line x1="772" y1="374" x2="942" y2="374" stroke="#c05621" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="857.0" y="398.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">actúa en:</text>
+<text x="857.0" y="418.0" font-size="12" text-anchor="middle" fill="#c05621" font-weight="700">ambiente</text>
+<text x="857.0" y="435.0" font-size="12" text-anchor="middle" fill="#c05621" font-weight="700">hostil al espermatozoide</text>
+<text x="857.0" y="466.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal">embarazos, uso típico:</text>
+<text x="857.0" y="486.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">menos de 1 %</text>
+<line x1="857.0" y1="206" x2="470" y2="148" stroke="#c05621" stroke-width="2" stroke-dasharray="6 4"/>
+<rect x="982" y="212" width="218" height="286" rx="13" fill="#f2f2f2" stroke="#4a5568" stroke-width="2.5"/>
+<text x="1091.0" y="242.0" font-size="15" text-anchor="middle" fill="#4a5568" font-weight="700">Quirúrgicos</text>
+<text x="1091.0" y="274.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">vasectomía</text>
+<text x="1091.0" y="294.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">ligadura de trompas</text>
+<line x1="1006" y1="374" x2="1176" y2="374" stroke="#4a5568" stroke-width="1.4" stroke-dasharray="5 4"/>
+<text x="1091.0" y="398.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">actúa en:</text>
+<text x="1091.0" y="418.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="700">cortan</text>
+<text x="1091.0" y="435.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="700">la vía de los gametos</text>
+<text x="1091.0" y="466.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal">embarazos, uso típico:</text>
+<text x="1091.0" y="486.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">menos de 1 %</text>
+<line x1="1091.0" y1="206" x2="470" y2="148" stroke="#4a5568" stroke-width="2" stroke-dasharray="6 4"/>
+<rect x="46" y="528" width="1108" height="62" rx="12" fill="#fde2e2" stroke="#c53030" stroke-width="2"/>
+<text x="600.0" y="554.0" font-size="15" text-anchor="middle" fill="#c53030" font-weight="700">Solo el condón protege además de las infecciones de transmisión sexual.</text>
+<text x="600.0" y="576.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">Combinar un método eficaz contra el embarazo con el condón es lo que se llama doble protección.</text>
+<rect x="46" y="608" width="1108" height="56" rx="12" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<text x="600.0" y="632.0" font-size="13" text-anchor="middle" fill="#14532d" font-weight="700">Los métodos más eficaces en uso típico son los que dependen menos de la conducta diaria:</text>
+<text x="600.0" y="652.0" font-size="12.5" text-anchor="middle" fill="#4a5568" font-weight="normal">una vez instalados funcionan solos, mientras que la píldora y el condón exigen hacer algo bien cada vez.</text>
+</svg>

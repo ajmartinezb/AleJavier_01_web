@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 880" width="1200" height="880" role="img" aria-label="Gráfico de un ciclo de 28 días con las hormonas de la hipófisis y del ovario, las estructuras del ciclo ovárico, el grosor del endometrio y la temperatura basal" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Gráfico de un ciclo de 28 días con las hormonas de la hipófisis y del ovario, las estructuras del ciclo ovárico, el grosor del endometrio y la temperatura basal</title>
+<rect width="1200" height="880" fill="#ffffff"/>
+<defs><marker id="flg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="flv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f855a"/></marker><marker id="flr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c53030"/></marker></defs>
+<text x="600.0" y="34.0" font-size="21" text-anchor="middle" fill="#1a202c" font-weight="700">El ciclo ovárico y el ciclo uterino en un ciclo de 28 días</text>
+<line x1="627" y1="66" x2="627" y2="800" stroke="#c05621" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="627.4" y="60.0" font-size="13.5" text-anchor="middle" fill="#c05621" font-weight="700">OVULACIÓN (día 14)</text>
+<rect x="166" y="84" width="958" height="128" rx="10" fill="#ffffff" stroke="#cbd5e0" stroke-width="1.6"/><text x="152" y="148.0" font-size="13" text-anchor="end" fill="#2b6cb0" font-weight="700">Hipófisis</text>
+<polyline points="170,156 205,160 240,164 276,168 311,171 346,173 381,176 416,178 451,181 487,184 522,186 557,177 592,168 627,159 663,169 698,179 733,189 768,189 803,189 839,189 874,189 909,189 944,189 979,189 1014,189 1050,180 1085,171 1120,162 " fill="none" stroke="#2b6cb0" stroke-width="3"/>
+<text x="247.4" y="140.0" font-size="13" text-anchor="middle" fill="#2b6cb0" font-weight="700">FSH</text>
+<polyline points="170,188 205,188 240,188 276,188 311,188 346,188 381,188 416,188 451,188 487,188 522,188 557,188 592,158 627,102 663,162 698,188 733,188 768,188 803,188 839,188 874,188 909,188 944,188 979,188 1014,188 1050,188 1085,188 1120,188" fill="none" stroke="#6b46c1" stroke-width="3"/>
+<text x="747.0" y="106.0" font-size="13" text-anchor="start" fill="#6b46c1" font-weight="700">pico de LH</text>
+<rect x="166" y="232" width="958" height="128" rx="10" fill="#ffffff" stroke="#cbd5e0" stroke-width="1.6"/><text x="152" y="296.0" font-size="13" text-anchor="end" fill="#2f855a" font-weight="700">Ovario</text>
+<polyline points="170,338 205,338 240,338 276,338 311,338 346,338 381,332 416,320 451,309 487,297 522,286 557,274 592,274 627,286 663,297 698,309 733,320 768,314 803,308 839,302 874,296 909,302 944,308 979,314 1014,320 1050,326 1085,332 1120,338" fill="none" stroke="#2f855a" stroke-width="3"/>
+<text x="458.5" y="258.0" font-size="13" text-anchor="middle" fill="#2f855a" font-weight="700">estrógenos</text>
+<polyline points="170,342 205,342 240,342 276,342 311,342 346,342 381,342 416,342 451,342 487,342 522,342 557,342 592,342 627,342 663,332 698,321 733,309 768,297 803,285 839,274 874,262 909,274 944,285 979,297 1014,309 1050,321 1085,332 1120,342" fill="none" stroke="#c05621" stroke-width="3"/>
+<text x="873.7" y="246.0" font-size="13" text-anchor="middle" fill="#c05621" font-weight="700">progesterona</text>
+<rect x="166" y="380" width="958" height="112" rx="10" fill="#ffffff" stroke="#cbd5e0" stroke-width="1.6"/><text x="152" y="436.0" font-size="13" text-anchor="end" fill="#2f855a" font-weight="700">Ciclo ovárico</text>
+<circle cx="205" cy="440.0" r="12" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<circle cx="209" cy="440.0" r="5" fill="#68d391"/>
+<circle cx="346" cy="440.0" r="19" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<circle cx="352" cy="440.0" r="7" fill="#68d391"/>
+<circle cx="487" cy="440.0" r="26" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<circle cx="495" cy="440.0" r="10" fill="#68d391"/>
+<circle cx="592" cy="440.0" r="33" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<circle cx="603" cy="440.0" r="13" fill="#68d391"/>
+<circle cx="663" cy="440.0" r="16" fill="#ffffff" stroke="#c05621" stroke-width="2.5" stroke-dasharray="5 4"/>
+<circle cx="689" cy="424.0" r="7" fill="#68d391" stroke="#2f855a" stroke-width="1.6"/>
+<circle cx="768" cy="440.0" r="22" fill="#fff0b3" stroke="#d69e2e" stroke-width="2"/>
+<circle cx="909" cy="440.0" r="17" fill="#fff0b3" stroke="#d69e2e" stroke-width="2"/>
+<circle cx="1050" cy="440.0" r="12" fill="#fff0b3" stroke="#d69e2e" stroke-width="2"/>
+<text x="345.9" y="400.0" font-size="12.5" text-anchor="middle" fill="#2f855a" font-weight="700">fase folicular</text>
+<text x="908.9" y="400.0" font-size="12.5" text-anchor="middle" fill="#d69e2e" font-weight="700">fase lútea (cuerpo lúteo)</text>
+<text x="908.9" y="486.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">dura siempre ≈14 días</text>
+<text x="345.9" y="486.0" font-size="11.5" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">duración variable</text>
+<rect x="166" y="512" width="958" height="116" rx="10" fill="#ffffff" stroke="#cbd5e0" stroke-width="1.6"/><text x="152" y="570.0" font-size="13" text-anchor="end" fill="#c53030" font-weight="700">Ciclo uterino</text>
+<polygon points="170,620 170,586 205,592 240,598 276,604 311,610 346,604 381,599 416,593 451,588 487,582 522,576 557,571 592,565 627,560 663,558 698,557 733,555 768,554 803,552 839,550 874,549 909,547 944,546 979,544 1014,542 1050,541 1085,562 1120,584 1120,620" fill="#fde2e2" stroke="#c53030" stroke-width="2.5"/>
+<text x="240.4" y="532.0" font-size="12" text-anchor="middle" fill="#c53030" font-weight="700">menstruación</text>
+<text x="486.7" y="532.0" font-size="12" text-anchor="middle" fill="#c53030" font-weight="700">fase proliferativa</text>
+<text x="873.7" y="532.0" font-size="12" text-anchor="middle" fill="#c53030" font-weight="700">fase secretora</text>
+<rect x="166" y="648" width="958" height="118" rx="10" fill="#ffffff" stroke="#cbd5e0" stroke-width="1.6"/><text x="152" y="707.0" font-size="13" text-anchor="end" fill="#c05621" font-weight="700">Temperatura basal</text>
+<polyline points="170,720 205,724 240,724 276,720 311,728 346,722 381,726 416,728 451,726 487,728 522,724 557,722 592,726 627,722 663,684 698,692 733,684 768,690 803,692 839,690 874,686 909,688 944,690 979,686 1014,690 1050,692 1085,690 1120,684" fill="none" stroke="#c05621" stroke-width="3"/>
+<line x1="170" y1="724" x2="1120" y2="724" stroke="#cbd5e0" stroke-width="1.4" stroke-dasharray="5 5"/>
+<text x="345.9" y="702.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">temperatura baja</text>
+<text x="873.7" y="664.0" font-size="12" text-anchor="middle" fill="#c05621" font-weight="700">sube 0,3 a 0,5 °C tras ovular</text>
+<text x="873.7" y="682.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">y se mantiene alta</text>
+<line x1="170" y1="784" x2="170" y2="792" stroke="#4a5568" stroke-width="2"/>
+<text x="170.0" y="810.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">día 1</text>
+<line x1="311" y1="784" x2="311" y2="792" stroke="#4a5568" stroke-width="2"/>
+<text x="310.7" y="810.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">día 5</text>
+<line x1="487" y1="784" x2="487" y2="792" stroke="#4a5568" stroke-width="2"/>
+<text x="486.7" y="810.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">día 10</text>
+<line x1="627" y1="784" x2="627" y2="792" stroke="#4a5568" stroke-width="2"/>
+<text x="627.4" y="810.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">día 14</text>
+<line x1="839" y1="784" x2="839" y2="792" stroke="#4a5568" stroke-width="2"/>
+<text x="838.5" y="810.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">día 20</text>
+<line x1="979" y1="784" x2="979" y2="792" stroke="#4a5568" stroke-width="2"/>
+<text x="979.3" y="810.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">día 24</text>
+<line x1="1120" y1="784" x2="1120" y2="792" stroke="#4a5568" stroke-width="2"/>
+<text x="1120.0" y="810.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">día 28</text>
+<line x1="170" y1="784" x2="1120" y2="784" stroke="#4a5568" stroke-width="2" marker-end="url(#flg)"/>
+<rect x="170" y="828" width="950" height="40" rx="10" fill="#c6f6d5" stroke="#2f855a" stroke-width="2"/>
+<text x="645.0" y="853.0" font-size="13.5" text-anchor="middle" fill="#14532d" font-weight="700">Folicular ↔ proliferativa · Lútea ↔ secretora · La fase lútea dura 14 días; la variable es la folicular.</text>
+</svg>

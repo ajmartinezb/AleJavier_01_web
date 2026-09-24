@@ -46,11 +46,11 @@ Otros documentos oficiales en `biologia/demre/`, para calibrar las preguntas:
 | 2.1.3 | Arco reflejo simple | **11** | Completo |
 | 2.1.4 | Efectos del café, el alcohol y las drogas de abuso | **11** | Completo |
 | 2.1.5 | Cuidados del sistema nervioso: sueño y prevención de traumatismos | **11** | Completo |
-| 2.2 | Gametos (ovocitos y espermatozoides) y su función en la fecundación | 5 | Pendiente |
-| 2.3 | Ciclo ovárico y ciclo uterino y sus fases | 5 | Pendiente |
-| 2.4 | Métodos de control de la natalidad: naturales (Billings, calendario, temperatura basal), artificiales reversibles (hormonales y de barrera) y parcialmente reversibles (quirúrgicos) | 5 | Pendiente |
-| 2.5 | Infecciones de transmisión sexual (VIH, herpes, gonorrea, clamidia): agente patógeno, transmisión, síntomas y prevención | 5 (apoyo en 8) | Pendiente |
-| 2.6 | Sexualidad humana y reproducción: sistemas reproductores; aspectos sociales, afectivos y psicológicos | 5 | Pendiente |
+| 2.2 | Gametos (ovocitos y espermatozoides) y su función en la fecundación | 5 | Completo |
+| 2.3 | Ciclo ovárico y ciclo uterino y sus fases | 5 | Completo |
+| 2.4 | Métodos de control de la natalidad: naturales (Billings, calendario, temperatura basal), artificiales reversibles (hormonales y de barrera) y parcialmente reversibles (quirúrgicos) | 5 | Completo |
+| 2.5 | Infecciones de transmisión sexual (VIH, herpes, gonorrea, clamidia): agente patógeno, transmisión, síntomas y prevención | 5 (apoyo en 8) | Completo |
+| 2.6 | Sexualidad humana y reproducción: sistemas reproductores; aspectos sociales, afectivos y psicológicos | 5 | Completo |
 
 ### Área 3. Herencia y evolución
 

@@ -2,26 +2,8 @@
 
 **Área temática:** Procesos y funciones biológicas
 
-::: nota
-**Capítulo en construcción.** Estructura planificada (se completa sección por sección según `biologia/pauta.md`):
+En la prueba oficial PAES de Invierno 2027 hubo al menos diez preguntas que salieron de este capítulo: quimiotaxis de los espermatozoides, enzimas del acrosoma, implantación del blastocisto, días de la fase folicular, vasectomía, diseño de un ensayo de un anticonceptivo masculino, un test para detectar el virus del herpes y un gráfico de incidencia de clamidia, gonorrea y VIH. Es, junto con el método científico, uno de los capítulos más rentables del libro.
 
-1. Conceptos clave
-2. Introducción
-3. Hormonas: características y funciones
-4. Clasificación de las hormonas
-5. Regulación de la función endocrina
-6. Comunicación celular
-7. Acción hormonal
-8. Organización del sistema endocrino
-9. Eje hipotálamo – hipófisis
-10. Reproducción y sexualidad
-11. Sistema reproductor humano
-12. Sistema reproductor masculino
-13. Sistema reproductor femenino
-14. Ciclo sexual femenino
-15. Temperatura corporal basal durante el ciclo menstrual
-16. Fecundación
-17. Características sexuales primarias y secundarias
-18. Métodos anticonceptivos y planificación familiar
-19. Infecciones de transmisión sexual (its)
-:::
+Aquí vas a aprender cómo funciona el **sistema endocrino** y por qué la retroalimentación negativa explica casi todo lo que sigue; cuáles son las estructuras de los **sistemas reproductores** y qué hace cada una; en qué se parecen y en qué se diferencian los **gametos**; cómo se acoplan el **ciclo ovárico** y el **ciclo uterino**, con sus hormonas, sus fases y sus señales corporales; qué ocurre paso a paso en la **fecundación**; qué son los **caracteres sexuales** y qué dimensiones tiene la **sexualidad humana**; cómo se clasifican y qué eficacia tienen los **métodos de control de la natalidad**; y cuáles son el agente, la transmisión, los síntomas y la prevención de las principales **infecciones de transmisión sexual**.
+
+Este capítulo cubre los conocimientos **2.2 a 2.6** del temario DEMRE 2027.
