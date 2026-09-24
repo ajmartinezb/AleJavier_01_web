@@ -1,0 +1,8 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Asignatura</title><link rel="stylesheet" href="assets/style.css"><script src="assets/data.js"></script><script>requireLogin()</script></head><body>
+<header class="top"><span class="logo">PAES Estudio</span><a class="back" href="inicio.html">← Asignaturas</a></header>
+<main class="wrap" id="m"></main>
+<script>const id=new URLSearchParams(location.search).get("id");const a=ASIGNATURAS.find(x=>x.id===id);const m=document.getElementById("m");
+if(!a){m.innerHTML="<p>Asignatura no encontrada.</p>"}else{document.title=a.nombre;
+m.innerHTML=`<h1>${a.ico} ${a.nombre}</h1><p>${a.desc}</p><h2>Capítulos</h2>`+(a.capitulos.length?`<ol class="caps">${a.capitulos.map(c=>`<li><span class="t">${c}</span><span class="tag soon">En desarrollo</span></li>`).join("")}</ol>`:"<p>Los capítulos de esta asignatura se integrarán aquí.</p>")}</script>
+</body></html>

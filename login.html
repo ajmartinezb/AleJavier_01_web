@@ -1,0 +1,10 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Iniciar sesión</title><link rel="stylesheet" href="assets/style.css"></head><body>
+<header class="top"><a class="logo" href="index.html">PAES Estudio</a></header>
+<form class="login card" id="f"><h2>Iniciar sesión</h2>
+<label for="u">Usuario</label><input id="u" required autocomplete="username">
+<label for="p">Contraseña</label><input id="p" type="password" required autocomplete="current-password">
+<br><br><button class="btn" style="width:100%">Entrar</button>
+<p style="color:var(--muted);font-size:.85rem">(Autenticación provisoria: se desarrollará más adelante.)</p></form>
+<script>document.getElementById("f").onsubmit=e=>{e.preventDefault();try{sessionStorage.setItem("usuario",document.getElementById("u").value)}catch(_){}location.href="inicio.html"}</script>
+</body></html>
