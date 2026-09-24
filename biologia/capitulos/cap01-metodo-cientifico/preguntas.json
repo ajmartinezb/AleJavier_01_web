@@ -7,7 +7,7 @@
    "habilidad": "Procesar y analizar la evidencia",
    "enunciado": "Una bióloga sospecha que la luz roja estimula más la fotosíntesis de la elodea que la luz verde. Coloca ramitas iguales de elodea en tubos con la misma agua y a la misma temperatura; ilumina unos con luz roja y otros con luz verde de igual intensidad, y cuenta las burbujas de oxígeno liberadas por minuto. ¿Cuál de las siguientes opciones corresponde a una predicción coherente con su hipótesis?",
    "alternativas": [
-    "Si la luz roja estimula más la fotosíntesis, entonces los tubos con luz roja liberarán más burbujas por minuto.",
+    "Si la luz roja estimula más la fotosíntesis, los tubos con luz roja liberarán más burbujas por minuto.",
     "La luz roja es absorbida por la clorofila de la elodea con mayor eficiencia que la luz verde en cualquier planta.",
     "¿Influye el color de la luz en la cantidad de burbujas de oxígeno que libera la elodea durante la fotosíntesis?",
     "Los tubos con luz verde liberarán más burbujas, porque la luz verde se refleja en las hojas de la elodea."
@@ -109,7 +109,7 @@
     "Darwin no fue el único que propuso la selección natural, porque Wallace llegó a ideas similares.",
     "La teoría de la evolución es muy antigua y, por eso, ya no se considera válida en biología moderna.",
     "Una teoría científica se acepta porque es lógica, aunque no se haya contrastado con evidencia.",
-    "Una idea científica se acepta por la evidencia que la respalda, no por el prestigio de su autor."
+    "Una idea científica se acepta por la evidencia que la respalda, no por el prestigio del autor."
    ],
    "correcta": "D",
    "comentario": {
@@ -207,7 +207,7 @@
    "alternativas": [
     "Que el conocimiento científico es débil, porque sus modelos terminan siempre siendo falsos.",
     "Que los modelos científicos se aceptan por la opinión mayoritaria de los investigadores.",
-    "Que el conocimiento científico es provisional y se corrige cuando surge nueva evidencia.",
+    "Que el conocimiento científico es provisional y se corrige si surge nueva evidencia.",
     "Que las técnicas de microscopía no permiten obtener evidencia fiable sobre las células."
    ],
    "correcta": "C",
@@ -241,7 +241,7 @@
     "Probar el extracto en pacientes con problemas digestivos para ver si mejoran.",
     "Usar un extracto de otra planta para ver si también reduce la actividad enzimática.",
     "Leer el artículo y aceptar el resultado si la revista en que salió es prestigiosa.",
-    "Repetir el procedimiento publicado, en iguales condiciones, y comparar resultados."
+    "Repetir el procedimiento publicado, en iguales condiciones, y comparar los datos."
    ],
    "correcta": "D",
    "comentario": {
@@ -403,7 +403,7 @@
    "habilidad": "Observar y plantear preguntas",
    "enunciado": "En un informe sobre el efecto del ejercicio en la respiración, un estudiante escribió cuatro frases. ¿Cuál de ellas corresponde a una observación y no a una inferencia ni a una opinión?",
    "alternativas": [
-    "Tras dos minutos de trote, su frecuencia respiratoria subió de 16 a 28 veces por minuto.",
+    "Tras 2 minutos de trote, su frecuencia respiratoria subió de 16 a 28 veces por minuto.",
     "El aumento de la respiración se debe a que los músculos necesitan más oxígeno al trotar.",
     "Trotar es la mejor actividad física que se puede hacer para mantener sana la función pulmonar.",
     "Si hubiera trotado más tiempo, su respiración habría seguido subiendo sin detenerse."
@@ -536,7 +536,7 @@
    "enunciado": "Un estudio publicado mostró que, tras una sequía, sobrevivieron en mayor proporción los pinzones de pico grueso, capaces de romper semillas duras. Años después, otro equipo leyó ese trabajo y decidió investigar si el mismo patrón se presenta en años de lluvias abundantes. ¿Qué característica del trabajo científico ilustra mejor esta situación?",
    "alternativas": [
     "Las etapas de una investigación se siguen siempre en un orden fijo.",
-    "La conclusión de un estudio puede dar origen a una nueva investigación.",
+    "La conclusión de un estudio puede originar una nueva investigación.",
     "Una hipótesis apoyada por los datos queda demostrada en forma definitiva.",
     "La comunicación de los resultados es la última etapa de todo estudio."
    ],
@@ -570,7 +570,7 @@
    "alternativas": [
     "II es una predicción y IV es la pregunta de investigación.",
     "II es una hipótesis y IV es una observación del fenómeno.",
-    "II es una hipótesis y IV es la pregunta de investigación.",
+    "II es una hipótesis y IV, la pregunta de investigación.",
     "II es un resultado y IV es el problema que se investiga."
    ],
    "correcta": "C",
@@ -766,7 +766,7 @@
    "habilidad": "Planificar y conducir una investigación",
    "enunciado": "Una agrónoma quiere responder la pregunta: «¿Cómo afecta la concentración de sal del agua de riego al porcentaje de germinación de semillas de quínoa?». ¿Cuál de los siguientes procedimientos permite responderla?",
    "alternativas": [
-    "Regar semillas de quínoa con agua con 0, 5, 10 y 15 g/L de sal y contar las germinadas.",
+    "Regar semillas de quínoa con agua con 0, 5, 10 y 15 g/L de sal y contar germinadas.",
     "Regar semillas de quínoa con agua sin sal a 10, 15, 20 y 25 °C y contar las semillas germinadas.",
     "Regar semillas de quínoa, trigo y maíz con agua con sal y contar las germinadas.",
     "Regar semillas de quínoa con agua con 10 g/L de sal y medir la altura de las plántulas."
@@ -965,7 +965,7 @@
    "enunciado": "Una estudiante investiga el color de las semillas de arveja y escribe dos enunciados:\nI. El color amarillo de la semilla está determinado por un alelo dominante sobre el alelo del color verde.\nII. Si se cruzan dos plantas heterocigotas, cerca de tres cuartos de las semillas obtenidas serán amarillas.\n¿Cuál opción clasifica correctamente estos enunciados?",
    "alternativas": [
     "I es una predicción y II es la hipótesis que la explica.",
-    "I es una hipótesis y II, una predicción derivada de ella.",
+    "I es una hipótesis y II, una predicción basada en ella.",
     "I y II son hipótesis, porque las dos tratan sobre el color.",
     "I es una observación y II es la conclusión del estudio."
    ],
@@ -1031,7 +1031,7 @@
    "enunciado": "Un grupo quiere poner a prueba si la salinidad del suelo reduce la germinación de semillas de rabanito. Riegan cuatro bandejas con soluciones de 0, 50, 100 y 150 mM de cloruro de sodio y cuentan las semillas germinadas al séptimo día. Un compañero advierte que las bandejas con más sal quedaron junto a una ventana y las otras en un rincón sombrío. ¿Qué cambio mejora el procedimiento experimental?",
    "alternativas": [
     "Aumentar la concentración de sal en todas las bandejas por igual.",
-    "Poner todas las bandejas en un mismo lugar con igual luz y calor.",
+    "Poner las bandejas en un mismo lugar con igual luz y calor.",
     "Contar las semillas germinadas al tercer día en lugar del séptimo.",
     "Usar semillas de distintas especies en cada una de las bandejas."
    ],
@@ -1129,7 +1129,7 @@
    "habilidad": "Procesar y analizar la evidencia",
    "enunciado": "En un cruce de plantas de arveja se esperaba, según la hipótesis del equipo, obtener semillas amarillas y verdes en proporción 3:1. Se contaron 400 semillas: 302 amarillas y 98 verdes. ¿Qué afirmación describe correctamente estos resultados?",
    "alternativas": [
-    "Se acercan a la proporción esperada de 3 amarillas por 1 verde.",
+    "Se acercan a la proporción esperada: 3 amarillas por 1 verde.",
     "Muestran igual número de semillas amarillas y de semillas verdes.",
     "Indican que hubo más semillas verdes que amarillas en el cruce.",
     "Se alejan mucho de lo esperado, pues predomina el color verde."
@@ -1228,7 +1228,7 @@
    "habilidad": "Procesar y analizar la evidencia",
    "enunciado": "Un equipo propuso que la enzima catalasa de la papa pierde actividad al calentarse y predijo que los trozos hervidos liberarían menos burbujas al contacto con agua oxigenada. Resultados (altura de espuma, en mm): papa cruda 42; papa hervida 3. ¿Qué conclusión corresponde?",
    "alternativas": [
-    "La hipótesis se apoya, porque la papa hervida produjo mucha menos espuma.",
+    "La hipótesis se apoya, pues la papa hervida produjo mucha menos espuma.",
     "La hipótesis se rechaza, porque la papa hervida produjo algo de espuma.",
     "La hipótesis queda demostrada para todas las enzimas de los seres vivos.",
     "La hipótesis no puede evaluarse, porque se usó un solo tipo de tejido vegetal."
@@ -1263,7 +1263,7 @@
    "alternativas": [
     "Las lechugas no se regaron durante el invierno en el invernadero.",
     "El agua de lluvia y el agua de pozo tienen la misma composición.",
-    "Generaliza a otras hortalizas y estaciones que no se estudiaron.",
+    "Generaliza a hortalizas y estaciones que no se estudiaron.",
     "El crecimiento de una lechuga no puede medirse de forma precisa."
    ],
    "correcta": "C",
@@ -1295,7 +1295,7 @@
    "enunciado": "Un grupo registró el número de células en división observadas en raíces de ajo tratadas durante 24 horas con cuatro concentraciones de un extracto vegetal (0, 1, 2 y 4 %). Quiere presentar en la feria científica cómo cambia el número de células en división a medida que aumenta la concentración. ¿Qué recurso es el más adecuado para ese objetivo?",
    "alternativas": [
     "Un gráfico de torta con el porcentaje de cada una de las concentraciones.",
-    "Un gráfico de líneas con la concentración en el eje X y las células en Y.",
+    "Un gráfico de líneas, con la concentración en X y las células en Y.",
     "Un esquema de una célula de la raíz con sus organelos rotulados en detalle.",
     "Una fotografía de la raíz del ajo tomada al comenzar el experimento."
    ],
@@ -1329,7 +1329,7 @@
    "alternativas": [
     "Aumentar la extensión del artículo para que sea aceptado más rápido.",
     "Asegurar que el artículo coincida con la opinión de los revisores.",
-    "Permitir que otros equipos puedan repetir el estudio y verificarlo.",
+    "Permitir que otros equipos repitan el estudio y lo verifiquen.",
     "Evitar que otros investigadores estudien la resistencia en moscas."
    ],
    "correcta": "C",
@@ -1363,7 +1363,7 @@
     "Porque su conclusión resultó más favorable al consumo del jugo analizado.",
     "Porque apareció en redes sociales y así lo pudo conocer más gente.",
     "Porque lo financió una empresa interesada en vender el jugo analizado.",
-    "Porque tuvo una muestra mayor y otros especialistas revisaron su método."
+    "Porque tuvo una muestra mayor y otros expertos revisaron su método."
    ],
    "correcta": "D",
    "comentario": {
@@ -2021,7 +2021,7 @@
    "enunciado": "En la epidemia de cólera de Londres de 1854, John Snow comparó hogares abastecidos por dos compañías de agua. Según sus registros de las primeras siete semanas, hubo unas 315 muertes por cada 10 000 casas abastecidas por Southwark & Vauxhall, que captaba agua del Támesis aguas abajo de desagües, y unas 37 por cada 10 000 casas abastecidas por Lambeth, que captaba agua aguas arriba. ¿Qué conclusión es coherente con estos datos?",
    "alternativas": [
     "El cólera se transmite por el aire contaminado de los barrios.",
-    "El riesgo de morir se asocia con el origen del agua consumida.",
+    "El riesgo de morir se asocia al origen del agua consumida.",
     "La mortalidad fue la misma en los hogares de ambas compañías.",
     "El agua de Lambeth causó más muertes que la de la otra empresa."
    ],
@@ -2383,7 +2383,7 @@
    "habilidad": "Planificar y conducir una investigación",
    "enunciado": "Según la teoría endosimbiótica, defendida por Lynn Margulis en 1967, mitocondrias y cloroplastos descienden de procariontes de vida libre que una célula ancestral englobó y conservó en su citoplasma. ¿Qué observación entrega evidencia a favor de esta teoría?",
    "alternativas": [
-    "Las mitocondrias tienen ADN circular similar al bacteriano.",
+    "Las mitocondrias tienen ADN circular como el bacteriano.",
     "Las mitocondrias abundan en las células musculares activas.",
     "Los cloroplastos contienen clorofila y captan energía solar.",
     "Las mitocondrias se forman desde la membrana del núcleo."
@@ -2485,7 +2485,7 @@
     "Los cromosomas se tiñen con colorantes básicos en el núcleo.",
     "Las arvejas de Mendel presentan siete caracteres con dos variantes.",
     "Los cromosomas tienen el mismo número en todas las especies.",
-    "Los cromosomas homólogos se separan al formarse los gametos."
+    "Los cromosomas homólogos se separan al formar los gametos."
    ],
    "correcta": "D",
    "comentario": {
@@ -2847,7 +2847,7 @@
    "alternativas": [
     "La ampicilina elimina a toda bacteria si supera los 8 µg/mL.",
     "Las bacterias sobrevivientes adquirieron resistencia al antibiótico.",
-    "En el rango probado, más ampicilina se asocia a menos sobrevivencia.",
+    "En el rango probado, a más ampicilina hay menos sobrevivencia.",
     "La sobrevivencia disminuye a la mitad cada vez que se duplica la dosis."
    ],
    "correcta": "C",
@@ -3341,7 +3341,7 @@
    "enunciado": "El microscopio electrónico, desarrollado en la década de 1930, alcanza aumentos mucho mayores que el óptico. ¿Cuál de los siguientes avances científicos dependió más directamente de esta tecnología?",
    "alternativas": [
     "La formulación de las leyes de la herencia a partir de arvejas.",
-    "La descripción de la estructura interna de las mitocondrias.",
+    "La descripción de la estructura interna de mitocondrias.",
     "La observación de las primeras células en láminas de corcho.",
     "La comprobación de que la sangre circula por todo el cuerpo."
    ],
@@ -3604,7 +3604,7 @@
    "habilidad": "Evaluar",
    "enunciado": "Un estudiante quiere saber si la temperatura afecta el tiempo de germinación de semillas de lenteja. Coloca una sola semilla a 15 °C, otra a 20 °C y otra a 25 °C, y registra los días que tarda cada una en germinar en una tabla con título, con la temperatura (°C) en la primera columna y los días en la segunda. ¿Cuál es la principal limitación de su tabla como evidencia?",
    "alternativas": [
-    "Se usó una semilla por temperatura, sin réplicas.",
+    "Hubo una semilla por temperatura, sin réplicas.",
     "La temperatura se registró en grados Celsius.",
     "Las temperaturas se ordenaron de menor a mayor.",
     "La variable independiente va en la primera columna."

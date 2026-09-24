@@ -1,0 +1,319 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" font-family="system-ui, sans-serif" font-size="14">
+<title>Tipos celulares especializados</title><rect width="1000" height="760" fill="#ffffff"/>
+<rect x="10" y="10" width="480" height="360" rx="12" fill="#fafcfb" stroke="#cbd5e0"/>
+<text x="250" y="40" text-anchor="middle" font-size="18" font-weight="700" fill="#2f855a">Enterocito (intestino delgado)</text>
+<rect x="110" y="90" width="80" height="230" fill="#fffaf0" stroke="#c0564b" stroke-width="2.5"/>
+<rect x="113" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="123" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="133" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="143" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="153" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="163" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="173" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="183" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<ellipse cx="150" cy="265" rx="20" ry="30" fill="#dbe7f5" stroke="#2b6cb0" stroke-width="3" stroke-dasharray="10 3"/><circle cx="153" cy="263" r="7" fill="#2c5282"/>
+<g transform="translate(135 150) rotate(70) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<g transform="translate(168 190) rotate(100) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<g transform="translate(140 215) rotate(80) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<rect x="190" y="90" width="80" height="230" fill="#fffaf0" stroke="#c0564b" stroke-width="2.5"/>
+<rect x="193" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="203" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="213" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="223" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="233" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="243" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="253" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="263" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<ellipse cx="230" cy="265" rx="20" ry="30" fill="#dbe7f5" stroke="#2b6cb0" stroke-width="3" stroke-dasharray="10 3"/><circle cx="233" cy="263" r="7" fill="#2c5282"/>
+<g transform="translate(215 150) rotate(70) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<g transform="translate(248 190) rotate(100) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<g transform="translate(220 215) rotate(80) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<rect x="270" y="90" width="80" height="230" fill="#fffaf0" stroke="#c0564b" stroke-width="2.5"/>
+<rect x="273" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="283" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="293" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="303" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="313" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="323" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="333" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<rect x="343" y="68" width="6" height="24" rx="3" fill="#fbd38d" stroke="#c0564b" stroke-width="1.2"/>
+<ellipse cx="310" cy="265" rx="20" ry="30" fill="#dbe7f5" stroke="#2b6cb0" stroke-width="3" stroke-dasharray="10 3"/><circle cx="313" cy="263" r="7" fill="#2c5282"/>
+<g transform="translate(295 150) rotate(70) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<g transform="translate(328 190) rotate(100) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<g transform="translate(300 215) rotate(80) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<rect x="186" y="94" width="8" height="18" fill="#2f855a"/>
+<rect x="266" y="94" width="8" height="18" fill="#2f855a"/>
+<line x1="342" y1="80" x2="362" y2="73" stroke="#555" stroke-width="1.1"/><circle cx="342" cy="80" r="2.2" fill="#555"/>
+<text x="367" y="78" text-anchor="start">Microvellosidades</text>
+<line x1="274" y1="104" x2="362" y2="115" stroke="#555" stroke-width="1.1"/><circle cx="274" cy="104" r="2.2" fill="#555"/>
+<text x="367" y="120" text-anchor="start">Uniones estrechas</text>
+<line x1="248" y1="190" x2="362" y2="170" stroke="#555" stroke-width="1.1"/><circle cx="248" cy="190" r="2.2" fill="#555"/>
+<text x="367" y="175" text-anchor="start">Mitocondria</text>
+<line x1="330" y1="265" x2="362" y2="260" stroke="#555" stroke-width="1.1"/><circle cx="330" cy="265" r="2.2" fill="#555"/>
+<text x="367" y="265" text-anchor="start">Núcleo</text>
+<text x="60" y="80" text-anchor="middle" font-size="13" fill="#555">Lumen</text><text x="60" y="96" text-anchor="middle" font-size="13" fill="#555">(apical)</text>
+<text x="230" y="345" text-anchor="middle" font-size="13" fill="#555">Lado basal</text>
+<rect x="510" y="10" width="480" height="360" rx="12" fill="#fafcfb" stroke="#cbd5e0"/>
+<text x="750" y="40" text-anchor="middle" font-size="18" font-weight="700" fill="#2f855a">Fibra muscular esquelética</text>
+<rect x="540" y="110" width="420" height="140" rx="20" fill="#fff5f5" stroke="#c0564b" stroke-width="2.5"/>
+<rect x="556.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="569.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="583.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="596.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="610.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="623.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="637.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="650.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="664.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="677.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="691.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="704.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="718.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="731.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="745.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="758.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="772.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="785.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="799.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="812.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="826.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="839.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="853.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="866.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="880.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="893.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="907.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="920.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<rect x="934.0" y="126" width="6" height="108" fill="#9b2c2c" opacity="0.55"/>
+<rect x="947.5" y="126" width="5" height="108" fill="#feb2b2" opacity="0.55"/>
+<ellipse cx="600" cy="114" rx="24" ry="7" fill="#dbe7f5" stroke="#2b6cb0" stroke-width="2"/>
+<ellipse cx="720" cy="246" rx="24" ry="7" fill="#dbe7f5" stroke="#2b6cb0" stroke-width="2"/>
+<ellipse cx="820" cy="114" rx="24" ry="7" fill="#dbe7f5" stroke="#2b6cb0" stroke-width="2"/>
+<ellipse cx="900" cy="246" rx="24" ry="7" fill="#dbe7f5" stroke="#2b6cb0" stroke-width="2"/>
+<ellipse cx="660" cy="246" rx="24" ry="7" fill="#dbe7f5" stroke="#2b6cb0" stroke-width="2"/>
+<g transform="translate(700 180) rotate(0) scale(0.9)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<g transform="translate(860 160) rotate(0) scale(0.9)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<g transform="translate(620 200) rotate(0) scale(0.9)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<line x1="600" y1="110" x2="600" y2="90" stroke="#555" stroke-width="1.1"/><circle cx="600" cy="110" r="2.2" fill="#555"/>
+<text x="565" y="85" text-anchor="start">Núcleos periféricos (varios)</text>
+<line x1="880" y1="113" x2="880" y2="90" stroke="#555" stroke-width="1.1"/><circle cx="880" cy="113" r="2.2" fill="#555"/>
+<text x="795" y="85" text-anchor="start">Membrana (sarcolema)</text>
+<line x1="650" y1="232" x2="650" y2="321" stroke="#555" stroke-width="1.1"/><circle cx="650" cy="232" r="2.2" fill="#555"/>
+<text x="565" y="340" text-anchor="start">Estriaciones (sarcómeros)</text>
+<line x1="860" y1="166" x2="870" y2="321" stroke="#555" stroke-width="1.1"/><circle cx="860" cy="166" r="2.2" fill="#555"/>
+<text x="835" y="340" text-anchor="start">Mitocondria</text>
+<line x1="535" y1="300" x2="562" y2="300" stroke="#2f855a" stroke-width="2"/><text x="568" y="305" font-size="13" fill="#2f855a">≈ 1 sarcómero</text>
+<rect x="10" y="390" width="480" height="360" rx="12" fill="#fafcfb" stroke="#cbd5e0"/>
+<text x="250" y="420" text-anchor="middle" font-size="18" font-weight="700" fill="#2f855a">Neurona</text>
+<path d="M120 560 L60 500 L40 470 M60 500 L45 520" fill="none" stroke="#805ad5" stroke-width="5" stroke-linecap="round"/>
+<path d="M120 560 L100 480 L85 450 M100 480 L118 455" fill="none" stroke="#805ad5" stroke-width="5" stroke-linecap="round"/>
+<path d="M120 560 L60 620 L35 640 M60 620 L55 650" fill="none" stroke="#805ad5" stroke-width="5" stroke-linecap="round"/>
+<path d="M120 560 L130 640 L115 670" fill="none" stroke="#805ad5" stroke-width="5" stroke-linecap="round"/>
+<circle cx="120" cy="560" r="38" fill="#e9d8fd" stroke="#805ad5" stroke-width="2.5"/>
+<ellipse cx="120" cy="560" rx="15" ry="15" fill="#dbe7f5" stroke="#2b6cb0" stroke-width="3" stroke-dasharray="10 3"/><circle cx="123" cy="558" r="5" fill="#2c5282"/>
+<line x1="158" y1="560" x2="410" y2="560" stroke="#805ad5" stroke-width="5"/>
+<rect x="185" y="549" width="45" height="22" rx="10" fill="#fefcbf" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="240" y="549" width="45" height="22" rx="10" fill="#fefcbf" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="295" y="549" width="45" height="22" rx="10" fill="#fefcbf" stroke="#b7791f" stroke-width="1.5"/>
+<rect x="350" y="549" width="45" height="22" rx="10" fill="#fefcbf" stroke="#b7791f" stroke-width="1.5"/>
+<path d="M410 560 L445 530" stroke="#805ad5" stroke-width="4" fill="none"/>
+<path d="M410 560 L450 560" stroke="#805ad5" stroke-width="4" fill="none"/>
+<path d="M410 560 L445 592" stroke="#805ad5" stroke-width="4" fill="none"/>
+<circle cx="447" cy="528" r="7" fill="#805ad5"/>
+<circle cx="453" cy="560" r="7" fill="#805ad5"/>
+<circle cx="447" cy="594" r="7" fill="#805ad5"/>
+<line x1="100" y1="482" x2="170" y2="435" stroke="#555" stroke-width="1.1"/><circle cx="100" cy="482" r="2.2" fill="#555"/>
+<text x="175" y="440" text-anchor="start">Dendritas</text>
+<line x1="145" y1="535" x2="170" y2="470" stroke="#555" stroke-width="1.1"/><circle cx="145" cy="535" r="2.2" fill="#555"/>
+<text x="175" y="475" text-anchor="start">Soma (cuerpo celular)</text>
+<line x1="125" y1="568" x2="170" y2="645" stroke="#555" stroke-width="1.1"/><circle cx="125" cy="568" r="2.2" fill="#555"/>
+<text x="175" y="650" text-anchor="start">Núcleo</text>
+<line x1="232" y1="563" x2="320" y2="635" stroke="#555" stroke-width="1.1"/><circle cx="232" cy="563" r="2.2" fill="#555"/>
+<text x="325" y="640" text-anchor="start">Axón</text>
+<line x1="290" y1="550" x2="300" y2="525" stroke="#555" stroke-width="1.1"/><circle cx="290" cy="550" r="2.2" fill="#555"/>
+<text x="255" y="520" text-anchor="start">Vaina de mielina</text>
+<line x1="447" y1="528" x2="430" y2="460" stroke="#555" stroke-width="1.1"/><circle cx="447" cy="528" r="2.2" fill="#555"/>
+<text x="395" y="455" text-anchor="start">Terminales</text>
+<text x="395" y="471">axónicos</text>
+<line x1="235" y1="570" x2="330" y2="685" stroke="#555" stroke-width="1.1"/><circle cx="235" cy="570" r="2.2" fill="#555"/>
+<text x="335" y="690" text-anchor="start">Nodo de Ranvier</text>
+<rect x="510" y="390" width="480" height="360" rx="12" fill="#fafcfb" stroke="#cbd5e0"/>
+<text x="750" y="420" text-anchor="middle" font-size="18" font-weight="700" fill="#2f855a">Célula acinar pancreática</text>
+<path d="M600 700 L660 450 L840 450 L900 700 Z" fill="#fffaf0" stroke="#c0564b" stroke-width="2.5"/>
+<path d="M620 640 H880" stroke="#4299e1" stroke-width="5" stroke-linecap="round"/>
+<circle cx="625" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="634" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="643" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="652" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="661" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="670" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="679" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="688" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="697" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="706" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="715" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="724" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="733" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="742" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="751" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="760" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="769" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="778" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="787" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="796" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="805" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="814" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="823" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="832" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="841" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="850" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="859" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="868" cy="635.5" r="1.6" fill="#553c9a"/>
+<circle cx="877" cy="635.5" r="1.6" fill="#553c9a"/>
+<path d="M623 650 H877" stroke="#4299e1" stroke-width="5" stroke-linecap="round"/>
+<circle cx="625" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="634" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="643" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="652" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="661" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="670" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="679" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="688" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="697" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="706" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="715" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="724" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="733" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="742" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="751" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="760" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="769" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="778" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="787" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="796" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="805" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="814" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="823" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="832" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="841" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="850" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="859" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="868" cy="645.5" r="1.6" fill="#553c9a"/>
+<circle cx="877" cy="645.5" r="1.6" fill="#553c9a"/>
+<path d="M626 660 H874" stroke="#4299e1" stroke-width="5" stroke-linecap="round"/>
+<circle cx="625" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="634" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="643" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="652" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="661" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="670" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="679" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="688" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="697" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="706" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="715" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="724" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="733" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="742" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="751" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="760" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="769" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="778" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="787" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="796" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="805" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="814" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="823" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="832" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="841" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="850" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="859" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="868" cy="655.5" r="1.6" fill="#553c9a"/>
+<circle cx="877" cy="655.5" r="1.6" fill="#553c9a"/>
+<path d="M629 670 H871" stroke="#4299e1" stroke-width="5" stroke-linecap="round"/>
+<circle cx="625" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="634" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="643" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="652" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="661" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="670" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="679" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="688" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="697" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="706" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="715" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="724" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="733" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="742" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="751" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="760" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="769" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="778" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="787" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="796" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="805" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="814" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="823" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="832" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="841" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="850" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="859" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="868" cy="665.5" r="1.6" fill="#553c9a"/>
+<circle cx="877" cy="665.5" r="1.6" fill="#553c9a"/>
+<path d="M632 680 H868" stroke="#4299e1" stroke-width="5" stroke-linecap="round"/>
+<circle cx="625" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="634" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="643" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="652" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="661" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="670" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="679" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="688" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="697" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="706" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="715" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="724" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="733" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="742" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="751" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="760" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="769" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="778" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="787" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="796" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="805" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="814" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="823" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="832" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="841" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="850" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="859" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="868" cy="675.5" r="1.6" fill="#553c9a"/>
+<circle cx="877" cy="675.5" r="1.6" fill="#553c9a"/>
+<ellipse cx="750" cy="590" rx="38" ry="26" fill="#dbe7f5" stroke="#2b6cb0" stroke-width="3" stroke-dasharray="10 3"/><circle cx="753" cy="588" r="9" fill="#2c5282"/>
+<path d="M715 535 Q750 520 785 535" fill="none" stroke="#d69e2e" stroke-width="5" stroke-linecap="round"/>
+<path d="M718 526 Q750 511 782 526" fill="none" stroke="#d69e2e" stroke-width="5" stroke-linecap="round"/>
+<path d="M721 517 Q750 502 779 517" fill="none" stroke="#d69e2e" stroke-width="5" stroke-linecap="round"/>
+<path d="M724 508 Q750 493 776 508" fill="none" stroke="#d69e2e" stroke-width="5" stroke-linecap="round"/>
+<circle cx="700" cy="470" r="9" fill="#f6ad55" stroke="#c05621" stroke-width="1.5"/>
+<circle cx="730" cy="466" r="9" fill="#f6ad55" stroke="#c05621" stroke-width="1.5"/>
+<circle cx="760" cy="468" r="9" fill="#f6ad55" stroke="#c05621" stroke-width="1.5"/>
+<circle cx="790" cy="470" r="9" fill="#f6ad55" stroke="#c05621" stroke-width="1.5"/>
+<circle cx="715" cy="490" r="9" fill="#f6ad55" stroke="#c05621" stroke-width="1.5"/>
+<circle cx="745" cy="492" r="9" fill="#f6ad55" stroke="#c05621" stroke-width="1.5"/>
+<circle cx="775" cy="490" r="9" fill="#f6ad55" stroke="#c05621" stroke-width="1.5"/>
+<circle cx="810" cy="488" r="9" fill="#f6ad55" stroke="#c05621" stroke-width="1.5"/>
+<circle cx="690" cy="500" r="9" fill="#f6ad55" stroke="#c05621" stroke-width="1.5"/>
+<g transform="translate(650 600) rotate(70) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<g transform="translate(855 600) rotate(-70) scale(1)"><ellipse rx="16" ry="7" fill="#fed7c3" stroke="#c05621" stroke-width="1.5"/><path d="M-11 0 l3 -5 l4 10 l4 -10 l4 10 l4 -10 l3 5" fill="none" stroke="#c05621" stroke-width="1.2"/></g>
+<text x="750" y="444" text-anchor="middle" font-size="13" fill="#555">Polo apical (hacia el conducto)</text>
+<line x1="681" y1="500" x2="620" y2="490" stroke="#555" stroke-width="1.1"/><circle cx="681" cy="500" r="2.2" fill="#555"/><text x="615" y="480" text-anchor="end">Gránulos de</text><text x="615" y="496" text-anchor="end">secreción</text>
+<line x1="785" y1="525" x2="900" y2="515" stroke="#555" stroke-width="1.1"/><circle cx="785" cy="525" r="2.2" fill="#555"/>
+<text x="905" y="520" text-anchor="start">Golgi</text>
+<line x1="788" y1="590" x2="900" y2="585" stroke="#555" stroke-width="1.1"/><circle cx="788" cy="590" r="2.2" fill="#555"/>
+<text x="905" y="590" text-anchor="start">Núcleo</text>
+<line x1="875" y1="650" x2="900" y2="655" stroke="#555" stroke-width="1.1"/><circle cx="875" cy="650" r="2.2" fill="#555"/>
+<text x="905" y="660" text-anchor="start">RER basal</text>
+<text x="905" y="676" font-size="13" fill="#555">(abundante)</text>
+<line x1="643" y1="598" x2="610" y2="600" stroke="#555" stroke-width="1.1"/><text x="605" y="604" text-anchor="end">Mitocondria</text>
+</svg>
