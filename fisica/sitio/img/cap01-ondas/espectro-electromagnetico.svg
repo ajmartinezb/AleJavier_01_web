@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 470" width="940" height="470" role="img" aria-label="Espectro electromagnético de radio a rayos gamma con la luz visible ampliada de rojo a violeta" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Espectro electromagnético de radio a rayos gamma con la luz visible ampliada de rojo a violeta</title>
+<rect width="940" height="470" fill="#ffffff"/>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="flr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="fla" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker></defs>
+<text x="470.0" y="30.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">El espectro electromagnético</text>
+<text x="470.0" y="52.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">Todas viajan en el vacío a c ≈ 3 × 10⁸ m/s; solo cambian su frecuencia y su longitud de onda</text>
+<rect x="40.0" y="110" width="122.9" height="60" fill="#a5d8ff"/>
+<rect x="40.0" y="110" width="122.9" height="60" fill="none" stroke="#4a5568" stroke-width="1"/>
+<text x="101.4" y="145.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Radio</text>
+<text x="101.4" y="190.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">&gt; 1 m</text>
+<rect x="162.9" y="110" width="122.9" height="60" fill="#91a7ff"/>
+<rect x="162.9" y="110" width="122.9" height="60" fill="none" stroke="#4a5568" stroke-width="1"/>
+<text x="224.3" y="145.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Microondas</text>
+<text x="224.3" y="190.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">1 mm – 1 m</text>
+<rect x="285.7" y="110" width="122.9" height="60" fill="#ffa8a8"/>
+<rect x="285.7" y="110" width="122.9" height="60" fill="none" stroke="#4a5568" stroke-width="1"/>
+<text x="347.1" y="145.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Infrarrojo</text>
+<text x="347.1" y="190.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">700 nm – 1 mm</text>
+<rect x="408.6" y="110" width="18.1" height="60" fill="#e03131"/>
+<rect x="426.1" y="110" width="18.1" height="60" fill="#f76707"/>
+<rect x="443.7" y="110" width="18.1" height="60" fill="#fcc419"/>
+<rect x="461.2" y="110" width="18.1" height="60" fill="#40c057"/>
+<rect x="478.8" y="110" width="18.1" height="60" fill="#1c7ed6"/>
+<rect x="496.3" y="110" width="18.1" height="60" fill="#4c6ef5"/>
+<rect x="513.9" y="110" width="18.1" height="60" fill="#7048e8"/>
+<rect x="408.6" y="110" width="122.9" height="60" fill="none" stroke="#4a5568" stroke-width="1"/>
+<rect x="440.0" y="130.0" width="60" height="20" rx="4" fill="#ffffff" opacity="0.9"/>
+<text x="470.0" y="145.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Visible</text>
+<text x="470.0" y="190.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">400 – 700 nm</text>
+<rect x="531.4" y="110" width="122.9" height="60" fill="#d0bfff"/>
+<rect x="531.4" y="110" width="122.9" height="60" fill="none" stroke="#4a5568" stroke-width="1"/>
+<text x="592.9" y="145.0" font-size="12.5" text-anchor="middle" fill="#1a202c" font-weight="700">Ultravioleta</text>
+<text x="592.9" y="190.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">10 – 400 nm</text>
+<rect x="654.3" y="110" width="122.9" height="60" fill="#b197fc"/>
+<rect x="654.3" y="110" width="122.9" height="60" fill="none" stroke="#4a5568" stroke-width="1"/>
+<text x="715.7" y="145.0" font-size="12.5" text-anchor="middle" fill="#ffffff" font-weight="700">Rayos X</text>
+<text x="715.7" y="190.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">0,01 – 10 nm</text>
+<rect x="777.1" y="110" width="122.9" height="60" fill="#845ef7"/>
+<rect x="777.1" y="110" width="122.9" height="60" fill="none" stroke="#4a5568" stroke-width="1"/>
+<text x="838.6" y="145.0" font-size="12.5" text-anchor="middle" fill="#ffffff" font-weight="700">Rayos gamma</text>
+<text x="838.6" y="190.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">&lt; 0,01 nm</text>
+<line x1="40.0" y1="225.0" x2="900.0" y2="225.0" stroke="#1c7ed6" stroke-width="2.5" marker-end="url(#fla)"/>
+<text x="470.0" y="248.0" font-size="13" text-anchor="middle" fill="#1c7ed6" font-weight="700">aumentan la frecuencia y la energía de la radiación</text>
+<line x1="900.0" y1="275.0" x2="40.0" y2="275.0" stroke="#2f9e44" stroke-width="2.5" marker-end="url(#fl)"/>
+<text x="470.0" y="298.0" font-size="13" text-anchor="middle" fill="#2f9e44" font-weight="700">aumenta la longitud de onda</text>
+<line x1="408.6" y1="110.0" x2="250.0" y2="360.0" stroke="#adb5bd" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="531.4" y1="110.0" x2="690.0" y2="360.0" stroke="#adb5bd" stroke-width="1" stroke-dasharray="4 3"/>
+<rect x="250.0" y="360" width="63.4" height="36" fill="#e03131"/>
+<text x="281.4" y="414.0" font-size="11.5" text-anchor="middle" fill="#1a202c" font-weight="normal">rojo</text>
+<rect x="312.9" y="360" width="63.4" height="36" fill="#f76707"/>
+<text x="344.3" y="414.0" font-size="11.5" text-anchor="middle" fill="#1a202c" font-weight="normal">naranjo</text>
+<rect x="375.7" y="360" width="63.4" height="36" fill="#fcc419"/>
+<text x="407.1" y="414.0" font-size="11.5" text-anchor="middle" fill="#1a202c" font-weight="normal">amarillo</text>
+<rect x="438.6" y="360" width="63.4" height="36" fill="#40c057"/>
+<text x="470.0" y="414.0" font-size="11.5" text-anchor="middle" fill="#1a202c" font-weight="normal">verde</text>
+<rect x="501.4" y="360" width="63.4" height="36" fill="#1c7ed6"/>
+<text x="532.9" y="414.0" font-size="11.5" text-anchor="middle" fill="#1a202c" font-weight="normal">azul</text>
+<rect x="564.3" y="360" width="63.4" height="36" fill="#4c6ef5"/>
+<text x="595.7" y="414.0" font-size="11.5" text-anchor="middle" fill="#1a202c" font-weight="normal">añil</text>
+<rect x="627.1" y="360" width="63.4" height="36" fill="#7048e8"/>
+<text x="658.6" y="414.0" font-size="11.5" text-anchor="middle" fill="#1a202c" font-weight="normal">violeta</text>
+<text x="250.0" y="432.0" font-size="11" text-anchor="start" fill="#4a5568" font-weight="normal">≈ 700 nm</text>
+<text x="690.0" y="432.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">≈ 400 nm</text>
+<text x="470.0" y="452.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">Luz visible: la única parte que ve el ojo humano</text>
+<line x1="40.0" y1="330.0" x2="40.0" y2="330.0" stroke="#4a5568" stroke-width="1.5" />
+<text x="40.0" y="330.0" font-size="12" text-anchor="start" fill="#2f9e44" font-weight="700">no ionizante</text>
+<text x="900.0" y="330.0" font-size="12" text-anchor="end" fill="#c92a2a" font-weight="700">ionizante (UV alto, X, gamma)</text>
+</svg>

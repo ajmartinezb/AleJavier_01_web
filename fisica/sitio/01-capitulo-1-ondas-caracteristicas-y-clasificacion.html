@@ -1,0 +1,1398 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capítulo 1: Ondas: características y clasificación — Física PAES — Ciencias</title>
+<meta name="generator" content="Conversor PDF a HTML">
+<style>
+:root{--bg:#f7f6f2;--paper:#fff;--ink:#23262a;--ink-soft:#5a5f66;--line:#e3e1da;
+--accent:#1c7ed6;--accent-dark:#0f4576;--ok:#1e7a46;--ok-bg:#e5f5eb;--bad:#b3261e;--bad-bg:#fdeceb;
+--tip-bg:#fff6d6;--tip-bd:#e8cf67;--nota-bg:#eaf2fb;--nota-bd:#b6cfe9;--ej-bg:#eaf6ee;--ej-bd:#a9d8b8;--sidebar-w:290px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}}
+:root[data-theme=dark]{--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{scroll-padding-top:96px}
+body{margin:0;font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.65}
+header.top{position:sticky;top:0;z-index:50;background:linear-gradient(120deg,var(--accent-dark),var(--accent));color:#fff;padding:14px 22px;box-shadow:0 2px 10px rgba(0,0,0,.18)}
+header.top .fila{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1400px;margin:0 auto}
+header.top h1{margin:0;font-size:1.25rem;line-height:1.3;flex:1;min-width:200px}
+header.top .doc{font-size:.8rem;opacity:.85;display:block;font-weight:400}
+header.top a{color:#fff}
+.btn-top{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);color:#fff;border-radius:8px;padding:6px 10px;font-size:.85rem;cursor:pointer;text-decoration:none;white-space:nowrap}
+.progreso{max-width:1400px;margin:8px auto 0;display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:.8rem}
+.barra{flex:1;min-width:120px;height:7px;background:rgba(255,255,255,.25);border-radius:9px;overflow:hidden}
+.barra>i{display:block;height:100%;width:0;background:#fff;border-radius:9px;transition:width .3s}
+.layout{display:flex;align-items:flex-start;max-width:1400px;margin:0 auto}
+nav.sidebar{width:var(--sidebar-w);flex-shrink:0;position:sticky;top:110px;max-height:calc(100vh - 120px);overflow-y:auto;padding:20px 12px 40px 18px}
+nav.sidebar h2{font-size:.72rem;text-transform:uppercase;letter-spacing:1px;color:var(--ink-soft);margin:0 0 8px 6px}
+nav.sidebar ol{list-style:none;margin:0;padding:0}
+nav.sidebar a{display:block;position:relative;overflow:hidden;isolation:isolate;padding:6px 10px;border-radius:8px;color:var(--ink);text-decoration:none;font-size:.86rem;transition:color .2s,background .2s}
+nav.sidebar a:hover,nav.sidebar a.activo{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+nav.sidebar a::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;border-radius:inherit;
+background:linear-gradient(90deg,color-mix(in srgb,var(--accent) 22%,transparent),color-mix(in srgb,var(--accent) 45%,transparent));
+box-shadow:6px 0 14px color-mix(in srgb,var(--accent) 55%,transparent)}
+nav.sidebar a.cargando{color:var(--accent-dark);font-weight:600;background:transparent}
+nav.sidebar a.cargando::before,.ref-badge.cargando::before,.volver-tema.cargando::before{animation:conv-cargar .6s cubic-bezier(.45,0,.2,1) forwards}
+.ref-badges{display:inline-flex;flex-wrap:wrap;gap:6px;margin-left:10px;vertical-align:middle;font-size:.72rem;font-weight:600;line-height:1}
+.ref-group{display:inline-flex;align-items:center;gap:4px}
+.ref-label{color:var(--ink-soft);font-weight:600;letter-spacing:.3px}
+.ref-badge,.volver-tema{position:relative;overflow:hidden;isolation:isolate;text-decoration:none;transition:background .2s,color .2s,border-color .2s}
+.ref-badge::before,.volver-tema::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;background:color-mix(in srgb,var(--accent) 40%,transparent)}
+.ref-badge{display:inline-grid;place-items:center;min-width:24px;height:22px;padding:0 6px;border-radius:999px;border:1px solid;font-size:.72rem}
+.ref-badge.ref-ia{color:#1e7a34;border-color:#8fd0a2;background:#eaf7ee}
+.ref-badge.ref-ia:hover{background:#1e7a34;color:#fff}
+.ref-badge.ref-ia.cargando{color:#fff;background:#1e7a34}
+.volver-tema{display:inline-flex;align-items:center;gap:4px;margin:0 8px 0 6px;padding:2px 10px;border:1px solid var(--line);border-radius:999px;font-size:.76rem;font-weight:600;color:var(--accent-dark);background:var(--paper);vertical-align:middle}
+.volver-tema:hover{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,var(--paper))}
+.seccion-ia{margin-top:40px;padding-top:6px}
+.seccion-ia>.nota{font-size:.9rem}
+.tema-ia{margin:26px 0 4px;font-size:.82rem;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--ink-soft)}
+.tema-ia a{color:inherit}
+.habilidad{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent-dark);vertical-align:middle}
+.eje{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:var(--line);color:var(--ink-soft);vertical-align:middle}
+.comentario>p{margin:8px 0}
+.comentario>p>strong:first-child{color:var(--accent-dark)}
+.comentario ul{margin:6px 0 10px;padding-left:20px}
+.comentario li{margin:3px 0}
+.comentario .tipo-error{font-style:italic;color:var(--ink-soft)}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .comentario>p>strong:first-child{color:var(--accent)}}
+:root[data-theme=dark] .comentario>p>strong:first-child{color:var(--accent)}
+.pregunta.destino{animation:conv-destino 1.6s ease-out}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}}
+:root[data-theme=dark] .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}
+@keyframes conv-cargar{0%{width:0;opacity:.7}85%{opacity:1}100%{width:100%;opacity:1;box-shadow:0 0 12px color-mix(in srgb,var(--accent) 45%,transparent)}}
+@media (prefers-reduced-motion:reduce){nav.sidebar a.cargando::before{animation-duration:.15s}}
+.destino{animation:conv-destino 1.4s ease-out}
+@keyframes conv-destino{0%{background:color-mix(in srgb,var(--accent) 22%,transparent)}100%{background:transparent}}
+nav.sidebar .n3 a{padding-left:22px;font-size:.8rem;color:var(--ink-soft)}
+nav.sidebar .n4 a{padding-left:34px;font-size:.76rem;color:var(--ink-soft)}
+main.content{flex:1;min-width:0;padding:26px 34px 90px}
+.paper{background:var(--paper);border-radius:14px;padding:28px 38px;box-shadow:0 1px 4px rgba(0,0,0,.07);max-width:980px}
+.paper h2{font-size:1.4rem;color:var(--accent-dark);border-bottom:3px solid var(--accent);padding-bottom:6px;margin:34px 0 14px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .paper h2{color:var(--accent)}}
+:root[data-theme=dark] .paper h2{color:var(--accent)}
+.paper h2:first-child{margin-top:0}
+.paper h3{font-size:1.14rem;margin:26px 0 10px;border-left:4px solid var(--accent);padding-left:10px}
+.paper h4{font-size:1rem;margin:20px 0 8px}
+.paper img{max-width:100%;height:auto}
+figure>img{width:var(--ancho,auto)}
+.fila-figuras{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:flex-start;margin:18px 0}
+.fila-figuras>figure{flex:1 1 220px;margin:0}
+.fila-figuras>figure>img{width:100%}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:.93rem;display:block;overflow-x:auto}
+th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top;text-align:left}
+thead th{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+blockquote{margin:14px 0;padding:8px 16px;border-left:4px solid var(--line);color:var(--ink-soft)}
+.nota,.tip,.ejemplo,.ejercicio,.pregunta{border-radius:10px;padding:14px 18px;margin:16px 0;border:1px solid}
+.nota{background:var(--nota-bg);border-color:var(--nota-bd)}
+.tip{background:var(--tip-bg);border-color:var(--tip-bd)}
+.ejemplo{background:var(--ej-bg);border-color:var(--ej-bd)}
+.ejercicio,.pregunta{background:var(--paper);border-color:var(--line);box-shadow:0 1px 3px rgba(0,0,0,.05)}
+figure{margin:18px auto;text-align:center}
+figure img{border-radius:8px;border:1px solid var(--line);cursor:zoom-in;background:#fff}
+figcaption{font-size:.85rem;color:var(--ink-soft);margin-top:6px}
+.frac{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;font-size:.9em;margin:0 2px}
+.frac>span:first-child{border-bottom:1px solid currentColor;padding:0 3px}
+.alternativas{list-style:none;padding:0;margin:10px 0}
+.alternativas li{display:flex;gap:10px;align-items:flex-start;padding:8px 12px;margin:6px 0;border:1px solid var(--line);border-radius:9px;cursor:pointer;transition:background .15s}
+.alternativas li::before{content:attr(data-letra);font-weight:700;min-width:1.4em;color:var(--accent)}
+.alternativas li:hover{background:color-mix(in srgb,var(--accent) 8%,transparent)}
+.alternativas li.marcada{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.alternativas li.correcta{border-color:var(--ok);background:var(--ok-bg)}
+.alternativas li.incorrecta{border-color:var(--bad);background:var(--bad-bg)}
+.pregunta.respondida .alternativas li{cursor:default}
+.acciones{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.btn{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:8px 14px;font-size:.9rem;cursor:pointer}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.btn.sec{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.estado{font-size:.88rem;font-weight:600}
+.estado.ok{color:var(--ok)}.estado.mal{color:var(--bad)}
+.respuesta{display:none;margin-top:10px;padding:12px 14px;border-radius:9px;background:color-mix(in srgb,var(--accent) 7%,transparent);border-left:4px solid var(--accent)}
+.visible>.respuesta,.respuesta.visible{display:block}
+.aviso-ia{font-size:.8rem;color:var(--ink-soft);font-style:italic}
+details.original{margin:14px 0;border:1px dashed var(--line);border-radius:10px;padding:8px 12px}
+details.original summary{cursor:pointer;color:var(--ink-soft);font-size:.85rem}
+.marca-pagina{font-size:.72rem;color:var(--ink-soft);text-align:right;border-top:1px dashed var(--line);margin:22px 0 8px;padding-top:2px}
+.navsec{display:flex;justify-content:space-between;gap:12px;margin-top:28px;max-width:980px}
+.navsec a{flex:1;padding:14px 16px;border-radius:12px;background:var(--paper);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.navsec a small{display:block;color:var(--ink-soft);font-size:.75rem}
+.navsec a.sig{text-align:right}
+#lightbox{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:100;cursor:zoom-out;padding:20px}
+#lightbox img{max-width:100%;max-height:100%;background:#fff;border-radius:6px}
+#toc-btn{display:none}
+@media (max-width:900px){
+ nav.sidebar{position:fixed;top:0;left:0;bottom:0;max-height:none;background:var(--paper);z-index:60;transform:translateX(-105%);transition:transform .25s;box-shadow:2px 0 14px rgba(0,0,0,.2);padding-top:24px}
+ nav.sidebar.abierta{transform:none}
+ #toc-btn{display:inline-block}
+ main.content{padding:16px 16px 80px}
+ .paper{padding:20px 18px}
+}
+@media print{header.top,nav.sidebar,.navsec,.acciones{display:none}.respuesta{display:block}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="fila">
+    <a class="btn-top" href="../../inicio.html" title="Volver a las asignaturas PAES" style="text-decoration:none">← Asignaturas</a>
+    <button class="btn-top" id="toc-btn" type="button">☰ Contenido</button>
+    <h1><span class="doc">Física PAES — Ciencias</span>Capítulo 1: Ondas: características y clasificación</h1>
+    <a class="btn-top" href="index.html">Índice</a>
+    <button class="btn-top" id="tema" type="button" title="Cambiar tema claro/oscuro">◐</button>
+  </div>
+  <div class="progreso">
+    <span id="txt-preg">…</span><div class="barra"><i id="barra-preg"></i></div>
+    <button class="btn-top" id="reiniciar" type="button" title="Reiniciar respuestas de esta sección">↺ Reiniciar</button>
+    <span id="txt-lect">0% leído</span><div class="barra"><i id="barra-lect"></i></div>
+  </div>
+</header>
+<div class="layout">
+<nav class="sidebar" aria-label="Contenido"><h2>Contenido</h2><ol><li class="n2"><a href="#capitulo-1-ondas-caracteristicas-y-clasificacion">Capítulo 1: Ondas: características y clasificación</a></li><li class="n2"><a href="#1-conceptos-clave">1. Conceptos clave</a></li><li class="n2"><a href="#2-que-es-una-onda">2. Qué es una onda</a></li><li class="n3"><a href="#a-una-perturbacion-que-viaja">a. Una perturbación que viaja</a></li><li class="n3"><a href="#b-viaja-la-energia-no-la-materia">b. Viaja la energía, no la materia</a></li><li class="n3"><a href="#c-pulso-y-onda-periodica">c. Pulso y onda periódica</a></li><li class="n3"><a href="#d-toda-onda-nace-de-algo-que-oscila">d. Toda onda nace de algo que oscila</a></li><li class="n2"><a href="#3-clasificacion-de-las-ondas">3. Clasificación de las ondas</a></li><li class="n3"><a href="#a-segun-el-medio-mecanicas-y-electromagneticas">a. Según el medio: mecánicas y electromagnéticas</a></li><li class="n3"><a href="#b-segun-la-direccion-de-oscilacion-transversales-y">b. Según la dirección de oscilación: transversales y longitudinales</a></li><li class="n3"><a href="#c-segun-las-dimensiones-en-que-se-propagan">c. Según las dimensiones en que se propagan</a></li><li class="n2"><a href="#4-elementos-de-una-onda-periodica">4. Elementos de una onda periódica</a></li><li class="n3"><a href="#a-amplitud">a. Amplitud</a></li><li class="n3"><a href="#b-longitud-de-onda">b. Longitud de onda</a></li><li class="n3"><a href="#c-periodo-y-frecuencia">c. Período y frecuencia</a></li><li class="n3"><a href="#d-dos-graficos-que-parecen-iguales-y-no-lo-son">d. Dos gráficos que parecen iguales y no lo son</a></li><li class="n3"><a href="#e-ciclo-y-fase">e. Ciclo y fase</a></li><li class="n2"><a href="#5-rapidez-de-propagacion">5. Rapidez de propagación</a></li><li class="n3"><a href="#a-la-relacion-fundamental-v-f">a. La relación fundamental: v = λ · f</a></li><li class="n3"><a href="#b-de-que-depende-la-rapidez-del-medio-no-de-la-fue">b. De qué depende la rapidez: del medio, no de la fuente</a></li><li class="n3"><a href="#c-que-pasa-cuando-la-onda-cambia-de-medio">c. Qué pasa cuando la onda cambia de medio</a></li><li class="n3"><a href="#d-como-lo-pregunta-la-paes">d. Cómo lo pregunta la PAES</a></li><li class="n2"><a href="#6-las-ondas-electromagneticas-y-su-espectro">6. Las ondas electromagnéticas y su espectro</a></li><li class="n3"><a href="#a-que-tienen-en-comun-todas-las-ondas-electromagne">a. Qué tienen en común todas las ondas electromagnéticas</a></li><li class="n3"><a href="#b-el-espectro-ordenado">b. El espectro ordenado</a></li><li class="n3"><a href="#c-energia-y-riesgo-radiacion-ionizante-y-no-ioniza">c. Energía y riesgo: radiación ionizante y no ionizante</a></li><li class="n3"><a href="#d-dispositivos-que-funcionan-con-ondas-electromagn">d. Dispositivos que funcionan con ondas electromagnéticas</a></li><li class="n2"><a href="#7-fenomenos-ondulatorios">7. Fenómenos ondulatorios</a></li><li class="n3"><a href="#a-reflexion">a. Reflexión</a></li><li class="n3"><a href="#b-refraccion">b. Refracción</a></li><li class="n3"><a href="#c-absorcion">c. Absorción</a></li><li class="n3"><a href="#d-difraccion">d. Difracción</a></li><li class="n3"><a href="#e-interferencia">e. Interferencia</a></li><li class="n3"><a href="#f-efecto-doppler">f. Efecto Doppler</a></li><li class="n3"><a href="#g-resumen-de-los-fenomenos">g. Resumen de los fenómenos</a></li><li class="n2"><a href="#ejemplos-paes-resueltos">Ejemplos PAES resueltos</a></li><li class="n2"><a href="#evaluacion-formativa">Evaluación formativa</a></li><li class="n2"><a href="#fuentes-del-capitulo">Fuentes del capítulo</a></li></ol></nav>
+<main class="content">
+<article class="paper">
+<h2 id="capitulo-1-ondas-caracteristicas-y-clasificacion">Capítulo 1: Ondas: características y clasificación</h2>
+<p><strong>Área temática:</strong> Ondas</p>
+<p>Cuando escuchas la radio en el auto, cuando el celular recibe un mensaje o cuando la luz del Sol te calienta la cara, algo viaja desde un lugar a otro sin que viaje materia. Ese algo es una <strong>onda</strong>: una perturbación que transporta energía e información a través del espacio. Casi todo lo que sabemos del universo nos llega así, montado en ondas.</p>
+<p>En este capítulo vas a aprender qué es una onda y qué la distingue del movimiento de un objeto; cómo se <strong>clasifican</strong> las ondas según el medio que necesitan, la dirección en que oscilan y la forma en que se propagan; cuáles son sus <strong>elementos</strong> (amplitud, longitud de onda, período y frecuencia) y cómo se leen en un gráfico; de qué depende la <strong>rapidez de propagación</strong> y cómo se usa la relación <em>v</em> = λ · <em>f</em>; cómo se ordena el <strong>espectro electromagnético</strong> y para qué se usa cada rango; y qué les pasa a las ondas cuando chocan con un obstáculo, cambian de medio o se encuentran con otras ondas: <strong>reflexión, refracción, absorción, difracción, interferencia y efecto Doppler</strong>.</p>
+<div class="nota">
+<p><strong>Este capítulo en la PAES 2027.</strong> El temario DEMRE del área Ondas se centra en las <strong>ondas electromagnéticas</strong>: sus elementos, la relación entre longitud de onda, frecuencia y rapidez, el espectro y sus usos tecnológicos, y los fenómenos ondulatorios en términos cualitativos. Las ondas en cuerdas, resortes y agua aparecen aquí porque se ven y se dibujan, y sirven como modelo para entender las que no se ven. La óptica (espejos, lentes, colores) se desarrolla en el capítulo 3.</p>
+</div>
+<h2 id="1-conceptos-clave">1. Conceptos clave</h2>
+<table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Definición</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Onda</strong></td>
+<td>Perturbación que se propaga en el espacio transportando energía, sin transporte neto de materia</td>
+</tr>
+<tr>
+<td><strong>Pulso</strong></td>
+<td>Perturbación única y de corta duración que viaja por un medio</td>
+</tr>
+<tr>
+<td><strong>Onda periódica</strong></td>
+<td>Sucesión de perturbaciones que se repiten a intervalos de tiempo iguales</td>
+</tr>
+<tr>
+<td><strong>Medio</strong></td>
+<td>Material (sólido, líquido o gas) a través del cual se propaga una onda mecánica</td>
+</tr>
+<tr>
+<td><strong>Fuente</strong></td>
+<td>Objeto que oscila y genera la onda; fija su frecuencia</td>
+</tr>
+<tr>
+<td><strong>Onda mecánica</strong></td>
+<td>Onda que necesita un medio material para propagarse, como el sonido o una ola</td>
+</tr>
+<tr>
+<td><strong>Onda electromagnética</strong></td>
+<td>Onda formada por campos eléctrico y magnético que oscilan; se propaga también en el vacío</td>
+</tr>
+<tr>
+<td><strong>Onda transversal</strong></td>
+<td>Onda en que las partículas del medio oscilan perpendicularmente a la dirección de propagación</td>
+</tr>
+<tr>
+<td><strong>Onda longitudinal</strong></td>
+<td>Onda en que las partículas del medio oscilan en la misma dirección de propagación</td>
+</tr>
+<tr>
+<td><strong>Cresta y valle</strong></td>
+<td>Puntos de máximo y mínimo desplazamiento en una onda transversal</td>
+</tr>
+<tr>
+<td><strong>Compresión y rarefacción</strong></td>
+<td>Zonas de mayor y menor densidad del medio en una onda longitudinal</td>
+</tr>
+<tr>
+<td><strong>Amplitud (A)</strong></td>
+<td>Máximo desplazamiento respecto de la posición de equilibrio; se relaciona con la energía que transporta la onda</td>
+</tr>
+<tr>
+<td><strong>Longitud de onda (λ)</strong></td>
+<td>Distancia entre dos puntos consecutivos en el mismo estado de oscilación, por ejemplo, entre dos crestas; se mide en metros</td>
+</tr>
+<tr>
+<td><strong>Período (T)</strong></td>
+<td>Tiempo que tarda una oscilación completa; se mide en segundos</td>
+</tr>
+<tr>
+<td><strong>Frecuencia (f)</strong></td>
+<td>Número de oscilaciones por unidad de tiempo; se mide en hertz (1 Hz = 1 oscilación por segundo). Es el inverso del período</td>
+</tr>
+<tr>
+<td><strong>Rapidez de propagación (v)</strong></td>
+<td>Distancia que avanza la onda por unidad de tiempo; <em>v</em> = λ · <em>f</em> = λ / <em>T</em></td>
+</tr>
+<tr>
+<td><strong>Frente de onda</strong></td>
+<td>Línea o superficie que une puntos de la onda en el mismo estado de oscilación</td>
+</tr>
+<tr>
+<td><strong>Espectro electromagnético</strong></td>
+<td>Conjunto de todas las ondas electromagnéticas ordenadas según su frecuencia o su longitud de onda</td>
+</tr>
+<tr>
+<td><strong>Reflexión</strong></td>
+<td>Cambio de dirección de una onda que rebota al llegar a la frontera con otro medio, sin cambiar de medio</td>
+</tr>
+<tr>
+<td><strong>Refracción</strong></td>
+<td>Cambio de rapidez, y en general de dirección, de una onda al pasar de un medio a otro</td>
+</tr>
+<tr>
+<td><strong>Absorción</strong></td>
+<td>Transferencia de la energía de la onda al medio que atraviesa o al objeto sobre el que incide</td>
+</tr>
+<tr>
+<td><strong>Difracción</strong></td>
+<td>Capacidad de una onda de rodear obstáculos o abrirse al pasar por una rendija</td>
+</tr>
+<tr>
+<td><strong>Interferencia</strong></td>
+<td>Superposición de dos o más ondas en un mismo punto: constructiva si se refuerzan, destructiva si se anulan</td>
+</tr>
+<tr>
+<td><strong>Efecto Doppler</strong></td>
+<td>Cambio en la frecuencia percibida cuando la fuente y el observador se acercan o se alejan entre sí</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2-que-es-una-onda">2. Qué es una onda</h2>
+<figure><img src="img/cap01-ondas/pulso-cuerda.svg" alt="Un pulso avanza hacia la derecha por una cuerda en tres instantes sucesivos, mientras un punto marcado de la cuerda solo sube y baja en su lugar"><figcaption>Figura 1. El pulso avanza por la cuerda, pero el punto rojo solo sube y baja: la cuerda no viaja. Diagrama propio.</figcaption></figure>
+
+<h3 id="a-una-perturbacion-que-viaja">a. Una perturbación que viaja</h3>
+<p>Si sacudes una vez el extremo de una cuerda tensa, verás que una «joroba» recorre la cuerda hasta el otro extremo. Si dejas caer una piedra en un estanque, se forman anillos que se alejan del punto de impacto. En los dos casos pasa lo mismo: una <strong>perturbación</strong> —un cambio en el estado de un lugar— se transmite de un punto al siguiente. Eso es una <strong>onda</strong>.</p>
+<p>La clave está en la palabra «transmite». Cada trozo de cuerda tira del trozo vecino; cada porción de agua empuja a la de al lado. La perturbación pasa de mano en mano, como en una fila de personas que se van pasando un balde.</p>
+<h3 id="b-viaja-la-energia-no-la-materia">b. Viaja la energía, no la materia</h3>
+<p>Esta es la idea más importante del capítulo, y la más preguntada:</p>
+<div class="nota">
+<p><strong>Una onda transporta energía (y también información) de un lugar a otro, pero no transporta materia.</strong> Las partículas del medio solo <strong>oscilan alrededor de su posición de equilibrio</strong> y, cuando la onda ya pasó, vuelven a donde estaban.</p>
+</div>
+<p>Hay dos observaciones sencillas que lo demuestran:</p>
+<table>
+<thead>
+<tr>
+<th>Observación</th>
+<th>Qué muestra</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Un corcho flotando en un estanque sube y baja cuando pasan las ondas, pero no se acerca a la orilla</td>
+<td>El agua bajo el corcho oscila en su lugar; la perturbación avanza, el agua no</td>
+</tr>
+<tr>
+<td>En un estadio, la «ola» da la vuelta completa a la galería, pero cada espectador solo se para y se sienta en su asiento</td>
+<td>Lo que viaja es el patrón de movimiento, no las personas</td>
+</tr>
+</tbody>
+</table>
+<p>Y una que muestra que sí viaja energía: una ola que llega a la playa puede mover arena y piedras, y el sonido de un parlante muy fuerte hace vibrar los vidrios de una ventana. Algo tuvo que llevar esa energía hasta allí.</p>
+<div class="tip">
+<p><strong>Error típico en la PAES.</strong> Pensar que en una onda «el agua viaja hacia la playa» o que «el aire viaja desde el parlante hasta el oído». Lo que viaja es la perturbación. Si una alternativa dice que la onda traslada partículas del medio de un lugar a otro, desconfía: esa es la confusión que la pregunta está buscando.</p>
+</div>
+<h3 id="c-pulso-y-onda-periodica">c. Pulso y onda periódica</h3>
+<p>Según cuántas veces se repita la perturbación, se distinguen dos casos:</p>
+<ul>
+<li><strong>Pulso</strong>: una perturbación única. Una sacudida aislada de la cuerda, un aplauso, un golpe en la mesa.</li>
+<li><strong>Onda periódica</strong>: una sucesión de perturbaciones que se repiten a intervalos de tiempo iguales. Ocurre cuando la <strong>fuente oscila</strong> de manera regular: una mano que sube y baja la cuerda con ritmo constante, la membrana de un parlante que vibra, los electrones que oscilan en la antena de una radio.</li>
+</ul>
+<p>En este capítulo vamos a trabajar sobre todo con ondas periódicas, porque es en ellas donde tienen sentido el período, la frecuencia y la longitud de onda.</p>
+<h3 id="d-toda-onda-nace-de-algo-que-oscila">d. Toda onda nace de algo que oscila</h3>
+<p>Detrás de toda onda hay una <strong>fuente</strong> que vibra. La fuente decide el ritmo de la onda (su frecuencia), y el medio decide qué tan rápido viaja (su rapidez de propagación). Esta división de tareas se retoma en la sección 5, porque explica qué cambia y qué no cuando una onda pasa de un medio a otro.</p>
+<div class="ejemplo">
+<p><strong>Cómo se pone a prueba la idea.</strong> Un curso quiere comprobar que las ondas de agua no arrastran lo que flota. Deja caer gotas en el centro de una bandeja con agua a ritmo constante y pone un trozo de corcho a 20 cm del punto de caída. Registra la posición del corcho cada 5 segundos durante un minuto.</p>
+<ul>
+<li><strong>Si las ondas arrastraran materia</strong>, el corcho se alejaría del centro de forma sostenida.</li>
+<li><strong>Si solo transportan energía</strong>, el corcho subiría y bajaría, sin desplazarse de manera apreciable.</li>
+</ul>
+<p>El resultado es el segundo. Fíjate en la lógica: el experimento no se limita a mirar; compara lo que predice cada hipótesis y deja que los datos decidan. Eso es lo que la PAES pide cuando pregunta por la evidencia que apoya una idea.</p>
+</div>
+<h2 id="3-clasificacion-de-las-ondas">3. Clasificación de las ondas</h2>
+<p>Las ondas se pueden ordenar con varios criterios distintos. Conviene tenerlos separados, porque una misma onda recibe un nombre en cada uno: el sonido en el aire, por ejemplo, es una onda <strong>mecánica</strong>, <strong>longitudinal</strong>, <strong>tridimensional</strong> y, si la fuente vibra con ritmo constante, <strong>periódica</strong>.</p>
+<table>
+<thead>
+<tr>
+<th>Criterio</th>
+<th>Tipos</th>
+<th>Ejemplos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Según el <strong>medio</strong> que necesitan</td>
+<td>Mecánicas · Electromagnéticas</td>
+<td>Sonido, olas, ondas sísmicas · Luz, ondas de radio, rayos X</td>
+</tr>
+<tr>
+<td>Según la <strong>dirección de oscilación</strong></td>
+<td>Transversales · Longitudinales</td>
+<td>Cuerda de guitarra, luz · Sonido, resorte comprimido</td>
+</tr>
+<tr>
+<td>Según las <strong>dimensiones</strong> en que se propagan</td>
+<td>Unidimensionales · Bidimensionales · Tridimensionales</td>
+<td>Cuerda · Superficie del agua · Sonido, luz</td>
+</tr>
+<tr>
+<td>Según su <strong>periodicidad</strong></td>
+<td>Pulso · Onda periódica</td>
+<td>Un aplauso · El sonido de un diapasón</td>
+</tr>
+</tbody>
+</table>
+<h3 id="a-segun-el-medio-mecanicas-y-electromagneticas">a. Según el medio: mecánicas y electromagnéticas</h3>
+<p><strong>Ondas mecánicas.</strong> Necesitan un <strong>medio material</strong> —sólido, líquido o gas— porque lo que oscila son las partículas de ese medio. Sin medio no hay nada que se perturbe. Son mecánicas el sonido, las olas del mar, las ondas en una cuerda y las ondas sísmicas.</p>
+<p><strong>Ondas electromagnéticas.</strong> Lo que oscila en ellas no son partículas, sino un <strong>campo eléctrico y un campo magnético</strong>, perpendiculares entre sí y perpendiculares a la dirección de propagación. Como no necesitan partículas, <strong>se propagan también en el vacío</strong>, y allí todas viajan con la misma rapidez: la rapidez de la luz, <em>c</em> ≈ 3 × 10<sup>8</sup> m/s. Son electromagnéticas la luz visible, las ondas de radio, las microondas, el infrarrojo, el ultravioleta, los rayos X y los rayos gamma.</p>
+<div class="nota">
+<p><strong>La prueba decisiva es el vacío.</strong> Si pones un timbre sonando dentro de una campana de vidrio y le extraes el aire con una bomba, el sonido se va apagando hasta dejar de oírse, aunque sigas <strong>viendo</strong> el martillo golpear. La luz atraviesa el vacío; el sonido no. Así se sabe que la luz no es una onda mecánica. Por la misma razón, la luz del Sol llega a la Tierra atravesando 150 millones de kilómetros de espacio casi vacío, y ningún sonido del Sol llega hasta aquí.</p>
+</div>
+<figure><img src="img/cap01-ondas/transversal-longitudinal.svg" alt="Arriba, una onda transversal en una cuerda con las flechas de oscilación verticales y la de propagación horizontal. Abajo, una onda longitudinal en un resorte con zonas de compresión y rarefacción y las flechas de oscilación y de propagación en la misma dirección"><figcaption>Figura 2. Onda transversal (arriba) y onda longitudinal (abajo). Diagrama propio.</figcaption></figure>
+
+<h3 id="b-segun-la-direccion-de-oscilacion-transversales-y">b. Según la dirección de oscilación: transversales y longitudinales</h3>
+<p>Este criterio compara dos direcciones: <strong>hacia dónde oscila el medio</strong> y <strong>hacia dónde avanza la onda</strong>.</p>
+<ul>
+<li><strong>Transversales</strong>: la oscilación es <strong>perpendicular</strong> a la propagación. En una cuerda horizontal, cada punto sube y baja mientras la onda avanza hacia el lado. Tienen <strong>crestas</strong> (puntos más altos) y <strong>valles</strong> (puntos más bajos). Las ondas electromagnéticas son transversales, porque sus campos oscilan perpendicularmente a la dirección de avance.</li>
+<li><strong>Longitudinales</strong>: la oscilación es <strong>paralela</strong> a la propagación. Si empujas y tiras del extremo de un resorte largo (un <em>slinky</em>), las espiras van y vienen en la misma dirección en que avanza la onda, y se forman <strong>compresiones</strong> (espiras juntas) y <strong>rarefacciones</strong> (espiras separadas). El sonido en el aire es longitudinal: el parlante empuja y tira del aire, y las capas de aire se comprimen y se enrarecen.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Transversal</th>
+<th>Longitudinal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oscilación respecto de la propagación</td>
+<td>Perpendicular</td>
+<td>Paralela</td>
+</tr>
+<tr>
+<td>Zonas características</td>
+<td>Crestas y valles</td>
+<td>Compresiones y rarefacciones</td>
+</tr>
+<tr>
+<td>Ejemplos</td>
+<td>Cuerda, luz, ondas S de un sismo</td>
+<td>Sonido, resorte comprimido, ondas P de un sismo</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Dos confusiones frecuentes.</strong> (1) Creer que «transversal» significa que la onda viaja de lado a lado: no, lo que es transversal es la <strong>oscilación</strong>, no el viaje. (2) Creer que toda onda mecánica es longitudinal: la cuerda y las ondas S son mecánicas <strong>y</strong> transversales. Los dos criterios son independientes.</p>
+</div>
+<p><strong>Un caso que conviene conocer: los sismos.</strong> Un terremoto genera a la vez ondas <strong>P</strong> (primarias, longitudinales) y ondas <strong>S</strong> (secundarias, transversales). Las P viajan más rápido y llegan primero; las S llegan después y suelen sacudir más. Además, las ondas S <strong>no atraviesan líquidos</strong>, porque un líquido no resiste que se lo deforme de lado. Que las ondas S no crucen el núcleo externo de la Tierra fue, justamente, la evidencia de que ese núcleo es líquido. Esta idea se retoma en el capítulo 4.</p>
+<p><strong>Las olas del mar</strong> son un caso mixto: las partículas de agua de la superficie describen trayectorias casi circulares, con un componente vertical y otro horizontal.</p>
+<h3 id="c-segun-las-dimensiones-en-que-se-propagan">c. Según las dimensiones en que se propagan</h3>
+<ul>
+<li><strong>Unidimensionales</strong>: avanzan en una sola dirección, como la onda en una cuerda o en un resorte.</li>
+<li><strong>Bidimensionales</strong>: se extienden sobre una superficie, como los anillos en el agua de un estanque o la vibración de la membrana de un tambor.</li>
+<li><strong>Tridimensionales</strong>: se propagan en todas las direcciones del espacio, como el sonido de un parlante o la luz de una ampolleta.</li>
+</ul>
+<p>Para describirlas se usa el <strong>frente de onda</strong>: la línea (en dos dimensiones) o la superficie (en tres) que une los puntos que están en el mismo estado de oscilación, por ejemplo, todas las crestas de un anillo. Cerca de una fuente pequeña, los frentes son <strong>circulares o esféricos</strong>; muy lejos de la fuente se ven prácticamente <strong>planos</strong>, como la luz del Sol al llegar a la Tierra.</p>
+<div class="ejemplo">
+<p><strong>Clasificar una onda con todos los criterios.</strong> Una antena de radio emite una señal que se propaga en todas direcciones.</p>
+<ul>
+<li>Medio: <strong>electromagnética</strong> (llega también a un satélite en el espacio).</li>
+<li>Oscilación: <strong>transversal</strong> (todas las electromagnéticas lo son).</li>
+<li>Dimensiones: <strong>tridimensional</strong> (se propaga en todas direcciones).</li>
+<li>Periodicidad: <strong>periódica</strong> (la antena oscila a una frecuencia fija, por ejemplo 100 MHz).</li>
+</ul>
+<p>Hacer este ejercicio con cada onda nueva es la mejor forma de no mezclar criterios.</p>
+</div>
+<h2 id="4-elementos-de-una-onda-periodica">4. Elementos de una onda periódica</h2>
+<figure><img src="img/cap01-ondas/elementos-onda.svg" alt="Perfil de una onda transversal sobre un eje horizontal de posición: se marcan la posición de equilibrio, una cresta, un valle, la amplitud desde el equilibrio hasta la cresta y la longitud de onda entre dos crestas consecutivas"><figcaption>Figura 3. Elementos de una onda transversal en un instante dado. Diagrama propio.</figcaption></figure>
+
+<h3 id="a-amplitud">a. Amplitud</h3>
+<p>La <strong>amplitud (A)</strong> es el máximo desplazamiento de un punto del medio respecto de su <strong>posición de equilibrio</strong> (la que tendría si no pasara la onda). En la figura se mide desde la línea central hasta una cresta, <strong>no</strong> de cresta a valle.</p>
+<p>La amplitud está relacionada con la <strong>energía</strong> que transporta la onda: a mayor amplitud, más energía. En el sonido se percibe como intensidad (un sonido más fuerte); en la luz, como brillo. Lo importante para la prueba es lo que la amplitud <strong>no</strong> hace: no cambia la rapidez de propagación ni la longitud de onda.</p>
+<div class="tip">
+<p><strong>Error típico.</strong> Medir la amplitud de cresta a valle. Esa distancia es el doble de la amplitud. Si un gráfico muestra que la cuerda va de −3 cm a +3 cm, la amplitud es <strong>3 cm</strong>, no 6 cm.</p>
+</div>
+<h3 id="b-longitud-de-onda">b. Longitud de onda</h3>
+<p>La <strong>longitud de onda (λ</strong>, la letra griega lambda) es la distancia entre dos puntos consecutivos que están en el mismo estado de oscilación: de cresta a cresta, de valle a valle, o de compresión a compresión en una onda longitudinal. Se mide en metros (o en sus submúltiplos: cm, mm, µm, nm). Es la <strong>longitud de un ciclo completo</strong> del patrón.</p>
+<p>Las longitudes de onda cubren escalas enormes: desde kilómetros en algunas ondas de radio hasta menos que el tamaño de un átomo en los rayos gamma. La luz visible va aproximadamente de 400 a 700 nanómetros (1 nm = 10<sup>−9</sup> m).</p>
+<h3 id="c-periodo-y-frecuencia">c. Período y frecuencia</h3>
+<p>El <strong>período (T)</strong> es el tiempo que tarda un punto del medio en completar <strong>una oscilación completa</strong> (subir, bajar y volver al estado inicial). También es el tiempo que tarda la onda en avanzar una longitud de onda. Se mide en segundos.</p>
+<p>La <strong>frecuencia (f)</strong> es el número de oscilaciones que ocurren en cada segundo. Su unidad es el <strong>hertz (Hz)</strong>: 1 Hz equivale a una oscilación por segundo, es decir, 1 Hz = 1 s<sup>−1</sup>.</p>
+<p>Período y frecuencia son <strong>inversos</strong>: si una fuente oscila 4 veces por segundo (<em>f</em> = 4 Hz), cada oscilación dura un cuarto de segundo (<em>T</em> = 0,25 s).</p>
+<p style="text-align:center"><strong><em>f</em> = 1 / <em>T</em></strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong><em>T</em> = 1 / <em>f</em></strong></p>
+
+<table>
+<thead>
+<tr>
+<th>Prefijo</th>
+<th>Valor</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>kilohertz (kHz)</td>
+<td>10<sup>3</sup> Hz</td>
+<td>Un silbido agudo: unos 5 kHz</td>
+</tr>
+<tr>
+<td>megahertz (MHz)</td>
+<td>10<sup>6</sup> Hz</td>
+<td>Radio FM: de 88 a 108 MHz</td>
+</tr>
+<tr>
+<td>gigahertz (GHz)</td>
+<td>10<sup>9</sup> Hz</td>
+<td>Wi-Fi: 2,4 y 5 GHz; horno microondas: 2,45 GHz</td>
+</tr>
+<tr>
+<td>terahertz (THz)</td>
+<td>10<sup>12</sup> Hz</td>
+<td>Luz visible: de unos 430 a 750 THz</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Mucha frecuencia significa poco período.</strong> Si te preguntan qué pasa con el período cuando la frecuencia se duplica, la respuesta es que se reduce a la mitad. Y cuidado con las unidades: el hertz no es «hertz por segundo»; ya es «por segundo».</p>
+</div>
+<h3 id="d-dos-graficos-que-parecen-iguales-y-no-lo-son">d. Dos gráficos que parecen iguales y no lo son</h3>
+<p>La PAES usa dos tipos de gráfico que tienen la misma forma de sinusoide, pero que muestran cosas distintas. Confundirlos es uno de los errores más caros de la prueba.</p>
+<figure><img src="img/cap01-ondas/graficos-y-x-y-t.svg" alt="Izquierda: gráfico de desplazamiento versus posición, donde la distancia entre crestas es la longitud de onda de 2 metros. Derecha: gráfico de desplazamiento versus tiempo de un solo punto, donde la distancia entre crestas es el período de 0,5 segundos"><figcaption>Figura 4. El mismo tipo de curva con dos significados: a la izquierda se lee λ, a la derecha se lee T. Diagrama propio.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th>Gráfico</th>
+<th>Qué muestra</th>
+<th>Qué se lee entre dos crestas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Desplazamiento vs. posición</strong> (<em>y</em> – <em>x</em>)</td>
+<td>Una «foto» de toda la onda en un instante</td>
+<td>La <strong>longitud de onda</strong> λ</td>
+</tr>
+<tr>
+<td><strong>Desplazamiento vs. tiempo</strong> (<em>y</em> – <em>t</em>)</td>
+<td>La «película» de un solo punto del medio</td>
+<td>El <strong>período</strong> <em>T</em></td>
+</tr>
+</tbody>
+</table>
+<p>En ambos, la altura máxima de la curva es la <strong>amplitud</strong>. Antes de responder cualquier pregunta con un gráfico de onda, <strong>lee el eje horizontal</strong>: si dice metros, estás frente a λ; si dice segundos, frente a <em>T</em>.</p>
+<div class="ejemplo">
+<p><strong>Leer los dos gráficos de la figura 4.</strong> Con el gráfico de la izquierda, la distancia entre dos crestas es de 2 m: λ = 2 m. Con el de la derecha, entre dos crestas pasan 0,5 s: <em>T</em> = 0,5 s, y por lo tanto <em>f</em> = 1 / 0,5 s = 2 Hz. La amplitud, en los dos, es de 0,3 m.</p>
+<p>Si ambos gráficos describen la misma onda, ya se puede calcular su rapidez con lo que viene en la sección siguiente: <em>v</em> = λ · <em>f</em> = 2 m · 2 Hz = 4 m/s.</p>
+</div>
+<h3 id="e-ciclo-y-fase">e. Ciclo y fase</h3>
+<p>Un <strong>ciclo</strong> es una oscilación completa. Dos puntos del medio están <strong>en fase</strong> cuando hacen lo mismo al mismo tiempo (por ejemplo, dos crestas), y en <strong>oposición de fase</strong> cuando uno está en una cresta mientras el otro está en un valle. Los puntos en fase están separados por un número entero de longitudes de onda (λ, 2λ, 3λ…); los que están en oposición, por media longitud de onda más un número entero (λ/2, 3λ/2…). Esta idea es la base de la interferencia (sección 7).</p>
+<h2 id="5-rapidez-de-propagacion">5. Rapidez de propagación</h2>
+<h3 id="a-la-relacion-fundamental-v-f">a. La relación fundamental: <em>v</em> = λ · <em>f</em></h3>
+<p>En un período <em>T</em>, la fuente completa una oscilación y la onda avanza exactamente una longitud de onda λ. Como la rapidez es distancia dividida por tiempo:</p>
+<p style="text-align:center"><strong><em>v</em> = λ / <em>T</em> = λ · <em>f</em></strong></p>
+
+<table>
+<thead>
+<tr>
+<th>Símbolo</th>
+<th>Magnitud</th>
+<th>Unidad SI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>v</em></td>
+<td>Rapidez de propagación</td>
+<td>m/s</td>
+</tr>
+<tr>
+<td>λ</td>
+<td>Longitud de onda</td>
+<td>m</td>
+</tr>
+<tr>
+<td><em>f</em></td>
+<td>Frecuencia</td>
+<td>Hz (= 1/s)</td>
+</tr>
+<tr>
+<td><em>T</em></td>
+<td>Período</td>
+<td>s</td>
+</tr>
+</tbody>
+</table>
+<p>Es la ecuación más usada del área Ondas. Se despeja fácilmente: λ = <em>v</em> / <em>f</em> y <em>f</em> = <em>v</em> / λ.</p>
+<div class="ejemplo">
+<p><strong>Tres cálculos típicos.</strong></p>
+<ol>
+<li><strong>Una radio FM</strong> transmite a 100 MHz. ¿Cuál es su longitud de onda? Las ondas de radio viajan a <em>c</em> = 3 × 10<sup>8</sup> m/s. Entonces λ = <em>c</em> / <em>f</em> = (3 × 10<sup>8</sup> m/s) / (1 × 10<sup>8</sup> Hz) = <strong>3 m</strong>.</li>
+<li><strong>Una ola</strong> tiene crestas separadas por 12 m y pasa una cresta frente a un muelle cada 4 s. Entonces λ = 12 m, <em>T</em> = 4 s y <em>v</em> = λ / <em>T</em> = <strong>3 m/s</strong>.</li>
+<li><strong>Un horno microondas</strong> funciona a 2,45 GHz. Su λ = (3 × 10<sup>8</sup> m/s) / (2,45 × 10<sup>9</sup> Hz) ≈ 0,12 m = <strong>12 cm</strong>.</li>
+</ol>
+<p>En los tres casos el método es el mismo: identificar qué magnitudes da el enunciado, convertirlas a unidades del SI y recién entonces reemplazar.</p>
+</div>
+<h3 id="b-de-que-depende-la-rapidez-del-medio-no-de-la-fue">b. De qué depende la rapidez: del medio, no de la fuente</h3>
+<p>Esta es la segunda idea central del capítulo:</p>
+<div class="nota">
+<p><strong>La rapidez de una onda la determina el medio</strong> (su rigidez, su densidad, su temperatura), no la frecuencia ni la amplitud. <strong>La frecuencia la determina la fuente.</strong> La longitud de onda es lo que se «acomoda» para que se cumpla <em>v</em> = λ · <em>f</em>.</p>
+</div>
+<p>Consecuencia directa: en un mismo medio, si la fuente oscila más rápido (mayor <em>f</em>), la rapidez no cambia, así que la longitud de onda <strong>disminuye</strong> en la misma proporción. <em>f</em> y λ son <strong>inversamente proporcionales</strong> cuando <em>v</em> es constante: si <em>f</em> se duplica, λ se reduce a la mitad.</p>
+<figure><img src="img/cap01-ondas/lambda-vs-f.svg" alt="Gráfico de longitud de onda versus frecuencia en un medio fijo: una curva que baja, hipérbola, con puntos marcados en 1 Hz y 4 metros, 2 Hz y 2 metros, y 4 Hz y 1 metro"><figcaption>Figura 5. En un mismo medio (aquí, <em>v</em> = 4 m/s), λ y <em>f</em> son inversamente proporcionales: el producto λ · <em>f</em> se mantiene constante. Diagrama propio.</figcaption></figure>
+
+<p>Rapideces típicas, para tener una escala:</p>
+<table>
+<thead>
+<tr>
+<th>Onda y medio</th>
+<th>Rapidez aproximada</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sonido en el aire a 20 °C</td>
+<td>343 m/s</td>
+</tr>
+<tr>
+<td>Sonido en el agua</td>
+<td>1 480 m/s</td>
+</tr>
+<tr>
+<td>Sonido en el acero</td>
+<td>5 000 – 6 000 m/s</td>
+</tr>
+<tr>
+<td>Ondas sísmicas P en la corteza</td>
+<td>5 000 – 8 000 m/s</td>
+</tr>
+<tr>
+<td>Luz en el vacío (<em>c</em>)</td>
+<td>299 792 458 m/s ≈ 3 × 10<sup>8</sup> m/s</td>
+</tr>
+<tr>
+<td>Luz en el agua</td>
+<td>≈ 2,25 × 10<sup>8</sup> m/s</td>
+</tr>
+<tr>
+<td>Luz en el vidrio</td>
+<td>≈ 2 × 10<sup>8</sup> m/s</td>
+</tr>
+</tbody>
+</table>
+<p>Fíjate en el contraste: el sonido va <strong>más rápido</strong> en los sólidos que en los gases, mientras que la luz va <strong>más rápido en el vacío</strong> y se frena al entrar en la materia.</p>
+<div class="tip">
+<p><strong>Distractor clásico.</strong> «Si aumenta la frecuencia, la onda viaja más rápido.» Es falso en un medio dado: todas las notas de una orquesta, graves y agudas, te llegan al mismo tiempo, y todas las ondas electromagnéticas viajan a <em>c</em> en el vacío. Lo que cambia con la frecuencia es la longitud de onda.</p>
+</div>
+<h3 id="c-que-pasa-cuando-la-onda-cambia-de-medio">c. Qué pasa cuando la onda cambia de medio</h3>
+<p>Cuando una onda pasa de un medio a otro, la fuente sigue siendo la misma, así que:</p>
+<table>
+<thead>
+<tr>
+<th>Magnitud</th>
+<th>¿Cambia al pasar a otro medio?</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Frecuencia <em>f</em></td>
+<td><strong>No</strong></td>
+<td>La fija la fuente; cada oscilación que llega a la frontera produce una oscilación en el otro lado</td>
+</tr>
+<tr>
+<td>Rapidez <em>v</em></td>
+<td><strong>Sí</strong></td>
+<td>Depende del medio</td>
+</tr>
+<tr>
+<td>Longitud de onda λ</td>
+<td><strong>Sí</strong>, en la misma proporción que <em>v</em></td>
+<td>λ = <em>v</em> / <em>f</em>, con <em>f</em> fija</td>
+</tr>
+</tbody>
+</table>
+<div class="ejemplo">
+<p><strong>La luz entra al agua.</strong> Una luz roja de frecuencia 4,6 × 10<sup>14</sup> Hz tiene en el aire λ ≈ 650 nm. Al entrar en el agua su rapidez baja a unos 2,25 × 10<sup>8</sup> m/s, es decir, al 75 % aproximadamente. La frecuencia no cambia, así que la longitud de onda también baja al 75 %: λ<sub>agua</sub> ≈ 0,75 · 650 nm ≈ <strong>490 nm</strong>.</p>
+<p>Aun así, un buzo sigue viendo la luz <strong>roja</strong>: el color que percibimos depende de la frecuencia, y la frecuencia no cambió.</p>
+</div>
+<h3 id="d-como-lo-pregunta-la-paes">d. Cómo lo pregunta la PAES</h3>
+<p>Las preguntas sobre esta relación casi nunca piden solo reemplazar números. Lo habitual es:</p>
+<ul>
+<li>entregar una <strong>tabla de datos</strong> (varias frecuencias y sus longitudes de onda) y pedir la relación o la tendencia que muestra (habilidad <em>Procesar y analizar la evidencia</em>);</li>
+<li>describir un <strong>experimento</strong> con una cubeta de ondas o una cuerda y pedir cuál es la variable independiente, cuál la dependiente y cuál se mantuvo controlada (<em>Planificar y conducir una investigación</em>);</li>
+<li>pedir una <strong>predicción</strong>: qué ocurrirá con λ si se duplica <em>f</em>, o con <em>v</em> si se cambia de medio.</li>
+</ul>
+<p>La herramienta para todas ellas es la misma: <em>v</em> = λ · <em>f</em> y la regla de que el medio fija <em>v</em> y la fuente fija <em>f</em>.</p>
+<h2 id="6-las-ondas-electromagneticas-y-su-espectro">6. Las ondas electromagnéticas y su espectro</h2>
+<h3 id="a-que-tienen-en-comun-todas-las-ondas-electromagne">a. Qué tienen en común todas las ondas electromagnéticas</h3>
+<p>La luz, las ondas de radio y los rayos X parecen cosas muy distintas, pero son el <strong>mismo fenómeno</strong> con distinta frecuencia. Todas las ondas electromagnéticas:</p>
+<ul>
+<li>se producen cuando <strong>cargas eléctricas oscilan o se aceleran</strong> (los electrones en una antena, los átomos de un filamento caliente, los núcleos de un átomo radiactivo);</li>
+<li>están formadas por un <strong>campo eléctrico y un campo magnético</strong> que oscilan perpendiculares entre sí y a la dirección de avance: son <strong>transversales</strong>;</li>
+<li><strong>no necesitan medio</strong> y en el vacío viajan todas a la misma rapidez, <em>c</em> ≈ 3 × 10<sup>8</sup> m/s;</li>
+<li>cumplen <em>c</em> = λ · <em>f</em>: por eso, <strong>a mayor frecuencia, menor longitud de onda</strong>.</li>
+</ul>
+<p>Lo único que las distingue es su frecuencia (o, lo que es lo mismo, su longitud de onda). Y con ella cambian dos cosas importantes: <strong>la energía que transporta cada «paquete» de radiación</strong> (mayor a mayor frecuencia) y <strong>la forma en que interactúa con la materia</strong> (qué atraviesa, qué absorbe, qué daña).</p>
+<h3 id="b-el-espectro-ordenado">b. El espectro ordenado</h3>
+<p>El <strong>espectro electromagnético</strong> es el conjunto de todas estas ondas, ordenadas por frecuencia. No tiene fronteras nítidas: los límites entre rangos son convenciones aproximadas.</p>
+<figure><img src="img/cap01-ondas/espectro-electromagnetico.svg" alt="Barra horizontal del espectro electromagnético de izquierda a derecha: ondas de radio, microondas, infrarrojo, luz visible ampliada con sus colores de rojo a violeta, ultravioleta, rayos X y rayos gamma. Flechas indican que hacia la derecha aumentan la frecuencia y la energía y disminuye la longitud de onda"><figcaption>Figura 6. El espectro electromagnético, de menor a mayor frecuencia. Los límites entre rangos son aproximados. Diagrama propio.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th>Rango</th>
+<th>Longitud de onda aproximada</th>
+<th>Frecuencia aproximada</th>
+<th>Usos y fuentes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Ondas de radio</strong></td>
+<td>Mayor que 1 m</td>
+<td>Menor que 300 MHz</td>
+<td>Radio AM y FM, televisión abierta, radiotelescopios, comunicación con barcos y aviones</td>
+</tr>
+<tr>
+<td><strong>Microondas</strong></td>
+<td>1 mm – 1 m</td>
+<td>300 MHz – 300 GHz</td>
+<td>Horno microondas, telefonía móvil, Wi-Fi, Bluetooth, GPS, radar, enlaces satelitales</td>
+</tr>
+<tr>
+<td><strong>Infrarrojo</strong></td>
+<td>700 nm – 1 mm</td>
+<td>300 GHz – 430 THz</td>
+<td>Controles remotos, cámaras térmicas, visión nocturna, calefactores, fibra óptica</td>
+</tr>
+<tr>
+<td><strong>Luz visible</strong></td>
+<td>400 – 700 nm</td>
+<td>430 – 750 THz</td>
+<td>Visión humana, fotografía, láser, iluminación</td>
+</tr>
+<tr>
+<td><strong>Ultravioleta</strong></td>
+<td>10 – 400 nm</td>
+<td>750 THz – 30 PHz</td>
+<td>Esterilización de agua y superficies, detección de billetes falsos, síntesis de vitamina D, bronceado y quemaduras</td>
+</tr>
+<tr>
+<td><strong>Rayos X</strong></td>
+<td>0,01 – 10 nm</td>
+<td>30 PHz – 30 EHz</td>
+<td>Radiografías, tomografía computarizada (escáner), control de equipaje</td>
+</tr>
+<tr>
+<td><strong>Rayos gamma</strong></td>
+<td>Menor que 0,01 nm</td>
+<td>Mayor que 30 EHz</td>
+<td>Radioterapia contra el cáncer, esterilización de material médico, astronomía de alta energía</td>
+</tr>
+</tbody>
+</table>
+<p>(1 PHz = 10<sup>15</sup> Hz; 1 EHz = 10<sup>18</sup> Hz.)</p>
+<p>Dentro de la luz visible, el orden de los colores de menor a mayor frecuencia es <strong>rojo, naranjo, amarillo, verde, azul, añil y violeta</strong>. El rojo tiene la mayor longitud de onda del visible (≈ 700 nm) y el violeta la menor (≈ 400 nm). Por eso el rango que queda «debajo del rojo» en frecuencia se llama <strong>infra</strong>rrojo y el que queda «más allá del violeta», <strong>ultra</strong>violeta.</p>
+<div class="tip">
+<p><strong>Una regla mnemotécnica para el orden.</strong> De menor a mayor frecuencia: <strong>R</strong>adio, <strong>M</strong>icroondas, <strong>I</strong>nfrarrojo, <strong>V</strong>isible, <strong>U</strong>ltravioleta, <strong>X</strong>, <strong>G</strong>amma. Si te piden ordenar por longitud de onda de menor a mayor, el orden es exactamente el inverso. Y recuerda que <strong>toda</strong> la tabla viaja a la misma rapidez en el vacío: el orden por frecuencia <strong>no</strong> es un orden de rapidez.</p>
+</div>
+<h3 id="c-energia-y-riesgo-radiacion-ionizante-y-no-ioniza">c. Energía y riesgo: radiación ionizante y no ionizante</h3>
+<p>Cuanto mayor es la frecuencia, más energía transporta cada paquete de radiación. A partir de cierta frecuencia —la parte alta del ultravioleta, los rayos X y los rayos gamma— esa energía alcanza para <strong>arrancar electrones de los átomos</strong>: es la <strong>radiación ionizante</strong>, que puede dañar el ADN de las células. Por eso las radiografías se toman con la mínima exposición y el personal que las opera se protege con plomo, y por eso el ultravioleta del Sol produce quemaduras y aumenta el riesgo de cáncer de piel.</p>
+<p>Las ondas de radio, las microondas, el infrarrojo y la luz visible son <strong>no ionizantes</strong>: pueden calentar un material (el horno microondas agita las moléculas de agua de los alimentos), pero no rompen los átomos.</p>
+<div class="nota">
+<p><strong>Intensidad y frecuencia no son lo mismo.</strong> Una lámpara roja muy potente emite mucha energía en total, pero cada paquete de luz roja tiene poca energía; no puede producir lo que sí produce el ultravioleta, aunque sea débil. Lo que decide si una radiación es ionizante es su <strong>frecuencia</strong>, no su intensidad.</p>
+</div>
+<h3 id="d-dispositivos-que-funcionan-con-ondas-electromagn">d. Dispositivos que funcionan con ondas electromagnéticas</h3>
+<p>El temario menciona varios artefactos. Todos se entienden con las ideas de este capítulo:</p>
+<table>
+<thead>
+<tr>
+<th>Dispositivo</th>
+<th>Rango que usa</th>
+<th>Idea física</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Radio</strong></td>
+<td>Radio (AM: 535–1 705 kHz; FM: 88–108 MHz)</td>
+<td>Cada emisora transmite en su frecuencia; el receptor se «sintoniza» para captar solo esa</td>
+</tr>
+<tr>
+<td><strong>Teléfono móvil y comunicación inalámbrica</strong></td>
+<td>Microondas (de unos 700 MHz a varios GHz; Wi-Fi a 2,4 y 5 GHz)</td>
+<td>El teléfono es a la vez emisor y receptor; la información va codificada en la onda</td>
+</tr>
+<tr>
+<td><strong>Televisor</strong></td>
+<td>Radio y microondas (señal abierta o satelital); luz visible (pantalla)</td>
+<td>Recibe la señal por antena y la convierte en imagen formada por puntos de luz de colores</td>
+</tr>
+<tr>
+<td><strong>Radar</strong></td>
+<td>Microondas</td>
+<td>Emite pulsos que se <strong>reflejan</strong> en un objeto; el tiempo de ida y vuelta da la distancia y el <strong>efecto Doppler</strong> da la velocidad</td>
+</tr>
+<tr>
+<td><strong>Radiotelescopio</strong></td>
+<td>Radio</td>
+<td>Una gran antena parabólica <strong>refleja</strong> y concentra ondas de radio débiles del espacio. En Chile opera ALMA, en el desierto de Atacama</td>
+</tr>
+<tr>
+<td><strong>Rayo láser</strong></td>
+<td>Visible o infrarrojo</td>
+<td>Luz de una sola frecuencia, muy concentrada y que se propaga casi sin abrirse</td>
+</tr>
+<tr>
+<td><strong>Fibra óptica</strong></td>
+<td>Infrarrojo cercano (y visible)</td>
+<td>La luz queda atrapada dentro de un hilo de vidrio por <strong>reflexión total interna</strong> y viaja kilómetros con muy poca pérdida</td>
+</tr>
+</tbody>
+</table>
+<p>Los dispositivos ópticos (prismáticos, telescopios reflector y refractor) se estudian en el capítulo 3, junto con espejos y lentes.</p>
+<div class="ejemplo">
+<p><strong>Un radar que mide distancia.</strong> Un radar de aeropuerto emite un pulso de microondas que vuelve reflejado desde un avión 2 × 10<sup>−4</sup> s después. La onda viaja a <em>c</em> = 3 × 10<sup>8</sup> m/s. En ese tiempo recorre <em>d</em> = <em>c</em> · <em>t</em> = 3 × 10<sup>8</sup> m/s · 2 × 10<sup>−4</sup> s = 6 × 10<sup>4</sup> m = 60 km. Pero ese es el camino de <strong>ida y vuelta</strong>: el avión está a la mitad, <strong>30 km</strong>. Olvidar dividir por dos es el error de cálculo típico en este tipo de pregunta.</p>
+</div>
+<h2 id="7-fenomenos-ondulatorios">7. Fenómenos ondulatorios</h2>
+<p>Cuando una onda llega a la frontera con otro medio, encuentra un obstáculo o se cruza con otra onda, le ocurren cosas que no le ocurrirían a una pelota. Estos comportamientos son la <strong>firma</strong> de lo ondulatorio: si algo los muestra, es una onda. El temario los pide <strong>en términos cualitativos</strong>: hay que saber reconocerlos, explicarlos y predecir qué pasa, no calcularlos con ecuaciones.</p>
+<figure><img src="img/cap01-ondas/fenomenos-ondulatorios.svg" alt="Cuatro paneles: reflexión, con un rayo que incide sobre una superficie y rebota con el mismo ángulo; refracción, con un rayo que se quiebra al pasar del aire al agua; difracción, con frentes de onda planos que se abren en semicírculos al pasar por una rendija; interferencia, con dos fuentes cuyos frentes circulares se superponen"><figcaption>Figura 7. Reflexión, refracción, difracción e interferencia. Diagrama propio.</figcaption></figure>
+
+<h3 id="a-reflexion">a. Reflexión</h3>
+<p>La <strong>reflexión</strong> ocurre cuando una onda llega a la frontera con otro medio y <strong>rebota</strong>, volviendo al medio del que venía. La onda reflejada tiene la <strong>misma rapidez, la misma frecuencia y la misma longitud de onda</strong> que la incidente, porque sigue en el mismo medio.</p>
+<p>Su ley es simple: <strong>el ángulo de incidencia es igual al ángulo de reflexión</strong>, medidos ambos respecto de la <strong>normal</strong> (la línea perpendicular a la superficie en el punto donde llega la onda).</p>
+<p>Ejemplos: el eco (sonido reflejado en una pared o un cerro), la imagen en un espejo (luz reflejada), el radar (microondas reflejadas en un avión) y las antenas parabólicas, que reflejan las ondas hacia un receptor ubicado en su foco.</p>
+<h3 id="b-refraccion">b. Refracción</h3>
+<p>La <strong>refracción</strong> ocurre cuando una onda <strong>pasa</strong> de un medio a otro y cambia su rapidez. Si llega de forma oblicua, ese cambio de rapidez hace que <strong>cambie de dirección</strong>: la onda se «quiebra» en la frontera.</p>
+<ul>
+<li>Al pasar a un medio donde viaja <strong>más lento</strong>, la onda se acerca a la normal.</li>
+<li>Al pasar a un medio donde viaja <strong>más rápido</strong>, se aleja de la normal.</li>
+<li>Si llega <strong>perpendicular</strong> a la frontera, cambia de rapidez pero no de dirección.</li>
+</ul>
+<p>Como vimos en la sección 5, en la refracción <strong>la frecuencia se mantiene</strong>, mientras que la rapidez y la longitud de onda cambian.</p>
+<p>Ejemplos: una bombilla dentro de un vaso de agua parece quebrada; una piscina parece menos profunda de lo que es; las olas giran al acercarse a la playa y terminan llegando casi paralelas a la orilla, porque se frenan en el agua poco profunda.</p>
+<div class="nota">
+<p><strong>Reflexión total interna.</strong> Cuando la luz va de un medio donde es lenta (vidrio) a uno donde es rápida (aire), se aleja de la normal. Si el ángulo de llegada es suficientemente grande, la luz ya no puede salir y <strong>se refleja completa</strong> hacia adentro. Así funciona la <strong>fibra óptica</strong>: la luz rebota de pared en pared a lo largo del hilo de vidrio sin escaparse.</p>
+</div>
+<h3 id="c-absorcion">c. Absorción</h3>
+<p>La <strong>absorción</strong> ocurre cuando el medio o el objeto sobre el que incide la onda <strong>se queda con parte de su energía</strong>, que casi siempre se transforma en energía térmica. Una onda que se absorbe pierde amplitud a medida que avanza.</p>
+<p>Cada material absorbe de manera distinta según la frecuencia:</p>
+<table>
+<thead>
+<tr>
+<th>Material</th>
+<th>Qué absorbe</th>
+<th>Consecuencia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Capa de ozono</td>
+<td>Gran parte del ultravioleta del Sol</td>
+<td>Protege a los seres vivos de la radiación más dañina</td>
+</tr>
+<tr>
+<td>Agua de los alimentos</td>
+<td>Microondas</td>
+<td>El horno microondas calienta la comida</td>
+</tr>
+<tr>
+<td>Huesos (calcio)</td>
+<td>Rayos X, más que los tejidos blandos</td>
+<td>En la radiografía los huesos se ven claros</td>
+</tr>
+<tr>
+<td>Ropa oscura</td>
+<td>Luz visible</td>
+<td>Se calienta más al sol que la ropa clara</td>
+</tr>
+<tr>
+<td>Vidrio común</td>
+<td>Ultravioleta (parcialmente)</td>
+<td>Es difícil broncearse detrás de una ventana</td>
+</tr>
+</tbody>
+</table>
+<p>Reflexión, refracción y absorción suelen ocurrir <strong>a la vez</strong>: cuando la luz llega al agua de un lago, una parte se refleja (por eso ves el cielo en la superficie), otra se refracta hacia adentro y, a medida que avanza, se va absorbiendo (por eso el fondo de un lago profundo está oscuro).</p>
+<h3 id="d-difraccion">d. Difracción</h3>
+<p>La <strong>difracción</strong> es la capacidad de una onda de <strong>rodear un obstáculo</strong> o de <strong>abrirse</strong> al pasar por una rendija. Una pelota que pasa por una puerta sigue derecho; una onda que pasa por la misma puerta se desparrama hacia los lados.</p>
+<p>La regla que manda es la comparación entre <strong>la longitud de onda y el tamaño del obstáculo o la abertura</strong>:</p>
+<ul>
+<li>Si λ es <strong>comparable o mayor</strong> que la abertura, la difracción es <strong>muy notoria</strong>.</li>
+<li>Si λ es <strong>mucho menor</strong> que la abertura, la difracción es <strong>casi imperceptible</strong> y la onda sigue en línea recta.</li>
+</ul>
+<p>Esto explica un hecho cotidiano: <strong>oyes</strong> a alguien que habla detrás de una esquina, pero <strong>no lo ves</strong>. El sonido de la voz tiene longitudes de onda de centímetros a metros, como una puerta; la luz, de menos de una milésima de milímetro. El sonido se difracta en la puerta y dobla la esquina; la luz prácticamente no, y por eso <strong>se propaga en línea recta</strong> y forma sombras nítidas.</p>
+<div class="tip">
+<p><strong>La difracción en las comunicaciones.</strong> Las ondas de radio largas (AM, cientos de metros) rodean cerros y edificios y llegan a lugares sin línea directa con la antena. Las de longitud corta (FM, unos 3 m; telefonía, centímetros) se difractan mucho menos y necesitan antenas más cercanas o en lugares altos. Si una pregunta compara la cobertura de dos señales en un valle, la clave suele estar aquí.</p>
+</div>
+<h3 id="e-interferencia">e. Interferencia</h3>
+<p>Cuando dos ondas coinciden en el mismo lugar al mismo tiempo, <strong>sus efectos se suman</strong>: es el <strong>principio de superposición</strong>. Después de cruzarse, cada onda sigue su camino como si nada hubiera pasado.</p>
+<ul>
+<li><strong>Interferencia constructiva</strong>: las ondas llegan <strong>en fase</strong> (cresta con cresta). Se refuerzan y la amplitud resultante es mayor.</li>
+<li><strong>Interferencia destructiva</strong>: las ondas llegan <strong>en oposición de fase</strong> (cresta con valle). Se debilitan y, si tienen la misma amplitud, se anulan en ese punto.</li>
+</ul>
+<p>Ejemplos: los colores de una pompa de jabón o de una mancha de aceite (interferencia de luz reflejada en las dos caras de una película delgada); los audífonos con cancelación de ruido, que emiten una onda en oposición de fase con el ruido exterior; las zonas de mala señal dentro de una casa, donde se cruzan la señal directa y la reflejada.</p>
+<div class="nota">
+<p><strong>Por qué la interferencia y la difracción importan tanto.</strong> Son los comportamientos que <strong>ninguna partícula</strong> muestra. En 1801, Thomas Young hizo pasar luz por dos rendijas muy juntas y obtuvo en una pantalla franjas claras y oscuras alternadas: interferencia. Fue la evidencia experimental de que la luz se comporta como una onda.</p>
+</div>
+<h3 id="f-efecto-doppler">f. Efecto Doppler</h3>
+<p>El <strong>efecto Doppler</strong> es el cambio en la <strong>frecuencia percibida</strong> cuando la fuente y el observador se <strong>acercan o se alejan</strong> entre sí.</p>
+<ul>
+<li>Si se <strong>acercan</strong>, los frentes de onda llegan más juntos: la frecuencia percibida es <strong>mayor</strong> (la longitud de onda percibida, menor).</li>
+<li>Si se <strong>alejan</strong>, los frentes llegan más separados: la frecuencia percibida es <strong>menor</strong> (la longitud de onda percibida, mayor).</li>
+</ul>
+<p>La fuente no cambia su frecuencia: lo que cambia es la que <strong>recibe</strong> el observador.</p>
+<figure><img src="img/cap01-ondas/efecto-doppler.svg" alt="Una fuente que se mueve hacia la derecha emite frentes de onda circulares que quedan más juntos delante de ella y más separados detrás. Un observador adelante percibe mayor frecuencia y uno detrás, menor frecuencia"><figcaption>Figura 8. Efecto Doppler: delante de la fuente en movimiento los frentes se apretujan; detrás se separan. Diagrama propio.</figcaption></figure>
+
+<p>Con el sonido se percibe a diario: la sirena de una ambulancia suena más aguda mientras se acerca y más grave después de pasar. Con las ondas electromagnéticas tiene aplicaciones que el temario destaca:</p>
+<table>
+<thead>
+<tr>
+<th>Aplicación</th>
+<th>Cómo usa el efecto Doppler</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Radar de velocidad</strong> (carabineros, meteorología)</td>
+<td>Compara la frecuencia emitida con la reflejada en un auto o en una nube: la diferencia indica su velocidad y si se acerca o se aleja</td>
+</tr>
+<tr>
+<td><strong>Ecografía Doppler</strong></td>
+<td>Mide la rapidez de la sangre en los vasos con ultrasonido reflejado en los glóbulos rojos</td>
+</tr>
+<tr>
+<td><strong>Astronomía</strong></td>
+<td>La luz de una galaxia que se aleja llega con menor frecuencia, desplazada hacia el rojo (<strong>corrimiento al rojo</strong>); si se acerca, hacia el azul. El corrimiento al rojo de casi todas las galaxias es una de las evidencias de que el universo se expande (capítulo 13)</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Lo que el efecto Doppler no es.</strong> No es un cambio de <strong>intensidad</strong> (que la sirena suene más fuerte al acercarse es otro efecto, la distancia). Tampoco cambia la <strong>rapidez</strong> de la onda en el medio. Lo que cambia es la <strong>frecuencia percibida</strong>. Y el «corrimiento al rojo» no significa que la galaxia se vea roja: significa que todas sus líneas del espectro se desplazaron hacia frecuencias menores.</p>
+</div>
+<h3 id="g-resumen-de-los-fenomenos">g. Resumen de los fenómenos</h3>
+<table>
+<thead>
+<tr>
+<th>Fenómeno</th>
+<th>Qué ocurre</th>
+<th>¿Cambia <em>f</em>?</th>
+<th>¿Cambia <em>v</em>?</th>
+<th>Ejemplo con ondas electromagnéticas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reflexión</td>
+<td>La onda rebota en la frontera</td>
+<td>No</td>
+<td>No</td>
+<td>Espejo, radar</td>
+</tr>
+<tr>
+<td>Refracción</td>
+<td>La onda pasa a otro medio y se desvía</td>
+<td>No</td>
+<td>Sí</td>
+<td>Lentes, bombilla «quebrada»</td>
+</tr>
+<tr>
+<td>Absorción</td>
+<td>El medio se queda con energía</td>
+<td>No</td>
+<td>No</td>
+<td>Ozono y UV, horno microondas</td>
+</tr>
+<tr>
+<td>Difracción</td>
+<td>La onda rodea obstáculos o se abre en rendijas</td>
+<td>No</td>
+<td>No</td>
+<td>Radio AM que cubre valles</td>
+</tr>
+<tr>
+<td>Interferencia</td>
+<td>Dos ondas se suman o se anulan</td>
+<td>No</td>
+<td>No</td>
+<td>Colores de una pompa de jabón</td>
+</tr>
+<tr>
+<td>Efecto Doppler</td>
+<td>Cambia la <em>f</em> percibida por el movimiento relativo</td>
+<td>Sí, la percibida</td>
+<td>No</td>
+<td>Radar de velocidad, corrimiento al rojo</td>
+</tr>
+</tbody>
+</table>
+<h2 id="ejemplos-paes-resueltos">Ejemplos PAES resueltos</h2>
+<p>Cuatro ítems al estilo de la prueba, resueltos paso a paso. Cúbrelos primero y después compara.</p>
+<div class="ejemplo">
+<p><strong>Ejemplo 1 (Procesar y analizar la evidencia).</strong> En una cubeta de ondas con agua de profundidad constante, un vibrador genera ondas planas. Un grupo de estudiantes varía la frecuencia del vibrador y mide, con una regla sobre la sombra proyectada, la distancia entre dos crestas consecutivas:</p>
+<table>
+<thead>
+<tr>
+<th>Frecuencia (Hz)</th>
+<th>Distancia entre crestas (cm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5</td>
+<td>6,0</td>
+</tr>
+<tr>
+<td>10</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td>15</td>
+<td>2,0</td>
+</tr>
+<tr>
+<td>20</td>
+<td>1,5</td>
+</tr>
+</tbody>
+</table>
+<p>¿Cuál de las siguientes conclusiones es coherente con estos datos?</p>
+<p>A) La rapidez de las ondas aumenta al aumentar la frecuencia.
+B) La longitud de onda es directamente proporcional a la frecuencia.
+C) La rapidez de las ondas se mantiene en 30 cm/s en todas las mediciones.
+D) La longitud de onda disminuye porque las ondas pierden energía al avanzar.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué se midió.</strong> La distancia entre crestas consecutivas es la longitud de onda λ. La variable independiente es la frecuencia; la dependiente, λ.</li>
+<li><strong>Buscar la relación.</strong> Al duplicar la frecuencia (5 → 10 Hz), λ se reduce a la mitad (6,0 → 3,0 cm); al triplicarla (5 → 15 Hz), λ se reduce a un tercio (2,0 cm). Es una proporcionalidad <strong>inversa</strong>, así que B cae.</li>
+<li><strong>Calcular la rapidez en cada fila.</strong> <em>v</em> = λ · <em>f</em>: 6,0 · 5 = 30; 3,0 · 10 = 30; 2,0 · 15 = 30; 1,5 · 20 = 30 cm/s. La rapidez es <strong>constante</strong>, y eso descarta A.</li>
+<li><strong>Revisar D.</strong> Los datos no tienen información sobre energía ni sobre amplitud: la explicación es un sobre-alcance. Lo que cambia λ es la frecuencia de la fuente, con el medio fijo.</li>
+</ol>
+<p><strong>Clave: C.</strong></p>
+<p><strong>Lo que evalúa.</strong> Que identifiques una relación entre variables con una operación matemática (el producto λ · <em>f</em>) y que reconozcas que en un medio fijo la rapidez no depende de la frecuencia.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 2 (Planificar y conducir una investigación).</strong> Una estudiante quiere averiguar si la rapidez de un pulso en un resorte largo depende de la tensión con que se estira el resorte. Dispone de un resorte, un cronómetro, una huincha para medir y un dinamómetro.</p>
+<p>¿Cuál de los siguientes procedimientos le permite responder su pregunta?</p>
+<p>A) Estirar el resorte siempre con la misma tensión y generar pulsos de distinta amplitud, midiendo el tiempo que tardan en recorrerlo.
+B) Estirar el resorte con distintas tensiones, medidas con el dinamómetro, y en cada caso medir el tiempo que tarda un pulso en recorrer la misma longitud.
+C) Estirar el resorte con distintas tensiones y en cada caso contar cuántos pulsos se generan en un minuto.
+D) Usar resortes de distinto material con la misma tensión y medir el tiempo que tarda un pulso en recorrer cada uno.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Identificar las variables de la pregunta.</strong> Independiente: la <strong>tensión</strong> (lo que se quiere variar). Dependiente: la <strong>rapidez del pulso</strong>, que se obtiene de distancia / tiempo.</li>
+<li><strong>Revisar cada procedimiento.</strong> A mantiene fija la tensión: cambia la amplitud, que no es la variable de la pregunta. C varía bien la tensión, pero mide el número de pulsos por minuto, que depende de la mano de la estudiante y no de la rapidez. D cambia el material, que es otra variable.</li>
+<li><strong>B</strong> varía la tensión, la mide con el instrumento adecuado y calcula la rapidez con una distancia fija y el tiempo medido. Controla todo lo demás (mismo resorte, misma longitud).</li>
+</ol>
+<p><strong>Clave: B.</strong></p>
+<p><strong>Lo que evalúa.</strong> Que asocies cada variable de la pregunta con lo que se manipula y lo que se mide, y los instrumentos con esas variables.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 3 (Evaluar).</strong> Una empresa de telecomunicaciones debe dar cobertura de radio a un pueblo ubicado en un valle profundo, sin línea de visión directa con la antena más cercana. Un técnico propone transmitir en la banda AM, con longitudes de onda de unos 300 m, en lugar de la banda FM, de unos 3 m. Justifica que las ondas largas «doblan» mejor los cerros.</p>
+<p>¿Cuál de las siguientes afirmaciones evalúa correctamente la justificación del técnico?</p>
+<p>A) Es correcta, porque la difracción es más notoria cuando la longitud de onda es comparable o mayor que el tamaño del obstáculo.
+B) Es incorrecta, porque las ondas AM viajan más lento que las FM y por eso no alcanzan el valle.
+C) Es correcta, porque las ondas AM tienen mayor frecuencia y por eso transportan más energía.
+D) Es incorrecta, porque las ondas electromagnéticas se propagan siempre en línea recta y no pueden rodear obstáculos.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué fenómeno está en juego.</strong> Rodear un obstáculo es <strong>difracción</strong>. Su intensidad depende de la relación entre λ y el tamaño del obstáculo.</li>
+<li><strong>Aplicarlo.</strong> Con λ ≈ 300 m, las ondas AM son comparables a los cerros y se difractan notoriamente; con λ ≈ 3 m, las FM mucho menos. La justificación del técnico es correcta: A.</li>
+<li><strong>Descartar.</strong> B es falsa: todas las ondas electromagnéticas viajan a la misma rapidez en el aire (≈ <em>c</em>). C invierte la relación: mayor longitud de onda significa <strong>menor</strong> frecuencia. D confunde la aproximación de la luz visible (λ diminuta) con una regla para todas las ondas.</li>
+</ol>
+<p><strong>Clave: A.</strong></p>
+<p><strong>Lo que evalúa.</strong> Que evalúes la coherencia entre una propuesta tecnológica y el modelo ondulatorio que la sustenta.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 4 (Observar y plantear preguntas).</strong> Un astrónomo compara el espectro de la luz de una galaxia lejana con el de una lámpara de hidrógeno en el laboratorio. Observa el mismo patrón de líneas, pero en la galaxia <strong>todas</strong> aparecen desplazadas hacia longitudes de onda mayores.</p>
+<p>¿Cuál de las siguientes hipótesis permite explicar, con el modelo ondulatorio, esta observación?</p>
+<p>A) La galaxia se aleja de la Tierra, por lo que la frecuencia de su luz se percibe menor.
+B) La galaxia se acerca a la Tierra, por lo que la frecuencia de su luz se percibe menor.
+C) La luz de la galaxia viaja más lento que la de la lámpara, por lo que su longitud de onda es mayor.
+D) La galaxia contiene más hidrógeno que la lámpara, por lo que su luz tiene mayor amplitud.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué se observa.</strong> Longitudes de onda mayores significa frecuencias menores (con la misma rapidez <em>c</em>): es un <strong>corrimiento al rojo</strong>.</li>
+<li><strong>Qué fenómeno lo produce.</strong> El efecto Doppler: si la fuente se <strong>aleja</strong>, el observador percibe <strong>menor</strong> frecuencia. A es coherente.</li>
+<li><strong>Descartar.</strong> B invierte la dirección: al acercarse se percibe <strong>mayor</strong> frecuencia (corrimiento al azul). C contradice que la luz viaja a <em>c</em> en el vacío, cualquiera sea su fuente. D confunde amplitud (brillo) con longitud de onda: más hidrógeno no desplaza las líneas.</li>
+</ol>
+<p><strong>Clave: A.</strong></p>
+<p><strong>Lo que evalúa.</strong> Que formules una hipótesis coherente con una observación y con el modelo científico que la explica. Esta misma observación, repetida en muchas galaxias, es una de las evidencias de la expansión del universo (capítulo 13).</p>
+</div>
+<h2 id="evaluacion-formativa">Evaluación formativa</h2>
+<p>Veinte preguntas sobre la naturaleza de las ondas, su clasificación, sus elementos, la rapidez de propagación, el espectro electromagnético y los fenómenos ondulatorios. Responde todas y luego revisa las explicaciones.</p>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>1.</strong> Un estudiante deja caer una piedra en un estanque donde flota una hoja. Las ondas pasan bajo la hoja. ¿Qué le ocurre a la hoja?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Sube y baja en torno a su posición, sin avanzar con las ondas.</li>
+    <li data-letra="B">Avanza con las ondas hasta la orilla del estanque.</li>
+    <li data-letra="C">Se hunde porque la onda le transfiere su masa.</li>
+    <li data-letra="D">Se acerca al punto donde cayó la piedra.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Una onda transporta energía, no materia. El agua bajo la hoja oscila en su lugar, y la hoja con ella. Pensar que la hoja viaja hasta la orilla es la confusión típica entre el avance de la perturbación y el movimiento del medio.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>2.</strong> ¿Qué característica distingue a una onda electromagnética de una onda mecánica?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Puede propagarse en el vacío.</li>
+    <li data-letra="B">Transporta energía de un lugar a otro.</li>
+    <li data-letra="C">Tiene frecuencia y longitud de onda.</li>
+    <li data-letra="D">Puede reflejarse en una superficie.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Todas las ondas transportan energía, tienen frecuencia y longitud de onda y pueden reflejarse. Lo exclusivo de las electromagnéticas es que no necesitan medio material: por eso la luz del Sol llega a la Tierra a través del espacio casi vacío.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>3.</strong> Un timbre suena dentro de una campana de vidrio y se extrae el aire poco a poco. El sonido se debilita hasta no oírse, pero el martillo del timbre se sigue viendo. ¿Qué conclusión permite este experimento?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La luz necesita aire para propagarse, pero el sonido no.</li>
+    <li data-letra="B">El sonido y la luz son ondas mecánicas longitudinales.</li>
+    <li data-letra="C">El vidrio de la campana absorbe el sonido cuando no hay aire.</li>
+    <li data-letra="D">El sonido necesita un medio material; la luz no.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Al quitar el medio (el aire) desaparece el sonido, pero no la luz. La conclusión es que el sonido es una onda mecánica y la luz no lo es. La opción C inventa una causa que el experimento no pone a prueba: el vidrio es el mismo antes y después.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>4.</strong> En una onda transversal que viaja por una cuerda horizontal hacia la derecha, ¿cómo se mueve un punto de la cuerda?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Hacia la derecha, junto con la onda.</li>
+    <li data-letra="B">Hacia arriba y hacia abajo, perpendicular a la propagación.</li>
+    <li data-letra="C">Hacia adelante y hacia atrás, en la dirección de propagación.</li>
+    <li data-letra="D">En círculos, avanzando lentamente hacia la derecha.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>En una onda transversal, la oscilación del medio es perpendicular a la dirección en que avanza la onda. Moverse adelante y atrás, en la misma dirección, es lo que ocurre en una onda longitudinal.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>5.</strong> ¿Cuál de las siguientes ondas es mecánica y longitudinal?</p>
+  <ol class="alternativas">
+    <li data-letra="A">El sonido que se propaga en el aire.</li>
+    <li data-letra="B">La luz que emite una ampolleta.</li>
+    <li data-letra="C">La onda en una cuerda de guitarra.</li>
+    <li data-letra="D">La señal de una radio FM.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>El sonido necesita un medio (mecánica) y el aire se comprime y se enrarece en la dirección de avance (longitudinal). La cuerda es mecánica pero transversal; la luz y la radio son electromagnéticas y transversales.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>6.</strong> Durante un sismo, un sismógrafo ubicado al otro lado de la Tierra registra ondas P, pero no ondas S. ¿Qué propiedad de las ondas S explica este registro?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Son más rápidas que las ondas P y llegan antes.</li>
+    <li data-letra="B">Son longitudinales y se amortiguan en los sólidos.</li>
+    <li data-letra="C">Son transversales y no se propagan en los líquidos.</li>
+    <li data-letra="D">Son electromagnéticas y el núcleo las absorbe.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Las ondas S son transversales y un líquido no transmite ese tipo de oscilación. Como el núcleo externo es líquido, las ondas S no lo cruzan. Las ondas P, longitudinales, sí lo atraviesan. Además, las P son más rápidas que las S, no al revés.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>7.</strong> Un gráfico de desplazamiento versus posición de una onda muestra que la curva oscila entre −4 cm y +4 cm y que hay 3 crestas completas en 1,5 m. ¿Cuáles son la amplitud y la longitud de onda?</p>
+  <ol class="alternativas">
+    <li data-letra="A">A = 8 cm y λ = 0,5 m.</li>
+    <li data-letra="B">A = 4 cm y λ = 0,5 m.</li>
+    <li data-letra="C">A = 4 cm y λ = 1,5 m.</li>
+    <li data-letra="D">A = 8 cm y λ = 3,0 m.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>La amplitud se mide desde el equilibrio hasta la cresta: 4 cm (8 cm es la distancia de cresta a valle, el doble). Tres longitudes de onda caben en 1,5 m, así que λ = 1,5 m / 3 = 0,5 m.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>8.</strong> Una boya sube y baja 12 veces en un minuto por el paso de las olas. ¿Cuál es el período de las olas?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,2 s</li>
+    <li data-letra="B">1,2 s</li>
+    <li data-letra="C">2,0 s</li>
+    <li data-letra="D">5,0 s</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>La frecuencia es 12 oscilaciones / 60 s = 0,2 Hz, y el período es su inverso: T = 1 / 0,2 Hz = 5 s. El distractor de 0,2 s surge de confundir la frecuencia con el período.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>9.</strong> Un gráfico de desplazamiento versus tiempo de un punto de una cuerda muestra dos crestas separadas por 0,25 s. ¿Qué frecuencia tiene la onda?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,25 Hz</li>
+    <li data-letra="B">0,50 Hz</li>
+    <li data-letra="C">2,0 Hz</li>
+    <li data-letra="D">4,0 Hz</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>En un gráfico de desplazamiento versus tiempo, la separación entre crestas es el período: T = 0,25 s. La frecuencia es f = 1 / T = 4 Hz. Quien lea ese 0,25 como longitud de onda o como frecuencia cae en los distractores.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>10.</strong> Una onda en una cuerda tiene una longitud de onda de 0,8 m y una frecuencia de 5 Hz. ¿Cuál es su rapidez de propagación?</p>
+  <ol class="alternativas">
+    <li data-letra="A">6,3 m/s</li>
+    <li data-letra="B">5,8 m/s</li>
+    <li data-letra="C">4,0 m/s</li>
+    <li data-letra="D">0,16 m/s</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>v = λ · f = 0,8 m · 5 Hz = 4 m/s. Sumar los valores (5,8) o dividir la frecuencia por λ (6,25) son errores de fórmula; 0,16 resulta de dividir λ por f.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>11.</strong> Una emisora de radio transmite a 90 MHz. Si las ondas de radio viajan a 3 × 10<sup>8</sup> m/s, ¿cuál es su longitud de onda?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,30 m</li>
+    <li data-letra="B">2,7 m</li>
+    <li data-letra="C">3,3 m</li>
+    <li data-letra="D">27 m</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>λ = c / f = (3 × 10<sup>8</sup> m/s) / (9 × 10<sup>7</sup> Hz) ≈ 3,3 m. Multiplicar en vez de dividir, u olvidar que 1 MHz = 10<sup>6</sup> Hz, lleva a los distractores.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>12.</strong> En una cubeta de ondas con profundidad constante se duplica la frecuencia del vibrador. ¿Qué ocurre con la rapidez y con la longitud de onda?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La rapidez se duplica y la longitud de onda no cambia.</li>
+    <li data-letra="B">La rapidez no cambia y la longitud de onda se reduce a la mitad.</li>
+    <li data-letra="C">La rapidez no cambia y la longitud de onda se duplica.</li>
+    <li data-letra="D">La rapidez se reduce a la mitad y la longitud de onda no cambia.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>La rapidez la determina el medio, que no cambió (misma agua, misma profundidad). Como v = λ · f es constante, si f se duplica, λ se reduce a la mitad.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>13.</strong> Una onda de luz pasa del aire al vidrio, donde viaja más lento. ¿Qué ocurre con su frecuencia y con su longitud de onda?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La frecuencia disminuye y la longitud de onda se mantiene.</li>
+    <li data-letra="B">La frecuencia se mantiene y la longitud de onda disminuye.</li>
+    <li data-letra="C">La frecuencia se mantiene y la longitud de onda aumenta.</li>
+    <li data-letra="D">La frecuencia y la longitud de onda aumentan.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Al cambiar de medio, la frecuencia se mantiene porque la fija la fuente. Como la rapidez baja y λ = v / f, la longitud de onda baja en la misma proporción.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>14.</strong> ¿Cuál de las siguientes listas ordena las ondas electromagnéticas de menor a mayor frecuencia?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Rayos X, ultravioleta, luz visible, microondas.</li>
+    <li data-letra="B">Luz visible, infrarrojo, microondas, ondas de radio.</li>
+    <li data-letra="C">Microondas, ondas de radio, luz visible, rayos gamma.</li>
+    <li data-letra="D">Ondas de radio, infrarrojo, ultravioleta, rayos X.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>El orden del espectro de menor a mayor frecuencia es radio, microondas, infrarrojo, visible, ultravioleta, rayos X y gamma. Las opciones A y B están en orden inverso, y la C pone las microondas antes que las ondas de radio.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>15.</strong> Comparada con la luz visible, ¿qué características tiene la radiación ultravioleta en el vacío?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Mayor frecuencia, menor longitud de onda e igual rapidez.</li>
+    <li data-letra="B">Mayor frecuencia, mayor longitud de onda e igual rapidez.</li>
+    <li data-letra="C">Menor frecuencia, mayor longitud de onda y menor rapidez.</li>
+    <li data-letra="D">Mayor frecuencia, menor longitud de onda y mayor rapidez.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>El ultravioleta está «más allá del violeta»: tiene mayor frecuencia y, como todas viajan a c en el vacío, menor longitud de onda. La rapidez es la misma para todo el espectro.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>16.</strong> ¿Qué propiedad hace que los rayos X sean útiles para obtener radiografías?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Atraviesan los tejidos blandos y los huesos los absorben más.</li>
+    <li data-letra="B">Se reflejan en la piel y forman una imagen del cuerpo.</li>
+    <li data-letra="C">Viajan más rápido que la luz visible dentro del cuerpo.</li>
+    <li data-letra="D">Tienen longitudes de onda mayores que la luz visible.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La radiografía se forma porque los tejidos absorben los rayos X en distinta medida: los huesos, más; los tejidos blandos, menos. Tienen longitudes de onda mucho menores que la luz visible, no mayores.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>17.</strong> Un radar emite un pulso de microondas que regresa reflejado desde un avión 4 × 10<sup>−4</sup> s después. Si las microondas viajan a 3 × 10<sup>8</sup> m/s, ¿a qué distancia está el avión?</p>
+  <ol class="alternativas">
+    <li data-letra="A">120 km</li>
+    <li data-letra="B">75 km</li>
+    <li data-letra="C">60 km</li>
+    <li data-letra="D">12 km</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>En 4 × 10<sup>−4</sup> s la onda recorre 3 × 10<sup>8</sup> · 4 × 10<sup>−4</sup> = 1,2 × 10<sup>5</sup> m = 120 km, pero eso es ida y vuelta. El avión está a la mitad: 60 km. Olvidar dividir por dos da 120 km.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>18.</strong> Una persona oye la voz de alguien que habla detrás de una esquina, pero no puede verlo. ¿Qué explica esta diferencia?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La luz viaja más rápido que el sonido y no alcanza a doblar la esquina.</li>
+    <li data-letra="B">El sonido tiene longitudes de onda comparables a la abertura y se difracta mucho más que la luz.</li>
+    <li data-letra="C">El sonido se refleja en las paredes y la luz se absorbe en ellas por completo.</li>
+    <li data-letra="D">La luz es una onda longitudinal y no puede rodear los obstáculos.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>La difracción es notoria cuando la longitud de onda es comparable al obstáculo. La voz tiene λ de centímetros a metros, como una puerta; la luz, menos de una milésima de milímetro. Por eso el sonido dobla la esquina y la luz sigue en línea recta.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>19.</strong> Dos ondas de igual amplitud llegan a un mismo punto: una con una cresta y la otra con un valle. ¿Qué ocurre en ese punto?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La amplitud resultante se duplica por interferencia constructiva.</li>
+    <li data-letra="B">Las ondas se reflejan y cambian de dirección.</li>
+    <li data-letra="C">Las ondas se destruyen y ya no continúan su camino.</li>
+    <li data-letra="D">La amplitud resultante es nula por interferencia destructiva.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Cresta con valle de igual amplitud se anulan en ese punto: interferencia destructiva. Después de cruzarse, cada onda sigue su camino intacta; no se destruyen (distractor C). La duplicación ocurre con cresta más cresta.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>20.</strong> Una ambulancia se acerca con la sirena encendida a una persona detenida en la vereda, pasa frente a ella y se aleja. ¿Qué percibe la persona?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Una frecuencia constante, porque la sirena emite siempre la misma frecuencia.</li>
+    <li data-letra="B">Una frecuencia menor al acercarse y mayor al alejarse.</li>
+    <li data-letra="C">Una frecuencia mayor al acercarse y menor al alejarse.</li>
+    <li data-letra="D">Una rapidez del sonido mayor al acercarse y menor al alejarse.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Por efecto Doppler, al acercarse la fuente los frentes de onda llegan más juntos y la frecuencia percibida aumenta; al alejarse, disminuye. La sirena emite siempre igual, pero lo que cambia es la frecuencia percibida. La rapidez del sonido la fija el aire, no el movimiento de la fuente.</p></div>
+</div>
+
+<h2 id="fuentes-del-capitulo">Fuentes del capítulo</h2>
+<p><em>Consultadas el 25 de septiembre de 2026. El texto es de redacción propia y los ocho diagramas son originales.</em></p>
+<p><strong>Documentos oficiales</strong></p>
+<ul>
+<li>DEMRE (2026). <em>Temario Regular – Pruebas Electivas – Ciencias. Admisión 2027</em>, pág. 9 (área temática Ondas). Este capítulo cubre los conocimientos de elementos de las ondas electromagnéticas, relación entre longitud de onda, frecuencia y rapidez, espectro electromagnético y sus usos, y efecto Doppler, interferencia y difracción en términos cualitativos. <a href="https://demre.cl/publicaciones/2027/2027-26-03-19-temario-paes-regular-ciencias">demre.cl</a></li>
+<li>DEMRE. <em>Pregunta comentada PAES Ciencias – Física</em> (serie de videos de la Unidad de Construcción de Pruebas). Se usó como modelo de construcción de ítems y respuestas comentadas. <a href="https://demre.cl/videos/156-pregunta-comentada-ciencias-fisica-01">demre.cl</a></li>
+<li>Ministerio de Educación de Chile, Currículum Nacional. <em>Ciencias Naturales 1.º medio, eje Física, Unidad 1: Ondas y sonido</em>, y objetivos de aprendizaje CN1M OA 09 (ondas, sus características y su clasificación) y CN1M OA 11 (fenómenos luminosos y espectro electromagnético). <a href="https://www.curriculumnacional.cl/portal/Ejes/Ciencias-Naturales/Fisica/80707:CN1M-OA-09">curriculumnacional.cl</a></li>
+<li>Ministerio de Educación de Chile / Ediciones SM. <em>Física 1.º y 2.º medio. Texto del estudiante</em>. Referencia de vocabulario escolar chileno. <a href="https://www.curriculumnacional.cl/portal/Educacion-General/Ciencias-Naturales-1-medio/Ciencias-Naturales-1-Medio-Eje-Fisica/145422:Fisica-1-y-2-Medio-SM-Texto-del-estudiante">curriculumnacional.cl</a></li>
+</ul>
+<p><strong>Textos de física de libre acceso</strong></p>
+<ul>
+<li>OpenStax (2022). <em>College Physics 2e</em>, secciones 16.9 «Waves», 17.2 «Speed of Sound, Frequency, and Wavelength» y 24.3 «The Electromagnetic Spectrum». Licencia CC BY 4.0. Tabla de rapideces del sonido y rangos del espectro. <a href="https://openstax.org/books/college-physics-2e/pages/16-9-waves">openstax.org</a></li>
+<li>OpenStax (2021). <em>Física universitaria, volumen 1</em>, capítulo 16, «Ondas en desplazamiento». <a href="https://openstax.org/books/f%C3%ADsica-universitaria-volumen-1/pages/16-1-ondas-en-desplazamiento">openstax.org</a></li>
+<li>Khan Academy en español. <em>Introducción a las ondas</em> y <em>Propiedades de las ondas periódicas</em>. <a href="https://es.khanacademy.org/science/physics/mechanical-waves-and-sound/mechanical-waves/v/introduction-to-waves">es.khanacademy.org</a></li>
+<li>Educarchile. <em>Ondas y sonido</em> y <em>Ondas sísmicas</em>. <a href="https://centroderecursos.educarchile.cl/items/6dfe1780-18f2-4cb4-bd84-2025aa68179b">educarchile.cl</a></li>
+</ul>
+<p><strong>Datos numéricos</strong></p>
+<ul>
+<li>NIST. <em>CODATA value: speed of light in vacuum</em> (299 792 458 m/s, valor exacto por definición). <a href="https://physics.nist.gov/cgi-bin/cuu/Value?c=">physics.nist.gov</a></li>
+<li>NASA Science. <em>Tour of the Electromagnetic Spectrum</em>, y NASA GSFC, <em>Imagine the Universe: The Electromagnetic Spectrum</em>. Rangos del espectro y usos. <a href="https://science.nasa.gov/ems/">science.nasa.gov</a></li>
+<li>Subsecretaría de Telecomunicaciones de Chile (Subtel). <em>Servicios de radiodifusión sonora</em>: banda FM de 88 a 108 MHz. <a href="https://www.subtel.gob.cl/inicio-concesionario/servicios-de-telecomunicaciones/servicios-de-radiodifusion-sonora/">subtel.gob.cl</a></li>
+<li>U.S. Food and Drug Administration. <em>Microwave Ovens</em>: frecuencia de 2 450 MHz. <a href="https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens">fda.gov</a></li>
+<li>Pacific Northwest Seismic Network. <em>Earthquake Waves</em>: ondas P longitudinales y ondas S transversales, que no atraviesan líquidos. <a href="https://pnsn.org/education/seismology/earthquake-waves">pnsn.org</a></li>
+</ul>
+<p><strong>Libros de consulta</strong></p>
+<ul>
+<li>Giancoli, D. <em>Physics: Principles with Applications</em>, 7.ª edición, capítulo 11 («Oscillations and Waves», secciones 11-7 a 11-14) y sección 12-1 («Characteristics of Sound»).</li>
+<li>Etkina, E., Planinsic, G. y Van Heuvelen, A. <em>College Physics: Explore and Apply</em>, capítulo 20 («Mechanical Waves»).</li>
+<li>Johnson, K., Hewett, S. y otros. <em>Advanced Physics for You</em>, capítulos 10 a 12 (movimiento ondulatorio, reflexión y refracción, interferencia y difracción).</li>
+<li>Shipman, J. y otros. <em>An Introduction to Physical Science</em>, capítulo 6 («Waves», sección 6.1) y capítulo 7 («Optics and Wave Effects»).</li>
+</ul>
+<p>Consulta de referencia; el texto de este capítulo es de redacción propia.</p>
+</article>
+
+</main>
+</div>
+<div id="lightbox"><img alt=""></div>
+<script>
+(function(){
+  var clave='conv-progreso:'+location.pathname.split('/').pop();
+  var datos={};try{datos=JSON.parse(localStorage.getItem(clave)||'{}')}catch(e){}
+  function guardar(){try{localStorage.setItem(clave,JSON.stringify(datos))}catch(e){}}
+  var preguntas=[].slice.call(document.querySelectorAll('.pregunta'));
+  var total=preguntas.length;
+  function actualizar(){
+    var r=0,c=0;for(var k in datos){r++;if(datos[k].ok)c++}
+    var t=document.getElementById('txt-preg');
+    if(t)t.textContent=total?(r+' de '+total+' respondidas · '+c+' correctas'):'Sin preguntas';
+    var b=document.getElementById('barra-preg');if(b)b.style.width=total?(100*r/total)+'%':'0';
+    try{localStorage.setItem(clave+':resumen',JSON.stringify({r:r,c:c,t:total}))}catch(e){}
+  }
+  preguntas.forEach(function(q,i){
+    var id=q.id||('p'+(i+1));q.id=id;
+    var lis=[].slice.call(q.querySelectorAll('.alternativas>li'));
+    var correcta=(q.getAttribute('data-correcta')||'').trim().toUpperCase();
+    var acc=document.createElement('div');acc.className='acciones';
+    var btn=document.createElement('button');btn.className='btn';btn.type='button';btn.textContent='Ver respuesta';
+    var est=document.createElement('span');est.className='estado';
+    acc.appendChild(btn);acc.appendChild(est);
+    var resp=q.querySelector('.respuesta');
+    if(resp)q.insertBefore(acc,resp);else q.appendChild(acc);
+    var marcada=null;
+    lis.forEach(function(li){li.addEventListener('click',function(){
+      if(q.classList.contains('respondida'))return;
+      lis.forEach(function(x){x.classList.remove('marcada')});li.classList.add('marcada');marcada=li.getAttribute('data-letra');
+    })});
+    function mostrar(letra){
+      q.classList.add('respondida','visible');btn.disabled=true;
+      lis.forEach(function(li){var L=li.getAttribute('data-letra');
+        if(correcta&&L===correcta)li.classList.add('correcta');
+        else if(L===letra)li.classList.add('incorrecta');
+        if(L===letra)li.classList.add('marcada');});
+      if(!correcta){est.textContent='Clave no disponible';est.className='estado'}
+      else if(!letra){est.textContent='Sin marcar · correcta: '+correcta;est.className='estado'}
+      else if(letra===correcta){est.textContent='¡Correcta!';est.className='estado ok'}
+      else{est.textContent='Incorrecta · correcta: '+correcta;est.className='estado mal'}
+    }
+    btn.addEventListener('click',function(){
+      datos[id]={l:marcada||'',ok:!!(marcada&&correcta&&marcada===correcta)};guardar();mostrar(marcada);actualizar();
+    });
+    if(datos[id])mostrar(datos[id].l);
+  });
+  document.querySelectorAll('.ejercicio').forEach(function(e){
+    var resp=e.querySelector('.respuesta');if(!resp)return;
+    var b=document.createElement('button');b.className='btn sec';b.type='button';b.textContent='Ver solución';
+    var acc=document.createElement('div');acc.className='acciones';acc.appendChild(b);e.insertBefore(acc,resp);
+    b.addEventListener('click',function(){var v=e.classList.toggle('visible');b.textContent=v?'Ocultar solución':'Ver solución'});
+  });
+  var rst=document.getElementById('reiniciar');
+  if(rst)rst.addEventListener('click',function(){if(!confirm('¿Reiniciar las respuestas de esta sección?'))return;datos={};guardar();location.reload()});
+  actualizar();
+  // Progreso de lectura
+  var bl=document.getElementById('barra-lect'),tl=document.getElementById('txt-lect');
+  function lectura(){var h=document.documentElement;var p=Math.min(100,Math.round(100*h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight)));
+    if(bl)bl.style.width=p+'%';if(tl)tl.textContent=p+'% leído'}
+  addEventListener('scroll',lectura,{passive:true});lectura();
+  // Índice lateral: resaltar la sección visible
+  var enlaces=[].slice.call(document.querySelectorAll('nav.sidebar a'));
+  if('IntersectionObserver' in window&&enlaces.length){
+    var io=new IntersectionObserver(function(ents){ents.forEach(function(en){if(en.isIntersecting){
+      enlaces.forEach(function(a){a.classList.toggle('activo',a.getAttribute('href')==='#'+en.target.id)})}})},{rootMargin:'-100px 0px -70% 0px'});
+    document.querySelectorAll('.paper h2[id],.paper h3[id]').forEach(function(h){io.observe(h)});
+  }
+  var nav=document.querySelector('nav.sidebar'),tb=document.getElementById('toc-btn');
+  if(tb&&nav)tb.addEventListener('click',function(){nav.classList.toggle('abierta')});
+  var lento=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function ir(a,e){
+    var id=decodeURIComponent((a.getAttribute('href')||'').slice(1)),t=document.getElementById(id);
+    if(!t)return;e.preventDefault();
+    if(a.classList.contains('cargando'))return;
+    document.querySelectorAll('.cargando').forEach(function(x){x.classList.remove('cargando')});
+    void a.offsetWidth;a.classList.add('cargando');
+    setTimeout(function(){
+      t.scrollIntoView({behavior:lento?'auto':'smooth',block:'start'});
+      setTimeout(function(){if(Math.abs(t.getBoundingClientRect().top)>window.innerHeight)t.scrollIntoView({block:'start'})},900);
+      try{history.replaceState(null,'','#'+id)}catch(err){}
+      t.classList.remove('destino');void t.offsetWidth;t.classList.add('destino');
+      if(a.closest('nav.sidebar'))enlaces.forEach(function(x){x.classList.toggle('activo',x===a)});
+      a.classList.remove('cargando');
+      if(nav)nav.classList.remove('abierta');
+    },lento?150:620);
+  }
+  enlaces.forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Insignias de preguntas en los títulos y botones «Ver tema» de las preguntas
+  document.querySelectorAll('.paper a.ref-badge, .paper a.volver-tema').forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Recordar la última sección abierta (para «Continuar» en el índice)
+  try{localStorage.setItem('conv-ultimo',JSON.stringify({archivo:location.pathname.split('/').pop(),titulo:document.title.split(' — ')[0]}))}catch(e){}
+  // Zoom de imágenes
+  var lb=document.getElementById('lightbox');
+  document.querySelectorAll('.paper img').forEach(function(img){img.addEventListener('click',function(){
+    lb.querySelector('img').src=img.src;lb.style.display='flex'})});
+  lb.addEventListener('click',function(){lb.style.display='none'});
+  // Tema claro/oscuro
+  var tema=document.getElementById('tema');
+  try{var t=localStorage.getItem('conv-tema');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}
+  tema.addEventListener('click',function(){
+    var oscuro=document.documentElement.getAttribute('data-theme')==='dark'||(!document.documentElement.getAttribute('data-theme')&&matchMedia('(prefers-color-scheme: dark)').matches);
+    var n=oscuro?'light':'dark';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('conv-tema',n)}catch(e){}
+  });
+})();
+</script>
+</body>
+</html>

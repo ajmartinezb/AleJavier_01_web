@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" aria-label="Fuente en movimiento con frentes de onda juntos por delante y separados por detrás" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Fuente en movimiento con frentes de onda juntos por delante y separados por detrás</title>
+<rect width="900" height="470" fill="#ffffff"/>
+<defs><marker id="fl" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="flr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="fla" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker></defs>
+<text x="450.0" y="30.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Efecto Doppler</text>
+<text x="450.0" y="52.0" font-size="13" text-anchor="middle" fill="#4a5568" font-weight="normal">La fuente se mueve hacia la derecha mientras emite frentes de onda</text>
+<circle cx="340" cy="265" r="190" fill="none" stroke="#1c7ed6" stroke-width="2"/>
+<circle cx="368" cy="265" r="158" fill="none" stroke="#1c7ed6" stroke-width="2"/>
+<circle cx="396" cy="265" r="126" fill="none" stroke="#1c7ed6" stroke-width="2"/>
+<circle cx="424" cy="265" r="94" fill="none" stroke="#1c7ed6" stroke-width="2"/>
+<circle cx="452" cy="265" r="62" fill="none" stroke="#1c7ed6" stroke-width="2"/>
+<circle cx="480" cy="265" r="30" fill="none" stroke="#1c7ed6" stroke-width="2"/>
+<circle cx="498" cy="265" r="9" fill="#c92a2a"/>
+<line x1="512.0" y1="265.0" x2="568.0" y2="265.0" stroke="#c92a2a" stroke-width="2.5" marker-end="url(#flr)"/>
+<text x="540.0" y="253.0" font-size="12" text-anchor="middle" fill="#c92a2a" font-weight="700">fuente</text>
+<circle cx="780" cy="265" r="10" fill="#2f9e44"/>
+<text x="780.0" y="297.0" font-size="12" text-anchor="middle" fill="#2f9e44" font-weight="700">observador B</text>
+<text x="780.0" y="315.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">frentes juntos:</text>
+<text x="780.0" y="331.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">mayor frecuencia</text>
+<circle cx="60" cy="265" r="10" fill="#e67700"/>
+<text x="70.0" y="297.0" font-size="12" text-anchor="middle" fill="#e67700" font-weight="700">observador A</text>
+<text x="70.0" y="315.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">frentes separados:</text>
+<text x="70.0" y="331.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">menor frecuencia</text>
+</svg>

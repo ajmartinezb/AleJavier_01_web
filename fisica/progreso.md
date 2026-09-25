@@ -1,0 +1,19 @@
+# Progreso del libro de Física
+
+| Cap. | Tema | Temario 2027 | Estado | Secciones listas | Ítems IA | Última sesión |
+|---|---|---|---|---|---|---|
+| 1 | Ondas: características y clasificación | Área 1 (Ondas) | Preguntas completas | Teoría 1–7, 8 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | ITEMS | 25-09-2026 |
+| 2 | El sonido | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
+| 3 | La luz y la óptica geométrica | Área 1 (Ondas) | Pendiente | — | — | — |
+| 4 | Sismos y dinámica de la Tierra | Área 3 (Energía–Tierra) | Pendiente | — | — | — |
+| 5 | Cinemática: descripción del movimiento | Área 2 (Mecánica) | Pendiente | — | — | — |
+| 6 | Dinámica: fuerzas y leyes de Newton | Área 2 (Mecánica) | Pendiente | — | — | — |
+| 7 | Movimiento circular uniforme | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
+| 8 | Trabajo, potencia y energía mecánica | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
+| 9 | Momentum lineal e impulso | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
+| 10 | Calor y temperatura | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
+| 11 | Electricidad y circuitos eléctricos | Área 4 (Electricidad) | Pendiente | — | — | — |
+| 12 | Magnetismo y electromagnetismo | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
+| 13 | La Tierra y el Universo | Área 2 (Mecánica) | Pendiente | — | — | — |
+
+Estados: Estructura → En redacción → Teoría completa → Preguntas completas → Revisado.

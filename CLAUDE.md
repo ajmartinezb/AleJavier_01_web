@@ -48,8 +48,22 @@ Antes de planificar una sesión contando con ella, lee esto.
   Tampoco se publican aquí los enlaces a esos archivos. En `99-fuentes.md` se cita el libro
   (autor, título, edición, capítulo) sin enlace, **y solo si se leyó de verdad**.
 
+## Libro de Física (`fisica/`)
+
+- Misma estructura, herramientas y reglas que Biología. **Lee `fisica/pauta.md`** (diferencias propias de Física) y
+  `fisica/temario.md` (temario DEMRE 2027 de Física, págs. 9–11 del PDF de `biologia/demre/`, con la cobertura por capítulo).
+- Generar: `python herramientas/construir.py fisica` (`--revisar` para las preguntas IA). `fisica/sitio/` no se edita a mano.
+- Estado de cada capítulo en `fisica/progreso.md`.
+- **Temario 2027:** el área Ondas se centra en ondas electromagnéticas. Los capítulos 2 (sonido), 7 (MCU), 8 (trabajo y
+  energía), 9 (momentum), 10 (calor) y 12 (magnetismo) de `libro.json` **no están en el temario 2027**: son de apoyo.
+- **Libros de consulta en Drive** (carpeta «Fisica», id `1C5tCYI4jgcfAAtW8ELr1J7lPRCMwpPPd`, compartida desde otra cuenta),
+  verificado el 25-09-2026: los PDF por capítulo de Giancoli (7.ª ed.), Etkina, *Advanced Physics for You* y Shipman
+  **tienen capa de texto y se leen** con `read_file_content` (100 000+ caracteres: guardar y leer por trozos o delegar a
+  un subagente). Los PDF completos `Fisica-I°-y-II°.pdf` y `Fisica-II°.pdf` son escaneos **ilegibles** por el conector.
+  Mismas reglas que Biología: solo consulta, sin copiar texto ni figuras y sin publicar enlaces.
+
 ## Portal (raíz del repo)
 
 - `index.html` (landing) → `login.html` (provisorio) → `inicio.html` (asignaturas PAES) → `ramo.html?id=…` (capítulos).
-- Asignaturas y capítulos en `assets/data.js`. Biología enlaza a `biologia/sitio/index.html`.
-- `fisica/libro.json` y `quimica/libro.json`: solo títulos de capítulos, aún sin desarrollar.
+- Asignaturas y capítulos en `assets/data.js`. Biología enlaza a `biologia/sitio/index.html` y Física a `fisica/sitio/index.html`.
+- `quimica/libro.json`: solo títulos de capítulos, aún sin desarrollar.
