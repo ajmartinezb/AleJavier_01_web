@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Circuito mixto: pila de 12 voltios, resistor de 2 ohms en serie con dos de 6 ohms en paralelo, y los pasos de la reducción" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Circuito mixto: pila de 12 voltios, resistor de 2 ohms en serie con dos de 6 ohms en paralelo, y los pasos de la reducción</title>
+<rect width="900" height="300" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="17" text-anchor="middle" fill="#1a202c" font-weight="700">Circuito mixto y su reducción</text>
+<polyline points="120.0,150.0 120.0,80.0 400.0,80.0" fill="none" stroke="#343a40" stroke-width="2.5" />
+<polyline points="120.0,190.0 120.0,260.0 400.0,260.0" fill="none" stroke="#343a40" stroke-width="2.5" />
+<rect x="98" y="156" width="44" height="28" fill="#ffffff" stroke="none"/><line x1="100.0" y1="164.0" x2="140.0" y2="164.0" stroke="#343a40" stroke-width="3" /><line x1="110.0" y1="176.0" x2="130.0" y2="176.0" stroke="#343a40" stroke-width="5" /><text x="146.0" y="168.0" font-size="14" text-anchor="start" fill="#c92a2a" font-weight="700">+</text><text x="146.0" y="184.0" font-size="14" text-anchor="start" fill="#1c7ed6" font-weight="700">−</text><text x="92.0" y="175.0" font-size="13" text-anchor="end" fill="#1a202c" font-weight="700">12 V</text>
+<rect x="215.0" y="70" width="70" height="20" fill="#fff3bf" stroke="#e67700" stroke-width="2.5"/><text x="250.0" y="64.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">R₁ = 2 Ω</text>
+<polyline points="400.0,80.0 400.0,260.0" fill="none" stroke="#343a40" stroke-width="2.5" />
+<polyline points="400.0,80.0 520.0,80.0 520.0,260.0 400.0,260.0" fill="none" stroke="#343a40" stroke-width="2.5" />
+<rect x="390" y="140.0" width="20" height="60" fill="#fff3bf" stroke="#e67700" stroke-width="2.5"/><text x="416.0" y="175.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="700">R₂ = 6 Ω</text>
+<rect x="510" y="140.0" width="20" height="60" fill="#fff3bf" stroke="#e67700" stroke-width="2.5"/><text x="536.0" y="175.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="700">R₃ = 6 Ω</text>
+<circle cx="400" cy="80" r="4" fill="#343a40"/><circle cx="400" cy="260" r="4" fill="#343a40"/>
+<text x="740.0" y="70.0" font-size="14" text-anchor="middle" fill="#1c7ed6" font-weight="700">Paso a paso</text>
+<text x="660.0" y="105.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">1. R₂ ∥ R₃ = 6 / 2 = 3 Ω</text>
+<text x="660.0" y="133.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">2. R_eq = 2 + 3 = 5 Ω</text>
+<text x="660.0" y="161.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">3. I = 12 / 5 = 2,4 A</text>
+<text x="660.0" y="189.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">4. V₁ = 2,4 · 2 = 4,8 V</text>
+<text x="660.0" y="217.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">5. V₂ = V₃ = 7,2 V</text>
+<text x="660.0" y="245.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">6. I₂ = I₃ = 1,2 A</text>
+</svg>

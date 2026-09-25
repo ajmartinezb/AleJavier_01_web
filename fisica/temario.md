@@ -56,11 +56,11 @@ El DEMRE declara que evalúa la capacidad de analizar informaciones, investigaci
 
 | Código | Conocimiento | Capítulo | Estado |
 |---|---|---|---|
-| 4.1 | Ley de Ohm en circuitos con resistores en serie, paralelo o mixtos | 11 | Pendiente |
-| 4.2 | Potencia y energía eléctrica en circuitos de corriente continua | 11 | Pendiente |
-| 4.3 | Corriente eléctrica como flujo de cargas en corriente continua | 11 | Pendiente |
-| 4.4 | Consumo energético, eficiencia energética y potencia eléctrica en artefactos | 11 | Pendiente |
-| 4.5 | Componentes de la instalación eléctrica domiciliaria y sus funciones | 11 | Pendiente |
+| 4.1 | Ley de Ohm en circuitos con resistores en serie, paralelo o mixtos | **11** | Completo |
+| 4.2 | Potencia y energía eléctrica en circuitos de corriente continua | **11** | Completo |
+| 4.3 | Corriente eléctrica como flujo de cargas en corriente continua | **11** | Completo |
+| 4.4 | Consumo energético, eficiencia energética y potencia eléctrica en artefactos | **11** | Completo |
+| 4.5 | Componentes de la instalación eléctrica domiciliaria y sus funciones | **11** | Completo |
 
 ## Qué significa esto para los capítulos
 

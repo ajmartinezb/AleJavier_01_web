@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 390" width="900" height="390" role="img" aria-label="Circuito con pila y ampolleta: los electrones salen del polo negativo y vuelven al positivo, y la corriente convencional se dibuja en sentido contrario" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Circuito con pila y ampolleta: los electrones salen del polo negativo y vuelven al positivo, y la corriente convencional se dibuja en sentido contrario</title>
+<rect width="900" height="390" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="17" text-anchor="middle" fill="#1a202c" font-weight="700">Movimiento de electrones y sentido convencional</text>
+<polyline points="150.0,190.0 150.0,110.0 750.0,110.0 750.0,310.0 150.0,310.0 150.0,230.0" fill="none" stroke="#343a40" stroke-width="2.5" />
+<rect x="128" y="196" width="44" height="28" fill="#ffffff" stroke="none"/><line x1="130.0" y1="204.0" x2="170.0" y2="204.0" stroke="#343a40" stroke-width="3" /><line x1="140.0" y1="216.0" x2="160.0" y2="216.0" stroke="#343a40" stroke-width="5" /><text x="176.0" y="208.0" font-size="14" text-anchor="start" fill="#c92a2a" font-weight="700">+</text><text x="176.0" y="224.0" font-size="14" text-anchor="start" fill="#1c7ed6" font-weight="700">−</text><text x="122.0" y="215.0" font-size="13" text-anchor="end" fill="#1a202c" font-weight="700">pila</text>
+<circle cx="750" cy="210.0" r="16" fill="#fff9db" stroke="#e67700" stroke-width="2.5"/><line x1="738.8" y1="198.8" x2="761.2" y2="221.2" stroke="#e67700" stroke-width="2" /><line x1="738.8" y1="221.2" x2="761.2" y2="198.8" stroke="#e67700" stroke-width="2" />
+<circle cx="230" cy="110" r="6" fill="#1c7ed6"/>
+<circle cx="300" cy="110" r="6" fill="#1c7ed6"/>
+<circle cx="370" cy="110" r="6" fill="#1c7ed6"/>
+<circle cx="440" cy="110" r="6" fill="#1c7ed6"/>
+<circle cx="510" cy="110" r="6" fill="#1c7ed6"/>
+<circle cx="580" cy="110" r="6" fill="#1c7ed6"/>
+<circle cx="650" cy="110" r="6" fill="#1c7ed6"/>
+<circle cx="230" cy="310" r="6" fill="#1c7ed6"/>
+<circle cx="300" cy="310" r="6" fill="#1c7ed6"/>
+<circle cx="370" cy="310" r="6" fill="#1c7ed6"/>
+<circle cx="440" cy="310" r="6" fill="#1c7ed6"/>
+<circle cx="510" cy="310" r="6" fill="#1c7ed6"/>
+<circle cx="580" cy="310" r="6" fill="#1c7ed6"/>
+<circle cx="650" cy="310" r="6" fill="#1c7ed6"/>
+<line x1="560.0" y1="88.0" x2="330.0" y2="88.0" stroke="#1c7ed6" stroke-width="2.5" marker-end="url(#ma)"/>
+<text x="445.0" y="76.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">electrones: salen del polo − y vuelven al polo +</text>
+<line x1="330.0" y1="332.0" x2="560.0" y2="332.0" stroke="#1c7ed6" stroke-width="2.5" marker-end="url(#ma)"/>
+<line x1="330.0" y1="138.0" x2="560.0" y2="138.0" stroke="#c92a2a" stroke-width="2.5" marker-end="url(#mr)"/>
+<text x="445.0" y="160.0" font-size="12" text-anchor="middle" fill="#c92a2a" font-weight="700">corriente convencional: sale del polo + y vuelve al polo −</text>
+<line x1="560.0" y1="282.0" x2="330.0" y2="282.0" stroke="#c92a2a" stroke-width="2.5" marker-end="url(#mr)"/>
+<text x="778.0" y="215.0" font-size="12" text-anchor="start" fill="#1a202c" font-weight="normal">ampolleta</text>
+<text x="450.0" y="372.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">Azul: electrones (por fuera, del − al +). Rojo: sentido convencional (del + al −), el que se dibuja en los circuitos.</text>
+</svg>

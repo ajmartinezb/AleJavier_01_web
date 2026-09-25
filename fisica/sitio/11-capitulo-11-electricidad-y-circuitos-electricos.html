@@ -1,0 +1,1510 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capítulo 11: Electricidad y circuitos eléctricos — Física PAES — Ciencias</title>
+<meta name="generator" content="Conversor PDF a HTML">
+<style>
+:root{--bg:#f7f6f2;--paper:#fff;--ink:#23262a;--ink-soft:#5a5f66;--line:#e3e1da;
+--accent:#1c7ed6;--accent-dark:#0f4576;--ok:#1e7a46;--ok-bg:#e5f5eb;--bad:#b3261e;--bad-bg:#fdeceb;
+--tip-bg:#fff6d6;--tip-bd:#e8cf67;--nota-bg:#eaf2fb;--nota-bd:#b6cfe9;--ej-bg:#eaf6ee;--ej-bd:#a9d8b8;--sidebar-w:290px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}}
+:root[data-theme=dark]{--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{scroll-padding-top:96px}
+body{margin:0;font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.65}
+header.top{position:sticky;top:0;z-index:50;background:linear-gradient(120deg,var(--accent-dark),var(--accent));color:#fff;padding:14px 22px;box-shadow:0 2px 10px rgba(0,0,0,.18)}
+header.top .fila{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1400px;margin:0 auto}
+header.top h1{margin:0;font-size:1.25rem;line-height:1.3;flex:1;min-width:200px}
+header.top .doc{font-size:.8rem;opacity:.85;display:block;font-weight:400}
+header.top a{color:#fff}
+.btn-top{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);color:#fff;border-radius:8px;padding:6px 10px;font-size:.85rem;cursor:pointer;text-decoration:none;white-space:nowrap}
+.progreso{max-width:1400px;margin:8px auto 0;display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:.8rem}
+.barra{flex:1;min-width:120px;height:7px;background:rgba(255,255,255,.25);border-radius:9px;overflow:hidden}
+.barra>i{display:block;height:100%;width:0;background:#fff;border-radius:9px;transition:width .3s}
+.layout{display:flex;align-items:flex-start;max-width:1400px;margin:0 auto}
+nav.sidebar{width:var(--sidebar-w);flex-shrink:0;position:sticky;top:110px;max-height:calc(100vh - 120px);overflow-y:auto;padding:20px 12px 40px 18px}
+nav.sidebar h2{font-size:.72rem;text-transform:uppercase;letter-spacing:1px;color:var(--ink-soft);margin:0 0 8px 6px}
+nav.sidebar ol{list-style:none;margin:0;padding:0}
+nav.sidebar a{display:block;position:relative;overflow:hidden;isolation:isolate;padding:6px 10px;border-radius:8px;color:var(--ink);text-decoration:none;font-size:.86rem;transition:color .2s,background .2s}
+nav.sidebar a:hover,nav.sidebar a.activo{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+nav.sidebar a::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;border-radius:inherit;
+background:linear-gradient(90deg,color-mix(in srgb,var(--accent) 22%,transparent),color-mix(in srgb,var(--accent) 45%,transparent));
+box-shadow:6px 0 14px color-mix(in srgb,var(--accent) 55%,transparent)}
+nav.sidebar a.cargando{color:var(--accent-dark);font-weight:600;background:transparent}
+nav.sidebar a.cargando::before,.ref-badge.cargando::before,.volver-tema.cargando::before{animation:conv-cargar .6s cubic-bezier(.45,0,.2,1) forwards}
+.ref-badges{display:inline-flex;flex-wrap:wrap;gap:6px;margin-left:10px;vertical-align:middle;font-size:.72rem;font-weight:600;line-height:1}
+.ref-group{display:inline-flex;align-items:center;gap:4px}
+.ref-label{color:var(--ink-soft);font-weight:600;letter-spacing:.3px}
+.ref-badge,.volver-tema{position:relative;overflow:hidden;isolation:isolate;text-decoration:none;transition:background .2s,color .2s,border-color .2s}
+.ref-badge::before,.volver-tema::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;background:color-mix(in srgb,var(--accent) 40%,transparent)}
+.ref-badge{display:inline-grid;place-items:center;min-width:24px;height:22px;padding:0 6px;border-radius:999px;border:1px solid;font-size:.72rem}
+.ref-badge.ref-ia{color:#1e7a34;border-color:#8fd0a2;background:#eaf7ee}
+.ref-badge.ref-ia:hover{background:#1e7a34;color:#fff}
+.ref-badge.ref-ia.cargando{color:#fff;background:#1e7a34}
+.volver-tema{display:inline-flex;align-items:center;gap:4px;margin:0 8px 0 6px;padding:2px 10px;border:1px solid var(--line);border-radius:999px;font-size:.76rem;font-weight:600;color:var(--accent-dark);background:var(--paper);vertical-align:middle}
+.volver-tema:hover{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,var(--paper))}
+.seccion-ia{margin-top:40px;padding-top:6px}
+.seccion-ia>.nota{font-size:.9rem}
+.tema-ia{margin:26px 0 4px;font-size:.82rem;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--ink-soft)}
+.tema-ia a{color:inherit}
+.habilidad{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent-dark);vertical-align:middle}
+.eje{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:var(--line);color:var(--ink-soft);vertical-align:middle}
+.comentario>p{margin:8px 0}
+.comentario>p>strong:first-child{color:var(--accent-dark)}
+.comentario ul{margin:6px 0 10px;padding-left:20px}
+.comentario li{margin:3px 0}
+.comentario .tipo-error{font-style:italic;color:var(--ink-soft)}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .comentario>p>strong:first-child{color:var(--accent)}}
+:root[data-theme=dark] .comentario>p>strong:first-child{color:var(--accent)}
+.pregunta.destino{animation:conv-destino 1.6s ease-out}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}}
+:root[data-theme=dark] .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}
+@keyframes conv-cargar{0%{width:0;opacity:.7}85%{opacity:1}100%{width:100%;opacity:1;box-shadow:0 0 12px color-mix(in srgb,var(--accent) 45%,transparent)}}
+@media (prefers-reduced-motion:reduce){nav.sidebar a.cargando::before{animation-duration:.15s}}
+.destino{animation:conv-destino 1.4s ease-out}
+@keyframes conv-destino{0%{background:color-mix(in srgb,var(--accent) 22%,transparent)}100%{background:transparent}}
+nav.sidebar .n3 a{padding-left:22px;font-size:.8rem;color:var(--ink-soft)}
+nav.sidebar .n4 a{padding-left:34px;font-size:.76rem;color:var(--ink-soft)}
+main.content{flex:1;min-width:0;padding:26px 34px 90px}
+.paper{background:var(--paper);border-radius:14px;padding:28px 38px;box-shadow:0 1px 4px rgba(0,0,0,.07);max-width:980px}
+.paper h2{font-size:1.4rem;color:var(--accent-dark);border-bottom:3px solid var(--accent);padding-bottom:6px;margin:34px 0 14px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .paper h2{color:var(--accent)}}
+:root[data-theme=dark] .paper h2{color:var(--accent)}
+.paper h2:first-child{margin-top:0}
+.paper h3{font-size:1.14rem;margin:26px 0 10px;border-left:4px solid var(--accent);padding-left:10px}
+.paper h4{font-size:1rem;margin:20px 0 8px}
+.paper img{max-width:100%;height:auto}
+figure>img{width:var(--ancho,auto)}
+.fila-figuras{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:flex-start;margin:18px 0}
+.fila-figuras>figure{flex:1 1 220px;margin:0}
+.fila-figuras>figure>img{width:100%}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:.93rem;display:block;overflow-x:auto}
+th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top;text-align:left}
+thead th{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+blockquote{margin:14px 0;padding:8px 16px;border-left:4px solid var(--line);color:var(--ink-soft)}
+.nota,.tip,.ejemplo,.ejercicio,.pregunta{border-radius:10px;padding:14px 18px;margin:16px 0;border:1px solid}
+.nota{background:var(--nota-bg);border-color:var(--nota-bd)}
+.tip{background:var(--tip-bg);border-color:var(--tip-bd)}
+.ejemplo{background:var(--ej-bg);border-color:var(--ej-bd)}
+.ejercicio,.pregunta{background:var(--paper);border-color:var(--line);box-shadow:0 1px 3px rgba(0,0,0,.05)}
+figure{margin:18px auto;text-align:center}
+figure img{border-radius:8px;border:1px solid var(--line);cursor:zoom-in;background:#fff}
+figcaption{font-size:.85rem;color:var(--ink-soft);margin-top:6px}
+.frac{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;font-size:.9em;margin:0 2px}
+.frac>span:first-child{border-bottom:1px solid currentColor;padding:0 3px}
+.alternativas{list-style:none;padding:0;margin:10px 0}
+.alternativas li{display:flex;gap:10px;align-items:flex-start;padding:8px 12px;margin:6px 0;border:1px solid var(--line);border-radius:9px;cursor:pointer;transition:background .15s}
+.alternativas li::before{content:attr(data-letra);font-weight:700;min-width:1.4em;color:var(--accent)}
+.alternativas li:hover{background:color-mix(in srgb,var(--accent) 8%,transparent)}
+.alternativas li.marcada{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.alternativas li.correcta{border-color:var(--ok);background:var(--ok-bg)}
+.alternativas li.incorrecta{border-color:var(--bad);background:var(--bad-bg)}
+.pregunta.respondida .alternativas li{cursor:default}
+.acciones{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.btn{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:8px 14px;font-size:.9rem;cursor:pointer}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.btn.sec{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.estado{font-size:.88rem;font-weight:600}
+.estado.ok{color:var(--ok)}.estado.mal{color:var(--bad)}
+.respuesta{display:none;margin-top:10px;padding:12px 14px;border-radius:9px;background:color-mix(in srgb,var(--accent) 7%,transparent);border-left:4px solid var(--accent)}
+.visible>.respuesta,.respuesta.visible{display:block}
+.aviso-ia{font-size:.8rem;color:var(--ink-soft);font-style:italic}
+details.original{margin:14px 0;border:1px dashed var(--line);border-radius:10px;padding:8px 12px}
+details.original summary{cursor:pointer;color:var(--ink-soft);font-size:.85rem}
+.marca-pagina{font-size:.72rem;color:var(--ink-soft);text-align:right;border-top:1px dashed var(--line);margin:22px 0 8px;padding-top:2px}
+.navsec{display:flex;justify-content:space-between;gap:12px;margin-top:28px;max-width:980px}
+.navsec a{flex:1;padding:14px 16px;border-radius:12px;background:var(--paper);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.navsec a small{display:block;color:var(--ink-soft);font-size:.75rem}
+.navsec a.sig{text-align:right}
+#lightbox{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:100;cursor:zoom-out;padding:20px}
+#lightbox img{max-width:100%;max-height:100%;background:#fff;border-radius:6px}
+#toc-btn{display:none}
+@media (max-width:900px){
+ nav.sidebar{position:fixed;top:0;left:0;bottom:0;max-height:none;background:var(--paper);z-index:60;transform:translateX(-105%);transition:transform .25s;box-shadow:2px 0 14px rgba(0,0,0,.2);padding-top:24px}
+ nav.sidebar.abierta{transform:none}
+ #toc-btn{display:inline-block}
+ main.content{padding:16px 16px 80px}
+ .paper{padding:20px 18px}
+}
+@media print{header.top,nav.sidebar,.navsec,.acciones{display:none}.respuesta{display:block}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="fila">
+    <a class="btn-top" href="../../inicio.html" title="Volver a las asignaturas PAES" style="text-decoration:none">← Asignaturas</a>
+    <button class="btn-top" id="toc-btn" type="button">☰ Contenido</button>
+    <h1><span class="doc">Física PAES — Ciencias</span>Capítulo 11: Electricidad y circuitos eléctricos</h1>
+    <a class="btn-top" href="index.html">Índice</a>
+    <button class="btn-top" id="tema" type="button" title="Cambiar tema claro/oscuro">◐</button>
+  </div>
+  <div class="progreso">
+    <span id="txt-preg">…</span><div class="barra"><i id="barra-preg"></i></div>
+    <button class="btn-top" id="reiniciar" type="button" title="Reiniciar respuestas de esta sección">↺ Reiniciar</button>
+    <span id="txt-lect">0% leído</span><div class="barra"><i id="barra-lect"></i></div>
+  </div>
+</header>
+<div class="layout">
+<nav class="sidebar" aria-label="Contenido"><h2>Contenido</h2><ol><li class="n2"><a href="#capitulo-11-electricidad-y-circuitos-electricos">Capítulo 11: Electricidad y circuitos eléctricos</a></li><li class="n2"><a href="#1-conceptos-clave">1. Conceptos clave</a></li><li class="n2"><a href="#2-carga-electrica-y-corriente">2. Carga eléctrica y corriente</a></li><li class="n3"><a href="#a-la-carga-electrica">a. La carga eléctrica</a></li><li class="n3"><a href="#b-conductores-y-aislantes">b. Conductores y aislantes</a></li><li class="n3"><a href="#c-que-es-la-corriente-electrica">c. Qué es la corriente eléctrica</a></li><li class="n3"><a href="#d-el-sentido-de-la-corriente">d. El sentido de la corriente</a></li><li class="n3"><a href="#e-corriente-continua-y-corriente-alterna">e. Corriente continua y corriente alterna</a></li><li class="n3"><a href="#f-condiciones-para-que-haya-corriente">f. Condiciones para que haya corriente</a></li><li class="n2"><a href="#3-voltaje-y-resistencia">3. Voltaje y resistencia</a></li><li class="n3"><a href="#a-la-diferencia-de-potencial">a. La diferencia de potencial</a></li><li class="n3"><a href="#b-la-resistencia-electrica">b. La resistencia eléctrica</a></li><li class="n3"><a href="#c-como-se-miden-corriente-y-voltaje">c. Cómo se miden corriente y voltaje</a></li><li class="n2"><a href="#4-la-ley-de-ohm">4. La ley de Ohm</a></li><li class="n3"><a href="#a-el-enunciado">a. El enunciado</a></li><li class="n3"><a href="#b-el-grafico-voltajecorriente">b. El gráfico voltaje–corriente</a></li><li class="n3"><a href="#c-como-se-comprueba-en-el-laboratorio">c. Cómo se comprueba en el laboratorio</a></li><li class="n3"><a href="#d-la-ley-de-ohm-y-el-cuerpo-humano">d. La ley de Ohm y el cuerpo humano</a></li><li class="n2"><a href="#5-circuitos-en-serie">5. Circuitos en serie</a></li><li class="n3"><a href="#a-que-es-una-conexion-en-serie">a. Qué es una conexión en serie</a></li><li class="n3"><a href="#b-las-tres-reglas-del-circuito-en-serie">b. Las tres reglas del circuito en serie</a></li><li class="n3"><a href="#c-ampolletas-en-serie">c. Ampolletas en serie</a></li><li class="n3"><a href="#d-donde-se-usan-las-conexiones-en-serie">d. Dónde se usan las conexiones en serie</a></li><li class="n2"><a href="#6-circuitos-en-paralelo">6. Circuitos en paralelo</a></li><li class="n3"><a href="#a-que-es-una-conexion-en-paralelo">a. Qué es una conexión en paralelo</a></li><li class="n3"><a href="#b-las-tres-reglas-del-circuito-en-paralelo">b. Las tres reglas del circuito en paralelo</a></li><li class="n3"><a href="#c-ampolletas-en-paralelo">c. Ampolletas en paralelo</a></li><li class="n3"><a href="#d-la-instalacion-de-una-casa-es-en-paralelo">d. La instalación de una casa es en paralelo</a></li><li class="n2"><a href="#7-circuitos-mixtos">7. Circuitos mixtos</a></li><li class="n3"><a href="#a-que-es-un-circuito-mixto">a. Qué es un circuito mixto</a></li><li class="n3"><a href="#b-el-procedimiento">b. El procedimiento</a></li><li class="n3"><a href="#c-razonar-sin-calcular-que-pasa-si-se-cambia-algo">c. Razonar sin calcular: qué pasa si se cambia algo</a></li><li class="n2"><a href="#8-potencia-y-energia-electrica">8. Potencia y energía eléctrica</a></li><li class="n3"><a href="#a-la-potencia-electrica">a. La potencia eléctrica</a></li><li class="n3"><a href="#b-la-energia-electrica">b. La energía eléctrica</a></li><li class="n3"><a href="#c-calcular-la-cuenta-de-la-luz">c. Calcular la cuenta de la luz</a></li><li class="n3"><a href="#d-el-efecto-joule">d. El efecto Joule</a></li><li class="n2"><a href="#9-consumo-y-eficiencia-energetica">9. Consumo y eficiencia energética</a></li><li class="n3"><a href="#a-que-es-la-eficiencia">a. Qué es la eficiencia</a></li><li class="n3"><a href="#b-que-consume-mas-en-una-casa">b. Qué consume más en una casa</a></li><li class="n3"><a href="#c-la-etiqueta-de-eficiencia-energetica">c. La etiqueta de eficiencia energética</a></li><li class="n3"><a href="#d-por-que-importa">d. Por qué importa</a></li><li class="n2"><a href="#10-la-instalacion-electrica-domiciliaria">10. La instalación eléctrica domiciliaria</a></li><li class="n3"><a href="#a-de-la-calle-al-enchufe">a. De la calle al enchufe</a></li><li class="n3"><a href="#b-por-que-los-artefactos-van-en-paralelo">b. Por qué los artefactos van en paralelo</a></li><li class="n3"><a href="#c-sobrecarga-y-cortocircuito">c. Sobrecarga y cortocircuito</a></li><li class="n3"><a href="#d-el-protector-diferencial-y-la-conexion-a-tierra">d. El protector diferencial y la conexión a tierra</a></li><li class="n3"><a href="#e-la-corriente-y-el-cuerpo-humano">e. La corriente y el cuerpo humano</a></li><li class="n2"><a href="#ejemplos-paes-resueltos">Ejemplos PAES resueltos</a></li><li class="n2"><a href="#evaluacion-formativa">Evaluación formativa</a></li><li class="n2"><a href="#fuentes-del-capitulo">Fuentes del capítulo</a></li></ol></nav>
+<main class="content">
+<article class="paper">
+<h2 id="capitulo-11-electricidad-y-circuitos-electricos">Capítulo 11: Electricidad y circuitos eléctricos</h2>
+<p><strong>Área temática:</strong> Electricidad</p>
+<p>Aprietas un interruptor y la luz se enciende al instante. Enchufas el hervidor y en dos minutos el agua está hirviendo. Llega la cuenta de la luz y trae un número en kilowatt-hora. Si conectas demasiados artefactos a la vez, «salta el automático». Detrás de todo eso hay cargas eléctricas que se mueven por circuitos siguiendo unas pocas reglas, y esas reglas son el tema de este capítulo.</p>
+<p>Aquí vas a aprender qué es la <strong>corriente eléctrica</strong> y por qué se entiende como un <strong>flujo de cargas</strong>; qué son el <strong>voltaje</strong> y la <strong>resistencia</strong>, y cómo los relaciona la <strong>ley de Ohm</strong>; cómo se comportan los <strong>circuitos en serie, en paralelo y mixtos</strong>; cómo se calculan la <strong>potencia</strong> y la <strong>energía eléctrica</strong> y cuánto cuesta usar un artefacto; qué es la <strong>eficiencia energética</strong> y cómo se lee la etiqueta de un electrodoméstico; y cuáles son los <strong>componentes de la instalación eléctrica de una casa</strong> y para qué sirve cada uno.</p>
+<div class="nota">
+<p><strong>Este capítulo en la PAES 2027.</strong> Cubre completa el área Electricidad del temario DEMRE: ley de Ohm en circuitos con resistores en serie, paralelo o mixtos; potencia y energía eléctrica en circuitos de corriente continua; la corriente como flujo de cargas; consumo energético, eficiencia y potencia en artefactos; y los componentes de la instalación eléctrica domiciliaria y sus funciones. Es un área muy aplicada: muchas preguntas parten de una situación doméstica o de un circuito dibujado.</p>
+</div>
+<h2 id="1-conceptos-clave">1. Conceptos clave</h2>
+<table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Definición</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Carga eléctrica (<em>q</em>)</strong></td>
+<td>Propiedad de la materia que produce las interacciones eléctricas; puede ser positiva o negativa y se mide en coulomb (C)</td>
+</tr>
+<tr>
+<td><strong>Electrón</strong></td>
+<td>Partícula con carga negativa (−1,6 × 10<sup>−19</sup> C) que se mueve por los metales y forma la corriente en los cables</td>
+</tr>
+<tr>
+<td><strong>Conductor</strong></td>
+<td>Material que permite el movimiento de cargas con facilidad, como los metales</td>
+</tr>
+<tr>
+<td><strong>Aislante</strong></td>
+<td>Material que casi no permite el movimiento de cargas, como el plástico, el vidrio o la goma</td>
+</tr>
+<tr>
+<td><strong>Corriente eléctrica (<em>I</em>)</strong></td>
+<td>Cantidad de carga que atraviesa una sección de un conductor por unidad de tiempo: <em>I</em> = <em>q</em> / <em>t</em>; se mide en ampere (A)</td>
+</tr>
+<tr>
+<td><strong>Sentido convencional</strong></td>
+<td>Sentido en que se dibuja la corriente: del polo positivo al negativo por fuera de la fuente, opuesto al movimiento real de los electrones</td>
+</tr>
+<tr>
+<td><strong>Corriente continua (CC)</strong></td>
+<td>Corriente que circula siempre en el mismo sentido, como la de una pila o una batería</td>
+</tr>
+<tr>
+<td><strong>Corriente alterna (CA)</strong></td>
+<td>Corriente que cambia de sentido periódicamente, como la de la red domiciliaria (50 Hz en Chile)</td>
+</tr>
+<tr>
+<td><strong>Diferencia de potencial o voltaje (<em>V</em>)</strong></td>
+<td>Energía que la fuente entrega a cada unidad de carga que recorre el circuito; se mide en volt (1 V = 1 J/C)</td>
+</tr>
+<tr>
+<td><strong>Fuente</strong></td>
+<td>Dispositivo que mantiene una diferencia de potencial entre sus terminales: pila, batería, panel solar, generador</td>
+</tr>
+<tr>
+<td><strong>Resistencia (<em>R</em>)</strong></td>
+<td>Oposición de un elemento al paso de la corriente; se mide en ohm (Ω)</td>
+</tr>
+<tr>
+<td><strong>Resistor</strong></td>
+<td>Componente diseñado para tener una resistencia determinada</td>
+</tr>
+<tr>
+<td><strong>Resistividad (<em>ρ</em>)</strong></td>
+<td>Propiedad de un material que indica cuánto se opone al paso de la corriente</td>
+</tr>
+<tr>
+<td><strong>Ley de Ohm</strong></td>
+<td>En un conductor óhmico, el voltaje es proporcional a la corriente: <em>V</em> = <em>I</em> · <em>R</em></td>
+</tr>
+<tr>
+<td><strong>Circuito</strong></td>
+<td>Camino cerrado por el que circulan las cargas, formado por una fuente, conductores y uno o más elementos</td>
+</tr>
+<tr>
+<td><strong>Circuito en serie</strong></td>
+<td>Elementos conectados uno tras otro, en un solo camino: por todos pasa la misma corriente</td>
+</tr>
+<tr>
+<td><strong>Circuito en paralelo</strong></td>
+<td>Elementos conectados en ramas distintas entre los mismos dos puntos: todos tienen el mismo voltaje</td>
+</tr>
+<tr>
+<td><strong>Resistencia equivalente</strong></td>
+<td>Resistencia única que, puesta en lugar de un grupo de resistencias, produce la misma corriente con la misma fuente</td>
+</tr>
+<tr>
+<td><strong>Amperímetro</strong></td>
+<td>Instrumento que mide corriente; se conecta en serie</td>
+</tr>
+<tr>
+<td><strong>Voltímetro</strong></td>
+<td>Instrumento que mide voltaje; se conecta en paralelo</td>
+</tr>
+<tr>
+<td><strong>Potencia eléctrica (<em>P</em>)</strong></td>
+<td>Energía eléctrica transformada por unidad de tiempo: <em>P</em> = <em>V</em> · <em>I</em>; se mide en watt (W)</td>
+</tr>
+<tr>
+<td><strong>Kilowatt-hora (kWh)</strong></td>
+<td>Energía que transforma un artefacto de 1 kW funcionando durante 1 hora: 3,6 millones de joules</td>
+</tr>
+<tr>
+<td><strong>Eficiencia</strong></td>
+<td>Fracción de la energía consumida que se transforma en energía útil</td>
+</tr>
+<tr>
+<td><strong>Cortocircuito</strong></td>
+<td>Conexión de muy baja resistencia entre los polos de una fuente, que produce una corriente muy alta</td>
+</tr>
+<tr>
+<td><strong>Sobrecarga</strong></td>
+<td>Exceso de corriente en un circuito por conectar demasiados artefactos a la vez</td>
+</tr>
+<tr>
+<td><strong>Interruptor termomagnético</strong></td>
+<td>Dispositivo del tablero que corta el circuito ante sobrecargas o cortocircuitos</td>
+</tr>
+<tr>
+<td><strong>Protector diferencial</strong></td>
+<td>Dispositivo que corta el circuito si detecta una fuga de corriente, por ejemplo, a través de una persona</td>
+</tr>
+<tr>
+<td><strong>Conexión a tierra</strong></td>
+<td>Conductor que lleva a tierra la corriente de una falla, para que no pase por quien toca el artefacto</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2-carga-electrica-y-corriente">2. Carga eléctrica y corriente</h2>
+<h3 id="a-la-carga-electrica">a. La carga eléctrica</h3>
+<p>Toda la materia está formada por átomos, y los átomos por partículas con <strong>carga eléctrica</strong>: los <strong>protones</strong>, con carga positiva, en el núcleo; y los <strong>electrones</strong>, con carga negativa, alrededor. Las cargas de igual signo se repelen y las de signo contrario se atraen.</p>
+<p>La carga se mide en <strong>coulomb (C)</strong>. La carga de un electrón es diminuta: −1,6 × 10<sup>−19</sup> C. Un coulomb equivale a la carga de unos 6,25 × 10<sup>18</sup> electrones.</p>
+<h3 id="b-conductores-y-aislantes">b. Conductores y aislantes</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Qué ocurre con las cargas</th>
+<th>Ejemplos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Conductores</strong></td>
+<td>Tienen electrones que se mueven con facilidad de un átomo a otro («electrones libres»)</td>
+<td>Cobre, aluminio, plata, oro; también el agua con sales disueltas y el cuerpo humano</td>
+</tr>
+<tr>
+<td><strong>Aislantes</strong></td>
+<td>Sus electrones están fuertemente ligados a los átomos y casi no se mueven</td>
+<td>Plástico, goma, vidrio, madera seca, cerámica, aire seco</td>
+</tr>
+<tr>
+<td><strong>Semiconductores</strong></td>
+<td>Conducen más o menos según la temperatura o las impurezas</td>
+<td>Silicio y germanio: la base de chips, LED y paneles solares</td>
+</tr>
+</tbody>
+</table>
+<p>Por eso los cables son de <strong>cobre</strong> recubierto de <strong>plástico</strong>: el cobre lleva la corriente y el plástico impide que escape y que alguien la toque. Chile es el mayor productor de cobre del mundo, y buena parte de ese cobre termina en cables.</p>
+<h3 id="c-que-es-la-corriente-electrica">c. Qué es la corriente eléctrica</h3>
+<p>Un cable de cobre tiene muchísimos electrones libres que se mueven al azar en todas direcciones. Cuando se conecta a una pila, la diferencia de potencial los empuja a todos a desplazarse, en promedio, en un mismo sentido. Ese <strong>flujo ordenado de cargas</strong> es la <strong>corriente eléctrica</strong>.</p>
+<p>La <strong>intensidad de corriente</strong> (<em>I</em>) es la cantidad de carga que atraviesa una sección del conductor en cada segundo:</p>
+<p style="text-align:center"><strong><em>I</em> = <em>q</em> / <em>t</em></strong></p>
+
+<p>Su unidad es el <strong>ampere (A)</strong>: 1 A = 1 C/s. Una ampolleta LED consume unas centésimas de ampere; un hervidor, unos 9 A; el motor de arranque de un auto, más de 100 A.</p>
+<div class="ejemplo">
+<p><strong>Contar cargas.</strong> Por el filamento de una linterna pasa una corriente de 0,5 A durante 1 minuto. La carga que circuló es <em>q</em> = <em>I</em> · <em>t</em> = 0,5 A · 60 s = <strong>30 C</strong>, es decir, unos 30 · 6,25 × 10<sup>18</sup> ≈ <strong>1,9 × 10<sup>20</sup> electrones</strong>.</p>
+</div>
+<figure><img src="img/cap11-electricidad/corriente-electrones.svg" alt="Un cable conectado a una pila con electrones que avanzan hacia el polo positivo y una flecha de corriente convencional en sentido contrario, del polo positivo al negativo por fuera de la pila"><figcaption>Figura 1. Los electrones se mueven hacia el polo positivo; la corriente convencional se dibuja en sentido contrario. Diagrama propio.</figcaption></figure>
+
+<h3 id="d-el-sentido-de-la-corriente">d. El sentido de la corriente</h3>
+<p>Cuando se estudió la electricidad por primera vez, no se sabía qué cargas se movían, y se acordó que la corriente va del polo <strong>positivo</strong> al <strong>negativo</strong> por fuera de la fuente. Es el <strong>sentido convencional</strong>, y es el que se usa en los diagramas. Hoy se sabe que en los metales los que se mueven son los <strong>electrones</strong>, que van en <strong>sentido contrario</strong>: del negativo al positivo. Para los cálculos da lo mismo, siempre que se use un sentido de manera coherente.</p>
+<div class="tip">
+<p><strong>Tres ideas equivocadas sobre la corriente.</strong>
+1. <strong>«La corriente se gasta en la ampolleta.»</strong> No: la misma corriente que entra a una ampolleta sale de ella. Lo que la ampolleta transforma es <strong>energía</strong>, no carga. Las cargas no se pierden en ningún punto del circuito.
+2. <strong>«Los electrones viajan muy rápido.»</strong> Avanzan apenas milímetros por segundo. Lo que es casi instantáneo es la <strong>señal</strong>: al cerrar el interruptor, todos los electrones del circuito empiezan a moverse casi al mismo tiempo, como el agua que ya llena una manguera.
+3. <strong>«La pila fabrica electrones.»</strong> No: los electrones ya están en los cables. La pila los <strong>empuja</strong>, entregándoles energía.</p>
+</div>
+<h3 id="e-corriente-continua-y-corriente-alterna">e. Corriente continua y corriente alterna</h3>
+<ul>
+<li><strong>Corriente continua (CC)</strong>: las cargas circulan siempre en el mismo sentido. La entregan las pilas, las baterías de autos y celulares y los paneles solares. Es la que pide el temario para los cálculos de circuitos.</li>
+<li><strong>Corriente alterna (CA)</strong>: el sentido de la corriente se invierte muchas veces por segundo. Es la de los enchufes de las casas: en Chile, con un voltaje de <strong>220 V</strong> y una frecuencia de <strong>50 Hz</strong> (cambia de sentido 100 veces por segundo). Se usa en las redes porque se transporta con menos pérdidas y su voltaje se cambia fácilmente con transformadores.</li>
+</ul>
+<p>Los <strong>cargadores</strong> de celulares y computadores convierten la corriente alterna del enchufe en corriente continua de bajo voltaje (5 V, 9 V, 20 V).</p>
+<h3 id="f-condiciones-para-que-haya-corriente">f. Condiciones para que haya corriente</h3>
+<p>Para que circule una corriente se necesitan dos cosas:</p>
+<ol>
+<li>Una <strong>fuente</strong> que mantenga una diferencia de potencial (una pila, una batería, el enchufe).</li>
+<li>Un <strong>circuito cerrado</strong>: un camino conductor continuo que salga de un polo de la fuente y vuelva al otro.</li>
+</ol>
+<p>Si el camino se abre en cualquier punto —un interruptor apagado, un cable cortado, una ampolleta quemada—, la corriente se detiene en <strong>todo</strong> ese camino.</p>
+<h2 id="3-voltaje-y-resistencia">3. Voltaje y resistencia</h2>
+<h3 id="a-la-diferencia-de-potencial">a. La diferencia de potencial</h3>
+<p>Una pila o una batería no «tiene» corriente: tiene la capacidad de <strong>entregar energía</strong> a las cargas que pasan por ella. Esa energía por unidad de carga es la <strong>diferencia de potencial</strong> o <strong>voltaje</strong> (<em>V</em>):</p>
+<p style="text-align:center"><strong><em>V</em> = <em>E</em> / <em>q</em></strong> &nbsp;&nbsp;&nbsp;&nbsp; (1 volt = 1 joule por coulomb)</p>
+
+<p>Una pila de 1,5 V entrega 1,5 J a cada coulomb de carga que la atraviesa. Esas cargas luego ceden esa energía en el resto del circuito: en una ampolleta, como luz y calor; en un motor, como movimiento.</p>
+<p>Una pila es una fuente de <strong>voltaje</strong> aproximadamente constante, no de corriente constante: la corriente que entrega depende de lo que se le conecte. Con una ampolleta de mucha resistencia entrega poca corriente; con un cable sin resistencia (un cortocircuito), muchísima.</p>
+<table>
+<thead>
+<tr>
+<th>Fuente</th>
+<th>Voltaje típico</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pila AA</td>
+<td>1,5 V</td>
+</tr>
+<tr>
+<td>Batería de celular</td>
+<td>3,7 V</td>
+</tr>
+<tr>
+<td>Puerto USB</td>
+<td>5 V</td>
+</tr>
+<tr>
+<td>Batería de auto</td>
+<td>12 V</td>
+</tr>
+<tr>
+<td>Red domiciliaria en Chile</td>
+<td>220 V (alterna, 50 Hz)</td>
+</tr>
+<tr>
+<td>Líneas de alta tensión</td>
+<td>66 000 a 500 000 V</td>
+</tr>
+</tbody>
+</table>
+<div class="nota">
+<p><strong>Una analogía útil: el agua.</strong> Imagina un circuito de cañerías cerrado con una bomba. La <strong>bomba</strong> es la fuente: sube el agua a una altura (el <strong>voltaje</strong>). El <strong>caudal</strong> —cuánta agua pasa por segundo— es la <strong>corriente</strong>. Las cañerías angostas o con obstáculos son la <strong>resistencia</strong>. El agua no se gasta al pasar por una rueda que hace girar: lo que se gasta es la energía que la bomba le dio. Como toda analogía, tiene límites, pero ayuda a no confundir voltaje con corriente.</p>
+</div>
+<h3 id="b-la-resistencia-electrica">b. La resistencia eléctrica</h3>
+<p>La <strong>resistencia</strong> (<em>R</em>) mide cuánto se opone un elemento al paso de la corriente. Al avanzar, los electrones chocan con los átomos del material y les transfieren energía, que se convierte en <strong>calor</strong>. La unidad de resistencia es el <strong>ohm (Ω)</strong>.</p>
+<p>La resistencia de un conductor depende de cuatro factores:</p>
+<p style="text-align:center"><strong><em>R</em> = <em>ρ</em> · <em>L</em> / <em>A</em></strong></p>
+
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Efecto sobre la resistencia</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Largo</strong> (<em>L</em>)</td>
+<td>A mayor largo, <strong>mayor</strong> resistencia (proporcional)</td>
+<td>Los electrones deben recorrer más material</td>
+</tr>
+<tr>
+<td><strong>Área de la sección</strong> (<em>A</em>)</td>
+<td>A mayor grosor, <strong>menor</strong> resistencia (inversamente proporcional)</td>
+<td>Hay más «carriles» para circular</td>
+</tr>
+<tr>
+<td><strong>Material</strong> (resistividad <em>ρ</em>)</td>
+<td>Cada material tiene su resistividad</td>
+<td>El cobre y la plata tienen resistividad muy baja; el nicrom de las estufas, alta</td>
+</tr>
+<tr>
+<td><strong>Temperatura</strong></td>
+<td>En los metales, a mayor temperatura, <strong>mayor</strong> resistencia</td>
+<td>Los átomos vibran más y los choques son más frecuentes</td>
+</tr>
+</tbody>
+</table>
+<div class="ejemplo">
+<p><strong>Cambiar el cable.</strong> Un cable de cobre tiene una resistencia de 0,4 Ω.</p>
+<ul>
+<li>Si se usa un cable del mismo material y grosor, pero del <strong>doble de largo</strong>: <strong>0,8 Ω</strong>.</li>
+<li>Si se usa uno del mismo largo, pero con el <strong>doble de área</strong>: <strong>0,2 Ω</strong>.</li>
+<li>Si se duplican a la vez el largo y el área: <strong>0,4 Ω</strong>, igual que al principio.</li>
+</ul>
+<p>Por eso los artefactos de mucha potencia, como las cocinas eléctricas o los calefactores, se conectan con cables más <strong>gruesos</strong>: tienen menos resistencia y se calientan menos al llevar mucha corriente.</p>
+</div>
+<div class="tip">
+<p><strong>Resistencia no es algo «malo».</strong> En los cables conviene que sea mínima, pero en muchos artefactos es justamente lo que se busca: en el hervidor, la estufa, la plancha, la ducha eléctrica o el tostador, una resistencia se calienta al pasar la corriente, y ese calor es el objetivo. Este efecto se llama <strong>efecto Joule</strong>.</p>
+</div>
+<h3 id="c-como-se-miden-corriente-y-voltaje">c. Cómo se miden corriente y voltaje</h3>
+<table>
+<thead>
+<tr>
+<th>Instrumento</th>
+<th>Qué mide</th>
+<th>Cómo se conecta</th>
+<th>Su resistencia interna</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Amperímetro</strong></td>
+<td>Corriente</td>
+<td>En <strong>serie</strong>: se abre el circuito y se intercala, para que toda la corriente pase por él</td>
+<td>Muy <strong>baja</strong>, para no alterar la corriente</td>
+</tr>
+<tr>
+<td><strong>Voltímetro</strong></td>
+<td>Voltaje</td>
+<td>En <strong>paralelo</strong>: sus terminales se conectan a los dos extremos del elemento</td>
+<td>Muy <strong>alta</strong>, para que casi no pase corriente por él</td>
+</tr>
+<tr>
+<td><strong>Óhmetro</strong></td>
+<td>Resistencia</td>
+<td>En los extremos del elemento, con el circuito <strong>desconectado</strong></td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p>Un <strong>multímetro</strong> reúne los tres instrumentos en uno, y se elige la función con una perilla.</p>
+<figure><img src="img/cap11-electricidad/amperimetro-voltimetro.svg" alt="Circuito con una pila, una ampolleta, un amperímetro conectado en serie en el mismo camino y un voltímetro conectado en paralelo a los extremos de la ampolleta"><figcaption>Figura 2. El amperímetro va en serie (la corriente pasa por él) y el voltímetro en paralelo (mide la diferencia entre dos puntos). Diagrama propio.</figcaption></figure>
+
+<div class="tip">
+<p><strong>El error de conexión.</strong> Un amperímetro conectado en paralelo, por su resistencia tan baja, se comporta como un cortocircuito: pasa por él una corriente enorme que puede dañarlo. Un voltímetro conectado en serie, por su resistencia tan alta, casi corta la corriente del circuito.</p>
+</div>
+<h2 id="4-la-ley-de-ohm">4. La ley de Ohm</h2>
+<h3 id="a-el-enunciado">a. El enunciado</h3>
+<p>En 1827, el alemán <strong>Georg Simon Ohm</strong> publicó que, en muchos conductores a temperatura constante, <strong>la corriente es directamente proporcional al voltaje aplicado</strong>. La constante de proporcionalidad es la resistencia:</p>
+<p style="text-align:center"><strong><em>V</em> = <em>I</em> · <em>R</em></strong> &nbsp;&nbsp;&nbsp; → &nbsp;&nbsp;&nbsp; <strong><em>I</em> = <em>V</em> / <em>R</em></strong> &nbsp;&nbsp;&nbsp; → &nbsp;&nbsp;&nbsp; <strong><em>R</em> = <em>V</em> / <em>I</em></strong></p>
+
+<table>
+<thead>
+<tr>
+<th>Símbolo</th>
+<th>Magnitud</th>
+<th>Unidad</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>V</em></td>
+<td>Diferencia de potencial (voltaje)</td>
+<td>volt (V)</td>
+</tr>
+<tr>
+<td><em>I</em></td>
+<td>Intensidad de corriente</td>
+<td>ampere (A)</td>
+</tr>
+<tr>
+<td><em>R</em></td>
+<td>Resistencia</td>
+<td>ohm (Ω)</td>
+</tr>
+</tbody>
+</table>
+<p>De aquí sale la definición del ohm: un elemento tiene <strong>1 Ω</strong> si, con <strong>1 V</strong> entre sus extremos, circula por él <strong>1 A</strong>.</p>
+<p>Las dos lecturas que más se usan:</p>
+<ul>
+<li><strong>Con la misma resistencia</strong>, si se duplica el voltaje, se duplica la corriente.</li>
+<li><strong>Con el mismo voltaje</strong>, si se duplica la resistencia, la corriente se reduce a la <strong>mitad</strong>.</li>
+</ul>
+<div class="ejemplo">
+<p><strong>Los tres despejes.</strong></p>
+<ol>
+<li>Una ampolleta de 240 Ω se conecta a 12 V: <em>I</em> = 12 / 240 = <strong>0,05 A</strong> (50 mA).</li>
+<li>Por un calefactor conectado a 220 V circulan 5 A: <em>R</em> = 220 / 5 = <strong>44 Ω</strong>.</li>
+<li>Por una resistencia de 100 Ω circulan 0,2 A: el voltaje entre sus extremos es <em>V</em> = 0,2 · 100 = <strong>20 V</strong>.</li>
+</ol>
+</div>
+<h3 id="b-el-grafico-voltajecorriente">b. El gráfico voltaje–corriente</h3>
+<figure><img src="img/cap11-electricidad/grafico-ohm.svg" alt="Gráfico de voltaje versus corriente con dos rectas que pasan por el origen: la del resistor A más empinada que la del resistor B; y una curva que se empina, la de una ampolleta de filamento, que no es óhmica"><figcaption>Figura 3. En un conductor óhmico, el gráfico <em>V</em>–<em>I</em> es una recta por el origen cuya pendiente es <em>R</em>. El filamento de una ampolleta no es óhmico: su resistencia aumenta al calentarse. Diagrama propio.</figcaption></figure>
+
+<ul>
+<li>Si un elemento cumple la ley de Ohm, el gráfico de <strong>voltaje versus corriente</strong> es una <strong>recta que pasa por el origen</strong>, y su <strong>pendiente es la resistencia</strong>. Estos elementos se llaman <strong>óhmicos</strong>.</li>
+<li>Un resistor de mayor resistencia tiene una recta <strong>más empinada</strong>: necesita más voltaje para la misma corriente.</li>
+<li>Hay elementos <strong>no óhmicos</strong>. El más común es el <strong>filamento de una ampolleta incandescente</strong>: al aumentar la corriente se calienta, su resistencia aumenta y la curva se empina. Otro es el <strong>diodo</strong> (y el LED), que deja pasar corriente solo en un sentido.</li>
+</ul>
+<div class="tip">
+<p><strong>Atento al eje.</strong> Algunos libros grafican <em>I</em> versus <em>V</em> (corriente en el eje vertical). En ese caso la pendiente es 1/<em>R</em>: la recta <strong>más empinada</strong> corresponde a la resistencia <strong>menor</strong>. Lee siempre los ejes antes de comparar pendientes.</p>
+</div>
+<h3 id="c-como-se-comprueba-en-el-laboratorio">c. Cómo se comprueba en el laboratorio</h3>
+<div class="nota">
+<p><strong>Un experimento típico.</strong> Se conecta un resistor a una fuente de voltaje variable, con un amperímetro en serie y un voltímetro en paralelo al resistor. Se varía el voltaje de a poco y se anota la corriente.</p>
+<ul>
+<li><strong>Variable independiente</strong>: el voltaje aplicado.</li>
+<li><strong>Variable dependiente</strong>: la corriente.</li>
+<li><strong>Variables controladas</strong>: el mismo resistor y su temperatura (por eso se usan corrientes pequeñas y se desconecta entre mediciones).</li>
+</ul>
+<p>Si el cociente <em>V</em> / <em>I</em> da el mismo valor en todas las mediciones, el resistor es óhmico y ese valor es su resistencia. Si el cociente crece, como en una ampolleta, el elemento no cumple la ley de Ohm.</p>
+</div>
+<h3 id="d-la-ley-de-ohm-y-el-cuerpo-humano">d. La ley de Ohm y el cuerpo humano</h3>
+<p>La piel seca tiene una resistencia de decenas de miles de ohm; mojada, puede bajar a unos pocos cientos o miles de ohm. Con el mismo voltaje de 220 V, la ley de Ohm dice que la corriente que atravesaría el cuerpo puede ser <strong>decenas de veces mayor</strong> con la piel mojada. Por eso es tan peligroso manipular artefactos eléctricos con las manos mojadas o dentro del baño. Lo que daña el cuerpo es la <strong>corriente</strong> que lo atraviesa, y esa corriente depende del voltaje <strong>y</strong> de la resistencia.</p>
+<h2 id="5-circuitos-en-serie">5. Circuitos en serie</h2>
+<h3 id="a-que-es-una-conexion-en-serie">a. Qué es una conexión en serie</h3>
+<p>Dos o más elementos están <strong>en serie</strong> cuando están conectados <strong>uno tras otro</strong>, formando un <strong>único camino</strong> para la corriente. Toda la carga que pasa por el primero debe pasar por el segundo, y así sucesivamente.</p>
+<figure><img src="img/cap11-electricidad/circuito-serie.svg" alt="Circuito en serie: una pila de 12 voltios conectada en un solo camino a tres resistores de 2, 4 y 6 ohms; se indica que por todos pasa 1 ampere y que los voltajes de 2, 4 y 6 voltios suman 12"><figcaption>Figura 4. Circuito en serie: la misma corriente pasa por todos los resistores y sus voltajes se suman. Diagrama propio.</figcaption></figure>
+
+<h3 id="b-las-tres-reglas-del-circuito-en-serie">b. Las tres reglas del circuito en serie</h3>
+<table>
+<thead>
+<tr>
+<th>Magnitud</th>
+<th>Regla</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Corriente</strong></td>
+<td>Es la <strong>misma</strong> en todos los elementos: <em>I</em> = <em>I</em><sub>1</sub> = <em>I</em><sub>2</sub> = <em>I</em><sub>3</sub></td>
+<td>Hay un solo camino y la carga no se acumula ni se pierde</td>
+</tr>
+<tr>
+<td><strong>Voltaje</strong></td>
+<td>El voltaje de la fuente <strong>se reparte</strong>: <em>V</em> = <em>V</em><sub>1</sub> + <em>V</em><sub>2</sub> + <em>V</em><sub>3</sub></td>
+<td>La energía que la fuente da a cada coulomb se va cediendo en cada elemento</td>
+</tr>
+<tr>
+<td><strong>Resistencia equivalente</strong></td>
+<td>Se <strong>suman</strong>: <em>R</em><sub>eq</sub> = <em>R</em><sub>1</sub> + <em>R</em><sub>2</sub> + <em>R</em><sub>3</sub></td>
+<td>La corriente debe atravesar todas las resistencias, una tras otra</td>
+</tr>
+</tbody>
+</table>
+<p>La resistencia equivalente en serie es siempre <strong>mayor</strong> que la mayor de las resistencias. Por eso, al agregar elementos en serie, la corriente del circuito <strong>disminuye</strong>.</p>
+<p>Cada resistor recibe un voltaje <strong>proporcional a su resistencia</strong> (<em>V</em><sub>i</sub> = <em>I</em> · <em>R</em><sub>i</sub>): la resistencia mayor se queda con la mayor parte del voltaje.</p>
+<div class="ejemplo">
+<p><strong>Resolver un circuito en serie (figura 4).</strong> Una pila de 12 V alimenta tres resistores en serie de 2 Ω, 4 Ω y 6 Ω.</p>
+<ol>
+<li>Resistencia equivalente: 2 + 4 + 6 = <strong>12 Ω</strong>.</li>
+<li>Corriente (la misma en todos): <em>I</em> = 12 V / 12 Ω = <strong>1 A</strong>.</li>
+<li>Voltaje en cada resistor: 1 · 2 = <strong>2 V</strong>, 1 · 4 = <strong>4 V</strong> y 1 · 6 = <strong>6 V</strong>.</li>
+<li>Comprobación: 2 + 4 + 6 = 12 V, el voltaje de la pila.</li>
+</ol>
+</div>
+<h3 id="c-ampolletas-en-serie">c. Ampolletas en serie</h3>
+<p>Las ampolletas en serie tienen dos comportamientos característicos:</p>
+<ul>
+<li><strong>Si una se quema o se saca, todas se apagan.</strong> Al abrirse el único camino, la corriente se detiene en todo el circuito. Así funcionaban las antiguas guirnaldas de luces de Navidad: una ampolleta quemada dejaba a oscuras toda la guirnalda.</li>
+<li><strong>Al agregar más ampolletas iguales, todas brillan menos.</strong> La resistencia total aumenta, la corriente baja y cada ampolleta recibe una fracción menor del voltaje.</li>
+</ul>
+<div class="ejemplo">
+<p><strong>Una, dos y tres ampolletas.</strong> Una ampolleta de 6 Ω conectada sola a una pila de 6 V recibe 1 A y todo el voltaje. Con dos ampolletas iguales en serie: <em>R</em><sub>eq</sub> = 12 Ω, <em>I</em> = 0,5 A y cada una recibe 3 V. Con tres: <em>I</em> ≈ 0,33 A y cada una recibe 2 V. Cada ampolleta que se agrega hace que las otras brillen menos.</p>
+</div>
+<h3 id="d-donde-se-usan-las-conexiones-en-serie">d. Dónde se usan las conexiones en serie</h3>
+<ul>
+<li><strong>Interruptores y fusibles</strong>: van en serie con lo que controlan o protegen, para poder cortar la corriente de todo ese camino.</li>
+<li><strong>Pilas en serie</strong>: en una linterna, dos pilas de 1,5 V conectadas en serie (el polo + de una con el − de la otra) entregan <strong>3 V</strong>.</li>
+<li><strong>Amperímetros</strong>: se conectan en serie para que por ellos pase la misma corriente que por el elemento que miden.</li>
+</ul>
+<div class="tip">
+<p><strong>«La primera ampolleta brilla más porque recibe la corriente antes.»</strong> Es falso. En un circuito en serie, la corriente es la misma en todos los puntos al mismo tiempo: si las ampolletas son iguales, brillan igual, sin importar su posición. Si una brilla más, es porque tiene <strong>mayor resistencia</strong> y se queda con más voltaje y más potencia.</p>
+</div>
+<h2 id="6-circuitos-en-paralelo">6. Circuitos en paralelo</h2>
+<h3 id="a-que-es-una-conexion-en-paralelo">a. Qué es una conexión en paralelo</h3>
+<p>Dos o más elementos están <strong>en paralelo</strong> cuando están conectados <strong>entre los mismos dos puntos</strong>, cada uno en su propia <strong>rama</strong>. La corriente que llega a un punto de unión (un <strong>nodo</strong>) se divide entre las ramas y vuelve a juntarse en el otro nodo.</p>
+<figure><img src="img/cap11-electricidad/circuito-paralelo.svg" alt="Circuito en paralelo: una pila de 12 voltios con tres ramas, de 3, 6 y 12 ohms; cada rama recibe 12 voltios y las corrientes de 4, 2 y 1 ampere suman 7 ampere en el cable principal"><figcaption>Figura 5. Circuito en paralelo: todas las ramas tienen el mismo voltaje y sus corrientes se suman. Diagrama propio.</figcaption></figure>
+
+<h3 id="b-las-tres-reglas-del-circuito-en-paralelo">b. Las tres reglas del circuito en paralelo</h3>
+<table>
+<thead>
+<tr>
+<th>Magnitud</th>
+<th>Regla</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Voltaje</strong></td>
+<td>Es el <strong>mismo</strong> en todas las ramas: <em>V</em> = <em>V</em><sub>1</sub> = <em>V</em><sub>2</sub> = <em>V</em><sub>3</sub></td>
+<td>Todas están conectadas directamente a los mismos dos puntos</td>
+</tr>
+<tr>
+<td><strong>Corriente</strong></td>
+<td>La corriente total <strong>se reparte</strong> entre las ramas: <em>I</em> = <em>I</em><sub>1</sub> + <em>I</em><sub>2</sub> + <em>I</em><sub>3</sub></td>
+<td>La carga que llega a un nodo es igual a la que sale de él</td>
+</tr>
+<tr>
+<td><strong>Resistencia equivalente</strong></td>
+<td>Se suman los <strong>inversos</strong>: 1/<em>R</em><sub>eq</sub> = 1/<em>R</em><sub>1</sub> + 1/<em>R</em><sub>2</sub> + 1/<em>R</em><sub>3</sub></td>
+<td>Cada rama agrega un camino más para la corriente</td>
+</tr>
+</tbody>
+</table>
+<p>La resistencia equivalente en paralelo es siempre <strong>menor</strong> que la menor de las resistencias. Por eso, al agregar ramas en paralelo, la corriente <strong>total</strong> que entrega la fuente <strong>aumenta</strong>.</p>
+<p>Por cada rama circula una corriente <strong>inversamente proporcional a su resistencia</strong> (<em>I</em><sub>i</sub> = <em>V</em> / <em>R</em><sub>i</sub>): la rama de menor resistencia se lleva la mayor corriente.</p>
+<div class="nota">
+<p><strong>Dos atajos útiles.</strong>
+- Para <strong>dos</strong> resistencias en paralelo: <em>R</em><sub>eq</sub> = (<em>R</em><sub>1</sub> · <em>R</em><sub>2</sub>) / (<em>R</em><sub>1</sub> + <em>R</em><sub>2</sub>) («producto sobre suma»).
+- Para <strong><em>n</em> resistencias iguales</strong> de valor <em>R</em> en paralelo: <em>R</em><sub>eq</sub> = <em>R</em> / <em>n</em>. Dos resistencias de 10 Ω en paralelo equivalen a 5 Ω.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Resolver un circuito en paralelo (figura 5).</strong> Una pila de 12 V alimenta tres ramas con resistencias de 3 Ω, 6 Ω y 12 Ω.</p>
+<ol>
+<li>Voltaje en cada rama: <strong>12 V</strong>.</li>
+<li>Corrientes: 12/3 = <strong>4 A</strong>, 12/6 = <strong>2 A</strong> y 12/12 = <strong>1 A</strong>.</li>
+<li>Corriente total: 4 + 2 + 1 = <strong>7 A</strong>.</li>
+<li>Resistencia equivalente: <em>R</em><sub>eq</sub> = 12 V / 7 A ≈ <strong>1,7 Ω</strong>. Con la fórmula: 1/<em>R</em><sub>eq</sub> = 1/3 + 1/6 + 1/12 = 4/12 + 2/12 + 1/12 = 7/12, así que <em>R</em><sub>eq</sub> = 12/7 ≈ 1,7 Ω. Es menor que 3 Ω, la menor de las tres.</li>
+</ol>
+</div>
+<h3 id="c-ampolletas-en-paralelo">c. Ampolletas en paralelo</h3>
+<ul>
+<li><strong>Si una se quema, las demás siguen encendidas.</strong> Cada ampolleta tiene su propio camino.</li>
+<li><strong>Al agregar más ampolletas iguales, cada una brilla igual que antes</strong>, porque cada una sigue recibiendo el voltaje completo de la fuente. Lo que aumenta es la corriente <strong>total</strong> que entrega la fuente, y por eso una pila se agota más rápido.</li>
+</ul>
+<h3 id="d-la-instalacion-de-una-casa-es-en-paralelo">d. La instalación de una casa es en paralelo</h3>
+<p>Todos los enchufes y ampolletas de una casa están conectados <strong>en paralelo</strong>. Por eso:</p>
+<ul>
+<li>todos los artefactos reciben los mismos <strong>220 V</strong>, sin importar cuántos haya encendidos;</li>
+<li>se puede encender o apagar cada uno por separado;</li>
+<li>cada artefacto que se enciende <strong>agrega corriente</strong> al total que circula por los cables principales.</li>
+</ul>
+<p>Esto último tiene una consecuencia importante: si se conectan muchos artefactos a la vez en un mismo circuito —con una <strong>zapatilla</strong> o alargador lleno—, la corriente total puede superar lo que soportan los cables. Es una <strong>sobrecarga</strong>, y el interruptor automático del tablero existe para cortarla (sección 10).</p>
+<div class="tip">
+<p><strong>Serie contra paralelo: la tabla que conviene recordar.</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Serie</th>
+<th>Paralelo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Se reparte…</td>
+<td>El voltaje</td>
+<td>La corriente</td>
+</tr>
+<tr>
+<td>Es igual en todos…</td>
+<td>La corriente</td>
+<td>El voltaje</td>
+</tr>
+<tr>
+<td>Resistencia equivalente</td>
+<td>Mayor que la mayor</td>
+<td>Menor que la menor</td>
+</tr>
+<tr>
+<td>Al agregar un elemento, la corriente total…</td>
+<td>Disminuye</td>
+<td>Aumenta</td>
+</tr>
+<tr>
+<td>Si un elemento se abre…</td>
+<td>Todo se apaga</td>
+<td>Los demás siguen</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id="7-circuitos-mixtos">7. Circuitos mixtos</h2>
+<h3 id="a-que-es-un-circuito-mixto">a. Qué es un circuito mixto</h3>
+<p>Un <strong>circuito mixto</strong> combina conexiones en serie y en paralelo. Para resolverlo no hace falta ninguna regla nueva: se aplican las de serie y paralelo <strong>por partes</strong>, reduciendo el circuito paso a paso hasta una sola resistencia equivalente, y luego se vuelve atrás para encontrar las corrientes y los voltajes de cada elemento.</p>
+<h3 id="b-el-procedimiento">b. El procedimiento</h3>
+<ol>
+<li><strong>Identificar</strong> grupos de resistencias que estén claramente en serie (un solo camino entre ellas, sin ramificaciones) o en paralelo (conectadas entre los mismos dos nodos).</li>
+<li><strong>Reemplazar</strong> cada grupo por su resistencia equivalente. Repetir hasta que quede una sola resistencia.</li>
+<li><strong>Calcular la corriente total</strong> con la ley de Ohm: <em>I</em> = <em>V</em> / <em>R</em><sub>eq</sub>.</li>
+<li><strong>Volver atrás</strong>, deshaciendo las reducciones: en los tramos en serie, la corriente es la misma; en los tramos en paralelo, el voltaje es el mismo.</li>
+</ol>
+<figure><img src="img/cap11-electricidad/circuito-mixto.svg" alt="Circuito mixto: una pila de 12 voltios, un resistor de 2 ohms en serie y luego dos resistores de 6 ohms en paralelo entre sí. Abajo, el paso a paso: los dos de 6 en paralelo equivalen a 3 ohms, y en serie con el de 2 dan 5 ohms"><figcaption>Figura 6. Circuito mixto y su reducción paso a paso. Diagrama propio.</figcaption></figure>
+
+<div class="ejemplo">
+<p><strong>Resolver el circuito de la figura 6.</strong> Una pila de 12 V alimenta un resistor <em>R</em><sub>1</sub> = 2 Ω en serie con un grupo de dos resistores de 6 Ω en paralelo (<em>R</em><sub>2</sub> y <em>R</em><sub>3</sub>).</p>
+<ol>
+<li><strong>Paralelo</strong>: dos resistencias iguales de 6 Ω → 6 / 2 = <strong>3 Ω</strong>.</li>
+<li><strong>Serie</strong>: 2 Ω + 3 Ω = <strong>5 Ω</strong> (resistencia equivalente total).</li>
+<li><strong>Corriente total</strong>: <em>I</em> = 12 V / 5 Ω = <strong>2,4 A</strong>. Esta es la corriente que pasa por <em>R</em><sub>1</sub>.</li>
+<li><strong>Voltaje en <em>R</em><sub>1</sub></strong>: 2,4 · 2 = <strong>4,8 V</strong>.</li>
+<li><strong>Voltaje en el grupo en paralelo</strong>: 2,4 · 3 = <strong>7,2 V</strong> (también 12 − 4,8 = 7,2 V). Ese voltaje es el mismo para <em>R</em><sub>2</sub> y <em>R</em><sub>3</sub>.</li>
+<li><strong>Corriente por <em>R</em><sub>2</sub> y por <em>R</em><sub>3</sub></strong>: 7,2 / 6 = <strong>1,2 A</strong> cada una. Comprobación: 1,2 + 1,2 = 2,4 A, la corriente total.</li>
+</ol>
+</div>
+<h3 id="c-razonar-sin-calcular-que-pasa-si-se-cambia-algo">c. Razonar sin calcular: qué pasa si se cambia algo</h3>
+<p>La PAES pregunta a menudo qué ocurre con el brillo de las ampolletas o las lecturas de los instrumentos cuando se abre un interruptor, se agrega una rama o se quema un elemento. El razonamiento sigue siempre la misma cadena:</p>
+<p><strong>cambio en el circuito → cambio en la resistencia equivalente → cambio en la corriente total → cambio en cada parte.</strong></p>
+<div class="ejemplo">
+<p><strong>Se quema <em>R</em><sub>3</sub> en el circuito de la figura 6.</strong></p>
+<ul>
+<li>El grupo en paralelo queda solo con <em>R</em><sub>2</sub>: su resistencia sube de 3 Ω a <strong>6 Ω</strong>.</li>
+<li>La resistencia total sube de 5 Ω a 2 + 6 = <strong>8 Ω</strong>.</li>
+<li>La corriente total <strong>baja</strong> de 2,4 A a 12 / 8 = <strong>1,5 A</strong>: <em>R</em><sub>1</sub> recibe menos corriente y, si fuera una ampolleta, <strong>brillaría menos</strong>.</li>
+<li>El voltaje en <em>R</em><sub>1</sub> baja a 1,5 · 2 = 3 V, así que el voltaje en <em>R</em><sub>2</sub> <strong>sube</strong> a 12 − 3 = <strong>9 V</strong>, y su corriente sube de 1,2 A a 9 / 6 = <strong>1,5 A</strong>: <em>R</em><sub>2</sub> <strong>brillaría más</strong>.</li>
+</ul>
+<p>Es un resultado que sorprende: al quemarse una ampolleta, otra del circuito se enciende con más fuerza.</p>
+</div>
+<div class="tip">
+<p><strong>Cortocircuito en una parte del circuito.</strong> Si un cable sin resistencia conecta los dos extremos de un elemento, la corriente pasa toda por el cable y <strong>nada</strong> por ese elemento, que se apaga. El resto del circuito ve disminuir su resistencia total, y la corriente aumenta. Si el cable conecta directamente los dos polos de la fuente, la resistencia total es casi cero y la corriente se dispara: es un <strong>cortocircuito</strong> de la fuente, que puede calentar los cables hasta fundirlos.</p>
+</div>
+<h2 id="8-potencia-y-energia-electrica">8. Potencia y energía eléctrica</h2>
+<h3 id="a-la-potencia-electrica">a. La potencia eléctrica</h3>
+<p>La <strong>potencia</strong> (<em>P</em>) de un artefacto es la <strong>energía que transforma por unidad de tiempo</strong>. Como cada coulomb que atraviesa un elemento con voltaje <em>V</em> le entrega <em>V</em> joules, y por segundo pasan <em>I</em> coulomb, la potencia es:</p>
+<p style="text-align:center"><strong><em>P</em> = <em>V</em> · <em>I</em></strong></p>
+
+<p>Su unidad es el <strong>watt (W)</strong>: 1 W = 1 J/s = 1 V · 1 A. Combinando con la ley de Ohm se obtienen otras dos formas:</p>
+<p style="text-align:center"><strong><em>P</em> = <em>I</em>² · <em>R</em></strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong><em>P</em> = <em>V</em>² / <em>R</em></strong></p>
+
+<div class="nota">
+<p><strong>Cuál usar.</strong> Las tres dan lo mismo; conviene elegir la que usa los datos conocidos. En un circuito <strong>en serie</strong>, la corriente es común y resulta cómodo <em>P</em> = <em>I</em>² · <em>R</em>: la resistencia <strong>mayor</strong> disipa <strong>más</strong> potencia. En un circuito <strong>en paralelo</strong> (como una casa), el voltaje es común y resulta cómodo <em>P</em> = <em>V</em>² / <em>R</em>: la resistencia <strong>menor</strong> disipa <strong>más</strong> potencia.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Leer la placa de un hervidor.</strong> Un hervidor dice «220 V – 2 000 W».</p>
+<ul>
+<li>Corriente que consume: <em>I</em> = <em>P</em> / <em>V</em> = 2 000 / 220 ≈ <strong>9,1 A</strong>.</li>
+<li>Resistencia de su elemento calefactor: <em>R</em> = <em>V</em>² / <em>P</em> = 220² / 2 000 ≈ <strong>24 Ω</strong>.</li>
+</ul>
+<p>Si se conectara a 110 V (la mitad), su potencia sería (110)² / 24 ≈ 500 W: <strong>la cuarta parte</strong>, porque la potencia depende del <strong>cuadrado</strong> del voltaje. Por eso un artefacto hecho para 220 V funciona mal en un país con 110 V.</p>
+</div>
+<div class="tip">
+<p><strong>¿Más resistencia, más potencia?</strong> Depende de qué se mantenga fijo. Con el <strong>mismo voltaje</strong> (en paralelo, en una casa), <strong>menos</strong> resistencia significa <strong>más</strong> potencia: un calefactor de 2 000 W tiene menos resistencia que una ampolleta de 60 W. Con la <strong>misma corriente</strong> (en serie), <strong>más</strong> resistencia significa <strong>más</strong> potencia. Por eso, dos ampolletas distintas brillan al revés según se conecten en serie o en paralelo.</p>
+</div>
+<h3 id="b-la-energia-electrica">b. La energía eléctrica</h3>
+<p>La <strong>energía</strong> que consume un artefacto es su potencia por el tiempo que funciona:</p>
+<p style="text-align:center"><strong><em>E</em> = <em>P</em> · <em>t</em></strong></p>
+
+<p>En el SI, con <em>P</em> en watt y <em>t</em> en segundos, la energía queda en <strong>joule</strong>. Pero para el consumo doméstico el joule es una unidad muy pequeña, y se usa el <strong>kilowatt-hora (kWh)</strong>: la energía que consume un artefacto de 1 kW (1 000 W) durante 1 hora.</p>
+<p style="text-align:center">1 kWh = 1 000 W · 3 600 s = <strong>3,6 × 10<sup>6</sup> J</strong></p>
+
+<div class="tip">
+<p><strong>El kWh es energía, no potencia.</strong> «Kilowatt» mide potencia (qué tan rápido se usa la energía); «kilowatt-hora» mide energía (cuánta se usó en total). Un artefacto de 100 W encendido 10 horas consume lo mismo que uno de 1 000 W encendido 1 hora: <strong>1 kWh</strong>.</p>
+</div>
+<h3 id="c-calcular-la-cuenta-de-la-luz">c. Calcular la cuenta de la luz</h3>
+<p>El medidor de una casa registra los kWh consumidos, y la empresa distribuidora cobra un precio por cada kWh. Para calcular el costo de usar un artefacto:</p>
+<ol>
+<li>Pasar la potencia a <strong>kW</strong> (dividir los watt por 1 000).</li>
+<li>Multiplicar por las <strong>horas</strong> de uso: se obtienen los <strong>kWh</strong>.</li>
+<li>Multiplicar por el <strong>precio del kWh</strong>.</li>
+</ol>
+<div class="ejemplo">
+<p><strong>Cuánto cuesta usar algunos artefactos.</strong> Supón un precio de $200 por kWh (valor ilustrativo: el precio real depende de la comuna, la empresa y el año, y figura en cada boleta).</p>
+<table>
+<thead>
+<tr>
+<th>Artefacto</th>
+<th>Potencia</th>
+<th>Uso diario</th>
+<th>kWh al mes (30 días)</th>
+<th>Costo mensual</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hervidor</td>
+<td>2 000 W</td>
+<td>15 min</td>
+<td>2 kW · 0,25 h · 30 = <strong>15 kWh</strong></td>
+<td><strong>$3 000</strong></td>
+</tr>
+<tr>
+<td>Refrigerador</td>
+<td>150 W (promedio)</td>
+<td>24 h</td>
+<td>0,15 · 24 · 30 = <strong>108 kWh</strong></td>
+<td><strong>$21 600</strong></td>
+</tr>
+<tr>
+<td>Ampolleta LED</td>
+<td>9 W</td>
+<td>5 h</td>
+<td>0,009 · 5 · 30 = <strong>1,35 kWh</strong></td>
+<td><strong>$270</strong></td>
+</tr>
+<tr>
+<td>Ampolleta incandescente</td>
+<td>60 W</td>
+<td>5 h</td>
+<td>0,06 · 5 · 30 = <strong>9 kWh</strong></td>
+<td><strong>$1 800</strong></td>
+</tr>
+</tbody>
+</table>
+<p>El refrigerador, aunque tiene poca potencia, es el que más consume porque funciona todo el día. En el consumo lo que importa es <strong>potencia por tiempo</strong>.</p>
+</div>
+<h3 id="d-el-efecto-joule">d. El efecto Joule</h3>
+<p>Cuando la corriente atraviesa una resistencia, los choques de los electrones con los átomos transforman energía eléctrica en <strong>calor</strong>. Es el <strong>efecto Joule</strong>, y su potencia es <em>P</em> = <em>I</em>² · <em>R</em>.</p>
+<ul>
+<li>Es <strong>útil</strong> en hervidores, estufas, planchas, secadores de pelo, tostadores, duchas y calefonts eléctricos.</li>
+<li>Es una <strong>pérdida</strong> en los cables, los motores y los cargadores, que se calientan sin que eso sirva de nada. Como depende de <em>I</em>², las pérdidas crecen rápido con la corriente: por eso la electricidad se transporta por las líneas de alta tensión con <strong>alto voltaje y baja corriente</strong>.</li>
+<li>Es un <strong>peligro</strong> cuando un cable lleva más corriente de la que soporta: se calienta, derrite su aislante y puede causar un incendio.</li>
+</ul>
+<h2 id="9-consumo-y-eficiencia-energetica">9. Consumo y eficiencia energética</h2>
+<h3 id="a-que-es-la-eficiencia">a. Qué es la eficiencia</h3>
+<p>Ningún artefacto transforma toda la energía eléctrica que recibe en la forma de energía que nos interesa. Una ampolleta quiere producir <strong>luz</strong>, pero parte de la energía se va en <strong>calor</strong>; un motor quiere producir <strong>movimiento</strong>, pero también se calienta y hace ruido. La <strong>eficiencia</strong> (<em>η</em>) mide qué fracción de la energía consumida se aprovecha:</p>
+<p style="text-align:center"><strong><em>η</em> = energía útil / energía consumida = potencia útil / potencia consumida</strong></p>
+
+<p>Se expresa como fracción o como porcentaje, y siempre es <strong>menor que 1 (100 %)</strong>. La energía que no se aprovecha <strong>no desaparece</strong>: se transforma en formas no deseadas, casi siempre calor.</p>
+<figure><img src="img/cap11-electricidad/eficiencia-ampolletas.svg" alt="Diagramas de flujo de energía de dos ampolletas que dan la misma luz: la incandescente consume 60 watts y entrega unos 3 watts de luz y 57 de calor; la LED consume 9 watts y entrega unos 3 watts de luz y 6 de calor"><figcaption>Figura 7. Dos ampolletas que dan aproximadamente la misma luz. La incandescente convierte en luz alrededor del 5 % de la energía; la LED, varias veces más. Valores aproximados. Diagrama propio.</figcaption></figure>
+
+<div class="ejemplo">
+<p><strong>Comparar ampolletas.</strong> Una ampolleta incandescente de 60 W y una LED de 9 W dan aproximadamente la misma luz. Si ambas producen unos 3 W de luz:</p>
+<ul>
+<li>Eficiencia de la incandescente: 3 / 60 = <strong>5 %</strong>. El resto, 57 W, se va en calor: por eso quema al tocarla.</li>
+<li>Eficiencia de la LED: 3 / 9 ≈ <strong>33 %</strong>.</li>
+</ul>
+<p>Cambiar una por otra, con 5 horas de uso diario, ahorra (60 − 9) W · 5 h · 30 días ≈ <strong>7,7 kWh al mes</strong> por cada ampolleta.</p>
+</div>
+<h3 id="b-que-consume-mas-en-una-casa">b. Qué consume más en una casa</h3>
+<p>La energía consumida depende de <strong>potencia por tiempo de uso</strong>. Algunos valores típicos:</p>
+<table>
+<thead>
+<tr>
+<th>Artefacto</th>
+<th>Potencia típica</th>
+<th>Observación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hervidor eléctrico</td>
+<td>1 500 – 2 200 W</td>
+<td>Mucha potencia, pero poco tiempo</td>
+</tr>
+<tr>
+<td>Estufa eléctrica</td>
+<td>1 000 – 2 000 W</td>
+<td>Puede ser el mayor gasto en invierno</td>
+</tr>
+<tr>
+<td>Horno microondas</td>
+<td>800 – 1 200 W</td>
+<td></td>
+</tr>
+<tr>
+<td>Plancha</td>
+<td>1 000 – 1 500 W</td>
+<td></td>
+</tr>
+<tr>
+<td>Refrigerador</td>
+<td>100 – 200 W (en promedio)</td>
+<td>Poca potencia, pero funciona todo el día</td>
+</tr>
+<tr>
+<td>Televisor LED</td>
+<td>50 – 150 W</td>
+<td></td>
+</tr>
+<tr>
+<td>Computador portátil</td>
+<td>30 – 60 W</td>
+<td></td>
+</tr>
+<tr>
+<td>Ampolleta LED</td>
+<td>5 – 12 W</td>
+<td>Reemplaza a una incandescente de 40 a 100 W</td>
+</tr>
+<tr>
+<td>Cargador de celular</td>
+<td>5 – 20 W</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>El consumo en espera (<em>stand-by</em>).</strong> Muchos artefactos siguen consumiendo energía cuando están «apagados» con el control remoto: la luz roja del televisor, el decodificador, el cargador enchufado sin celular. Cada uno gasta pocos watt, pero durante las 24 horas del día y todos los días del año. Desenchufarlos, o usar una zapatilla con interruptor, reduce la cuenta.</p>
+<h3 id="c-la-etiqueta-de-eficiencia-energetica">c. La etiqueta de eficiencia energética</h3>
+<p>En Chile, la Superintendencia de Electricidad y Combustibles (<strong>SEC</strong>) exige que refrigeradores, lavadoras, ampolletas, televisores, hornos microondas y otros artefactos lleven una <strong>etiqueta de eficiencia energética</strong>. La etiqueta:</p>
+<ul>
+<li>clasifica el artefacto con <strong>letras y colores</strong>, desde la clase más eficiente (verde, con la letra A o A con signos «+») hasta la menos eficiente (rojo);</li>
+<li>informa su <strong>consumo de energía</strong>, normalmente en <strong>kWh por año</strong> o por ciclo de uso.</li>
+</ul>
+<p>Entre dos refrigeradores del mismo tamaño, el de mejor clase puede consumir bastante menos energía al año, y esa diferencia se paga en cada cuenta de luz durante toda la vida útil del artefacto.</p>
+<div class="tip">
+<p><strong>Potencia alta no significa ineficiente.</strong> Un hervidor de 2 000 W es muy <strong>eficiente</strong>: casi toda su energía termina calentando el agua. Lo que indica la eficiencia es qué <strong>fracción</strong> de la energía se aprovecha, no cuánta energía se usa por segundo. Y la etiqueta compara artefactos <strong>del mismo tipo</strong>: no tiene sentido comparar la clase de un refrigerador con la de una lavadora.</p>
+</div>
+<h3 id="d-por-que-importa">d. Por qué importa</h3>
+<p>Ahorrar energía eléctrica no solo reduce la cuenta. Una parte de la electricidad de Chile todavía se genera quemando carbón, gas o petróleo, que emiten gases de efecto invernadero. Consumir menos, y usar artefactos más eficientes, reduce esas emisiones y la necesidad de construir nuevas centrales.</p>
+<p>Medidas simples y efectivas: cambiar ampolletas incandescentes por LED; elegir artefactos de mejor clase energética; no dejar artefactos en espera; usar el hervidor solo con el agua necesaria; no abrir el refrigerador más de lo necesario, y alejarlo de fuentes de calor.</p>
+<h2 id="10-la-instalacion-electrica-domiciliaria">10. La instalación eléctrica domiciliaria</h2>
+<h3 id="a-de-la-calle-al-enchufe">a. De la calle al enchufe</h3>
+<p>La electricidad llega a una casa desde la red de distribución y recorre un camino con componentes que cumplen funciones precisas:</p>
+<figure><img src="img/cap11-electricidad/instalacion-domiciliaria.svg" alt="Esquema de una instalación eléctrica domiciliaria: el cable de la red llega al empalme, pasa por el medidor y entra al tablero, donde un protector diferencial y varios interruptores automáticos alimentan circuitos separados de alumbrado y enchufes conectados en paralelo; un conductor de tierra baja desde el tablero a una barra enterrada"><figcaption>Figura 8. Componentes principales de una instalación eléctrica domiciliaria. Esquema simplificado. Diagrama propio.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th>Componente</th>
+<th>Función</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Empalme</strong></td>
+<td>Conexión entre la red de la empresa distribuidora y la instalación de la casa</td>
+</tr>
+<tr>
+<td><strong>Medidor</strong></td>
+<td>Registra la energía consumida, en <strong>kWh</strong>; con él se calcula la cuenta</td>
+</tr>
+<tr>
+<td><strong>Tablero eléctrico</strong></td>
+<td>Caja donde están los dispositivos de protección y desde donde se reparten los circuitos</td>
+</tr>
+<tr>
+<td><strong>Interruptor termomagnético (automático)</strong></td>
+<td>Corta un circuito ante una <strong>sobrecarga</strong> o un <strong>cortocircuito</strong>; protege los <strong>cables</strong> y la instalación</td>
+</tr>
+<tr>
+<td><strong>Protector diferencial</strong></td>
+<td>Corta el circuito si detecta una <strong>fuga de corriente</strong>, por ejemplo, a través de una persona; protege a las <strong>personas</strong></td>
+</tr>
+<tr>
+<td><strong>Conexión a tierra (tierra de protección)</strong></td>
+<td>Conductor que une las carcasas metálicas de los artefactos con un electrodo enterrado; lleva a tierra la corriente de una falla</td>
+</tr>
+<tr>
+<td><strong>Circuitos</strong></td>
+<td>Ramas separadas (alumbrado, enchufes, cocina, etc.), cada una con su propio automático</td>
+</tr>
+<tr>
+<td><strong>Interruptores</strong></td>
+<td>Abren o cierran un circuito de alumbrado; van en serie con la ampolleta que controlan</td>
+</tr>
+<tr>
+<td><strong>Enchufes</strong></td>
+<td>Puntos de conexión de los artefactos, todos en paralelo. En Chile se usa el enchufe de tres espigas en línea, cuya espiga central es la tierra</td>
+</tr>
+</tbody>
+</table>
+<p>En Chile, la red domiciliaria entrega corriente alterna de <strong>220 V</strong> y <strong>50 Hz</strong>. Las instalaciones deben cumplir el reglamento de seguridad de instalaciones de consumo del Ministerio de Energía y sus pliegos técnicos (<strong>RIC</strong>), vigentes desde 2021. Una instalación nueva debe ser ejecutada y declarada ante la <strong>SEC</strong> por un <strong>instalador eléctrico autorizado</strong>.</p>
+<h3 id="b-por-que-los-artefactos-van-en-paralelo">b. Por qué los artefactos van en paralelo</h3>
+<p>Como se vio en la sección 6, en paralelo cada artefacto recibe los <strong>220 V</strong> completos y funciona de manera independiente: encender el hervidor no hace que la luz se atenúe (idealmente), y apagar la televisión no apaga el refrigerador. Si los artefactos estuvieran en serie, se repartirían el voltaje, ninguno funcionaría bien y apagar uno los apagaría a todos.</p>
+<h3 id="c-sobrecarga-y-cortocircuito">c. Sobrecarga y cortocircuito</h3>
+<p>Son las dos fallas contra las que protege el <strong>interruptor termomagnético</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Falla</th>
+<th>Qué pasa</th>
+<th>Cómo actúa el automático</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Sobrecarga</strong></td>
+<td>Se conectan demasiados artefactos al mismo circuito; la suma de sus corrientes supera lo que soportan los cables, que se calientan (efecto Joule)</td>
+<td>Su parte <strong>térmica</strong> (una lámina que se curva al calentarse) corta el circuito después de algunos segundos o minutos</td>
+</tr>
+<tr>
+<td><strong>Cortocircuito</strong></td>
+<td>Los conductores se tocan directamente, sin pasar por un artefacto; la resistencia cae casi a cero y la corriente se dispara</td>
+<td>Su parte <strong>magnética</strong> (una bobina que atrae un contacto) corta el circuito en milésimas de segundo</td>
+</tr>
+</tbody>
+</table>
+<div class="ejemplo">
+<p><strong>¿Salta el automático?</strong> Un circuito de enchufes está protegido por un automático de 16 A. En él se conectan a la vez un hervidor de 2 000 W, un microondas de 1 100 W y una estufa de 1 500 W, todos a 220 V.</p>
+<ul>
+<li>Potencia total: 2 000 + 1 100 + 1 500 = <strong>4 600 W</strong>.</li>
+<li>Corriente total (están en paralelo, las corrientes se suman): <em>I</em> = 4 600 / 220 ≈ <strong>20,9 A</strong>.</li>
+</ul>
+<p>Como 20,9 A supera los 16 A del automático, <strong>el automático se desconecta</strong>. La solución no es cambiarlo por uno mayor —los cables podrían no resistir esa corriente—, sino repartir los artefactos entre distintos circuitos.</p>
+</div>
+<p>Antes de los automáticos se usaban <strong>fusibles</strong>: un alambre delgado, en serie con el circuito, que se funde cuando la corriente supera cierto valor. Cumplen la misma función, pero hay que reemplazarlos cada vez que actúan.</p>
+<h3 id="d-el-protector-diferencial-y-la-conexion-a-tierra">d. El protector diferencial y la conexión a tierra</h3>
+<p>Estos dos componentes protegen a las <strong>personas</strong>, no a la instalación.</p>
+<ul>
+<li><strong>Conexión a tierra.</strong> Si un cable interno de una lavadora se suelta y toca la carcasa metálica, la carcasa queda «energizada». Sin tierra, quien la toque se convierte en el camino de la corriente hacia el suelo. Con tierra, la corriente de la falla se va por el conductor de protección, que tiene mucho menos resistencia que el cuerpo. Por eso existe la tercera espiga del enchufe.</li>
+<li><strong>Protector diferencial.</strong> Compara la corriente que <strong>sale</strong> por un conductor con la que <strong>vuelve</strong> por el otro. Si son iguales, todo está bien. Si difieren en más de un umbral pequeño —<strong>30 mA</strong> en las casas—, significa que parte de la corriente se está escapando por otro camino (la tierra o una persona), y el diferencial corta el circuito en una fracción de segundo.</li>
+</ul>
+<div class="tip">
+<p><strong>Qué protege cada uno.</strong> El automático protege contra corrientes <strong>grandes</strong> (sobrecarga, cortocircuito), pero <strong>no</strong> detecta una fuga de pocos miliampere a través de una persona: para él, 30 mA es nada. Esa es la función del diferencial. Por eso una instalación segura necesita <strong>los dos</strong>, y además la conexión a tierra.</p>
+</div>
+<h3 id="e-la-corriente-y-el-cuerpo-humano">e. La corriente y el cuerpo humano</h3>
+<p>Lo que daña al cuerpo es la <strong>corriente</strong> que lo atraviesa. Los efectos aproximados de la corriente alterna de 50 Hz, según su intensidad:</p>
+<table>
+<thead>
+<tr>
+<th>Corriente a través del cuerpo</th>
+<th>Efecto aproximado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Alrededor de 1 mA</td>
+<td>Umbral de percepción: se siente un cosquilleo</td>
+</tr>
+<tr>
+<td>Alrededor de 10 mA</td>
+<td>Contracción muscular: la persona puede no ser capaz de soltar el cable</td>
+</tr>
+<tr>
+<td>25 – 30 mA</td>
+<td>Dificultad para respirar; riesgo grave si se prolonga</td>
+</tr>
+<tr>
+<td>Del orden de 100 mA</td>
+<td>Riesgo de fibrilación del corazón, potencialmente mortal</td>
+</tr>
+</tbody>
+</table>
+<p>(Los umbrales varían según la persona, el recorrido de la corriente y el tiempo de exposición.)</p>
+<p>El umbral del diferencial, 30 mA, se eligió justamente para cortar antes de llegar a las corrientes más peligrosas. Y la ley de Ohm explica por qué el agua es tan riesgosa: con la piel mojada, la resistencia del cuerpo baja mucho y, con los mismos 220 V, la corriente sube.</p>
+<p><strong>Medidas básicas de seguridad:</strong> no manipular artefactos ni enchufes con las manos mojadas; no usar alargadores sobrecargados ni cables con el aislante dañado; desconectar el automático antes de cambiar una lámpara o un enchufe; no reemplazar un automático por otro de mayor capacidad sin revisar los cables; y dejar las reparaciones de la instalación a un instalador autorizado.</p>
+<h2 id="ejemplos-paes-resueltos">Ejemplos PAES resueltos</h2>
+<p>Cuatro ítems al estilo de la prueba, resueltos paso a paso. Cúbrelos primero y después compara.</p>
+<div class="ejemplo">
+<p><strong>Ejemplo 1 (Procesar y analizar la evidencia).</strong> Un grupo aplica distintos voltajes a dos componentes, P y Q, y mide la corriente que circula por cada uno:</p>
+<table>
+<thead>
+<tr>
+<th>Voltaje (V)</th>
+<th>2</th>
+<th>4</th>
+<th>6</th>
+<th>8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Corriente en P (A)</td>
+<td>0,10</td>
+<td>0,20</td>
+<td>0,30</td>
+<td>0,40</td>
+</tr>
+<tr>
+<td>Corriente en Q (A)</td>
+<td>0,20</td>
+<td>0,32</td>
+<td>0,40</td>
+<td>0,46</td>
+</tr>
+</tbody>
+</table>
+<p>¿Cuál de las siguientes conclusiones es coherente con los datos?</p>
+<p>A) P cumple la ley de Ohm con una resistencia de 20 Ω, y la resistencia de Q aumenta con el voltaje.
+B) P y Q cumplen la ley de Ohm, porque en ambos la corriente aumenta con el voltaje.
+C) P cumple la ley de Ohm con una resistencia de 0,05 Ω, y Q tiene resistencia constante.
+D) Q cumple la ley de Ohm con una resistencia de 10 Ω, y la resistencia de P disminuye con el voltaje.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Calcular <em>V</em> / <em>I</em> en cada fila.</strong> En P: 2/0,10 = 20; 4/0,20 = 20; 6/0,30 = 20; 8/0,40 = 20 Ω. Es constante: P es <strong>óhmico</strong>, con <em>R</em> = 20 Ω.</li>
+<li><strong>En Q:</strong> 2/0,20 = 10; 4/0,32 = 12,5; 6/0,40 = 15; 8/0,46 ≈ 17,4 Ω. La resistencia <strong>aumenta</strong> con el voltaje: Q <strong>no</strong> es óhmico (se comporta como el filamento de una ampolleta que se calienta).</li>
+<li><strong>Descartar.</strong> B usa un criterio insuficiente: que la corriente aumente no basta, tiene que aumentar en <strong>proporción</strong>. C invierte el cociente (<em>I</em> / <em>V</em> = 0,05) y afirma que Q es constante. D confunde los dos componentes.</li>
+</ol>
+<p><strong>Clave: A.</strong></p>
+<p><strong>Lo que evalúa.</strong> Usar una operación matemática (el cociente <em>V</em> / <em>I</em>) para decidir si un elemento cumple una ley.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 2 (Planificar y conducir una investigación).</strong> Una estudiante quiere medir la corriente que pasa por una ampolleta y el voltaje entre sus extremos. Tiene una pila, la ampolleta, cables, un amperímetro y un voltímetro.</p>
+<p>¿Cuál es la forma correcta de conectar los instrumentos?</p>
+<p>A) El amperímetro en paralelo con la ampolleta y el voltímetro en serie con ella.
+B) Ambos instrumentos en serie con la ampolleta, uno a cada lado.
+C) El amperímetro en serie con la ampolleta y el voltímetro en paralelo con ella.
+D) Ambos instrumentos en paralelo con la ampolleta, entre sus dos extremos.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>El amperímetro</strong> debe medir la corriente que <strong>atraviesa</strong> la ampolleta: se intercala en el mismo camino, <strong>en serie</strong>. Su resistencia es muy baja para no alterar la corriente.</li>
+<li><strong>El voltímetro</strong> debe medir la diferencia de potencial <strong>entre dos puntos</strong>: se conecta a los extremos de la ampolleta, <strong>en paralelo</strong>. Su resistencia es muy alta para no desviar corriente.</li>
+<li><strong>Descartar.</strong> A intercambia las conexiones: el amperímetro en paralelo sería casi un cortocircuito y el voltímetro en serie casi cortaría la corriente. B y D ponen a uno de los dos en la conexión incorrecta.</li>
+</ol>
+<p><strong>Clave: C.</strong></p>
+<p><strong>Lo que evalúa.</strong> Asociar cada instrumento con la variable que mide y con la forma correcta de incluirlo en el circuito.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 3 (Evaluar).</strong> Una familia quiere reducir su cuenta de la luz y evalúa tres medidas. Con un precio de $200 por kWh:</p>
+<ul>
+<li>Medida 1: cambiar 6 ampolletas incandescentes de 60 W por LED de 9 W. Cada ampolleta se usa 4 horas al día.</li>
+<li>Medida 2: desenchufar un televisor que en espera consume 5 W, las 20 horas al día que no se usa.</li>
+<li>Medida 3: usar el hervidor (2 000 W) 5 minutos menos al día.</li>
+</ul>
+<p>¿Cuál es la afirmación correcta sobre el ahorro mensual (30 días)?</p>
+<p>A) La medida 3 ahorra más, porque el hervidor tiene la mayor potencia.
+B) La medida 2 ahorra más, porque el televisor está en espera la mayor parte del día.
+C) Las tres medidas ahorran lo mismo, porque todas reducen el consumo.
+D) La medida 1 ahorra más, porque reduce mucha potencia durante varias horas.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Medida 1:</strong> ahorro de potencia 6 · (60 − 9) = 306 W = 0,306 kW, por 4 h · 30 días = <strong>36,7 kWh</strong> ≈ $7 300.</li>
+<li><strong>Medida 2:</strong> 0,005 kW · 20 h · 30 días = <strong>3 kWh</strong> ≈ $600.</li>
+<li><strong>Medida 3:</strong> 2 kW · (5/60) h · 30 días = <strong>5 kWh</strong> ≈ $1 000.</li>
+<li><strong>Conclusión.</strong> La medida 1 ahorra por lejos lo más. A comete el error de mirar solo la potencia sin considerar el <strong>tiempo</strong>. B sobrevalora un consumo de muy baja potencia. C no compara los valores.</li>
+</ol>
+<p><strong>Clave: D.</strong></p>
+<p><strong>Lo que evalúa.</strong> Evaluar alternativas tecnológicas con un criterio cuantitativo: la energía es potencia <strong>por</strong> tiempo.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 4 (Observar y plantear preguntas).</strong> En una casa, cada vez que se enciende la estufa eléctrica mientras funciona el hervidor, se desconecta el automático del circuito de la cocina. Con uno solo de los dos artefactos, el automático no se desconecta.</p>
+<p>¿Cuál de las siguientes hipótesis explica mejor la observación?</p>
+<p>A) El automático se desconecta porque la estufa tiene una fuga de corriente hacia la tierra.
+B) La corriente total de los dos artefactos juntos supera la corriente máxima del automático.
+C) El voltaje de la red baja a la mitad cuando se conectan dos artefactos a la vez.
+D) El hervidor y la estufa están conectados en serie y se reparten la corriente.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué patrón hay.</strong> Cada artefacto por separado funciona; los dos juntos, no. Lo que cambia al agregar el segundo es la <strong>corriente total</strong> del circuito.</li>
+<li><strong>Hipótesis coherente.</strong> Los artefactos de una casa están en <strong>paralelo</strong>: sus corrientes se <strong>suman</strong>. Si la suma supera la corriente máxima del automático, este corta por <strong>sobrecarga</strong>. Se puede poner a prueba sumando las corrientes de placa (potencia / 220 V) y comparándolas con el valor del automático.</li>
+<li><strong>Descartar.</strong> A: una fuga a tierra la detectaría el <strong>diferencial</strong>, y ocurriría también con la estufa sola. C: en paralelo, cada artefacto recibe los 220 V completos. D: los enchufes no están en serie; si lo estuvieran, ninguno funcionaría bien.</li>
+</ol>
+<p><strong>Clave: B.</strong></p>
+<p><strong>Lo que evalúa.</strong> Formular una hipótesis coherente con la observación y con el modelo del circuito en paralelo, y que se pueda comprobar.</p>
+</div>
+<h2 id="evaluacion-formativa">Evaluación formativa</h2>
+<p>Veinte preguntas sobre corriente, voltaje, resistencia, ley de Ohm, circuitos en serie, paralelo y mixtos, potencia, energía, eficiencia e instalación domiciliaria. Responde todas y luego revisa las explicaciones.</p>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>1.</strong> Por un cable circula una corriente de 2 A durante 30 s. ¿Cuánta carga atravesó una sección del cable?</p>
+  <ol class="alternativas">
+    <li data-letra="A">15 C</li>
+    <li data-letra="B">32 C</li>
+    <li data-letra="C">60 C</li>
+    <li data-letra="D">120 C</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>q = I · t = 2 A · 30 s = 60 C. Dividir en vez de multiplicar da 15 C; sumar da 32 C.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>2.</strong> En un circuito con una pila y una ampolleta, ¿cómo es la corriente que entra a la ampolleta comparada con la que sale de ella?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Son iguales, porque la carga no se gasta.</li>
+    <li data-letra="B">La que sale es menor, porque se gastó.</li>
+    <li data-letra="C">La que sale es mayor, porque se aceleró.</li>
+    <li data-letra="D">La que sale es nula, porque se detuvo.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La carga no se acumula ni se pierde en el circuito: la misma corriente entra y sale de la ampolleta. Lo que la ampolleta transforma es energía (en luz y calor), no carga.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>3.</strong> ¿Qué significa que una pila tenga un voltaje de 9 V?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Que entrega siempre 9 A de corriente.</li>
+    <li data-letra="B">Que tiene 9 C de carga almacenada.</li>
+    <li data-letra="C">Que su resistencia interna es de 9 Ω.</li>
+    <li data-letra="D">Que entrega 9 J a cada coulomb de carga.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>El voltaje es energía por unidad de carga: 1 V = 1 J/C. La corriente que entrega la pila no es fija: depende de la resistencia conectada.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>4.</strong> Un cable de cobre tiene una resistencia de 0,6 Ω. ¿Qué resistencia tendría un cable del mismo material y el mismo largo, pero con el triple de área?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,1 Ω</li>
+    <li data-letra="B">0,2 Ω</li>
+    <li data-letra="C">1,8 Ω</li>
+    <li data-letra="D">5,4 Ω</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>La resistencia es inversamente proporcional al área: con el triple de área, la resistencia es la tercera parte, 0,6 / 3 = 0,2 Ω. Multiplicar por 3 (1,8 Ω) invierte la relación.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>5.</strong> Un estudiante quiere saber si la resistencia de un alambre depende de su largo. ¿Qué debe mantener constante?</p>
+  <ol class="alternativas">
+    <li data-letra="A">El largo del alambre.</li>
+    <li data-letra="B">La corriente medida.</li>
+    <li data-letra="C">El material y el grosor.</li>
+    <li data-letra="D">La resistencia medida.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Para aislar el efecto del largo (variable independiente), hay que controlar el material y el área de la sección (y la temperatura). La resistencia es la variable dependiente, y la corriente cambia con ella.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>6.</strong> Una resistencia de 30 Ω se conecta a 12 V. ¿Qué corriente circula?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,4 A</li>
+    <li data-letra="B">2,5 A</li>
+    <li data-letra="C">18 A</li>
+    <li data-letra="D">360 A</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Por la ley de Ohm, I = V / R = 12 / 30 = 0,4 A. Invertir el cociente da 2,5 A; multiplicar da 360 A.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>7.</strong> Si se duplica el voltaje aplicado a un resistor óhmico, ¿qué pasa con la corriente?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Se reduce a la mitad.</li>
+    <li data-letra="B">Se mantiene igual.</li>
+    <li data-letra="C">Se cuadruplica.</li>
+    <li data-letra="D">Se duplica.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>En un resistor óhmico, la corriente es directamente proporcional al voltaje: al duplicar V se duplica I. La resistencia no cambia.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>8.</strong> En un gráfico voltaje–corriente, un componente da una curva que se empina cada vez más en vez de una recta. ¿Qué se concluye?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Que cumple la ley de Ohm con resistencia constante.</li>
+    <li data-letra="B">Que su resistencia aumenta al aumentar la corriente.</li>
+    <li data-letra="C">Que su resistencia disminuye al aumentar la corriente.</li>
+    <li data-letra="D">Que no conduce corriente eléctrica.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Si la curva V–I se empina, cada vez hace falta más voltaje por cada ampere adicional: el cociente V / I (la resistencia) aumenta. Es lo que ocurre en el filamento de una ampolleta que se calienta.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>9.</strong> Tres resistores de 4 Ω, 6 Ω y 10 Ω están en serie con una pila de 20 V. ¿Qué corriente circula?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,5 A</li>
+    <li data-letra="B">0,8 A</li>
+    <li data-letra="C">1,0 A</li>
+    <li data-letra="D">2,0 A</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>En serie las resistencias se suman: 4 + 6 + 10 = 20 Ω. I = 20 V / 20 Ω = 1,0 A, la misma en los tres resistores.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>10.</strong> En el circuito anterior (4 Ω, 6 Ω y 10 Ω en serie con 20 V), ¿cuál es el voltaje en el resistor de 10 Ω?</p>
+  <ol class="alternativas">
+    <li data-letra="A">10 V</li>
+    <li data-letra="B">6 V</li>
+    <li data-letra="C">4 V</li>
+    <li data-letra="D">2 V</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Con I = 1 A, el voltaje en cada resistor es I · R: 4 V, 6 V y 10 V, que suman 20 V. El resistor mayor recibe la mayor parte del voltaje.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>11.</strong> Dos ampolletas iguales están conectadas en serie a una pila. Si una se quema, ¿qué pasa con la otra?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Brilla más, porque recibe todo el voltaje.</li>
+    <li data-letra="B">Brilla igual, porque la pila es la misma.</li>
+    <li data-letra="C">Brilla menos, porque recibe menos corriente.</li>
+    <li data-letra="D">Se apaga, porque se abre el único camino.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>En serie hay un solo camino. Si una ampolleta se quema, el circuito se abre y la corriente se detiene en todo él: la otra también se apaga.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>12.</strong> Dos resistores de 12 Ω están en paralelo. ¿Cuál es su resistencia equivalente?</p>
+  <ol class="alternativas">
+    <li data-letra="A">3 Ω</li>
+    <li data-letra="B">6 Ω</li>
+    <li data-letra="C">12 Ω</li>
+    <li data-letra="D">24 Ω</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Para n resistencias iguales en paralelo, R_eq = R / n = 12 / 2 = 6 Ω. Sumarlas (24 Ω) corresponde a una conexión en serie; dividir por 4 (3 Ω) confunde el número de resistencias.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>13.</strong> Tres ampolletas iguales están en paralelo con una pila. Si se desconecta una, ¿qué pasa con el brillo de las otras dos (con una pila ideal)?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Aumenta, porque se reparten más corriente.</li>
+    <li data-letra="B">Disminuye, porque baja la corriente total.</li>
+    <li data-letra="C">No cambia, porque reciben el mismo voltaje.</li>
+    <li data-letra="D">Se apagan, porque se abre el circuito.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>En paralelo cada ampolleta recibe el voltaje completo de la fuente, sin importar cuántas ramas haya. Lo que cambia es la corriente total que entrega la pila, que disminuye.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>14.</strong> ¿Por qué los artefactos de una casa se conectan en paralelo?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Para que todos reciban 220 V y funcionen por separado.</li>
+    <li data-letra="B">Para que la corriente sea la misma en todos ellos.</li>
+    <li data-letra="C">Para que el voltaje se reparta entre los artefactos.</li>
+    <li data-letra="D">Para que la resistencia total de la casa aumente.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>En paralelo cada artefacto recibe el voltaje completo de la red y se puede encender o apagar sin afectar a los demás. En serie se repartirían el voltaje y al apagar uno se apagarían todos.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>15.</strong> Un resistor de 4 Ω en serie con dos resistores de 8 Ω en paralelo entre sí se conecta a 16 V. ¿Qué corriente entrega la fuente?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,8 A</li>
+    <li data-letra="B">1,0 A</li>
+    <li data-letra="C">1,3 A</li>
+    <li data-letra="D">2,0 A</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Los dos de 8 Ω en paralelo equivalen a 4 Ω. En serie con el de 4 Ω, la resistencia total es 8 Ω. I = 16 / 8 = 2,0 A. Sumar todo en serie (20 Ω) da 0,8 A.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>16.</strong> Un hervidor indica «220 V – 1 760 W». ¿Qué corriente consume?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,125 A</li>
+    <li data-letra="B">8 A</li>
+    <li data-letra="C">80 A</li>
+    <li data-letra="D">387 200 A</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>P = V · I, así que I = P / V = 1 760 / 220 = 8 A. Invertir el cociente da 0,125 A; multiplicar da un valor absurdo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>17.</strong> ¿Cuánta energía consume una estufa de 1 500 W encendida durante 4 horas?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,375 kWh</li>
+    <li data-letra="B">1,5 kWh</li>
+    <li data-letra="C">6 kWh</li>
+    <li data-letra="D">6 000 kWh</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>E = P · t = 1,5 kW · 4 h = 6 kWh. Usar la potencia en watt sin convertir a kW da 6 000; dividir da 0,375.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>18.</strong> Una ampolleta incandescente de 60 W y una LED de 9 W dan la misma luz. ¿Qué se puede afirmar?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La LED es más eficiente: pierde menos energía como calor.</li>
+    <li data-letra="B">La incandescente es más eficiente, porque tiene más potencia.</li>
+    <li data-letra="C">Ambas tienen la misma eficiencia, porque dan la misma luz.</li>
+    <li data-letra="D">La LED produce más luz, porque consume menos energía.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Con la misma luz útil, la LED consume mucha menos energía: una fracción mayor se convierte en luz y menos se pierde como calor. Más potencia no significa más eficiencia.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>19.</strong> ¿Qué función cumple el protector diferencial en una instalación domiciliaria?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Medir la energía consumida en kWh.</li>
+    <li data-letra="B">Cortar la corriente ante una sobrecarga.</li>
+    <li data-letra="C">Reducir el voltaje de la red a 220 V.</li>
+    <li data-letra="D">Cortar la corriente ante una fuga a tierra.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>El diferencial compara la corriente que sale con la que vuelve y corta si hay una diferencia (fuga), por ejemplo, a través de una persona. La sobrecarga la corta el interruptor termomagnético; la energía la mide el medidor.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>20.</strong> En un circuito protegido por un automático de 10 A a 220 V se conectan un microondas de 1 100 W y un hervidor de 1 540 W. ¿Qué ocurre?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Nada, porque cada artefacto consume menos de 10 A.</li>
+    <li data-letra="B">Salta el automático, porque la corriente total es de 12 A.</li>
+    <li data-letra="C">Salta el diferencial, porque hay una fuga de corriente.</li>
+    <li data-letra="D">Nada, porque en paralelo la corriente se divide.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>En paralelo las corrientes se suman: 1 100/220 = 5 A y 1 540/220 = 7 A, en total 12 A, que supera los 10 A del automático: se desconecta por sobrecarga.</p></div>
+</div>
+
+<h2 id="fuentes-del-capitulo">Fuentes del capítulo</h2>
+<p><em>Consultadas el 25 de septiembre de 2026. El texto es de redacción propia y los ocho diagramas son originales.</em></p>
+<p><strong>Documentos oficiales</strong></p>
+<ul>
+<li>DEMRE (2026). <em>Temario Regular – Pruebas Electivas – Ciencias. Admisión 2027</em>, pág. 11 (área temática Electricidad). Este capítulo cubre completos sus cinco conocimientos: ley de Ohm en circuitos en serie, paralelo y mixtos; potencia y energía eléctrica en corriente continua; corriente como flujo de cargas; consumo, eficiencia y potencia en artefactos; y componentes de la instalación domiciliaria. <a href="https://demre.cl/publicaciones/2027/2027-26-03-19-temario-paes-regular-ciencias">demre.cl</a></li>
+<li>Ministerio de Educación de Chile, Currículum Nacional. <em>Ciencias Naturales 8.º básico, Unidad 3: Física – Electricidad y calor</em>, objetivo de aprendizaje CN08 OA 10 (circuito domiciliario y circuitos en serie y en paralelo) y su actividad «Circuito eléctrico domiciliario». <a href="https://www.curriculumnacional.cl/portal/Ejes/Fisica/Electricidad-y-calor/70202:CN08-OA-10">curriculumnacional.cl</a></li>
+<li>Ministerio de Energía (2020). <em>Decreto 8: Reglamento de seguridad de las instalaciones de consumo de energía eléctrica</em>. Biblioteca del Congreso Nacional. <a href="https://www.bcn.cl/leychile/navegar?idNorma=1143069">bcn.cl</a></li>
+<li>Superintendencia de Electricidad y Combustibles (SEC). <em>Reglamento de seguridad de las instalaciones de consumo de energía eléctrica (Decreto 8) y pliegos técnicos RIC</em>. <a href="https://www.sec.cl/reglamento-de-seguridad-de-las-instalaciones-de-consumo-de-energia-electrica-decreto-08/">sec.cl</a></li>
+<li>Ministerio de Energía. <em>Etiquetado de eficiencia energética</em>; y SERNAC, <em>Etiquetado de eficiencia energética para refrigeradores y ampolletas</em>. <a href="https://energia.gob.cl/noticias/nacional/etiquetados-de-eficiencia-energetica-calificacion-energetica-de-viviendas-y-edificios">energia.gob.cl</a></li>
+<li>Ministerio del Medio Ambiente. <em>Las ampolletas incandescentes apagan su luz para siempre</em>: equivalencia entre ampolletas LED e incandescentes. <a href="https://mma.gob.cl/las-ampolletas-incandescentes-apagan-su-luz-para-siempre/">mma.gob.cl</a></li>
+</ul>
+<p><strong>Textos de física de libre acceso</strong></p>
+<ul>
+<li>OpenStax (2022). <em>College Physics 2e</em>, capítulo 20 «Electric Current, Resistance, and Ohm's Law» (secciones 20.4 «Electric Power and Energy» y 20.6 «Electric Hazards and the Human Body») y capítulo 21 «Circuits and DC Instruments» (21.1 «Resistors in Series and Parallel» y 21.4 «DC Voltmeters and Ammeters»). Licencia CC BY 4.0. <a href="https://openstax.org/books/college-physics-2e/pages/21-1-resistors-in-series-and-parallel">openstax.org</a></li>
+<li>OpenStax. <em>University Physics, volume 2</em>, sección 10.6 «Household Wiring and Electrical Safety». <a href="https://openstax.org/books/university-physics-volume-2/pages/10-6-household-wiring-and-electrical-safety">openstax.org</a></li>
+<li>Instituto Nacional de Seguridad e Higiene en el Trabajo (España). <em>NTP 400: Corriente eléctrica: efectos al atravesar el organismo humano</em>. <a href="https://saludlaboralydiscapacidad.org/wp-content/uploads/2019/04/NTP-400.pdf">PDF</a></li>
+<li>Khan Academy en español. <em>Introducción a los circuitos y la ley de Ohm</em> y <em>Repaso de resistores en serie y en paralelo</em>. <a href="https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/v/circuits-part-1">es.khanacademy.org</a></li>
+</ul>
+<p><strong>Libros de consulta</strong></p>
+<ul>
+<li>Giancoli, D. <em>Physics: Principles with Applications</em>, 7.ª edición, capítulo 18 («Electric Currents», secciones 18-1 y 18-7 y resumen) y capítulo 19 («DC Circuits», secciones 19-7 «Electric Hazards» y 19-8 «Ammeters and Voltmeters»).</li>
+<li>Johnson, K., Hewett, S. y otros. <em>Advanced Physics for You</em>, capítulo 16 («Current and Charge»).</li>
+<li>Shipman, J. y otros. <em>An Introduction to Physical Science</em>, capítulo 8 («Electricity and Magnetism», secciones 8.2 y 8.3).</li>
+<li>Etkina, E. y otros. <em>College Physics</em>, capítulo 16 («DC Circuits»), resumen.</li>
+</ul>
+<p>Consulta de referencia; el texto de este capítulo es de redacción propia. El precio del kWh usado en los ejemplos ($200) es ilustrativo: el valor real depende de la empresa distribuidora, la comuna y la fecha, y figura en cada boleta.</p>
+</article>
+<nav class="navsec"><a href="06-capitulo-6-dinamica-fuerzas-y-leyes-de-newton.html"><small>← Anterior</small>Capítulo 6: Dinámica: fuerzas y leyes de Newton</a><span></span></nav>
+</main>
+</div>
+<div id="lightbox"><img alt=""></div>
+<script>
+(function(){
+  var clave='conv-progreso:'+location.pathname.split('/').pop();
+  var datos={};try{datos=JSON.parse(localStorage.getItem(clave)||'{}')}catch(e){}
+  function guardar(){try{localStorage.setItem(clave,JSON.stringify(datos))}catch(e){}}
+  var preguntas=[].slice.call(document.querySelectorAll('.pregunta'));
+  var total=preguntas.length;
+  function actualizar(){
+    var r=0,c=0;for(var k in datos){r++;if(datos[k].ok)c++}
+    var t=document.getElementById('txt-preg');
+    if(t)t.textContent=total?(r+' de '+total+' respondidas · '+c+' correctas'):'Sin preguntas';
+    var b=document.getElementById('barra-preg');if(b)b.style.width=total?(100*r/total)+'%':'0';
+    try{localStorage.setItem(clave+':resumen',JSON.stringify({r:r,c:c,t:total}))}catch(e){}
+  }
+  preguntas.forEach(function(q,i){
+    var id=q.id||('p'+(i+1));q.id=id;
+    var lis=[].slice.call(q.querySelectorAll('.alternativas>li'));
+    var correcta=(q.getAttribute('data-correcta')||'').trim().toUpperCase();
+    var acc=document.createElement('div');acc.className='acciones';
+    var btn=document.createElement('button');btn.className='btn';btn.type='button';btn.textContent='Ver respuesta';
+    var est=document.createElement('span');est.className='estado';
+    acc.appendChild(btn);acc.appendChild(est);
+    var resp=q.querySelector('.respuesta');
+    if(resp)q.insertBefore(acc,resp);else q.appendChild(acc);
+    var marcada=null;
+    lis.forEach(function(li){li.addEventListener('click',function(){
+      if(q.classList.contains('respondida'))return;
+      lis.forEach(function(x){x.classList.remove('marcada')});li.classList.add('marcada');marcada=li.getAttribute('data-letra');
+    })});
+    function mostrar(letra){
+      q.classList.add('respondida','visible');btn.disabled=true;
+      lis.forEach(function(li){var L=li.getAttribute('data-letra');
+        if(correcta&&L===correcta)li.classList.add('correcta');
+        else if(L===letra)li.classList.add('incorrecta');
+        if(L===letra)li.classList.add('marcada');});
+      if(!correcta){est.textContent='Clave no disponible';est.className='estado'}
+      else if(!letra){est.textContent='Sin marcar · correcta: '+correcta;est.className='estado'}
+      else if(letra===correcta){est.textContent='¡Correcta!';est.className='estado ok'}
+      else{est.textContent='Incorrecta · correcta: '+correcta;est.className='estado mal'}
+    }
+    btn.addEventListener('click',function(){
+      datos[id]={l:marcada||'',ok:!!(marcada&&correcta&&marcada===correcta)};guardar();mostrar(marcada);actualizar();
+    });
+    if(datos[id])mostrar(datos[id].l);
+  });
+  document.querySelectorAll('.ejercicio').forEach(function(e){
+    var resp=e.querySelector('.respuesta');if(!resp)return;
+    var b=document.createElement('button');b.className='btn sec';b.type='button';b.textContent='Ver solución';
+    var acc=document.createElement('div');acc.className='acciones';acc.appendChild(b);e.insertBefore(acc,resp);
+    b.addEventListener('click',function(){var v=e.classList.toggle('visible');b.textContent=v?'Ocultar solución':'Ver solución'});
+  });
+  var rst=document.getElementById('reiniciar');
+  if(rst)rst.addEventListener('click',function(){if(!confirm('¿Reiniciar las respuestas de esta sección?'))return;datos={};guardar();location.reload()});
+  actualizar();
+  // Progreso de lectura
+  var bl=document.getElementById('barra-lect'),tl=document.getElementById('txt-lect');
+  function lectura(){var h=document.documentElement;var p=Math.min(100,Math.round(100*h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight)));
+    if(bl)bl.style.width=p+'%';if(tl)tl.textContent=p+'% leído'}
+  addEventListener('scroll',lectura,{passive:true});lectura();
+  // Índice lateral: resaltar la sección visible
+  var enlaces=[].slice.call(document.querySelectorAll('nav.sidebar a'));
+  if('IntersectionObserver' in window&&enlaces.length){
+    var io=new IntersectionObserver(function(ents){ents.forEach(function(en){if(en.isIntersecting){
+      enlaces.forEach(function(a){a.classList.toggle('activo',a.getAttribute('href')==='#'+en.target.id)})}})},{rootMargin:'-100px 0px -70% 0px'});
+    document.querySelectorAll('.paper h2[id],.paper h3[id]').forEach(function(h){io.observe(h)});
+  }
+  var nav=document.querySelector('nav.sidebar'),tb=document.getElementById('toc-btn');
+  if(tb&&nav)tb.addEventListener('click',function(){nav.classList.toggle('abierta')});
+  var lento=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function ir(a,e){
+    var id=decodeURIComponent((a.getAttribute('href')||'').slice(1)),t=document.getElementById(id);
+    if(!t)return;e.preventDefault();
+    if(a.classList.contains('cargando'))return;
+    document.querySelectorAll('.cargando').forEach(function(x){x.classList.remove('cargando')});
+    void a.offsetWidth;a.classList.add('cargando');
+    setTimeout(function(){
+      t.scrollIntoView({behavior:lento?'auto':'smooth',block:'start'});
+      setTimeout(function(){if(Math.abs(t.getBoundingClientRect().top)>window.innerHeight)t.scrollIntoView({block:'start'})},900);
+      try{history.replaceState(null,'','#'+id)}catch(err){}
+      t.classList.remove('destino');void t.offsetWidth;t.classList.add('destino');
+      if(a.closest('nav.sidebar'))enlaces.forEach(function(x){x.classList.toggle('activo',x===a)});
+      a.classList.remove('cargando');
+      if(nav)nav.classList.remove('abierta');
+    },lento?150:620);
+  }
+  enlaces.forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Insignias de preguntas en los títulos y botones «Ver tema» de las preguntas
+  document.querySelectorAll('.paper a.ref-badge, .paper a.volver-tema').forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Recordar la última sección abierta (para «Continuar» en el índice)
+  try{localStorage.setItem('conv-ultimo',JSON.stringify({archivo:location.pathname.split('/').pop(),titulo:document.title.split(' — ')[0]}))}catch(e){}
+  // Zoom de imágenes
+  var lb=document.getElementById('lightbox');
+  document.querySelectorAll('.paper img').forEach(function(img){img.addEventListener('click',function(){
+    lb.querySelector('img').src=img.src;lb.style.display='flex'})});
+  lb.addEventListener('click',function(){lb.style.display='none'});
+  // Tema claro/oscuro
+  var tema=document.getElementById('tema');
+  try{var t=localStorage.getItem('conv-tema');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}
+  tema.addEventListener('click',function(){
+    var oscuro=document.documentElement.getAttribute('data-theme')==='dark'||(!document.documentElement.getAttribute('data-theme')&&matchMedia('(prefers-color-scheme: dark)').matches);
+    var n=oscuro?'light':'dark';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('conv-tema',n)}catch(e){}
+  });
+})();
+</script>
+</body>
+</html>

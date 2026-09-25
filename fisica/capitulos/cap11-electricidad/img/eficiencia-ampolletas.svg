@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" role="img" aria-label="Flujos de energía: la incandescente consume 60 watts, entrega unos 3 de luz y 57 de calor; la LED consume 9, entrega unos 3 de luz y 6 de calor" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Flujos de energía: la incandescente consume 60 watts, entrega unos 3 de luz y 57 de calor; la LED consume 9, entrega unos 3 de luz y 6 de calor</title>
+<rect width="900" height="380" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="17" text-anchor="middle" fill="#1a202c" font-weight="700">Dos ampolletas que dan la misma luz</text>
+<text x="230.0" y="70.0" font-size="14" text-anchor="middle" fill="#e67700" font-weight="700">Incandescente</text>
+<rect x="80" y="100" width="90" height="192.0" fill="#e67700" opacity="0.8"/>
+<text x="125.0" y="201.0" font-size="14" text-anchor="middle" fill="#ffffff" font-weight="700">60 W</text>
+<text x="125.0" y="92.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">consume</text>
+<rect x="250" y="100" width="90" height="9.600000000000001" fill="#f59f00"/>
+<text x="295.0" y="125.6" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">luz ≈ 3 W</text>
+<rect x="250" y="135.6" width="90" height="182.4" fill="#c92a2a" opacity="0.7"/>
+<text x="295.0" y="231.8" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="700">calor ≈ 57 W</text>
+<line x1="175.0" y1="110.0" x2="245.0" y2="110.0" stroke="#4a5568" stroke-width="1.5" marker-end="url(#mg)"/>
+<text x="230.0" y="352.0" font-size="14" text-anchor="middle" fill="#e67700" font-weight="700">eficiencia ≈ 5 %</text>
+<text x="670.0" y="70.0" font-size="14" text-anchor="middle" fill="#2f9e44" font-weight="700">LED</text>
+<rect x="520" y="100" width="90" height="28.8" fill="#2f9e44" opacity="0.8"/>
+<text x="565.0" y="119.4" font-size="14" text-anchor="middle" fill="#ffffff" font-weight="700">9 W</text>
+<text x="565.0" y="92.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">consume</text>
+<rect x="690" y="100" width="90" height="9.600000000000001" fill="#f59f00"/>
+<text x="735.0" y="125.6" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">luz ≈ 3 W</text>
+<rect x="690" y="135.6" width="90" height="19.200000000000003" fill="#c92a2a" opacity="0.7"/>
+<text x="735.0" y="150.2" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">calor ≈ 6 W</text>
+<line x1="615.0" y1="110.0" x2="685.0" y2="110.0" stroke="#4a5568" stroke-width="1.5" marker-end="url(#mg)"/>
+<text x="670.0" y="188.8" font-size="14" text-anchor="middle" fill="#2f9e44" font-weight="700">eficiencia ≈ 33 %</text>
+</svg>
