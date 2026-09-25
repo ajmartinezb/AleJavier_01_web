@@ -38,9 +38,9 @@ El DEMRE declara que evalúa la capacidad de analizar informaciones, investigaci
 | 2.2 | Relatividad de Galileo en movimientos rectilíneos uniformes | **5** | Completo |
 | 2.3 | MRU: ecuación de itinerario y gráficos | **5** | Completo |
 | 2.4 | MRUA: ecuación de itinerario y gráficos | **5** | Completo |
-| 2.5 | Leyes de Newton con velocidad o aceleración constantes. Diagrama de cuerpo libre | 6 | Pendiente |
-| 2.6 | Fuerzas peso, elástica (ley de Hooke), tensión y normal, entre otras | 6 | Pendiente |
-| 2.7 | Roce estático y cinético; roce con el aire (cualitativo) | 6 | Pendiente |
+| 2.5 | Leyes de Newton con velocidad o aceleración constantes. Diagrama de cuerpo libre | **6** | Completo |
+| 2.6 | Fuerzas peso, elástica (ley de Hooke), tensión y normal, entre otras | **6** | Completo |
+| 2.7 | Roce estático y cinético; roce con el aire (cualitativo) | **6** | Completo |
 | 2.8 | Modelos geocéntricos (Aristóteles, Ptolomeo) y heliocéntrico (Copérnico); aportes de Galileo y Kepler | 13 | Pendiente |
 | 2.9 | Teorías sobre el origen y la evolución del universo (Big Bang, Big Crunch, entre otras) y sus evidencias | 13 | Pendiente |
 

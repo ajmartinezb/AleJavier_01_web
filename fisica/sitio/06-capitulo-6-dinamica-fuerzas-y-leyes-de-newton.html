@@ -1,0 +1,1378 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capítulo 6: Dinámica: fuerzas y leyes de Newton — Física PAES — Ciencias</title>
+<meta name="generator" content="Conversor PDF a HTML">
+<style>
+:root{--bg:#f7f6f2;--paper:#fff;--ink:#23262a;--ink-soft:#5a5f66;--line:#e3e1da;
+--accent:#1c7ed6;--accent-dark:#0f4576;--ok:#1e7a46;--ok-bg:#e5f5eb;--bad:#b3261e;--bad-bg:#fdeceb;
+--tip-bg:#fff6d6;--tip-bd:#e8cf67;--nota-bg:#eaf2fb;--nota-bd:#b6cfe9;--ej-bg:#eaf6ee;--ej-bd:#a9d8b8;--sidebar-w:290px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}}
+:root[data-theme=dark]{--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{scroll-padding-top:96px}
+body{margin:0;font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.65}
+header.top{position:sticky;top:0;z-index:50;background:linear-gradient(120deg,var(--accent-dark),var(--accent));color:#fff;padding:14px 22px;box-shadow:0 2px 10px rgba(0,0,0,.18)}
+header.top .fila{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1400px;margin:0 auto}
+header.top h1{margin:0;font-size:1.25rem;line-height:1.3;flex:1;min-width:200px}
+header.top .doc{font-size:.8rem;opacity:.85;display:block;font-weight:400}
+header.top a{color:#fff}
+.btn-top{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);color:#fff;border-radius:8px;padding:6px 10px;font-size:.85rem;cursor:pointer;text-decoration:none;white-space:nowrap}
+.progreso{max-width:1400px;margin:8px auto 0;display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:.8rem}
+.barra{flex:1;min-width:120px;height:7px;background:rgba(255,255,255,.25);border-radius:9px;overflow:hidden}
+.barra>i{display:block;height:100%;width:0;background:#fff;border-radius:9px;transition:width .3s}
+.layout{display:flex;align-items:flex-start;max-width:1400px;margin:0 auto}
+nav.sidebar{width:var(--sidebar-w);flex-shrink:0;position:sticky;top:110px;max-height:calc(100vh - 120px);overflow-y:auto;padding:20px 12px 40px 18px}
+nav.sidebar h2{font-size:.72rem;text-transform:uppercase;letter-spacing:1px;color:var(--ink-soft);margin:0 0 8px 6px}
+nav.sidebar ol{list-style:none;margin:0;padding:0}
+nav.sidebar a{display:block;position:relative;overflow:hidden;isolation:isolate;padding:6px 10px;border-radius:8px;color:var(--ink);text-decoration:none;font-size:.86rem;transition:color .2s,background .2s}
+nav.sidebar a:hover,nav.sidebar a.activo{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+nav.sidebar a::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;border-radius:inherit;
+background:linear-gradient(90deg,color-mix(in srgb,var(--accent) 22%,transparent),color-mix(in srgb,var(--accent) 45%,transparent));
+box-shadow:6px 0 14px color-mix(in srgb,var(--accent) 55%,transparent)}
+nav.sidebar a.cargando{color:var(--accent-dark);font-weight:600;background:transparent}
+nav.sidebar a.cargando::before,.ref-badge.cargando::before,.volver-tema.cargando::before{animation:conv-cargar .6s cubic-bezier(.45,0,.2,1) forwards}
+.ref-badges{display:inline-flex;flex-wrap:wrap;gap:6px;margin-left:10px;vertical-align:middle;font-size:.72rem;font-weight:600;line-height:1}
+.ref-group{display:inline-flex;align-items:center;gap:4px}
+.ref-label{color:var(--ink-soft);font-weight:600;letter-spacing:.3px}
+.ref-badge,.volver-tema{position:relative;overflow:hidden;isolation:isolate;text-decoration:none;transition:background .2s,color .2s,border-color .2s}
+.ref-badge::before,.volver-tema::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;background:color-mix(in srgb,var(--accent) 40%,transparent)}
+.ref-badge{display:inline-grid;place-items:center;min-width:24px;height:22px;padding:0 6px;border-radius:999px;border:1px solid;font-size:.72rem}
+.ref-badge.ref-ia{color:#1e7a34;border-color:#8fd0a2;background:#eaf7ee}
+.ref-badge.ref-ia:hover{background:#1e7a34;color:#fff}
+.ref-badge.ref-ia.cargando{color:#fff;background:#1e7a34}
+.volver-tema{display:inline-flex;align-items:center;gap:4px;margin:0 8px 0 6px;padding:2px 10px;border:1px solid var(--line);border-radius:999px;font-size:.76rem;font-weight:600;color:var(--accent-dark);background:var(--paper);vertical-align:middle}
+.volver-tema:hover{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,var(--paper))}
+.seccion-ia{margin-top:40px;padding-top:6px}
+.seccion-ia>.nota{font-size:.9rem}
+.tema-ia{margin:26px 0 4px;font-size:.82rem;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--ink-soft)}
+.tema-ia a{color:inherit}
+.habilidad{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent-dark);vertical-align:middle}
+.eje{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:var(--line);color:var(--ink-soft);vertical-align:middle}
+.comentario>p{margin:8px 0}
+.comentario>p>strong:first-child{color:var(--accent-dark)}
+.comentario ul{margin:6px 0 10px;padding-left:20px}
+.comentario li{margin:3px 0}
+.comentario .tipo-error{font-style:italic;color:var(--ink-soft)}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .comentario>p>strong:first-child{color:var(--accent)}}
+:root[data-theme=dark] .comentario>p>strong:first-child{color:var(--accent)}
+.pregunta.destino{animation:conv-destino 1.6s ease-out}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}}
+:root[data-theme=dark] .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}
+@keyframes conv-cargar{0%{width:0;opacity:.7}85%{opacity:1}100%{width:100%;opacity:1;box-shadow:0 0 12px color-mix(in srgb,var(--accent) 45%,transparent)}}
+@media (prefers-reduced-motion:reduce){nav.sidebar a.cargando::before{animation-duration:.15s}}
+.destino{animation:conv-destino 1.4s ease-out}
+@keyframes conv-destino{0%{background:color-mix(in srgb,var(--accent) 22%,transparent)}100%{background:transparent}}
+nav.sidebar .n3 a{padding-left:22px;font-size:.8rem;color:var(--ink-soft)}
+nav.sidebar .n4 a{padding-left:34px;font-size:.76rem;color:var(--ink-soft)}
+main.content{flex:1;min-width:0;padding:26px 34px 90px}
+.paper{background:var(--paper);border-radius:14px;padding:28px 38px;box-shadow:0 1px 4px rgba(0,0,0,.07);max-width:980px}
+.paper h2{font-size:1.4rem;color:var(--accent-dark);border-bottom:3px solid var(--accent);padding-bottom:6px;margin:34px 0 14px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .paper h2{color:var(--accent)}}
+:root[data-theme=dark] .paper h2{color:var(--accent)}
+.paper h2:first-child{margin-top:0}
+.paper h3{font-size:1.14rem;margin:26px 0 10px;border-left:4px solid var(--accent);padding-left:10px}
+.paper h4{font-size:1rem;margin:20px 0 8px}
+.paper img{max-width:100%;height:auto}
+figure>img{width:var(--ancho,auto)}
+.fila-figuras{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:flex-start;margin:18px 0}
+.fila-figuras>figure{flex:1 1 220px;margin:0}
+.fila-figuras>figure>img{width:100%}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:.93rem;display:block;overflow-x:auto}
+th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top;text-align:left}
+thead th{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+blockquote{margin:14px 0;padding:8px 16px;border-left:4px solid var(--line);color:var(--ink-soft)}
+.nota,.tip,.ejemplo,.ejercicio,.pregunta{border-radius:10px;padding:14px 18px;margin:16px 0;border:1px solid}
+.nota{background:var(--nota-bg);border-color:var(--nota-bd)}
+.tip{background:var(--tip-bg);border-color:var(--tip-bd)}
+.ejemplo{background:var(--ej-bg);border-color:var(--ej-bd)}
+.ejercicio,.pregunta{background:var(--paper);border-color:var(--line);box-shadow:0 1px 3px rgba(0,0,0,.05)}
+figure{margin:18px auto;text-align:center}
+figure img{border-radius:8px;border:1px solid var(--line);cursor:zoom-in;background:#fff}
+figcaption{font-size:.85rem;color:var(--ink-soft);margin-top:6px}
+.frac{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;font-size:.9em;margin:0 2px}
+.frac>span:first-child{border-bottom:1px solid currentColor;padding:0 3px}
+.alternativas{list-style:none;padding:0;margin:10px 0}
+.alternativas li{display:flex;gap:10px;align-items:flex-start;padding:8px 12px;margin:6px 0;border:1px solid var(--line);border-radius:9px;cursor:pointer;transition:background .15s}
+.alternativas li::before{content:attr(data-letra);font-weight:700;min-width:1.4em;color:var(--accent)}
+.alternativas li:hover{background:color-mix(in srgb,var(--accent) 8%,transparent)}
+.alternativas li.marcada{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.alternativas li.correcta{border-color:var(--ok);background:var(--ok-bg)}
+.alternativas li.incorrecta{border-color:var(--bad);background:var(--bad-bg)}
+.pregunta.respondida .alternativas li{cursor:default}
+.acciones{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.btn{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:8px 14px;font-size:.9rem;cursor:pointer}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.btn.sec{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.estado{font-size:.88rem;font-weight:600}
+.estado.ok{color:var(--ok)}.estado.mal{color:var(--bad)}
+.respuesta{display:none;margin-top:10px;padding:12px 14px;border-radius:9px;background:color-mix(in srgb,var(--accent) 7%,transparent);border-left:4px solid var(--accent)}
+.visible>.respuesta,.respuesta.visible{display:block}
+.aviso-ia{font-size:.8rem;color:var(--ink-soft);font-style:italic}
+details.original{margin:14px 0;border:1px dashed var(--line);border-radius:10px;padding:8px 12px}
+details.original summary{cursor:pointer;color:var(--ink-soft);font-size:.85rem}
+.marca-pagina{font-size:.72rem;color:var(--ink-soft);text-align:right;border-top:1px dashed var(--line);margin:22px 0 8px;padding-top:2px}
+.navsec{display:flex;justify-content:space-between;gap:12px;margin-top:28px;max-width:980px}
+.navsec a{flex:1;padding:14px 16px;border-radius:12px;background:var(--paper);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.navsec a small{display:block;color:var(--ink-soft);font-size:.75rem}
+.navsec a.sig{text-align:right}
+#lightbox{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:100;cursor:zoom-out;padding:20px}
+#lightbox img{max-width:100%;max-height:100%;background:#fff;border-radius:6px}
+#toc-btn{display:none}
+@media (max-width:900px){
+ nav.sidebar{position:fixed;top:0;left:0;bottom:0;max-height:none;background:var(--paper);z-index:60;transform:translateX(-105%);transition:transform .25s;box-shadow:2px 0 14px rgba(0,0,0,.2);padding-top:24px}
+ nav.sidebar.abierta{transform:none}
+ #toc-btn{display:inline-block}
+ main.content{padding:16px 16px 80px}
+ .paper{padding:20px 18px}
+}
+@media print{header.top,nav.sidebar,.navsec,.acciones{display:none}.respuesta{display:block}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="fila">
+    <a class="btn-top" href="../../inicio.html" title="Volver a las asignaturas PAES" style="text-decoration:none">← Asignaturas</a>
+    <button class="btn-top" id="toc-btn" type="button">☰ Contenido</button>
+    <h1><span class="doc">Física PAES — Ciencias</span>Capítulo 6: Dinámica: fuerzas y leyes de Newton</h1>
+    <a class="btn-top" href="index.html">Índice</a>
+    <button class="btn-top" id="tema" type="button" title="Cambiar tema claro/oscuro">◐</button>
+  </div>
+  <div class="progreso">
+    <span id="txt-preg">…</span><div class="barra"><i id="barra-preg"></i></div>
+    <button class="btn-top" id="reiniciar" type="button" title="Reiniciar respuestas de esta sección">↺ Reiniciar</button>
+    <span id="txt-lect">0% leído</span><div class="barra"><i id="barra-lect"></i></div>
+  </div>
+</header>
+<div class="layout">
+<nav class="sidebar" aria-label="Contenido"><h2>Contenido</h2><ol><li class="n2"><a href="#capitulo-6-dinamica-fuerzas-y-leyes-de-newton">Capítulo 6: Dinámica: fuerzas y leyes de Newton</a></li><li class="n2"><a href="#1-conceptos-clave">1. Conceptos clave</a></li><li class="n2"><a href="#2-que-es-una-fuerza">2. Qué es una fuerza</a></li><li class="n3"><a href="#a-una-interaccion-entre-dos-cuerpos">a. Una interacción entre dos cuerpos</a></li><li class="n3"><a href="#b-la-fuerza-es-un-vector">b. La fuerza es un vector</a></li><li class="n3"><a href="#c-fuerzas-de-contacto-y-fuerzas-a-distancia">c. Fuerzas de contacto y fuerzas a distancia</a></li><li class="n3"><a href="#d-la-fuerza-neta">d. La fuerza neta</a></li><li class="n2"><a href="#3-primera-ley-de-newton-la-inercia">3. Primera ley de Newton: la inercia</a></li><li class="n3"><a href="#a-de-aristoteles-a-galileo">a. De Aristóteles a Galileo</a></li><li class="n3"><a href="#b-el-enunciado">b. El enunciado</a></li><li class="n3"><a href="#c-la-inercia-en-la-vida-diaria">c. La inercia en la vida diaria</a></li><li class="n3"><a href="#d-sistemas-de-referencia-inerciales">d. Sistemas de referencia inerciales</a></li><li class="n2"><a href="#4-segunda-ley-de-newton-fuerza-masa-y-aceleracion">4. Segunda ley de Newton: fuerza, masa y aceleración</a></li><li class="n3"><a href="#a-el-enunciado">a. El enunciado</a></li><li class="n3"><a href="#b-que-dicen-las-dos-proporcionalidades">b. Qué dicen las dos proporcionalidades</a></li><li class="n3"><a href="#c-la-fuerza-neta-es-la-suma-de-todas">c. La fuerza neta es la suma de todas</a></li><li class="n3"><a href="#d-la-segunda-ley-conecta-la-dinamica-con-la-cinema">d. La segunda ley conecta la dinámica con la cinemática</a></li><li class="n2"><a href="#5-tercera-ley-de-newton-accion-y-reaccion">5. Tercera ley de Newton: acción y reacción</a></li><li class="n3"><a href="#a-el-enunciado-2">a. El enunciado</a></li><li class="n3"><a href="#b-las-cuatro-caracteristicas-de-un-par">b. Las cuatro características de un par</a></li><li class="n3"><a href="#c-igual-fuerza-no-significa-igual-efecto">c. Igual fuerza no significa igual efecto</a></li><li class="n3"><a href="#d-la-tercera-ley-nos-permite-movernos">d. La tercera ley nos permite movernos</a></li><li class="n3"><a href="#e-como-no-confundir-un-par-con-dos-fuerzas-equilib">e. Cómo no confundir un par con dos fuerzas equilibradas</a></li><li class="n2"><a href="#6-peso-fuerza-normal-y-tension">6. Peso, fuerza normal y tensión</a></li><li class="n3"><a href="#a-el-peso">a. El peso</a></li><li class="n3"><a href="#b-masa-y-peso-no-son-lo-mismo">b. Masa y peso no son lo mismo</a></li><li class="n3"><a href="#c-la-fuerza-normal">c. La fuerza normal</a></li><li class="n3"><a href="#d-la-tension">d. La tensión</a></li><li class="n2"><a href="#7-la-fuerza-elastica-y-la-ley-de-hooke">7. La fuerza elástica y la ley de Hooke</a></li><li class="n3"><a href="#a-que-es-un-cuerpo-elastico">a. Qué es un cuerpo elástico</a></li><li class="n3"><a href="#b-la-ley-de-hooke">b. La ley de Hooke</a></li><li class="n3"><a href="#c-el-grafico-fuerzadeformacion-y-el-limite-elastic">c. El gráfico fuerza–deformación y el límite elástico</a></li><li class="n3"><a href="#d-el-dinamometro">d. El dinamómetro</a></li><li class="n3"><a href="#e-resortes-en-la-vida-diaria">e. Resortes en la vida diaria</a></li><li class="n2"><a href="#8-la-fuerza-de-roce">8. La fuerza de roce</a></li><li class="n3"><a href="#a-de-donde-viene-el-roce">a. De dónde viene el roce</a></li><li class="n3"><a href="#b-roce-estatico-y-roce-cinetico">b. Roce estático y roce cinético</a></li><li class="n3"><a href="#c-por-que-frenar-sin-bloquear-las-ruedas">c. Por qué frenar sin bloquear las ruedas</a></li><li class="n3"><a href="#d-el-roce-con-el-aire">d. El roce con el aire</a></li><li class="n2"><a href="#9-el-diagrama-de-cuerpo-libre-y-como-resolver-prob">9. El diagrama de cuerpo libre y cómo resolver problemas</a></li><li class="n3"><a href="#a-que-es-un-diagrama-de-cuerpo-libre">a. Qué es un diagrama de cuerpo libre</a></li><li class="n3"><a href="#b-el-procedimiento-paso-a-paso">b. El procedimiento paso a paso</a></li><li class="n3"><a href="#c-cuerpos-con-velocidad-constante-o-con-aceleracio">c. Cuerpos con velocidad constante o con aceleración constante</a></li><li class="n3"><a href="#d-las-fuerzas-en-un-plano-inclinado-cualitativo">d. Las fuerzas en un plano inclinado (cualitativo)</a></li><li class="n3"><a href="#e-errores-frecuentes-al-resolver">e. Errores frecuentes al resolver</a></li><li class="n2"><a href="#ejemplos-paes-resueltos">Ejemplos PAES resueltos</a></li><li class="n2"><a href="#evaluacion-formativa">Evaluación formativa</a></li><li class="n2"><a href="#fuentes-del-capitulo">Fuentes del capítulo</a></li></ol></nav>
+<main class="content">
+<article class="paper">
+<h2 id="capitulo-6-dinamica-fuerzas-y-leyes-de-newton">Capítulo 6: Dinámica: fuerzas y leyes de Newton</h2>
+<p><strong>Área temática:</strong> Mecánica</p>
+<p>¿Por qué te vas hacia adelante cuando el bus frena de golpe? ¿Por qué cuesta más empezar a mover un mueble que mantenerlo en movimiento? ¿Por qué un astronauta pesa menos en la Luna, pero sigue costándole lo mismo detener una caja que viene hacia él? En el capítulo 5 describimos <strong>cómo</strong> se mueven los cuerpos; ahora vamos a explicar <strong>por qué</strong>. La respuesta está en las <strong>fuerzas</strong> y en tres leyes que Isaac Newton publicó en 1687 y que siguen sirviendo para diseñar puentes, autos y cohetes.</p>
+<p>En este capítulo vas a aprender qué es una <strong>fuerza</strong> y cómo se suman; qué dicen las <strong>tres leyes de Newton</strong> —inercia, relación entre fuerza neta y aceleración, y acción y reacción—; cómo se comportan las fuerzas más comunes: <strong>peso, normal, tensión, fuerza elástica</strong> (ley de Hooke) y <strong>roce</strong> estático, cinético y con el aire; y cómo se dibuja un <strong>diagrama de cuerpo libre</strong> para resolver problemas con cuerpos que se mueven con velocidad constante o con aceleración constante.</p>
+<div class="nota">
+<p><strong>Este capítulo en la PAES 2027.</strong> Cubre tres conocimientos del área Mecánica del temario DEMRE: las leyes de Newton en cuerpos con velocidad constante o aceleración constante, con su diagrama de cuerpo libre; las fuerzas peso, elástica (ley de Hooke), tensión y normal, entre otras; y el roce estático y cinético, más el roce con el aire en términos cualitativos. Se apoya en el capítulo 5: aceleración, MRU y MRUA se dan por sabidos.</p>
+</div>
+<h2 id="1-conceptos-clave">1. Conceptos clave</h2>
+<table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Definición</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Dinámica</strong></td>
+<td>Parte de la mecánica que estudia las causas del movimiento: las fuerzas</td>
+</tr>
+<tr>
+<td><strong>Fuerza</strong></td>
+<td>Interacción entre dos cuerpos que puede cambiar el estado de movimiento o la forma de un cuerpo; es un vector y se mide en newton (N)</td>
+</tr>
+<tr>
+<td><strong>Newton (N)</strong></td>
+<td>Fuerza que le da a una masa de 1 kg una aceleración de 1 m/s²: 1 N = 1 kg · m/s²</td>
+</tr>
+<tr>
+<td><strong>Fuerza neta o resultante</strong></td>
+<td>Suma vectorial de todas las fuerzas que actúan sobre un cuerpo</td>
+</tr>
+<tr>
+<td><strong>Fuerzas de contacto y a distancia</strong></td>
+<td>Las primeras requieren que los cuerpos se toquen (normal, roce, tensión); las segundas actúan sin contacto (gravitacional, eléctrica, magnética)</td>
+</tr>
+<tr>
+<td><strong>Inercia</strong></td>
+<td>Tendencia de un cuerpo a mantener su estado de reposo o de movimiento rectilíneo uniforme</td>
+</tr>
+<tr>
+<td><strong>Masa</strong></td>
+<td>Medida de la inercia de un cuerpo; se mide en kilogramos y no cambia de un lugar a otro</td>
+</tr>
+<tr>
+<td><strong>Equilibrio</strong></td>
+<td>Estado de un cuerpo cuya fuerza neta es cero: está en reposo o en MRU</td>
+</tr>
+<tr>
+<td><strong>Primera ley de Newton</strong></td>
+<td>Si la fuerza neta sobre un cuerpo es cero, este mantiene su velocidad (reposo o MRU)</td>
+</tr>
+<tr>
+<td><strong>Segunda ley de Newton</strong></td>
+<td>La fuerza neta sobre un cuerpo es igual a su masa por su aceleración: <em>F</em><sub>neta</sub> = <em>m</em> · <em>a</em></td>
+</tr>
+<tr>
+<td><strong>Tercera ley de Newton</strong></td>
+<td>Si A ejerce una fuerza sobre B, B ejerce sobre A una fuerza de igual magnitud y sentido opuesto</td>
+</tr>
+<tr>
+<td><strong>Par de acción y reacción</strong></td>
+<td>Las dos fuerzas de la tercera ley; actúan sobre cuerpos distintos y por eso nunca se anulan entre sí</td>
+</tr>
+<tr>
+<td><strong>Peso (<em>P</em>)</strong></td>
+<td>Fuerza con que la Tierra (u otro astro) atrae a un cuerpo: <em>P</em> = <em>m</em> · <em>g</em></td>
+</tr>
+<tr>
+<td><strong>Fuerza normal (<em>N</em>)</strong></td>
+<td>Fuerza que ejerce una superficie sobre un cuerpo apoyado en ella, perpendicular a la superficie</td>
+</tr>
+<tr>
+<td><strong>Tensión (<em>T</em>)</strong></td>
+<td>Fuerza que ejerce una cuerda, cable o cadena tensa sobre los cuerpos a los que está unida</td>
+</tr>
+<tr>
+<td><strong>Fuerza elástica</strong></td>
+<td>Fuerza que ejerce un resorte deformado, en sentido contrario a la deformación</td>
+</tr>
+<tr>
+<td><strong>Ley de Hooke</strong></td>
+<td>Dentro del límite elástico, la fuerza de un resorte es proporcional a su deformación: <em>F</em> = <em>k</em> · <em>x</em></td>
+</tr>
+<tr>
+<td><strong>Constante elástica (<em>k</em>)</strong></td>
+<td>Medida de la rigidez de un resorte; se mide en N/m</td>
+</tr>
+<tr>
+<td><strong>Roce estático</strong></td>
+<td>Fuerza que impide que un cuerpo empiece a deslizar; se ajusta hasta un valor máximo <em>μ</em><sub>e</sub> · <em>N</em></td>
+</tr>
+<tr>
+<td><strong>Roce cinético</strong></td>
+<td>Fuerza que se opone al deslizamiento de un cuerpo que ya se mueve: <em>μ</em><sub>c</sub> · <em>N</em></td>
+</tr>
+<tr>
+<td><strong>Coeficiente de roce (<em>μ</em>)</strong></td>
+<td>Número sin unidad que depende de los materiales en contacto</td>
+</tr>
+<tr>
+<td><strong>Roce con el aire</strong></td>
+<td>Fuerza que el aire opone al movimiento de un cuerpo; crece con su rapidez y su área</td>
+</tr>
+<tr>
+<td><strong>Rapidez terminal</strong></td>
+<td>Rapidez constante que alcanza un cuerpo que cae cuando el roce con el aire iguala a su peso</td>
+</tr>
+<tr>
+<td><strong>Diagrama de cuerpo libre (DCL)</strong></td>
+<td>Dibujo de un cuerpo aislado con todas las fuerzas que actúan sobre él, y solo esas</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2-que-es-una-fuerza">2. Qué es una fuerza</h2>
+<h3 id="a-una-interaccion-entre-dos-cuerpos">a. Una interacción entre dos cuerpos</h3>
+<p>Una <strong>fuerza</strong> es una <strong>interacción entre dos cuerpos</strong>. Siempre hay dos: el que empuja y el empujado, el que atrae y el atraído. Por eso una fuerza siempre se puede nombrar como «la fuerza que A ejerce sobre B»: la fuerza que tu mano ejerce sobre la puerta, la que la Tierra ejerce sobre una manzana, la que el piso ejerce sobre tus pies.</p>
+<p>Una fuerza puede producir dos tipos de efectos:</p>
+<ul>
+<li><strong>Cambiar el estado de movimiento</strong> de un cuerpo: ponerlo en marcha, detenerlo, acelerarlo, frenarlo o cambiar su dirección.</li>
+<li><strong>Deformarlo</strong>: estirar un resorte, abollar una lata, aplastar una pelota.</li>
+</ul>
+<div class="tip">
+<p><strong>Lo que una fuerza no es.</strong> Un cuerpo no «tiene» fuerza ni la «lleva» consigo. Una pelota que ya salió de la mano del lanzador <strong>no</strong> lleva «la fuerza del lanzamiento»: una vez en el aire, las únicas fuerzas sobre ella son su peso y el roce con el aire. Esta idea errónea, que viene de Aristóteles y de la Edad Media (la teoría del «ímpetu»), es la que más confunde en los ítems de dinámica.</p>
+</div>
+<h3 id="b-la-fuerza-es-un-vector">b. La fuerza es un vector</h3>
+<p>Para describir una fuerza no basta con decir cuánto vale: también importa <strong>hacia dónde</strong> actúa. Empujar una caja hacia el norte o hacia el sur con la misma intensidad produce efectos opuestos. Por eso la fuerza es un <strong>vector</strong>, con:</p>
+<ul>
+<li><strong>magnitud</strong> (su intensidad, en newton),</li>
+<li><strong>dirección</strong> (horizontal, vertical, inclinada…),</li>
+<li><strong>sentido</strong> (hacia un lado o hacia el otro de esa dirección),</li>
+<li><strong>punto de aplicación</strong> (dónde actúa sobre el cuerpo).</li>
+</ul>
+<p>Se dibuja como una <strong>flecha</strong>: su largo representa la magnitud y su orientación, la dirección y el sentido.</p>
+<p>La unidad de fuerza en el SI es el <strong>newton (N)</strong>. Una idea de su tamaño: el peso de una manzana mediana (unos 100 g) es de aproximadamente <strong>1 N</strong>. Una persona de 60 kg pesa unos 590 N.</p>
+<p>Las fuerzas se miden con un <strong>dinamómetro</strong>: un resorte con una escala graduada, que se estira más cuanto mayor es la fuerza (sección 7).</p>
+<h3 id="c-fuerzas-de-contacto-y-fuerzas-a-distancia">c. Fuerzas de contacto y fuerzas a distancia</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Cuándo actúan</th>
+<th>Ejemplos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>De contacto</strong></td>
+<td>Solo cuando los cuerpos se tocan</td>
+<td>Normal, roce, tensión de una cuerda, empuje de una mano, fuerza elástica de un resorte, roce con el aire</td>
+</tr>
+<tr>
+<td><strong>A distancia</strong></td>
+<td>Aunque los cuerpos estén separados</td>
+<td>Gravitacional (el peso), eléctrica, magnética</td>
+</tr>
+</tbody>
+</table>
+<p>A escala microscópica, casi todas las fuerzas de contacto son en realidad fuerzas <strong>eléctricas</strong> entre los átomos de las superficies que se tocan. Pero para describir el movimiento de objetos cotidianos, la clasificación de la tabla es la útil.</p>
+<h3 id="d-la-fuerza-neta">d. La fuerza neta</h3>
+<p>Casi siempre, sobre un cuerpo actúan <strong>varias</strong> fuerzas a la vez. Lo que determina su movimiento es la <strong>fuerza neta</strong> (o <strong>resultante</strong>): la suma <strong>vectorial</strong> de todas ellas.</p>
+<p>En una misma recta, sumar vectores es sumar con signo:</p>
+<figure><img src="img/cap06-dinamica/fuerza-neta.svg" alt="Tres casos de fuerzas sobre una caja. Dos fuerzas de 30 y 20 newtons hacia la derecha dan una neta de 50 newtons a la derecha. Fuerzas de 30 a la derecha y 20 a la izquierda dan una neta de 10 newtons a la derecha. Fuerzas de 25 a cada lado dan una neta nula"><figcaption>Figura 1. En una misma dirección, las fuerzas en el mismo sentido se suman y las opuestas se restan. Diagrama propio.</figcaption></figure>
+
+<div class="ejemplo">
+<p><strong>Tira y afloja.</strong> Dos equipos tiran de una cuerda. El equipo A tira hacia la izquierda con 800 N y el B hacia la derecha con 750 N. Tomando la derecha como positiva: <em>F</em><sub>neta</sub> = 750 − 800 = <strong>−50 N</strong>. La neta es de 50 N hacia la izquierda: gana A, y la cuerda acelera hacia su lado.</p>
+<p>Si ambos tiraran con 800 N, la fuerza neta sería <strong>cero</strong>: la cuerda quedaría quieta, o seguiría moviéndose con velocidad constante si ya se movía. Que la fuerza neta sea cero <strong>no</strong> significa que no haya fuerzas: significa que se compensan.</p>
+</div>
+<p>Cuando las fuerzas no están en la misma recta, se suman como vectores: por ejemplo, dos fuerzas perpendiculares de 3 N y 4 N dan una resultante de <strong>5 N</strong> (por el teorema de Pitágoras). En la PAES, la mayoría de las situaciones se reduce a fuerzas en una o dos direcciones perpendiculares.</p>
+<h2 id="3-primera-ley-de-newton-la-inercia">3. Primera ley de Newton: la inercia</h2>
+<h3 id="a-de-aristoteles-a-galileo">a. De Aristóteles a Galileo</h3>
+<p>Durante casi dos mil años se aceptó la idea de <strong>Aristóteles</strong>: el estado natural de los cuerpos es el <strong>reposo</strong>, y para que algo se mueva hace falta una fuerza que lo empuje todo el tiempo. Parece razonable: si dejas de pedalear, la bicicleta se detiene; si dejas de empujar un carro, se para.</p>
+<p><strong>Galileo</strong> miró el mismo fenómeno de otra manera. Hizo rodar esferas por un plano inclinado que bajaba y luego subía por otro. Observó que la esfera subía casi hasta la misma altura de la que partió, y que cuanto <strong>menos inclinado</strong> era el segundo plano, <strong>más lejos</strong> llegaba. Llevó la idea al límite: si el segundo plano fuera horizontal y no hubiera roce, la esfera <strong>seguiría moviéndose para siempre</strong>, porque nunca alcanzaría la altura inicial.</p>
+<figure><img src="img/cap06-dinamica/experimento-galileo.svg" alt="Tres rampas en forma de V: una bolita parte a cierta altura por la izquierda y sube por la derecha hasta la misma altura; con rampas derechas cada vez menos inclinadas recorre más distancia; con la rampa derecha horizontal, la bolita sigue indefinidamente"><figcaption>Figura 2. El experimento mental de Galileo: sin roce, la esfera sube hasta la misma altura; si el segundo plano es horizontal, no se detendría nunca. Diagrama propio.</figcaption></figure>
+
+<p>La conclusión cambió la física: <strong>no hace falta una fuerza para mantener un movimiento</strong>. Lo que detiene la bicicleta no es la falta de empuje, sino el <strong>roce</strong> con el suelo y con el aire. Si no hubiera ninguna fuerza que se opusiera, seguiría indefinidamente.</p>
+<div class="nota">
+<p><strong>Por qué es un buen ejemplo de ciencia.</strong> Nadie puede construir un plano sin roce. Galileo usó un <strong>experimento mental</strong>: extrapoló una tendencia que sí observaba (menos inclinación → más distancia) hasta una situación ideal. Es un modelo, y los modelos se aceptan porque sus predicciones se cumplen, no porque se vean directamente.</p>
+</div>
+<h3 id="b-el-enunciado">b. El enunciado</h3>
+<p>Newton recogió la idea de Galileo como su <strong>primera ley</strong> (1687):</p>
+<blockquote>
+<p><strong>Si la fuerza neta sobre un cuerpo es cero, el cuerpo mantiene su velocidad: si estaba en reposo, sigue en reposo; si se movía, sigue en línea recta con rapidez constante (MRU).</strong></p>
+</blockquote>
+<p>La propiedad de los cuerpos de mantener su estado de movimiento se llama <strong>inercia</strong>, y por eso a la primera ley también se la llama <strong>ley de inercia</strong>. La medida de la inercia de un cuerpo es su <strong>masa</strong>: cuanto mayor es la masa, más difícil es cambiar su velocidad.</p>
+<p>Un cuerpo con fuerza neta cero está en <strong>equilibrio</strong>. Hay dos tipos:</p>
+<ul>
+<li><strong>Equilibrio estático</strong>: el cuerpo está en reposo (un libro sobre la mesa).</li>
+<li><strong>Equilibrio dinámico</strong>: el cuerpo se mueve con velocidad constante (un paracaidista que cae con rapidez terminal, un auto que va a 100 km/h constantes en una recta).</li>
+</ul>
+<div class="tip">
+<p><strong>Dos errores simétricos.</strong>
+1. «Si un cuerpo se mueve, hay una fuerza neta en el sentido del movimiento.» Falso: un auto a velocidad constante tiene fuerza neta <strong>cero</strong>. El motor empuja, pero el roce compensa exactamente.
+2. «Si la fuerza neta es cero, el cuerpo está quieto.» Falso: también puede estar en MRU.</p>
+<p>La fuerza neta no está relacionada con la <strong>velocidad</strong>, sino con el <strong>cambio</strong> de velocidad (la aceleración). Eso es la segunda ley.</p>
+</div>
+<h3 id="c-la-inercia-en-la-vida-diaria">c. La inercia en la vida diaria</h3>
+<table>
+<thead>
+<tr>
+<th>Situación</th>
+<th>Explicación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>El bus frena de golpe y los pasajeros se van hacia adelante</td>
+<td>Sus cuerpos tienden a seguir con la velocidad que tenían; el bus es el que se detiene, no ellos</td>
+</tr>
+<tr>
+<td>El bus parte de golpe y los pasajeros se van hacia atrás</td>
+<td>Sus cuerpos tienden a quedarse en reposo mientras el bus avanza bajo ellos</td>
+</tr>
+<tr>
+<td>Se tira rápido del mantel y la vajilla queda sobre la mesa</td>
+<td>Por su inercia, los platos casi no alcanzan a moverse en el breve tiempo que actúa el roce</td>
+</tr>
+<tr>
+<td>Se golpea el mango de un martillo contra el suelo para ajustar la cabeza</td>
+<td>El mango se detiene y la cabeza, por inercia, sigue bajando y se encaja</td>
+</tr>
+<tr>
+<td>En una curva, el cuerpo parece «tirado» hacia afuera</td>
+<td>En realidad el cuerpo tiende a seguir en línea recta, y es el auto el que dobla</td>
+</tr>
+</tbody>
+</table>
+<p>El <strong>cinturón de seguridad</strong> y el <strong>apoyacabezas</strong> existen por la primera ley. En un choque, el auto se detiene en décimas de segundo, pero el cuerpo de los ocupantes sigue avanzando a la velocidad que traía hasta que algo lo detiene: el cinturón, o el parabrisas.</p>
+<h3 id="d-sistemas-de-referencia-inerciales">d. Sistemas de referencia inerciales</h3>
+<p>La primera ley no se cumple desde cualquier punto de vista. Dentro de un bus que frena, una pelota en el piso <strong>rueda hacia adelante sin que nada la empuje</strong>: desde el bus parece que la primera ley falla. Pero desde la calle todo tiene sentido: la pelota sigue con su velocidad y es el bus el que frena.</p>
+<p>Los sistemas de referencia en que se cumple la primera ley se llaman <strong>inerciales</strong>: son los que están en reposo o en MRU (capítulo 5, relatividad de Galileo). Un bus que frena, acelera o dobla <strong>no</strong> es un sistema inercial. Las leyes de Newton se aplican siempre desde un sistema inercial, normalmente el suelo.</p>
+<h2 id="4-segunda-ley-de-newton-fuerza-masa-y-aceleracion">4. Segunda ley de Newton: fuerza, masa y aceleración</h2>
+<h3 id="a-el-enunciado">a. El enunciado</h3>
+<p>La primera ley dice qué pasa cuando la fuerza neta es cero. La <strong>segunda ley</strong> dice qué pasa cuando <strong>no</strong> lo es:</p>
+<blockquote>
+<p><strong>La aceleración de un cuerpo es directamente proporcional a la fuerza neta que actúa sobre él e inversamente proporcional a su masa, y tiene la dirección y el sentido de la fuerza neta.</strong></p>
+</blockquote>
+<p style="text-align:center"><strong><em>F</em><sub>neta</sub> = <em>m</em> · <em>a</em></strong> &nbsp;&nbsp;&nbsp;&nbsp; o bien &nbsp;&nbsp;&nbsp;&nbsp; <strong><em>a</em> = <em>F</em><sub>neta</sub> / <em>m</em></strong></p>
+
+<table>
+<thead>
+<tr>
+<th>Símbolo</th>
+<th>Magnitud</th>
+<th>Unidad SI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>F</em><sub>neta</sub></td>
+<td>Fuerza neta (suma de todas las fuerzas)</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>m</em></td>
+<td>Masa</td>
+<td>kg</td>
+</tr>
+<tr>
+<td><em>a</em></td>
+<td>Aceleración</td>
+<td>m/s²</td>
+</tr>
+</tbody>
+</table>
+<p>De aquí sale la definición del newton: <strong>1 N es la fuerza neta que le da a 1 kg una aceleración de 1 m/s²</strong> (1 N = 1 kg · m/s²).</p>
+<h3 id="b-que-dicen-las-dos-proporcionalidades">b. Qué dicen las dos proporcionalidades</h3>
+<ul>
+<li><strong>Con la misma masa</strong>, al duplicar la fuerza neta se <strong>duplica</strong> la aceleración.</li>
+<li><strong>Con la misma fuerza neta</strong>, al duplicar la masa la aceleración se reduce a la <strong>mitad</strong>.</li>
+</ul>
+<figure><img src="img/cap06-dinamica/segunda-ley-graficos.svg" alt="Dos gráficos. Izquierda: aceleración versus fuerza neta para una masa fija, una recta que pasa por el origen. Derecha: aceleración versus masa para una fuerza fija, una curva que baja"><figcaption>Figura 3. La aceleración es directamente proporcional a la fuerza neta (izquierda) e inversamente proporcional a la masa (derecha). Diagrama propio.</figcaption></figure>
+
+<p>Por eso un camión cargado necesita mucho más tiempo para acelerar y para frenar que uno vacío con el mismo motor y los mismos frenos: con la misma fuerza, más masa significa menos aceleración.</p>
+<div class="ejemplo">
+<p><strong>Tres usos de la misma ecuación.</strong></p>
+<ol>
+<li><strong>Calcular la aceleración.</strong> Una fuerza neta de 60 N actúa sobre un carro de 20 kg: <em>a</em> = 60 / 20 = <strong>3 m/s²</strong>.</li>
+<li><strong>Calcular la fuerza neta.</strong> Un auto de 1 200 kg pasa de 0 a 20 m/s en 10 s. Su aceleración es 2 m/s², así que la fuerza neta fue <em>F</em> = 1 200 · 2 = <strong>2 400 N</strong>.</li>
+<li><strong>Calcular la masa.</strong> Una fuerza neta de 150 N produce una aceleración de 0,5 m/s²: <em>m</em> = 150 / 0,5 = <strong>300 kg</strong>.</li>
+</ol>
+</div>
+<h3 id="c-la-fuerza-neta-es-la-suma-de-todas">c. La fuerza neta es la suma de todas</h3>
+<p>El error más frecuente al usar la segunda ley es poner en <em>F</em> <strong>una</strong> de las fuerzas en vez de la <strong>neta</strong>.</p>
+<div class="ejemplo">
+<p><strong>Una caja empujada con roce.</strong> Una persona empuja una caja de 40 kg con 200 N hacia la derecha, y el roce con el piso es de 120 N hacia la izquierda.</p>
+<ul>
+<li>Fuerza neta: 200 − 120 = <strong>80 N</strong> hacia la derecha.</li>
+<li>Aceleración: <em>a</em> = 80 / 40 = <strong>2 m/s²</strong> hacia la derecha.</li>
+</ul>
+<p>Usar los 200 N directamente daría 5 m/s², un resultado equivocado. Y si la persona empujara con exactamente 120 N, la neta sería cero: la caja seguiría con velocidad constante si ya se movía (primera ley).</p>
+</div>
+<h3 id="d-la-segunda-ley-conecta-la-dinamica-con-la-cinema">d. La segunda ley conecta la dinámica con la cinemática</h3>
+<p>La segunda ley es el puente entre este capítulo y el anterior:</p>
+<ul>
+<li><strong>Fuerza neta constante</strong> → aceleración constante → <strong>MRUA</strong>.</li>
+<li><strong>Fuerza neta cero</strong> → aceleración cero → <strong>reposo o MRU</strong>.</li>
+</ul>
+<p>Así, conociendo las fuerzas se puede predecir el movimiento, y observando el movimiento se pueden deducir las fuerzas. Si un gráfico velocidad–tiempo es una recta inclinada, la fuerza neta es constante y distinta de cero; si es horizontal, la fuerza neta es cero.</p>
+<div class="tip">
+<p><strong>La dirección de la aceleración es la de la fuerza neta, no la de la velocidad.</strong> Un auto que frena se mueve hacia adelante, pero su aceleración y la fuerza neta sobre él apuntan hacia <strong>atrás</strong>. Una pelota lanzada hacia arriba sube, pero la fuerza neta (su peso) y su aceleración apuntan hacia <strong>abajo</strong> durante todo el vuelo.</p>
+</div>
+<h2 id="5-tercera-ley-de-newton-accion-y-reaccion">5. Tercera ley de Newton: acción y reacción</h2>
+<h3 id="a-el-enunciado-2">a. El enunciado</h3>
+<blockquote>
+<p><strong>Si un cuerpo A ejerce una fuerza sobre un cuerpo B, entonces B ejerce sobre A una fuerza de igual magnitud, en la misma dirección y en sentido opuesto.</strong></p>
+</blockquote>
+<p>Las dos fuerzas forman un <strong>par de acción y reacción</strong>. Los nombres son convencionales: cualquiera de las dos puede llamarse «acción». Lo importante es que <strong>siempre aparecen juntas</strong>: no existe una fuerza aislada. Si empujas una pared, la pared te empuja a ti; si la Tierra atrae una manzana, la manzana atrae a la Tierra con la misma fuerza.</p>
+<figure><img src="img/cap06-dinamica/accion-reaccion.svg" alt="Tres ejemplos de pares de acción y reacción: una patinadora que empuja una pared y la pared la empuja a ella; un cohete que expulsa gases hacia abajo y los gases lo empujan hacia arriba; la Tierra que atrae a una manzana y la manzana que atrae a la Tierra"><figcaption>Figura 4. En cada par, las dos fuerzas tienen igual magnitud y sentidos opuestos, y actúan sobre cuerpos distintos. Diagrama propio.</figcaption></figure>
+
+<h3 id="b-las-cuatro-caracteristicas-de-un-par">b. Las cuatro características de un par</h3>
+<table>
+<thead>
+<tr>
+<th>Característica</th>
+<th>Qué significa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Igual magnitud</strong></td>
+<td>Siempre, aunque los cuerpos tengan masas muy distintas</td>
+</tr>
+<tr>
+<td><strong>Sentidos opuestos</strong></td>
+<td>Sobre la misma línea de acción</td>
+</tr>
+<tr>
+<td><strong>Actúan sobre cuerpos distintos</strong></td>
+<td>Una sobre A, la otra sobre B</td>
+</tr>
+<tr>
+<td><strong>Son del mismo tipo</strong></td>
+<td>Si una es gravitacional, la otra también; si una es de contacto, la otra también</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Por qué no se anulan.</strong> Es la pregunta clásica: «si son iguales y opuestas, ¿por qué no se cancelan?». Porque <strong>actúan sobre cuerpos distintos</strong>. Solo se pueden sumar fuerzas que actúan sobre el <strong>mismo</strong> cuerpo. La fuerza que el caballo ejerce sobre la carreta actúa sobre la carreta; la que la carreta ejerce sobre el caballo actúa sobre el caballo. Para saber si la carreta se mueve, se suman las fuerzas <strong>sobre la carreta</strong> y nada más.</p>
+</div>
+<h3 id="c-igual-fuerza-no-significa-igual-efecto">c. Igual fuerza no significa igual efecto</h3>
+<p>Si las fuerzas del par son iguales, ¿por qué la manzana cae hacia la Tierra y no la Tierra hacia la manzana? Por la <strong>segunda ley</strong>: la misma fuerza produce aceleraciones muy distintas en masas muy distintas. Una manzana de 0,1 kg recibe una fuerza de unos 1 N y acelera a 9,8 m/s². La Tierra recibe la misma fuerza de 1 N, pero con su masa de 6 × 10<sup>24</sup> kg su aceleración es de unos 10<sup>−25</sup> m/s², imposible de percibir.</p>
+<div class="ejemplo">
+<p><strong>Dos patinadores.</strong> Un patinador de 80 kg y una patinadora de 40 kg, en reposo sobre el hielo, se empujan con las manos. Durante el empujón, cada uno recibe la misma fuerza, digamos 120 N.</p>
+<ul>
+<li>Aceleración de él: 120 / 80 = <strong>1,5 m/s²</strong>.</li>
+<li>Aceleración de ella: 120 / 40 = <strong>3 m/s²</strong>.</li>
+</ul>
+<p>Salen en sentidos opuestos, y ella con el doble de aceleración, porque tiene la mitad de masa. No importa quién «empujó primero»: las dos fuerzas existen a la vez.</p>
+</div>
+<h3 id="d-la-tercera-ley-nos-permite-movernos">d. La tercera ley nos permite movernos</h3>
+<p>Para avanzar, casi siempre hay que empujar <strong>algo hacia atrás</strong> para que ese algo nos empuje hacia adelante:</p>
+<ul>
+<li><strong>Caminar</strong>: el pie empuja el suelo hacia atrás (con roce) y el suelo empuja el pie hacia adelante. Sobre hielo liso cuesta caminar porque hay poco roce.</li>
+<li><strong>Nadar o remar</strong>: la mano o el remo empujan el agua hacia atrás y el agua empuja al nadador o al bote hacia adelante.</li>
+<li><strong>Un cohete</strong>: expulsa gases hacia atrás a gran velocidad y los gases lo empujan hacia adelante. Por eso funciona en el vacío del espacio: no necesita aire para «apoyarse».</li>
+<li><strong>Un auto</strong>: las ruedas empujan el pavimento hacia atrás y el pavimento empuja al auto hacia adelante.</li>
+</ul>
+<h3 id="e-como-no-confundir-un-par-con-dos-fuerzas-equilib">e. Cómo no confundir un par con dos fuerzas equilibradas</h3>
+<p>Un libro sobre una mesa está en equilibrio: su peso (hacia abajo) y la normal (hacia arriba) son iguales y opuestos. <strong>Pero no son un par de acción y reacción</strong>, porque ambas actúan sobre el <strong>mismo cuerpo</strong> (el libro) y son de tipos distintos (una gravitacional, la otra de contacto).</p>
+<table>
+<thead>
+<tr>
+<th>Fuerza</th>
+<th>Su pareja de acción y reacción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Peso del libro (la Tierra atrae al libro)</td>
+<td>El libro atrae a la Tierra hacia arriba</td>
+</tr>
+<tr>
+<td>Normal sobre el libro (la mesa empuja al libro hacia arriba)</td>
+<td>El libro empuja a la mesa hacia abajo</td>
+</tr>
+</tbody>
+</table>
+<p>Que el peso y la normal sean iguales es consecuencia de la <strong>primera ley</strong> (el libro está en equilibrio), no de la tercera. Y, como se verá, no siempre son iguales.</p>
+<h2 id="6-peso-fuerza-normal-y-tension">6. Peso, fuerza normal y tensión</h2>
+<h3 id="a-el-peso">a. El peso</h3>
+<p>El <strong>peso</strong> (<em>P</em>) de un cuerpo es la fuerza con que la Tierra —o el astro en que esté— lo atrae. Apunta hacia el <strong>centro del planeta</strong> (en la práctica, verticalmente hacia abajo) y vale:</p>
+<p style="text-align:center"><strong><em>P</em> = <em>m</em> · <em>g</em></strong></p>
+
+<p>donde <em>g</em> es la <strong>aceleración de gravedad</strong> del lugar: unos <strong>9,8 m/s²</strong> en la superficie terrestre (en muchos ejercicios se usa 10 m/s²). Es la misma <em>g</em> de la caída libre: si el peso es la única fuerza, la segunda ley da <em>a</em> = <em>P</em> / <em>m</em> = <em>g</em>.</p>
+<h3 id="b-masa-y-peso-no-son-lo-mismo">b. Masa y peso no son lo mismo</h3>
+<p>En el lenguaje diario se dice «peso 60 kilos», pero en física masa y peso son magnitudes distintas:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Masa (<em>m</em>)</th>
+<th>Peso (<em>P</em>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qué mide</td>
+<td>La cantidad de materia y la inercia del cuerpo</td>
+<td>La fuerza con que un astro lo atrae</td>
+</tr>
+<tr>
+<td>Tipo</td>
+<td>Escalar</td>
+<td>Vector (apunta hacia el centro del astro)</td>
+</tr>
+<tr>
+<td>Unidad SI</td>
+<td>Kilogramo (kg)</td>
+<td>Newton (N)</td>
+</tr>
+<tr>
+<td>¿Cambia de un lugar a otro?</td>
+<td><strong>No</strong></td>
+<td><strong>Sí</strong>, depende de <em>g</em></td>
+</tr>
+<tr>
+<td>Instrumento</td>
+<td>Balanza de platillos (compara masas)</td>
+<td>Dinamómetro</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Lugar</th>
+<th><em>g</em> aproximada</th>
+<th>Peso de una persona de 60 kg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tierra</td>
+<td>9,8 m/s²</td>
+<td>≈ 590 N</td>
+</tr>
+<tr>
+<td>Marte</td>
+<td>3,7 m/s²</td>
+<td>≈ 220 N</td>
+</tr>
+<tr>
+<td>Luna</td>
+<td>1,6 m/s²</td>
+<td>≈ 97 N</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Lo que no cambia en la Luna.</strong> Un astronauta pesa en la Luna la sexta parte que en la Tierra, así que puede <strong>levantar</strong> una caja con mucho menos esfuerzo. Pero <strong>detenerla</strong> o <strong>acelerarla</strong> en horizontal le cuesta lo mismo que en la Tierra, porque eso depende de la <strong>masa</strong> (la inercia), que es la misma. Si una pregunta mezcla «más liviano» con «más fácil de frenar», hay una confusión entre masa y peso.</p>
+</div>
+<h3 id="c-la-fuerza-normal">c. La fuerza normal</h3>
+<p>Cuando un cuerpo se apoya sobre una superficie, la superficie lo empuja con una fuerza <strong>perpendicular</strong> a ella: la <strong>fuerza normal</strong> (<em>N</em>). («Normal» significa perpendicular.) Es la que impide que el cuerpo atraviese la superficie. La superficie se deforma un poco, casi imperceptiblemente, y responde como un resorte muy rígido.</p>
+<p>La normal <strong>no tiene un valor fijo</strong>: se ajusta a lo que haga falta. Por eso <strong>no siempre es igual al peso</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Situación</th>
+<th>Normal comparada con el peso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Libro en reposo sobre una mesa horizontal</td>
+<td><em>N</em> = <em>P</em></td>
+</tr>
+<tr>
+<td>Alguien empuja el libro hacia abajo con la mano</td>
+<td><em>N</em> &gt; <em>P</em> (la mesa debe compensar peso y empujón)</td>
+</tr>
+<tr>
+<td>Alguien tira del libro hacia arriba sin levantarlo</td>
+<td><em>N</em> &lt; <em>P</em></td>
+</tr>
+<tr>
+<td>Persona en un ascensor que <strong>acelera hacia arriba</strong></td>
+<td><em>N</em> &gt; <em>P</em>: se siente «más pesada»</td>
+</tr>
+<tr>
+<td>Persona en un ascensor que <strong>acelera hacia abajo</strong></td>
+<td><em>N</em> &lt; <em>P</em>: se siente «más liviana»</td>
+</tr>
+<tr>
+<td>Persona en un ascensor que sube o baja <strong>con velocidad constante</strong></td>
+<td><em>N</em> = <em>P</em> (fuerza neta cero)</td>
+</tr>
+<tr>
+<td>Cuerpo sobre un plano inclinado</td>
+<td><em>N</em> &lt; <em>P</em> (la normal es perpendicular al plano, no vertical)</td>
+</tr>
+</tbody>
+</table>
+<div class="ejemplo">
+<p><strong>Una balanza en el ascensor.</strong> Una persona de 60 kg está de pie sobre una balanza de baño dentro de un ascensor. La balanza marca la fuerza normal. Usando <em>g</em> = 10 m/s², su peso es 600 N.</p>
+<ul>
+<li><strong>Ascensor que acelera hacia arriba a 2 m/s².</strong> La fuerza neta debe apuntar hacia arriba: <em>N</em> − <em>P</em> = <em>m</em> · <em>a</em> → <em>N</em> = 600 + 60 · 2 = <strong>720 N</strong>. La balanza marca como si pesara 72 kg.</li>
+<li><strong>Ascensor que acelera hacia abajo a 2 m/s².</strong> <em>P</em> − <em>N</em> = <em>m</em> · <em>a</em> → <em>N</em> = 600 − 120 = <strong>480 N</strong>.</li>
+<li><strong>Ascensor con velocidad constante</strong> (subiendo o bajando): <em>a</em> = 0, así que <em>N</em> = <strong>600 N</strong>.</li>
+<li><strong>Si se cortara el cable</strong> (caída libre, <em>a</em> = <em>g</em>): <em>N</em> = 600 − 600 = <strong>0</strong>. La persona sentiría que no pesa nada: es la «ingravidez» de los astronautas en órbita, que en realidad están cayendo continuamente alrededor de la Tierra.</li>
+</ul>
+<p>Lo que la balanza mide <strong>no</strong> es el peso, sino la normal. El peso real (la atracción de la Tierra) es 600 N en todos los casos.</p>
+</div>
+<h3 id="d-la-tension">d. La tensión</h3>
+<p>Cuando una cuerda, un cable o una cadena está tensa, ejerce sobre los cuerpos unidos a ella una fuerza llamada <strong>tensión</strong> (<em>T</em>). La tensión siempre <strong>tira</strong> (una cuerda no puede empujar) y actúa <strong>a lo largo de la cuerda</strong>, alejándose del cuerpo.</p>
+<p>En los problemas se usa el modelo de <strong>cuerda ideal</strong>: sin masa e inextensible. Con ese modelo, la tensión es la <strong>misma en toda la cuerda</strong>, y si pasa por una polea ideal (sin masa ni roce), la polea solo cambia la dirección de la fuerza, no su valor.</p>
+<div class="ejemplo">
+<p><strong>Una lámpara colgada.</strong> Una lámpara de 2 kg cuelga del techo por un cable y está en reposo. Sobre ella actúan su peso (20 N hacia abajo, con <em>g</em> = 10 m/s²) y la tensión del cable (hacia arriba). Como está en equilibrio, <em>T</em> = <em>P</em> = <strong>20 N</strong>.</p>
+<p><strong>La misma lámpara en un ascensor que acelera hacia arriba a 1 m/s².</strong> <em>T</em> − <em>P</em> = <em>m</em> · <em>a</em> → <em>T</em> = 20 + 2 · 1 = <strong>22 N</strong>. Si el cable resiste como máximo 21 N, se corta en ese ascensor aunque aguante sin problema en una casa.</p>
+</div>
+<h2 id="7-la-fuerza-elastica-y-la-ley-de-hooke">7. La fuerza elástica y la ley de Hooke</h2>
+<h3 id="a-que-es-un-cuerpo-elastico">a. Qué es un cuerpo elástico</h3>
+<p>Un cuerpo es <strong>elástico</strong> si, al deformarlo con una fuerza, <strong>recupera su forma</strong> cuando la fuerza deja de actuar: un resorte, un elástico de pelo, la cuerda de un arco, una cama elástica. Mientras está deformado, ejerce sobre lo que lo deforma una fuerza en sentido <strong>contrario a la deformación</strong>: si lo estiras, tira hacia adentro; si lo comprimes, empuja hacia afuera. Es la <strong>fuerza elástica</strong> o <strong>restauradora</strong>.</p>
+<h3 id="b-la-ley-de-hooke">b. La ley de Hooke</h3>
+<p>En 1678, el inglés <strong>Robert Hooke</strong> publicó que, para muchos materiales, <strong>la fuerza es proporcional a la deformación</strong>. Para un resorte:</p>
+<p style="text-align:center"><strong><em>F</em> = <em>k</em> · <em>x</em></strong></p>
+
+<table>
+<thead>
+<tr>
+<th>Símbolo</th>
+<th>Significado</th>
+<th>Unidad SI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>F</em></td>
+<td>Magnitud de la fuerza que estira o comprime el resorte (y de la fuerza elástica que él ejerce)</td>
+<td>N</td>
+</tr>
+<tr>
+<td><em>k</em></td>
+<td>Constante elástica: la <strong>rigidez</strong> del resorte</td>
+<td>N/m</td>
+</tr>
+<tr>
+<td><em>x</em></td>
+<td><strong>Deformación</strong>: cuánto se estiró o comprimió respecto de su largo natural</td>
+<td>m</td>
+</tr>
+</tbody>
+</table>
+<p>La fuerza que ejerce el propio resorte apunta al revés de la deformación, por eso a veces se escribe <em>F</em> = −<em>k</em> · <em>x</em>: el signo menos solo indica el sentido.</p>
+<div class="tip">
+<p><strong>x no es el largo del resorte.</strong> Es la <strong>diferencia</strong> entre el largo que tiene y su largo natural (sin carga). Si un resorte mide 20 cm sin carga y 26 cm con una masa colgada, <em>x</em> = 6 cm = 0,06 m, no 26 cm. Es el error de cálculo más común del tema.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Calcular <em>k</em> y usarla.</strong> Al colgar una masa de 0,5 kg de un resorte (peso: 5 N con <em>g</em> = 10 m/s²), este se estira de 20 cm a 30 cm.</p>
+<ul>
+<li>Deformación: <em>x</em> = 10 cm = 0,10 m.</li>
+<li>Constante: <em>k</em> = <em>F</em> / <em>x</em> = 5 N / 0,10 m = <strong>50 N/m</strong>.</li>
+<li>Con una masa de 0,8 kg (8 N), el estiramiento sería <em>x</em> = 8 / 50 = 0,16 m = <strong>16 cm</strong>, y el resorte mediría 36 cm.</li>
+</ul>
+</div>
+<h3 id="c-el-grafico-fuerzadeformacion-y-el-limite-elastic">c. El gráfico fuerza–deformación y el límite elástico</h3>
+<figure><img src="img/cap06-dinamica/ley-hooke-grafico.svg" alt="Gráfico de fuerza versus deformación para dos resortes: dos rectas que pasan por el origen, la del resorte A más inclinada que la del resorte B. Más allá de cierto punto, la recta de B se curva, marcando el límite elástico"><figcaption>Figura 5. En la zona elástica, la fuerza y la deformación son proporcionales; la pendiente es <em>k</em>. Más allá del límite elástico, la ley deja de cumplirse. Diagrama propio.</figcaption></figure>
+
+<ul>
+<li>Si la ley de Hooke se cumple, el gráfico de <strong>fuerza versus deformación</strong> es una <strong>recta que pasa por el origen</strong>.</li>
+<li>Su <strong>pendiente</strong> es la constante <em>k</em>. Un resorte más <strong>rígido</strong> tiene una recta <strong>más empinada</strong>: necesita más fuerza para estirarse lo mismo.</li>
+<li>La ley vale solo hasta el <strong>límite elástico</strong>. Si se estira más allá, el resorte <strong>se deforma permanentemente</strong> (ya no vuelve a su largo original) y, si se sigue, se rompe. Ahí la curva deja de ser recta.</li>
+</ul>
+<div class="nota">
+<p><strong>Cómo se comprueba la ley en el laboratorio.</strong> Se cuelga un resorte de un soporte, se mide su largo natural con una regla y luego se agregan masas conocidas, midiendo el largo cada vez. Con los datos se calcula la deformación y se grafica fuerza (peso de las masas) versus deformación. Si los puntos quedan alineados en una recta que pasa por el origen, se cumple la ley, y la pendiente da <em>k</em>. Variable independiente: la fuerza (las masas colgadas). Variable dependiente: la deformación. Variables controladas: el mismo resorte, la misma temperatura, no superar el límite elástico.</p>
+</div>
+<h3 id="d-el-dinamometro">d. El dinamómetro</h3>
+<p>El <strong>dinamómetro</strong> es un instrumento para medir fuerzas basado en la ley de Hooke: un resorte dentro de un tubo con una escala. Como la deformación es proporcional a la fuerza, la escala puede graduarse directamente en newton, con marcas <strong>equidistantes</strong>. Las balanzas de gancho que se usan en ferias y mercados para pesar sacos son dinamómetros.</p>
+<h3 id="e-resortes-en-la-vida-diaria">e. Resortes en la vida diaria</h3>
+<p>Amortiguadores de autos y bicicletas, colchones y sillas de oficina, básculas, trampolines, relojes mecánicos y los resortes de los lápices retráctiles. En todos ellos se elige la constante <em>k</em> según la fuerza que deben soportar y la deformación que se quiere permitir.</p>
+<h2 id="8-la-fuerza-de-roce">8. La fuerza de roce</h2>
+<h3 id="a-de-donde-viene-el-roce">a. De dónde viene el roce</h3>
+<p>Cuando dos superficies están en contacto, aparece una fuerza <strong>paralela</strong> a ellas que se opone a que <strong>deslicen</strong> una sobre otra: el <strong>roce</strong> (o fricción). Aun las superficies que parecen lisas tienen rugosidades microscópicas que se traban, y además los átomos de ambas superficies se atraen en los puntos de contacto.</p>
+<p>El roce <strong>no siempre es un enemigo</strong>: sin él no podríamos caminar, los autos no podrían partir ni frenar, los clavos no se sostendrían y los nudos se desatarían.</p>
+<h3 id="b-roce-estatico-y-roce-cinetico">b. Roce estático y roce cinético</h3>
+<p>Hay dos tipos, según si las superficies deslizan o no:</p>
+<figure><img src="img/cap06-dinamica/roce-grafico.svg" alt="Gráfico de la fuerza de roce versus la fuerza aplicada a una caja: el roce estático crece igual que la fuerza aplicada hasta un máximo, luego cae de golpe a un valor constante más bajo, el roce cinético, cuando la caja empieza a deslizar"><figcaption>Figura 6. Mientras la caja no se mueve, el roce estático iguala a la fuerza aplicada hasta un máximo; cuando empieza a deslizar, el roce baja al valor cinético y se mantiene constante. Diagrama propio.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Roce <strong>estático</strong> (<em>f</em><sub>e</sub>)</th>
+<th>Roce <strong>cinético</strong> (<em>f</em><sub>c</sub>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cuándo actúa</td>
+<td>Mientras las superficies <strong>no deslizan</strong> entre sí</td>
+<td>Cuando las superficies <strong>ya deslizan</strong></td>
+</tr>
+<tr>
+<td>Valor</td>
+<td>Se <strong>ajusta</strong> a la fuerza aplicada, desde cero hasta un máximo: <em>f</em><sub>e</sub> ≤ <em>μ</em><sub>e</sub> · <em>N</em></td>
+<td>Prácticamente <strong>constante</strong>: <em>f</em><sub>c</sub> = <em>μ</em><sub>c</sub> · <em>N</em></td>
+</tr>
+<tr>
+<td>Ejemplo</td>
+<td>Una caja que empujas suavemente y no se mueve</td>
+<td>La misma caja arrastrándose por el piso</td>
+</tr>
+</tbody>
+</table>
+<p>donde <em>N</em> es la fuerza normal y <em>μ</em><sub>e</sub>, <em>μ</em><sub>c</sub> son los <strong>coeficientes de roce</strong> estático y cinético. Los coeficientes no tienen unidad y dependen <strong>de los dos materiales</strong> en contacto y del estado de las superficies (secas, mojadas, enceradas).</p>
+<p>Casi siempre <strong><em>μ</em><sub>e</sub> &gt; <em>μ</em><sub>c</sub></strong>: cuesta más <strong>empezar</strong> a mover un mueble que <strong>mantenerlo</strong> en movimiento. Por eso se siente un «tirón» al principio y después el mueble se desliza con menos esfuerzo.</p>
+<table>
+<thead>
+<tr>
+<th>Materiales</th>
+<th><em>μ</em><sub>e</sub></th>
+<th><em>μ</em><sub>c</sub></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Caucho sobre concreto seco</td>
+<td>1,0</td>
+<td>0,7</td>
+</tr>
+<tr>
+<td>Caucho sobre concreto mojado</td>
+<td>0,7</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td>Madera sobre madera</td>
+<td>0,5</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td>Madera encerada sobre nieve húmeda</td>
+<td>0,14</td>
+<td>0,10</td>
+</tr>
+<tr>
+<td>Acero sobre hielo</td>
+<td>0,04</td>
+<td>0,02</td>
+</tr>
+</tbody>
+</table>
+<div class="ejemplo">
+<p><strong>Mover una caja.</strong> Una caja de 50 kg está sobre un piso de madera horizontal (<em>μ</em><sub>e</sub> = 0,5; <em>μ</em><sub>c</sub> = 0,3; <em>g</em> = 10 m/s²). La normal es igual al peso: <em>N</em> = 500 N.</p>
+<ul>
+<li>Roce estático máximo: 0,5 · 500 = <strong>250 N</strong>. Si empujas con 100 N, la caja <strong>no se mueve</strong> y el roce estático vale <strong>100 N</strong> (no 250 N): se ajusta a tu empuje.</li>
+<li>Si empujas con 260 N, superas el máximo y la caja empieza a deslizar.</li>
+<li>Ya en movimiento, el roce es cinético: 0,3 · 500 = <strong>150 N</strong>. Si sigues empujando con 260 N, la fuerza neta es 110 N y la caja acelera a 110 / 50 = <strong>2,2 m/s²</strong>. Para que avance con velocidad constante, basta empujar con <strong>150 N</strong>.</li>
+</ul>
+</div>
+<div class="tip">
+<p><strong>Tres errores típicos.</strong>
+1. Calcular siempre el roce estático como <em>μ</em><sub>e</sub> · <em>N</em>. Ese es el <strong>máximo</strong>; el valor real es el que haga falta para impedir el deslizamiento.
+2. Creer que el roce depende del <strong>área</strong> de contacto. En el modelo escolar, no: un ladrillo apoyado de canto o de plano tiene el mismo roce, porque la normal es la misma.
+3. Creer que el roce <strong>siempre se opone al movimiento</strong>. Se opone al <strong>deslizamiento entre las superficies</strong>. Al caminar, el roce sobre tu pie apunta <strong>hacia adelante</strong>, en el sentido en que avanzas: es la fuerza que te impulsa.</p>
+</div>
+<h3 id="c-por-que-frenar-sin-bloquear-las-ruedas">c. Por qué frenar sin bloquear las ruedas</h3>
+<p>Mientras una rueda gira sin patinar, el punto que toca el pavimento está instantáneamente quieto respecto del suelo: actúa el roce <strong>estático</strong>, que es mayor. Si el conductor frena tan fuerte que la rueda se bloquea y patina, pasa a actuar el roce <strong>cinético</strong>, menor, y el auto tarda más en detenerse y además pierde el control de la dirección. Los frenos <strong>ABS</strong> evitan que las ruedas se bloqueen justamente para aprovechar el roce estático.</p>
+<p>Por eso también la distancia de frenado aumenta con el pavimento mojado: el coeficiente de roce baja (de 1,0 a 0,7 en la tabla), la fuerza de frenado máxima baja y la aceleración de frenado también.</p>
+<h3 id="d-el-roce-con-el-aire">d. El roce con el aire</h3>
+<p>Cuando un cuerpo se mueve dentro de un fluido (aire o agua), el fluido opone una fuerza de <strong>roce</strong> o <strong>resistencia</strong>. En términos cualitativos, que es como lo pide el temario:</p>
+<ul>
+<li><strong>Aumenta con la rapidez</strong> del cuerpo: a bajas velocidades casi no se nota; en una carretera es la principal fuerza que frena al auto.</li>
+<li><strong>Aumenta con el área frontal</strong> del cuerpo: un paracaídas abierto frena mucho más que uno cerrado.</li>
+<li><strong>Depende de la forma</strong>: las formas aerodinámicas (autos deportivos, trenes de alta velocidad, ciclistas agachados) reducen el roce.</li>
+<li>Depende también de la densidad del fluido: en el agua es mucho mayor que en el aire.</li>
+</ul>
+<p><strong>La rapidez terminal.</strong> Un cuerpo que cae parte con roce del aire nulo y acelera. A medida que gana rapidez, el roce crece, hasta que <strong>iguala al peso</strong>. Desde ese momento la fuerza neta es cero y el cuerpo sigue cayendo con <strong>rapidez constante</strong>: la <strong>rapidez terminal</strong> (primera ley). Un paracaidista en caída libre boca abajo llega a entre 160 y 200 km/h, según su postura y su masa; al abrir el paracaídas, el roce aumenta de golpe, el paracaidista frena y alcanza una nueva rapidez terminal mucho menor, de unos 20 km/h. Las gotas de lluvia también caen con rapidez terminal: por eso no llegan al suelo como proyectiles.</p>
+<figure><img src="img/cap06-dinamica/rapidez-terminal.svg" alt="Gráfico de rapidez versus tiempo de un paracaidista: la rapidez crece rápido al principio y se curva hasta estabilizarse en unos 50 metros por segundo; al abrir el paracaídas cae bruscamente y se estabiliza en unos 5 metros por segundo"><figcaption>Figura 7. Rapidez de un paracaidista: primero alcanza la rapidez terminal en caída libre y, al abrir el paracaídas, una rapidez terminal mucho menor. Valores aproximados. Diagrama propio.</figcaption></figure>
+<h2 id="9-el-diagrama-de-cuerpo-libre-y-como-resolver-prob">9. El diagrama de cuerpo libre y cómo resolver problemas</h2>
+<h3 id="a-que-es-un-diagrama-de-cuerpo-libre">a. Qué es un diagrama de cuerpo libre</h3>
+<p>Un <strong>diagrama de cuerpo libre</strong> (DCL) es un dibujo del cuerpo que se estudia, <strong>aislado</strong> de todo lo que lo rodea, con una flecha por <strong>cada fuerza que actúa sobre él</strong>. Es la herramienta central de la dinámica: casi todos los errores en los problemas de fuerzas vienen de un DCL incompleto o con fuerzas que no corresponden.</p>
+<figure><img src="img/cap06-dinamica/dcl-ejemplos.svg" alt="Tres diagramas de cuerpo libre: un libro en reposo sobre una mesa con el peso hacia abajo y la normal hacia arriba; una caja empujada hacia la derecha sobre el piso con peso, normal, fuerza aplicada y roce hacia la izquierda; una lámpara colgada con el peso hacia abajo y la tensión hacia arriba"><figcaption>Figura 8. Tres diagramas de cuerpo libre. Cada flecha es una fuerza que actúa sobre el cuerpo dibujado. Diagrama propio.</figcaption></figure>
+
+<h3 id="b-el-procedimiento-paso-a-paso">b. El procedimiento paso a paso</h3>
+<ol>
+<li><strong>Elegir el cuerpo</strong> que se va a estudiar y dibujarlo como una caja o un punto.</li>
+<li><strong>Poner el peso</strong>: siempre, vertical hacia abajo, <em>P</em> = <em>m</em> · <em>g</em>.</li>
+<li><strong>Buscar los contactos</strong>: por cada cosa que <strong>toca</strong> al cuerpo, hay una o dos fuerzas de contacto:
+   - una superficie → <strong>normal</strong> (perpendicular a la superficie) y, si hay deslizamiento o tendencia a deslizar, <strong>roce</strong> (paralelo a la superficie);
+   - una cuerda → <strong>tensión</strong> (a lo largo de la cuerda, tirando);
+   - un resorte → <strong>fuerza elástica</strong>;
+   - una mano, un motor u otro agente → la <strong>fuerza aplicada</strong>;
+   - el aire, si el problema lo considera → <strong>roce con el aire</strong>.</li>
+<li><strong>No agregar nada más.</strong> En particular, no dibujar las fuerzas que el cuerpo <strong>ejerce</strong> sobre otros (sus reacciones), ni una «fuerza del movimiento».</li>
+<li><strong>Elegir ejes</strong>: uno en la dirección del movimiento (o de la aceleración) y otro perpendicular. Marcar el sentido positivo.</li>
+<li><strong>Aplicar la segunda ley en cada eje</strong>: la suma de fuerzas en ese eje es <em>m</em> · <em>a</em> en ese eje. En el eje en que no hay movimiento, la suma es <strong>cero</strong>.</li>
+</ol>
+<div class="tip">
+<p><strong>La pregunta que salva el DCL.</strong> Para cada flecha, pregúntate: <strong>¿qué cuerpo ejerce esta fuerza?</strong> Si no puedes nombrarlo (la Tierra, el piso, la cuerda, la mano, el aire), esa fuerza no existe. Así se elimina la «fuerza del lanzamiento» de una pelota en el aire: después de salir de la mano, ya nada la empuja hacia arriba.</p>
+</div>
+<h3 id="c-cuerpos-con-velocidad-constante-o-con-aceleracio">c. Cuerpos con velocidad constante o con aceleración constante</h3>
+<p>El temario pide aplicar las leyes de Newton en dos situaciones:</p>
+<table>
+<thead>
+<tr>
+<th>El cuerpo se mueve con…</th>
+<th>Fuerza neta</th>
+<th>Cómo se plantea</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Velocidad constante</strong> (o está en reposo)</td>
+<td><strong>Cero</strong> (primera ley)</td>
+<td>Las fuerzas en cada eje se <strong>compensan</strong></td>
+</tr>
+<tr>
+<td><strong>Aceleración constante</strong></td>
+<td><strong>Constante y distinta de cero</strong> (segunda ley)</td>
+<td>Suma de fuerzas en el eje del movimiento = <em>m</em> · <em>a</em></td>
+</tr>
+</tbody>
+</table>
+<div class="ejemplo">
+<p><strong>Un trineo arrastrado con velocidad constante.</strong> Un niño arrastra un trineo de 20 kg por la nieve tirando de una cuerda horizontal. El trineo avanza con velocidad constante y el coeficiente de roce cinético es 0,1 (<em>g</em> = 10 m/s²).</p>
+<ul>
+<li>DCL del trineo: peso (200 N, abajo), normal (arriba), tensión (horizontal, hacia adelante) y roce cinético (horizontal, hacia atrás).</li>
+<li>Eje vertical (no hay movimiento): <em>N</em> = <em>P</em> = 200 N.</li>
+<li>Roce: <em>f</em><sub>c</sub> = 0,1 · 200 = 20 N.</li>
+<li>Eje horizontal (velocidad constante, fuerza neta cero): <em>T</em> = <em>f</em><sub>c</sub> = <strong>20 N</strong>.</li>
+</ul>
+<p>Si el niño tirara con 30 N, la fuerza neta sería 10 N y el trineo aceleraría a 10 / 20 = <strong>0,5 m/s²</strong>.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Dos bloques unidos por una cuerda.</strong> Sobre una mesa sin roce, un bloque A de 3 kg y un bloque B de 2 kg están unidos por una cuerda ideal. Se tira de A con una fuerza horizontal de 20 N.</p>
+<ol>
+<li><strong>Todo el sistema</strong> (A + B, 5 kg) se mueve junto, con la misma aceleración. Fuerza neta horizontal sobre el sistema: 20 N (la tensión es interna y no cuenta). <em>a</em> = 20 / 5 = <strong>4 m/s²</strong>.</li>
+<li><strong>Solo el bloque B</strong>: la única fuerza horizontal sobre él es la tensión. <em>T</em> = <em>m</em><sub>B</sub> · <em>a</em> = 2 · 4 = <strong>8 N</strong>.</li>
+<li><strong>Comprobación con A</strong>: 20 − <em>T</em> = 3 · 4 → <em>T</em> = 8 N. Coincide.</li>
+</ol>
+<p>La tensión (8 N) es <strong>menor</strong> que la fuerza aplicada (20 N), porque parte de esa fuerza se usa en acelerar el bloque A.</p>
+</div>
+<h3 id="d-las-fuerzas-en-un-plano-inclinado-cualitativo">d. Las fuerzas en un plano inclinado (cualitativo)</h3>
+<p>Sobre un cuerpo apoyado en una rampa, el peso sigue siendo vertical, pero la normal es <strong>perpendicular a la rampa</strong>. Conviene pensar el peso como la suma de dos partes: una <strong>paralela</strong> a la rampa, que tiende a hacer bajar el cuerpo, y otra <strong>perpendicular</strong>, que compensa la normal.</p>
+<ul>
+<li>Cuanto <strong>más inclinada</strong> la rampa, mayor es la parte del peso que empuja rampa abajo y <strong>menor la normal</strong>.</li>
+<li>Si el cuerpo está quieto sobre la rampa, es el <strong>roce estático</strong> el que compensa la parte del peso paralela a ella: apunta <strong>rampa arriba</strong>.</li>
+<li>Si la rampa se inclina lo suficiente, esa parte del peso supera el roce estático máximo y el cuerpo empieza a deslizar.</li>
+</ul>
+<figure><img src="img/cap06-dinamica/plano-inclinado.svg" alt="Un bloque sobre una rampa inclinada con su peso vertical hacia abajo, la normal perpendicular a la rampa y el roce estático apuntando rampa arriba; con líneas punteadas, las dos partes del peso: una paralela a la rampa y otra perpendicular"><figcaption>Figura 9. Fuerzas sobre un bloque en reposo en un plano inclinado. Diagrama propio.</figcaption></figure>
+
+<h3 id="e-errores-frecuentes-al-resolver">e. Errores frecuentes al resolver</h3>
+<table>
+<thead>
+<tr>
+<th>Error</th>
+<th>Por qué está mal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dibujar en el DCL la fuerza que el cuerpo ejerce sobre el piso</td>
+<td>Esa fuerza actúa sobre el piso, no sobre el cuerpo</td>
+</tr>
+<tr>
+<td>Suponer siempre que <em>N</em> = <em>P</em></td>
+<td>Solo vale en una superficie horizontal, sin otras fuerzas verticales y sin aceleración vertical</td>
+</tr>
+<tr>
+<td>Poner una fuerza «en el sentido del movimiento» en un cuerpo que se mueve por inercia</td>
+<td>Sin un agente que la ejerza, no existe</td>
+</tr>
+<tr>
+<td>Usar una sola fuerza en vez de la neta en <em>F</em> = <em>m</em> · <em>a</em></td>
+<td>La segunda ley usa la suma de todas</td>
+</tr>
+<tr>
+<td>Sumar un par de acción y reacción en el mismo DCL</td>
+<td>Actúan sobre cuerpos distintos</td>
+</tr>
+</tbody>
+</table>
+<h2 id="ejemplos-paes-resueltos">Ejemplos PAES resueltos</h2>
+<p>Cuatro ítems al estilo de la prueba, resueltos paso a paso. Cúbrelos primero y después compara.</p>
+<div class="ejemplo">
+<p><strong>Ejemplo 1 (Procesar y analizar la evidencia).</strong> En un laboratorio se cuelgan distintas masas de un resorte y se mide su largo. El largo del resorte sin carga es 12,0 cm (usa <em>g</em> = 10 m/s²).</p>
+<table>
+<thead>
+<tr>
+<th>Masa colgada (g)</th>
+<th>100</th>
+<th>200</th>
+<th>300</th>
+<th>400</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Largo del resorte (cm)</td>
+<td>14,0</td>
+<td>16,0</td>
+<td>18,0</td>
+<td>20,0</td>
+</tr>
+</tbody>
+</table>
+<p>¿Cuál es la constante elástica del resorte?</p>
+<p>A) 5 N/m
+B) 7 N/m
+C) 50 N/m
+D) 71 N/m</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Fuerza.</strong> Una masa de 100 g (0,1 kg) pesa 1 N; cada 100 g adicionales agregan 1 N.</li>
+<li><strong>Deformación, no largo.</strong> Con 100 g el resorte se alarga de 12,0 a 14,0 cm: <em>x</em> = 2,0 cm = 0,02 m. Con 400 g, <em>x</em> = 8,0 cm = 0,08 m. La deformación crece de a 2 cm por cada 1 N: se cumple la ley de Hooke.</li>
+<li><strong>Constante.</strong> <em>k</em> = <em>F</em> / <em>x</em> = 1 N / 0,02 m = <strong>50 N/m</strong> (con 4 N / 0,08 m se obtiene lo mismo).</li>
+<li><strong>Descartar.</strong> A (5 N/m) sale de convertir mal 2 cm como 0,2 m. B (≈ 7 N/m) resulta de usar el largo total, 14 cm, en vez de la deformación. D (≈ 71 N/m) combina los dos errores: usa el largo total y lo convierte mal, como 0,014 m.</li>
+</ol>
+<p><strong>Clave: C.</strong></p>
+<p><strong>Lo que evalúa.</strong> Obtener una constante a partir de datos, distinguiendo el largo del resorte de su deformación.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 2 (Planificar y conducir una investigación).</strong> Un grupo quiere averiguar si la fuerza de roce cinético entre un bloque de madera y una mesa depende del área de contacto. El bloque tiene caras de distinta área. Disponen de un dinamómetro.</p>
+<p>¿Qué procedimiento permite responder la pregunta?</p>
+<p>A) Arrastrar el bloque con el dinamómetro a velocidad constante apoyado sobre cada una de sus caras, y comparar las lecturas.
+B) Arrastrar el bloque sobre la misma cara, agregando cada vez más masa encima, y comparar las lecturas.
+C) Arrastrar el bloque apoyado sobre cada cara con aceleraciones cada vez mayores, y comparar las lecturas.
+D) Arrastrar sobre la misma cara bloques de distintos materiales, y comparar las lecturas.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Variables.</strong> Independiente: el área de contacto. Dependiente: el roce cinético. Controladas: el material, la masa (y por lo tanto la normal).</li>
+<li><strong>Por qué a velocidad constante.</strong> Si el bloque va con velocidad constante, la fuerza neta es cero y el dinamómetro marca exactamente el roce cinético (primera ley). Si acelera, marca roce más <em>m</em> · <em>a</em>: eso descarta C.</li>
+<li><strong>Descartar B y D.</strong> B cambia la normal, no el área. D cambia los materiales.</li>
+</ol>
+<p><strong>Clave: A.</strong> (Y el resultado esperado, dentro del modelo escolar, es que las lecturas sean casi iguales: el roce no depende del área.)</p>
+<p><strong>Lo que evalúa.</strong> Diseñar una medición con control de variables, usando la primera ley para saber qué mide el instrumento.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 3 (Evaluar).</strong> Una estudiante explica: «Cuando un caballo tira de una carreta, la carreta tira del caballo con la misma fuerza y en sentido contrario. Por eso las fuerzas se anulan y, si la carreta se mueve, es porque el caballo tira con más fuerza que la carreta».</p>
+<p>¿Cuál es la mejor evaluación de este razonamiento?</p>
+<p>A) Es correcto, porque para que haya movimiento una fuerza debe ser mayor que su reacción.
+B) Es incorrecto, porque las fuerzas del par actúan sobre cuerpos distintos y no se suman entre sí.
+C) Es correcto, porque la tercera ley solo se cumple cuando los cuerpos están en reposo.
+D) Es incorrecto, porque la carreta no ejerce ninguna fuerza sobre el caballo.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué dice la tercera ley.</strong> Las fuerzas del par son <strong>siempre</strong> iguales y opuestas, estén o no en movimiento los cuerpos. A y C contradicen esto.</li>
+<li><strong>Dónde está el error.</strong> Las dos fuerzas actúan sobre cuerpos distintos: una sobre la carreta y la otra sobre el caballo. No pueden anularse, porque solo se suman las fuerzas que actúan sobre un mismo cuerpo.</li>
+<li><strong>Por qué se mueve la carreta.</strong> Sobre la carreta actúan el tirón del caballo (hacia adelante) y el roce del suelo (hacia atrás). Si el tirón supera al roce, la carreta acelera. El caballo avanza porque empuja el suelo hacia atrás con sus cascos, y el suelo lo empuja a él hacia adelante.</li>
+<li>D niega la tercera ley.</li>
+</ol>
+<p><strong>Clave: B.</strong></p>
+<p><strong>Lo que evalúa.</strong> Detectar el error conceptual más famoso de la dinámica y explicarlo con el modelo correcto.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 4 (Observar y plantear preguntas).</strong> En la clase de educación física, un estudiante nota que le cuesta mucho empezar a arrastrar una colchoneta por el gimnasio, pero que una vez que se mueve puede seguir arrastrándola con menos esfuerzo.</p>
+<p>¿Cuál de las siguientes hipótesis explica la observación y puede ponerse a prueba?</p>
+<p>A) La colchoneta pierde masa mientras es arrastrada por el piso.
+B) El piso del gimnasio es más liso en unos lugares que en otros.
+C) La fuerza que ejerce el estudiante aumenta la masa de la colchoneta al inicio.
+D) El roce estático máximo entre la colchoneta y el piso es mayor que el roce cinético.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué patrón hay.</strong> Se necesita más fuerza para <strong>iniciar</strong> el movimiento que para <strong>mantenerlo</strong>, sobre el mismo piso y con la misma colchoneta.</li>
+<li><strong>Qué hipótesis lo explica.</strong> D: el roce estático máximo (<em>μ</em><sub>e</sub> · <em>N</em>) es mayor que el cinético (<em>μ</em><sub>c</sub> · <em>N</em>). Se puede poner a prueba con un dinamómetro: medir la lectura máxima justo antes de que empiece a moverse y la lectura mientras avanza a velocidad constante.</li>
+<li><strong>Descartar.</strong> A y C son falsas: la masa no cambia. B no explica por qué el efecto ocurre siempre al empezar, en cualquier punto del piso.</li>
+</ol>
+<p><strong>Clave: D.</strong></p>
+<p><strong>Lo que evalúa.</strong> Formular una hipótesis coherente con la observación y comprobable con un experimento.</p>
+</div>
+<h2 id="evaluacion-formativa">Evaluación formativa</h2>
+<p>Veinte preguntas sobre fuerza neta, las tres leyes de Newton, peso y masa, normal, tensión, ley de Hooke, roce y diagramas de cuerpo libre. Responde todas y luego revisa las explicaciones.</p>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>1.</strong> Sobre una caja actúan dos fuerzas horizontales: 40 N hacia la derecha y 15 N hacia la izquierda. ¿Cuál es la fuerza neta?</p>
+  <ol class="alternativas">
+    <li data-letra="A">55 N hacia la derecha.</li>
+    <li data-letra="B">25 N hacia la derecha.</li>
+    <li data-letra="C">25 N hacia la izquierda.</li>
+    <li data-letra="D">55 N hacia la izquierda.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Fuerzas opuestas en una misma dirección se restan: 40 − 15 = 25 N, en el sentido de la mayor, hacia la derecha. Sumarlas (55 N) ignora que son opuestas.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>2.</strong> Después de ser pateada, una pelota vuela por el aire. Despreciando el roce con el aire, ¿qué fuerzas actúan sobre ella?</p>
+  <ol class="alternativas">
+    <li data-letra="A">El peso y la fuerza de la patada.</li>
+    <li data-letra="B">La fuerza de la patada y la del movimiento.</li>
+    <li data-letra="C">Ninguna, porque está en el aire.</li>
+    <li data-letra="D">Solo el peso.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Una vez que la pelota deja el pie, nada la empuja: la patada actuó solo durante el contacto. Sin considerar el aire, la única fuerza es el peso. Pensar que la pelota «lleva» la fuerza de la patada es el error del ímpetu medieval.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>3.</strong> Un auto viaja por una carretera recta a 100 km/h constantes. ¿Qué se puede afirmar de la fuerza neta sobre él?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Es cero, porque su velocidad es constante.</li>
+    <li data-letra="B">Apunta hacia adelante, porque avanza.</li>
+    <li data-letra="C">Apunta hacia atrás, porque el aire lo frena.</li>
+    <li data-letra="D">Es igual a la fuerza del motor.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Por la primera ley, velocidad constante significa fuerza neta cero. El motor empuja hacia adelante, pero el roce con el aire y el pavimento compensa exactamente esa fuerza.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>4.</strong> Un bus frena de golpe y los pasajeros de pie se inclinan hacia adelante. ¿Qué explica este efecto?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Una fuerza que empuja a los pasajeros hacia adelante.</li>
+    <li data-letra="B">La inercia, que los hace seguir en movimiento.</li>
+    <li data-letra="C">La tercera ley, porque el bus empuja a los pasajeros.</li>
+    <li data-letra="D">El aumento del peso de los pasajeros al frenar.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Los cuerpos de los pasajeros tienden a mantener la velocidad que traían (primera ley). Es el bus el que se detiene bajo ellos. No hay ninguna fuerza que los empuje hacia adelante.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>5.</strong> Una fuerza neta de 30 N actúa sobre un carro de 6 kg. ¿Cuál es su aceleración?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,2 m/s²</li>
+    <li data-letra="B">5 m/s²</li>
+    <li data-letra="C">24 m/s²</li>
+    <li data-letra="D">180 m/s²</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>a = F / m = 30 / 6 = 5 m/s². Multiplicar en vez de dividir da 180; dividir al revés da 0,2.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>6.</strong> Si se duplica la fuerza neta sobre un cuerpo y al mismo tiempo se duplica su masa, ¿qué pasa con su aceleración?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Se duplica.</li>
+    <li data-letra="B">Se cuadruplica.</li>
+    <li data-letra="C">Se reduce a la mitad.</li>
+    <li data-letra="D">No cambia.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>a = F / m. Si F y m se duplican, el cociente queda igual. La aceleración es directamente proporcional a la fuerza e inversamente proporcional a la masa: los dos efectos se compensan.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>7.</strong> Una persona empuja un mueble de 50 kg con 180 N y el roce con el piso es de 130 N. ¿Cuál es la aceleración del mueble?</p>
+  <ol class="alternativas">
+    <li data-letra="A">1,0 m/s²</li>
+    <li data-letra="B">2,6 m/s²</li>
+    <li data-letra="C">3,6 m/s²</li>
+    <li data-letra="D">6,2 m/s²</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La segunda ley usa la fuerza neta: 180 − 130 = 50 N, y a = 50 / 50 = 1,0 m/s². Usar solo los 180 N da 3,6 m/s²; sumar las fuerzas da 6,2 m/s².</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>8.</strong> Un camión de 10 000 kg y un auto de 1 000 kg chocan de frente. Durante el choque, ¿cómo son las fuerzas que se ejercen entre sí?</p>
+  <ol class="alternativas">
+    <li data-letra="A">El camión ejerce una fuerza mayor sobre el auto.</li>
+    <li data-letra="B">El auto ejerce una fuerza mayor sobre el camión.</li>
+    <li data-letra="C">Ambas fuerzas tienen la misma magnitud.</li>
+    <li data-letra="D">Depende de cuál de los dos iba más rápido.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Por la tercera ley, las fuerzas del par siempre tienen la misma magnitud, cualquiera sea la masa o la rapidez. Lo que difiere es la aceleración: el auto, con menos masa, sufre una aceleración diez veces mayor.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>9.</strong> Un libro descansa sobre una mesa. ¿Cuál es la pareja de acción y reacción del peso del libro?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La fuerza normal que la mesa ejerce sobre el libro.</li>
+    <li data-letra="B">La fuerza con que el libro atrae a la Tierra.</li>
+    <li data-letra="C">La fuerza con que el libro empuja a la mesa.</li>
+    <li data-letra="D">La fuerza con que la mesa empuja al piso.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>El peso es la fuerza con que la Tierra atrae al libro; su reacción es la fuerza con que el libro atrae a la Tierra. La normal también actúa sobre el libro y es de otro tipo, así que no forma par con el peso, aunque lo equilibre.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>10.</strong> ¿Qué permite que un cohete acelere en el vacío del espacio, donde no hay aire en qué apoyarse?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La atracción del Sol sobre el cohete.</li>
+    <li data-letra="B">La ausencia de roce en el espacio.</li>
+    <li data-letra="C">La inercia de los gases del cohete.</li>
+    <li data-letra="D">Los gases expulsados empujan al cohete.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>El cohete empuja los gases hacia atrás y, por la tercera ley, los gases empujan al cohete hacia adelante. No necesita aire: la interacción es entre el cohete y sus propios gases.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>11.</strong> Un astronauta de 80 kg viaja de la Tierra (g = 9,8 m/s²) a la Luna (g = 1,6 m/s²). ¿Qué ocurre con su masa y su peso?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Su masa se mantiene y su peso disminuye.</li>
+    <li data-letra="B">Su masa y su peso disminuyen.</li>
+    <li data-letra="C">Su masa disminuye y su peso se mantiene.</li>
+    <li data-letra="D">Su masa y su peso se mantienen.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La masa es la cantidad de materia y no depende del lugar: sigue siendo 80 kg. El peso depende de g: baja de unos 784 N a unos 128 N.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>12.</strong> Una persona de 50 kg está sobre una balanza en un ascensor que sube acelerando a 2 m/s² (usa g = 10 m/s²). ¿Qué marca la balanza?</p>
+  <ol class="alternativas">
+    <li data-letra="A">400 N</li>
+    <li data-letra="B">500 N</li>
+    <li data-letra="C">600 N</li>
+    <li data-letra="D">1 000 N</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>La balanza marca la normal. La fuerza neta debe apuntar hacia arriba: N − 500 = 50 · 2, así que N = 600 N. Con velocidad constante marcaría 500 N; bajando con esa aceleración, 400 N.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>13.</strong> Una lámpara de 3 kg cuelga en reposo de un cable (usa g = 10 m/s²). ¿Cuál es la tensión del cable?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,3 N</li>
+    <li data-letra="B">3 N</li>
+    <li data-letra="C">30 N</li>
+    <li data-letra="D">300 N</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>La lámpara está en equilibrio: la tensión hacia arriba compensa el peso hacia abajo, T = m·g = 3 · 10 = 30 N.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>14.</strong> Un resorte de 20 cm se estira hasta 25 cm al colgarle un peso de 10 N. ¿Cuál es su constante elástica?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,4 N/m</li>
+    <li data-letra="B">40 N/m</li>
+    <li data-letra="C">50 N/m</li>
+    <li data-letra="D">200 N/m</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>La deformación es 25 − 20 = 5 cm = 0,05 m. k = F / x = 10 / 0,05 = 200 N/m. Usar el largo total (0,25 m) da 40 N/m; olvidar convertir a metros da valores muy distintos.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>15.</strong> En un gráfico de fuerza versus deformación, dos resortes dan rectas que pasan por el origen, y la del resorte P es más empinada que la del resorte Q. ¿Qué se concluye?</p>
+  <ol class="alternativas">
+    <li data-letra="A">P es más rígido: necesita más fuerza para deformarse lo mismo.</li>
+    <li data-letra="B">Q es más rígido, porque se deforma más con la misma fuerza.</li>
+    <li data-letra="C">Ninguno cumple la ley de Hooke, porque sus rectas difieren.</li>
+    <li data-letra="D">P superó su límite elástico, porque su recta es más empinada.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La pendiente del gráfico fuerza–deformación es la constante k. La recta más empinada corresponde al resorte más rígido. Ambos cumplen la ley de Hooke, porque son rectas que pasan por el origen.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>16.</strong> Una caja de 40 kg está en reposo sobre un piso con μe = 0,5 (usa g = 10 m/s²). Si alguien la empuja horizontalmente con 80 N, ¿cuánto vale el roce?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0 N</li>
+    <li data-letra="B">40 N</li>
+    <li data-letra="C">80 N</li>
+    <li data-letra="D">200 N</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>El roce estático máximo es 0,5 · 400 = 200 N. Como 80 N no alcanza a moverla, el roce estático se ajusta y vale exactamente 80 N. 200 N es el máximo, no el valor real.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>17.</strong> ¿Por qué los frenos ABS evitan que las ruedas de un auto se bloqueen al frenar?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque así el roce cinético aumenta y el auto frena antes.</li>
+    <li data-letra="B">Porque así actúa el roce estático, que es mayor.</li>
+    <li data-letra="C">Porque así desaparece el roce y el auto no patina.</li>
+    <li data-letra="D">Porque así aumenta la masa del auto y su inercia.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Mientras la rueda gira sin patinar, actúa el roce estático, cuyo máximo es mayor que el cinético. Si la rueda se bloquea, desliza y pasa a actuar el roce cinético, menor: la frenada es más larga y se pierde el control de la dirección.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>18.</strong> Al caminar, ¿hacia dónde apunta la fuerza de roce que el suelo ejerce sobre el pie?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Hacia atrás, porque el roce siempre se opone al movimiento.</li>
+    <li data-letra="B">Hacia abajo, porque el roce aumenta el peso.</li>
+    <li data-letra="C">Hacia arriba, porque el roce es igual a la normal.</li>
+    <li data-letra="D">Hacia adelante, porque el pie empuja el suelo hacia atrás.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>El pie empuja el suelo hacia atrás y, por la tercera ley, el suelo empuja el pie hacia adelante mediante el roce estático. El roce se opone al deslizamiento entre las superficies, no necesariamente al movimiento del cuerpo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>19.</strong> Un paracaidista cae con el paracaídas cerrado y, al cabo de un tiempo, su rapidez deja de aumentar. ¿Qué ocurre en ese momento?</p>
+  <ol class="alternativas">
+    <li data-letra="A">El roce del aire iguala al peso: la neta es cero.</li>
+    <li data-letra="B">Su peso disminuye porque está más cerca del suelo.</li>
+    <li data-letra="C">La gravedad deja de actuar sobre el paracaidista.</li>
+    <li data-letra="D">El roce con el aire supera a su peso y sigue frenando.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>El roce con el aire crece con la rapidez hasta igualar al peso. Desde ahí la fuerza neta es cero y el paracaidista cae con rapidez constante: la rapidez terminal. Si el roce superara al peso, frenaría.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>20.</strong> Un trineo de 30 kg se arrastra con una cuerda horizontal y avanza con velocidad constante sobre nieve con μc = 0,1 (usa g = 10 m/s²). ¿Cuál es la tensión de la cuerda?</p>
+  <ol class="alternativas">
+    <li data-letra="A">3 N</li>
+    <li data-letra="B">10 N</li>
+    <li data-letra="C">30 N</li>
+    <li data-letra="D">300 N</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>La normal es igual al peso, 300 N, y el roce cinético vale 0,1 · 300 = 30 N. Como la velocidad es constante, la fuerza neta es cero y la tensión iguala al roce: 30 N. 300 N sería el peso.</p></div>
+</div>
+
+<h2 id="fuentes-del-capitulo">Fuentes del capítulo</h2>
+<p><em>Consultadas el 25 de septiembre de 2026. El texto es de redacción propia y los nueve diagramas son originales.</em></p>
+<p><strong>Documentos oficiales</strong></p>
+<ul>
+<li>DEMRE (2026). <em>Temario Regular – Pruebas Electivas – Ciencias. Admisión 2027</em>, pág. 10 (área temática Mecánica). Este capítulo cubre las leyes de Newton en cuerpos con velocidad o aceleración constantes y el diagrama de cuerpo libre; las fuerzas peso, elástica (ley de Hooke), tensión y normal; y el roce estático, cinético y con el aire. <a href="https://demre.cl/publicaciones/2027/2027-26-03-19-temario-paes-regular-ciencias">demre.cl</a></li>
+<li>Ministerio de Educación de Chile, Currículum Nacional. <em>Ciencias Naturales 2.º medio, eje Física, Unidad 2: Fuerza</em>, y objetivo de aprendizaje CN2M OA 10 (efectos de una fuerza neta, leyes de Newton y diagrama de cuerpo libre). <a href="https://www.curriculumnacional.cl/portal/Ejes/Ciencias-Naturales/Fisica/80749:CN2M-OA-10">curriculumnacional.cl</a></li>
+</ul>
+<p><strong>Textos de física de libre acceso</strong></p>
+<ul>
+<li>OpenStax (2022). <em>College Physics 2e</em>, capítulo 4 «Dynamics: Force and Newton's Laws of Motion» (4.1 a 4.7) y capítulo 5, secciones 5.1 «Friction» y 5.2 «Drag Forces». Licencia CC BY 4.0. Tabla de coeficientes de roce estático y cinético. <a href="https://openstax.org/books/college-physics-2e/pages/5-1-friction">openstax.org</a></li>
+<li>Khan Academy en español. <em>¿Qué es la primera ley de Newton?</em>, <em>Fuerzas y diagramas de cuerpo libre</em>, <em>Fricción estática y cinética</em> e <em>Introducción a los resortes y la ley de Hooke</em>. <a href="https://es.khanacademy.org/science/physics/forces-newtons-laws/newtons-laws-of-motion/a/what-is-newtons-first-law">es.khanacademy.org</a></li>
+</ul>
+<p><strong>Historia y datos</strong></p>
+<ul>
+<li>Newton, I. (1687). «Axiomata sive leges motus», en <em>Philosophiæ Naturalis Principia Mathematica</em>. The Newton Project, Universidad de Oxford. <a href="https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00076">newtonproject.ox.ac.uk</a></li>
+<li>Institute of Physics. <em>The puzzle of Hooke's law</em>: el anagrama de 1676 y su solución de 1678, <em>ut tensio, sic vis</em>. <a href="https://spark.iop.org/puzzle-hookes-law">spark.iop.org</a></li>
+<li>Pontificia Universidad Católica de Chile, Instituto de Física. <em>Experimento de Galileo: el plano inclinado</em>. <a href="http://srv2.fis.puc.cl/mediawiki/index.php/Experimento_de_Galileo:_El_plano_inclinado_(Fiz0112)">fis.puc.cl</a></li>
+<li>NASA Space Science Data Coordinated Archive. <em>Moon Fact Sheet</em> y <em>Mars Fact Sheet</em>: gravedad superficial de 1,62 y 3,71 m/s². <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html">nssdc.gsfc.nasa.gov</a></li>
+<li>CONASET. <em>Cinturón de seguridad</em>: su uso reduce hasta en 50 % el riesgo de lesiones fatales en los asientos delanteros. <a href="https://www.conaset.cl/cinturon-de-seguridad/">conaset.cl</a></li>
+</ul>
+<p><strong>Libros de consulta</strong></p>
+<ul>
+<li>Giancoli, D. <em>Physics: Principles with Applications</em>, 7.ª edición, capítulo 4 («Dynamics: Newton's Laws of Motion», secciones 4-7, diagramas de cuerpo libre, y 4-8, roce y planos inclinados).</li>
+<li>Etkina, E. y otros. <em>College Physics</em>, capítulo 2 («Newtonian Mechanics», secciones 2.1 a 2.3, 2.5, 2.6, 2.8 y 2.9).</li>
+<li>Johnson, K., Hewett, S. y otros. <em>Advanced Physics for You</em>, 2.ª edición, capítulo 2 («Looking at Forces») y capítulo 13 («Materials»: ley de Hooke y límite elástico).</li>
+<li>Shipman, J. y otros. <em>An Introduction to Physical Science</em>, capítulo 3 («Force and Motion», secciones 3.1 a 3.4).</li>
+</ul>
+<p>Consulta de referencia; el texto de este capítulo es de redacción propia.</p>
+</article>
+<nav class="navsec"><a href="05-capitulo-5-cinematica-descripcion-del-movimiento.html"><small>← Anterior</small>Capítulo 5: Cinemática: descripción del movimiento</a><span></span></nav>
+</main>
+</div>
+<div id="lightbox"><img alt=""></div>
+<script>
+(function(){
+  var clave='conv-progreso:'+location.pathname.split('/').pop();
+  var datos={};try{datos=JSON.parse(localStorage.getItem(clave)||'{}')}catch(e){}
+  function guardar(){try{localStorage.setItem(clave,JSON.stringify(datos))}catch(e){}}
+  var preguntas=[].slice.call(document.querySelectorAll('.pregunta'));
+  var total=preguntas.length;
+  function actualizar(){
+    var r=0,c=0;for(var k in datos){r++;if(datos[k].ok)c++}
+    var t=document.getElementById('txt-preg');
+    if(t)t.textContent=total?(r+' de '+total+' respondidas · '+c+' correctas'):'Sin preguntas';
+    var b=document.getElementById('barra-preg');if(b)b.style.width=total?(100*r/total)+'%':'0';
+    try{localStorage.setItem(clave+':resumen',JSON.stringify({r:r,c:c,t:total}))}catch(e){}
+  }
+  preguntas.forEach(function(q,i){
+    var id=q.id||('p'+(i+1));q.id=id;
+    var lis=[].slice.call(q.querySelectorAll('.alternativas>li'));
+    var correcta=(q.getAttribute('data-correcta')||'').trim().toUpperCase();
+    var acc=document.createElement('div');acc.className='acciones';
+    var btn=document.createElement('button');btn.className='btn';btn.type='button';btn.textContent='Ver respuesta';
+    var est=document.createElement('span');est.className='estado';
+    acc.appendChild(btn);acc.appendChild(est);
+    var resp=q.querySelector('.respuesta');
+    if(resp)q.insertBefore(acc,resp);else q.appendChild(acc);
+    var marcada=null;
+    lis.forEach(function(li){li.addEventListener('click',function(){
+      if(q.classList.contains('respondida'))return;
+      lis.forEach(function(x){x.classList.remove('marcada')});li.classList.add('marcada');marcada=li.getAttribute('data-letra');
+    })});
+    function mostrar(letra){
+      q.classList.add('respondida','visible');btn.disabled=true;
+      lis.forEach(function(li){var L=li.getAttribute('data-letra');
+        if(correcta&&L===correcta)li.classList.add('correcta');
+        else if(L===letra)li.classList.add('incorrecta');
+        if(L===letra)li.classList.add('marcada');});
+      if(!correcta){est.textContent='Clave no disponible';est.className='estado'}
+      else if(!letra){est.textContent='Sin marcar · correcta: '+correcta;est.className='estado'}
+      else if(letra===correcta){est.textContent='¡Correcta!';est.className='estado ok'}
+      else{est.textContent='Incorrecta · correcta: '+correcta;est.className='estado mal'}
+    }
+    btn.addEventListener('click',function(){
+      datos[id]={l:marcada||'',ok:!!(marcada&&correcta&&marcada===correcta)};guardar();mostrar(marcada);actualizar();
+    });
+    if(datos[id])mostrar(datos[id].l);
+  });
+  document.querySelectorAll('.ejercicio').forEach(function(e){
+    var resp=e.querySelector('.respuesta');if(!resp)return;
+    var b=document.createElement('button');b.className='btn sec';b.type='button';b.textContent='Ver solución';
+    var acc=document.createElement('div');acc.className='acciones';acc.appendChild(b);e.insertBefore(acc,resp);
+    b.addEventListener('click',function(){var v=e.classList.toggle('visible');b.textContent=v?'Ocultar solución':'Ver solución'});
+  });
+  var rst=document.getElementById('reiniciar');
+  if(rst)rst.addEventListener('click',function(){if(!confirm('¿Reiniciar las respuestas de esta sección?'))return;datos={};guardar();location.reload()});
+  actualizar();
+  // Progreso de lectura
+  var bl=document.getElementById('barra-lect'),tl=document.getElementById('txt-lect');
+  function lectura(){var h=document.documentElement;var p=Math.min(100,Math.round(100*h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight)));
+    if(bl)bl.style.width=p+'%';if(tl)tl.textContent=p+'% leído'}
+  addEventListener('scroll',lectura,{passive:true});lectura();
+  // Índice lateral: resaltar la sección visible
+  var enlaces=[].slice.call(document.querySelectorAll('nav.sidebar a'));
+  if('IntersectionObserver' in window&&enlaces.length){
+    var io=new IntersectionObserver(function(ents){ents.forEach(function(en){if(en.isIntersecting){
+      enlaces.forEach(function(a){a.classList.toggle('activo',a.getAttribute('href')==='#'+en.target.id)})}})},{rootMargin:'-100px 0px -70% 0px'});
+    document.querySelectorAll('.paper h2[id],.paper h3[id]').forEach(function(h){io.observe(h)});
+  }
+  var nav=document.querySelector('nav.sidebar'),tb=document.getElementById('toc-btn');
+  if(tb&&nav)tb.addEventListener('click',function(){nav.classList.toggle('abierta')});
+  var lento=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function ir(a,e){
+    var id=decodeURIComponent((a.getAttribute('href')||'').slice(1)),t=document.getElementById(id);
+    if(!t)return;e.preventDefault();
+    if(a.classList.contains('cargando'))return;
+    document.querySelectorAll('.cargando').forEach(function(x){x.classList.remove('cargando')});
+    void a.offsetWidth;a.classList.add('cargando');
+    setTimeout(function(){
+      t.scrollIntoView({behavior:lento?'auto':'smooth',block:'start'});
+      setTimeout(function(){if(Math.abs(t.getBoundingClientRect().top)>window.innerHeight)t.scrollIntoView({block:'start'})},900);
+      try{history.replaceState(null,'','#'+id)}catch(err){}
+      t.classList.remove('destino');void t.offsetWidth;t.classList.add('destino');
+      if(a.closest('nav.sidebar'))enlaces.forEach(function(x){x.classList.toggle('activo',x===a)});
+      a.classList.remove('cargando');
+      if(nav)nav.classList.remove('abierta');
+    },lento?150:620);
+  }
+  enlaces.forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Insignias de preguntas en los títulos y botones «Ver tema» de las preguntas
+  document.querySelectorAll('.paper a.ref-badge, .paper a.volver-tema').forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Recordar la última sección abierta (para «Continuar» en el índice)
+  try{localStorage.setItem('conv-ultimo',JSON.stringify({archivo:location.pathname.split('/').pop(),titulo:document.title.split(' — ')[0]}))}catch(e){}
+  // Zoom de imágenes
+  var lb=document.getElementById('lightbox');
+  document.querySelectorAll('.paper img').forEach(function(img){img.addEventListener('click',function(){
+    lb.querySelector('img').src=img.src;lb.style.display='flex'})});
+  lb.addEventListener('click',function(){lb.style.display='none'});
+  // Tema claro/oscuro
+  var tema=document.getElementById('tema');
+  try{var t=localStorage.getItem('conv-tema');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}
+  tema.addEventListener('click',function(){
+    var oscuro=document.documentElement.getAttribute('data-theme')==='dark'||(!document.documentElement.getAttribute('data-theme')&&matchMedia('(prefers-color-scheme: dark)').matches);
+    var n=oscuro?'light':'dark';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('conv-tema',n)}catch(e){}
+  });
+})();
+</script>
+</body>
+</html>
