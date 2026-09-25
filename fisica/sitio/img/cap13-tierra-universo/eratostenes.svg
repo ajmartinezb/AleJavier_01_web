@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 575" width="900" height="575" role="img" aria-label="La Tierra como un círculo iluminado por rayos solares paralelos. En Siena el Sol está en el cénit y no hay sombra; en Alejandría una varilla vertical proyecta una sombra que forma un ángulo de 7,2 grados, igual al ángulo en el centro de la Tierra entre ambas ciudades, separadas unos 800 km" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>La Tierra como un círculo iluminado por rayos solares paralelos. En Siena el Sol está en el cénit y no hay sombra; en Alejandría una varilla vertical proyecta una sombra que forma un ángulo de 7,2 grados, igual al ángulo en el centro de la Tierra entre ambas ciudades, separadas unos 800 km</title>
+<rect width="900" height="575" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Cómo midió Eratóstenes la Tierra</text>
+<circle cx="520.0" cy="300.0" r="190.0" fill="#e7f5ff" stroke="#1c7ed6" stroke-width="2" />
+<line x1="40.0" y1="150.0" x2="403.4" y2="150.0" stroke="#f59f00" stroke-width="2" /><line x1="40.0" y1="150.0" x2="221.7" y2="150.0" stroke="#f59f00" stroke-width="2" marker-end="url(#mn)" />
+<line x1="40.0" y1="216.1" x2="349.5" y2="216.1" stroke="#f59f00" stroke-width="2" /><line x1="40.0" y1="216.1" x2="194.8" y2="216.1" stroke="#f59f00" stroke-width="2" marker-end="url(#mn)" />
+<line x1="40.0" y1="260.0" x2="334.3" y2="260.0" stroke="#f59f00" stroke-width="2" /><line x1="40.0" y1="260.0" x2="187.1" y2="260.0" stroke="#f59f00" stroke-width="2" marker-end="url(#mn)" />
+<line x1="40.0" y1="300.0" x2="330.0" y2="300.0" stroke="#f59f00" stroke-width="2" /><line x1="40.0" y1="300.0" x2="185.0" y2="300.0" stroke="#f59f00" stroke-width="2" marker-end="url(#mn)" />
+<text x="40.0" y="130.0" font-size="12" text-anchor="start" fill="#e67700" font-weight="700">rayos del Sol (paralelos)</text>
+<line x1="330.0" y1="300.0" x2="520.0" y2="300.0" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="343.8" y1="228.8" x2="520.0" y2="300.0" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="304.0" y1="300.0" x2="330.0" y2="300.0" stroke="#1a202c" stroke-width="4" />
+<text x="300.0" y="326.0" font-size="13" text-anchor="end" fill="#1a202c" font-weight="700">Siena</text>
+<text x="300.0" y="344.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">el Sol está en el cénit:</text>
+<text x="300.0" y="358.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">no hay sombra</text>
+<line x1="343.8" y1="228.8" x2="312.3" y2="216.1" stroke="#1a202c" stroke-width="4" />
+<path d="M343.8,228.8 A190,190 0 0 1 349.5,216.1" fill="none" stroke="#495057" stroke-width="5"/>
+<text x="302.3" y="204.1" font-size="13" text-anchor="end" fill="#1a202c" font-weight="700">Alejandría</text>
+<text x="302.3" y="220.1" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">la varilla da sombra</text>
+<text x="326.3" y="208.1" font-size="13" text-anchor="start" fill="#c92a2a" font-weight="700">7,2°</text>
+<text x="357.5" y="234.1" font-size="11" text-anchor="start" fill="#4a5568" font-weight="normal">sombra</text>
+<path d="M465.0,300.0 A55,55 0 0 1 469.0,279.4" fill="none" stroke="#c92a2a" stroke-width="2"/>
+<text x="459.0" y="284.0" font-size="13" text-anchor="end" fill="#c92a2a" font-weight="700">7,2°</text>
+<circle cx="520.0" cy="300.0" r="4.0" fill="#1a202c" stroke="none" stroke-width="1.5" />
+<text x="528.0" y="318.0" font-size="11" text-anchor="start" fill="#4a5568" font-weight="normal">centro de la Tierra</text>
+<text x="346.0" y="268.4" font-size="12" text-anchor="start" fill="#1a202c" font-weight="700">≈ 800 km</text>
+<text x="450.0" y="540.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="normal">7,2° es 1/50 de la circunferencia (360°), así que la circunferencia de la Tierra ≈ 50 × 800 km ≈ 40 000 km.</text>
+<text x="450.0" y="560.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">Ángulos exagerados para que se vean.</text>
+</svg>

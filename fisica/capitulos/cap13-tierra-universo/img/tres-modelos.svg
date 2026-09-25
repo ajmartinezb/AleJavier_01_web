@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 535" width="900" height="535" role="img" aria-label="Tres esquemas. Ptolomeo: la Tierra inmóvil al centro y alrededor la Luna, Mercurio, Venus, el Sol, Marte, Júpiter y Saturno. Copérnico: el Sol al centro y alrededor Mercurio, Venus, la Tierra con la Luna, Marte, Júpiter y Saturno. Tycho Brahe: la Tierra al centro, con la Luna y el Sol girando en torno a ella, y los demás planetas girando en torno al Sol" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Tres esquemas. Ptolomeo: la Tierra inmóvil al centro y alrededor la Luna, Mercurio, Venus, el Sol, Marte, Júpiter y Saturno. Copérnico: el Sol al centro y alrededor Mercurio, Venus, la Tierra con la Luna, Marte, Júpiter y Saturno. Tycho Brahe: la Tierra al centro, con la Luna y el Sol girando en torno a ella, y los demás planetas girando en torno al Sol</title>
+<rect width="900" height="535" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Tres modelos del sistema solar</text>
+<text x="150.0" y="70.0" font-size="14" text-anchor="middle" fill="#1a202c" font-weight="700">Ptolomeo (~150 d. C.)</text>
+<text x="150.0" y="90.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">geocéntrico</text>
+<text x="450.0" y="70.0" font-size="14" text-anchor="middle" fill="#1a202c" font-weight="700">Copérnico (1543)</text>
+<text x="450.0" y="90.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">heliocéntrico</text>
+<text x="750.0" y="70.0" font-size="14" text-anchor="middle" fill="#1a202c" font-weight="700">Tycho Brahe (1588)</text>
+<text x="750.0" y="90.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">geoheliocéntrico</text>
+<circle cx="150.0" cy="260.0" r="26.0" fill="none" stroke="#4a5568" stroke-width="1.2" />
+<circle cx="176.0" cy="260.0" r="4.0" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<circle cx="150.0" cy="260.0" r="44.0" fill="none" stroke="#4a5568" stroke-width="1.2" />
+<circle cx="194.0" cy="260.0" r="4.0" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<circle cx="150.0" cy="260.0" r="62.0" fill="none" stroke="#e67700" stroke-width="1.2" />
+<circle cx="212.0" cy="260.0" r="4.0" fill="#e67700" stroke="none" stroke-width="1.5" />
+<circle cx="150.0" cy="260.0" r="80.0" fill="none" stroke="#f59f00" stroke-width="1.2" />
+<circle cx="230.0" cy="260.0" r="7.0" fill="#f59f00" stroke="none" stroke-width="1.5" />
+<circle cx="150.0" cy="260.0" r="100.0" fill="none" stroke="#c92a2a" stroke-width="1.2" />
+<circle cx="250.0" cy="260.0" r="4.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="150.0" cy="260.0" r="118.0" fill="none" stroke="#4a5568" stroke-width="1.2" />
+<circle cx="268.0" cy="260.0" r="4.0" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<circle cx="150.0" cy="260.0" r="136.0" fill="none" stroke="#4a5568" stroke-width="1.2" />
+<circle cx="286.0" cy="260.0" r="4.0" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<circle cx="150.0" cy="260.0" r="8.0" fill="#2f9e44" stroke="none" stroke-width="1.5" />
+<text x="150.0" y="420.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">Tierra inmóvil en el centro</text>
+<text x="150.0" y="438.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">(epiciclos no dibujados)</text>
+<circle cx="450.0" cy="260.0" r="24.0" fill="none" stroke="#4a5568" stroke-width="1.2" />
+<circle cx="466.8" cy="242.9" r="4.0" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<circle cx="450.0" cy="260.0" r="44.0" fill="none" stroke="#e67700" stroke-width="1.2" />
+<circle cx="480.8" cy="228.6" r="4.0" fill="#e67700" stroke="none" stroke-width="1.5" />
+<circle cx="450.0" cy="260.0" r="66.0" fill="none" stroke="#2f9e44" stroke-width="1.2" />
+<circle cx="496.2" cy="212.9" r="6.0" fill="#2f9e44" stroke="none" stroke-width="1.5" />
+<circle cx="450.0" cy="260.0" r="90.0" fill="none" stroke="#c92a2a" stroke-width="1.2" />
+<circle cx="513.0" cy="195.7" r="4.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="450.0" cy="260.0" r="114.0" fill="none" stroke="#4a5568" stroke-width="1.2" />
+<circle cx="529.8" cy="178.6" r="4.0" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<circle cx="450.0" cy="260.0" r="136.0" fill="none" stroke="#4a5568" stroke-width="1.2" />
+<circle cx="545.2" cy="162.9" r="4.0" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<circle cx="508.2" cy="212.9" r="6.0" fill="none" stroke="#4a5568" stroke-width="1" />
+<circle cx="508.2" cy="218.9" r="2.5" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<circle cx="450.0" cy="260.0" r="10.0" fill="#f59f00" stroke="#e67700" stroke-width="1.5" />
+<text x="450.0" y="420.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">Sol en el centro; la Tierra es</text>
+<text x="450.0" y="438.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">un planeta y la Luna gira en torno a ella</text>
+<circle cx="750.0" cy="260.0" r="8.0" fill="#2f9e44" stroke="none" stroke-width="1.5" />
+<circle cx="750.0" cy="260.0" r="30.0" fill="none" stroke="#4a5568" stroke-width="1.2" />
+<circle cx="720.0" cy="260.0" r="4.0" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<circle cx="750.0" cy="260.0" r="95.0" fill="none" stroke="#f59f00" stroke-width="1.5" />
+<circle cx="832.3" cy="212.5" r="18.0" fill="none" stroke="#4a5568" stroke-width="1.2" stroke-dasharray="3 4"/>
+<circle cx="814.3" cy="212.5" r="4.0" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<circle cx="832.3" cy="212.5" r="34.0" fill="none" stroke="#e67700" stroke-width="1.2" stroke-dasharray="3 4"/>
+<circle cx="798.3" cy="212.5" r="4.0" fill="#e67700" stroke="none" stroke-width="1.5" />
+<circle cx="832.3" cy="212.5" r="62.0" fill="none" stroke="#c92a2a" stroke-width="1.2" stroke-dasharray="3 4"/>
+<circle cx="770.3" cy="212.5" r="4.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="832.3" cy="212.5" r="9.0" fill="#f59f00" stroke="#e67700" stroke-width="1.5" />
+<text x="750.0" y="420.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">Luna y Sol giran en torno a la Tierra;</text>
+<text x="750.0" y="438.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">los demás planetas, en torno al Sol</text>
+<circle cx="250.0" cy="490.0" r="6.0" fill="#2f9e44" stroke="none" stroke-width="1.5" />
+<text x="262.0" y="494.0" font-size="12" text-anchor="start" fill="#1a202c" font-weight="normal">Tierra</text>
+<circle cx="350.0" cy="490.0" r="6.0" fill="#f59f00" stroke="none" stroke-width="1.5" />
+<text x="362.0" y="494.0" font-size="12" text-anchor="start" fill="#1a202c" font-weight="normal">Sol</text>
+<circle cx="450.0" cy="490.0" r="6.0" fill="#e67700" stroke="none" stroke-width="1.5" />
+<text x="462.0" y="494.0" font-size="12" text-anchor="start" fill="#1a202c" font-weight="normal">Venus</text>
+<circle cx="550.0" cy="490.0" r="6.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<text x="562.0" y="494.0" font-size="12" text-anchor="start" fill="#1a202c" font-weight="normal">Marte</text>
+<circle cx="650.0" cy="490.0" r="6.0" fill="#4a5568" stroke="none" stroke-width="1.5" />
+<text x="662.0" y="494.0" font-size="12" text-anchor="start" fill="#1a202c" font-weight="normal">otros</text>
+<text x="450.0" y="520.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">Esquemas sin escala.</text>
+</svg>

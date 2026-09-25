@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 555" width="900" height="555" role="img" aria-label="A la izquierda, vista desde arriba del Sol y de las órbitas de la Tierra y de Marte, con siete posiciones numeradas de cada planeta y la línea de visión de la Tierra hacia Marte en cada una. A la derecha, las posiciones aparentes de Marte sobre el fondo de estrellas: avanza de 1 a 3, retrocede de 3 a 5 y vuelve a avanzar de 5 a 7, formando un lazo" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>A la izquierda, vista desde arriba del Sol y de las órbitas de la Tierra y de Marte, con siete posiciones numeradas de cada planeta y la línea de visión de la Tierra hacia Marte en cada una. A la derecha, las posiciones aparentes de Marte sobre el fondo de estrellas: avanza de 1 a 3, retrocede de 3 a 5 y vuelve a avanzar de 5 a 7, formando un lazo</title>
+<rect width="900" height="555" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">El movimiento retrógrado de Marte visto desde la Tierra</text>
+<text x="240.0" y="62.0" font-size="14" text-anchor="middle" fill="#1a202c" font-weight="700">Vista desde arriba del sistema solar</text>
+<circle cx="240.0" cy="330.0" r="88.0" fill="none" stroke="#1c7ed6" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle cx="240.0" cy="330.0" r="134.0" fill="none" stroke="#c92a2a" stroke-width="1.5" stroke-dasharray="3 4"/>
+<circle cx="240.0" cy="330.0" r="16.0" fill="#f59f00" stroke="#e67700" stroke-width="1.5" />
+<text x="240.0" y="364.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">Sol</text>
+<line x1="323.7" y1="357.2" x2="376.3" y2="178.8" stroke="#adb5bd" stroke-width="1" stroke-dasharray="3 4"/>
+<circle cx="323.7" cy="357.2" r="6.0" fill="#1c7ed6" stroke="none" stroke-width="1.5" />
+<circle cx="352.9" cy="257.9" r="5.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<text x="304.7" y="355.0" font-size="11" text-anchor="middle" fill="#1c7ed6" font-weight="700">1</text>
+<text x="366.4" y="253.3" font-size="11" text-anchor="middle" fill="#c92a2a" font-weight="700">1</text>
+<line x1="323.7" y1="302.8" x2="322.4" y2="142.3" stroke="#adb5bd" stroke-width="1" stroke-dasharray="3 4"/>
+<circle cx="323.7" cy="302.8" r="6.0" fill="#1c7ed6" stroke="none" stroke-width="1.5" />
+<circle cx="323.0" cy="224.8" r="5.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<text x="304.7" y="313.0" font-size="11" text-anchor="middle" fill="#1c7ed6" font-weight="700">2</text>
+<text x="333.0" y="216.3" font-size="11" text-anchor="middle" fill="#c92a2a" font-weight="700">2</text>
+<line x1="291.7" y1="258.8" x2="272.5" y2="121.7" stroke="#adb5bd" stroke-width="1" stroke-dasharray="3 4"/>
+<circle cx="291.7" cy="258.8" r="6.0" fill="#1c7ed6" stroke="none" stroke-width="1.5" />
+<circle cx="284.0" cy="203.4" r="5.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<text x="280.0" y="279.0" font-size="11" text-anchor="middle" fill="#1c7ed6" font-weight="700">3</text>
+<text x="289.2" y="192.3" font-size="11" text-anchor="middle" fill="#c92a2a" font-weight="700">3</text>
+<line x1="240.0" y1="242.0" x2="240.0" y2="113.5" stroke="#adb5bd" stroke-width="1" stroke-dasharray="3 4"/>
+<circle cx="240.0" cy="242.0" r="6.0" fill="#1c7ed6" stroke="none" stroke-width="1.5" />
+<circle cx="240.0" cy="196.0" r="5.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<text x="240.0" y="266.0" font-size="11" text-anchor="middle" fill="#1c7ed6" font-weight="700">4</text>
+<text x="240.0" y="184.0" font-size="11" text-anchor="middle" fill="#c92a2a" font-weight="700">4</text>
+<line x1="188.3" y1="258.8" x2="207.5" y2="121.7" stroke="#adb5bd" stroke-width="1" stroke-dasharray="3 4"/>
+<circle cx="188.3" cy="258.8" r="6.0" fill="#1c7ed6" stroke="none" stroke-width="1.5" />
+<circle cx="196.0" cy="203.4" r="5.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<text x="200.0" y="279.0" font-size="11" text-anchor="middle" fill="#1c7ed6" font-weight="700">5</text>
+<text x="190.8" y="192.3" font-size="11" text-anchor="middle" fill="#c92a2a" font-weight="700">5</text>
+<line x1="156.3" y1="302.8" x2="157.6" y2="142.3" stroke="#adb5bd" stroke-width="1" stroke-dasharray="3 4"/>
+<circle cx="156.3" cy="302.8" r="6.0" fill="#1c7ed6" stroke="none" stroke-width="1.5" />
+<circle cx="157.0" cy="224.8" r="5.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<text x="175.3" y="313.0" font-size="11" text-anchor="middle" fill="#1c7ed6" font-weight="700">6</text>
+<text x="147.0" y="216.3" font-size="11" text-anchor="middle" fill="#c92a2a" font-weight="700">6</text>
+<line x1="156.3" y1="357.2" x2="103.7" y2="178.8" stroke="#adb5bd" stroke-width="1" stroke-dasharray="3 4"/>
+<circle cx="156.3" cy="357.2" r="6.0" fill="#1c7ed6" stroke="none" stroke-width="1.5" />
+<circle cx="127.1" cy="257.9" r="5.0" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<text x="175.3" y="355.0" font-size="11" text-anchor="middle" fill="#1c7ed6" font-weight="700">7</text>
+<text x="113.6" y="253.3" font-size="11" text-anchor="middle" fill="#c92a2a" font-weight="700">7</text>
+<text x="240.0" y="486.0" font-size="12" text-anchor="middle" fill="#c92a2a" font-weight="normal">órbita de Marte</text>
+<text x="240.0" y="442.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="normal">órbita de la Tierra</text>
+<text x="240.0" y="540.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">Líneas punteadas: dirección en que se ve Marte desde la Tierra.</text>
+<text x="690.0" y="62.0" font-size="14" text-anchor="middle" fill="#1a202c" font-weight="700">Cómo se ve en el cielo, noche a noche</text>
+<rect x="500" y="80" width="380" height="170" fill="#212529" rx="10"/>
+<circle cx="520.0" cy="95.0" r="1.6" fill="#dee2e6" stroke="none" stroke-width="1.5" />
+<circle cx="560.0" cy="210.0" r="1.6" fill="#dee2e6" stroke="none" stroke-width="1.5" />
+<circle cx="610.0" cy="90.0" r="1.6" fill="#dee2e6" stroke="none" stroke-width="1.5" />
+<circle cx="650.0" cy="200.0" r="1.6" fill="#dee2e6" stroke="none" stroke-width="1.5" />
+<circle cx="760.0" cy="100.0" r="1.6" fill="#dee2e6" stroke="none" stroke-width="1.5" />
+<circle cx="830.0" cy="215.0" r="1.6" fill="#dee2e6" stroke="none" stroke-width="1.5" />
+<circle cx="860.0" cy="120.0" r="1.6" fill="#dee2e6" stroke="none" stroke-width="1.5" />
+<circle cx="720.0" cy="225.0" r="1.6" fill="#dee2e6" stroke="none" stroke-width="1.5" />
+<circle cx="530.0" cy="170.0" r="1.6" fill="#dee2e6" stroke="none" stroke-width="1.5" />
+<circle cx="800.0" cy="160.0" r="1.6" fill="#dee2e6" stroke="none" stroke-width="1.5" />
+<polyline points="837.7,134.0 685.7,136.0 618.1,150.0 690.0,176.0 761.9,158.0 694.3,148.0 542.3,132.0" fill="none" stroke="#ff8787" stroke-width="2" marker-end="url(#mr)"/>
+<circle cx="837.7" cy="134.0" r="5.0" fill="#ff6b6b" stroke="none" stroke-width="1.5" />
+<text x="837.7" y="124.0" font-size="12" text-anchor="middle" fill="#ffc9c9" font-weight="700">1</text>
+<circle cx="685.7" cy="136.0" r="5.0" fill="#ff6b6b" stroke="none" stroke-width="1.5" />
+<text x="685.7" y="126.0" font-size="12" text-anchor="middle" fill="#ffc9c9" font-weight="700">2</text>
+<circle cx="618.1" cy="150.0" r="5.0" fill="#ff6b6b" stroke="none" stroke-width="1.5" />
+<text x="618.1" y="170.0" font-size="12" text-anchor="middle" fill="#ffc9c9" font-weight="700">3</text>
+<circle cx="690.0" cy="176.0" r="5.0" fill="#ff6b6b" stroke="none" stroke-width="1.5" />
+<text x="690.0" y="196.0" font-size="12" text-anchor="middle" fill="#ffc9c9" font-weight="700">4</text>
+<circle cx="761.9" cy="158.0" r="5.0" fill="#ff6b6b" stroke="none" stroke-width="1.5" />
+<text x="761.9" y="178.0" font-size="12" text-anchor="middle" fill="#ffc9c9" font-weight="700">5</text>
+<circle cx="694.3" cy="148.0" r="5.0" fill="#ff6b6b" stroke="none" stroke-width="1.5" />
+<text x="694.3" y="168.0" font-size="12" text-anchor="middle" fill="#ffc9c9" font-weight="700">6</text>
+<circle cx="542.3" cy="132.0" r="5.0" fill="#ff6b6b" stroke="none" stroke-width="1.5" />
+<text x="542.3" y="122.0" font-size="12" text-anchor="middle" fill="#ffc9c9" font-weight="700">7</text>
+<text x="510.0" y="240.0" font-size="11" text-anchor="start" fill="#adb5bd" font-weight="normal" font-style="italic">estrellas lejanas (fondo)</text>
+<text x="500.0" y="350.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">1 → 3: Marte avanza entre las estrellas.</text>
+<text x="500.0" y="370.0" font-size="13" text-anchor="start" fill="#c92a2a" font-weight="700">3 → 5: parece retroceder (movimiento retrógrado).</text>
+<text x="500.0" y="390.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">5 → 7: vuelve a avanzar.</text>
+<text x="500.0" y="410.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal"></text>
+<text x="500.0" y="430.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">La Tierra, en su órbita interior, es más rápida</text>
+<text x="500.0" y="450.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">y «adelanta» a Marte cerca de la posición 4</text>
+<text x="500.0" y="470.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">(oposición). Por eso, durante unas semanas,</text>
+<text x="500.0" y="490.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="normal">Marte parece moverse hacia atrás. Marte</text>
+<text x="500.0" y="510.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="700">nunca retrocede de verdad.</text>
+<text x="500.0" y="540.0" font-size="11" text-anchor="start" fill="#4a5568" font-weight="normal" font-style="italic">Posiciones cada 36 días. Esquema sin escala.</text>
+</svg>

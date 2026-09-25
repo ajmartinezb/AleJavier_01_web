@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520" role="img" aria-label="Gráfico de la rapidez de alejamiento de galaxias, en kilómetros por segundo, en función de su distancia, en megapársecs. Los puntos siguen una recta que pasa por el origen, cuya pendiente es la constante de Hubble, de unos 70 kilómetros por segundo por megapársec" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Gráfico de la rapidez de alejamiento de galaxias, en kilómetros por segundo, en función de su distancia, en megapársecs. Los puntos siguen una recta que pasa por el origen, cuya pendiente es la constante de Hubble, de unos 70 kilómetros por segundo por megapársec</title>
+<rect width="900" height="520" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Ley de Hubble-Lemaître: las galaxias más lejanas se alejan más rápido</text>
+<line x1="130.0" y1="470.0" x2="810.0" y2="470.0" stroke="#4a5568" stroke-width="1.5" marker-end="url(#mg)"/>
+<line x1="130.0" y1="470.0" x2="130.0" y2="90.0" stroke="#4a5568" stroke-width="1.5" marker-end="url(#mg)"/>
+<text x="810.0" y="506.0" font-size="12" text-anchor="end" fill="#4a5568" font-weight="normal">distancia d (Mpc)</text>
+<text x="136.0" y="84.0" font-size="12" text-anchor="start" fill="#4a5568" font-weight="normal">rapidez de alejamiento v (km/s)</text>
+<line x1="130.0" y1="466.0" x2="130.0" y2="474.0" stroke="#4a5568" stroke-width="1" />
+<text x="130.0" y="488.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">0</text>
+<line x1="290.0" y1="466.0" x2="290.0" y2="474.0" stroke="#4a5568" stroke-width="1" />
+<text x="290.0" y="488.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">100</text>
+<line x1="450.0" y1="466.0" x2="450.0" y2="474.0" stroke="#4a5568" stroke-width="1" />
+<text x="450.0" y="488.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">200</text>
+<line x1="610.0" y1="466.0" x2="610.0" y2="474.0" stroke="#4a5568" stroke-width="1" />
+<text x="610.0" y="488.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">300</text>
+<line x1="770.0" y1="466.0" x2="770.0" y2="474.0" stroke="#4a5568" stroke-width="1" />
+<text x="770.0" y="488.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">400</text>
+<line x1="126.0" y1="397.5" x2="134.0" y2="397.5" stroke="#4a5568" stroke-width="1" />
+<line x1="134.0" y1="397.5" x2="800.0" y2="397.5" stroke="#edf2f7" stroke-width="1" />
+<text x="122.0" y="401.5" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">5 000</text>
+<line x1="126.0" y1="325.0" x2="134.0" y2="325.0" stroke="#4a5568" stroke-width="1" />
+<line x1="134.0" y1="325.0" x2="800.0" y2="325.0" stroke="#edf2f7" stroke-width="1" />
+<text x="122.0" y="329.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">10 000</text>
+<line x1="126.0" y1="252.5" x2="134.0" y2="252.5" stroke="#4a5568" stroke-width="1" />
+<line x1="134.0" y1="252.5" x2="800.0" y2="252.5" stroke="#edf2f7" stroke-width="1" />
+<text x="122.0" y="256.5" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">15 000</text>
+<line x1="126.0" y1="180.0" x2="134.0" y2="180.0" stroke="#4a5568" stroke-width="1" />
+<line x1="134.0" y1="180.0" x2="800.0" y2="180.0" stroke="#edf2f7" stroke-width="1" />
+<text x="122.0" y="184.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">20 000</text>
+<line x1="126.0" y1="107.5" x2="134.0" y2="107.5" stroke="#4a5568" stroke-width="1" />
+<line x1="134.0" y1="107.5" x2="800.0" y2="107.5" stroke="#edf2f7" stroke-width="1" />
+<text x="122.0" y="111.5" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">25 000</text>
+<circle cx="157.5" cy="453.8" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="193.1" cy="433.4" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="217.3" cy="416.1" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="232.3" cy="405.0" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="259.0" cy="389.3" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="287.0" cy="378.6" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="323.3" cy="339.4" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="342.8" cy="342.5" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="382.9" cy="295.2" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="408.8" cy="296.8" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="446.2" cy="287.6" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="470.4" cy="263.2" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="479.3" cy="265.4" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="510.7" cy="213.2" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="534.6" cy="209.1" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="573.6" cy="195.8" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="598.4" cy="198.8" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="613.1" cy="181.5" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="656.2" cy="141.0" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="674.0" cy="119.0" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="704.8" cy="120.0" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<circle cx="740.7" cy="67.1" r="4.5" fill="#c92a2a" stroke="none" stroke-width="1.5" />
+<line x1="130.0" y1="470.0" x2="754.0" y2="74.1" stroke="#1c7ed6" stroke-width="2.2" />
+<text x="762.0" y="100.1" font-size="14" text-anchor="start" fill="#1c7ed6" font-weight="700">v = H₀ · d</text>
+<text x="170.0" y="110.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="700">Pendiente: H₀ ≈ 70 km/s por megapársec</text>
+<text x="170.0" y="130.0" font-size="12" text-anchor="start" fill="#4a5568" font-weight="normal">1 Mpc ≈ 3,26 millones de años luz</text>
+<text x="170.0" y="150.0" font-size="11" text-anchor="start" fill="#4a5568" font-weight="normal" font-style="italic">Datos ilustrativos, con la dispersión típica de las mediciones.</text>
+</svg>

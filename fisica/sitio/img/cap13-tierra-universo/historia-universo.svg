@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 365" width="900" height="365" role="img" aria-label="Línea de tiempo del universo: Big Bang; inflación a unos 10 elevado a menos 32 segundos; protones y neutrones al primer segundo; núcleos de hidrógeno y helio a los 3 minutos; átomos neutros y liberación de la radiación de fondo a los 380 000 años; primeras estrellas a unos 200 millones de años; formación del Sistema Solar a los 9 200 millones de años; hoy, a los 13 800 millones de años, con expansión acelerada" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Línea de tiempo del universo: Big Bang; inflación a unos 10 elevado a menos 32 segundos; protones y neutrones al primer segundo; núcleos de hidrógeno y helio a los 3 minutos; átomos neutros y liberación de la radiación de fondo a los 380 000 años; primeras estrellas a unos 200 millones de años; formación del Sistema Solar a los 9 200 millones de años; hoy, a los 13 800 millones de años, con expansión acelerada</title>
+<rect width="900" height="365" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Una historia del universo en 13 800 millones de años</text>
+<defs><linearGradient id="lt"><stop offset="0" stop-color="#fff3bf"/><stop offset="0.35" stop-color="#ffa94d"/><stop offset="0.55" stop-color="#5c7cfa"/><stop offset="1" stop-color="#1a1b4b"/></linearGradient></defs>
+<rect x="50" y="190" width="800" height="20" rx="10" fill="url(#lt)"/>
+<circle cx="60.0" cy="200.0" r="7.0" fill="#fff" stroke="#1a202c" stroke-width="2" />
+<line x1="60.0" y1="192.0" x2="60.0" y2="178.0" stroke="#4a5568" stroke-width="1" />
+<text x="60.0" y="108.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">0</text>
+<text x="60.0" y="124.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Big Bang</text>
+<text x="60.0" y="140.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">inicio de la</text>
+<text x="60.0" y="156.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">expansión</text>
+<circle cx="170.0" cy="200.0" r="7.0" fill="#fff" stroke="#1a202c" stroke-width="2" />
+<line x1="170.0" y1="208.0" x2="170.0" y2="222.0" stroke="#4a5568" stroke-width="1" />
+<text x="170.0" y="238.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">≈ 10⁻³² s</text>
+<text x="170.0" y="256.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Inflación</text>
+<text x="170.0" y="272.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">expansión muy</text>
+<text x="170.0" y="287.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">rápida</text>
+<circle cx="280.0" cy="200.0" r="7.0" fill="#fff" stroke="#1a202c" stroke-width="2" />
+<line x1="280.0" y1="192.0" x2="280.0" y2="178.0" stroke="#4a5568" stroke-width="1" />
+<text x="280.0" y="124.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">≈ 1 s</text>
+<text x="280.0" y="140.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Protones y</text>
+<text x="280.0" y="156.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">neutrones</text>
+<circle cx="390.0" cy="200.0" r="7.0" fill="#fff" stroke="#1a202c" stroke-width="2" />
+<line x1="390.0" y1="208.0" x2="390.0" y2="222.0" stroke="#4a5568" stroke-width="1" />
+<text x="390.0" y="238.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">≈ 3 min</text>
+<text x="390.0" y="256.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Núcleos de</text>
+<text x="390.0" y="272.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">H y He (≈ 75 %</text>
+<text x="390.0" y="287.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">y 25 % en masa)</text>
+<circle cx="500.0" cy="200.0" r="7.0" fill="#fff" stroke="#1a202c" stroke-width="2" />
+<line x1="500.0" y1="192.0" x2="500.0" y2="178.0" stroke="#4a5568" stroke-width="1" />
+<text x="500.0" y="108.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">380 000 años</text>
+<text x="500.0" y="124.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Átomos neutros</text>
+<text x="500.0" y="140.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">se libera la radiación</text>
+<text x="500.0" y="156.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">de fondo</text>
+<circle cx="610.0" cy="200.0" r="7.0" fill="#fff" stroke="#1a202c" stroke-width="2" />
+<line x1="610.0" y1="208.0" x2="610.0" y2="222.0" stroke="#4a5568" stroke-width="1" />
+<text x="610.0" y="238.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">≈ 200 millones</text>
+<text x="610.0" y="256.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Primeras</text>
+<text x="610.0" y="272.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">estrellas y</text>
+<text x="610.0" y="287.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">galaxias</text>
+<circle cx="720.0" cy="200.0" r="7.0" fill="#fff" stroke="#1a202c" stroke-width="2" />
+<line x1="720.0" y1="192.0" x2="720.0" y2="178.0" stroke="#4a5568" stroke-width="1" />
+<text x="720.0" y="108.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">9 200 millones</text>
+<text x="720.0" y="124.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Se forma el</text>
+<text x="720.0" y="140.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">Sistema Solar</text>
+<text x="720.0" y="156.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">(hace 4 600 millones)</text>
+<circle cx="840.0" cy="200.0" r="7.0" fill="#fff" stroke="#1a202c" stroke-width="2" />
+<line x1="840.0" y1="208.0" x2="840.0" y2="222.0" stroke="#4a5568" stroke-width="1" />
+<text x="840.0" y="238.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">13 800 millones</text>
+<text x="840.0" y="256.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Hoy</text>
+<text x="840.0" y="272.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">expansión</text>
+<text x="840.0" y="287.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">acelerada</text>
+<text x="450.0" y="350.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal" font-style="italic">Tiempo desde el Big Bang. Escala no proporcional: los primeros minutos ocupan tanto espacio como miles de millones de años.</text>
+</svg>

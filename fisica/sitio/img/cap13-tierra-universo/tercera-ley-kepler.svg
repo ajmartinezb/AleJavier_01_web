@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520" role="img" aria-label="Gráfico del período orbital al cuadrado, en años al cuadrado, en función del semieje mayor al cubo, en unidades astronómicas al cubo. Mercurio, Venus, la Tierra, Marte y Ceres caen sobre una misma recta que pasa por el origen, de pendiente 1" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Gráfico del período orbital al cuadrado, en años al cuadrado, en función del semieje mayor al cubo, en unidades astronómicas al cubo. Mercurio, Venus, la Tierra, Marte y Ceres caen sobre una misma recta que pasa por el origen, de pendiente 1</title>
+<rect width="900" height="520" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Tercera ley de Kepler: T² es proporcional a a³</text>
+<text x="450.0" y="52.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">a: semieje mayor de la órbita, en unidades astronómicas (UA) · T: período orbital, en años</text>
+<line x1="140.0" y1="470.0" x2="830.0" y2="470.0" stroke="#4a5568" stroke-width="1.5" marker-end="url(#mg)"/>
+<line x1="140.0" y1="470.0" x2="140.0" y2="80.0" stroke="#4a5568" stroke-width="1.5" marker-end="url(#mg)"/>
+<text x="830.0" y="506.0" font-size="12" text-anchor="end" fill="#4a5568" font-weight="normal">a³ (UA³)</text>
+<text x="146.0" y="74.0" font-size="12" text-anchor="start" fill="#4a5568" font-weight="normal">T² (años²)</text>
+<line x1="140.0" y1="466.0" x2="140.0" y2="474.0" stroke="#4a5568" stroke-width="1" />
+<text x="140.0" y="488.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">0</text>
+<line x1="290.0" y1="466.0" x2="290.0" y2="474.0" stroke="#4a5568" stroke-width="1" />
+<text x="290.0" y="488.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">5</text>
+<line x1="440.0" y1="466.0" x2="440.0" y2="474.0" stroke="#4a5568" stroke-width="1" />
+<text x="440.0" y="488.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">10</text>
+<line x1="590.0" y1="466.0" x2="590.0" y2="474.0" stroke="#4a5568" stroke-width="1" />
+<text x="590.0" y="488.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">15</text>
+<line x1="740.0" y1="466.0" x2="740.0" y2="474.0" stroke="#4a5568" stroke-width="1" />
+<text x="740.0" y="488.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">20</text>
+<line x1="136.0" y1="387.5" x2="144.0" y2="387.5" stroke="#4a5568" stroke-width="1" />
+<line x1="144.0" y1="387.5" x2="820.0" y2="387.5" stroke="#edf2f7" stroke-width="1" />
+<text x="132.0" y="391.5" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">5</text>
+<line x1="136.0" y1="305.0" x2="144.0" y2="305.0" stroke="#4a5568" stroke-width="1" />
+<line x1="144.0" y1="305.0" x2="820.0" y2="305.0" stroke="#edf2f7" stroke-width="1" />
+<text x="132.0" y="309.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">10</text>
+<line x1="136.0" y1="222.5" x2="144.0" y2="222.5" stroke="#4a5568" stroke-width="1" />
+<line x1="144.0" y1="222.5" x2="820.0" y2="222.5" stroke="#edf2f7" stroke-width="1" />
+<text x="132.0" y="226.5" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">15</text>
+<line x1="136.0" y1="140.0" x2="144.0" y2="140.0" stroke="#4a5568" stroke-width="1" />
+<line x1="144.0" y1="140.0" x2="820.0" y2="140.0" stroke="#edf2f7" stroke-width="1" />
+<text x="132.0" y="144.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">20</text>
+<line x1="140.0" y1="470.0" x2="800.0" y2="107.0" stroke="#1c7ed6" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="141.7" cy="469.0" r="6.0" fill="#c92a2a" stroke="#fff" stroke-width="1.2" />
+<line x1="141.7" y1="469.0" x2="104.0" y2="442.0" stroke="#adb5bd" stroke-width="1" />
+<text x="100.0" y="446.0" font-size="12" text-anchor="end" fill="#1a202c" font-weight="700">Mercurio</text>
+<circle cx="151.3" cy="463.8" r="6.0" fill="#c92a2a" stroke="#fff" stroke-width="1.2" />
+<line x1="151.3" y1="463.8" x2="104.0" y2="424.0" stroke="#adb5bd" stroke-width="1" />
+<text x="100.0" y="428.0" font-size="12" text-anchor="end" fill="#1a202c" font-weight="700">Venus</text>
+<circle cx="170.0" cy="453.5" r="6.0" fill="#c92a2a" stroke="#fff" stroke-width="1.2" />
+<line x1="170.0" y1="453.5" x2="104.0" y2="406.0" stroke="#adb5bd" stroke-width="1" />
+<text x="100.0" y="410.0" font-size="12" text-anchor="end" fill="#1a202c" font-weight="700">Tierra</text>
+<circle cx="246.2" cy="411.6" r="6.0" fill="#c92a2a" stroke="#fff" stroke-width="1.2" />
+<text x="256.2" y="415.6" font-size="12" text-anchor="start" fill="#1a202c" font-weight="700">Marte</text>
+<circle cx="777.6" cy="120.9" r="6.0" fill="#c92a2a" stroke="#fff" stroke-width="1.2" />
+<text x="765.6" y="124.9" font-size="12" text-anchor="end" fill="#1a202c" font-weight="700">Ceres</text>
+<text x="640.0" y="130.0" font-size="13" text-anchor="end" fill="#1a202c" font-weight="normal">Todos los puntos caen en la misma recta:</text>
+<text x="640.0" y="150.0" font-size="13" text-anchor="end" fill="#1c7ed6" font-weight="700">T² / a³ = 1 año²/UA³ para todo el sistema solar</text>
+<text x="640.0" y="170.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal" font-style="italic">(Ceres es un planeta enano del cinturón de asteroides)</text>
+</svg>

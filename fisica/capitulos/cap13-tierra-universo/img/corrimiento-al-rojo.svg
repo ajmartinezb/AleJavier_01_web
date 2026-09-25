@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 405" width="900" height="405" role="img" aria-label="Dos franjas del espectro visible con cuatro líneas oscuras del hidrógeno. En la franja de laboratorio las líneas están en 410, 434, 486 y 656 nanómetros; en la de una galaxia lejana las mismas líneas aparecen desplazadas unos 5 por ciento hacia longitudes de onda mayores, hacia el rojo" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Dos franjas del espectro visible con cuatro líneas oscuras del hidrógeno. En la franja de laboratorio las líneas están en 410, 434, 486 y 656 nanómetros; en la de una galaxia lejana las mismas líneas aparecen desplazadas unos 5 por ciento hacia longitudes de onda mayores, hacia el rojo</title>
+<rect width="900" height="405" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Corrimiento al rojo en el espectro de una galaxia</text>
+<defs><linearGradient id="esp"><stop offset="0.000" stop-color="#6e00a0"/><stop offset="0.027" stop-color="#6206af"/><stop offset="0.054" stop-color="#560dbf"/><stop offset="0.081" stop-color="#4b14cf"/><stop offset="0.108" stop-color="#3f1adf"/><stop offset="0.135" stop-color="#3321ef"/><stop offset="0.162" stop-color="#2828ff"/><stop offset="0.189" stop-color="#2046f8"/><stop offset="0.216" stop-color="#1864f1"/><stop offset="0.243" stop-color="#1082ea"/><stop offset="0.270" stop-color="#08a0e3"/><stop offset="0.297" stop-color="#00bedc"/><stop offset="0.324" stop-color="#00c38c"/><stop offset="0.351" stop-color="#00c83c"/><stop offset="0.378" stop-color="#22cc33"/><stop offset="0.405" stop-color="#44d02a"/><stop offset="0.432" stop-color="#66d422"/><stop offset="0.459" stop-color="#89d919"/><stop offset="0.486" stop-color="#abdd11"/><stop offset="0.514" stop-color="#cde108"/><stop offset="0.541" stop-color="#f0e600"/><stop offset="0.568" stop-color="#f3ca00"/><stop offset="0.595" stop-color="#f7af00"/><stop offset="0.622" stop-color="#fb9300"/><stop offset="0.649" stop-color="#ff7800"/><stop offset="0.676" stop-color="#fa6900"/><stop offset="0.703" stop-color="#f65a00"/><stop offset="0.730" stop-color="#f14b00"/><stop offset="0.757" stop-color="#ed3c00"/><stop offset="0.784" stop-color="#e92d00"/><stop offset="0.811" stop-color="#e41e00"/><stop offset="0.838" stop-color="#e00f00"/><stop offset="0.865" stop-color="#dc0000"/><stop offset="0.892" stop-color="#c80000"/><stop offset="0.919" stop-color="#b40000"/><stop offset="0.946" stop-color="#a00000"/><stop offset="0.973" stop-color="#8c0000"/><stop offset="1.000" stop-color="#780000"/></linearGradient></defs>
+<text x="90.0" y="70.0" font-size="14" text-anchor="start" fill="#1a202c" font-weight="700">Hidrógeno en un laboratorio (en reposo)</text>
+<rect x="90" y="80" width="720" height="60" fill="url(#esp)"/>
+<line x1="148.8" y1="80.0" x2="148.8" y2="140.0" stroke="#000" stroke-width="3.5" />
+<line x1="195.1" y1="80.0" x2="195.1" y2="140.0" stroke="#000" stroke-width="3.5" />
+<line x1="296.5" y1="80.0" x2="296.5" y2="140.0" stroke="#000" stroke-width="3.5" />
+<line x1="627.7" y1="80.0" x2="627.7" y2="140.0" stroke="#000" stroke-width="3.5" />
+<text x="90.0" y="220.0" font-size="14" text-anchor="start" fill="#1a202c" font-weight="700">Hidrógeno en una galaxia lejana (z = 0,05)</text>
+<rect x="90" y="230" width="720" height="60" fill="url(#esp)"/>
+<line x1="188.7" y1="230.0" x2="188.7" y2="290.0" stroke="#000" stroke-width="3.5" />
+<line x1="237.3" y1="230.0" x2="237.3" y2="290.0" stroke="#000" stroke-width="3.5" />
+<line x1="343.8" y1="230.0" x2="343.8" y2="290.0" stroke="#000" stroke-width="3.5" />
+<line x1="691.5" y1="230.0" x2="691.5" y2="290.0" stroke="#000" stroke-width="3.5" />
+<line x1="148.8" y1="142.0" x2="188.7" y2="196.0" stroke="#495057" stroke-width="1.3" marker-end="url(#mg)"/>
+<line x1="195.1" y1="142.0" x2="237.3" y2="196.0" stroke="#495057" stroke-width="1.3" marker-end="url(#mg)"/>
+<line x1="296.5" y1="142.0" x2="343.8" y2="196.0" stroke="#495057" stroke-width="1.3" marker-end="url(#mg)"/>
+<line x1="627.7" y1="142.0" x2="691.5" y2="196.0" stroke="#495057" stroke-width="1.3" marker-end="url(#mg)"/>
+<line x1="128.9" y1="292.0" x2="128.9" y2="300.0" stroke="#4a5568" stroke-width="1" />
+<text x="128.9" y="316.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">400</text>
+<line x1="226.2" y1="292.0" x2="226.2" y2="300.0" stroke="#4a5568" stroke-width="1" />
+<text x="226.2" y="316.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">450</text>
+<line x1="323.5" y1="292.0" x2="323.5" y2="300.0" stroke="#4a5568" stroke-width="1" />
+<text x="323.5" y="316.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">500</text>
+<line x1="420.8" y1="292.0" x2="420.8" y2="300.0" stroke="#4a5568" stroke-width="1" />
+<text x="420.8" y="316.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">550</text>
+<line x1="518.1" y1="292.0" x2="518.1" y2="300.0" stroke="#4a5568" stroke-width="1" />
+<text x="518.1" y="316.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">600</text>
+<line x1="615.4" y1="292.0" x2="615.4" y2="300.0" stroke="#4a5568" stroke-width="1" />
+<text x="615.4" y="316.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">650</text>
+<line x1="712.7" y1="292.0" x2="712.7" y2="300.0" stroke="#4a5568" stroke-width="1" />
+<text x="712.7" y="316.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">700</text>
+<line x1="810.0" y1="292.0" x2="810.0" y2="300.0" stroke="#4a5568" stroke-width="1" />
+<text x="810.0" y="316.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">750</text>
+<text x="810.0" y="336.0" font-size="12" text-anchor="end" fill="#4a5568" font-weight="normal">longitud de onda λ (nm)</text>
+<text x="450.0" y="368.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Las mismas líneas aparecen desplazadas hacia longitudes de onda mayores (hacia el rojo).</text>
+<text x="450.0" y="388.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="normal">z = Δλ / λ = (689 − 656) / 656 ≈ 0,05. Para z pequeño, v ≈ z · c ≈ 15 000 km/s de alejamiento.</text>
+</svg>
