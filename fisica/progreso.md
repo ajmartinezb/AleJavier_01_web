@@ -12,7 +12,7 @@
 | 8 | Trabajo, potencia y energía mecánica | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
 | 9 | Momentum lineal e impulso | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
 | 10 | Calor y temperatura | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
-| 11 | Electricidad y circuitos eléctricos | Área 4 (Electricidad) | Teoría completa | Teoría 1–10, 8 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | en curso | 25-09-2026 |
+| 11 | Electricidad y circuitos eléctricos | Área 4 (Electricidad) | Preguntas completas | Teoría 1–10, 8 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | 131 | 25-09-2026 |
 | 12 | Magnetismo y electromagnetismo | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
 | 13 | La Tierra y el Universo | Área 2 (Mecánica) | Pendiente | — | — | — |
 
