@@ -4,9 +4,9 @@
  "prueba": "ciencias",
  "capitulos": [
   {
-   "carpeta": "cap01",
+   "carpeta": "cap01-ondas",
    "titulo": "Capítulo 1: Ondas: características y clasificación",
-   "area": ""
+   "area": "Ondas"
   },
   {
    "carpeta": "cap02",
