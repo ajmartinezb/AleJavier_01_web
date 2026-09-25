@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capítulo 5: Cinemática: descripción del movimiento — Física PAES — Ciencias</title>
+<meta name="generator" content="Conversor PDF a HTML">
+<style>
+:root{--bg:#f7f6f2;--paper:#fff;--ink:#23262a;--ink-soft:#5a5f66;--line:#e3e1da;
+--accent:#1c7ed6;--accent-dark:#0f4576;--ok:#1e7a46;--ok-bg:#e5f5eb;--bad:#b3261e;--bad-bg:#fdeceb;
+--tip-bg:#fff6d6;--tip-bd:#e8cf67;--nota-bg:#eaf2fb;--nota-bd:#b6cfe9;--ej-bg:#eaf6ee;--ej-bd:#a9d8b8;--sidebar-w:290px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}}
+:root[data-theme=dark]{--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{scroll-padding-top:96px}
+body{margin:0;font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.65}
+header.top{position:sticky;top:0;z-index:50;background:linear-gradient(120deg,var(--accent-dark),var(--accent));color:#fff;padding:14px 22px;box-shadow:0 2px 10px rgba(0,0,0,.18)}
+header.top .fila{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1400px;margin:0 auto}
+header.top h1{margin:0;font-size:1.25rem;line-height:1.3;flex:1;min-width:200px}
+header.top .doc{font-size:.8rem;opacity:.85;display:block;font-weight:400}
+header.top a{color:#fff}
+.btn-top{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);color:#fff;border-radius:8px;padding:6px 10px;font-size:.85rem;cursor:pointer;text-decoration:none;white-space:nowrap}
+.progreso{max-width:1400px;margin:8px auto 0;display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:.8rem}
+.barra{flex:1;min-width:120px;height:7px;background:rgba(255,255,255,.25);border-radius:9px;overflow:hidden}
+.barra>i{display:block;height:100%;width:0;background:#fff;border-radius:9px;transition:width .3s}
+.layout{display:flex;align-items:flex-start;max-width:1400px;margin:0 auto}
+nav.sidebar{width:var(--sidebar-w);flex-shrink:0;position:sticky;top:110px;max-height:calc(100vh - 120px);overflow-y:auto;padding:20px 12px 40px 18px}
+nav.sidebar h2{font-size:.72rem;text-transform:uppercase;letter-spacing:1px;color:var(--ink-soft);margin:0 0 8px 6px}
+nav.sidebar ol{list-style:none;margin:0;padding:0}
+nav.sidebar a{display:block;position:relative;overflow:hidden;isolation:isolate;padding:6px 10px;border-radius:8px;color:var(--ink);text-decoration:none;font-size:.86rem;transition:color .2s,background .2s}
+nav.sidebar a:hover,nav.sidebar a.activo{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+nav.sidebar a::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;border-radius:inherit;
+background:linear-gradient(90deg,color-mix(in srgb,var(--accent) 22%,transparent),color-mix(in srgb,var(--accent) 45%,transparent));
+box-shadow:6px 0 14px color-mix(in srgb,var(--accent) 55%,transparent)}
+nav.sidebar a.cargando{color:var(--accent-dark);font-weight:600;background:transparent}
+nav.sidebar a.cargando::before,.ref-badge.cargando::before,.volver-tema.cargando::before{animation:conv-cargar .6s cubic-bezier(.45,0,.2,1) forwards}
+.ref-badges{display:inline-flex;flex-wrap:wrap;gap:6px;margin-left:10px;vertical-align:middle;font-size:.72rem;font-weight:600;line-height:1}
+.ref-group{display:inline-flex;align-items:center;gap:4px}
+.ref-label{color:var(--ink-soft);font-weight:600;letter-spacing:.3px}
+.ref-badge,.volver-tema{position:relative;overflow:hidden;isolation:isolate;text-decoration:none;transition:background .2s,color .2s,border-color .2s}
+.ref-badge::before,.volver-tema::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;background:color-mix(in srgb,var(--accent) 40%,transparent)}
+.ref-badge{display:inline-grid;place-items:center;min-width:24px;height:22px;padding:0 6px;border-radius:999px;border:1px solid;font-size:.72rem}
+.ref-badge.ref-ia{color:#1e7a34;border-color:#8fd0a2;background:#eaf7ee}
+.ref-badge.ref-ia:hover{background:#1e7a34;color:#fff}
+.ref-badge.ref-ia.cargando{color:#fff;background:#1e7a34}
+.volver-tema{display:inline-flex;align-items:center;gap:4px;margin:0 8px 0 6px;padding:2px 10px;border:1px solid var(--line);border-radius:999px;font-size:.76rem;font-weight:600;color:var(--accent-dark);background:var(--paper);vertical-align:middle}
+.volver-tema:hover{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,var(--paper))}
+.seccion-ia{margin-top:40px;padding-top:6px}
+.seccion-ia>.nota{font-size:.9rem}
+.tema-ia{margin:26px 0 4px;font-size:.82rem;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--ink-soft)}
+.tema-ia a{color:inherit}
+.habilidad{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent-dark);vertical-align:middle}
+.eje{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:var(--line);color:var(--ink-soft);vertical-align:middle}
+.comentario>p{margin:8px 0}
+.comentario>p>strong:first-child{color:var(--accent-dark)}
+.comentario ul{margin:6px 0 10px;padding-left:20px}
+.comentario li{margin:3px 0}
+.comentario .tipo-error{font-style:italic;color:var(--ink-soft)}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .comentario>p>strong:first-child{color:var(--accent)}}
+:root[data-theme=dark] .comentario>p>strong:first-child{color:var(--accent)}
+.pregunta.destino{animation:conv-destino 1.6s ease-out}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}}
+:root[data-theme=dark] .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}
+@keyframes conv-cargar{0%{width:0;opacity:.7}85%{opacity:1}100%{width:100%;opacity:1;box-shadow:0 0 12px color-mix(in srgb,var(--accent) 45%,transparent)}}
+@media (prefers-reduced-motion:reduce){nav.sidebar a.cargando::before{animation-duration:.15s}}
+.destino{animation:conv-destino 1.4s ease-out}
+@keyframes conv-destino{0%{background:color-mix(in srgb,var(--accent) 22%,transparent)}100%{background:transparent}}
+nav.sidebar .n3 a{padding-left:22px;font-size:.8rem;color:var(--ink-soft)}
+nav.sidebar .n4 a{padding-left:34px;font-size:.76rem;color:var(--ink-soft)}
+main.content{flex:1;min-width:0;padding:26px 34px 90px}
+.paper{background:var(--paper);border-radius:14px;padding:28px 38px;box-shadow:0 1px 4px rgba(0,0,0,.07);max-width:980px}
+.paper h2{font-size:1.4rem;color:var(--accent-dark);border-bottom:3px solid var(--accent);padding-bottom:6px;margin:34px 0 14px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .paper h2{color:var(--accent)}}
+:root[data-theme=dark] .paper h2{color:var(--accent)}
+.paper h2:first-child{margin-top:0}
+.paper h3{font-size:1.14rem;margin:26px 0 10px;border-left:4px solid var(--accent);padding-left:10px}
+.paper h4{font-size:1rem;margin:20px 0 8px}
+.paper img{max-width:100%;height:auto}
+figure>img{width:var(--ancho,auto)}
+.fila-figuras{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:flex-start;margin:18px 0}
+.fila-figuras>figure{flex:1 1 220px;margin:0}
+.fila-figuras>figure>img{width:100%}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:.93rem;display:block;overflow-x:auto}
+th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top;text-align:left}
+thead th{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+blockquote{margin:14px 0;padding:8px 16px;border-left:4px solid var(--line);color:var(--ink-soft)}
+.nota,.tip,.ejemplo,.ejercicio,.pregunta{border-radius:10px;padding:14px 18px;margin:16px 0;border:1px solid}
+.nota{background:var(--nota-bg);border-color:var(--nota-bd)}
+.tip{background:var(--tip-bg);border-color:var(--tip-bd)}
+.ejemplo{background:var(--ej-bg);border-color:var(--ej-bd)}
+.ejercicio,.pregunta{background:var(--paper);border-color:var(--line);box-shadow:0 1px 3px rgba(0,0,0,.05)}
+figure{margin:18px auto;text-align:center}
+figure img{border-radius:8px;border:1px solid var(--line);cursor:zoom-in;background:#fff}
+figcaption{font-size:.85rem;color:var(--ink-soft);margin-top:6px}
+.frac{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;font-size:.9em;margin:0 2px}
+.frac>span:first-child{border-bottom:1px solid currentColor;padding:0 3px}
+.alternativas{list-style:none;padding:0;margin:10px 0}
+.alternativas li{display:flex;gap:10px;align-items:flex-start;padding:8px 12px;margin:6px 0;border:1px solid var(--line);border-radius:9px;cursor:pointer;transition:background .15s}
+.alternativas li::before{content:attr(data-letra);font-weight:700;min-width:1.4em;color:var(--accent)}
+.alternativas li:hover{background:color-mix(in srgb,var(--accent) 8%,transparent)}
+.alternativas li.marcada{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.alternativas li.correcta{border-color:var(--ok);background:var(--ok-bg)}
+.alternativas li.incorrecta{border-color:var(--bad);background:var(--bad-bg)}
+.pregunta.respondida .alternativas li{cursor:default}
+.acciones{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.btn{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:8px 14px;font-size:.9rem;cursor:pointer}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.btn.sec{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.estado{font-size:.88rem;font-weight:600}
+.estado.ok{color:var(--ok)}.estado.mal{color:var(--bad)}
+.respuesta{display:none;margin-top:10px;padding:12px 14px;border-radius:9px;background:color-mix(in srgb,var(--accent) 7%,transparent);border-left:4px solid var(--accent)}
+.visible>.respuesta,.respuesta.visible{display:block}
+.aviso-ia{font-size:.8rem;color:var(--ink-soft);font-style:italic}
+details.original{margin:14px 0;border:1px dashed var(--line);border-radius:10px;padding:8px 12px}
+details.original summary{cursor:pointer;color:var(--ink-soft);font-size:.85rem}
+.marca-pagina{font-size:.72rem;color:var(--ink-soft);text-align:right;border-top:1px dashed var(--line);margin:22px 0 8px;padding-top:2px}
+.navsec{display:flex;justify-content:space-between;gap:12px;margin-top:28px;max-width:980px}
+.navsec a{flex:1;padding:14px 16px;border-radius:12px;background:var(--paper);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.navsec a small{display:block;color:var(--ink-soft);font-size:.75rem}
+.navsec a.sig{text-align:right}
+#lightbox{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:100;cursor:zoom-out;padding:20px}
+#lightbox img{max-width:100%;max-height:100%;background:#fff;border-radius:6px}
+#toc-btn{display:none}
+@media (max-width:900px){
+ nav.sidebar{position:fixed;top:0;left:0;bottom:0;max-height:none;background:var(--paper);z-index:60;transform:translateX(-105%);transition:transform .25s;box-shadow:2px 0 14px rgba(0,0,0,.2);padding-top:24px}
+ nav.sidebar.abierta{transform:none}
+ #toc-btn{display:inline-block}
+ main.content{padding:16px 16px 80px}
+ .paper{padding:20px 18px}
+}
+@media print{header.top,nav.sidebar,.navsec,.acciones{display:none}.respuesta{display:block}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="fila">
+    <a class="btn-top" href="../../inicio.html" title="Volver a las asignaturas PAES" style="text-decoration:none">← Asignaturas</a>
+    <button class="btn-top" id="toc-btn" type="button">☰ Contenido</button>
+    <h1><span class="doc">Física PAES — Ciencias</span>Capítulo 5: Cinemática: descripción del movimiento</h1>
+    <a class="btn-top" href="index.html">Índice</a>
+    <button class="btn-top" id="tema" type="button" title="Cambiar tema claro/oscuro">◐</button>
+  </div>
+  <div class="progreso">
+    <span id="txt-preg">…</span><div class="barra"><i id="barra-preg"></i></div>
+    <button class="btn-top" id="reiniciar" type="button" title="Reiniciar respuestas de esta sección">↺ Reiniciar</button>
+    <span id="txt-lect">0% leído</span><div class="barra"><i id="barra-lect"></i></div>
+  </div>
+</header>
+<div class="layout">
+<nav class="sidebar" aria-label="Contenido"><h2>Contenido</h2><ol><li class="n2"><a href="#capitulo-5-cinematica-descripcion-del-movimiento">Capítulo 5: Cinemática: descripción del movimiento</a></li><li class="n2"><a href="#1-conceptos-clave">1. Conceptos clave</a></li><li class="n2"><a href="#2-sistema-de-referencia-posicion-y-trayectoria">2. Sistema de referencia, posición y trayectoria</a></li><li class="n3"><a href="#a-todo-movimiento-es-relativo">a. Todo movimiento es relativo</a></li><li class="n3"><a href="#b-la-posicion">b. La posición</a></li><li class="n3"><a href="#c-la-trayectoria">c. La trayectoria</a></li><li class="n3"><a href="#d-el-modelo-de-particula">d. El modelo de partícula</a></li><li class="n2"><a href="#3-distancia-y-desplazamiento-rapidez-y-velocidad">3. Distancia y desplazamiento; rapidez y velocidad</a></li><li class="n3"><a href="#a-distancia-recorrida-y-desplazamiento">a. Distancia recorrida y desplazamiento</a></li><li class="n3"><a href="#b-rapidez-media-y-velocidad-media">b. Rapidez media y velocidad media</a></li><li class="n3"><a href="#c-rapidez-y-velocidad-instantaneas">c. Rapidez y velocidad instantáneas</a></li><li class="n3"><a href="#d-como-se-mide">d. Cómo se mide</a></li><li class="n2"><a href="#4-la-aceleracion">4. La aceleración</a></li><li class="n3"><a href="#a-que-es">a. Qué es</a></li><li class="n3"><a href="#b-el-signo-de-la-aceleracion">b. El signo de la aceleración</a></li><li class="n3"><a href="#c-aceleraciones-tipicas">c. Aceleraciones típicas</a></li><li class="n2"><a href="#5-la-relatividad-de-galileo">5. La relatividad de Galileo</a></li><li class="n3"><a href="#a-el-principio">a. El principio</a></li><li class="n3"><a href="#b-la-suma-de-velocidades">b. La suma de velocidades</a></li><li class="n3"><a href="#c-lo-que-cambia-y-lo-que-no-cambia-de-un-sistema-a">c. Lo que cambia y lo que no cambia de un sistema a otro</a></li><li class="n2"><a href="#6-movimiento-rectilineo-uniforme-mru">6. Movimiento rectilíneo uniforme (MRU)</a></li><li class="n3"><a href="#a-que-lo-define">a. Qué lo define</a></li><li class="n3"><a href="#b-la-ecuacion-de-itinerario">b. La ecuación de itinerario</a></li><li class="n3"><a href="#c-los-graficos-del-mru">c. Los gráficos del MRU</a></li><li class="n3"><a href="#d-encuentros-y-persecuciones">d. Encuentros y persecuciones</a></li><li class="n2"><a href="#7-movimiento-rectilineo-uniformemente-acelerado-mr">7. Movimiento rectilíneo uniformemente acelerado (MRUA)</a></li><li class="n3"><a href="#a-que-lo-define-2">a. Qué lo define</a></li><li class="n3"><a href="#b-las-ecuaciones">b. Las ecuaciones</a></li><li class="n3"><a href="#c-los-graficos-del-mrua">c. Los gráficos del MRUA</a></li><li class="n3"><a href="#d-caida-libre-y-lanzamiento-vertical">d. Caída libre y lanzamiento vertical</a></li><li class="n2"><a href="#8-como-leer-los-graficos-de-movimiento">8. Cómo leer los gráficos de movimiento</a></li><li class="n3"><a href="#a-tres-preguntas-antes-de-responder">a. Tres preguntas antes de responder</a></li><li class="n3"><a href="#b-un-grafico-con-tramos">b. Un gráfico con tramos</a></li><li class="n3"><a href="#c-errores-que-la-prueba-aprovecha">c. Errores que la prueba aprovecha</a></li><li class="n3"><a href="#d-como-reconocer-el-tipo-de-movimiento">d. Cómo reconocer el tipo de movimiento</a></li><li class="n3"><a href="#e-una-aplicacion-la-distancia-de-detencion">e. Una aplicación: la distancia de detención</a></li><li class="n2"><a href="#ejemplos-paes-resueltos">Ejemplos PAES resueltos</a></li><li class="n2"><a href="#evaluacion-formativa">Evaluación formativa</a></li><li class="n2"><a href="#fuentes-del-capitulo">Fuentes del capítulo</a></li></ol></nav>
+<main class="content">
+<article class="paper">
+<h2 id="capitulo-5-cinematica-descripcion-del-movimiento">Capítulo 5: Cinemática: descripción del movimiento</h2>
+<p><strong>Área temática:</strong> Mecánica</p>
+<p>Vas en la micro y te parece que estás quieto, pero alguien en el paradero te ve pasar a 40 km/h. Un auto marca 100 km/h en el velocímetro, pero tardó dos horas en recorrer 150 km. Una pelota lanzada hacia arriba se detiene un instante en lo más alto y, sin embargo, sigue acelerando. Para describir un movimiento sin contradicciones como estas hace falta un lenguaje preciso, y ese lenguaje es la <strong>cinemática</strong>: la parte de la mecánica que describe <strong>cómo</strong> se mueven los cuerpos, sin preguntarse todavía <strong>por qué</strong> (eso es la dinámica, capítulo 6).</p>
+<p>En este capítulo vas a aprender qué es un <strong>sistema de referencia</strong> y por qué todo movimiento es relativo; a distinguir <strong>trayectoria, posición, distancia recorrida y desplazamiento</strong>; a diferenciar <strong>rapidez</strong> de <strong>velocidad</strong>, media e instantánea; qué es la <strong>aceleración</strong> y qué significa su signo; cómo se suman las velocidades según la <strong>relatividad de Galileo</strong>; y cómo se describen con ecuaciones y gráficos los dos movimientos que pide el temario: el <strong>movimiento rectilíneo uniforme (MRU)</strong> y el <strong>movimiento rectilíneo uniformemente acelerado (MRUA)</strong>, incluida la caída libre.</p>
+<div class="nota">
+<p><strong>Este capítulo en la PAES 2027.</strong> Cubre los cuatro primeros conocimientos del área Mecánica del temario DEMRE: la descripción del movimiento (sistema de referencia, trayectoria, posición, distancia, desplazamiento, rapidez media, velocidades media e instantánea, aceleración), la relatividad de Galileo en movimientos rectilíneos uniformes, y el MRU y el MRUA con su ecuación de itinerario y sus gráficos. Los gráficos de movimiento son de lo más preguntado del eje: la sección 8 está dedicada a leerlos.</p>
+</div>
+<h2 id="1-conceptos-clave">1. Conceptos clave</h2>
+<table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Definición</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cinemática</strong></td>
+<td>Parte de la mecánica que describe el movimiento sin considerar sus causas</td>
+</tr>
+<tr>
+<td><strong>Sistema de referencia</strong></td>
+<td>Cuerpo u observador desde el cual se describe un movimiento, junto con un origen, ejes y un reloj</td>
+</tr>
+<tr>
+<td><strong>Partícula</strong></td>
+<td>Modelo de un cuerpo cuyo tamaño no importa para describir su movimiento</td>
+</tr>
+<tr>
+<td><strong>Posición (<em>x</em>)</strong></td>
+<td>Ubicación de un cuerpo respecto del origen del sistema de referencia; puede ser positiva o negativa</td>
+</tr>
+<tr>
+<td><strong>Trayectoria</strong></td>
+<td>Línea formada por las posiciones sucesivas de un cuerpo; su forma depende del sistema de referencia</td>
+</tr>
+<tr>
+<td><strong>Distancia recorrida (<em>d</em>)</strong></td>
+<td>Largo total del camino seguido por el cuerpo; es escalar y nunca negativa</td>
+</tr>
+<tr>
+<td><strong>Desplazamiento (Δ<em>x</em>)</strong></td>
+<td>Cambio de posición: posición final menos inicial. Es vectorial: tiene magnitud, dirección y sentido</td>
+</tr>
+<tr>
+<td><strong>Escalar</strong></td>
+<td>Magnitud que queda definida con un número y su unidad (tiempo, distancia, rapidez)</td>
+</tr>
+<tr>
+<td><strong>Vector</strong></td>
+<td>Magnitud que además necesita dirección y sentido (desplazamiento, velocidad, aceleración)</td>
+</tr>
+<tr>
+<td><strong>Rapidez media</strong></td>
+<td>Distancia recorrida dividida por el tiempo empleado</td>
+</tr>
+<tr>
+<td><strong>Velocidad media</strong></td>
+<td>Desplazamiento dividido por el tiempo empleado; es un vector</td>
+</tr>
+<tr>
+<td><strong>Velocidad instantánea</strong></td>
+<td>Velocidad en un instante dado; en un gráfico posición–tiempo es la pendiente en ese punto</td>
+</tr>
+<tr>
+<td><strong>Aceleración</strong></td>
+<td>Cambio de la velocidad por unidad de tiempo: <em>a</em> = Δ<em>v</em> / Δ<em>t</em>; se mide en m/s²</td>
+</tr>
+<tr>
+<td><strong>Relatividad de Galileo</strong></td>
+<td>Principio según el cual las leyes del movimiento son las mismas en todos los sistemas que se mueven con velocidad constante entre sí; las velocidades se suman o restan según el sistema de referencia</td>
+</tr>
+<tr>
+<td><strong>Velocidad relativa</strong></td>
+<td>Velocidad de un cuerpo medida desde otro que también se mueve</td>
+</tr>
+<tr>
+<td><strong>MRU</strong></td>
+<td>Movimiento rectilíneo uniforme: trayectoria recta y velocidad constante (aceleración nula)</td>
+</tr>
+<tr>
+<td><strong>MRUA</strong></td>
+<td>Movimiento rectilíneo uniformemente acelerado: trayectoria recta y aceleración constante</td>
+</tr>
+<tr>
+<td><strong>Ecuación de itinerario</strong></td>
+<td>Ecuación que da la posición del cuerpo en función del tiempo, <em>x</em>(<em>t</em>)</td>
+</tr>
+<tr>
+<td><strong>Pendiente</strong></td>
+<td>Inclinación de una recta en un gráfico: cambio en el eje vertical dividido por el cambio en el horizontal</td>
+</tr>
+<tr>
+<td><strong>Área bajo la curva</strong></td>
+<td>En un gráfico velocidad–tiempo, representa el desplazamiento; en uno aceleración–tiempo, el cambio de velocidad</td>
+</tr>
+<tr>
+<td><strong>Caída libre</strong></td>
+<td>Movimiento de un cuerpo bajo la sola acción de la gravedad; es un MRUA con aceleración <em>g</em> ≈ 9,8 m/s²</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2-sistema-de-referencia-posicion-y-trayectoria">2. Sistema de referencia, posición y trayectoria</h2>
+<h3 id="a-todo-movimiento-es-relativo">a. Todo movimiento es relativo</h3>
+<p>Decir que algo «se mueve» no tiene sentido si no se dice <strong>respecto de qué</strong>. Una pasajera sentada en un bus está <strong>en reposo respecto del bus</strong> y, a la vez, <strong>en movimiento respecto de la calle</strong>. Las dos afirmaciones son verdaderas: describen el mismo hecho desde dos observadores distintos.</p>
+<p>Un <strong>sistema de referencia</strong> es el cuerpo u observador desde el cual se describe el movimiento, junto con tres cosas que permiten medirlo:</p>
+<ol>
+<li>un <strong>origen</strong> (el punto cero),</li>
+<li><strong>ejes</strong> con un sentido positivo (por ejemplo, hacia el este es positivo),</li>
+<li>un <strong>reloj</strong> para medir el tiempo.</li>
+</ol>
+<div class="nota">
+<p><strong>Reposo y movimiento dependen del observador.</strong> Un cuerpo está en movimiento respecto de un sistema de referencia si su posición en ese sistema cambia con el tiempo. No existe un reposo «absoluto»: la calle misma gira con la Tierra y viaja alrededor del Sol. En la vida cotidiana se usa casi siempre el suelo como sistema de referencia, pero es una elección, no una verdad.</p>
+</div>
+<h3 id="b-la-posicion">b. La posición</h3>
+<p>En un movimiento en línea recta, la <strong>posición</strong> (<em>x</em>) de un cuerpo es su ubicación medida desde el origen, con signo:</p>
+<figure><img src="img/cap05-cinematica/recta-posiciones.svg" alt="Una recta numérica horizontal con el origen en una plaza, posiciones negativas hacia el oeste y positivas hacia el este. Un auto en x igual a 300 metros y una bicicleta en x igual a menos 200 metros"><figcaption>Figura 1. La posición se mide desde un origen y su signo indica de qué lado está el cuerpo. Diagrama propio.</figcaption></figure>
+
+<ul>
+<li><em>x</em> = +300 m significa 300 m <strong>hacia el lado positivo</strong> del origen.</li>
+<li><em>x</em> = −200 m significa 200 m <strong>hacia el lado negativo</strong>.</li>
+<li>Una posición negativa no es «menos que nada»: solo indica el lado.</li>
+</ul>
+<p>La posición depende de dónde se ponga el origen. Si en la figura se pusiera el origen en la bicicleta, el auto estaría en <em>x</em> = +500 m. Lo que <strong>no</strong> cambia al mover el origen son las distancias entre cuerpos ni los desplazamientos.</p>
+<h3 id="c-la-trayectoria">c. La trayectoria</h3>
+<p>La <strong>trayectoria</strong> es la línea formada por todas las posiciones que ocupa un cuerpo. Puede ser recta (<strong>rectilínea</strong>), circular, parabólica o de cualquier forma. En este capítulo se estudian movimientos <strong>rectilíneos</strong>.</p>
+<p>La forma de la trayectoria <strong>también depende del sistema de referencia</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Situación</th>
+<th>Trayectoria vista desde el vehículo</th>
+<th>Trayectoria vista desde el suelo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Un pasajero deja caer una llave dentro de un tren que avanza con velocidad constante</td>
+<td>Recta vertical</td>
+<td>Curva (parábola)</td>
+</tr>
+<tr>
+<td>Un punto del borde de la rueda de una bicicleta que avanza</td>
+<td>Circunferencia (visto desde el eje de la rueda)</td>
+<td>Una curva con arcos llamada cicloide</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Error típico.</strong> Pensar que la llave «se queda atrás» dentro del tren porque el tren avanza. Si el tren va con velocidad constante, la llave ya tenía la velocidad del tren al soltarse y cae <strong>a los pies</strong> del pasajero. Desde el andén, en cambio, se ve avanzar mientras cae y describir una curva. Ninguna de las dos descripciones está equivocada.</p>
+</div>
+<h3 id="d-el-modelo-de-particula">d. El modelo de partícula</h3>
+<p>Para describir el movimiento de un auto en una carretera de 300 km no importa su tamaño ni cómo giran sus ruedas: basta con saber dónde está. En esos casos se modela el cuerpo como una <strong>partícula</strong>, un punto que tiene la posición del cuerpo. Es un modelo útil <strong>cuando el tamaño del cuerpo es pequeño comparado con las distancias que recorre</strong>. No sirve, por ejemplo, para estudiar cómo se estaciona el mismo auto en un espacio estrecho.</p>
+<h2 id="3-distancia-y-desplazamiento-rapidez-y-velocidad">3. Distancia y desplazamiento; rapidez y velocidad</h2>
+<h3 id="a-distancia-recorrida-y-desplazamiento">a. Distancia recorrida y desplazamiento</h3>
+<p>Son dos magnitudes distintas que la prueba pone a competir con frecuencia:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Distancia recorrida (<em>d</em>)</th>
+<th>Desplazamiento (Δ<em>x</em>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qué mide</td>
+<td>El largo total del camino seguido</td>
+<td>El cambio neto de posición: Δ<em>x</em> = <em>x</em><sub>final</sub> − <em>x</em><sub>inicial</sub></td>
+</tr>
+<tr>
+<td>Tipo de magnitud</td>
+<td>Escalar</td>
+<td>Vectorial (tiene sentido: signo en una recta)</td>
+</tr>
+<tr>
+<td>Puede ser negativa</td>
+<td>Nunca</td>
+<td>Sí, si el cuerpo termina del lado negativo de donde partió</td>
+</tr>
+<tr>
+<td>Puede ser cero con el cuerpo moviéndose</td>
+<td>No</td>
+<td>Sí, si vuelve al punto de partida</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="img/cap05-cinematica/distancia-desplazamiento.svg" alt="Un corredor parte en x igual a 0, llega hasta x igual a 400 metros y vuelve hasta x igual a 100 metros. Una flecha curva muestra el camino total de 700 metros y una flecha recta muestra el desplazamiento de 100 metros"><figcaption>Figura 2. Ida hasta 400 m y vuelta hasta 100 m: la distancia recorrida es 700 m y el desplazamiento, +100 m. Diagrama propio.</figcaption></figure>
+
+<div class="ejemplo">
+<p><strong>Una vuelta a la pista.</strong> Una atleta da una vuelta completa a una pista de 400 m y termina en la línea de partida. Distancia recorrida: <strong>400 m</strong>. Desplazamiento: <strong>0 m</strong>, porque su posición final coincide con la inicial.</p>
+<p><strong>Ida y vuelta parcial.</strong> Un corredor va desde <em>x</em> = 0 hasta <em>x</em> = 400 m y luego vuelve hasta <em>x</em> = 100 m. Distancia: 400 m + 300 m = <strong>700 m</strong>. Desplazamiento: 100 m − 0 m = <strong>+100 m</strong>.</p>
+</div>
+<p>La magnitud del desplazamiento <strong>nunca es mayor</strong> que la distancia recorrida. Son iguales solo si el cuerpo se mueve en línea recta <strong>sin devolverse</strong>.</p>
+<h3 id="b-rapidez-media-y-velocidad-media">b. Rapidez media y velocidad media</h3>
+<p>Con las dos magnitudes anteriores se definen dos formas de medir «qué tan rápido»:</p>
+<p style="text-align:center"><strong>rapidez media = <em>d</em> / Δ<em>t</em></strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>velocidad media = Δ<em>x</em> / Δ<em>t</em></strong></p>
+
+<p>La unidad del SI es el <strong>metro por segundo</strong> (m/s). En la vida diaria se usa el kilómetro por hora (km/h).</p>
+<div class="nota">
+<p><strong>Cómo convertir.</strong> 1 m/s = 3,6 km/h. Para pasar de km/h a m/s se <strong>divide</strong> por 3,6; para pasar de m/s a km/h se <strong>multiplica</strong> por 3,6. Así, 72 km/h = 20 m/s y 10 m/s = 36 km/h. La razón: 1 km/h = 1 000 m / 3 600 s.</p>
+</div>
+<div class="ejemplo">
+<p><strong>El corredor de la figura 2</strong> tardó 200 s en todo el recorrido.</p>
+<ul>
+<li>Rapidez media = 700 m / 200 s = <strong>3,5 m/s</strong>.</li>
+<li>Velocidad media = +100 m / 200 s = <strong>+0,5 m/s</strong>.</li>
+</ul>
+<p>La velocidad media es mucho menor porque la vuelta «deshizo» parte del avance. Si hubiera terminado en el punto de partida, su velocidad media sería cero, aunque su rapidez media seguiría siendo 3,5 m/s.</p>
+</div>
+<div class="tip">
+<p><strong>La rapidez media no es el promedio de las rapideces.</strong> Un auto va de Santiago a Rancagua (unos 90 km) a 90 km/h y vuelve a 60 km/h. La rapidez media <strong>no</strong> es 75 km/h. La ida dura 1 h y la vuelta 1,5 h: 180 km / 2,5 h = <strong>72 km/h</strong>. Como pasa más tiempo yendo lento, el resultado queda más cerca de 60 km/h. Hay que calcular siempre distancia total entre tiempo total.</p>
+</div>
+<h3 id="c-rapidez-y-velocidad-instantaneas">c. Rapidez y velocidad instantáneas</h3>
+<p>La rapidez media dice poco de lo que pasó en cada momento. Un bus que hace un recorrido urbano con rapidez media de 20 km/h pudo ir a 50 km/h en algunos tramos y estar detenido en otros. La <strong>velocidad instantánea</strong> es la velocidad en un instante determinado: la que se obtiene con intervalos de tiempo cada vez más pequeños. Su magnitud es la <strong>rapidez instantánea</strong>, la que muestra el <strong>velocímetro</strong> de un auto.</p>
+<p>Diferencia clave:</p>
+<ul>
+<li>La <strong>rapidez</strong> es un escalar: solo dice cuánto.</li>
+<li>La <strong>velocidad</strong> es un vector: dice cuánto, en qué dirección y en qué sentido. Dos autos que se cruzan a 60 km/h en una carretera recta tienen la <strong>misma rapidez</strong> pero <strong>velocidades opuestas</strong>: +60 km/h y −60 km/h.</li>
+</ul>
+<p>Un cuerpo que gira en una rotonda con rapidez constante <strong>cambia su velocidad</strong>, porque cambia la dirección del movimiento. Por eso, «velocidad constante» exige a la vez rapidez constante <strong>y</strong> trayectoria recta.</p>
+<h3 id="d-como-se-mide">d. Cómo se mide</h3>
+<p>Para medir una rapidez media en el laboratorio o en la calle se necesitan dos instrumentos: uno de <strong>longitud</strong> (huincha, regla, marcas en el suelo) y uno de <strong>tiempo</strong> (cronómetro, video con marca de tiempo, sensores fotoeléctricos). Para acercarse a la velocidad instantánea se usan intervalos muy cortos: sensores de movimiento, radares o el video en cámara lenta.</p>
+<div class="ejemplo">
+<p><strong>Diseñar una medición.</strong> Un curso quiere saber si los autos respetan el límite de 50 km/h frente al colegio. Marca dos líneas separadas por 25 m en la vereda y cronometra el tiempo que tarda cada auto en pasar de una a otra. Si un auto tarda 1,5 s, su rapidez media en ese tramo es 25 m / 1,5 s ≈ 16,7 m/s ≈ <strong>60 km/h</strong>: iba sobre el límite.</p>
+<p>¿Qué limita la confiabilidad de la medición? El tiempo de reacción de quien cronometra (unas décimas de segundo) es comparable con el tiempo medido. Una mejora: separar más las líneas, o grabar en video y contar los cuadros.</p>
+</div>
+<h2 id="4-la-aceleracion">4. La aceleración</h2>
+<h3 id="a-que-es">a. Qué es</h3>
+<p>La <strong>aceleración</strong> mide qué tan rápido cambia la <strong>velocidad</strong>. Si la velocidad de un cuerpo pasa de <em>v</em><sub>i</sub> a <em>v</em><sub>f</sub> en un tiempo Δ<em>t</em>, su aceleración media es:</p>
+<p style="text-align:center"><strong><em>a</em> = Δ<em>v</em> / Δ<em>t</em> = (<em>v</em><sub>f</sub> − <em>v</em><sub>i</sub>) / Δ<em>t</em></strong></p>
+
+<p>Su unidad es el <strong>m/s²</strong> (metro por segundo, por segundo). Una aceleración de 2 m/s² significa que <strong>la velocidad cambia 2 m/s en cada segundo</strong>.</p>
+<div class="ejemplo">
+<p><strong>Un auto que parte.</strong> Un auto pasa de 0 a 27 m/s (unos 97 km/h) en 9 s. Su aceleración media es <em>a</em> = (27 m/s − 0) / 9 s = <strong>3 m/s²</strong>: gana 3 m/s de velocidad por cada segundo.</p>
+<p><strong>Un bus que frena.</strong> Un bus pasa de 15 m/s a 0 en 5 s. <em>a</em> = (0 − 15 m/s) / 5 s = <strong>−3 m/s²</strong>.</p>
+</div>
+<p>Como la velocidad es un vector, hay aceleración cuando cambia <strong>cualquiera</strong> de sus características: la rapidez, la dirección o el sentido. Un auto que dobla una curva con el velocímetro fijo en 40 km/h <strong>está acelerando</strong>, porque cambia la dirección de su velocidad.</p>
+<h3 id="b-el-signo-de-la-aceleracion">b. El signo de la aceleración</h3>
+<p>Este es el punto más confuso del tema. En un movimiento rectilíneo, el signo de la aceleración indica <strong>hacia dónde apunta</strong>, no si el cuerpo va más rápido o más lento. Lo que decide si el cuerpo <strong>acelera</strong> (gana rapidez) o <strong>frena</strong> (pierde rapidez) es la comparación entre el signo de la velocidad y el de la aceleración:</p>
+<table>
+<thead>
+<tr>
+<th>Velocidad</th>
+<th>Aceleración</th>
+<th>Qué pasa con la rapidez</th>
+<th>Ejemplo (sentido positivo: hacia el este)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>+</td>
+<td>+</td>
+<td><strong>Aumenta</strong></td>
+<td>Auto que avanza al este y pisa el acelerador</td>
+</tr>
+<tr>
+<td>+</td>
+<td>−</td>
+<td><strong>Disminuye</strong></td>
+<td>Auto que avanza al este y frena</td>
+</tr>
+<tr>
+<td>−</td>
+<td>−</td>
+<td><strong>Aumenta</strong></td>
+<td>Auto que avanza al oeste y pisa el acelerador</td>
+</tr>
+<tr>
+<td>−</td>
+<td>+</td>
+<td><strong>Disminuye</strong></td>
+<td>Auto que avanza al oeste y frena</td>
+</tr>
+</tbody>
+</table>
+<div class="nota">
+<p><strong>La regla.</strong> Si velocidad y aceleración tienen el <strong>mismo signo</strong>, el cuerpo <strong>aumenta</strong> su rapidez. Si tienen <strong>signos opuestos</strong>, la <strong>disminuye</strong>. Una aceleración negativa <strong>no</strong> significa necesariamente frenar: depende del signo de la velocidad.</p>
+</div>
+<div class="tip">
+<p><strong>Tres errores que la PAES busca.</strong>
+1. «Si la velocidad es cero, la aceleración es cero.» Falso: una pelota lanzada hacia arriba tiene velocidad cero en el punto más alto, pero su aceleración sigue siendo la de gravedad. Si fuera cero, la pelota se quedaría flotando.
+2. «Si la velocidad es grande, la aceleración es grande.» Falso: un avión que vuela a 900 km/h en línea recta y velocidad constante tiene aceleración <strong>cero</strong>.
+3. «Aceleración negativa significa frenar.» Falso: ver la tabla.</p>
+</div>
+<h3 id="c-aceleraciones-tipicas">c. Aceleraciones típicas</h3>
+<table>
+<thead>
+<tr>
+<th>Situación</th>
+<th>Aceleración aproximada</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Auto familiar que parte</td>
+<td>2 – 4 m/s²</td>
+</tr>
+<tr>
+<td>Frenada fuerte de un auto en pavimento seco</td>
+<td>7 – 8 m/s² (en magnitud)</td>
+</tr>
+<tr>
+<td>Caída libre cerca de la superficie terrestre</td>
+<td>9,8 m/s²</td>
+</tr>
+<tr>
+<td>Despegue de un avión comercial</td>
+<td>≈ 2 – 3 m/s²</td>
+</tr>
+<tr>
+<td>Montaña rusa en su punto más exigente</td>
+<td>hasta 30 – 40 m/s²</td>
+</tr>
+</tbody>
+</table>
+<h2 id="5-la-relatividad-de-galileo">5. La relatividad de Galileo</h2>
+<h3 id="a-el-principio">a. El principio</h3>
+<p>A comienzos del siglo XVII, <strong>Galileo Galilei</strong> propuso un experimento mental: un barco que navega por un mar tranquilo a velocidad constante. Bajo cubierta, sin ventanas, las gotas que caen de una botella caen verticalmente, los peces nadan igual en todas direcciones y una pelota lanzada llega al compañero como en tierra firme. <strong>Ningún experimento hecho dentro del barco permite saber si el barco se mueve o está detenido.</strong></p>
+<p>Ese es el <strong>principio de relatividad de Galileo</strong>: las leyes del movimiento son <strong>las mismas</strong> para todos los observadores que se mueven entre sí con <strong>velocidad constante</strong> en línea recta. Esos sistemas se llaman <strong>sistemas de referencia inerciales</strong>. Por eso no sentimos que la Tierra se mueve, y por eso en un avión que vuela sin turbulencia se puede servir un café sin que se derrame.</p>
+<div class="nota">
+<p><strong>Hasta dónde vale.</strong> El principio se cumple entre sistemas con velocidad constante entre sí (en MRU). Si el sistema <strong>acelera</strong> —un bus que frena de golpe— sí se nota desde adentro: los pasajeros se van hacia adelante. Por eso el temario lo pide en «movimientos rectilíneos uniformes».</p>
+</div>
+<h3 id="b-la-suma-de-velocidades">b. La suma de velocidades</h3>
+<p>Si un cuerpo se mueve con velocidad <em>v</em>' respecto de un sistema (un tren, un río, una escalera mecánica) y ese sistema se mueve con velocidad <em>V</em> respecto del suelo, la velocidad del cuerpo respecto del suelo es:</p>
+<p style="text-align:center"><strong><em>v</em> = <em>v</em>' + <em>V</em></strong></p>
+
+<p>con los signos que correspondan en una recta.</p>
+<figure><img src="img/cap05-cinematica/suma-velocidades.svg" alt="Un tren avanza hacia la derecha a 20 metros por segundo. Dentro, un pasajero camina a 2 metros por segundo hacia adelante: desde el andén se mueve a 22 metros por segundo. Otro pasajero camina hacia atrás a 2 metros por segundo: desde el andén se mueve a 18 metros por segundo"><figcaption>Figura 3. La velocidad de un pasajero depende de quién lo mire: se suma o se resta la del tren. Diagrama propio.</figcaption></figure>
+
+<div class="ejemplo">
+<p><strong>Cuatro casos típicos.</strong></p>
+<ol>
+<li><strong>Tren.</strong> Un tren va a 20 m/s. Un pasajero camina hacia la parte delantera a 2 m/s respecto del tren. Respecto del andén: 20 + 2 = <strong>22 m/s</strong>. Si camina hacia atrás: 20 − 2 = <strong>18 m/s</strong>, siempre en el sentido del tren.</li>
+<li><strong>Escalera mecánica.</strong> Una escalera sube a 0,5 m/s y una persona sube caminando sobre ella a 1 m/s. Respecto del suelo sube a <strong>1,5 m/s</strong>. Si bajara caminando a 1 m/s por la escalera que sube, bajaría a 0,5 m/s respecto del suelo.</li>
+<li><strong>Río.</strong> Un bote avanza a 5 m/s respecto del agua en un río cuya corriente va a 2 m/s. A favor de la corriente: <strong>7 m/s</strong> respecto de la orilla; contra la corriente: <strong>3 m/s</strong>.</li>
+<li><strong>Dos autos.</strong> Dos autos van por la misma carretera en sentidos opuestos, a 80 km/h y 100 km/h respecto del suelo. Cada conductor ve acercarse al otro a 80 + 100 = <strong>180 km/h</strong>. Si van en el mismo sentido, el más rápido se aleja del otro a 100 − 80 = <strong>20 km/h</strong>.</li>
+</ol>
+</div>
+<div class="tip">
+<p><strong>Una forma de no confundirse.</strong> Escribe siempre quién se mueve <strong>respecto de quién</strong>: «velocidad del pasajero respecto del tren», «velocidad del tren respecto del suelo». La suma encadena esas frases: pasajero-tren + tren-suelo = pasajero-suelo. Y elige un sentido positivo antes de sumar.</p>
+</div>
+<h3 id="c-lo-que-cambia-y-lo-que-no-cambia-de-un-sistema-a">c. Lo que cambia y lo que no cambia de un sistema a otro</h3>
+<table>
+<thead>
+<tr>
+<th>Magnitud</th>
+<th>¿Depende del sistema de referencia inercial?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Posición</td>
+<td>Sí (depende del origen y del movimiento del observador)</td>
+</tr>
+<tr>
+<td>Velocidad</td>
+<td>Sí (se suma o resta la del sistema)</td>
+</tr>
+<tr>
+<td>Trayectoria</td>
+<td>Sí (recta en un sistema, curva en otro)</td>
+</tr>
+<tr>
+<td>Aceleración</td>
+<td><strong>No</strong>: si los sistemas se mueven entre sí con velocidad constante, todos miden la misma aceleración</td>
+</tr>
+<tr>
+<td>Intervalos de tiempo y distancias entre dos cuerpos</td>
+<td>No, en la física de Galileo</td>
+</tr>
+</tbody>
+</table>
+<p>La última fila tiene una salvedad importante: a velocidades cercanas a la de la luz, la suma de Galileo deja de funcionar y hace falta la relatividad de Einstein. Para todo lo cotidiano —autos, trenes, aviones—, la suma de velocidades de Galileo es excelente.</p>
+<h2 id="6-movimiento-rectilineo-uniforme-mru">6. Movimiento rectilíneo uniforme (MRU)</h2>
+<h3 id="a-que-lo-define">a. Qué lo define</h3>
+<p>Un cuerpo tiene <strong>movimiento rectilíneo uniforme</strong> cuando se mueve en <strong>línea recta</strong> con <strong>velocidad constante</strong>: recorre <strong>distancias iguales en tiempos iguales</strong> y nunca cambia de sentido. Su aceleración es <strong>cero</strong>.</p>
+<p>Ejemplos aproximados: un auto con control de crucero en una carretera recta, una escalera mecánica, un objeto en una cinta transportadora, la luz en el vacío. En la realidad casi ningún movimiento es exactamente uniforme, pero muchos lo son durante un tramo.</p>
+<h3 id="b-la-ecuacion-de-itinerario">b. La ecuación de itinerario</h3>
+<p>Si en <em>t</em> = 0 el cuerpo está en la posición <em>x</em><sub>0</sub> y se mueve con velocidad constante <em>v</em>, su posición en cualquier instante es:</p>
+<p style="text-align:center"><strong><em>x</em>(<em>t</em>) = <em>x</em><sub>0</sub> + <em>v</em> · <em>t</em></strong></p>
+
+<table>
+<thead>
+<tr>
+<th>Símbolo</th>
+<th>Significado</th>
+<th>Unidad</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>x</em>(<em>t</em>)</td>
+<td>Posición en el instante <em>t</em></td>
+<td>m</td>
+</tr>
+<tr>
+<td><em>x</em><sub>0</sub></td>
+<td>Posición inicial (en <em>t</em> = 0)</td>
+<td>m</td>
+</tr>
+<tr>
+<td><em>v</em></td>
+<td>Velocidad (con signo según el sentido)</td>
+<td>m/s</td>
+</tr>
+<tr>
+<td><em>t</em></td>
+<td>Tiempo transcurrido</td>
+<td>s</td>
+</tr>
+</tbody>
+</table>
+<div class="ejemplo">
+<p><strong>Leer una ecuación de itinerario.</strong> La posición de un ciclista está dada por <em>x</em>(<em>t</em>) = 50 − 4<em>t</em> (en metros y segundos).</p>
+<ul>
+<li>Parte en <em>x</em><sub>0</sub> = <strong>50 m</strong>.</li>
+<li>Su velocidad es <em>v</em> = <strong>−4 m/s</strong>: se mueve en sentido negativo, hacia el origen.</li>
+<li>En <em>t</em> = 5 s está en <em>x</em> = 50 − 20 = <strong>30 m</strong>.</li>
+<li>Pasa por el origen cuando 0 = 50 − 4<em>t</em>, es decir, en <em>t</em> = <strong>12,5 s</strong>.</li>
+</ul>
+</div>
+<h3 id="c-los-graficos-del-mru">c. Los gráficos del MRU</h3>
+<figure><img src="img/cap05-cinematica/graficos-mru.svg" alt="Tres gráficos del MRU. Posición versus tiempo: una recta inclinada que parte en x cero igual a 10 metros. Velocidad versus tiempo: una recta horizontal en 5 metros por segundo con el área bajo ella sombreada. Aceleración versus tiempo: una recta horizontal en cero"><figcaption>Figura 4. Gráficos de un MRU con <em>x</em><sub>0</sub> = 10 m y <em>v</em> = 5 m/s. Diagrama propio.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th>Gráfico</th>
+<th>Forma</th>
+<th>Qué se lee</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Posición – tiempo (<em>x</em>–<em>t</em>)</td>
+<td><strong>Recta inclinada</strong></td>
+<td>La <strong>pendiente</strong> es la velocidad. El punto donde corta el eje vertical es <em>x</em><sub>0</sub>. Más inclinada = más rápido; pendiente negativa = sentido negativo</td>
+</tr>
+<tr>
+<td>Velocidad – tiempo (<em>v</em>–<em>t</em>)</td>
+<td><strong>Recta horizontal</strong></td>
+<td>El valor es la velocidad. El <strong>área</strong> bajo la recta es el <strong>desplazamiento</strong></td>
+</tr>
+<tr>
+<td>Aceleración – tiempo (<em>a</em>–<em>t</em>)</td>
+<td>Recta sobre el eje (<em>a</em> = 0)</td>
+<td>No hay aceleración</td>
+</tr>
+</tbody>
+</table>
+<div class="ejemplo">
+<p><strong>Pendiente y área.</strong> En la figura 4, entre <em>t</em> = 0 y <em>t</em> = 4 s:</p>
+<ul>
+<li>En el gráfico <em>x</em>–<em>t</em>, la posición pasa de 10 m a 30 m: pendiente = (30 − 10) m / 4 s = <strong>5 m/s</strong>, que es la velocidad.</li>
+<li>En el gráfico <em>v</em>–<em>t</em>, el área del rectángulo es 5 m/s · 4 s = <strong>20 m</strong>, que es el desplazamiento (30 m − 10 m).</li>
+</ul>
+<p>Las dos lecturas dicen lo mismo desde gráficos distintos: es la mejor forma de comprobar un resultado.</p>
+</div>
+<h3 id="d-encuentros-y-persecuciones">d. Encuentros y persecuciones</h3>
+<p>Cuando dos cuerpos se mueven con MRU por la misma recta, se encuentran cuando <strong>están en la misma posición en el mismo instante</strong>. Para encontrar ese instante se igualan sus ecuaciones de itinerario.</p>
+<div class="ejemplo">
+<p><strong>Dos buses en la Ruta 5.</strong> Un bus sale de Talca hacia el norte a 25 m/s. En el mismo instante, otro sale de un punto 90 km al norte de Talca hacia el sur a 20 m/s. Tomando Talca como origen y el norte como positivo:</p>
+<ul>
+<li>Bus 1: <em>x</em><sub>1</sub> = 25 <em>t</em></li>
+<li>Bus 2: <em>x</em><sub>2</sub> = 90 000 − 20 <em>t</em></li>
+</ul>
+<p>Se encuentran cuando <em>x</em><sub>1</sub> = <em>x</em><sub>2</sub>: 25 <em>t</em> = 90 000 − 20 <em>t</em> → 45 <em>t</em> = 90 000 → <em>t</em> = <strong>2 000 s</strong> (unos 33 minutos), en <em>x</em> = 25 · 2 000 = <strong>50 000 m</strong>, es decir, a 50 km al norte de Talca.</p>
+<p>Atajo: como se acercan uno al otro, la rapidez con que se acorta la distancia entre ellos es 25 + 20 = 45 m/s (relatividad de Galileo). El tiempo es 90 000 m / 45 m/s = 2 000 s.</p>
+</div>
+<p>En un gráfico <em>x</em>–<em>t</em>, el encuentro es el <strong>punto donde se cruzan</strong> las dos rectas.</p>
+<h2 id="7-movimiento-rectilineo-uniformemente-acelerado-mr">7. Movimiento rectilíneo uniformemente acelerado (MRUA)</h2>
+<h3 id="a-que-lo-define-2">a. Qué lo define</h3>
+<p>Un cuerpo tiene <strong>movimiento rectilíneo uniformemente acelerado</strong> cuando se mueve en línea recta con <strong>aceleración constante</strong>. Su velocidad cambia <strong>lo mismo en cada segundo</strong>. Si la aceleración va en el mismo sentido que la velocidad, el cuerpo gana rapidez; si va en sentido contrario, la pierde (sección 4).</p>
+<p>Ejemplos: un auto que parte en un semáforo con aceleración pareja, un tren que frena al llegar a la estación, una pelota que cae (si se desprecia el aire), un carro que baja por un plano inclinado.</p>
+<h3 id="b-las-ecuaciones">b. Las ecuaciones</h3>
+<p>Con <em>x</em><sub>0</sub> y <em>v</em><sub>0</sub> la posición y la velocidad en <em>t</em> = 0, y <em>a</em> constante:</p>
+<p style="text-align:center"><strong><em>v</em>(<em>t</em>) = <em>v</em><sub>0</sub> + <em>a</em> · <em>t</em></strong></p>
+<p style="text-align:center"><strong><em>x</em>(<em>t</em>) = <em>x</em><sub>0</sub> + <em>v</em><sub>0</sub> · <em>t</em> + ½ · <em>a</em> · <em>t</em>²</strong> &nbsp;&nbsp; (ecuación de itinerario)</p>
+<p style="text-align:center"><strong><em>v</em>² = <em>v</em><sub>0</sub>² + 2 · <em>a</em> · Δ<em>x</em></strong> &nbsp;&nbsp; (sin el tiempo)</p>
+
+<p>Y una cuarta, muy útil: como la velocidad cambia de forma pareja, la <strong>velocidad media</strong> en un MRUA es el promedio de la inicial y la final, <em>v</em><sub>media</sub> = (<em>v</em><sub>0</sub> + <em>v</em>) / 2, y el desplazamiento es Δ<em>x</em> = <em>v</em><sub>media</sub> · <em>t</em>.</p>
+<div class="tip">
+<p><strong>Por qué aparece <em>t</em>² en la posición.</strong> En un MRUA la velocidad crece con el tiempo, así que en cada segundo se recorre <strong>más</strong> que en el anterior. Partiendo del reposo, las distancias recorridas en el primer, segundo, tercer segundo… están en la proporción <strong>1 : 3 : 5 : 7…</strong>, y las distancias acumuladas en la proporción <strong>1 : 4 : 9 : 16…</strong> (los cuadrados). Es lo que encontró Galileo al hacer rodar esferas por un plano inclinado: la distancia es proporcional al cuadrado del tiempo.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Un auto que parte del reposo.</strong> Un auto parte desde un semáforo con aceleración constante de 2 m/s².</p>
+<ul>
+<li>A los 5 s: <em>v</em> = 0 + 2 · 5 = <strong>10 m/s</strong> (36 km/h).</li>
+<li>Posición a los 5 s (origen en el semáforo): <em>x</em> = 0 + 0 + ½ · 2 · 5² = <strong>25 m</strong>.</li>
+<li>A los 10 s: <em>v</em> = 20 m/s y <em>x</em> = ½ · 2 · 100 = <strong>100 m</strong>. En el doble de tiempo recorrió el <strong>cuádruple</strong> de distancia.</li>
+</ul>
+</div>
+<div class="ejemplo">
+<p><strong>Distancia de frenado.</strong> Un auto va a 20 m/s (72 km/h) y frena con aceleración de −5 m/s² hasta detenerse. Con la ecuación sin tiempo: 0 = 20² + 2 · (−5) · Δ<em>x</em> → Δ<em>x</em> = 400 / 10 = <strong>40 m</strong>. Tarda <em>t</em> = (0 − 20) / (−5) = <strong>4 s</strong>.</p>
+<p>Si el auto fuera al doble de rapidez (40 m/s), la distancia de frenado sería 1 600 / 10 = <strong>160 m</strong>: <strong>cuatro veces</strong> más, porque depende del <strong>cuadrado</strong> de la velocidad. Por eso los límites de velocidad importan tanto.</p>
+</div>
+<h3 id="c-los-graficos-del-mrua">c. Los gráficos del MRUA</h3>
+<figure><img src="img/cap05-cinematica/graficos-mrua.svg" alt="Tres gráficos de un MRUA que parte del reposo con aceleración de 2 metros por segundo al cuadrado. Posición versus tiempo: una parábola que se curva hacia arriba. Velocidad versus tiempo: una recta inclinada que parte del origen con el área triangular bajo ella sombreada. Aceleración versus tiempo: una recta horizontal en 2"><figcaption>Figura 5. Gráficos de un MRUA con <em>x</em><sub>0</sub> = 0, <em>v</em><sub>0</sub> = 0 y <em>a</em> = 2 m/s². Diagrama propio.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th>Gráfico</th>
+<th>Forma</th>
+<th>Qué se lee</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Posición – tiempo</td>
+<td><strong>Parábola</strong> (curva)</td>
+<td>La pendiente en cada punto es la velocidad instantánea: si la curva se empina, el cuerpo va cada vez más rápido</td>
+</tr>
+<tr>
+<td>Velocidad – tiempo</td>
+<td><strong>Recta inclinada</strong></td>
+<td>La <strong>pendiente</strong> es la aceleración. El <strong>área</strong> bajo la recta es el desplazamiento. El corte con el eje vertical es <em>v</em><sub>0</sub></td>
+</tr>
+<tr>
+<td>Aceleración – tiempo</td>
+<td><strong>Recta horizontal</strong></td>
+<td>El valor es la aceleración. El área es el cambio de velocidad</td>
+</tr>
+</tbody>
+</table>
+<div class="ejemplo">
+<p><strong>Leer el gráfico <em>v</em>–<em>t</em> de la figura 5.</strong> Entre 0 y 5 s la velocidad sube de 0 a 10 m/s.</p>
+<ul>
+<li>Pendiente = (10 − 0) m/s / 5 s = <strong>2 m/s²</strong>: la aceleración.</li>
+<li>Área del triángulo = ½ · 5 s · 10 m/s = <strong>25 m</strong>: el desplazamiento. Coincide con el cálculo de la ecuación de itinerario.</li>
+</ul>
+</div>
+<h3 id="d-caida-libre-y-lanzamiento-vertical">d. Caída libre y lanzamiento vertical</h3>
+<p>Un cuerpo que se mueve <strong>solo bajo la acción de la gravedad</strong> —sin que el aire influya de forma apreciable— tiene un MRUA con una aceleración dirigida hacia abajo cuyo valor, cerca de la superficie terrestre, es</p>
+<p style="text-align:center"><strong><em>g</em> ≈ 9,8 m/s²</strong> &nbsp;&nbsp; (en muchos ejercicios se aproxima a 10 m/s²)</p>
+
+<p>Tres ideas clave:</p>
+<ol>
+<li><strong>Todos los cuerpos caen con la misma aceleración</strong>, sin importar su masa, si no hay aire. Aristóteles sostenía que los cuerpos pesados caen más rápido; Galileo mostró que no, con sus experimentos de planos inclinados y con argumentos. (La famosa escena de Galileo soltando esferas desde la Torre de Pisa probablemente es una leyenda: no hay registro de que la haya hecho.) En 1971, en la Luna, el astronauta David Scott (Apolo 15) soltó a la vez un martillo y una pluma: llegaron juntos al suelo, porque allí no hay aire.</li>
+<li>En la Tierra, el <strong>roce con el aire</strong> frena más a los cuerpos livianos y extendidos: una hoja de papel extendida cae más lento que una bolita, pero si arrugas la hoja, caen casi juntas. La diferencia la hace el aire, no la masa.</li>
+<li>En un <strong>lanzamiento vertical hacia arriba</strong>, la aceleración es <em>g</em> hacia abajo <strong>durante todo el movimiento</strong>: al subir, la velocidad disminuye 9,8 m/s cada segundo; en el punto más alto, la velocidad es cero <strong>pero la aceleración no</strong>; al bajar, la rapidez aumenta 9,8 m/s cada segundo. El tiempo de subida es igual al de bajada hasta el mismo nivel.</li>
+</ol>
+<div class="ejemplo">
+<p><strong>Una piedra lanzada hacia arriba</strong> a 20 m/s (usando <em>g</em> = 10 m/s², con el sentido positivo hacia arriba, así que <em>a</em> = −10 m/s²):</p>
+<ul>
+<li>Tiempo de subida: 0 = 20 − 10 <em>t</em> → <em>t</em> = <strong>2 s</strong>.</li>
+<li>Altura máxima: 0 = 20² − 2 · 10 · <em>h</em> → <em>h</em> = <strong>20 m</strong>.</li>
+<li>Vuelve a la mano a los <strong>4 s</strong>, con rapidez de <strong>20 m/s</strong> hacia abajo.</li>
+</ul>
+<p>El gráfico <em>v</em>–<em>t</em> de este movimiento es <strong>una sola recta</strong> con pendiente −10 m/s² que cruza el eje del tiempo en <em>t</em> = 2 s: la velocidad pasa de positiva a negativa sin que la pendiente (la aceleración) cambie nunca.</p>
+</div>
+<h2 id="8-como-leer-los-graficos-de-movimiento">8. Cómo leer los gráficos de movimiento</h2>
+<h3 id="a-tres-preguntas-antes-de-responder">a. Tres preguntas antes de responder</h3>
+<p>Casi todas las preguntas de cinemática en la PAES traen un gráfico. Antes de calcular nada, conviene hacerse tres preguntas:</p>
+<ol>
+<li><strong>¿Qué magnitud está en el eje vertical?</strong> Posición, velocidad o aceleración. Un mismo dibujo significa cosas muy distintas en cada caso.</li>
+<li><strong>¿Qué me piden: una pendiente o un área?</strong> La <strong>pendiente</strong> da la magnitud «siguiente» (de <em>x</em> a <em>v</em>, de <em>v</em> a <em>a</em>). El <strong>área</strong> bajo la curva da la magnitud «anterior» acumulada (bajo <em>v</em>, el desplazamiento; bajo <em>a</em>, el cambio de velocidad).</li>
+<li><strong>¿Qué pasa en cada tramo?</strong> Los gráficos suelen tener tramos con movimientos distintos: se analizan por separado.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Si el gráfico es…</th>
+<th>Pendiente</th>
+<th>Área bajo la curva</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Posición – tiempo</td>
+<td>Velocidad</td>
+<td>(no tiene significado útil)</td>
+</tr>
+<tr>
+<td>Velocidad – tiempo</td>
+<td>Aceleración</td>
+<td>Desplazamiento</td>
+</tr>
+<tr>
+<td>Aceleración – tiempo</td>
+<td>(no se usa en la PAES)</td>
+<td>Cambio de velocidad</td>
+</tr>
+</tbody>
+</table>
+<h3 id="b-un-grafico-con-tramos">b. Un gráfico con tramos</h3>
+<figure><img src="img/cap05-cinematica/grafico-tramos.svg" alt="Gráfico de velocidad versus tiempo de un auto: de 0 a 4 segundos la velocidad sube de 0 a 12 metros por segundo; de 4 a 10 segundos se mantiene en 12; de 10 a 13 segundos baja a 0. Las tres áreas están sombreadas con sus valores: 24, 72 y 18 metros"><figcaption>Figura 6. Gráfico velocidad–tiempo de un auto entre dos semáforos, con tres tramos. Diagrama propio.</figcaption></figure>
+
+<div class="ejemplo">
+<p><strong>Analizar la figura 6 tramo por tramo.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tramo</th>
+<th>Qué hace el auto</th>
+<th>Aceleración (pendiente)</th>
+<th>Desplazamiento (área)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0 – 4 s</td>
+<td>Parte y acelera (MRUA)</td>
+<td>12 / 4 = <strong>3 m/s²</strong></td>
+<td>½ · 4 · 12 = <strong>24 m</strong></td>
+</tr>
+<tr>
+<td>4 – 10 s</td>
+<td>Velocidad constante (MRU)</td>
+<td><strong>0</strong></td>
+<td>6 · 12 = <strong>72 m</strong></td>
+</tr>
+<tr>
+<td>10 – 13 s</td>
+<td>Frena hasta detenerse (MRUA)</td>
+<td>−12 / 3 = <strong>−4 m/s²</strong></td>
+<td>½ · 3 · 12 = <strong>18 m</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Desplazamiento total: 24 + 72 + 18 = <strong>114 m</strong>. Velocidad media en todo el viaje: 114 m / 13 s ≈ <strong>8,8 m/s</strong>.</p>
+</div>
+<h3 id="c-errores-que-la-prueba-aprovecha">c. Errores que la prueba aprovecha</h3>
+<div class="tip">
+<p><strong>1. Leer el gráfico equivocado.</strong> En un gráfico <em>x</em>–<em>t</em>, una recta horizontal significa que el cuerpo está <strong>detenido</strong>. En un gráfico <em>v</em>–<em>t</em>, una recta horizontal significa que va con <strong>velocidad constante</strong>. Es el error más caro del tema.</p>
+<p><strong>2. Confundir cruce con encuentro.</strong> Si dos rectas se cruzan en un gráfico <em>x</em>–<em>t</em>, los cuerpos están en el mismo lugar: <strong>se encuentran</strong>. Si se cruzan en un gráfico <em>v</em>–<em>t</em>, solo tienen <strong>la misma velocidad</strong> en ese instante; pueden estar a kilómetros uno del otro.</p>
+<p><strong>3. Olvidar el signo del área.</strong> En un gráfico <em>v</em>–<em>t</em>, el área <strong>bajo el eje</strong> del tiempo es un desplazamiento <strong>negativo</strong> (el cuerpo va en sentido contrario). Para el <strong>desplazamiento</strong> se suman las áreas con su signo; para la <strong>distancia recorrida</strong> se suman todas como positivas.</p>
+<p><strong>4. Creer que la curva es la trayectoria.</strong> Un gráfico <em>x</em>–<em>t</em> con forma de colina <strong>no</strong> significa que el cuerpo subió un cerro: puede ser un auto en una calle recta que avanzó, se detuvo y volvió.</p>
+</div>
+<h3 id="d-como-reconocer-el-tipo-de-movimiento">d. Cómo reconocer el tipo de movimiento</h3>
+<table>
+<thead>
+<tr>
+<th>Movimiento</th>
+<th>Gráfico <em>x</em>–<em>t</em></th>
+<th>Gráfico <em>v</em>–<em>t</em></th>
+<th>Gráfico <em>a</em>–<em>t</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Reposo</td>
+<td>Horizontal</td>
+<td>Sobre el eje (<em>v</em> = 0)</td>
+<td>Sobre el eje</td>
+</tr>
+<tr>
+<td>MRU</td>
+<td>Recta inclinada</td>
+<td>Horizontal (≠ 0)</td>
+<td>Sobre el eje</td>
+</tr>
+<tr>
+<td>MRUA que aumenta su rapidez</td>
+<td>Curva que se empina</td>
+<td>Recta que se aleja del eje</td>
+<td>Horizontal (≠ 0)</td>
+</tr>
+<tr>
+<td>MRUA que disminuye su rapidez</td>
+<td>Curva que se aplana</td>
+<td>Recta que se acerca al eje</td>
+<td>Horizontal (≠ 0)</td>
+</tr>
+</tbody>
+</table>
+<p>Un cuerpo <strong>cambia de sentido</strong> en el instante en que su velocidad pasa por cero: en el gráfico <em>v</em>–<em>t</em>, cuando la recta cruza el eje del tiempo; en el gráfico <em>x</em>–<em>t</em>, en el punto más alto o más bajo de la curva.</p>
+<h3 id="e-una-aplicacion-la-distancia-de-detencion">e. Una aplicación: la distancia de detención</h3>
+<p>Cuando un conductor ve un peligro, el auto no empieza a frenar de inmediato. Pasa primero un <strong>tiempo de reacción</strong> —en promedio <strong>1 segundo</strong> para un conductor atento, según CONASET, y bastante más si está cansado, distraído o bebió alcohol— en el que el auto sigue en <strong>MRU</strong>. Después viene el frenado, que es un <strong>MRUA</strong>. La distancia de detención es la suma de ambas:</p>
+<figure><img src="img/cap05-cinematica/distancia-detencion.svg" alt="Gráfico velocidad versus tiempo de un auto a 20 metros por segundo: se mantiene constante durante 1 segundo de reacción y luego baja en línea recta hasta cero en 4 segundos más. El área del rectángulo es 20 metros y la del triángulo 40 metros"><figcaption>Figura 7. La distancia de detención es el área bajo el gráfico <em>v</em>–<em>t</em>: reacción (MRU) más frenado (MRUA). Diagrama propio.</figcaption></figure>
+
+<div class="ejemplo">
+<p><strong>A 72 km/h (20 m/s), con 1 s de reacción y frenado de −5 m/s².</strong></p>
+<ul>
+<li>Reacción: 20 m/s · 1 s = <strong>20 m</strong> (el rectángulo).</li>
+<li>Frenado: 20² / (2 · 5) = <strong>40 m</strong> (el triángulo).</li>
+<li>Distancia de detención: <strong>60 m</strong>.</li>
+</ul>
+<p>A 50 km/h (≈ 13,9 m/s), con los mismos datos: reacción ≈ 13,9 m y frenado ≈ 19,3 m, en total unos <strong>33 m</strong>, casi la mitad. Esta es la base física de la ley que en 2018 bajó el límite urbano en Chile de 60 a 50 km/h.</p>
+</div>
+<h2 id="ejemplos-paes-resueltos">Ejemplos PAES resueltos</h2>
+<p>Cuatro ítems al estilo de la prueba, resueltos paso a paso. Cúbrelos primero y después compara.</p>
+<div class="ejemplo">
+<p><strong>Ejemplo 1 (Procesar y analizar la evidencia).</strong> Un sensor de movimiento registra la posición de un carro que se mueve por un riel recto:</p>
+<table>
+<thead>
+<tr>
+<th>Tiempo (s)</th>
+<th>0</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Posición (m)</td>
+<td>0</td>
+<td>0,5</td>
+<td>2,0</td>
+<td>4,5</td>
+<td>8,0</td>
+</tr>
+</tbody>
+</table>
+<p>¿Cuál de las siguientes conclusiones es coherente con estos datos?</p>
+<p>A) El carro se mueve con velocidad constante de 2 m/s.
+B) El carro se mueve con aceleración constante de 1 m/s².
+C) El carro se mueve con aceleración constante de 0,5 m/s².
+D) La aceleración del carro aumenta con el tiempo.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>¿Velocidad constante?</strong> En segundos iguales recorre distancias distintas: 0,5 m, 1,5 m, 2,5 m y 3,5 m. No es MRU: A cae. (El 2 m/s de A es la velocidad <strong>media</strong> de todo el recorrido, 8 m / 4 s: un dato verdadero pero que no describe el movimiento.)</li>
+<li><strong>¿Aceleración constante?</strong> Las distancias de cada segundo crecen de a 1 m (0,5 → 1,5 → 2,5 → 3,5): la proporción 1 : 3 : 5 : 7 del MRUA desde el reposo. Además, <em>x</em> = ½ <em>a</em> <em>t</em>²: con <em>t</em> = 2 s, 2,0 = ½ · <em>a</em> · 4 → <em>a</em> = <strong>1 m/s²</strong>. Se comprueba con <em>t</em> = 4 s: ½ · 1 · 16 = 8,0 m.</li>
+<li>C es el error de olvidar el ½ al revés (tomar <em>x</em> = <em>a</em> <em>t</em>²). D no calza: si <em>a</em> aumentara, las diferencias entre segundos consecutivos crecerían, y aquí son constantes.</li>
+</ol>
+<p><strong>Clave: B.</strong></p>
+<p><strong>Lo que evalúa.</strong> Reconocer un patrón en una tabla y usar una relación matemática para confirmarlo.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 2 (Planificar y conducir una investigación).</strong> Un grupo quiere averiguar si el tiempo que tarda una bolita en bajar por un plano inclinado depende de la masa de la bolita. Tienen tres bolitas de igual tamaño y distinta masa, un riel, un transportador y un cronómetro.</p>
+<p>¿Cuál es el diseño adecuado?</p>
+<p>A) Soltar cada bolita desde la misma posición del mismo riel, con la misma inclinación, y medir varias veces el tiempo de bajada.
+B) Soltar las tres bolitas desde la misma altura en rieles de distinta inclinación y medir el tiempo de cada una.
+C) Soltar la bolita más pesada desde distintas alturas del riel y medir el tiempo que tarda en cada caso.
+D) Soltar las tres bolitas a la vez por el mismo riel y registrar cuál llega primero al final.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Variables.</strong> Independiente: la masa. Dependiente: el tiempo de bajada. Controladas: inclinación, distancia recorrida, tamaño de la bolita y el riel.</li>
+<li><strong>Descartar.</strong> B cambia a la vez la masa y la inclinación: no se sabría cuál causó la diferencia. C deja fija la masa y cambia la altura: responde otra pregunta. D pone las bolitas a chocar entre sí en el mismo riel y no mide el tiempo de cada una.</li>
+<li><strong>A</strong> varía solo la masa, controla lo demás y <strong>repite</strong> las mediciones para reducir el error del cronómetro.</li>
+</ol>
+<p><strong>Clave: A.</strong></p>
+<p><strong>Lo que evalúa.</strong> Controlar variables y reconocer la importancia de repetir mediciones. (Si se hace, el resultado es el mismo que obtuvo Galileo: el tiempo no depende de la masa.)</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 3 (Evaluar).</strong> Una estudiante lanza una pelota verticalmente hacia arriba y afirma: «En el punto más alto la pelota está detenida, así que en ese instante su aceleración es cero».</p>
+<p>¿Cuál de las siguientes es la mejor evaluación de la afirmación?</p>
+<p>A) Es correcta, porque si la velocidad es cero no puede haber aceleración.
+B) Es correcta, porque en el punto más alto la gravedad deja de actuar un instante.
+C) Es incorrecta, porque la aceleración sigue siendo la de gravedad, dirigida hacia abajo.
+D) Es incorrecta, porque en el punto más alto la aceleración es máxima y apunta hacia arriba.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué dice la teoría.</strong> En un lanzamiento vertical, si se desprecia el aire, la aceleración es <em>g</em> hacia abajo <strong>durante todo</strong> el movimiento.</li>
+<li><strong>Por qué no puede ser cero.</strong> Si en el punto más alto la aceleración fuera cero con la velocidad también cero, la velocidad no cambiaría y la pelota se quedaría flotando. Justo porque hay aceleración hacia abajo, la velocidad pasa de cero a apuntar hacia abajo y la pelota cae.</li>
+<li><strong>Descartar.</strong> A confunde velocidad nula con aceleración nula. B inventa que la gravedad se apaga. D tiene razón en que no es cero, pero se equivoca en el valor (no es «máxima»: es la misma todo el tiempo) y en el sentido.</li>
+</ol>
+<p><strong>Clave: C.</strong></p>
+<p><strong>Lo que evalúa.</strong> Juzgar una afirmación con el modelo físico correcto, en una de las confusiones más frecuentes de la cinemática.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 4 (Observar y plantear preguntas).</strong> En el andén, un niño observa que una gota de lluvia que resbala por la ventana de un tren detenido baja en línea recta vertical. Cuando el tren avanza con velocidad constante, las gotas que caen afuera dejan en el vidrio trazos inclinados hacia atrás.</p>
+<p>¿Cuál de las siguientes preguntas se puede responder con una investigación a partir de esta observación?</p>
+<p>A) ¿Por qué la lluvia es más frecuente en invierno que en verano?
+B) ¿La inclinación de los trazos depende de la rapidez del tren?
+C) ¿Es más peligroso viajar en tren cuando llueve?
+D) ¿Qué forma tienen realmente las gotas de lluvia?</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué se observa.</strong> La trayectoria de las gotas depende del sistema de referencia: vertical para el andén, inclinada vista desde el tren en movimiento (relatividad del movimiento).</li>
+<li><strong>Qué pregunta nace de ahí y se puede investigar.</strong> B relaciona dos variables medibles (rapidez del tren e inclinación de los trazos) y se puede responder midiendo. Además, la predicción es clara: a mayor rapidez del tren, trazos más inclinados, porque la velocidad horizontal relativa de la gota aumenta.</li>
+<li><strong>Descartar.</strong> A y D no se relacionan con la observación. C no es una pregunta científica medible tal como está planteada: «peligroso» no está definido como variable.</li>
+</ol>
+<p><strong>Clave: B.</strong></p>
+<p><strong>Lo que evalúa.</strong> Formular una pregunta investigable, con variables medibles, a partir de una observación.</p>
+</div>
+<h2 id="evaluacion-formativa">Evaluación formativa</h2>
+<p>Veinte preguntas sobre sistemas de referencia, distancia y desplazamiento, rapidez y velocidad, aceleración, relatividad de Galileo, MRU, MRUA y gráficos de movimiento. Responde todas y luego revisa las explicaciones.</p>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>1.</strong> Una pasajera va sentada en un bus que avanza por la Alameda. ¿Cuál afirmación es correcta?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Está en reposo, porque no se mueve de su asiento.</li>
+    <li data-letra="B">Está en movimiento, porque el bus está en la calle.</li>
+    <li data-letra="C">Está en reposo respecto del bus y en movimiento respecto de la calle.</li>
+    <li data-letra="D">Está en movimiento respecto del bus y en reposo respecto de la calle.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Reposo y movimiento dependen del sistema de referencia. Respecto del bus su posición no cambia; respecto de la calle, sí. Las opciones A y B dan por absoluto algo que es relativo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>2.</strong> Un pasajero deja caer una moneda dentro de un tren que avanza en línea recta con velocidad constante. ¿Qué trayectoria ve un observador parado en el andén?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Una curva que avanza en el sentido del tren.</li>
+    <li data-letra="B">Una recta vertical, igual que la ve el pasajero.</li>
+    <li data-letra="C">Una recta inclinada hacia atrás del tren.</li>
+    <li data-letra="D">Una curva que retrocede respecto del tren.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La moneda tiene, al soltarse, la misma velocidad horizontal que el tren. El pasajero la ve caer en línea recta, pero desde el andén avanza mientras cae y describe una curva (una parábola). La trayectoria depende del sistema de referencia.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>3.</strong> Un perro corre 30 m hacia el este y luego 10 m hacia el oeste. ¿Cuáles son su distancia recorrida y su desplazamiento?</p>
+  <ol class="alternativas">
+    <li data-letra="A">20 m y 40 m al este.</li>
+    <li data-letra="B">40 m y 40 m al este.</li>
+    <li data-letra="C">20 m y 20 m al este.</li>
+    <li data-letra="D">40 m y 20 m al este.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>La distancia suma todo el camino: 30 + 10 = 40 m. El desplazamiento es el cambio neto de posición: 30 − 10 = 20 m hacia el este. Las alternativas A y C confunden una magnitud con la otra.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>4.</strong> Una ciclista da tres vueltas completas a una pista circular de 250 m en 150 s y termina donde partió. ¿Cuál es su velocidad media?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0 m/s</li>
+    <li data-letra="B">1,7 m/s</li>
+    <li data-letra="C">5 m/s</li>
+    <li data-letra="D">750 m/s</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La velocidad media es el desplazamiento dividido por el tiempo. Como termina donde partió, el desplazamiento es cero y la velocidad media también. Su rapidez media, en cambio, es 750 m / 150 s = 5 m/s.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>5.</strong> Un auto viaja 60 km a 60 km/h y luego otros 60 km a 30 km/h. ¿Cuál es su rapidez media en todo el viaje?</p>
+  <ol class="alternativas">
+    <li data-letra="A">30 km/h</li>
+    <li data-letra="B">35 km/h</li>
+    <li data-letra="C">40 km/h</li>
+    <li data-letra="D">45 km/h</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>La rapidez media es distancia total sobre tiempo total. El primer tramo dura 1 h y el segundo 2 h: 120 km / 3 h = 40 km/h. El promedio simple, 45 km/h, es incorrecto porque el auto pasa más tiempo yendo lento.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>6.</strong> ¿A cuántos metros por segundo equivale una rapidez de 90 km/h?</p>
+  <ol class="alternativas">
+    <li data-letra="A">25 m/s</li>
+    <li data-letra="B">32 m/s</li>
+    <li data-letra="C">54 m/s</li>
+    <li data-letra="D">324 m/s</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Para pasar de km/h a m/s se divide por 3,6: 90 / 3,6 = 25 m/s. Multiplicar por 3,6 en vez de dividir da 324, un error típico de conversión.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>7.</strong> Dos autos se cruzan en una carretera recta, cada uno a 80 km/h en sentidos opuestos. ¿Qué tienen en común?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La misma velocidad y la misma aceleración.</li>
+    <li data-letra="B">La misma rapidez, pero distinta velocidad.</li>
+    <li data-letra="C">La misma velocidad, pero distinta rapidez.</li>
+    <li data-letra="D">Distinta rapidez y distinta velocidad.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>La rapidez es solo la magnitud: ambos van a 80 km/h. La velocidad incluye el sentido, y como van en sentidos opuestos, sus velocidades son distintas (+80 y −80 km/h).</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>8.</strong> Un tren se mueve con velocidad de +15 m/s y frena con aceleración constante de −3 m/s². ¿Qué velocidad tiene 4 s después?</p>
+  <ol class="alternativas">
+    <li data-letra="A">−3 m/s</li>
+    <li data-letra="B">+3 m/s</li>
+    <li data-letra="C">+12 m/s</li>
+    <li data-letra="D">+27 m/s</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>v = v₀ + a·t = 15 + (−3)·4 = 3 m/s. Aún avanza en sentido positivo, más lento. Sumar la aceleración como si fuera positiva lleva a 27 m/s.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>9.</strong> Un auto avanza hacia el oeste (sentido negativo) y su aceleración también es negativa. ¿Qué ocurre con su rapidez?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Disminuye, porque la aceleración es negativa.</li>
+    <li data-letra="B">Se mantiene, porque los signos se anulan entre sí.</li>
+    <li data-letra="C">Aumenta, porque ambas tienen el mismo signo.</li>
+    <li data-letra="D">Disminuye, porque se mueve en sentido negativo.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Si velocidad y aceleración tienen el mismo signo, la rapidez aumenta, sin importar si ese signo es positivo o negativo. Aceleración negativa no significa frenar.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>10.</strong> Un avión comercial vuela en línea recta a 900 km/h constantes. ¿Cuál es su aceleración?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Cero, porque su velocidad no cambia.</li>
+    <li data-letra="B">Muy grande, porque su velocidad es muy alta.</li>
+    <li data-letra="C">Igual a la de gravedad, porque está en el aire.</li>
+    <li data-letra="D">Negativa, porque el aire se opone a su avance.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La aceleración mide cambios de velocidad, no su valor. Si la velocidad es constante en magnitud y dirección, la aceleración es cero, por alta que sea la velocidad.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>11.</strong> Una escalera mecánica sube a 0,5 m/s. Una persona baja por ella caminando a 1,5 m/s respecto de la escalera. ¿Cuál es su velocidad respecto del suelo?</p>
+  <ol class="alternativas">
+    <li data-letra="A">2,0 m/s hacia arriba.</li>
+    <li data-letra="B">1,0 m/s hacia arriba.</li>
+    <li data-letra="C">2,0 m/s hacia abajo.</li>
+    <li data-letra="D">1,0 m/s hacia abajo.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Con la suma de velocidades de Galileo y el sentido hacia arriba como positivo: −1,5 + 0,5 = −1,0 m/s, es decir, 1,0 m/s hacia abajo. Sumar las rapideces sin considerar los sentidos da 2,0 m/s.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>12.</strong> Según la relatividad de Galileo, ¿qué magnitud miden igual dos observadores que se mueven entre sí con velocidad constante?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La velocidad de un auto que pasa.</li>
+    <li data-letra="B">La aceleración de un auto que pasa.</li>
+    <li data-letra="C">La posición de un auto que pasa.</li>
+    <li data-letra="D">La trayectoria de un auto que pasa.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Entre sistemas inerciales cambian la posición, la velocidad y la trayectoria, pero la aceleración es la misma: la velocidad relativa entre los observadores es constante y no aporta cambios de velocidad.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>13.</strong> La posición de un ciclista es x = 20 + 5t (en m y s). ¿Dónde está a los 4 s?</p>
+  <ol class="alternativas">
+    <li data-letra="A">20 m</li>
+    <li data-letra="B">25 m</li>
+    <li data-letra="C">40 m</li>
+    <li data-letra="D">100 m</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Se reemplaza t = 4 s: x = 20 + 5·4 = 40 m. Olvidar la posición inicial da 20 m (solo el desplazamiento); multiplicar 20 · 5 da 100 m.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>14.</strong> En un gráfico posición–tiempo, un cuerpo aparece como una recta horizontal. ¿Qué indica?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Que el cuerpo está en reposo.</li>
+    <li data-letra="B">Que el cuerpo tiene velocidad constante.</li>
+    <li data-letra="C">Que el cuerpo tiene aceleración constante.</li>
+    <li data-letra="D">Que el cuerpo se mueve por una trayectoria recta.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Si la posición no cambia con el tiempo, el cuerpo está detenido. Una recta horizontal significaría velocidad constante solo en un gráfico velocidad–tiempo: es el error más caro del tema.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>15.</strong> El gráfico velocidad–tiempo de un carro es una recta horizontal en 6 m/s entre t = 0 y t = 5 s. ¿Cuánto se desplazó?</p>
+  <ol class="alternativas">
+    <li data-letra="A">1,2 m</li>
+    <li data-letra="B">6 m</li>
+    <li data-letra="C">11 m</li>
+    <li data-letra="D">30 m</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>El desplazamiento es el área bajo el gráfico velocidad–tiempo: 6 m/s · 5 s = 30 m. Dividir en vez de multiplicar da 1,2 m.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>16.</strong> El gráfico velocidad–tiempo de una moto es una recta que sube de 0 a 20 m/s en 4 s. ¿Cuál es su aceleración y cuánto avanzó?</p>
+  <ol class="alternativas">
+    <li data-letra="A">5 m/s² y 80 m</li>
+    <li data-letra="B">5 m/s² y 40 m</li>
+    <li data-letra="C">80 m/s² y 5 m</li>
+    <li data-letra="D">20 m/s² y 40 m</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>La pendiente da la aceleración: 20 / 4 = 5 m/s². El área del triángulo da el desplazamiento: ½ · 4 · 20 = 40 m. Olvidar el ½ del triángulo da 80 m.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>17.</strong> Dos autos A y B se representan en un mismo gráfico velocidad–tiempo, y sus rectas se cruzan en t = 3 s. ¿Qué se puede afirmar?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Que en t = 3 s los autos se encuentran.</li>
+    <li data-letra="B">Que en t = 3 s ambos están detenidos.</li>
+    <li data-letra="C">Que en t = 3 s tienen la misma velocidad.</li>
+    <li data-letra="D">Que en t = 3 s tienen la misma aceleración.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>En un gráfico velocidad–tiempo, un cruce solo indica igual velocidad en ese instante. Los autos se encuentran cuando se cruzan sus gráficos posición–tiempo, no los de velocidad.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>18.</strong> Un auto parte del reposo con aceleración constante. Si en los primeros 2 s recorre 4 m, ¿cuánto habrá recorrido en total a los 4 s?</p>
+  <ol class="alternativas">
+    <li data-letra="A">6 m</li>
+    <li data-letra="B">8 m</li>
+    <li data-letra="C">12 m</li>
+    <li data-letra="D">16 m</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Desde el reposo, x = ½·a·t², así que la distancia es proporcional al cuadrado del tiempo: al duplicar el tiempo, la distancia se cuadruplica: 4 · 4 = 16 m. Suponer proporcionalidad directa da 8 m.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>19.</strong> Se suelta una bolita de acero y una hoja de papel extendida desde la misma altura, y la bolita llega antes. Al repetirlo con la hoja arrugada, llegan casi juntas. ¿Qué concluye esta evidencia?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Que los cuerpos más pesados caen con mayor aceleración.</li>
+    <li data-letra="B">Que la hoja arrugada aumenta su masa y por eso cae más rápido.</li>
+    <li data-letra="C">Que la gravedad actúa distinto sobre el papel y el metal.</li>
+    <li data-letra="D">Que la diferencia inicial se debía al roce con el aire.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Al arrugar la hoja su masa no cambia, pero sí su área expuesta al aire, y ahora cae casi como la bolita. La diferencia la hacía el aire, no la masa: sin aire, todos los cuerpos caen con la misma aceleración.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>20.</strong> Una pelota se lanza verticalmente hacia arriba a 30 m/s (usa g = 10 m/s²). ¿Cuánto tarda en llegar a la altura máxima y cuál es esa altura?</p>
+  <ol class="alternativas">
+    <li data-letra="A">3 s y 90 m</li>
+    <li data-letra="B">3 s y 45 m</li>
+    <li data-letra="C">6 s y 90 m</li>
+    <li data-letra="D">6 s y 180 m</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>La velocidad baja 10 m/s cada segundo: llega a cero en 3 s. La altura sale de v² = v₀² − 2·g·h: h = 900 / 20 = 45 m. 6 s es el tiempo total de subida y bajada; 90 m resulta de olvidar el ½.</p></div>
+</div>
+
+<h2 id="fuentes-del-capitulo">Fuentes del capítulo</h2>
+<p><em>Consultadas el 25 de septiembre de 2026. El texto es de redacción propia y los siete diagramas son originales.</em></p>
+<p><strong>Documentos oficiales</strong></p>
+<ul>
+<li>DEMRE (2026). <em>Temario Regular – Pruebas Electivas – Ciencias. Admisión 2027</em>, pág. 10 (área temática Mecánica). Este capítulo cubre la descripción del movimiento (sistema de referencia, trayectoria, posición, distancia, desplazamiento, rapidez media, velocidades media e instantánea, aceleración), la relatividad de Galileo en MRU y el MRU y el MRUA con su ecuación de itinerario y sus gráficos. <a href="https://demre.cl/publicaciones/2027/2027-26-03-19-temario-paes-regular-ciencias">demre.cl</a></li>
+<li>Ministerio de Educación de Chile, Currículum Nacional. <em>Ciencias Naturales 2.º medio, eje Física, Unidad 1: Movimiento rectilíneo</em>, y objetivo de aprendizaje CN2M OA 09 (movimiento rectilíneo uniforme y acelerado respecto de un sistema de referencia; adición de velocidades de Galileo). <a href="https://www.curriculumnacional.cl/portal/Ejes/Ciencias-Naturales/Fisica/80748:CN2M-OA-09">curriculumnacional.cl</a></li>
+</ul>
+<p><strong>Textos de física de libre acceso</strong></p>
+<ul>
+<li>OpenStax (2022). <em>College Physics 2e</em>, capítulo 2 «Kinematics» (2.1 a 2.8: desplazamiento, vectores y escalares, velocidad y rapidez, aceleración, ecuaciones del movimiento, caída libre y análisis gráfico) y sección 3.5 «Addition of Velocities». Licencia CC BY 4.0. <a href="https://openstax.org/books/college-physics-2e/pages/2-8-graphical-analysis-of-one-dimensional-motion">openstax.org</a></li>
+<li>Khan Academy en español. <em>Movimiento rectilíneo uniforme</em>, <em>¿Qué son las gráficas de velocidad contra tiempo?</em> y <em>¿Qué son las gráficas de aceleración contra tiempo?</em> <a href="https://es.khanacademy.org/science/physics/one-dimensional-motion/acceleration-tutorial/a/what-are-velocity-vs-time-graphs">es.khanacademy.org</a></li>
+</ul>
+<p><strong>Datos y contexto</strong></p>
+<ul>
+<li>NIST. <em>CODATA: standard acceleration of gravity</em>, <em>g</em><sub>n</sub> = 9,806 65 m/s². <a href="https://physics.nist.gov/cgi-bin/cuu/Value?gn">physics.nist.gov</a></li>
+<li>NASA Science. <em>The Apollo 15 Hammer-Feather Drop</em> (2 de agosto de 1971). <a href="https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/">science.nasa.gov</a></li>
+<li>Rice University, The Galileo Project. <em>Galileo's Inclined Plane Experiment</em>. <a href="https://galileo.library.rice.edu/lib/student_work/experiment95/inclined_plane.html">galileo.library.rice.edu</a></li>
+<li>CONASET (2018). <em>Comienza a regir ley que reduce velocidad máxima urbana a 50 km/h</em>, y <em>Preguntas y respuestas relacionadas con velocidad</em> (tiempo de reacción promedio de 1 s). <a href="https://www.conaset.cl/preguntas-velocidad/">conaset.cl</a></li>
+<li>Biblioteca del Congreso Nacional. <em>Ley de Tránsito, texto refundido (DFL 1 de 2007)</em>, artículo 145: límites de velocidad. <a href="https://www.bcn.cl/leychile/navegar?idNorma=1007469">bcn.cl</a></li>
+</ul>
+<p><strong>Libros de consulta</strong></p>
+<ul>
+<li>Giancoli, D. <em>Physics: Principles with Applications</em>, 7.ª edición, capítulo 2 («Describing Motion: Kinematics in One Dimension», secciones 2-6 y 2-8, resumen y preguntas conceptuales).</li>
+<li>Etkina, E. y otros. <em>College Physics</em>, capítulo 1 («Kinematics: Motion in One Dimension», secciones 1.1 a 1.9).</li>
+<li>Johnson, K., Hewett, S. y otros. <em>Advanced Physics for You</em>, parte de Mecánica: distancia y desplazamiento, rapidez y velocidad, aceleración, gráficos, ecuaciones del movimiento y movimiento vertical.</li>
+<li>Shipman, J. y otros. <em>An Introduction to Physical Science</em>, capítulo 2 («Motion», secciones 2.1 a 2.3).</li>
+</ul>
+<p>Consulta de referencia; el texto de este capítulo es de redacción propia.</p>
+</article>
+<nav class="navsec"><a href="03-capitulo-3-la-luz-y-la-optica-geometrica.html"><small>← Anterior</small>Capítulo 3: La luz y la óptica geométrica</a><span></span></nav>
+</main>
+</div>
+<div id="lightbox"><img alt=""></div>
+<script>
+(function(){
+  var clave='conv-progreso:'+location.pathname.split('/').pop();
+  var datos={};try{datos=JSON.parse(localStorage.getItem(clave)||'{}')}catch(e){}
+  function guardar(){try{localStorage.setItem(clave,JSON.stringify(datos))}catch(e){}}
+  var preguntas=[].slice.call(document.querySelectorAll('.pregunta'));
+  var total=preguntas.length;
+  function actualizar(){
+    var r=0,c=0;for(var k in datos){r++;if(datos[k].ok)c++}
+    var t=document.getElementById('txt-preg');
+    if(t)t.textContent=total?(r+' de '+total+' respondidas · '+c+' correctas'):'Sin preguntas';
+    var b=document.getElementById('barra-preg');if(b)b.style.width=total?(100*r/total)+'%':'0';
+    try{localStorage.setItem(clave+':resumen',JSON.stringify({r:r,c:c,t:total}))}catch(e){}
+  }
+  preguntas.forEach(function(q,i){
+    var id=q.id||('p'+(i+1));q.id=id;
+    var lis=[].slice.call(q.querySelectorAll('.alternativas>li'));
+    var correcta=(q.getAttribute('data-correcta')||'').trim().toUpperCase();
+    var acc=document.createElement('div');acc.className='acciones';
+    var btn=document.createElement('button');btn.className='btn';btn.type='button';btn.textContent='Ver respuesta';
+    var est=document.createElement('span');est.className='estado';
+    acc.appendChild(btn);acc.appendChild(est);
+    var resp=q.querySelector('.respuesta');
+    if(resp)q.insertBefore(acc,resp);else q.appendChild(acc);
+    var marcada=null;
+    lis.forEach(function(li){li.addEventListener('click',function(){
+      if(q.classList.contains('respondida'))return;
+      lis.forEach(function(x){x.classList.remove('marcada')});li.classList.add('marcada');marcada=li.getAttribute('data-letra');
+    })});
+    function mostrar(letra){
+      q.classList.add('respondida','visible');btn.disabled=true;
+      lis.forEach(function(li){var L=li.getAttribute('data-letra');
+        if(correcta&&L===correcta)li.classList.add('correcta');
+        else if(L===letra)li.classList.add('incorrecta');
+        if(L===letra)li.classList.add('marcada');});
+      if(!correcta){est.textContent='Clave no disponible';est.className='estado'}
+      else if(!letra){est.textContent='Sin marcar · correcta: '+correcta;est.className='estado'}
+      else if(letra===correcta){est.textContent='¡Correcta!';est.className='estado ok'}
+      else{est.textContent='Incorrecta · correcta: '+correcta;est.className='estado mal'}
+    }
+    btn.addEventListener('click',function(){
+      datos[id]={l:marcada||'',ok:!!(marcada&&correcta&&marcada===correcta)};guardar();mostrar(marcada);actualizar();
+    });
+    if(datos[id])mostrar(datos[id].l);
+  });
+  document.querySelectorAll('.ejercicio').forEach(function(e){
+    var resp=e.querySelector('.respuesta');if(!resp)return;
+    var b=document.createElement('button');b.className='btn sec';b.type='button';b.textContent='Ver solución';
+    var acc=document.createElement('div');acc.className='acciones';acc.appendChild(b);e.insertBefore(acc,resp);
+    b.addEventListener('click',function(){var v=e.classList.toggle('visible');b.textContent=v?'Ocultar solución':'Ver solución'});
+  });
+  var rst=document.getElementById('reiniciar');
+  if(rst)rst.addEventListener('click',function(){if(!confirm('¿Reiniciar las respuestas de esta sección?'))return;datos={};guardar();location.reload()});
+  actualizar();
+  // Progreso de lectura
+  var bl=document.getElementById('barra-lect'),tl=document.getElementById('txt-lect');
+  function lectura(){var h=document.documentElement;var p=Math.min(100,Math.round(100*h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight)));
+    if(bl)bl.style.width=p+'%';if(tl)tl.textContent=p+'% leído'}
+  addEventListener('scroll',lectura,{passive:true});lectura();
+  // Índice lateral: resaltar la sección visible
+  var enlaces=[].slice.call(document.querySelectorAll('nav.sidebar a'));
+  if('IntersectionObserver' in window&&enlaces.length){
+    var io=new IntersectionObserver(function(ents){ents.forEach(function(en){if(en.isIntersecting){
+      enlaces.forEach(function(a){a.classList.toggle('activo',a.getAttribute('href')==='#'+en.target.id)})}})},{rootMargin:'-100px 0px -70% 0px'});
+    document.querySelectorAll('.paper h2[id],.paper h3[id]').forEach(function(h){io.observe(h)});
+  }
+  var nav=document.querySelector('nav.sidebar'),tb=document.getElementById('toc-btn');
+  if(tb&&nav)tb.addEventListener('click',function(){nav.classList.toggle('abierta')});
+  var lento=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function ir(a,e){
+    var id=decodeURIComponent((a.getAttribute('href')||'').slice(1)),t=document.getElementById(id);
+    if(!t)return;e.preventDefault();
+    if(a.classList.contains('cargando'))return;
+    document.querySelectorAll('.cargando').forEach(function(x){x.classList.remove('cargando')});
+    void a.offsetWidth;a.classList.add('cargando');
+    setTimeout(function(){
+      t.scrollIntoView({behavior:lento?'auto':'smooth',block:'start'});
+      setTimeout(function(){if(Math.abs(t.getBoundingClientRect().top)>window.innerHeight)t.scrollIntoView({block:'start'})},900);
+      try{history.replaceState(null,'','#'+id)}catch(err){}
+      t.classList.remove('destino');void t.offsetWidth;t.classList.add('destino');
+      if(a.closest('nav.sidebar'))enlaces.forEach(function(x){x.classList.toggle('activo',x===a)});
+      a.classList.remove('cargando');
+      if(nav)nav.classList.remove('abierta');
+    },lento?150:620);
+  }
+  enlaces.forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Insignias de preguntas en los títulos y botones «Ver tema» de las preguntas
+  document.querySelectorAll('.paper a.ref-badge, .paper a.volver-tema').forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Recordar la última sección abierta (para «Continuar» en el índice)
+  try{localStorage.setItem('conv-ultimo',JSON.stringify({archivo:location.pathname.split('/').pop(),titulo:document.title.split(' — ')[0]}))}catch(e){}
+  // Zoom de imágenes
+  var lb=document.getElementById('lightbox');
+  document.querySelectorAll('.paper img').forEach(function(img){img.addEventListener('click',function(){
+    lb.querySelector('img').src=img.src;lb.style.display='flex'})});
+  lb.addEventListener('click',function(){lb.style.display='none'});
+  // Tema claro/oscuro
+  var tema=document.getElementById('tema');
+  try{var t=localStorage.getItem('conv-tema');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}
+  tema.addEventListener('click',function(){
+    var oscuro=document.documentElement.getAttribute('data-theme')==='dark'||(!document.documentElement.getAttribute('data-theme')&&matchMedia('(prefers-color-scheme: dark)').matches);
+    var n=oscuro?'light':'dark';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('conv-tema',n)}catch(e){}
+  });
+})();
+</script>
+</body>
+</html>

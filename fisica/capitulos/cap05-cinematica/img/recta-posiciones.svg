@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 210" width="900" height="210" role="img" aria-label="Recta numérica con origen en una plaza, un auto en x igual a 300 metros y una bicicleta en x igual a menos 200 metros" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Recta numérica con origen en una plaza, un auto en x igual a 300 metros y una bicicleta en x igual a menos 200 metros</title>
+<rect width="900" height="210" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">La posición en una recta</text>
+<line x1="60.0" y1="140.0" x2="850.0" y2="140.0" stroke="#4a5568" stroke-width="2" marker-end="url(#mg)" marker-start="url(#mg)"/>
+<line x1="130.0" y1="134.0" x2="130.0" y2="146.0" stroke="#4a5568" stroke-width="1.5" />
+<text x="130.0" y="164.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">−400</text>
+<line x1="210.0" y1="134.0" x2="210.0" y2="146.0" stroke="#4a5568" stroke-width="1.5" />
+<text x="210.0" y="164.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">−300</text>
+<line x1="290.0" y1="134.0" x2="290.0" y2="146.0" stroke="#4a5568" stroke-width="1.5" />
+<text x="290.0" y="164.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">−200</text>
+<line x1="370.0" y1="134.0" x2="370.0" y2="146.0" stroke="#4a5568" stroke-width="1.5" />
+<text x="370.0" y="164.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">−100</text>
+<line x1="450.0" y1="134.0" x2="450.0" y2="146.0" stroke="#4a5568" stroke-width="1.5" />
+<text x="450.0" y="164.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">0</text>
+<line x1="530.0" y1="134.0" x2="530.0" y2="146.0" stroke="#4a5568" stroke-width="1.5" />
+<text x="530.0" y="164.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">100</text>
+<line x1="610.0" y1="134.0" x2="610.0" y2="146.0" stroke="#4a5568" stroke-width="1.5" />
+<text x="610.0" y="164.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">200</text>
+<line x1="690.0" y1="134.0" x2="690.0" y2="146.0" stroke="#4a5568" stroke-width="1.5" />
+<text x="690.0" y="164.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">300</text>
+<line x1="770.0" y1="134.0" x2="770.0" y2="146.0" stroke="#4a5568" stroke-width="1.5" />
+<text x="770.0" y="164.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">400</text>
+<text x="450.0" y="184.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">origen (plaza)</text>
+<text x="70.0" y="184.0" font-size="12" text-anchor="start" fill="#4a5568" font-weight="normal">oeste (−)</text>
+<text x="840.0" y="184.0" font-size="12" text-anchor="end" fill="#4a5568" font-weight="normal">este (+)</text>
+<text x="850.0" y="126.0" font-size="12" text-anchor="end" fill="#4a5568" font-weight="normal">x (m)</text>
+<rect x="668.0" y="102" width="44" height="20" rx="6" fill="#1c7ed6"/>
+<circle cx="678.0" cy="124" r="5" fill="#1a202c"/><circle cx="702.0" cy="124" r="5" fill="#1a202c"/>
+<text x="690.0" y="92.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">auto: x = +300 m</text>
+<circle cx="278.0" cy="122" r="8" fill="none" stroke="#2f9e44" stroke-width="2.5"/><circle cx="302.0" cy="122" r="8" fill="none" stroke="#2f9e44" stroke-width="2.5"/>
+<line x1="278.0" y1="122.0" x2="290.0" y2="108.0" stroke="#2f9e44" stroke-width="2.5" /><line x1="290.0" y1="108.0" x2="302.0" y2="122.0" stroke="#2f9e44" stroke-width="2.5" />
+<text x="290.0" y="92.0" font-size="12" text-anchor="middle" fill="#2f9e44" font-weight="700">bicicleta: x = −200 m</text>
+</svg>

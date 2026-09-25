@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 370" width="900" height="370" role="img" aria-label="Gráfico velocidad tiempo de un auto: acelera de 0 a 12 metros por segundo en 4 segundos, sigue constante hasta los 10 segundos y frena hasta 0 a los 13 segundos, con áreas de 24, 72 y 18 metros" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Gráfico velocidad tiempo de un auto: acelera de 0 a 12 metros por segundo en 4 segundos, sigue constante hasta los 10 segundos y frena hasta 0 a los 13 segundos, con áreas de 24, 72 y 18 metros</title>
+<rect width="900" height="370" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="17" text-anchor="middle" fill="#1a202c" font-weight="700">Velocidad de un auto entre dos semáforos</text>
+<line x1="80.0" y1="320.0" x2="840.0" y2="320.0" stroke="#4a5568" stroke-width="1.5" marker-end="url(#mg)"/>
+<line x1="80.0" y1="325.0" x2="80.0" y2="60.0" stroke="#4a5568" stroke-width="1.5" marker-end="url(#mg)"/>
+<text x="840.0" y="354.0" font-size="12" text-anchor="end" fill="#4a5568" font-weight="normal">t (s)</text>
+<text x="86.0" y="56.0" font-size="12" text-anchor="start" fill="#4a5568" font-weight="normal">v (m/s)</text>
+<line x1="80.0" y1="316.0" x2="80.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="80.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">0</text>
+<line x1="132.0" y1="316.0" x2="132.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="132.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">1</text>
+<line x1="184.0" y1="316.0" x2="184.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="184.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">2</text>
+<line x1="236.0" y1="316.0" x2="236.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="236.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">3</text>
+<line x1="288.0" y1="316.0" x2="288.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="288.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">4</text>
+<line x1="340.0" y1="316.0" x2="340.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="340.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">5</text>
+<line x1="392.0" y1="316.0" x2="392.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="392.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">6</text>
+<line x1="444.0" y1="316.0" x2="444.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="444.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">7</text>
+<line x1="496.0" y1="316.0" x2="496.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="496.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">8</text>
+<line x1="548.0" y1="316.0" x2="548.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="548.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">9</text>
+<line x1="600.0" y1="316.0" x2="600.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="600.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">10</text>
+<line x1="652.0" y1="316.0" x2="652.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="652.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">11</text>
+<line x1="704.0" y1="316.0" x2="704.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="704.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">12</text>
+<line x1="756.0" y1="316.0" x2="756.0" y2="324.0" stroke="#4a5568" stroke-width="1" />
+<text x="756.0" y="338.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">13</text>
+<line x1="76.0" y1="266.0" x2="84.0" y2="266.0" stroke="#4a5568" stroke-width="1" />
+<line x1="84.0" y1="266.0" x2="830.0" y2="266.0" stroke="#edf2f7" stroke-width="1" />
+<text x="72.0" y="270.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">3</text>
+<line x1="76.0" y1="212.0" x2="84.0" y2="212.0" stroke="#4a5568" stroke-width="1" />
+<line x1="84.0" y1="212.0" x2="830.0" y2="212.0" stroke="#edf2f7" stroke-width="1" />
+<text x="72.0" y="216.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">6</text>
+<line x1="76.0" y1="158.0" x2="84.0" y2="158.0" stroke="#4a5568" stroke-width="1" />
+<line x1="84.0" y1="158.0" x2="830.0" y2="158.0" stroke="#edf2f7" stroke-width="1" />
+<text x="72.0" y="162.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">9</text>
+<line x1="76.0" y1="104.0" x2="84.0" y2="104.0" stroke="#4a5568" stroke-width="1" />
+<line x1="84.0" y1="104.0" x2="830.0" y2="104.0" stroke="#edf2f7" stroke-width="1" />
+<text x="72.0" y="108.0" font-size="11" text-anchor="end" fill="#4a5568" font-weight="normal">12</text>
+<polygon points="80.0,320.0 288.0,104.0 288.0,320.0" fill="#e67700" opacity="0.25"/>
+<polygon points="288.0,320.0 288.0,104.0 600.0,104.0 600.0,320.0" fill="#2f9e44" opacity="0.22"/>
+<polygon points="600.0,320.0 600.0,104.0 756.0,320.0" fill="#c92a2a" opacity="0.22"/>
+<polyline points="80.0,320.0 288.0,104.0 600.0,104.0 756.0,320.0" fill="none" stroke="#1c7ed6" stroke-width="3.2" />
+<text x="225.6" y="248.0" font-size="14" text-anchor="middle" fill="#e67700" font-weight="700">24 m</text>
+<text x="444.0" y="212.0" font-size="14" text-anchor="middle" fill="#2f9e44" font-weight="700">72 m</text>
+<text x="652.0" y="248.0" font-size="14" text-anchor="middle" fill="#c92a2a" font-weight="700">18 m</text>
+<text x="184.0" y="77.0" font-size="12" text-anchor="middle" fill="#e67700" font-weight="700">acelera: 3 m/s²</text>
+<text x="444.0" y="77.0" font-size="12" text-anchor="middle" fill="#2f9e44" font-weight="700">velocidad constante</text>
+<text x="678.0" y="77.0" font-size="12" text-anchor="middle" fill="#c92a2a" font-weight="700">frena: −4 m/s²</text>
+</svg>

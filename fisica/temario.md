@@ -34,10 +34,10 @@ El DEMRE declara que evalúa la capacidad de analizar informaciones, investigaci
 
 | Código | Conocimiento | Capítulo | Estado |
 |---|---|---|---|
-| 2.1 | Sistema de referencia, trayectoria, posición, distancia recorrida, desplazamiento, rapidez media, tiempo, velocidad media e instantánea, aceleración | 5 | Pendiente |
-| 2.2 | Relatividad de Galileo en movimientos rectilíneos uniformes | 5 | Pendiente |
-| 2.3 | MRU: ecuación de itinerario y gráficos | 5 | Pendiente |
-| 2.4 | MRUA: ecuación de itinerario y gráficos | 5 | Pendiente |
+| 2.1 | Sistema de referencia, trayectoria, posición, distancia recorrida, desplazamiento, rapidez media, tiempo, velocidad media e instantánea, aceleración | **5** | Completo |
+| 2.2 | Relatividad de Galileo en movimientos rectilíneos uniformes | **5** | Completo |
+| 2.3 | MRU: ecuación de itinerario y gráficos | **5** | Completo |
+| 2.4 | MRUA: ecuación de itinerario y gráficos | **5** | Completo |
 | 2.5 | Leyes de Newton con velocidad o aceleración constantes. Diagrama de cuerpo libre | 6 | Pendiente |
 | 2.6 | Fuerzas peso, elástica (ley de Hooke), tensión y normal, entre otras | 6 | Pendiente |
 | 2.7 | Roce estático y cinético; roce con el aire (cualitativo) | 6 | Pendiente |
