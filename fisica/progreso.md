@@ -6,7 +6,7 @@
 | 2 | El sonido | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
 | 3 | La luz y la óptica geométrica | Área 1 (Ondas) | Preguntas completas | Teoría 1–8, 11 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | 121 | 25-09-2026 |
 | 4 | Sismos y dinámica de la Tierra | Área 3 (Energía–Tierra) | Pendiente | — | — | — |
-| 5 | Cinemática: descripción del movimiento | Área 2 (Mecánica) | Teoría completa | Teoría 1–8, 7 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | en curso | 25-09-2026 |
+| 5 | Cinemática: descripción del movimiento | Área 2 (Mecánica) | Preguntas completas | Teoría 1–8, 7 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | 97 | 25-09-2026 |
 | 6 | Dinámica: fuerzas y leyes de Newton | Área 2 (Mecánica) | Pendiente | — | — | — |
 | 7 | Movimiento circular uniforme | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
 | 8 | Trabajo, potencia y energía mecánica | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
