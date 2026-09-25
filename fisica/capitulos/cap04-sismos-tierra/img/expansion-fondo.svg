@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 455" width="900" height="455" role="img" aria-label="Dorsal oceánica con material del manto que sube, bandas magnéticas simétricas a ambos lados y rocas más antiguas lejos de la dorsal" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Dorsal oceánica con material del manto que sube, bandas magnéticas simétricas a ambos lados y rocas más antiguas lejos de la dorsal</title>
+<rect width="900" height="455" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="17" text-anchor="middle" fill="#1a202c" font-weight="700">Expansión del fondo oceánico en una dorsal</text>
+<rect x="40" y="70" width="820" height="130" fill="#a5d8ff" opacity="0.6"/>
+<text x="60.0" y="95.0" font-size="12" text-anchor="start" fill="#4a5568" font-weight="normal">océano</text>
+<rect x="425.0" y="200" width="50" height="40" fill="#343a40" stroke="#4a5568"/>
+<rect x="475.0" y="200" width="50" height="40" fill="#f1f3f5" stroke="#4a5568"/>
+<rect x="375.0" y="200" width="50" height="40" fill="#f1f3f5" stroke="#4a5568"/>
+<rect x="525.0" y="200" width="50" height="40" fill="#343a40" stroke="#4a5568"/>
+<rect x="325.0" y="200" width="50" height="40" fill="#343a40" stroke="#4a5568"/>
+<rect x="575.0" y="200" width="50" height="40" fill="#f1f3f5" stroke="#4a5568"/>
+<rect x="275.0" y="200" width="50" height="40" fill="#f1f3f5" stroke="#4a5568"/>
+<rect x="625.0" y="200" width="50" height="40" fill="#343a40" stroke="#4a5568"/>
+<rect x="225.0" y="200" width="50" height="40" fill="#343a40" stroke="#4a5568"/>
+<rect x="675.0" y="200" width="50" height="40" fill="#f1f3f5" stroke="#4a5568"/>
+<rect x="175.0" y="200" width="50" height="40" fill="#f1f3f5" stroke="#4a5568"/>
+<rect x="725.0" y="200" width="50" height="40" fill="#343a40" stroke="#4a5568"/>
+<rect x="125.0" y="200" width="50" height="40" fill="#343a40" stroke="#4a5568"/>
+<text x="450.0" y="125.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">bandas magnéticas simétricas en el fondo (oscuro: normal · claro: invertida)</text>
+<rect x="40" y="280" width="820" height="130" fill="#f59f00" opacity="0.35"/>
+<text x="60.0" y="400.0" font-size="12" text-anchor="start" fill="#4a5568" font-weight="normal">manto</text>
+<path d="M450,400 C440,350 460,310 450,245" fill="none" stroke="#c92a2a" stroke-width="5" marker-end="url(#mr)"/>
+<text x="465.0" y="330.0" font-size="12" text-anchor="start" fill="#c92a2a" font-weight="700">sube material caliente</text>
+<line x1="510.0" y1="185.0" x2="650.0" y2="185.0" stroke="#1a202c" stroke-width="2.5" marker-end="url(#mg)"/>
+<line x1="390.0" y1="185.0" x2="250.0" y2="185.0" stroke="#1a202c" stroke-width="2.5" marker-end="url(#mg)"/>
+<text x="450.0" y="174.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">dorsal</text>
+<text x="150.0" y="174.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">rocas más antiguas</text>
+<text x="750.0" y="174.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">rocas más antiguas</text>
+<text x="450.0" y="440.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">La corteza nueva se forma en el centro y se separa hacia ambos lados: la edad aumenta al alejarse de la dorsal.</text>
+</svg>

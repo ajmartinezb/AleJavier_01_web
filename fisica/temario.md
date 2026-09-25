@@ -48,9 +48,9 @@ El DEMRE declara que evalúa la capacidad de analizar informaciones, investigaci
 
 | Código | Conocimiento | Capítulo | Estado |
 |---|---|---|---|
-| 3.1 | Deriva continental, sus evidencias y su relación con la tectónica de placas | 4 | Pendiente |
-| 3.2 | Tectónica de placas y sus consecuencias (sismos, volcanismo y relieve) | 4 | Pendiente |
-| 3.3 | Modelo físico del interior de la Tierra (geosfera) y tectónica de placas | 4 | Pendiente |
+| 3.1 | Deriva continental, sus evidencias y su relación con la tectónica de placas | **4** | Completo |
+| 3.2 | Tectónica de placas y sus consecuencias (sismos, volcanismo y relieve) | **4** | Completo |
+| 3.3 | Modelo físico del interior de la Tierra (geosfera) y tectónica de placas | **4** | Completo |
 
 ### Área 4. Electricidad
 

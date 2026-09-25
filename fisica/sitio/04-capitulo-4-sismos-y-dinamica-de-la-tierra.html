@@ -1,0 +1,1416 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capítulo 4: Sismos y dinámica de la Tierra — Física PAES — Ciencias</title>
+<meta name="generator" content="Conversor PDF a HTML">
+<style>
+:root{--bg:#f7f6f2;--paper:#fff;--ink:#23262a;--ink-soft:#5a5f66;--line:#e3e1da;
+--accent:#1c7ed6;--accent-dark:#0f4576;--ok:#1e7a46;--ok-bg:#e5f5eb;--bad:#b3261e;--bad-bg:#fdeceb;
+--tip-bg:#fff6d6;--tip-bd:#e8cf67;--nota-bg:#eaf2fb;--nota-bd:#b6cfe9;--ej-bg:#eaf6ee;--ej-bd:#a9d8b8;--sidebar-w:290px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}}
+:root[data-theme=dark]{--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{scroll-padding-top:96px}
+body{margin:0;font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.65}
+header.top{position:sticky;top:0;z-index:50;background:linear-gradient(120deg,var(--accent-dark),var(--accent));color:#fff;padding:14px 22px;box-shadow:0 2px 10px rgba(0,0,0,.18)}
+header.top .fila{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1400px;margin:0 auto}
+header.top h1{margin:0;font-size:1.25rem;line-height:1.3;flex:1;min-width:200px}
+header.top .doc{font-size:.8rem;opacity:.85;display:block;font-weight:400}
+header.top a{color:#fff}
+.btn-top{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);color:#fff;border-radius:8px;padding:6px 10px;font-size:.85rem;cursor:pointer;text-decoration:none;white-space:nowrap}
+.progreso{max-width:1400px;margin:8px auto 0;display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:.8rem}
+.barra{flex:1;min-width:120px;height:7px;background:rgba(255,255,255,.25);border-radius:9px;overflow:hidden}
+.barra>i{display:block;height:100%;width:0;background:#fff;border-radius:9px;transition:width .3s}
+.layout{display:flex;align-items:flex-start;max-width:1400px;margin:0 auto}
+nav.sidebar{width:var(--sidebar-w);flex-shrink:0;position:sticky;top:110px;max-height:calc(100vh - 120px);overflow-y:auto;padding:20px 12px 40px 18px}
+nav.sidebar h2{font-size:.72rem;text-transform:uppercase;letter-spacing:1px;color:var(--ink-soft);margin:0 0 8px 6px}
+nav.sidebar ol{list-style:none;margin:0;padding:0}
+nav.sidebar a{display:block;position:relative;overflow:hidden;isolation:isolate;padding:6px 10px;border-radius:8px;color:var(--ink);text-decoration:none;font-size:.86rem;transition:color .2s,background .2s}
+nav.sidebar a:hover,nav.sidebar a.activo{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+nav.sidebar a::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;border-radius:inherit;
+background:linear-gradient(90deg,color-mix(in srgb,var(--accent) 22%,transparent),color-mix(in srgb,var(--accent) 45%,transparent));
+box-shadow:6px 0 14px color-mix(in srgb,var(--accent) 55%,transparent)}
+nav.sidebar a.cargando{color:var(--accent-dark);font-weight:600;background:transparent}
+nav.sidebar a.cargando::before,.ref-badge.cargando::before,.volver-tema.cargando::before{animation:conv-cargar .6s cubic-bezier(.45,0,.2,1) forwards}
+.ref-badges{display:inline-flex;flex-wrap:wrap;gap:6px;margin-left:10px;vertical-align:middle;font-size:.72rem;font-weight:600;line-height:1}
+.ref-group{display:inline-flex;align-items:center;gap:4px}
+.ref-label{color:var(--ink-soft);font-weight:600;letter-spacing:.3px}
+.ref-badge,.volver-tema{position:relative;overflow:hidden;isolation:isolate;text-decoration:none;transition:background .2s,color .2s,border-color .2s}
+.ref-badge::before,.volver-tema::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;background:color-mix(in srgb,var(--accent) 40%,transparent)}
+.ref-badge{display:inline-grid;place-items:center;min-width:24px;height:22px;padding:0 6px;border-radius:999px;border:1px solid;font-size:.72rem}
+.ref-badge.ref-ia{color:#1e7a34;border-color:#8fd0a2;background:#eaf7ee}
+.ref-badge.ref-ia:hover{background:#1e7a34;color:#fff}
+.ref-badge.ref-ia.cargando{color:#fff;background:#1e7a34}
+.volver-tema{display:inline-flex;align-items:center;gap:4px;margin:0 8px 0 6px;padding:2px 10px;border:1px solid var(--line);border-radius:999px;font-size:.76rem;font-weight:600;color:var(--accent-dark);background:var(--paper);vertical-align:middle}
+.volver-tema:hover{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,var(--paper))}
+.seccion-ia{margin-top:40px;padding-top:6px}
+.seccion-ia>.nota{font-size:.9rem}
+.tema-ia{margin:26px 0 4px;font-size:.82rem;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--ink-soft)}
+.tema-ia a{color:inherit}
+.habilidad{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent-dark);vertical-align:middle}
+.eje{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:var(--line);color:var(--ink-soft);vertical-align:middle}
+.comentario>p{margin:8px 0}
+.comentario>p>strong:first-child{color:var(--accent-dark)}
+.comentario ul{margin:6px 0 10px;padding-left:20px}
+.comentario li{margin:3px 0}
+.comentario .tipo-error{font-style:italic;color:var(--ink-soft)}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .comentario>p>strong:first-child{color:var(--accent)}}
+:root[data-theme=dark] .comentario>p>strong:first-child{color:var(--accent)}
+.pregunta.destino{animation:conv-destino 1.6s ease-out}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}}
+:root[data-theme=dark] .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}
+@keyframes conv-cargar{0%{width:0;opacity:.7}85%{opacity:1}100%{width:100%;opacity:1;box-shadow:0 0 12px color-mix(in srgb,var(--accent) 45%,transparent)}}
+@media (prefers-reduced-motion:reduce){nav.sidebar a.cargando::before{animation-duration:.15s}}
+.destino{animation:conv-destino 1.4s ease-out}
+@keyframes conv-destino{0%{background:color-mix(in srgb,var(--accent) 22%,transparent)}100%{background:transparent}}
+nav.sidebar .n3 a{padding-left:22px;font-size:.8rem;color:var(--ink-soft)}
+nav.sidebar .n4 a{padding-left:34px;font-size:.76rem;color:var(--ink-soft)}
+main.content{flex:1;min-width:0;padding:26px 34px 90px}
+.paper{background:var(--paper);border-radius:14px;padding:28px 38px;box-shadow:0 1px 4px rgba(0,0,0,.07);max-width:980px}
+.paper h2{font-size:1.4rem;color:var(--accent-dark);border-bottom:3px solid var(--accent);padding-bottom:6px;margin:34px 0 14px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .paper h2{color:var(--accent)}}
+:root[data-theme=dark] .paper h2{color:var(--accent)}
+.paper h2:first-child{margin-top:0}
+.paper h3{font-size:1.14rem;margin:26px 0 10px;border-left:4px solid var(--accent);padding-left:10px}
+.paper h4{font-size:1rem;margin:20px 0 8px}
+.paper img{max-width:100%;height:auto}
+figure>img{width:var(--ancho,auto)}
+.fila-figuras{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:flex-start;margin:18px 0}
+.fila-figuras>figure{flex:1 1 220px;margin:0}
+.fila-figuras>figure>img{width:100%}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:.93rem;display:block;overflow-x:auto}
+th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top;text-align:left}
+thead th{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+blockquote{margin:14px 0;padding:8px 16px;border-left:4px solid var(--line);color:var(--ink-soft)}
+.nota,.tip,.ejemplo,.ejercicio,.pregunta{border-radius:10px;padding:14px 18px;margin:16px 0;border:1px solid}
+.nota{background:var(--nota-bg);border-color:var(--nota-bd)}
+.tip{background:var(--tip-bg);border-color:var(--tip-bd)}
+.ejemplo{background:var(--ej-bg);border-color:var(--ej-bd)}
+.ejercicio,.pregunta{background:var(--paper);border-color:var(--line);box-shadow:0 1px 3px rgba(0,0,0,.05)}
+figure{margin:18px auto;text-align:center}
+figure img{border-radius:8px;border:1px solid var(--line);cursor:zoom-in;background:#fff}
+figcaption{font-size:.85rem;color:var(--ink-soft);margin-top:6px}
+.frac{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;font-size:.9em;margin:0 2px}
+.frac>span:first-child{border-bottom:1px solid currentColor;padding:0 3px}
+.alternativas{list-style:none;padding:0;margin:10px 0}
+.alternativas li{display:flex;gap:10px;align-items:flex-start;padding:8px 12px;margin:6px 0;border:1px solid var(--line);border-radius:9px;cursor:pointer;transition:background .15s}
+.alternativas li::before{content:attr(data-letra);font-weight:700;min-width:1.4em;color:var(--accent)}
+.alternativas li:hover{background:color-mix(in srgb,var(--accent) 8%,transparent)}
+.alternativas li.marcada{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.alternativas li.correcta{border-color:var(--ok);background:var(--ok-bg)}
+.alternativas li.incorrecta{border-color:var(--bad);background:var(--bad-bg)}
+.pregunta.respondida .alternativas li{cursor:default}
+.acciones{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.btn{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:8px 14px;font-size:.9rem;cursor:pointer}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.btn.sec{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.estado{font-size:.88rem;font-weight:600}
+.estado.ok{color:var(--ok)}.estado.mal{color:var(--bad)}
+.respuesta{display:none;margin-top:10px;padding:12px 14px;border-radius:9px;background:color-mix(in srgb,var(--accent) 7%,transparent);border-left:4px solid var(--accent)}
+.visible>.respuesta,.respuesta.visible{display:block}
+.aviso-ia{font-size:.8rem;color:var(--ink-soft);font-style:italic}
+details.original{margin:14px 0;border:1px dashed var(--line);border-radius:10px;padding:8px 12px}
+details.original summary{cursor:pointer;color:var(--ink-soft);font-size:.85rem}
+.marca-pagina{font-size:.72rem;color:var(--ink-soft);text-align:right;border-top:1px dashed var(--line);margin:22px 0 8px;padding-top:2px}
+.navsec{display:flex;justify-content:space-between;gap:12px;margin-top:28px;max-width:980px}
+.navsec a{flex:1;padding:14px 16px;border-radius:12px;background:var(--paper);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.navsec a small{display:block;color:var(--ink-soft);font-size:.75rem}
+.navsec a.sig{text-align:right}
+#lightbox{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:100;cursor:zoom-out;padding:20px}
+#lightbox img{max-width:100%;max-height:100%;background:#fff;border-radius:6px}
+#toc-btn{display:none}
+@media (max-width:900px){
+ nav.sidebar{position:fixed;top:0;left:0;bottom:0;max-height:none;background:var(--paper);z-index:60;transform:translateX(-105%);transition:transform .25s;box-shadow:2px 0 14px rgba(0,0,0,.2);padding-top:24px}
+ nav.sidebar.abierta{transform:none}
+ #toc-btn{display:inline-block}
+ main.content{padding:16px 16px 80px}
+ .paper{padding:20px 18px}
+}
+@media print{header.top,nav.sidebar,.navsec,.acciones{display:none}.respuesta{display:block}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="fila">
+    <a class="btn-top" href="../../inicio.html" title="Volver a las asignaturas PAES" style="text-decoration:none">← Asignaturas</a>
+    <button class="btn-top" id="toc-btn" type="button">☰ Contenido</button>
+    <h1><span class="doc">Física PAES — Ciencias</span>Capítulo 4: Sismos y dinámica de la Tierra</h1>
+    <a class="btn-top" href="index.html">Índice</a>
+    <button class="btn-top" id="tema" type="button" title="Cambiar tema claro/oscuro">◐</button>
+  </div>
+  <div class="progreso">
+    <span id="txt-preg">…</span><div class="barra"><i id="barra-preg"></i></div>
+    <button class="btn-top" id="reiniciar" type="button" title="Reiniciar respuestas de esta sección">↺ Reiniciar</button>
+    <span id="txt-lect">0% leído</span><div class="barra"><i id="barra-lect"></i></div>
+  </div>
+</header>
+<div class="layout">
+<nav class="sidebar" aria-label="Contenido"><h2>Contenido</h2><ol><li class="n2"><a href="#capitulo-4-sismos-y-dinamica-de-la-tierra">Capítulo 4: Sismos y dinámica de la Tierra</a></li><li class="n2"><a href="#1-conceptos-clave">1. Conceptos clave</a></li><li class="n2"><a href="#2-el-interior-de-la-tierra">2. El interior de la Tierra</a></li><li class="n3"><a href="#a-un-lugar-al-que-nadie-ha-llegado">a. Un lugar al que nadie ha llegado</a></li><li class="n3"><a href="#b-dos-modelos-de-la-misma-tierra">b. Dos modelos de la misma Tierra</a></li><li class="n3"><a href="#c-la-relacion-con-la-tectonica-de-placas">c. La relación con la tectónica de placas</a></li><li class="n3"><a href="#d-como-se-sabe-las-ondas-sismicas">d. Cómo se sabe: las ondas sísmicas</a></li><li class="n2"><a href="#3-la-deriva-continental">3. La deriva continental</a></li><li class="n3"><a href="#a-la-idea-de-wegener">a. La idea de Wegener</a></li><li class="n3"><a href="#b-las-evidencias">b. Las evidencias</a></li><li class="n3"><a href="#c-por-que-fue-rechazada">c. Por qué fue rechazada</a></li><li class="n3"><a href="#d-de-la-deriva-a-la-tectonica-de-placas">d. De la deriva a la tectónica de placas</a></li><li class="n2"><a href="#4-la-tectonica-de-placas">4. La tectónica de placas</a></li><li class="n3"><a href="#a-lo-que-revelo-el-fondo-del-oceano">a. Lo que reveló el fondo del océano</a></li><li class="n3"><a href="#b-la-expansion-del-fondo-oceanico">b. La expansión del fondo oceánico</a></li><li class="n3"><a href="#c-la-teoria-de-la-tectonica-de-placas">c. La teoría de la tectónica de placas</a></li><li class="n3"><a href="#d-las-placas-que-afectan-a-chile">d. Las placas que afectan a Chile</a></li><li class="n2"><a href="#5-los-limites-entre-placas">5. Los límites entre placas</a></li><li class="n3"><a href="#a-limites-divergentes">a. Límites divergentes</a></li><li class="n3"><a href="#b-limites-convergentes">b. Límites convergentes</a></li><li class="n3"><a href="#c-limites-transformantes">c. Límites transformantes</a></li><li class="n3"><a href="#d-resumen">d. Resumen</a></li><li class="n2"><a href="#6-los-sismos">6. Los sismos</a></li><li class="n3"><a href="#a-como-se-produce-un-sismo">a. Cómo se produce un sismo</a></li><li class="n3"><a href="#b-las-ondas-sismicas">b. Las ondas sísmicas</a></li><li class="n3"><a href="#c-como-se-ubica-el-epicentro">c. Cómo se ubica el epicentro</a></li><li class="n3"><a href="#d-magnitud-e-intensidad">d. Magnitud e intensidad</a></li><li class="n3"><a href="#e-los-grandes-sismos-de-chile">e. Los grandes sismos de Chile</a></li><li class="n3"><a href="#f-los-tsunamis">f. Los tsunamis</a></li><li class="n2"><a href="#7-el-volcanismo">7. El volcanismo</a></li><li class="n3"><a href="#a-que-es-un-volcan">a. Qué es un volcán</a></li><li class="n3"><a href="#b-donde-se-forman-los-volcanes-y-por-que">b. Dónde se forman los volcanes y por qué</a></li><li class="n3"><a href="#c-tipos-de-volcanes">c. Tipos de volcanes</a></li><li class="n3"><a href="#d-los-volcanes-de-chile">d. Los volcanes de Chile</a></li><li class="n2"><a href="#8-la-tectonica-de-placas-y-el-relieve">8. La tectónica de placas y el relieve</a></li><li class="n3"><a href="#a-el-relieve-como-resultado-de-dos-fuerzas">a. El relieve como resultado de dos fuerzas</a></li><li class="n3"><a href="#b-las-grandes-formas-del-relieve-y-su-origen">b. Las grandes formas del relieve y su origen</a></li><li class="n3"><a href="#c-el-relieve-de-chile-visto-desde-la-tectonica">c. El relieve de Chile, visto desde la tectónica</a></li><li class="n2"><a href="#ejemplos-paes-resueltos">Ejemplos PAES resueltos</a></li><li class="n2"><a href="#evaluacion-formativa">Evaluación formativa</a></li><li class="n2"><a href="#fuentes-del-capitulo">Fuentes del capítulo</a></li></ol></nav>
+<main class="content">
+<article class="paper">
+<h2 id="capitulo-4-sismos-y-dinamica-de-la-tierra">Capítulo 4: Sismos y dinámica de la Tierra</h2>
+<p><strong>Área temática:</strong> Energía – Tierra</p>
+<p>Chile tiembla. Aquí ocurrió el terremoto más grande jamás registrado —Valdivia, 1960—, y cada pocos años un sismo de magnitud 8 o más recuerda que el país está sobre uno de los bordes más activos del planeta. Tenemos, además, decenas de volcanes activos y una cordillera que sigue creciendo. Nada de eso es casualidad: es la manifestación de una Tierra por dentro caliente y en movimiento, cuya superficie está partida en placas que se desplazan unos centímetros al año.</p>
+<p>En este capítulo vas a aprender cómo es el <strong>interior de la Tierra</strong> y cómo se conoce sin haber llegado nunca más allá de unos 12 km de profundidad; qué propuso Alfred Wegener con la <strong>deriva continental</strong>, qué evidencias presentó y por qué su idea fue rechazada al principio; cómo la exploración del fondo marino llevó a la <strong>tectónica de placas</strong>; qué ocurre en los <strong>límites entre placas</strong>; y cómo la tectónica explica los <strong>sismos</strong>, el <strong>volcanismo</strong> y el <strong>relieve</strong>, con especial atención a lo que pasa bajo Chile.</p>
+<div class="nota">
+<p><strong>Este capítulo en la PAES 2027.</strong> Cubre completa el área Energía–Tierra del temario DEMRE: la teoría de la deriva continental, sus evidencias y su relación con la tectónica de placas; la tectónica de placas y sus consecuencias (sismos, volcanismo y relieve); y la relación entre el modelo físico del interior de la Tierra (geosfera) y la tectónica de placas. Las ondas sísmicas se apoyan en el capítulo 1 (ondas mecánicas, longitudinales y transversales).</p>
+</div>
+<h2 id="1-conceptos-clave">1. Conceptos clave</h2>
+<table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Definición</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Geosfera</strong></td>
+<td>Parte sólida de la Tierra, desde la superficie hasta el centro del planeta</td>
+</tr>
+<tr>
+<td><strong>Modelo geoquímico (estático)</strong></td>
+<td>Descripción del interior de la Tierra según la <strong>composición</strong> de sus capas: corteza, manto y núcleo</td>
+</tr>
+<tr>
+<td><strong>Modelo físico (dinámico)</strong></td>
+<td>Descripción del interior según el <strong>comportamiento mecánico</strong> de sus capas: litosfera, astenosfera, mesosfera, núcleo externo y núcleo interno</td>
+</tr>
+<tr>
+<td><strong>Corteza</strong></td>
+<td>Capa externa y delgada de rocas; es oceánica (delgada y densa) o continental (gruesa y menos densa)</td>
+</tr>
+<tr>
+<td><strong>Manto</strong></td>
+<td>Capa de rocas silicatadas entre la corteza y el núcleo, hasta unos 2 900 km de profundidad</td>
+</tr>
+<tr>
+<td><strong>Núcleo</strong></td>
+<td>Parte central de la Tierra, formada sobre todo por hierro y níquel; externo líquido e interno sólido</td>
+</tr>
+<tr>
+<td><strong>Litosfera</strong></td>
+<td>Capa rígida externa formada por la corteza y la parte superior del manto; está dividida en placas</td>
+</tr>
+<tr>
+<td><strong>Astenosfera</strong></td>
+<td>Capa del manto bajo la litosfera, sólida pero capaz de fluir muy lentamente; sobre ella se desplazan las placas</td>
+</tr>
+<tr>
+<td><strong>Discontinuidad</strong></td>
+<td>Superficie del interior terrestre donde las ondas sísmicas cambian bruscamente de rapidez</td>
+</tr>
+<tr>
+<td><strong>Deriva continental</strong></td>
+<td>Hipótesis de Alfred Wegener (1912) según la cual los continentes estuvieron unidos y se han desplazado</td>
+</tr>
+<tr>
+<td><strong>Pangea</strong></td>
+<td>Supercontinente que reunía casi todas las tierras emergidas hace unos 300 a 200 millones de años</td>
+</tr>
+<tr>
+<td><strong>Expansión del fondo oceánico</strong></td>
+<td>Proceso por el cual se forma nueva corteza oceánica en las dorsales y el fondo del océano se separa</td>
+</tr>
+<tr>
+<td><strong>Dorsal oceánica</strong></td>
+<td>Cordillera submarina donde sube material del manto y se forma nueva corteza</td>
+</tr>
+<tr>
+<td><strong>Tectónica de placas</strong></td>
+<td>Teoría que explica que la litosfera está dividida en placas que se mueven sobre la astenosfera e interactúan en sus bordes</td>
+</tr>
+<tr>
+<td><strong>Placa tectónica</strong></td>
+<td>Fragmento de litosfera que se mueve como un bloque rígido</td>
+</tr>
+<tr>
+<td><strong>Límite divergente</strong></td>
+<td>Borde donde dos placas se separan</td>
+</tr>
+<tr>
+<td><strong>Límite convergente</strong></td>
+<td>Borde donde dos placas chocan; si una se hunde bajo la otra hay <strong>subducción</strong></td>
+</tr>
+<tr>
+<td><strong>Límite transformante</strong></td>
+<td>Borde donde dos placas se deslizan lateralmente una respecto de la otra</td>
+</tr>
+<tr>
+<td><strong>Subducción</strong></td>
+<td>Hundimiento de una placa oceánica bajo otra placa, hacia el manto</td>
+</tr>
+<tr>
+<td><strong>Fosa oceánica</strong></td>
+<td>Depresión alargada y profunda del fondo marino donde comienza la subducción</td>
+</tr>
+<tr>
+<td><strong>Sismo</strong></td>
+<td>Liberación brusca de energía acumulada en las rocas, que se propaga como ondas sísmicas</td>
+</tr>
+<tr>
+<td><strong>Hipocentro (foco)</strong></td>
+<td>Punto del interior de la Tierra donde se inicia la ruptura de un sismo</td>
+</tr>
+<tr>
+<td><strong>Epicentro</strong></td>
+<td>Punto de la superficie ubicado directamente sobre el hipocentro</td>
+</tr>
+<tr>
+<td><strong>Ondas P y S</strong></td>
+<td>Ondas sísmicas internas: P (primarias) longitudinales y más rápidas; S (secundarias) transversales, que no atraviesan líquidos</td>
+</tr>
+<tr>
+<td><strong>Magnitud</strong></td>
+<td>Medida de la energía liberada por un sismo; es una sola por sismo</td>
+</tr>
+<tr>
+<td><strong>Intensidad</strong></td>
+<td>Medida de los efectos de un sismo en un lugar; cambia de un lugar a otro</td>
+</tr>
+<tr>
+<td><strong>Tsunami</strong></td>
+<td>Serie de olas de gran longitud de onda generadas por un desplazamiento brusco del fondo marino</td>
+</tr>
+<tr>
+<td><strong>Volcán</strong></td>
+<td>Abertura de la corteza por la que sale magma, gases y otros materiales del interior</td>
+</tr>
+<tr>
+<td><strong>Magma</strong></td>
+<td>Roca fundida del interior de la Tierra; al salir a la superficie se llama lava</td>
+</tr>
+<tr>
+<td><strong>Cinturón de Fuego del Pacífico</strong></td>
+<td>Zona que rodea el océano Pacífico, con la mayor parte de los sismos y volcanes del planeta</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2-el-interior-de-la-tierra">2. El interior de la Tierra</h2>
+<h3 id="a-un-lugar-al-que-nadie-ha-llegado">a. Un lugar al que nadie ha llegado</h3>
+<p>El pozo más profundo jamás perforado, en la península de Kola (Rusia), alcanzó unos <strong>12 km</strong>. El radio de la Tierra es de <strong>6 371 km</strong>. Es decir, la perforación más profunda apenas arañó la cáscara del planeta. Todo lo que sabemos del interior se ha deducido de manera <strong>indirecta</strong>:</p>
+<ul>
+<li><strong>Las ondas sísmicas</strong>: cómo viajan, se desvían y a veces desaparecen al atravesar la Tierra (la evidencia principal).</li>
+<li><strong>La densidad media de la Tierra</strong> (unos 5,5 g/cm³), mucho mayor que la de las rocas de la superficie (unos 2,7 g/cm³): tiene que haber material mucho más denso en el centro.</li>
+<li><strong>Los meteoritos</strong>, restos de la formación del sistema solar, muchos de hierro y níquel.</li>
+<li><strong>El campo magnético terrestre</strong>, que requiere un núcleo metálico líquido en movimiento.</li>
+<li><strong>Las rocas del manto</strong> que llegan a la superficie en algunos volcanes.</li>
+</ul>
+<p>Es un ejemplo claro de cómo la ciencia construye <strong>modelos</strong> a partir de evidencias indirectas, y de cómo esos modelos se aceptan porque explican de manera coherente muchas observaciones distintas.</p>
+<h3 id="b-dos-modelos-de-la-misma-tierra">b. Dos modelos de la misma Tierra</h3>
+<p>El interior se describe con dos modelos complementarios. Ninguno es «el correcto»: miran la Tierra con criterios distintos.</p>
+<figure><img src="img/cap04-sismos-tierra/capas-tierra.svg" alt="Corte de la Tierra con dos mitades: a la izquierda el modelo geoquímico con corteza, manto y núcleo; a la derecha el modelo físico con litosfera, astenosfera, mesosfera, núcleo externo líquido y núcleo interno sólido, con sus profundidades"><figcaption>Figura 1. El interior de la Tierra según el modelo geoquímico (izquierda) y el modelo físico (derecha). Espesores aproximados, sin escala. Diagrama propio.</figcaption></figure>
+
+<p><strong>Modelo geoquímico (o estático): según la composición</strong></p>
+<table>
+<thead>
+<tr>
+<th>Capa</th>
+<th>Profundidad aproximada</th>
+<th>Composición y características</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Corteza</strong></td>
+<td>0 a 5–10 km (oceánica) · 0 a 30–70 km (continental)</td>
+<td>Rocas ricas en silicio y aluminio (continental) o en silicio y magnesio (oceánica); la continental es más gruesa y menos densa</td>
+</tr>
+<tr>
+<td><strong>Manto</strong></td>
+<td>Hasta unos 2 900 km</td>
+<td>Rocas silicatadas ricas en hierro y magnesio; el 84 % del volumen de la Tierra</td>
+</tr>
+<tr>
+<td><strong>Núcleo</strong></td>
+<td>2 900 a 6 371 km</td>
+<td>Hierro y níquel; muy denso</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Modelo físico (o dinámico): según el comportamiento mecánico</strong></p>
+<table>
+<thead>
+<tr>
+<th>Capa</th>
+<th>Profundidad aproximada</th>
+<th>Estado y comportamiento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Litosfera</strong></td>
+<td>0 a unos 100 km</td>
+<td><strong>Rígida</strong>; formada por la corteza y la parte superior del manto. Está fragmentada en <strong>placas</strong></td>
+</tr>
+<tr>
+<td><strong>Astenosfera</strong></td>
+<td>Desde unos 100 km hasta unos 350 km (algunas fuentes la extienden hasta 670 km)</td>
+<td>Sólida, pero <strong>plástica</strong>: fluye lentamente, como una plastilina muy caliente. Sobre ella se mueven las placas</td>
+</tr>
+<tr>
+<td><strong>Mesosfera</strong> (manto inferior)</td>
+<td>Hasta unos 2 900 km</td>
+<td>Sólida y más rígida por la enorme presión</td>
+</tr>
+<tr>
+<td><strong>Núcleo externo</strong></td>
+<td>2 900 a 5 150 km</td>
+<td><strong>Líquido</strong>; su movimiento genera el campo magnético</td>
+</tr>
+<tr>
+<td><strong>Núcleo interno</strong></td>
+<td>5 150 a 6 371 km</td>
+<td><strong>Sólido</strong>, pese a estar a unos 5 000 – 6 000 °C, por la presión inmensa</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>El error clásico: «la litosfera es la corteza».</strong> No: la litosfera incluye la corteza <strong>y</strong> la parte más superficial del manto. Las placas tectónicas son trozos de <strong>litosfera</strong>, no solo de corteza. Otro error frecuente es pensar que el manto es de roca fundida: casi todo el manto es <strong>sólido</strong>; la astenosfera fluye porque está cerca de fundirse, no porque sea líquida. El magma de los volcanes se forma solo en zonas puntuales.</p>
+</div>
+<h3 id="c-la-relacion-con-la-tectonica-de-placas">c. La relación con la tectónica de placas</h3>
+<p>El modelo físico es el que permite entender la tectónica: una <strong>litosfera rígida</strong> partida en placas que se desplazan sobre una <strong>astenosfera plástica</strong>. Y el motor del movimiento está más abajo: el calor del interior (en parte, calor remanente de la formación de la Tierra y, en parte, producido por elementos radiactivos) genera <strong>corrientes de convección</strong> muy lentas en el manto. El material caliente sube, se enfría cerca de la superficie y vuelve a bajar, arrastrando las placas. Además, el peso de las placas oceánicas frías que se hunden en las zonas de subducción <strong>tira</strong> del resto de la placa.</p>
+<h3 id="d-como-se-sabe-las-ondas-sismicas">d. Cómo se sabe: las ondas sísmicas</h3>
+<p>En el capítulo 1 vimos que un sismo genera dos tipos de ondas internas:</p>
+<table>
+<thead>
+<tr>
+<th>Onda</th>
+<th>Tipo</th>
+<th>Rapidez en la corteza</th>
+<th>¿Atraviesa líquidos?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>P</strong> (primaria)</td>
+<td>Longitudinal: comprime y estira el material</td>
+<td>Unos 6 – 8 km/s</td>
+<td><strong>Sí</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong> (secundaria)</td>
+<td>Transversal: sacude el material de lado</td>
+<td>Unos 3,5 – 4,5 km/s</td>
+<td><strong>No</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Al atravesar la Tierra, las ondas <strong>cambian de rapidez</strong> según el material, y por eso <strong>se refractan</strong> (se curvan) como la luz al pasar del aire al agua. En algunas profundidades el cambio es brusco: son las <strong>discontinuidades</strong>, que marcan los límites entre capas:</p>
+<table>
+<thead>
+<tr>
+<th>Discontinuidad</th>
+<th>Profundidad</th>
+<th>Separa</th>
+<th>Descubierta por</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Mohorovičić</strong> (Moho)</td>
+<td>5 – 70 km</td>
+<td>Corteza y manto</td>
+<td>Andrija Mohorovičić, 1909</td>
+</tr>
+<tr>
+<td><strong>Gutenberg</strong></td>
+<td>Unos 2 900 km</td>
+<td>Manto y núcleo</td>
+<td>Beno Gutenberg, 1914</td>
+</tr>
+<tr>
+<td><strong>Lehmann</strong></td>
+<td>Unos 5 150 km</td>
+<td>Núcleo externo e interno</td>
+<td>Inge Lehmann, 1936</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="img/cap04-sismos-tierra/zona-sombra.svg" alt="Corte de la Tierra con un sismo en la parte superior. Las ondas P atraviesan el núcleo refractándose; las ondas S se detienen en el borde del núcleo externo. En el lado opuesto se marca la zona de sombra de las ondas S, desde unos 104 grados, y la zona de sombra de las ondas P, entre 104 y 140 grados"><figcaption>Figura 2. Las ondas S no atraviesan el núcleo externo líquido y dejan una gran zona de sombra; las ondas P se refractan en el núcleo y dejan una zona de sombra entre unos 104° y 140°. Diagrama propio.</figcaption></figure>
+
+<p><strong>La evidencia de que el núcleo externo es líquido.</strong> Cuando ocurre un gran sismo, las estaciones sismológicas ubicadas a más de unos <strong>104°</strong> de distancia angular del epicentro, del otro lado del planeta, <strong>no registran ondas S directas</strong>. Como las ondas S no se propagan en líquidos, la explicación más simple es que hay una capa líquida en el camino: el <strong>núcleo externo</strong>. Las ondas P, en cambio, sí llegan, pero se refractan al entrar y salir del núcleo, y dejan una franja sin ondas P directas entre unos 104° y 140°. El análisis de ondas P débiles que aparecían en esa franja fue lo que llevó a Inge Lehmann a proponer un <strong>núcleo interno sólido</strong>.</p>
+<div class="ejemplo">
+<p><strong>Razonar con la evidencia.</strong> Una estación sismológica en el lado opuesto del planeta registra ondas P de un sismo en Chile, pero no ondas S. ¿Qué se puede concluir? Que en el camino entre el sismo y la estación hay material en estado <strong>líquido</strong>, porque las ondas S (transversales) no se propagan en líquidos y las P (longitudinales) sí. No se puede concluir, en cambio, que las ondas S «se agotaron» por la distancia: las P, que recorrieron un camino similar, sí llegaron.</p>
+</div>
+<h2 id="3-la-deriva-continental">3. La deriva continental</h2>
+<h3 id="a-la-idea-de-wegener">a. La idea de Wegener</h3>
+<p>Cualquiera que mire un mapa nota que la costa este de Sudamérica y la costa oeste de África parecen piezas de un rompecabezas. Varios pensadores lo habían comentado, pero fue el meteorólogo alemán <strong>Alfred Wegener</strong> quien, en <strong>1912</strong>, propuso una hipótesis completa y la defendió con evidencias en su libro <em>El origen de los continentes y los océanos</em> (1915).</p>
+<p>Su propuesta: hace unos 300 millones de años, todos los continentes estaban unidos en un solo supercontinente, <strong>Pangea</strong> («toda la tierra»), rodeado por un océano único, <strong>Pantalasa</strong>. Pangea se fragmentó y los continentes <strong>derivaron</strong> lentamente hasta sus posiciones actuales.</p>
+<figure><img src="img/cap04-sismos-tierra/pangea-evidencias.svg" alt="Esquema de Sudamérica, África, India, Antártida y Australia unidos en Gondwana, con franjas de colores que muestran la distribución de fósiles de Mesosaurus, Glossopteris, Lystrosaurus y Cynognathus, que continúan de un continente a otro"><figcaption>Figura 3. Al juntar los continentes del sur, los fósiles de las mismas especies forman franjas continuas. Esquema simplificado. Diagrama propio.</figcaption></figure>
+
+<h3 id="b-las-evidencias">b. Las evidencias</h3>
+<p>Wegener reunió evidencias de disciplinas muy distintas. Su fuerza estaba en que <strong>todas apuntaban a lo mismo</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Tipo de evidencia</th>
+<th>Qué se observa</th>
+<th>Por qué apoya la deriva</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Geográfica</strong></td>
+<td>Las costas de Sudamérica y África encajan; el ajuste es aún mejor si se usa el borde de la plataforma continental, bajo el mar</td>
+<td>Encajan como piezas que estuvieron unidas</td>
+</tr>
+<tr>
+<td><strong>Paleontológica</strong> (fósiles)</td>
+<td>Fósiles de las mismas especies en continentes separados por océanos: el reptil acuático <strong><em>Mesosaurus</em></strong> (en Brasil y en el sur de África), el helecho con semillas <strong><em>Glossopteris</em></strong> (en Sudamérica, África, India, Antártida y Australia), los reptiles terrestres <strong><em>Lystrosaurus</em></strong> y <strong><em>Cynognathus</em></strong></td>
+<td>Esos organismos no podían cruzar un océano: los continentes tenían que estar unidos</td>
+</tr>
+<tr>
+<td><strong>Geológica</strong></td>
+<td>Rocas del mismo tipo y edad, y cadenas montañosas antiguas, que continúan de un continente a otro al juntarlos (por ejemplo, entre Brasil y África occidental, o entre los Apalaches y las montañas de Escocia)</td>
+<td>Son partes de una misma formación que se separó</td>
+</tr>
+<tr>
+<td><strong>Paleoclimática</strong></td>
+<td>Huellas de glaciares antiguos en zonas hoy tropicales (India, sur de África, Brasil) y depósitos de carbón —formado en climas cálidos y húmedos— en la Antártida</td>
+<td>Esos continentes estuvieron en otras latitudes, y juntos</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Cómo se usa una evidencia paleontológica.</strong> Lo que prueba la deriva no es que haya fósiles antiguos en varios continentes, sino que haya fósiles de la <strong>misma especie</strong> que <strong>no podía cruzar el mar</strong>: un reptil de agua dulce, como <em>Mesosaurus</em>, o una planta con semillas grandes y pesadas, como <em>Glossopteris</em>. Si una pregunta ofrece como evidencia un animal que vuela o nada en mar abierto, ese dato no sirve para apoyar la hipótesis.</p>
+</div>
+<h3 id="c-por-que-fue-rechazada">c. Por qué fue rechazada</h3>
+<p>A pesar de sus evidencias, la comunidad científica —sobre todo los geólogos— rechazó la deriva continental durante décadas. La principal objeción no era contra las evidencias, sino contra el <strong>mecanismo</strong>:</p>
+<ul>
+<li>Wegener propuso que los continentes «araban» el fondo del océano, empujados por fuerzas relacionadas con la rotación terrestre y las mareas.</li>
+<li>Los físicos calcularon que esas fuerzas eran <strong>demasiado débiles</strong> para mover continentes, y que las rocas del fondo oceánico eran demasiado rígidas para ser atravesadas.</li>
+</ul>
+<p>Wegener murió en 1930 en una expedición a Groenlandia, sin ver aceptada su idea.</p>
+<div class="nota">
+<p><strong>Una lección sobre la ciencia.</strong> La hipótesis de Wegener era correcta en lo esencial —los continentes se mueven—, pero su explicación del <strong>cómo</strong> era equivocada. Una hipótesis necesita, además de evidencias de que algo ocurre, un <strong>mecanismo</strong> plausible que explique por qué ocurre. La deriva continental fue aceptada cuando, en los años sesenta, la tectónica de placas aportó ese mecanismo, gracias a datos nuevos que Wegener no tenía: los del fondo del océano.</p>
+</div>
+<h3 id="d-de-la-deriva-a-la-tectonica-de-placas">d. De la deriva a la tectónica de placas</h3>
+<p>La tectónica de placas <strong>conserva</strong> la idea central de Wegener y la <strong>corrige</strong>:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Deriva continental (Wegener)</th>
+<th>Tectónica de placas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qué se mueve</td>
+<td>Los continentes, que «navegan» a través del fondo oceánico</td>
+<td>Las <strong>placas litosféricas</strong>, que incluyen continentes y fondo oceánico juntos</td>
+</tr>
+<tr>
+<td>Sobre qué</td>
+<td>Sobre la corteza oceánica</td>
+<td>Sobre la <strong>astenosfera</strong></td>
+</tr>
+<tr>
+<td>Qué lo mueve</td>
+<td>Rotación terrestre y mareas (incorrecto)</td>
+<td><strong>Convección del manto</strong> y el hundimiento de las placas en la subducción</td>
+</tr>
+<tr>
+<td>Evidencias principales</td>
+<td>Continentales: costas, fósiles, rocas, clima</td>
+<td>Además: dorsales, bandas magnéticas, edad del fondo oceánico, distribución de sismos y volcanes</td>
+</tr>
+</tbody>
+</table>
+<h2 id="4-la-tectonica-de-placas">4. La tectónica de placas</h2>
+<h3 id="a-lo-que-revelo-el-fondo-del-oceano">a. Lo que reveló el fondo del océano</h3>
+<p>Después de la Segunda Guerra Mundial, con sonares y magnetómetros desarrollados para detectar submarinos, se exploró el fondo marino como nunca antes. Aparecieron tres descubrimientos que cambiaron la geología:</p>
+<ol>
+<li><strong>Las dorsales oceánicas.</strong> Una cordillera submarina de decenas de miles de kilómetros recorre todos los océanos, como la costura de una pelota. En su centro hay un valle con volcanes y un flujo de calor elevado.</li>
+<li><strong>La edad del fondo oceánico.</strong> Las rocas del fondo marino son <strong>más jóvenes cerca de las dorsales</strong> y <strong>más antiguas lejos de ellas</strong>. Y ninguna tiene más de unos <strong>200 millones de años</strong>, mientras que hay rocas continentales de más de 4 000 millones de años.</li>
+<li><strong>Las bandas magnéticas.</strong> El campo magnético terrestre <strong>se invierte</strong> cada cierto tiempo (el norte magnético pasa a estar en el sur). Las rocas volcánicas registran la orientación del campo cuando se enfrían. A ambos lados de las dorsales, el fondo marino muestra <strong>bandas de magnetización normal e invertida, simétricas</strong>, como un código de barras reflejado en un espejo.</li>
+</ol>
+<h3 id="b-la-expansion-del-fondo-oceanico">b. La expansión del fondo oceánico</h3>
+<p>En 1962, <strong>Harry Hess</strong> (y, de forma independiente, Robert Dietz) propuso una explicación que unía los tres descubrimientos: en las dorsales <strong>sube material caliente del manto</strong>, se enfría y forma <strong>nueva corteza oceánica</strong>, que se va separando hacia ambos lados. A medida que el fondo se expande, las rocas nuevas registran el campo magnético del momento; como el campo se invierte cada cierto tiempo, se forman bandas simétricas. En 1963, Vine y Matthews mostraron que el patrón magnético calzaba exactamente con esa predicción.</p>
+<figure><img src="img/cap04-sismos-tierra/expansion-fondo.svg" alt="Corte de una dorsal oceánica: material del manto sube en el centro y la corteza nueva se separa hacia ambos lados; las bandas de magnetización normal e invertida son simétricas respecto de la dorsal y la edad de las rocas aumenta hacia los lados"><figcaption>Figura 4. En la dorsal se crea nueva corteza que se separa hacia ambos lados. Las bandas magnéticas son simétricas y las rocas son más antiguas cuanto más lejos de la dorsal. Diagrama propio.</figcaption></figure>
+
+<p>Pero si se crea corteza nueva en las dorsales y la Tierra no crece, en algún otro lugar tiene que <strong>destruirse</strong>. Ese lugar son las <strong>fosas oceánicas</strong>, donde el fondo marino se hunde de vuelta al manto: la <strong>subducción</strong>. Por eso el fondo oceánico es tan joven: se recicla continuamente.</p>
+<div class="tip">
+<p><strong>Qué demuestran las bandas magnéticas.</strong> Su <strong>simetría</strong> respecto de la dorsal es la clave: indica que la corteza se forma en el centro y se reparte hacia ambos lados. Si una pregunta te pide la evidencia que apoya la expansión del fondo oceánico, busca la simetría de las bandas, la edad creciente de las rocas al alejarse de la dorsal o la ausencia de fondo oceánico muy antiguo.</p>
+</div>
+<h3 id="c-la-teoria-de-la-tectonica-de-placas">c. La teoría de la tectónica de placas</h3>
+<p>Hacia fines de los años sesenta, todas estas ideas se integraron en la <strong>teoría de la tectónica de placas</strong>:</p>
+<ul>
+<li>La <strong>litosfera</strong> está dividida en unas <strong>quince placas grandes</strong> y varias pequeñas, que encajan como las piezas de un balón de fútbol.</li>
+<li>Las placas son <strong>rígidas</strong> y se desplazan sobre la <strong>astenosfera</strong>, a velocidades de <strong>unos pocos centímetros por año</strong> (del orden de lo que crecen las uñas).</li>
+<li>El motor es el <strong>calor interno</strong>: la convección del manto y el peso de las placas que se hunden en la subducción.</li>
+<li>Casi toda la actividad geológica —sismos, volcanes, formación de montañas— ocurre en los <strong>bordes</strong> entre placas, donde interactúan.</li>
+</ul>
+<p>La prueba más directa de que las placas se mueven hoy la dan las mediciones con <strong>GPS</strong>: estaciones fijas en distintos continentes registran cómo cambian sus posiciones año a año.</p>
+<div class="ejemplo">
+<p><strong>Qué tan rápido es «lento».</strong> La placa de Nazca converge con la placa Sudamericana a unos <strong>7 cm/año</strong> (entre 6,5 y 9 cm/año según la zona y la fuente). A 7 cm/año, en 1 000 años son 70 m; en 1 millón de años, <strong>70 km</strong>; en 10 millones de años, 700 km. Movimientos imperceptibles en una vida humana construyen océanos y cordilleras en tiempos geológicos. Y el Atlántico, que se abre a unos 2 a 3 cm/año, necesitó unos 150 millones de años para alcanzar su ancho actual.</p>
+</div>
+<h3 id="d-las-placas-que-afectan-a-chile">d. Las placas que afectan a Chile</h3>
+<p>Chile está sobre la <strong>placa Sudamericana</strong>, que avanza hacia el oeste. Frente a sus costas, la <strong>placa de Nazca</strong> (en el norte y centro) y la <strong>placa Antártica</strong> (en el extremo sur) se mueven hacia el este y se <strong>hunden bajo el continente</strong>. Esa subducción es la causa directa de:</p>
+<ul>
+<li>la <strong>fosa de Atacama</strong> (o fosa de Chile–Perú), que supera los 8 000 m de profundidad frente al norte de Chile;</li>
+<li>la <strong>cordillera de los Andes</strong>, levantada por la compresión;</li>
+<li>los <strong>volcanes</strong> chilenos;</li>
+<li>los <strong>grandes terremotos</strong> y <strong>tsunamis</strong> que han marcado la historia del país.</li>
+</ul>
+<h2 id="5-los-limites-entre-placas">5. Los límites entre placas</h2>
+<p>Lo que ocurre en un borde depende de <strong>cómo se mueven</strong> las placas una respecto de la otra. Hay tres tipos de límites:</p>
+<figure><img src="img/cap04-sismos-tierra/limites-placas.svg" alt="Tres cortes de límites de placas. Divergente: dos placas se separan y sube magma formando una dorsal. Convergente: una placa oceánica se hunde bajo una continental formando una fosa, una cordillera y volcanes. Transformante: dos placas se deslizan lado a lado a lo largo de una falla"><figcaption>Figura 5. Los tres tipos de límites entre placas. Diagrama propio.</figcaption></figure>
+
+<h3 id="a-limites-divergentes">a. Límites divergentes</h3>
+<p>Las placas <strong>se separan</strong>. El material del manto sube, se funde parcialmente y forma <strong>nueva litosfera</strong>. Por eso se llaman también <strong>constructivos</strong>.</p>
+<ul>
+<li><strong>En el océano</strong> forman las <strong>dorsales</strong>, como la dorsal Mesoatlántica, que separa América de Europa y África. <strong>Islandia</strong> es un trozo de dorsal que sobresale del mar, y allí se puede caminar entre dos placas.</li>
+<li><strong>En un continente</strong> forman un <strong>rift</strong> o valle de fractura, que puede terminar abriendo un océano nuevo: es lo que está ocurriendo en el <strong>Valle del Rift</strong> de África oriental.</li>
+</ul>
+<p>Consecuencias: sismos <strong>poco profundos</strong> y en general de magnitud moderada, y volcanismo con lava fluida (basáltica).</p>
+<h3 id="b-limites-convergentes">b. Límites convergentes</h3>
+<p>Las placas <strong>chocan</strong>. Lo que ocurre depende del tipo de litosfera que se encuentra, porque la <strong>oceánica es más densa</strong> que la continental:</p>
+<table>
+<thead>
+<tr>
+<th>Tipo de convergencia</th>
+<th>Qué ocurre</th>
+<th>Relieve y consecuencias</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Oceánica–continental</strong></td>
+<td>La placa oceánica, más densa, <strong>subduce</strong> bajo la continental</td>
+<td>Fosa oceánica, cordillera con volcanes en el continente, sismos de todas las profundidades y los más grandes del planeta</td>
+<td><strong>Nazca bajo Sudamérica</strong>: fosa de Atacama y cordillera de los Andes</td>
+</tr>
+<tr>
+<td><strong>Oceánica–oceánica</strong></td>
+<td>Una placa oceánica (la más antigua y densa) subduce bajo la otra</td>
+<td>Fosa y un <strong>arco de islas volcánicas</strong></td>
+<td>Japón, Aleutianas, fosa de las Marianas (la más profunda del mundo, unos 11 000 m)</td>
+</tr>
+<tr>
+<td><strong>Continental–continental</strong></td>
+<td>Ninguna subduce con facilidad (ambas son poco densas); la corteza se pliega y se engrosa</td>
+<td>Grandes <strong>cordilleras</strong> de plegamiento, sismos, poco o nada de volcanismo</td>
+<td>India contra Asia: el <strong>Himalaya</strong> y el monte Everest</td>
+</tr>
+</tbody>
+</table>
+<p>Los límites convergentes se llaman <strong>destructivos</strong> cuando hay subducción, porque la litosfera oceánica vuelve al manto.</p>
+<div class="nota">
+<p><strong>Cómo se reconoce una zona de subducción en los datos.</strong> Si se grafican los hipocentros de los sismos de una zona de subducción según su profundidad y su distancia a la fosa, forman un plano inclinado que se hunde bajo el continente (la <strong>zona de Wadati–Benioff</strong>): son superficiales cerca de la fosa y cada vez más profundos tierra adentro. En Chile, los sismos cerca de la costa son superficiales, y bajo la cordillera ocurren a 100 km o más de profundidad. Es una de las evidencias más claras de que la placa de Nazca se está hundiendo.</p>
+</div>
+<h3 id="c-limites-transformantes">c. Límites transformantes</h3>
+<p>Las placas <strong>se deslizan lateralmente</strong> una junto a la otra, en sentidos opuestos, a lo largo de una gran falla. <strong>No se crea ni se destruye</strong> litosfera, por eso se llaman <strong>conservativos</strong>.</p>
+<ul>
+<li>El ejemplo más conocido es la <strong>falla de San Andrés</strong>, en California, entre las placas del Pacífico y Norteamericana.</li>
+<li>También hay muchas fallas transformantes cortas que cortan las dorsales oceánicas en segmentos.</li>
+</ul>
+<p>Consecuencias: sismos <strong>superficiales</strong>, a veces muy destructivos, y casi sin volcanismo.</p>
+<h3 id="d-resumen">d. Resumen</h3>
+<table>
+<thead>
+<tr>
+<th>Límite</th>
+<th>Movimiento</th>
+<th>Litosfera</th>
+<th>Relieve típico</th>
+<th>Sismos</th>
+<th>Volcanismo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Divergente</td>
+<td>Se separan</td>
+<td>Se crea</td>
+<td>Dorsal, rift</td>
+<td>Superficiales, moderados</td>
+<td>Sí (lava fluida)</td>
+</tr>
+<tr>
+<td>Convergente con subducción</td>
+<td>Chocan, una se hunde</td>
+<td>Se destruye</td>
+<td>Fosa, cordillera o arco de islas</td>
+<td>Superficiales a profundos; los más grandes</td>
+<td>Sí (explosivo)</td>
+</tr>
+<tr>
+<td>Convergente continental</td>
+<td>Chocan</td>
+<td>Se pliega</td>
+<td>Cordillera de plegamiento</td>
+<td>Frecuentes</td>
+<td>Escaso</td>
+</tr>
+<tr>
+<td>Transformante</td>
+<td>Se deslizan lateralmente</td>
+<td>Se conserva</td>
+<td>Falla</td>
+<td>Superficiales</td>
+<td>Casi nulo</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Un error típico sobre los Andes y el Himalaya.</strong> Ambas son cordilleras de límites convergentes, pero de tipos distintos. Los <strong>Andes</strong> se deben a <strong>subducción</strong> (oceánica bajo continental) y por eso tienen muchos volcanes. El <strong>Himalaya</strong> se debe a un <strong>choque de continentes</strong> y casi no tiene volcanes. Si un ítem asocia el Himalaya con subducción o con volcanismo, está equivocado.</p>
+</div>
+<h2 id="6-los-sismos">6. Los sismos</h2>
+<h3 id="a-como-se-produce-un-sismo">a. Cómo se produce un sismo</h3>
+<p>En los bordes de las placas, las rocas están sometidas a enormes esfuerzos. Mientras el roce entre dos bloques de roca los mantiene trabados, las rocas <strong>se deforman y acumulan energía</strong>, como un resorte que se comprime (capítulo 6). Cuando el esfuerzo supera la resistencia de la roca o el roce en la <strong>falla</strong>, los bloques se deslizan de golpe y la energía acumulada se libera, en parte, como <strong>ondas sísmicas</strong>. Eso es un <strong>sismo</strong>.</p>
+<figure><img src="img/cap04-sismos-tierra/hipocentro-epicentro.svg" alt="Corte de la corteza con una falla. En la falla, bajo la superficie, está el hipocentro, desde donde salen frentes de onda circulares. Directamente arriba, en la superficie, está el epicentro"><figcaption>Figura 6. El hipocentro es el punto donde comienza la ruptura; el epicentro, el punto de la superficie justo encima. Diagrama propio.</figcaption></figure>
+
+<ul>
+<li><strong>Hipocentro</strong> o <strong>foco</strong>: punto del interior donde comienza la ruptura.</li>
+<li><strong>Epicentro</strong>: punto de la <strong>superficie</strong> ubicado directamente sobre el hipocentro.</li>
+<li><strong>Profundidad focal</strong>: distancia entre ambos. Los sismos se clasifican en superficiales (menos de 70 km), intermedios (70 a 300 km) y profundos (más de 300 km). Los profundos solo ocurren en zonas de subducción.</li>
+</ul>
+<p>En Chile, además de los sismos en el contacto entre las placas de Nazca y Sudamericana (<strong>interplaca</strong>), hay sismos <strong>dentro</strong> de la placa de Nazca que se hunde (<strong>intraplaca de profundidad intermedia</strong>) y sismos <strong>corticales</strong> en fallas superficiales del continente, que pueden ser muy destructivos aunque sean de magnitud menor, por estar cerca de la superficie.</p>
+<h3 id="b-las-ondas-sismicas">b. Las ondas sísmicas</h3>
+<table>
+<thead>
+<tr>
+<th>Onda</th>
+<th>Cómo mueve el suelo</th>
+<th>Rapidez</th>
+<th>Qué atraviesa</th>
+<th>Llega…</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>P</strong> (primaria)</td>
+<td>Compresión y expansión en la dirección de avance (<strong>longitudinal</strong>)</td>
+<td>La más rápida: 6 – 8 km/s en la corteza</td>
+<td>Sólidos, líquidos y gases</td>
+<td><strong>Primero</strong></td>
+</tr>
+<tr>
+<td><strong>S</strong> (secundaria)</td>
+<td>Sacudida perpendicular a la dirección de avance (<strong>transversal</strong>)</td>
+<td>Unos 3,5 – 4,5 km/s</td>
+<td>Solo <strong>sólidos</strong></td>
+<td>Después de la P</td>
+</tr>
+<tr>
+<td><strong>Superficiales</strong> (Love y Rayleigh)</td>
+<td>Movimientos de lado a lado y ondulaciones como olas en el suelo</td>
+<td>Las más lentas</td>
+<td>Viajan por la superficie</td>
+<td>Al final; suelen causar el mayor daño</td>
+</tr>
+</tbody>
+</table>
+<p>Muchas personas perciben primero un golpe seco o un «ruido» (ondas P) y después el movimiento fuerte (ondas S y superficiales). Los sistemas de <strong>alerta temprana</strong> aprovechan esa diferencia: detectan las ondas P cerca del epicentro y emiten una alerta que viaja casi a la rapidez de la luz, antes de que lleguen las ondas destructivas.</p>
+<h3 id="c-como-se-ubica-el-epicentro">c. Cómo se ubica el epicentro</h3>
+<p>Un <strong>sismógrafo</strong> registra el movimiento del suelo en un gráfico llamado <strong>sismograma</strong>. Como las ondas P y S parten juntas del hipocentro pero viajan a distinta rapidez, <strong>cuanto más lejos está la estación, mayor es el tiempo entre la llegada de la P y la de la S</strong>.</p>
+<div class="ejemplo">
+<p><strong>Calcular la distancia.</strong> En una estación, las ondas P llegan 20 s antes que las S. Supón <em>v</em><sub>P</sub> = 8 km/s y <em>v</em><sub>S</sub> = 4 km/s. Si <em>d</em> es la distancia al hipocentro:</p>
+<p><em>d</em> / 4 − <em>d</em> / 8 = 20 s → <em>d</em> / 8 = 20 s → <em>d</em> = <strong>160 km</strong>.</p>
+<p>Con una sola estación se conoce la distancia, pero no la dirección: el sismo está en algún punto de una circunferencia de 160 km de radio. Con <strong>tres estaciones</strong>, las tres circunferencias se cortan en un solo punto: el epicentro. Es la <strong>triangulación</strong>.</p>
+</div>
+<figure><img src="img/cap04-sismos-tierra/triangulacion.svg" alt="Mapa con tres estaciones sismológicas, cada una con una circunferencia de radio igual a su distancia al sismo; las tres circunferencias se cortan en un único punto, el epicentro"><figcaption>Figura 7. Con las distancias medidas desde tres estaciones se ubica el epicentro. Diagrama propio.</figcaption></figure>
+
+<h3 id="d-magnitud-e-intensidad">d. Magnitud e intensidad</h3>
+<p>Son dos formas distintas de medir un sismo, y la PAES las pone a competir:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Magnitud</th>
+<th>Intensidad</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qué mide</td>
+<td>La <strong>energía liberada</strong> en el hipocentro</td>
+<td>Los <strong>efectos</strong> percibidos en un lugar: cómo lo sintieron las personas, daños en construcciones</td>
+</tr>
+<tr>
+<td>¿Cuántos valores tiene un sismo?</td>
+<td><strong>Uno solo</strong></td>
+<td><strong>Muchos</strong>: uno en cada lugar</td>
+</tr>
+<tr>
+<td>Cómo se obtiene</td>
+<td>Con los registros de sismógrafos</td>
+<td>Con encuestas y observación de daños</td>
+</tr>
+<tr>
+<td>Escala</td>
+<td><strong>Magnitud de momento</strong> (<em>M</em><sub>w</sub>), heredera de la de <strong>Richter</strong>; es logarítmica y sin tope teórico</td>
+<td><strong>Mercalli modificada</strong>, de I a XII (en números romanos)</td>
+</tr>
+</tbody>
+</table>
+<p>La escala de magnitud es <strong>logarítmica</strong>: cada punto más de magnitud significa unas <strong>32 veces más energía</strong> liberada. Un sismo de magnitud 8 libera unas 32 veces más energía que uno de 7, y unas 1 000 veces (32 × 32) más que uno de 6.</p>
+<div class="tip">
+<p><strong>«El terremoto fue grado 8 en Santiago y grado 6 en Concepción.»</strong> Si se habla de lugares distintos, se trata de <strong>intensidades</strong> (y deberían escribirse VIII y VI). La <strong>magnitud</strong> es una sola para todo el sismo. La intensidad depende de la distancia al epicentro, de la profundidad del hipocentro, del tipo de suelo (los suelos blandos y rellenos amplifican el movimiento) y de la calidad de las construcciones.</p>
+</div>
+<h3 id="e-los-grandes-sismos-de-chile">e. Los grandes sismos de Chile</h3>
+<table>
+<thead>
+<tr>
+<th>Fecha</th>
+<th>Nombre</th>
+<th>Magnitud (<em>M</em><sub>w</sub>)</th>
+<th>Observaciones</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>22 de mayo de 1960</td>
+<td>Terremoto de Valdivia</td>
+<td><strong>9,5</strong></td>
+<td>El más grande registrado en el mundo; tsunami que cruzó el Pacífico y llegó a Hawái y Japón</td>
+</tr>
+<tr>
+<td>27 de febrero de 2010</td>
+<td>Terremoto del Maule</td>
+<td>8,8</td>
+<td>Tsunami en la costa del centro-sur</td>
+</tr>
+<tr>
+<td>1 de abril de 2014</td>
+<td>Terremoto de Iquique</td>
+<td>8,2</td>
+<td></td>
+</tr>
+<tr>
+<td>16 de septiembre de 2015</td>
+<td>Terremoto de Illapel</td>
+<td>8,3</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>En Chile, el <strong>Centro Sismológico Nacional</strong> (Universidad de Chile) registra y localiza los sismos; el <strong>Servicio Hidrográfico y Oceanográfico de la Armada</strong> (SHOA) evalúa la amenaza de tsunami; y el <strong>Servicio Nacional de Prevención y Respuesta ante Desastres</strong> (SENAPRED, que en 2023 reemplazó a la ONEMI) coordina las alertas y la respuesta. La <strong>norma sísmica</strong> de construcción obliga a diseñar los edificios para resistir sismos severos, y es una de las razones por las que grandes terremotos causan en Chile menos víctimas que sismos menores en otros países.</p>
+<h3 id="f-los-tsunamis">f. Los tsunamis</h3>
+<p>Cuando un gran sismo de subducción <strong>desplaza verticalmente el fondo marino</strong>, levanta o hunde toda la columna de agua sobre él y genera un <strong>tsunami</strong>: una serie de olas de <strong>longitud de onda enorme</strong> (cientos de kilómetros). En mar abierto viajan a más de 700 km/h con una altura de apenas unos centímetros o decímetros; al llegar a la costa, la profundidad disminuye, las olas se frenan y <strong>crecen en altura</strong> (su energía se concentra), inundando la costa. La primera ola no siempre es la mayor, y el peligro puede durar horas.</p>
+<div class="nota">
+<p><strong>La regla de autoprotección en Chile.</strong> Si en la costa un sismo <strong>impide mantenerse en pie</strong>, hay que evacuar de inmediato hacia zonas altas, sin esperar una alarma oficial. El propio sismo es la alerta.</p>
+</div>
+<h2 id="7-el-volcanismo">7. El volcanismo</h2>
+<h3 id="a-que-es-un-volcan">a. Qué es un volcán</h3>
+<p>Un <strong>volcán</strong> es una abertura de la corteza por la que sale material del interior: <strong>magma</strong> (roca fundida con gases disueltos), gases y fragmentos de roca. Cuando el magma sale a la superficie se llama <strong>lava</strong>. El magma se acumula en una <strong>cámara magmática</strong>, a pocos kilómetros de profundidad, y asciende por una <strong>chimenea</strong> hasta el <strong>cráter</strong>.</p>
+<figure><img src="img/cap04-sismos-tierra/volcan-subduccion.svg" alt="Corte de una zona de subducción: la placa oceánica se hunde bajo la continental; a unos 100 kilómetros de profundidad libera agua que funde parcialmente el manto; el magma sube, se acumula en una cámara magmática y alimenta un volcán en la cordillera"><figcaption>Figura 8. Cómo se forman los volcanes en una zona de subducción, como en los Andes. Diagrama propio.</figcaption></figure>
+
+<h3 id="b-donde-se-forman-los-volcanes-y-por-que">b. Dónde se forman los volcanes y por qué</h3>
+<p>El manto es casi todo sólido, así que para que haya magma algo tiene que fundir las rocas. Eso ocurre en tres situaciones, las tres relacionadas con la dinámica interna:</p>
+<table>
+<thead>
+<tr>
+<th>Lugar</th>
+<th>Por qué se funde el manto</th>
+<th>Tipo de magma y erupción</th>
+<th>Ejemplos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Zonas de subducción</strong> (límites convergentes)</td>
+<td>La placa que se hunde libera <strong>agua</strong> a unos 100 km de profundidad; el agua <strong>baja la temperatura de fusión</strong> del manto que está encima</td>
+<td>Magma viscoso y con muchos gases: erupciones <strong>explosivas</strong></td>
+<td>Volcanes de los Andes, Japón, Indonesia</td>
+</tr>
+<tr>
+<td><strong>Dorsales</strong> (límites divergentes)</td>
+<td>El manto que sube <strong>pierde presión</strong> y se funde parcialmente</td>
+<td>Magma fluido (basáltico): erupciones <strong>efusivas</strong>, con coladas de lava</td>
+<td>Islandia, dorsal Mesoatlántica</td>
+</tr>
+<tr>
+<td><strong>Puntos calientes</strong> (en medio de las placas)</td>
+<td>Una columna de material muy caliente sube desde el manto profundo</td>
+<td>Magma fluido</td>
+<td>Hawái; <strong>Isla de Pascua</strong> (Rapa Nui), en la placa de Nazca</td>
+</tr>
+</tbody>
+</table>
+<p>Por eso los volcanes no están repartidos al azar: la mayoría se concentra en los bordes de las placas, sobre todo en el <strong>Cinturón de Fuego del Pacífico</strong>, que rodea ese océano y que concentra también la mayoría de los grandes sismos.</p>
+<div class="tip">
+<p><strong>Viscosidad y explosividad.</strong> Lo que decide si una erupción es explosiva no es la temperatura del magma, sino su <strong>viscosidad</strong> y la cantidad de <strong>gases</strong>. Un magma viscoso atrapa los gases, la presión aumenta y la erupción es violenta (como una bebida con gas agitada). Un magma fluido deja escapar los gases con facilidad y la lava corre. Los volcanes de subducción, como los chilenos, suelen ser <strong>explosivos</strong>.</p>
+</div>
+<h3 id="c-tipos-de-volcanes">c. Tipos de volcanes</h3>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Forma</th>
+<th>Magma</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Escudo</strong></td>
+<td>Muy ancho y de pendientes suaves</td>
+<td>Fluido, capas de lava</td>
+<td>Mauna Loa (Hawái)</td>
+</tr>
+<tr>
+<td><strong>Estratovolcán</strong> (compuesto)</td>
+<td>Cónico y alto, de pendientes empinadas, con capas alternadas de lava y cenizas</td>
+<td>Viscoso, erupciones explosivas</td>
+<td><strong>Villarrica</strong>, <strong>Osorno</strong>, <strong>Llaima</strong>, <strong>Calbuco</strong>; el Fuji en Japón</td>
+</tr>
+<tr>
+<td><strong>Cono de escoria</strong></td>
+<td>Pequeño, de pendientes empinadas</td>
+<td>Fragmentos expulsados en una sola erupción</td>
+<td>Conos en las laderas de volcanes mayores</td>
+</tr>
+</tbody>
+</table>
+<h3 id="d-los-volcanes-de-chile">d. Los volcanes de Chile</h3>
+<p>Chile tiene una de las cadenas volcánicas más activas del mundo, a lo largo de la cordillera de los Andes, alimentada por la subducción de las placas de Nazca y Antártica. Se reconocen alrededor de <strong>90 volcanes geológicamente activos</strong>. El <strong>Servicio Nacional de Geología y Minería</strong> (<strong>Sernageomin</strong>) vigila en tiempo real unos <strong>45</strong> de ellos, los de mayor peligro, a través de su Red Nacional de Vigilancia Volcánica (creada tras la erupción del Chaitén), y emite alertas técnicas.</p>
+<p>Algunas erupciones recientes: <strong>Chaitén</strong> (2008), que obligó a evacuar el pueblo; <strong>Puyehue–Cordón Caulle</strong> (2011), cuyas cenizas cruzaron hasta Argentina y afectaron el tráfico aéreo; y <strong>Calbuco</strong> y <strong>Villarrica</strong> (2015).</p>
+<p><strong>Riesgos volcánicos</strong>: caída de <strong>cenizas</strong> (daña cultivos, techos y motores de aviones, y afecta la respiración), <strong>flujos piroclásticos</strong> (avalanchas de gas y roca incandescente a gran velocidad, las más mortíferas), <strong>lahares</strong> (flujos de barro formados cuando la erupción derrite el hielo y la nieve de la cumbre, muy peligrosos en los volcanes nevados del sur de Chile) y <strong>coladas de lava</strong>.</p>
+<p><strong>Beneficios</strong>: suelos fértiles, energía <strong>geotérmica</strong> (en Chile opera la central Cerro Pabellón, en la región de Antofagasta), aguas termales y turismo.</p>
+<h2 id="8-la-tectonica-de-placas-y-el-relieve">8. La tectónica de placas y el relieve</h2>
+<h3 id="a-el-relieve-como-resultado-de-dos-fuerzas">a. El relieve como resultado de dos fuerzas</h3>
+<p>El relieve de la Tierra es el resultado de un tira y afloja entre dos tipos de procesos:</p>
+<ul>
+<li><strong>Internos</strong> (endógenos): la tectónica de placas y el volcanismo <strong>levantan</strong> montañas, abren océanos y forman fosas. Su energía viene del calor del interior.</li>
+<li><strong>Externos</strong> (exógenos): la erosión del agua, el viento y el hielo <strong>desgastan</strong> el relieve y transportan los sedimentos a zonas bajas. Su energía viene del Sol y de la gravedad.</li>
+</ul>
+<p>Una cordillera alta y de picos agudos, como los Andes, indica que los procesos internos todavía la están levantando más rápido de lo que la erosión la desgasta. Montañas bajas y redondeadas, como los Apalaches en Estados Unidos, indican cordilleras antiguas cuya actividad tectónica terminó hace mucho.</p>
+<h3 id="b-las-grandes-formas-del-relieve-y-su-origen">b. Las grandes formas del relieve y su origen</h3>
+<table>
+<thead>
+<tr>
+<th>Forma del relieve</th>
+<th>Tipo de límite</th>
+<th>Cómo se forma</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Dorsal oceánica</strong></td>
+<td>Divergente (océano)</td>
+<td>El material del manto sube y forma nueva litosfera</td>
+<td>Dorsal Mesoatlántica, dorsal del Pacífico oriental</td>
+</tr>
+<tr>
+<td><strong>Valle de rift</strong></td>
+<td>Divergente (continente)</td>
+<td>El continente se estira y se hunde por el centro</td>
+<td>Valle del Rift (África oriental)</td>
+</tr>
+<tr>
+<td><strong>Fosa oceánica</strong></td>
+<td>Convergente con subducción</td>
+<td>La placa oceánica se dobla y se hunde</td>
+<td>Fosa de Atacama (más de 8 000 m), fosa de las Marianas</td>
+</tr>
+<tr>
+<td><strong>Cordillera volcánica</strong></td>
+<td>Convergente oceánica–continental</td>
+<td>Compresión, engrosamiento de la corteza y volcanismo</td>
+<td>Cordillera de los Andes</td>
+</tr>
+<tr>
+<td><strong>Arco de islas volcánicas</strong></td>
+<td>Convergente oceánica–oceánica</td>
+<td>Volcanes que emergen del mar sobre la zona de subducción</td>
+<td>Japón, Aleutianas</td>
+</tr>
+<tr>
+<td><strong>Cordillera de plegamiento</strong></td>
+<td>Convergente continental–continental</td>
+<td>La corteza se pliega, se fractura y se engrosa</td>
+<td>Himalaya, Alpes</td>
+</tr>
+<tr>
+<td><strong>Islas volcánicas de punto caliente</strong></td>
+<td>Interior de placa</td>
+<td>La placa se mueve sobre una fuente fija de magma y deja una cadena de volcanes de edad creciente</td>
+<td>Hawái, Isla de Pascua</td>
+</tr>
+</tbody>
+</table>
+<h3 id="c-el-relieve-de-chile-visto-desde-la-tectonica">c. El relieve de Chile, visto desde la tectónica</h3>
+<p>Un corte de Chile de oeste a este, a la latitud de Santiago, cruza las huellas de la subducción:</p>
+<figure><img src="img/cap04-sismos-tierra/corte-chile.svg" alt="Corte oeste-este de Chile: de izquierda a derecha, la placa de Nazca en el océano, la fosa, la cordillera de la Costa, la depresión intermedia, la cordillera de los Andes con volcanes y la placa Sudamericana; la placa de Nazca se hunde bajo el continente con sismos a profundidades crecientes"><figcaption>Figura 9. Corte esquemático de Chile central. La subducción de la placa de Nazca explica la fosa, las cordilleras y los volcanes. Escala vertical exagerada. Diagrama propio.</figcaption></figure>
+
+<ol>
+<li><strong>Fosa</strong>: frente a la costa, donde la placa de Nazca empieza a hundirse.</li>
+<li><strong>Cordillera de la Costa</strong>: relieve antiguo levantado por la compresión.</li>
+<li><strong>Depresión intermedia</strong>: valle central, rellenado con sedimentos erosionados de las cordilleras.</li>
+<li><strong>Cordillera de los Andes</strong>: formada por la compresión y el engrosamiento de la corteza, y coronada por volcanes, que aparecen donde la placa de Nazca alcanza unos 100 km de profundidad.</li>
+</ol>
+<p>Los sismos grafican la placa que se hunde: superficiales cerca de la costa y cada vez más profundos hacia la cordillera y Argentina.</p>
+<div class="nota">
+<p><strong>Una cordillera que sigue creciendo.</strong> Los terremotos no solo sacuden: también <strong>deforman</strong> el terreno. En el terremoto del Maule de 2010, algunos sectores de la costa, como la isla Santa María, se levantaron más de 2 m en segundos, y otros se hundieron. Miles de estos eventos, sumados durante millones de años, son los que han construido el relieve de Chile.</p>
+</div>
+<div class="tip">
+<p><strong>Tiempo geológico y tiempo humano.</strong> Las placas se mueven unos centímetros al año y las cordilleras tardan millones de años en formarse. Pero la liberación de energía acumulada ocurre de golpe, en segundos: eso es un terremoto. Un error frecuente es pensar que un gran sismo «mueve el continente» de un lugar a otro: lo que hace es liberar en un instante la deformación acumulada durante décadas o siglos, desplazando el terreno algunos metros.</p>
+</div>
+<h2 id="ejemplos-paes-resueltos">Ejemplos PAES resueltos</h2>
+<p>Cuatro ítems al estilo de la prueba, resueltos paso a paso. Cúbrelos primero y después compara.</p>
+<div class="ejemplo">
+<p><strong>Ejemplo 1 (Procesar y analizar la evidencia).</strong> Un grupo de geólogos toma muestras de roca del fondo del océano Atlántico a distintas distancias de la dorsal Mesoatlántica, hacia el este y hacia el oeste, y mide su edad:</p>
+<table>
+<thead>
+<tr>
+<th>Distancia a la dorsal (km)</th>
+<th>0</th>
+<th>200</th>
+<th>400</th>
+<th>600</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Edad al oeste (millones de años)</td>
+<td>0</td>
+<td>10</td>
+<td>20</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Edad al este (millones de años)</td>
+<td>0</td>
+<td>10</td>
+<td>20</td>
+<td>30</td>
+</tr>
+</tbody>
+</table>
+<p>¿Qué conclusión es coherente con estos datos?</p>
+<p>A) El fondo oceánico se forma en la dorsal y se separa hacia ambos lados a unos 2 cm/año.
+B) El fondo oceánico se forma lejos de la dorsal y avanza hacia ella a unos 20 cm/año.
+C) Las rocas del fondo oceánico tienen la misma edad que las rocas continentales más antiguas.
+D) El océano Atlántico se está cerrando porque las rocas más antiguas están lejos de la dorsal.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Patrón.</strong> La edad es <strong>cero</strong> en la dorsal y <strong>aumenta</strong> simétricamente al alejarse: el fondo se forma en la dorsal y se desplaza hacia ambos lados.</li>
+<li><strong>Rapidez.</strong> En 10 millones de años se desplaza 200 km: 200 km / 10 000 000 años = 2 × 10<sup>7</sup> cm / 10<sup>7</sup> años = <strong>2 cm/año</strong>, hacia cada lado.</li>
+<li><strong>Descartar.</strong> B invierte el sentido del movimiento y calcula mal la rapidez. C no se sigue de los datos (de hecho, el fondo oceánico es mucho más joven que las rocas continentales antiguas). D invierte la interpretación: si se crea fondo en la dorsal, el océano se <strong>abre</strong>.</li>
+</ol>
+<p><strong>Clave: A.</strong></p>
+<p><strong>Lo que evalúa.</strong> Reconocer un patrón en una tabla y calcular una rapidez con unidades muy distintas.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 2 (Planificar y conducir una investigación).</strong> Un estudiante quiere comprobar con un modelo que las ondas transversales no se propagan en un líquido y las longitudinales sí. ¿Qué procedimiento le permite hacerlo?</p>
+<p>A) Generar ondas en un resorte largo, primero sacudiéndolo de lado y luego comprimiéndolo, y medir en cuál viaja más rápido la perturbación.
+B) Generar ondas en una cubeta con agua golpeando la superficie con distintas fuerzas, y medir la altura de las olas.
+C) Enviar pulsos de compresión y de sacudida lateral a través de un bloque de gelatina firme y luego de gelatina líquida, y registrar cuáles atraviesan cada uno.
+D) Dejar caer piedras de distinta masa en un recipiente con agua y medir cuánto tardan en llegar al fondo.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué hay que comparar.</strong> Los dos tipos de onda (variable independiente: tipo de onda) en dos estados del mismo material (sólido y líquido), registrando si la onda <strong>atraviesa</strong> o no (variable dependiente).</li>
+<li><strong>C</strong> hace exactamente eso: usa el mismo material en estado firme (como el manto) y líquido (como el núcleo externo), y compara ondas de compresión (tipo P) y de sacudida lateral (tipo S).</li>
+<li><strong>Descartar.</strong> A compara rapideces en un solo medio sólido, sin líquido. B y D no comparan tipos de onda ni estados de la materia.</li>
+</ol>
+<p><strong>Clave: C.</strong></p>
+<p><strong>Lo que evalúa.</strong> Diseñar un modelo experimental que ponga a prueba la propiedad en la que se basa una evidencia del interior de la Tierra.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 3 (Evaluar).</strong> Un medio de comunicación informa: «El terremoto tuvo una magnitud 7 en Santiago y una magnitud 5 en Valparaíso».</p>
+<p>¿Cuál es la mejor evaluación de esa información?</p>
+<p>A) Es correcta, porque la magnitud disminuye con la distancia al epicentro.
+B) Es correcta, porque cada ciudad tiene su propio sismógrafo, que mide una magnitud distinta.
+C) Es incorrecta, porque la magnitud de un sismo solo puede medirse en el epicentro.
+D) Es incorrecta, porque un sismo tiene una sola magnitud; lo que varía de un lugar a otro es la intensidad.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Magnitud:</strong> energía liberada en el hipocentro; es <strong>una sola</strong> para cada sismo, aunque la calculen muchas estaciones.</li>
+<li><strong>Intensidad:</strong> efectos observados en un lugar; <strong>cambia</strong> de un lugar a otro, según la distancia, el suelo y las construcciones. Se expresa en la escala de Mercalli, en números romanos.</li>
+<li><strong>Evaluar.</strong> La nota confunde ambos conceptos: lo que pudo ser distinto en Santiago y Valparaíso es la <strong>intensidad</strong>. A y B aceptan la confusión. C tiene una justificación falsa: la magnitud se calcula con estaciones ubicadas lejos del epicentro.</li>
+</ol>
+<p><strong>Clave: D.</strong></p>
+<p><strong>Lo que evalúa.</strong> Juzgar la validez de una afirmación usando correctamente los conceptos científicos.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 4 (Observar y plantear preguntas).</strong> Al graficar la profundidad de los sismos ocurridos en Chile central según su distancia a la costa, una estudiante observa que los sismos cercanos a la costa son superficiales y que, hacia el este, son cada vez más profundos, hasta unos 200 km bajo la cordillera.</p>
+<p>¿Cuál de las siguientes hipótesis explica mejor esta observación?</p>
+<p>A) Los sismos se producen en el contacto con una placa que se hunde inclinada bajo el continente.
+B) La corteza continental es más gruesa bajo la costa que bajo la cordillera de los Andes.
+C) Los sismos profundos se generan por la actividad de los volcanes de la cordillera.
+D) La Tierra se está enfriando desde la costa hacia el interior del continente.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Patrón.</strong> Los hipocentros forman un <strong>plano inclinado</strong> que se hunde hacia el este.</li>
+<li><strong>Hipótesis coherente.</strong> Es el trazo de la <strong>placa de Nazca que subduce</strong> bajo la placa Sudamericana: los sismos ocurren en ella o en su contacto con la placa de arriba (A).</li>
+<li><strong>Descartar.</strong> B contradice lo conocido: la corteza es más gruesa bajo los Andes. C no explica sismos bajo la costa ni la inclinación del plano. D no tiene relación con la distribución observada.</li>
+</ol>
+<p><strong>Clave: A.</strong></p>
+<p><strong>Lo que evalúa.</strong> Formular una hipótesis que explique un patrón en los datos con el modelo de la tectónica de placas.</p>
+</div>
+<h2 id="evaluacion-formativa">Evaluación formativa</h2>
+<p>Veinte preguntas sobre el interior de la Tierra, la deriva continental, la tectónica de placas, los límites entre placas, los sismos, el volcanismo y el relieve. Responde todas y luego revisa las explicaciones.</p>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>1.</strong> ¿Cuál es la principal fuente de información sobre la estructura interna de la Tierra?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Las perforaciones profundas hasta el núcleo.</li>
+    <li data-letra="B">El estudio de las ondas sísmicas que la atraviesan.</li>
+    <li data-letra="C">Las muestras de lava de todos los volcanes.</li>
+    <li data-letra="D">La observación directa del manto en las fosas.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Nadie ha perforado más de unos 12 km. Casi todo lo que se sabe del interior se deduce de cómo se propagan, se desvían y a veces desaparecen las ondas sísmicas.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>2.</strong> ¿Qué capas forman la litosfera?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Solo la corteza continental y oceánica.</li>
+    <li data-letra="B">El manto y el núcleo externo.</li>
+    <li data-letra="C">La astenosfera y la mesosfera.</li>
+    <li data-letra="D">La corteza y el manto superior.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>La litosfera es la capa rígida externa: incluye la corteza y la parte más superficial del manto. Las placas tectónicas son fragmentos de litosfera, no solo de corteza.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>3.</strong> ¿Cuál de las siguientes afirmaciones sobre la astenosfera es correcta?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Es sólida, fluye lento y sostiene las placas.</li>
+    <li data-letra="B">Es líquida y forma el magma de todos los volcanes.</li>
+    <li data-letra="C">Es rígida y está formada por hierro y níquel.</li>
+    <li data-letra="D">Es la capa más externa y fría de la Tierra.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La astenosfera es sólida, pero está tan caliente que se comporta de manera plástica y fluye muy lentamente. Sobre ella se desplazan las placas litosféricas.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>4.</strong> Una estación sismológica al otro lado de la Tierra registra ondas P de un sismo, pero no ondas S. ¿Qué se infiere?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Que las ondas S se agotaron por la distancia.</li>
+    <li data-letra="B">Que las ondas S son más lentas y no alcanzan a llegar.</li>
+    <li data-letra="C">Que en el camino hay una capa en estado líquido.</li>
+    <li data-letra="D">Que el núcleo de la Tierra es completamente sólido.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Las ondas S (transversales) no se propagan en líquidos y las P sí. Si llegan P pero no S, hay una capa líquida en el camino: el núcleo externo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>5.</strong> ¿Por qué el núcleo interno es sólido aunque está a más de 5 000 °C?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque es más frío que el núcleo externo.</li>
+    <li data-letra="B">Porque la enorme presión impide que se funda.</li>
+    <li data-letra="C">Porque está formado por rocas silicatadas.</li>
+    <li data-letra="D">Porque no recibe calor del resto del planeta.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>A esa profundidad la presión es tan grande que el hierro y el níquel se mantienen sólidos pese a la temperatura. No es más frío que el núcleo externo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>6.</strong> ¿Qué evidencia de Wegener se basa en la distribución de seres vivos del pasado?</p>
+  <ol class="alternativas">
+    <li data-letra="A">El encaje de las costas de África y Sudamérica.</li>
+    <li data-letra="B">Las huellas de glaciares en zonas tropicales.</li>
+    <li data-letra="C">Las bandas magnéticas del fondo del océano.</li>
+    <li data-letra="D">Fósiles de Mesosaurus en Brasil y África.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Mesosaurus era un reptil de agua dulce que no podía cruzar el océano: encontrar sus fósiles a ambos lados del Atlántico indica que los continentes estuvieron unidos. Las bandas magnéticas son una evidencia posterior.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>7.</strong> ¿Por qué fue rechazada durante décadas la hipótesis de la deriva continental?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque no explicaba qué movía a los continentes.</li>
+    <li data-letra="B">Porque no existían fósiles iguales en continentes distintos.</li>
+    <li data-letra="C">Porque las costas de los continentes no encajaban entre sí.</li>
+    <li data-letra="D">Porque se demostró que los continentes están fijos.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Las evidencias de Wegener eran sólidas, pero su explicación de qué movía a los continentes (rotación y mareas) era físicamente insuficiente. Se aceptó cuando la tectónica de placas aportó el mecanismo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>8.</strong> ¿Qué observación apoya la expansión del fondo oceánico?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Que el fondo marino es más antiguo cerca de las dorsales.</li>
+    <li data-letra="B">Que los continentes tienen rocas de 4 000 millones de años.</li>
+    <li data-letra="C">Que las bandas magnéticas son simétricas a la dorsal.</li>
+    <li data-letra="D">Que los volcanes solo existen en los continentes.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>La simetría de las bandas de magnetización normal e invertida indica que la corteza se forma en la dorsal y se reparte hacia ambos lados. Además, el fondo es más joven cerca de la dorsal, no más antiguo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>9.</strong> ¿Qué fenómeno se considera el motor principal del movimiento de las placas?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La rotación de la Tierra sobre su propio eje.</li>
+    <li data-letra="B">El calor interno, que causa convección.</li>
+    <li data-letra="C">Las mareas producidas por la Luna.</li>
+    <li data-letra="D">El peso de los océanos sobre los continentes.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>El calor del interior produce corrientes de convección en el manto, y el hundimiento de las placas en la subducción tira del resto de la placa. La rotación y las mareas son las explicaciones de Wegener, que resultaron insuficientes.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>10.</strong> La placa de Nazca converge con la Sudamericana a unos 7 cm/año. ¿Cuánto se desplaza en 1 millón de años?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,7 km</li>
+    <li data-letra="B">7 km</li>
+    <li data-letra="C">70 km</li>
+    <li data-letra="D">700 km</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>7 cm/año · 1 000 000 años = 7 000 000 cm = 70 000 m = 70 km. Los errores de conversión de centímetros a kilómetros dan los otros valores.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>11.</strong> ¿Qué tipo de límite de placas existe frente a las costas de Chile?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Convergente, con subducción de la placa oceánica.</li>
+    <li data-letra="B">Divergente, con formación de una dorsal oceánica.</li>
+    <li data-letra="C">Transformante, con deslizamiento lateral de las placas.</li>
+    <li data-letra="D">Convergente, con choque de dos placas continentales.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La placa de Nazca (oceánica) se hunde bajo la placa Sudamericana (continental). Eso forma la fosa de Atacama, la cordillera de los Andes, los volcanes y los grandes terremotos.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>12.</strong> ¿Qué relieve se forma cuando chocan dos placas continentales, como la India y Asia?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Una fosa oceánica muy profunda.</li>
+    <li data-letra="B">Una gran cordillera de plegamiento.</li>
+    <li data-letra="C">Un arco de islas volcánicas.</li>
+    <li data-letra="D">Una dorsal con volcanes submarinos.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Al chocar dos placas continentales, ninguna se hunde con facilidad y la corteza se pliega y se engrosa, formando cordilleras como el Himalaya, con poco volcanismo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>13.</strong> ¿En qué tipo de límite de placas se crea nueva litosfera?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Convergente.</li>
+    <li data-letra="B">Divergente.</li>
+    <li data-letra="C">Transformante.</li>
+    <li data-letra="D">De subducción.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>En los límites divergentes las placas se separan y el material del manto que sube forma nueva litosfera, como en las dorsales oceánicas.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>14.</strong> ¿Qué diferencia hay entre el hipocentro y el epicentro de un sismo?</p>
+  <ol class="alternativas">
+    <li data-letra="A">El hipocentro está en la superficie y el epicentro en el interior.</li>
+    <li data-letra="B">El epicentro es donde más daño hay y el hipocentro donde menos.</li>
+    <li data-letra="C">Son dos nombres del mismo punto del interior de la Tierra.</li>
+    <li data-letra="D">El hipocentro está adentro y el epicentro, sobre él.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>El hipocentro es el punto del interior donde comienza la ruptura; el epicentro, el punto de la superficie justo encima. Muchas veces se confunden.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>15.</strong> ¿Qué ondas sísmicas llegan primero a una estación?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Las ondas P, porque son las más rápidas.</li>
+    <li data-letra="B">Las ondas S, porque son transversales.</li>
+    <li data-letra="C">Las superficiales, porque recorren menos camino.</li>
+    <li data-letra="D">Todas llegan a la vez, porque parten juntas.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Todas parten del hipocentro al mismo tiempo, pero las P son las más rápidas y llegan primero; luego las S y al final las superficiales.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>16.</strong> En una estación, las ondas S llegan 30 s después que las P. Si vP = 8 km/s y vS = 4 km/s, ¿a qué distancia está el hipocentro?</p>
+  <ol class="alternativas">
+    <li data-letra="A">60 km</li>
+    <li data-letra="B">120 km</li>
+    <li data-letra="C">240 km</li>
+    <li data-letra="D">360 km</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>d/4 − d/8 = 30 s, así que d/8 = 30 y d = 240 km. Multiplicar el tiempo por la diferencia de rapidez (4 km/s · 30 s) da 120 km.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>17.</strong> Un sismo de magnitud 8 se compara con uno de magnitud 7. ¿Cuánta más energía libera, aproximadamente?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La misma energía.</li>
+    <li data-letra="B">El doble de energía.</li>
+    <li data-letra="C">Unas 8 veces más.</li>
+    <li data-letra="D">Unas 32 veces más.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>La escala de magnitud es logarítmica: cada punto más significa unas 32 veces más energía. No es una escala lineal, así que 8 no es «un poco más» que 7.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>18.</strong> ¿Por qué se producen volcanes en la cordillera de los Andes?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque las placas se separan y el manto sube a la superficie.</li>
+    <li data-letra="B">Porque la corteza continental es muy delgada bajo los Andes.</li>
+    <li data-letra="C">Porque hay un punto caliente bajo cada volcán chileno.</li>
+    <li data-letra="D">Porque la placa que subduce libera agua que funde el manto.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>A unos 100 km de profundidad, la placa de Nazca que se hunde libera agua, que baja la temperatura de fusión del manto de encima. Ese magma sube y alimenta los volcanes.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>19.</strong> ¿De qué depende principalmente que una erupción volcánica sea explosiva?</p>
+  <ol class="alternativas">
+    <li data-letra="A">De la viscosidad del magma y de su cantidad de gases.</li>
+    <li data-letra="B">De la altura del volcán y de su antigüedad.</li>
+    <li data-letra="C">De la temperatura del aire y de la estación del año.</li>
+    <li data-letra="D">De la profundidad del mar frente al volcán.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Un magma viscoso atrapa los gases, la presión aumenta y la erupción es explosiva. Un magma fluido deja escapar los gases y la lava corre.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>20.</strong> ¿Por qué un tsunami casi no se nota en alta mar, pero puede ser devastador en la costa?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque en la costa el viento aumenta la altura de las olas.</li>
+    <li data-letra="B">Porque las olas ganan energía al acercarse a tierra.</li>
+    <li data-letra="C">Porque en aguas bajas se frenan y crecen en altura.</li>
+    <li data-letra="D">Porque en alta mar las olas viajan más lento que cerca de la costa.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>En aguas profundas el tsunami viaja muy rápido con poca altura. Al llegar a aguas poco profundas se frena y su energía se concentra en una ola más alta. La energía no aumenta: se concentra.</p></div>
+</div>
+
+<h2 id="fuentes-del-capitulo">Fuentes del capítulo</h2>
+<p><em>Consultadas el 25 de septiembre de 2026. El texto es de redacción propia y los nueve diagramas son originales y esquemáticos.</em></p>
+<p><strong>Documentos oficiales</strong></p>
+<ul>
+<li>DEMRE (2026). <em>Temario Regular – Pruebas Electivas – Ciencias. Admisión 2027</em>, pág. 10 (área temática Energía–Tierra). Este capítulo cubre sus tres conocimientos: deriva continental, sus evidencias y su relación con la tectónica de placas; tectónica de placas y sus consecuencias; y modelo físico del interior de la Tierra y su relación con la tectónica. <a href="https://demre.cl/publicaciones/2027/2027-26-03-19-temario-paes-regular-ciencias">demre.cl</a></li>
+<li>Ministerio de Educación de Chile, Currículum Nacional. Objetivos de aprendizaje CN07 OA 09 (tectónica de placas, límites y deriva continental) y CN1M OA 13 (sismos con el modelo ondulatorio: ondas P, S y superficiales, magnitud e intensidad, estructura interna). <a href="https://www.curriculumnacional.cl/portal/Ejes/Ciencias-Naturales/Fisica/80711:CN1M-OA-13">curriculumnacional.cl</a></li>
+</ul>
+<p><strong>Instituciones chilenas</strong></p>
+<ul>
+<li>Centro Sismológico Nacional, Universidad de Chile. <em>Preguntas frecuentes</em> y <em>Glosario</em>: convergencia de las placas, magnitud e intensidad (escala de Mercalli modificada). <a href="https://www.csn.uchile.cl/sismologia/preguntas-frecuentes/">csn.uchile.cl</a></li>
+<li>Servicio Nacional de Geología y Minería (Sernageomin). <em>Red Nacional de Vigilancia Volcánica</em>. <a href="https://www.sernageomin.cl/rnvv/">sernageomin.cl</a></li>
+<li>Armada de Chile, SHOA. <em>Sistema Nacional de Alarma de Maremotos</em>. <a href="https://www.armada.cl/comunicados/sistema-nacional-de-alarma-de-maremotos-snam-cuenta-con-tecnologia-de">armada.cl</a></li>
+<li>SENAPRED (2023). <em>ONEMI da paso al nuevo Servicio Nacional de Prevención y Respuesta ante Desastres</em>. <a href="https://senapred.cl/2023/01/01/onemi-da-paso-al-nuevo-servicio-nacional-de-prevencion-y-respuesta-ante-desastres-senapred/">senapred.cl</a></li>
+<li>Universidad de Antofagasta (2018). Expedición Atacamex a la fosa de Atacama (más de 8 000 m). <a href="http://www.comunicacionesua.cl/2018/02/09/lugar-mas-profundo-fosa-de-atacama-es-conquistada-por-cientificos-chilenos/">comunicacionesua.cl</a></li>
+</ul>
+<p><strong>Datos científicos internacionales</strong></p>
+<ul>
+<li>U.S. Geological Survey. Páginas de los terremotos de Valdivia (1960, M 9,5), Maule (2010, M 8,8) e Illapel (2015, M 8,3), y contexto tectónico de Chile. <a href="https://earthquake.usgs.gov/earthquakes/eventpage/official19600522191120_30/impact">earthquake.usgs.gov</a></li>
+<li>IRIS. <em>Seismic Shadow Zone: Basic Introduction</em>. <a href="https://www.iris.edu/hq/inclass/animation/seismic_shadow_zone_basic_introduction">iris.edu</a></li>
+<li>Encyclopaedia Britannica. <em>Plate tectonics: Earth's layers</em>. <a href="https://www.britannica.com/science/plate-tectonics/Earths-layers">britannica.com</a></li>
+<li>American Physical Society. <em>January 6, 1912: Alfred Wegener presents his theory of continental drift</em> y <em>September 1936: Inge Lehmann concludes that Earth has an inner core</em>. <a href="https://www.aps.org/apsnews/2019/01/alfred-wegener-theory-continental-drift">aps.org</a></li>
+<li>Geological Society of London. <em>Pioneers of Plate Tectonics</em>: Harry Hess; Frederick Vine y Drummond Matthews. <a href="https://www.geolsoc.org.uk/Plate-Tectonics/Chap1-Pioneers-of-Plate-Tectonics/Harry-Hess.html">geolsoc.org.uk</a></li>
+<li>Khan Academy en español. <em>Tectónica de placas: diferencia entre corteza y litósfera</em> y <em>Evidencia del movimiento de las placas</em>. <a href="https://es.khanacademy.org/science/cosmology-and-astronomy/earth-history-topic/plate-techtonics/v/plate-tectonics-difference-between-crust-and-lithosphere">es.khanacademy.org</a></li>
+<li>Educarchile. <em>Proceso de subducción</em>. <a href="https://centroderecursos.educarchile.cl/handle/20.500.12246/50010">educarchile.cl</a></li>
+</ul>
+<p><strong>Libros de consulta</strong></p>
+<ul>
+<li>Giancoli, D. <em>Physics: Principles with Applications</em>, 7.ª edición, capítulo 11 (secciones 11-7, ondas sísmicas P, S y superficiales, y 11-13, refracción de ondas sísmicas).</li>
+<li>Johnson, K., Hewett, S. y otros. <em>Advanced Physics for You</em>, capítulo 10 («Wave Motion», recuadro sobre sismos y tsunamis).</li>
+<li>Shipman, J. y otros. <em>An Introduction to Physical Science</em>, capítulo 21 («Structural Geology and Plate Tectonics»): solo páginas de apertura y términos clave.</li>
+</ul>
+<p>Consulta de referencia; el texto de este capítulo es de redacción propia. Algunos valores (espesor de la astenosfera, velocidad de convergencia, número de volcanes vigilados) varían según la fuente y se presentan como aproximados.</p>
+</article>
+<nav class="navsec"><a href="03-capitulo-3-la-luz-y-la-optica-geometrica.html"><small>← Anterior</small>Capítulo 3: La luz y la óptica geométrica</a><a class="sig" href="05-capitulo-5-cinematica-descripcion-del-movimiento.html"><small>Siguiente →</small>Capítulo 5: Cinemática: descripción del movimiento</a></nav>
+</main>
+</div>
+<div id="lightbox"><img alt=""></div>
+<script>
+(function(){
+  var clave='conv-progreso:'+location.pathname.split('/').pop();
+  var datos={};try{datos=JSON.parse(localStorage.getItem(clave)||'{}')}catch(e){}
+  function guardar(){try{localStorage.setItem(clave,JSON.stringify(datos))}catch(e){}}
+  var preguntas=[].slice.call(document.querySelectorAll('.pregunta'));
+  var total=preguntas.length;
+  function actualizar(){
+    var r=0,c=0;for(var k in datos){r++;if(datos[k].ok)c++}
+    var t=document.getElementById('txt-preg');
+    if(t)t.textContent=total?(r+' de '+total+' respondidas · '+c+' correctas'):'Sin preguntas';
+    var b=document.getElementById('barra-preg');if(b)b.style.width=total?(100*r/total)+'%':'0';
+    try{localStorage.setItem(clave+':resumen',JSON.stringify({r:r,c:c,t:total}))}catch(e){}
+  }
+  preguntas.forEach(function(q,i){
+    var id=q.id||('p'+(i+1));q.id=id;
+    var lis=[].slice.call(q.querySelectorAll('.alternativas>li'));
+    var correcta=(q.getAttribute('data-correcta')||'').trim().toUpperCase();
+    var acc=document.createElement('div');acc.className='acciones';
+    var btn=document.createElement('button');btn.className='btn';btn.type='button';btn.textContent='Ver respuesta';
+    var est=document.createElement('span');est.className='estado';
+    acc.appendChild(btn);acc.appendChild(est);
+    var resp=q.querySelector('.respuesta');
+    if(resp)q.insertBefore(acc,resp);else q.appendChild(acc);
+    var marcada=null;
+    lis.forEach(function(li){li.addEventListener('click',function(){
+      if(q.classList.contains('respondida'))return;
+      lis.forEach(function(x){x.classList.remove('marcada')});li.classList.add('marcada');marcada=li.getAttribute('data-letra');
+    })});
+    function mostrar(letra){
+      q.classList.add('respondida','visible');btn.disabled=true;
+      lis.forEach(function(li){var L=li.getAttribute('data-letra');
+        if(correcta&&L===correcta)li.classList.add('correcta');
+        else if(L===letra)li.classList.add('incorrecta');
+        if(L===letra)li.classList.add('marcada');});
+      if(!correcta){est.textContent='Clave no disponible';est.className='estado'}
+      else if(!letra){est.textContent='Sin marcar · correcta: '+correcta;est.className='estado'}
+      else if(letra===correcta){est.textContent='¡Correcta!';est.className='estado ok'}
+      else{est.textContent='Incorrecta · correcta: '+correcta;est.className='estado mal'}
+    }
+    btn.addEventListener('click',function(){
+      datos[id]={l:marcada||'',ok:!!(marcada&&correcta&&marcada===correcta)};guardar();mostrar(marcada);actualizar();
+    });
+    if(datos[id])mostrar(datos[id].l);
+  });
+  document.querySelectorAll('.ejercicio').forEach(function(e){
+    var resp=e.querySelector('.respuesta');if(!resp)return;
+    var b=document.createElement('button');b.className='btn sec';b.type='button';b.textContent='Ver solución';
+    var acc=document.createElement('div');acc.className='acciones';acc.appendChild(b);e.insertBefore(acc,resp);
+    b.addEventListener('click',function(){var v=e.classList.toggle('visible');b.textContent=v?'Ocultar solución':'Ver solución'});
+  });
+  var rst=document.getElementById('reiniciar');
+  if(rst)rst.addEventListener('click',function(){if(!confirm('¿Reiniciar las respuestas de esta sección?'))return;datos={};guardar();location.reload()});
+  actualizar();
+  // Progreso de lectura
+  var bl=document.getElementById('barra-lect'),tl=document.getElementById('txt-lect');
+  function lectura(){var h=document.documentElement;var p=Math.min(100,Math.round(100*h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight)));
+    if(bl)bl.style.width=p+'%';if(tl)tl.textContent=p+'% leído'}
+  addEventListener('scroll',lectura,{passive:true});lectura();
+  // Índice lateral: resaltar la sección visible
+  var enlaces=[].slice.call(document.querySelectorAll('nav.sidebar a'));
+  if('IntersectionObserver' in window&&enlaces.length){
+    var io=new IntersectionObserver(function(ents){ents.forEach(function(en){if(en.isIntersecting){
+      enlaces.forEach(function(a){a.classList.toggle('activo',a.getAttribute('href')==='#'+en.target.id)})}})},{rootMargin:'-100px 0px -70% 0px'});
+    document.querySelectorAll('.paper h2[id],.paper h3[id]').forEach(function(h){io.observe(h)});
+  }
+  var nav=document.querySelector('nav.sidebar'),tb=document.getElementById('toc-btn');
+  if(tb&&nav)tb.addEventListener('click',function(){nav.classList.toggle('abierta')});
+  var lento=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function ir(a,e){
+    var id=decodeURIComponent((a.getAttribute('href')||'').slice(1)),t=document.getElementById(id);
+    if(!t)return;e.preventDefault();
+    if(a.classList.contains('cargando'))return;
+    document.querySelectorAll('.cargando').forEach(function(x){x.classList.remove('cargando')});
+    void a.offsetWidth;a.classList.add('cargando');
+    setTimeout(function(){
+      t.scrollIntoView({behavior:lento?'auto':'smooth',block:'start'});
+      setTimeout(function(){if(Math.abs(t.getBoundingClientRect().top)>window.innerHeight)t.scrollIntoView({block:'start'})},900);
+      try{history.replaceState(null,'','#'+id)}catch(err){}
+      t.classList.remove('destino');void t.offsetWidth;t.classList.add('destino');
+      if(a.closest('nav.sidebar'))enlaces.forEach(function(x){x.classList.toggle('activo',x===a)});
+      a.classList.remove('cargando');
+      if(nav)nav.classList.remove('abierta');
+    },lento?150:620);
+  }
+  enlaces.forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Insignias de preguntas en los títulos y botones «Ver tema» de las preguntas
+  document.querySelectorAll('.paper a.ref-badge, .paper a.volver-tema').forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Recordar la última sección abierta (para «Continuar» en el índice)
+  try{localStorage.setItem('conv-ultimo',JSON.stringify({archivo:location.pathname.split('/').pop(),titulo:document.title.split(' — ')[0]}))}catch(e){}
+  // Zoom de imágenes
+  var lb=document.getElementById('lightbox');
+  document.querySelectorAll('.paper img').forEach(function(img){img.addEventListener('click',function(){
+    lb.querySelector('img').src=img.src;lb.style.display='flex'})});
+  lb.addEventListener('click',function(){lb.style.display='none'});
+  // Tema claro/oscuro
+  var tema=document.getElementById('tema');
+  try{var t=localStorage.getItem('conv-tema');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}
+  tema.addEventListener('click',function(){
+    var oscuro=document.documentElement.getAttribute('data-theme')==='dark'||(!document.documentElement.getAttribute('data-theme')&&matchMedia('(prefers-color-scheme: dark)').matches);
+    var n=oscuro?'light':'dark';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('conv-tema',n)}catch(e){}
+  });
+})();
+</script>
+</body>
+</html>

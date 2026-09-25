@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 285" width="900" height="285" role="img" aria-label="Límite divergente con placas que se separan y magma que sube; límite convergente con una placa oceánica que subduce bajo una continental formando fosa y volcán; límite transformante con placas que se deslizan" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Límite divergente con placas que se separan y magma que sube; límite convergente con una placa oceánica que subduce bajo una continental formando fosa y volcán; límite transformante con placas que se deslizan</title>
+<rect width="900" height="285" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="17" text-anchor="middle" fill="#1a202c" font-weight="700">Los tres tipos de límites entre placas</text>
+<text x="160.0" y="62.0" font-size="14" text-anchor="middle" fill="#1c7ed6" font-weight="700">Divergente</text>
+<rect x="30" y="100" width="110" height="40" fill="#8d6e63"/><rect x="180" y="100" width="110" height="40" fill="#8d6e63"/>
+<rect x="30" y="140" width="260" height="80" fill="#f59f00" opacity="0.4"/>
+<path d="M160,210 L160,105" stroke="#c92a2a" stroke-width="5" marker-end="url(#mr)"/>
+<line x1="130.0" y1="90.0" x2="60.0" y2="90.0" stroke="#1a202c" stroke-width="2.5" marker-end="url(#mg)"/><line x1="190.0" y1="90.0" x2="260.0" y2="90.0" stroke="#1a202c" stroke-width="2.5" marker-end="url(#mg)"/>
+<text x="160.0" y="250.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">se separan: se crea litosfera</text>
+<text x="160.0" y="268.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">(dorsal, rift)</text>
+<text x="450.0" y="62.0" font-size="14" text-anchor="middle" fill="#1c7ed6" font-weight="700">Convergente (subducción)</text>
+<path d="M320,100 L440,100 L550,200 L520,215 L430,130 L320,130 z" fill="#495057"/>
+<path d="M440,95 L580,95 L580,135 L470,135 z" fill="#8d6e63"/>
+<path d="M505,95 L525,70 L545,95 z" fill="#c92a2a"/>
+<rect x="320" y="140" width="260" height="80" fill="#f59f00" opacity="0.3"/>
+<line x1="340.0" y1="88.0" x2="410.0" y2="88.0" stroke="#1a202c" stroke-width="2.5" marker-end="url(#mg)"/>
+<text x="380.0" y="150.0" font-size="11" text-anchor="middle" fill="#ffffff" font-weight="700">oceánica</text>
+<text x="535.0" y="118.0" font-size="11" text-anchor="middle" fill="#ffffff" font-weight="700">continental</text>
+<text x="445.0" y="95.0" font-size="11" text-anchor="middle" fill="#1a202c" font-weight="normal">fosa</text>
+<text x="450.0" y="250.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">chocan: una placa se hunde</text>
+<text x="450.0" y="268.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">(fosa, cordillera, volcanes)</text>
+<text x="740.0" y="62.0" font-size="14" text-anchor="middle" fill="#1c7ed6" font-weight="700">Transformante (vista desde arriba)</text>
+<rect x="610" y="90" width="260" height="60" fill="#8d6e63" opacity="0.8"/><rect x="610" y="150" width="260" height="60" fill="#a1887f"/>
+<line x1="610.0" y1="150.0" x2="870.0" y2="150.0" stroke="#1a202c" stroke-width="3" stroke-dasharray="5 4"/>
+<line x1="780.0" y1="120.0" x2="700.0" y2="120.0" stroke="#1a202c" stroke-width="2.5" marker-end="url(#mg)"/><line x1="700.0" y1="180.0" x2="780.0" y2="180.0" stroke="#1a202c" stroke-width="2.5" marker-end="url(#mg)"/>
+<text x="740.0" y="250.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">se deslizan: se conserva</text>
+<text x="740.0" y="268.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">(falla de San Andrés)</text>
+</svg>

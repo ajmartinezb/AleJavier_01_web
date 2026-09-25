@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 485" width="900" height="485" role="img" aria-label="Corte de una zona de subducción: la placa oceánica se hunde bajo la continental, a unos 100 kilómetros libera agua que funde el manto, y el magma sube a una cámara magmática y a un volcán" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Corte de una zona de subducción: la placa oceánica se hunde bajo la continental, a unos 100 kilómetros libera agua que funde el manto, y el magma sube a una cámara magmática y a un volcán</title>
+<rect width="900" height="485" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="17" text-anchor="middle" fill="#1a202c" font-weight="700">Cómo se forma un volcán en una zona de subducción</text>
+<rect x="30" y="100" width="300" height="30" fill="#a5d8ff" opacity="0.7"/>
+<path d="M30,130 L330,130 L620,420 L570,440 L300,160 L30,160 z" fill="#495057"/>
+<text x="150.0" y="150.0" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="700">placa oceánica</text>
+<path d="M330,120 L870,120 L870,200 L520,200 L360,150 z" fill="#8d6e63"/>
+<text x="790.0" y="145.0" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="700">placa continental</text>
+<path d="M560,120 L610,50 L660,120 z" fill="#868e96"/>
+<path d="M600,58 L610,40 L620,58" fill="#c92a2a"/>
+<text x="680.0" y="60.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="700">volcán</text>
+<ellipse cx="610" cy="180" rx="30" ry="14" fill="#c92a2a" opacity="0.8"/>
+<text x="648.0" y="195.0" font-size="12" text-anchor="start" fill="#ffffff" font-weight="700">cámara magmática</text>
+<path d="M560,370 C580,300 600,240 608,195" fill="none" stroke="#c92a2a" stroke-width="4" stroke-dasharray="5 4" marker-end="url(#mr)"/>
+<line x1="610.0" y1="170.0" x2="610.0" y2="70.0" stroke="#c92a2a" stroke-width="3" />
+<text x="470.0" y="330.0" font-size="12" text-anchor="end" fill="#1c7ed6" font-weight="700">a ~100 km, la placa</text>
+<text x="470.0" y="346.0" font-size="12" text-anchor="end" fill="#1c7ed6" font-weight="700">libera agua y el manto</text>
+<text x="470.0" y="362.0" font-size="12" text-anchor="end" fill="#1c7ed6" font-weight="700">de encima se funde</text>
+<text x="335.0" y="115.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">fosa</text>
+<line x1="120.0" y1="90.0" x2="220.0" y2="90.0" stroke="#1a202c" stroke-width="2.5" marker-end="url(#mg)"/>
+<text x="450.0" y="470.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">Esquema sin escala.</text>
+</svg>

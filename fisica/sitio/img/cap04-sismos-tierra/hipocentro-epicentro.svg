@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 405" width="900" height="405" role="img" aria-label="Corte de la corteza con una falla: el hipocentro en la falla bajo la superficie con frentes de onda circulares, y el epicentro en la superficie justo encima" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Corte de la corteza con una falla: el hipocentro en la falla bajo la superficie con frentes de onda circulares, y el epicentro en la superficie justo encima</title>
+<rect width="900" height="405" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="17" text-anchor="middle" fill="#1a202c" font-weight="700">Hipocentro y epicentro</text>
+<rect x="60" y="100" width="780" height="260" fill="#c69c6d" opacity="0.5"/>
+<line x1="60.0" y1="100.0" x2="840.0" y2="100.0" stroke="#1a202c" stroke-width="3" />
+<line x1="330.0" y1="100.0" x2="520.0" y2="360.0" stroke="#e67700" stroke-width="3" stroke-dasharray="5 4"/>
+<text x="525.0" y="350.0" font-size="12" text-anchor="start" fill="#e67700" font-weight="700">falla</text>
+<circle cx="450.6" cy="265" r="30" fill="none" stroke="#1c7ed6" stroke-width="1.6" opacity="0.8"/>
+<circle cx="450.6" cy="265" r="60" fill="none" stroke="#1c7ed6" stroke-width="1.6" opacity="0.8"/>
+<circle cx="450.6" cy="265" r="95" fill="none" stroke="#1c7ed6" stroke-width="1.6" opacity="0.8"/>
+<circle cx="450.6" cy="265" r="130" fill="none" stroke="#1c7ed6" stroke-width="1.6" opacity="0.8"/>
+<circle cx="450.6" cy="265" r="7" fill="#c92a2a"/>
+<text x="464.6" y="270.0" font-size="13" text-anchor="start" fill="#c92a2a" font-weight="700">hipocentro (foco)</text>
+<line x1="450.6" y1="255.0" x2="450.6" y2="104.0" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="5 4"/>
+<circle cx="450.6" cy="100" r="7" fill="#2f9e44"/>
+<text x="450.6" y="86.0" font-size="13" text-anchor="middle" fill="#2f9e44" font-weight="700">epicentro</text>
+<text x="440.6" y="182.5" font-size="12" text-anchor="end" fill="#4a5568" font-weight="normal">profundidad focal</text>
+<text x="450.0" y="390.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">Los frentes de onda (azul) parten del hipocentro en todas direcciones.</text>
+</svg>

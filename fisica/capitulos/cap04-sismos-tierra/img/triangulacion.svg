@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" width="900" height="640" role="img" aria-label="Tres estaciones sismológicas con circunferencias de radio igual a su distancia al sismo, que se cortan en el epicentro" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Tres estaciones sismológicas con circunferencias de radio igual a su distancia al sismo, que se cortan en el epicentro</title>
+<rect width="900" height="640" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="17" text-anchor="middle" fill="#1a202c" font-weight="700">Ubicar el epicentro con tres estaciones</text>
+<circle cx="330" cy="225" r="166.4" fill="none" stroke="#1c7ed6" stroke-width="2" opacity="0.8"/>
+<rect x="322" y="217" width="16" height="16" fill="#e67700"/>
+<text x="330.0" y="211.0" font-size="12" text-anchor="middle" fill="#e67700" font-weight="700">estación A</text>
+<circle cx="620" cy="235" r="170.0" fill="none" stroke="#1c7ed6" stroke-width="2" opacity="0.8"/>
+<rect x="612" y="227" width="16" height="16" fill="#e67700"/>
+<text x="620.0" y="221.0" font-size="12" text-anchor="middle" fill="#e67700" font-weight="700">estación B</text>
+<circle cx="450" cy="445" r="131.5" fill="none" stroke="#1c7ed6" stroke-width="2" opacity="0.8"/>
+<rect x="442" y="437" width="16" height="16" fill="#e67700"/>
+<text x="450.0" y="431.0" font-size="12" text-anchor="middle" fill="#e67700" font-weight="700">estación C</text>
+<circle cx="470" cy="315" r="9" fill="#c92a2a"/>
+<text x="484.0" y="305.0" font-size="13" text-anchor="start" fill="#c92a2a" font-weight="700">epicentro</text>
+<text x="450.0" y="620.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">Cada radio es la distancia calculada con el tiempo entre la llegada de las ondas P y S.</text>
+</svg>

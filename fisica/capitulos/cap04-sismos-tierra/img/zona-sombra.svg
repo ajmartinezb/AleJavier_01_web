@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 535" width="900" height="535" role="img" aria-label="Corte de la Tierra con un sismo arriba: franjas sin ondas P ni S entre 104 y 140 grados, y en el lado opuesto solo llegan ondas P refractadas porque el núcleo externo es líquido" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Corte de la Tierra con un sismo arriba: franjas sin ondas P ni S entre 104 y 140 grados, y en el lado opuesto solo llegan ondas P refractadas porque el núcleo externo es líquido</title>
+<rect width="900" height="535" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="17" text-anchor="middle" fill="#1a202c" font-weight="700">Zonas de sombra de las ondas sísmicas</text>
+<circle cx="450" cy="260" r="190" fill="#ffe8cc" stroke="#1a202c" stroke-width="2"/>
+<circle cx="450" cy="260" r="103.5" fill="#ffc078" stroke="#e67700" stroke-width="2"/>
+<text x="450.0" y="265.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">núcleo externo líquido</text>
+<circle cx="450" cy="70" r="8" fill="#c92a2a"/>
+<text x="450.0" y="56.0" font-size="13" text-anchor="middle" fill="#c92a2a" font-weight="700">sismo</text>
+<path d="M634.4,306.0 A190,190 0 0 1 572.1,405.5" fill="none" stroke="#1c7ed6" stroke-width="10" opacity="0.6"/>
+<text x="681.1" y="360.7" font-size="12" text-anchor="start" fill="#1c7ed6" font-weight="700">sin P ni S</text>
+<path d="M265.6,306.0 A190,190 0 0 0 327.9,405.5" fill="none" stroke="#1c7ed6" stroke-width="10" opacity="0.6"/>
+<text x="218.9" y="360.7" font-size="12" text-anchor="end" fill="#1c7ed6" font-weight="700">sin P ni S</text>
+<path d="M572.1,405.5 A190,190 0 0 1 327.9,405.5" fill="none" stroke="#2f9e44" stroke-width="10" opacity="0.6"/>
+<text x="450.0" y="478.0" font-size="12" text-anchor="middle" fill="#2f9e44" font-weight="700">llegan ondas P (refractadas), no ondas S</text>
+<path d="M450,70 Q480.5324114601106,222.0 572.1,114.5" fill="none" stroke="#c92a2a" stroke-width="1.6"/>
+<path d="M450,70 Q419.4675885398894,222.0 327.9,114.5" fill="none" stroke="#c92a2a" stroke-width="1.6"/>
+<path d="M450,70 Q494.63539948733063,222.0 628.5,195.0" fill="none" stroke="#c92a2a" stroke-width="1.6"/>
+<path d="M450,70 Q405.36460051266937,222.0 271.5,195.0" fill="none" stroke="#c92a2a" stroke-width="1.6"/>
+<path d="M450,70 Q497.3192481593579,222.0 639.3,276.6" fill="none" stroke="#c92a2a" stroke-width="1.6"/>
+<path d="M450,70 Q402.6807518406421,222.0 260.7,276.6" fill="none" stroke="#c92a2a" stroke-width="1.6"/>
+<line x1="450.0" y1="70.0" x2="450.0" y2="156.5" stroke="#e67700" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="458.0" y="144.5" font-size="11" text-anchor="start" fill="#e67700" font-weight="700">las S se detienen</text>
+<text x="648.4" y="300.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="700">104°</text>
+<text x="586.1" y="419.5" font-size="13" text-anchor="start" fill="#1a202c" font-weight="700">140°</text>
+<text x="251.6" y="300.0" font-size="13" text-anchor="end" fill="#1a202c" font-weight="700">104°</text>
+<text x="313.9" y="419.5" font-size="13" text-anchor="end" fill="#1a202c" font-weight="700">140°</text>
+<text x="450.0" y="520.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">Rojo: trayectorias directas de ondas P y S por el manto. Sin ondas S directas más allá de unos 104°.</text>
+</svg>
