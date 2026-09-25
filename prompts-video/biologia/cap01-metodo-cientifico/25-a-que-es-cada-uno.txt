@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 25: a. Qué es cada uno
+Sección: 6. Hipótesis, teoría, ley, principio y modelo
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Qué es cada uno». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente Hipótesis, Teoría, Explica por qué, Ley, Describe cómo, Principio, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Qué es cada uno», dentro de la sección «6. Hipótesis, teoría, ley, principio y modelo» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Hipótesis, Teoría, Explica por qué, Ley, Describe cómo, Principio.
+
+Ideas guía:
+- El error más común: creer que hay una «escalera» en la que una hipótesis bien probada «sube» a teoría y una teoría muy probada «sube» a ley.
+- Teorías y leyes son cosas distintas, no niveles de certeza: la ley describe una regularidad (el cómo); la teoría explica por qué ocurre (el por qué).
+- Una teoría nunca se convierte en ley, por mucha evidencia que acumule.
+- Tampoco una teoría científica es «una simple suposición», como en el lenguaje cotidiano: es el tipo de conocimiento más sólido y explicativo que tiene la ciencia.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Según la teoría endosimbiótica, defendida por Lynn Margulis en 1967, mitocondrias y cloroplastos descienden de procariontes de vida libre que una célula ancestral englobó y conservó en su citoplasma. ¿Qué observación entrega evidencia a favor de esta teoría?
+A) Las mitocondrias tienen ADN circular como el bacteriano.
+B) Las mitocondrias abundan en las células musculares activas.
+C) Los cloroplastos contienen clorofila y captan energía solar.
+D) Las mitocondrias se forman desde la membrana del núcleo.
+Correcta: A. Por qué: Si mitocondrias y cloroplastos descienden de bacterias, deberían conservar rasgos bacterianos. La teoría predice semejanzas con procariontes. El ADN circular es una de ellas, junto con ribosomas similares y división semejante a la fisión binaria. Las otras alternativas describen funciones o abundancia, que son ciertas o no, pero no dicen nada sobre el origen. Clave: A.
+
+Pregunta 2 (Observar y plantear preguntas): Una estudiante observa que las plantas de su jardín que reciben sombra parte del día tienen hojas más grandes y delgadas que las que están a pleno sol. ¿Qué enunciado corresponde a una hipótesis que ella puede poner a prueba?
+A) Todas las plantas del mundo tienen hojas grandes en la sombra.
+B) Una menor luz induce hojas de mayor superficie en esta especie.
+C) Las hojas de las plantas en sombra son más grandes que las del sol.
+D) Las plantas de sol deben regarse más a menudo que las otras.
+Correcta: B. Por qué: Una hipótesis propone una causa para lo observado y puede ponerse a prueba. La opción B plantea que la cantidad de luz determina el tamaño de la hoja en esa especie: se puede cultivar la planta con distintos niveles de luz y medir la superficie foliar. La opción que solo repite lo visto no explica, y la que habla de todas las plantas excede lo observado. Clave: B.
+
+Pregunta 3 (Procesar y analizar la evidencia): En una población grande de mariposas, con apareamiento al azar y sin migración, mutación ni selección, un equipo mide durante diez generaciones la frecuencia de un alelo de color: 0,40; 0,41; 0,39; 0,40; 0,40; 0,41; 0,40; 0,39; 0,40; 0,40. ¿Qué interpretación es coherente con estos datos?
+A) La población evoluciona con rapidez por selección natural.
+B) La frecuencia del alelo aumenta al doble en diez generaciones.
+C) Se cumple lo esperado por el principio de Hardy-Weinberg.
+D) El alelo del color desaparecerá en las próximas generaciones.
+Correcta: C. Por qué: Los valores oscilan levemente alrededor de 0,40, sin tendencia. Las condiciones descritas (población grande, apareamiento al azar, sin migración, mutación ni selección) son justamente las que plantea el principio de Hardy-Weinberg. Según él, en esas condiciones las frecuencias alélicas se mantienen constantes. Los datos coinciden con lo esperado. Clave: C.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

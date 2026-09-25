@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 07: b. La forma sigue a la función
+Sección: 3. La neurona: estructura y función
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «La forma sigue a la función». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente El axón es largo, Muchas mitocondrias, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. La forma sigue a la función», dentro de la sección «3. La neurona: estructura y función» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: El axón es largo, Muchas mitocondrias.
+
+Ideas guía:
+- Tres rasgos de la neurona se explican por lo que hace: Muchas dendritas, un solo axón.
+- Una neurona recibe información de cientos o miles de neuronas y debe integrarla, pero emite una sola conclusión.
+- Por eso las entradas son múltiples y la salida, única.
+- Una misma neurona puede conectar la médula espinal con un músculo del pie.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se comparan dos neuronas: la neurona A tiene unas 8000 espinas dendríticas y la neurona B, unas 400. Ambas tienen un axón de longitud similar. ¿Qué se infiere de esa diferencia?
+A) Que la neurona B conduce su impulso a mayor velocidad que la neurona A.
+B) Que la neurona A genera potenciales de acción de mayor amplitud que la B.
+C) Que la neurona B carece de la capacidad de recibir señales de otras neuronas.
+D) Que la neurona A puede recibir información de muchas más células que la B.
+Correcta: D. Por qué: La diferencia está en las entradas, no en la salida: con 8000 espinas la neurona A dispone de muchos más puntos de contacto sináptico que la B. La velocidad de conducción depende del axón y de su mielina, que aquí son comparables, y la amplitud del potencial de acción es fija por la ley del todo o nada.
+
+Pregunta 2 (Planificar y conducir una investigación): Un grupo quiere poner a prueba la idea de que las neuronas con axones de mayor diámetro conducen más rápido. Dispone de un registro de velocidad y de mediciones del diámetro en varias fibras del mismo nervio. ¿Cómo debe organizar el trabajo?
+A) Medir diámetro y velocidad de cada fibra y buscar su relación.
+B) Medir la velocidad en la fibra de mayor diámetro y suponer que las demás son más lentas.
+C) Medir el diámetro de todas las fibras y calcular su promedio, sin registrar velocidades.
+D) Medir la velocidad en todas las fibras a distintas temperaturas y comparar los resultados.
+Correcta: A. Por qué: La hipótesis afirma una relación entre dos variables, de modo que hay que medir ambas en las mismas fibras y analizar si covarían. Medir una sola fibra no permite establecer ninguna relación, un promedio de diámetros pierde la información individual y variar la temperatura introduce un factor ajeno a la hipótesis.
+
+Pregunta 3 (Comunicar): Se pide explicar en una frase por qué la neurona sensitiva que informa desde el pie tiene un axón muy largo. ¿Cuál es la mejor explicación?
+A) Porque un axón largo genera potenciales de acción de mayor amplitud.
+B) Porque debe cubrir sin interrupciones la distancia entre el pie y la médula espinal.
+C) Porque el axón largo almacena el neurotransmisor que se libera en la piel.
+D) Porque su longitud le permite recibir información de más receptores a la vez.
+Correcta: B. Por qué: La razón es geométrica y funcional a la vez: la información captada en el pie debe llegar hasta la médula espinal, y el axón es la única estructura que puede cubrir esa distancia conduciendo el impulso sin que se atenúe. La amplitud del potencial es constante y el número de entradas depende de las dendritas, no del largo del axón.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,49 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 39: f. Lo que conviene llevar de este capítulo
+Sección: 9. Infecciones de transmisión sexual
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Lo que conviene llevar de este capítulo». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Retroalimentación negativa, Folicular ↔ proliferativa, lútea ↔ secretora, 
+7, 
+10, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «f. Lo que conviene llevar de este capítulo», dentro de la sección «9. Infecciones de transmisión sexual» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Retroalimentación negativa, Folicular ↔ proliferativa, lútea ↔ secretora, 
+7, 
+10.
+
+Ideas guía:
+- Retroalimentación negativa: hormona externa alta → baja la propia.
+- Resuelve los ítems de anticonceptivos hormonales.
+- La fase lútea dura 14 días; la que varía es la folicular.
+- Para ubicar la ovulación, cuenta 14 días hacia atrás desde el final del ciclo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un ítem describe una persona con ciclos de 35 días que quiere saber cuándo ovula. ¿Qué cálculo corresponde?
+A) 35 dividido por 2, es decir, alrededor del día 17 o 18.
+B) 14 más 35, es decir, alrededor del día 49.
+C) 35 menos 28, es decir, alrededor del día 7.
+D) 35 menos 14, es decir, alrededor del día 21.
+Correcta: D. Por qué: El cálculo correcto es 35 menos 14, que da el día 21. Dividir por dos daría el día 17 o 18 y sería un error, porque esa coincidencia solo se da en ciclos de 28 días. Las otras dos operaciones no corresponden a ninguna regla fisiológica.
+
+Pregunta 2 (Evaluar): De las siguientes afirmaciones, ¿cuál es la única correcta?
+A) El bloqueo de la poliespermia asegura que el cigoto tenga 46 cromosomas.
+B) La fecundación ocurre en el útero, pocas horas después de la relación sexual.
+C) El alza de la temperatura basal permite anticipar la ovulación con días de aviso.
+D) Los antibióticos permiten curar tanto el herpes genital como la gonorrea.
+Correcta: A. Por qué: Solo la tercera afirmación resiste el contraste. Las otras tres reúnen los errores más repetidos del capítulo: ubicar mal la fecundación, atribuir a la temperatura basal una capacidad predictiva que no tiene y tratar una infección viral con antibióticos.
+
+Pregunta 3 (Comunicar): Se quiere cerrar el capítulo con una frase que resuma la relación entre anticoncepción y prevención de infecciones. ¿Cuál es la adecuada?
+A) Todo método anticonceptivo protege también de las infecciones de transmisión sexual.
+B) Ningún método anticonceptivo tiene efecto sobre las infecciones de transmisión sexual.
+C) Solo el condón cubre ambos riesgos; combinarlo con otro método es la doble protección.
+D) Las infecciones de transmisión sexual se previenen únicamente con vacunas disponibles.
+Correcta: C. Por qué: La frase correcta reconoce que son dos riesgos distintos y que un solo método los cubre ambos, aunque no con la máxima eficacia anticonceptiva. Las otras opciones generalizan de más, generalizan de menos o reducen la prevención a las vacunas, que existen solo para algunos agentes.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

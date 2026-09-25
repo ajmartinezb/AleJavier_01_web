@@ -1,0 +1,42 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 28: a. Por qué dormir no es tiempo perdido
+Sección: 8. Cuidado del sistema nervioso: sueño y prevención de traumatismos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Por qué dormir no es tiempo perdido». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente no puede hacer despierto, Consolidación de la memoria, Limpieza metabólica, Regulación hormonal, Restablecimiento, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Por qué dormir no es tiempo perdido», dentro de la sección «8. Cuidado del sistema nervioso: sueño y prevención de traumatismos» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: no puede hacer despierto, Consolidación de la memoria, Limpieza metabólica, Regulación hormonal, Restablecimiento.
+
+Ideas guía:
+- Durante el sueño el sistema nervioso hace cosas que no puede hacer despierto:
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un estudio, un grupo que durmió 8 horas tras aprender una lista de palabras recordó 22 de 30, y otro grupo que se mantuvo despierto el mismo tiempo recordó 14 de 30. ¿Qué se concluye?
+A) Que el grupo que durmió tenía mejor memoria antes del experimento.
+B) Que el sueño favoreció la consolidación de lo aprendido antes de dormir.
+C) Que la lista de palabras era más fácil para el grupo que durmió.
+D) Que mantenerse despierto mejora el recuerdo de listas de palabras.
+Correcta: B. Por qué: Ambos grupos aprendieron la misma lista y esperaron el mismo tiempo; la única diferencia fue dormir o permanecer despierto. Como el grupo que durmió recordó ocho palabras más, la diferencia se atribuye al sueño. No hay información que sugiera diferencias previas de memoria ni de dificultad de la lista.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere estudiar el efecto del sueño sobre el rendimiento en una prueba de atención. ¿Qué precaución es más importante para que el resultado sea interpretable?
+A) Elegir solo participantes que declaren dormir bien habitualmente.
+B) Aplicar la prueba en una sala distinta a cada uno de los participantes.
+C) Aplicar la prueba de atención a la misma hora del día en todos los participantes.
+D) Pedir a los participantes que estimen cuánto creen que rindieron en la prueba.
+Correcta: C. Por qué: Si unos participantes rinden la prueba de mañana y otros de noche, la hora se confunde con el efecto de las horas dormidas. Fijar la misma hora para todos elimina esa confusión. Cambiar de sala introduce variabilidad, seleccionar solo a quienes duermen bien reduce el rango de estudio y una autoevaluación no mide la atención.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante nota que, tras una noche de pocas horas de sueño, le cuesta concentrarse en clase aunque tome café. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuántas tazas de café se venden diariamente en el país?
+B) ¿Cuál es el precio promedio de una taza de café en la ciudad?
+C) ¿Qué marca de café tiene mejor sabor según los consumidores?
+D) ¿Qué funciones del sueño no pueden ser reemplazadas por la cafeína?
+Correcta: D. Por qué: La observación muestra que la cafeína no compensa la falta de sueño, lo que sugiere que hace algo distinto de dormir. La pregunta pertinente indaga justamente cuáles son esas funciones que la cafeína no puede sustituir. Las demás opciones se refieren al café como producto de consumo y no al mecanismo biológico.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

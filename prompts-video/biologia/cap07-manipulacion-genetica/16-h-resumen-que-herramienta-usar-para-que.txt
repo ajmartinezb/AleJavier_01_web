@@ -1,0 +1,37 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 16: h. Resumen: qué herramienta usar para qué
+Sección: 4. Las herramientas: cortar, pegar, copiar y leer el ADN
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Resumen: qué herramienta usar para qué». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente resumen: qué herramienta usar para qué, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «h. Resumen: qué herramienta usar para qué», dentro de la sección «4. Las herramientas: cortar, pegar, copiar y leer el ADN» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un protocolo indica: obtener copias de un fragmento, comprobar su tamaño, insertarlo en un vector y llevarlo al interior de una bacteria. ¿Qué secuencia de herramientas corresponde?
+A) Electroforesis, PCR, transformación y enzima de restricción con ligasa.
+B) Enzima de restricción con ligasa, transformación, PCR y electroforesis.
+C) PCR, electroforesis, enzima de restricción con ligasa y transformación.
+D) Transformación, electroforesis, PCR y enzima de restricción con ligasa.
+Correcta: C. Por qué: El protocolo enumera cuatro acciones en orden. Copiar es PCR; comprobar el tamaño es electroforesis; insertar en un vector exige cortar con la enzima y sellar con la ligasa; y llevarlo al interior de la bacteria es la transformación. El orden del protocolo coincide con el orden de las herramientas.
+
+Pregunta 2 (Procesar y analizar la evidencia): Cuatro equipos describen su objetivo: el primero quiere conocer el orden de los nucleótidos; el segundo, apagar un gen ya presente; el tercero, unir dos fragmentos; el cuarto, separar fragmentos por tamaño. ¿Qué herramientas corresponden?
+A) Secuenciación, CRISPR-Cas9, ADN ligasa, electroforesis.
+B) CRISPR-Cas9, secuenciación, electroforesis y ADN ligasa.
+C) Electroforesis, ADN ligasa, secuenciación y CRISPR-Cas9.
+D) ADN ligasa, electroforesis, CRISPR-Cas9 y secuenciación.
+Correcta: A. Por qué: Cada objetivo contiene un verbo que identifica la herramienta: conocer el orden de los nucleótidos es leer, apagar un gen presente es editar, unir es ligar y separar por tamaño es correr un gel. La correspondencia es directa y no admite ambigüedad.
+
+Pregunta 3 (Evaluar): Un informe describe que, para producir una proteína humana en bacterias, se usó «CRISPR-Cas9 para insertar el gen humano en el plásmido». ¿Qué corresponde objetar a esa descripción?
+A) CRISPR-Cas9 no puede aplicarse a ningún organismo procarionte conocido.
+B) El plásmido recombinante se construye con enzima de restricción y ligasa.
+C) Un plásmido no admite la inserción de genes provenientes de otra especie.
+D) Las proteínas humanas no pueden ser producidas por células bacterianas.
+Correcta: B. Por qué: CRISPR-Cas9 está pensado para editar una secuencia en el genoma de una célula viva, no para construir una molécula recombinante en un tubo. Para insertar un gen en un plásmido se corta ambos ADN con la misma enzima de restricción y se sellan con ligasa. El informe atribuye a una herramienta la función de otras dos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

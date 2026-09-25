@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 16: e. Biogeografía
+Sección: 4. Evidencias evolutivas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Biogeografía». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente marsupiales, isla oceánica, fósiles, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Biogeografía», dentro de la sección «4. Evidencias evolutivas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: marsupiales, isla oceánica, fósiles.
+
+Ideas guía:
+- La distribución geográfica de las especies sigue el patrón de la historia de los continentes y del aislamiento, no el de la simple disponibilidad de ambientes parecidos.
+- Los marsupiales dominan en Australia, aislada desde hace decenas de millones de años, y no en África, que tiene ambientes equivalentes.
+- Las especies de una isla oceánica se parecen sobre todo a las del continente más cercano, aunque el clima de la isla se parezca más al de otro lugar.
+- Los pinzones de Galápagos se parecen a aves sudamericanas (sección 8).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una isla volcánica surgida en el océano hace tres millones de años, las especies de aves terrestres se parecen más a las del continente situado a 900 km que a las de otra isla de clima casi idéntico ubicada a 6000 km. ¿Qué explica mejor este patrón?
+A) Las aves de la isla descienden de colonizadores llegados desde el continente cercano.
+B) Las aves de la isla se adaptaron al clima y por eso se parecen a las del continente.
+C) Las aves de ambas islas se originaron de forma independiente en cada uno de los lugares.
+D) Las aves de la isla lejana migraron hacia el continente cercano y luego regresaron.
+Correcta: A. Por qué: El enunciado presenta dos candidatos: clima e historia de colonización. Si el clima fuera determinante, las aves se parecerían a las de la isla de clima casi idéntico, y no ocurre. Si lo determinante es de dónde llegaron los colonizadores, el parecido debe seguir la distancia, y eso es lo que muestran los datos.
+
+Pregunta 2 (Observar y plantear preguntas): Un equipo observa que fósiles de un mismo grupo de reptiles terrestres del Triásico aparecen tanto en el sur de África como en el sur de América del Sur, separados hoy por miles de kilómetros de océano. ¿Qué pregunta investigable se desprende de esta observación?
+A) ¿Cuántos ejemplares de ese grupo de reptiles se conservan en cada uno de los museos?
+B) ¿Qué temperatura media tenía el océano Atlántico durante el período Triásico?
+C) ¿Qué dieta específica tenía ese grupo de reptiles terrestres durante el Triásico?
+D) ¿Estuvieron unidas ambas regiones durante el período en que vivió ese grupo?
+Correcta: D. Por qué: Un reptil terrestre no cruza un océano. Si sus fósiles aparecen en dos continentes hoy separados, la explicación más razonable es que esas tierras estuvieron unidas cuando el grupo vivía. La pregunta que se desprende indaga precisamente eso, y puede contrastarse con evidencia geológica independiente.
+
+Pregunta 3 (Evaluar): Alguien sostiene que la presencia de marsupiales en Australia y su ausencia en África se explica porque «solo Australia ofrece los ambientes que los marsupiales necesitan». ¿Qué evidencia debilita esa explicación?
+A) Los marsupiales australianos presentan una gran variedad de tamaños corporales.
+B) Los marsupiales se reproducen mediante una gestación notoriamente breve.
+C) África tiene ambientes equivalentes ocupados por mamíferos placentarios.
+D) África posee una superficie total considerablemente mayor que la de Australia.
+Correcta: C. Por qué: La explicación propuesta afirma que el ambiente determina la presencia del grupo. Si en África existen ambientes equivalentes, ocupados además por mamíferos placentarios que cumplen modos de vida semejantes, entonces la ausencia de marsupiales no puede atribuirse a la falta de ambiente adecuado. Lo que sí la explica es la historia: Australia quedó aislada y su fauna siguió un camino propio.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

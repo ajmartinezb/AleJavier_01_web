@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 07: b. Sistema reproductor femenino
+Sección: 3. Los sistemas reproductores
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Sistema reproductor femenino». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Ovarios, estrógenos y progesterona, Trompas uterinas, aquí ocurre la fecundación, Útero, endometrio, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Sistema reproductor femenino», dentro de la sección «3. Los sistemas reproductores» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Ovarios, estrógenos y progesterona, Trompas uterinas, aquí ocurre la fecundación, Útero, endometrio.
+
+Ideas guía:
+- La estructura que más se pregunta es la trompa uterina.
+- La fecundación no ocurre en el útero ni en el ovario: ocurre en el tercio externo de la trompa, cerca del ovario.
+- El embrión recorre luego la trompa hasta el útero, donde se implanta unos seis o siete días después.
+- Si una alternativa sitúa la fecundación en el útero, es incorrecta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una persona presenta ambas trompas uterinas obstruidas, con ovulación y ciclos normales. ¿Qué consecuencia tiene esa condición?
+A) No se produce ovulación, porque el ovocito no puede salir del ovario.
+B) El endometrio deja de engrosarse, porque no recibe estrógenos.
+C) El ovocito y el espermatozoide ya no pueden encontrarse.
+D) La menstruación desaparece, porque el ciclo uterino se interrumpe.
+Correcta: C. Por qué: La obstrucción impide que los gametos se encuentren, porque el espermatozoide no llega al ovocito ni el ovocito avanza hacia el útero. El ovario sigue ovulando y produciendo hormonas, de modo que el ciclo uterino continúa con normalidad, incluida la menstruación. Es el mismo principio de la ligadura de trompas.
+
+Pregunta 2 (Comunicar): Se pide completar la celda «función» correspondiente a la trompa uterina en una tabla de estructuras. ¿Cuál es el contenido correcto?
+A) Produce los ovocitos y las hormonas sexuales femeninas.
+B) Capta y transporta el ovocito; allí ocurre la fecundación.
+C) Aloja al embrión durante todo el desarrollo hasta el parto.
+D) Produce el moco cuya consistencia cambia durante el ciclo.
+Correcta: B. Por qué: Cada una de las otras opciones describe correctamente otra estructura: la producción de ovocitos y hormonas corresponde al ovario, el alojamiento del embrión al útero y el moco al cuello uterino. Rellenar la celda con cualquiera de ellas produciría una tabla con atribuciones cruzadas.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere evaluar si las trompas uterinas de una persona están permeables. ¿Cuál de los siguientes procedimientos entrega la información pertinente?
+A) Un examen de imagen que compruebe el paso de un medio de contraste.
+B) Medir los niveles de estrógenos y progesterona durante un ciclo completo.
+C) Registrar la temperatura basal diaria durante tres meses seguidos.
+D) Contar el número de folículos visibles en el ovario mediante una ecografía.
+Correcta: A. Por qué: La permeabilidad es una propiedad del conducto, y comprobarla exige verificar que algo pueda atravesarlo: eso hace el medio de contraste. Las hormonas y la temperatura basal informan sobre la ovulación, y el recuento de folículos, sobre la reserva ovárica; ninguno evalúa el trayecto.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

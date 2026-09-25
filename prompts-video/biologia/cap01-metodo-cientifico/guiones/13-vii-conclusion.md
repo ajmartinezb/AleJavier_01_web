@@ -1,0 +1,15 @@
+# Guion 13 · vii. Conclusión
+*Capítulo 1: Método científico · Biología PAES — Ciencias · Sección 3. Etapas de una investigación científica*
+Duración estimada: 5 a 6 minutos · Estilo: cuaderno de laboratorio (papel cuadriculado crema, tinta azul, resaltador amarillo)
+
+| # | Tiempo | Visual | Narración |
+|---|---|---|---|
+| 1 | 0:00–0:25 | Titular exagerado: «¡Demostrado para siempre!», que se tacha. | «¡Queda demostrado para siempre!» Si ves esa frase en una alternativa de la PAES, desconfía. Veamos por qué, con la **conclusión**. |
+| 2 | 0:25–0:45 | Ciclo; se ilumina «Conclusión». | Séptima etapa. |
+| 3 | 0:45–1:40 | Diagrama de decisión: resultados vs. predicción → «coinciden: se apoya» / «no coinciden: se rechaza o reformula». | La conclusión **responde la pregunta de investigación** a partir de los resultados. Si los resultados coinciden con la predicción, la hipótesis **se apoya**: se acepta provisionalmente. Si no coinciden, **se rechaza** o se reformula. |
+| 4 | 1:40–2:35 | Balanza asimétrica: muchos resultados a favor no la «cierran»; uno en contra bien obtenido la inclina. | Ojo: una hipótesis **nunca se demuestra definitivamente**. Un experimento aporta evidencia a favor, pero siempre podría aparecer un resultado nuevo que la contradiga. En cambio, un resultado contrario bien obtenido **sí basta** para rechazarla. |
+| 5 | 2:35–3:25 | Tomates dentro de un marco; flechas que intentan salir hacia «todas las plantas» y «40 °C» se bloquean. | Y una conclusión válida **no va más allá de los datos**. Si el experimento se hizo con tomates, no se puede concluir sobre «todas las plantas». Si se probaron temperaturas entre 15 y 25 °C, no se puede afirmar qué ocurre a 40 °C. |
+| 6 | 3:25–3:45 | Tarjeta roja «Error típico PAES» con las palabras «definitivamente», «todas», «siempre» subrayadas. | Error típico: elegir conclusiones que dicen «se comprueba definitivamente» o que generalizan a casos no estudiados. |
+| 7 | 3:45–5:00 | Elodea con luz roja (28 burbujas) y verde (9). Tarjeta A–D; se ilumina D. | Pregunta: ramas de elodea con luz roja liberaron 28 burbujas en promedio, y con luz verde, 9. ¿Qué conclusión se sostiene? A) La luz verde impide por completo la fotosíntesis en todas las plantas. B) La luz roja produce más oxígeno en todas las especies. C) La luz roja es el único color que la elodea puede usar. D) La elodea liberó más oxígeno con luz roja que con verde en el ensayo. … Es **D**. Con verde hubo 9 burbujas, así que no la impide; solo se probó una especie y dos colores. D respeta el alcance. |
+| 8 | 5:00–5:35 | Tres ideas; flecha hacia «Comunicación». | Resumen: la conclusión responde la pregunta según los resultados; la hipótesis se apoya o se rechaza, pero nunca se demuestra definitivamente; y no se generaliza más allá de los datos. Falta un paso: contárselo al mundo. |
+| 9 | 5:35–5:55 | Tarjetas «Desafío». | Desafío: ¿qué concluyes del experimento de la catalasa de papa? ¿Y cuál es la limitación de la conclusión del agricultor de Talca? |

@@ -1,0 +1,43 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 38: b. Tipos de gráficos y cuándo usarlos
+Sección: 8. Tablas y gráficos: procesar, analizar y comunicar evidencia
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Tipos de gráficos y cuándo usarlos». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente De líneas, continua, De barras, categorías, Histograma, distribuye, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Tipos de gráficos y cuándo usarlos», dentro de la sección «8. Tablas y gráficos: procesar, analizar y comunicar evidencia» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: De líneas, continua, De barras, categorías, Histograma, distribuye.
+
+Ideas guía:
+- Habilidad «Comunicar»: la PAES puede pedirte elegir el mejor recurso para presentar una información.
+- Pregúntate: ¿comparo categorías (barras), muestro un cambio continuo (líneas), muestro partes de un todo (circular) o busco una relación entre dos variables medidas (dispersión)?
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Comunicar): En una población de mariposas se determinó la proporción de cada genotipo para un gen con dos alelos: AA, 36 %; Aa, 48 %; aa, 16 %. Un biólogo quiere presentar estos datos destacando qué fracción del total representa cada genotipo. ¿Qué tipo de gráfico es el más adecuado para ese objetivo?
+A) Un gráfico de líneas que una los tres genotipos.
+B) Un gráfico de dispersión de genotipo y porcentaje.
+C) Un gráfico circular con un sector por genotipo.
+D) Un histograma con los genotipos en intervalos.
+Correcta: C. Por qué: Primero se verifica que los datos formen un todo: 36 + 48 + 16 = 100 %. Los genotipos son categorías, y el objetivo es mostrar la fracción que ocupa cada una en la población. El gráfico circular asigna a cada genotipo un sector proporcional: Aa ocupa casi la mitad del círculo, AA algo más de un tercio y aa la sexta parte aproximadamente.
+
+Pregunta 2 (Comunicar): Una investigadora registró la masa corporal (kg) y la tasa metabólica en reposo (kcal/día) de 40 especies de mamíferos. Quiere presentar los datos para explorar si existe relación entre ambas variables cuantitativas. ¿Qué recurso es el más adecuado para ese objetivo?
+A) Un gráfico de barras con la tasa metabólica de cada especie.
+B) Un gráfico circular con la masa de cada especie sobre el total.
+C) Un histograma con la masa corporal agrupada en intervalos.
+D) Un gráfico de dispersión con un punto por cada especie.
+Correcta: D. Por qué: Cada especie aporta dos números: su masa y su tasa metabólica. En un gráfico de dispersión, cada especie es un punto con la masa en el eje X y la tasa en el eje Y. Si la nube de puntos sube de izquierda a derecha, hay una relación directa; si no muestra forma, no hay relación clara. Ninguno de los otros gráficos combina las dos variables.
+
+Pregunta 3 (Procesar y analizar la evidencia): Un histograma muestra la estatura de 50 estudiantes agrupada en intervalos de 5 cm. Intervalo (cm) / número de estudiantes: 150-155 → 5; 155-160 → 10; 160-165 → 20; 165-170 → 10; 170-175 → 5. Según el histograma, ¿qué porcentaje de los estudiantes mide menos de 160 cm?
+A) 30 %
+B) 40 %
+C) 60 %
+D) 70 %
+Correcta: A. Por qué: Menos de 160 cm corresponde a los intervalos 150-155 y 155-160: 5 + 10 = 15 estudiantes. Total: 5 + 10 + 20 + 10 + 5 = 50. Porcentaje: 15 ÷ 50 = 0,30, es decir, 30 %. El intervalo 160-165 no se incluye, porque sus estudiantes miden 160 cm o más.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

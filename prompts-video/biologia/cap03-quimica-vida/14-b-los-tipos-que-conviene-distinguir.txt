@@ -1,0 +1,39 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 14: b. Los tipos que conviene distinguir
+Sección: 5. Lípidos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Los tipos que conviene distinguir». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Triglicérido, Fosfolípido, Esteroide, Cera, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Los tipos que conviene distinguir», dentro de la sección «5. Lípidos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Triglicérido, Fosfolípido, Esteroide, Cera.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una hormona sexual y el colesterol de la membrana animal comparten una misma estructura básica de cuatro anillos de carbono. ¿A qué tipo de lípido pertenecen?
+A) Triglicéridos.
+B) Esteroides.
+C) Fosfolípidos.
+D) Ceras.
+Correcta: B. Por qué: El dato de los cuatro anillos es decisivo. Un triglicérido está formado por glicerol y tres ácidos grasos, un fosfolípido por glicerol, dos ácidos grasos y un grupo fosfato, y una cera por un ácido graso unido a un alcohol de cadena larga: ninguno de los tres presenta la estructura de anillos descrita.
+
+Pregunta 2 (Evaluar): Un estudiante afirma que toda la grasa corporal cumple una única función: almacenar energía. ¿Cuál es la mejor evaluación de esa afirmación?
+A) Es correcta, porque los triglicéridos del cuerpo no cumplen ninguna otra función adicional.
+B) Es incorrecta, porque los triglicéridos no almacenan energía en absoluto en el cuerpo.
+C) Es incompleta: el tejido adiposo también aísla térmicamente y protege mecánicamente.
+D) Es correcta, porque toda la grasa del cuerpo es del mismo tipo químico.
+Correcta: C. Por qué: La afirmación no es falsa, solo parcial, y eso basta para descartarla como respuesta completa. Negar que almacenen energía contradice el hecho más conocido del grupo, y decir que toda la grasa es del mismo tipo químico ignora que el cuerpo contiene también fosfolípidos y esteroides.
+
+Pregunta 3 (Comunicar): Para una infografía escolar hay que indicar qué tipo de lípido impermeabiliza las hojas de las plantas y las plumas de las aves. ¿Cuál corresponde señalar?
+A) Los triglicéridos.
+B) Los esteroides.
+C) Los fosfolípidos.
+D) Las ceras.
+Correcta: D. Por qué: Su carácter fuertemente apolar y su consistencia sólida forman una capa que el agua no atraviesa. Los triglicéridos son reserva energética, los esteroides forman parte de las membranas animales y actúan como hormonas, y los fosfolípidos construyen la bicapa de todas las membranas celulares.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

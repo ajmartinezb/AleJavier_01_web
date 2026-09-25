@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 09: a. El potencial de reposo
+Sección: 4. El impulso nervioso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «El potencial de reposo». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente no está descargada, −70 mV, potencial de reposo, La bomba de sodio-potasio, 3 Na<sup>+</sup>, 2 K<sup>+</sup>, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. El potencial de reposo», dentro de la sección «4. El impulso nervioso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: no está descargada, −70 mV, potencial de reposo, La bomba de sodio-potasio, 3 Na<sup>+</sup>, 2 K<sup>+</sup>.
+
+Ideas guía:
+- Una neurona en reposo no está descargada: mantiene una diferencia de carga entre el interior y el exterior de su membrana, de alrededor de −70 mV, con el interior negativo respecto del exterior.
+- Esa diferencia se llama potencial de reposo y se mantiene gracias a tres cosas: La bomba de sodio-potasio.
+- Es una proteína de transporte activo que, gastando ATP, expulsa 3 Na+ e introduce 2 K+ en cada ciclo.
+- Como saca más cargas positivas de las que mete, contribuye a que el interior quede negativo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una neurona en reposo, la concentración de K⁺ es mayor dentro que fuera, y la de Na⁺ es mayor fuera que dentro. Si se bloquea la bomba sodio-potasio, ¿qué ocurre con el tiempo?
+A) Los gradientes iónicos se disipan y el potencial de reposo se pierde.
+B) El potencial de membrana se hace más negativo que el reposo original.
+C) El potencial de reposo se mantiene igual, porque no depende de la bomba.
+D) La concentración de K⁺ dentro de la célula aumenta todavía más.
+Correcta: A. Por qué: Los iones se filtran continuamente a favor de su gradiente a través de canales de fuga. Si la bomba deja de trabajar, nada repone esos gradientes: el Na⁺ sigue entrando y el K⁺ saliendo hasta que las concentraciones se igualan y el potencial de reposo desaparece. El proceso es progresivo, no inmediato.
+
+Pregunta 2 (Evaluar): Un estudiante explica el potencial de reposo así: «El interior es negativo porque la membrana no permite el paso de ningún ion». ¿Cuál es la crítica correcta?
+A) Es correcta, porque una membrana impermeable garantiza un interior negativo.
+B) Es incorrecta, porque en reposo la membrana no presenta ninguna diferencia de potencial.
+C) Es incorrecta: la membrana es permeable al K⁺, y esa permeabilidad da la negatividad.
+D) Es incorrecta, porque en reposo la membrana es más permeable al Na⁺ que al K⁺.
+Correcta: C. Por qué: La explicación falla en su premisa: si la membrana fuera impermeable a todo, no habría movimiento neto de carga y no se generaría ninguna diferencia de potencial. Lo que produce la negatividad es justamente una permeabilidad selectiva, mucho mayor para el potasio que para el sodio.
+
+Pregunta 3 (Planificar y conducir una investigación): Para comprobar que la bomba sodio-potasio contribuye al potencial de reposo, se dispone de un inhibidor específico de esa bomba y de un registro continuo del potencial de membrana. ¿Cuál es el procedimiento adecuado?
+A) Aplicar el inhibidor y medir la concentración extracelular de calcio en el medio.
+B) Aplicar el inhibidor y contar cuántas neuronas quedan vivas después de una hora.
+C) Registrar el potencial en dos células distintas, una con inhibidor y otra sin él, a temperaturas diferentes.
+D) Registrar el potencial antes y después de aplicar el inhibidor a la misma célula.
+Correcta: D. Por qué: Registrar la misma célula antes y después de aplicar el inhibidor entrega una condición control y una experimental sin diferencias individuales entre ellas, de modo que el cambio de potencial se puede atribuir al bloqueo de la bomba. Medir calcio o contar células vivas mide otra cosa, y variar además la temperatura confundiría los dos efectos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

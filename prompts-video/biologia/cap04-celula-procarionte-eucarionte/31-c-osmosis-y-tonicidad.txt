@@ -1,0 +1,43 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 31: c. Ósmosis y tonicidad
+Sección: 9. La membrana plasmática y el transporte de sustancias
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Ósmosis y tonicidad». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente Hipotónico, lisis, turgente, Isotónico, Flácida, Hipertónico, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Ósmosis y tonicidad», dentro de la sección «9. La membrana plasmática y el transporte de sustancias» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Hipotónico, lisis, turgente, Isotónico, Flácida, Hipertónico.
+
+Ideas guía:
+- La tonicidad compara la concentración de solutos del medio con la del interior de la célula: Por eso los sueros que se inyectan en la sangre son isotónicos, como el suero fisiológico al 0,9 % de NaCl.
+- Y por eso las plantas se marchitan en suelos muy salinos: el agua sale de sus células.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se pesaron cilindros de papa y luego se sumergieron durante 1 hora en soluciones de sacarosa de distinta concentración. El cambio de masa fue: 0,0 M: +12 %; 0,2 M: +5 %; 0,3 M: 0 %; 0,4 M: −4 %; 0,6 M: −11 %. ¿Qué se concluye de estos resultados?
+A) La concentración de solutos dentro de las células de papa equivale a cerca de 0,3 M.
+B) Las células de papa pierden agua en toda solución que contenga algo de sacarosa.
+C) La sacarosa entra a las células en las soluciones más concentradas y eleva su masa.
+D) Las células de papa estallan en agua destilada porque ganan más de un 10 % de masa en una hora.
+Correcta: A. Por qué: En 0,0 y 0,2 M la papa gana masa: el medio es hipotónico y entra agua. En 0,4 y 0,6 M pierde masa: el medio es hipertónico y sale agua. En 0,3 M el cambio es 0 %: esa solución es isotónica respecto de las células, así que su concentración interna ronda 0,3 M. B contradice el aumento en 0,2 M; C y D contradicen los datos y la presencia de pared.
+
+Pregunta 2 (Planificar y conducir una investigación): Un grupo quiere determinar a qué concentración de NaCl los glóbulos rojos de oveja conservan su forma normal. Disponen de sangre, soluciones de NaCl y un microscopio. ¿Cuál es el procedimiento más adecuado?
+A) Poner glóbulos rojos en una solución de NaCl al 0,9 % y observar si cambian de forma al cabo de 20 minutos.
+B) Poner glóbulos rojos de oveja y de humano en agua destilada, y comparar cuál de los dos estalla antes.
+C) Poner glóbulos rojos en soluciones de NaCl al 0,9 % con distinta temperatura, y observar su forma.
+D) Poner glóbulos rojos en soluciones de NaCl de 0 % a 2 %, con igual volumen y tiempo, y ver su forma.
+Correcta: D. Por qué: Para encontrar la concentración isotónica hay que variar la concentración de NaCl en un rango amplio y controlar volumen, tiempo y temperatura; luego se observa en qué solución no hay hinchazón ni crenación. D cumple esto. A usa una sola concentración y supone el resultado humano. B compara especies en un solo medio. C cambia la temperatura en vez de la concentración.
+
+Pregunta 3 (Evaluar): Tras regar un huerto con agua con mucha sal, las lechugas se marchitaron. Al observar al microscopio hojas de esas lechugas, la membrana de muchas células aparecía separada de la pared. Un agricultor concluye: «La sal hizo que el agua saliera de las células». ¿Qué afirmación evalúa correctamente esta conclusión?
+A) Es incorrecta, porque la separación entre membrana y pared indica que el agua entró en exceso a la célula.
+B) Es correcta, porque la plasmólisis observada ocurre cuando el medio es hipertónico respecto de la célula.
+C) Es incorrecta, porque la pared celular impide cualquier pérdida de agua de las células vegetales.
+D) Es correcta, pero solo si se comprueba antes que la sal destruyó la pared de las células.
+Correcta: B. Por qué: El agua de riego salada deja al suelo con más solutos que las células de la raíz: el medio es hipertónico. El agua sale por ósmosis, la célula pierde presión de turgencia y la planta se marchita. La membrana despegada de la pared es justamente la plasmólisis, que confirma la salida de agua. Por eso la conclusión es válida y B la evalúa correctamente.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

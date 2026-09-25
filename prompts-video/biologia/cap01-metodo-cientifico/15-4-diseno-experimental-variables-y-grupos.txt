@@ -1,0 +1,42 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 15: 4. Diseño experimental: variables y grupos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Diseño experimental: variables y grupos». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente una sola causa, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «4. Diseño experimental: variables y grupos» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: una sola causa.
+
+Ideas guía:
+- Un experimento bien diseñado permite atribuir un efecto a una sola causa.
+- Para lograrlo hay que distinguir con claridad qué se cambia, qué se mide y qué se mantiene igual.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Una estudiante quiere averiguar si la temperatura del agua modifica la frecuencia cardiaca de la pulga de agua Daphnia. Coloca individuos de igual tamaño y edad en agua a 10, 15, 20 y 25 °C, todos con el mismo volumen de agua y la misma iluminación, y tras cinco minutos cuenta los latidos por minuto bajo la lupa. ¿Qué papel cumple la temperatura del agua en este diseño?
+A) Es la variable independiente.
+B) Es la variable dependiente.
+C) Es una variable controlada.
+D) Es el grupo de referencia.
+Correcta: A. Por qué: Paso 1: la estudiante fija cuatro valores distintos de temperatura (10, 15, 20 y 25 °C); ella decide esos valores. Paso 2: lo que se registra al final son los latidos por minuto, que es la respuesta. Paso 3: tamaño, edad, volumen e iluminación son iguales en todos los casos. Por lo tanto, la temperatura es la variable independiente.
+
+Pregunta 2 (Observar y plantear preguntas): En un humedal costero, un guardaparque nota que los juncos que crecen cerca de la desembocadura parecen más bajos que los que crecen río arriba, donde el agua es menos salada. ¿Cuál de las siguientes hipótesis se relaciona directamente con su observación y puede ponerse a prueba con un experimento?
+A) Los juncos son plantas que prefieren vivir en ambientes húmedos.
+B) Una mayor salinidad del agua reduce la altura que alcanzan los juncos.
+C) Los juncos altos son más valiosos para las aves acuáticas que los juncos bajos.
+D) La desembocadura es un lugar más bello que la zona alta del río.
+Correcta: B. Por qué: Paso 1: la observación vincula la ubicación, asociada a la salinidad del agua, con la altura de los juncos. Paso 2: una hipótesis contrastable debe proponer que una variable influye en otra. Paso 3: «mayor salinidad reduce la altura» se puede probar regando juncos con agua de distinta salinidad y midiendo su altura. Por eso la clave es B.
+
+Pregunta 3 (Evaluar): Para estudiar si la concentración de sacarosa afecta la producción de gas de la levadura, un curso prepara dos matraces: el matraz 1 con sacarosa al 5 % a 20 °C y el matraz 2 con sacarosa al 10 % a 35 °C. El matraz 2 produce más gas. ¿Cuál es la principal debilidad de este diseño?
+A) Solo se usaron dos matraces con una única especie de levadura.
+B) La producción de gas no es una respuesta propia de la levadura.
+C) Cambiaron a la vez la concentración y la temperatura entre los matraces.
+D) La sacarosa no puede ser utilizada por la levadura como fuente de energía.
+Correcta: C. Por qué: Paso 1: entre los matraces difieren la sacarosa (5 % y 10 %) y la temperatura (20 °C y 35 °C). Paso 2: ambas pueden aumentar la fermentación. Paso 3: como cambian juntas, no se sabe cuál causó el mayor volumen de gas. La debilidad central es que varían dos variables a la vez.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

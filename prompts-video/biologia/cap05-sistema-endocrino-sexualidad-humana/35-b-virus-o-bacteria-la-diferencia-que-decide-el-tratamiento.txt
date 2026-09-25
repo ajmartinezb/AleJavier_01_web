@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 35: b. Virus o bacteria: la diferencia que decide el tratamiento
+Sección: 9. Infecciones de transmisión sexual
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Virus o bacteria: la diferencia que decide el tratamiento». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente bacterias, virus, Antibióticos, Antivirales, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Virus o bacteria: la diferencia que decide el tratamiento», dentro de la sección «9. Infecciones de transmisión sexual» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: bacterias, virus, Antibióticos, Antivirales.
+
+Ideas guía:
+- Por qué los antibióticos no sirven contra un virus.
+- Los antibióticos atacan estructuras propias de las bacterias, como su pared celular o sus ribosomas, que los virus no tienen.
+- Un virus usa la maquinaria de la célula que infecta, de modo que atacarlo exige fármacos distintos.
+- Si un ítem propone tratar el herpes o el VIH con antibióticos, es incorrecto.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): ¿Por qué los antibióticos no sirven para tratar el herpes genital?
+A) Porque el virus se reproduce demasiado rápido para el fármaco.
+B) Porque el herpes se localiza en tejidos donde el antibiótico no llega.
+C) Porque el virus del herpes es resistente a todos los antibióticos conocidos.
+D) Porque los antibióticos atacan estructuras bacterianas que los virus no tienen.
+Correcta: D. Por qué: No se trata de resistencia adquirida ni de acceso al tejido: simplemente no existe el blanco sobre el que el fármaco actúa. Por eso el tratamiento del herpes usa antivirales, que interfieren con la replicación del material genético viral, y controlan los brotes sin eliminar el virus latente.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se comparan dos infecciones: una se cura con tratamiento y puede volver a contraerse; la otra persiste de por vida aunque se controle. ¿A qué tipo de agente corresponde cada una?
+A) La primera es bacteriana y la segunda, viral.
+B) La primera es viral y la segunda, bacteriana.
+C) Ambas son bacterianas, con distinta respuesta al tratamiento.
+D) Ambas son virales, con distinta duración de la infección.
+Correcta: A. Por qué: Curarse por completo indica que el agente fue eliminado, lo que ocurre con las bacterias. Persistir de por vida bajo control indica que el agente permanece en el organismo, característico de los virus de este grupo. Que una infección se pueda repetir no significa que no se haya curado: significa que no deja inmunidad duradera.
+
+Pregunta 3 (Evaluar): Una persona con gonorrea se trata, se cura y concluye que ya no volverá a contraerla. ¿Cuál es la precisión correcta?
+A) Es correcta: la infección deja inmunidad permanente tras curarse.
+B) Es incorrecta: puede volver a contraerla en una nueva exposición.
+C) Es incorrecta, porque la gonorrea no se cura con ningún tratamiento.
+D) Es correcta, siempre que haya completado todo el esquema antibiótico.
+Correcta: B. Por qué: Curarse significa eliminar la bacteria, no quedar protegido frente a una nueva exposición. De ahí la importancia de tratar también a la pareja: si solo se trata una de las dos personas, la reinfección es muy probable. Completar el esquema asegura la curación, pero no genera inmunidad.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 11: b. Ciclo de Calvin (en el estroma)
+Sección: 5. Las etapas de la fotosíntesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Ciclo de Calvin (en el estroma)». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente sí depende de ella, Fijación, RuBisCO, Reducción, ATP, NADPH, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Ciclo de Calvin (en el estroma)», dentro de la sección «5. Las etapas de la fotosíntesis» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: sí depende de ella, Fijación, RuBisCO, Reducción, ATP, NADPH.
+
+Ideas guía:
+- No necesita luz de forma directa, pero sí depende de ella, porque consume el ATP y el NADPH que solo se fabrican con luz.
+- La enzima RuBisCO une el CO2 a una molécula de cinco carbonos que ya estaba en el estroma.
+- El producto se parte de inmediato en dos moléculas de tres carbonos.
+- Esas moléculas reciben energía del ATP y electrones del NADPH, y se transforman en un azúcar de tres carbonos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Se quiere identificar los compuestos intermediarios del ciclo de Calvin y el orden en que aparecen. ¿Cuál es el procedimiento más adecuado?
+A) Medir la cantidad total de glucosa acumulada al final de un día de iluminación.
+B) Comparar el tamaño de los cloroplastos antes y después de la iluminación.
+C) Registrar la intensidad de luz necesaria para que el ciclo alcance su máximo.
+D) Dar CO₂ marcado y detener la reacción a distintos tiempos.
+Correcta: D. Por qué: Marcar el CO₂ permite seguir el carbono, y detener la reacción a tiempos cada vez más largos muestra en qué molécula está el marcador en cada momento. Así se reconstruye el orden de aparición. Medir la glucosa final, el tamaño del organelo o la luz necesaria no entrega información sobre la secuencia.
+
+Pregunta 2 (Evaluar): Un estudiante sostiene que «el ciclo de Calvin se llama fase oscura porque es el proceso que realizan las plantas durante la noche». ¿Cuál es la corrección pertinente?
+A) Es incorrecta: el nombre alude a que no usa luz directa, pero funciona de día.
+B) Es correcta: en la oscuridad la planta reemplaza la fase luminosa por el ciclo de Calvin.
+C) Es incorrecta, porque el ciclo de Calvin ocurre en realidad dentro de los tilacoides.
+D) Es incorrecta, porque el ciclo de Calvin no forma parte de la fotosíntesis.
+Correcta: A. Por qué: El error es tomar el nombre al pie de la letra. En la práctica el ciclo funciona de día, mientras la fase luminosa lo abastece, y se detiene pocos minutos después de oscurecer. Por eso conviene el nombre «ciclo de Calvin», que no induce a esa confusión.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se entrega a un cloroplasto aislado, en oscuridad, una mezcla de CO₂, ATP y NADPH. Se observa que se forma materia orgánica. ¿Qué demuestra ese resultado?
+A) Que la luz no cumple ninguna función en la fotosíntesis de la planta.
+B) Que el ciclo de Calvin puede funcionar sin luz si recibe ATP y NADPH.
+C) Que el ciclo de Calvin produce por sí solo el ATP que necesita.
+D) Que la fase luminosa puede ocurrir en ausencia total de luz.
+Correcta: B. Por qué: Al suministrar esos dos compuestos desde fuera se reemplaza lo que la luz normalmente produce, y el ciclo avanza en oscuridad. Eso demuestra que su dependencia de la luz es indirecta. No demuestra que la luz sea prescindible en la planta completa, porque sin ella nada repondría el ATP ni el NADPH.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

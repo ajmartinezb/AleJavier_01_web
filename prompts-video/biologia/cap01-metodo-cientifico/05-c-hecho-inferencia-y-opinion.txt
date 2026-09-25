@@ -1,0 +1,44 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 05: c. Hecho, inferencia y opinión
+Sección: 2. ¿Qué es la ciencia?
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Hecho, inferencia y opinión». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente observa, interpreta, Observación (hecho), Inferencia, Opinión, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Hecho, inferencia y opinión», dentro de la sección «2. ¿Qué es la ciencia?» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: observa, interpreta, Observación (hecho), Inferencia, Opinión.
+
+Ideas guía:
+- Una habilidad básica que la PAES evalúa es distinguir entre lo que se observa y lo que se interpreta.
+- La inferencia se apoya en datos, pero va más allá de ellos.
+- Por eso puede ser incorrecta si hay variables que no se controlaron.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): En un informe sobre el efecto del ejercicio en la respiración, un estudiante escribió cuatro frases. ¿Cuál de ellas corresponde a una observación y no a una inferencia ni a una opinión?
+A) Tras 2 minutos de trote, su frecuencia respiratoria subió de 16 a 28 veces por minuto.
+B) El aumento de la respiración se debe a que los músculos necesitan más oxígeno al trotar.
+C) Trotar es la mejor actividad física que se puede hacer para mantener sana la función pulmonar.
+D) Si hubiera trotado más tiempo, su respiración habría seguido subiendo sin detenerse.
+Correcta: A. Por qué: A informa dos valores medidos (16 y 28 respiraciones por minuto): es un hecho observado. B propone una causa del aumento: es una inferencia, aunque sea razonable. C es una valoración («la mejor»): es opinión. D anticipa lo que habría ocurrido en una condición no medida: es una inferencia sin datos. La observación es A.
+
+Pregunta 2 (Evaluar): Un grupo riega plantas de rabanito con agua de la llave (grupo A) y con agua con un fertilizante (grupo B). En la tabla se muestran las alturas promedio a las tres semanas: grupo A → 7 cm; grupo B → 12 cm. Luego se descubre que el grupo B estuvo junto a la ventana y el grupo A al fondo de la sala. ¿Cuál es la mejor evaluación de la inferencia «el fertilizante favorece el crecimiento»?
+A) Es correcta, porque el grupo B creció 5 cm más que el grupo A en tres semanas.
+B) Es una opinión, porque se basa en la preferencia del grupo por ese fertilizante.
+C) Es un hecho, porque se obtuvo directamente de medir la altura de los rabanitos.
+D) Es dudosa, porque la luz también varió y pudo causar la diferencia de alturas.
+Correcta: D. Por qué: Las alturas (7 y 12 cm) son hechos. Atribuir la diferencia al fertilizante es una inferencia. Pero los grupos difirieron en dos cosas: el fertilizante y la luz, porque B estuvo junto a la ventana. No se puede saber cuál causó los 5 cm de diferencia, así que la inferencia es dudosa (D). A ignora la luz; B confunde inferencia con opinión; C confunde la inferencia con el dato medido.
+
+Pregunta 3 (Planificar y conducir una investigación): Un estudiante observa que en su familia varias personas tienen ojos café y afirma: «Seguramente el color de ojos café se hereda como un rasgo dominante». Su profesora le pide reunir evidencia para evaluar esa inferencia. ¿Cuál de estos procedimientos es el más adecuado?
+A) Preguntar a sus compañeros si creen que el color café es un rasgo dominante.
+B) Construir un árbol genealógico con el color de ojos de varias generaciones.
+C) Contar cuántas personas de su curso tienen ojos café y elegir el más común.
+D) Buscar la opinión de un famoso en redes sociales sobre el color de los ojos.
+Correcta: B. Por qué: Para saber cómo se hereda un rasgo hay que ver cómo pasa de padres a hijos. Un árbol genealógico con varias generaciones muestra si, por ejemplo, dos padres de ojos café tienen hijos de ojos claros, dato clave en el análisis de dominancia (B). A y D recogen opiniones, no datos. C mide la frecuencia del rasgo en el curso, pero la frecuencia no revela dominancia. Cabe notar que el color de ojos depende de varios genes, así que el árbol podría…
+
+Narración en español de Chile neutro, tono cercano y riguroso.

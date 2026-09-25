@@ -1,0 +1,44 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 26: d. Lamarck y Darwin frente al mismo caso
+Sección: 6. La evolución antes de Darwin
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Lamarck y Darwin frente al mismo caso». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente ¿Quién cambia?, individuo, población, variación previa, Papel del ambiente, Induce, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Lamarck y Darwin frente al mismo caso», dentro de la sección «6. La evolución antes de Darwin» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ¿Quién cambia?, individuo, población, variación previa, Papel del ambiente, Induce.
+
+Ideas guía:
+- Una alternativa es lamarckiana (y por lo tanto incorrecta) cuando dice que los individuos desarrollaron, adquirieron o generaron un rasgo porque lo necesitaban, y que después lo heredaron.
+- Frases de alerta: «se adaptaron al frío desarrollando pelaje más grueso», «la especie generó resistencia al antibiótico para sobrevivir», «con el uso, el órgano se fortaleció y pasó a la descendencia».
+- La formulación correcta siempre pone la variación antes de la presión: «en la población ya existían individuos con pelaje más grueso, y en el ambiente frío esos individuos dejaron más descendencia».
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Ante el alargamiento del cuello de las jirafas a lo largo de generaciones, se ofrecen dos explicaciones. La primera dice que cada jirafa estiró su cuello y lo transmitió alargado. La segunda dice que ya existían cuellos de distinto largo y que los más largos dejaron más descendencia. ¿Cómo se distinguen?
+A) En que la primera exige variación previa y la segunda, una respuesta al ambiente.
+B) En que la primera considera heredable el rasgo y la segunda, adquirido durante la vida.
+C) En que la primera atribuye el cambio al individuo y la segunda, a la población.
+D) En que la primera describe un proceso lento y la segunda, un cambio instantáneo.
+Correcta: C. Por qué: La primera explicación supone que el esfuerzo modifica al organismo y que esa modificación pasa a la descendencia: el sujeto del cambio es el individuo. La segunda supone que la variación es previa y que el ambiente selecciona entre variantes: el sujeto del cambio es la población. Esa es la diferencia de fondo.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un informe sobre una población de zorros de una zona que se volvió más fría, se lee: «Los zorros se adaptaron al frío desarrollando un pelaje más grueso, que luego heredaron sus crías». ¿Qué reformulación corrige el error del informe?
+A) Los zorros percibieron el descenso de temperatura y activaron los genes del pelaje grueso.
+B) El frío provocó en los zorros mutaciones que originaron la variante de pelaje grueso.
+C) Los zorros de pelaje delgado se trasladaron a zonas templadas y dejaron de reproducirse.
+D) En la población había zorros de pelaje más grueso, y en el frío estos dejaron más descendencia.
+Correcta: D. Por qué: El informe usa el verbo desarrollar, que atribuye al individuo la generación del rasgo por necesidad. La reformulación correcta invierte el orden: primero existe la variación heredable en la población y después el frío hace que unas variantes dejen más descendencia que otras. Nada en el zorro individual cambia.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere determinar si el aumento del grosor del pelaje observado en una población de zorros a lo largo de veinte años se debe a selección natural o a una respuesta fisiológica al frío. ¿Qué procedimiento permite distinguir ambas posibilidades?
+A) Medir el grosor del pelaje de los mismos individuos a lo largo de varios inviernos.
+B) Criar crías de ambos grupos en un ambiente templado y comparar el grosor del pelaje.
+C) Registrar la temperatura mínima de la zona durante los veinte años del estudio.
+D) Contar el número de zorros presentes en la zona al inicio y al final del período.
+Correcta: B. Por qué: Si el grosor del pelaje es heredable, las crías criadas en un ambiente templado mantendrán la diferencia entre grupos. Si se trata de una respuesta fisiológica al frío, esa diferencia desaparecerá al igualar el ambiente. Criar en un ambiente común es, por lo tanto, el procedimiento que separa ambas causas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

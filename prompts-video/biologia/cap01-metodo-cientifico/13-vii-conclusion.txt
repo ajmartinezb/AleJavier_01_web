@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 13: vii. Conclusión
+Sección: 3. Etapas de una investigación científica
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Conclusión». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente se apoya, se rechaza, sí, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «vii. Conclusión», dentro de la sección «3. Etapas de una investigación científica» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: se apoya, se rechaza, sí.
+
+Ideas guía:
+- La conclusión responde la pregunta de investigación a partir de los resultados: si los resultados coinciden con la predicción, la hipótesis se apoya (se acepta provisionalmente); si no coinciden, la hipótesis se rechaza o se reformula.
+- Una hipótesis nunca se «demuestra» definitivamente.
+- Un experimento puede aportar evidencia a favor, pero siempre podría aparecer un nuevo resultado que la contradiga.
+- En cambio, un resultado contrario bien obtenido sí basta para rechazarla.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Para poner a prueba si la luz roja favorece la fotosíntesis de la elodea más que la luz verde, un estudiante iluminó ramas iguales con cada color durante 10 minutos y contó las burbujas de oxígeno. Promedio de tres repeticiones: luz roja 28 burbujas; luz verde 9 burbujas. ¿Qué conclusión se sostiene con estos resultados?
+A) La luz verde impide por completo la fotosíntesis en todas las plantas.
+B) La luz roja produce más oxígeno en todas las especies de plantas.
+C) La luz roja es el único color que la elodea puede usar para vivir.
+D) La elodea liberó más oxígeno con luz roja que con verde en el ensayo.
+Correcta: D. Por qué: Se probaron solo dos colores y una especie. Con luz roja hubo 28 burbujas y con verde 9: la hipótesis se apoya para la elodea en esas condiciones. No se puede afirmar que el verde anule la fotosíntesis (hubo 9 burbujas), ni extender el resultado a otras plantas, ni decir que el rojo es el único color útil, porque no se probaron otros. La opción D es la única que respeta el alcance.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un equipo propuso que la enzima catalasa de la papa pierde actividad al calentarse y predijo que los trozos hervidos liberarían menos burbujas al contacto con agua oxigenada. Resultados (altura de espuma, en mm): papa cruda 42; papa hervida 3. ¿Qué conclusión corresponde?
+A) La hipótesis se apoya, pues la papa hervida produjo mucha menos espuma.
+B) La hipótesis se rechaza, porque la papa hervida produjo algo de espuma.
+C) La hipótesis queda demostrada para todas las enzimas de los seres vivos.
+D) La hipótesis no puede evaluarse, porque se usó un solo tipo de tejido vegetal.
+Correcta: A. Por qué: La predicción era que la papa hervida liberaría menos burbujas. Midió 3 mm frente a 42 mm: la diferencia va en la dirección predicha y es grande. Por lo tanto, la hipótesis se apoya. Que haya algo de espuma no la contradice, porque la predicción hablaba de «menos», no de «nada». Tampoco queda demostrada para todas las enzimas: solo se estudió la catalasa de papa.
+
+Pregunta 3 (Evaluar): Tras medir en un solo invierno el crecimiento de lechugas regadas con agua de pozo y con agua de lluvia en un invernadero de Talca, un agricultor concluye: «El agua de lluvia hace crecer más a cualquier hortaliza en cualquier estación». ¿Cuál es la principal limitación de esta conclusión?
+A) Las lechugas no se regaron durante el invierno en el invernadero.
+B) El agua de lluvia y el agua de pozo tienen la misma composición.
+C) Generaliza a hortalizas y estaciones que no se estudiaron.
+D) El crecimiento de una lechuga no puede medirse de forma precisa.
+Correcta: C. Por qué: El estudio usó solo lechugas y solo un invierno. Sin embargo, la conclusión habla de «cualquier hortaliza» y «cualquier estación». Ese salto no está respaldado: otras especies o temperaturas podrían responder distinto. La conclusión válida sería más acotada, referida a lechugas en invierno bajo esas condiciones. Esa limitación es la que señala C.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

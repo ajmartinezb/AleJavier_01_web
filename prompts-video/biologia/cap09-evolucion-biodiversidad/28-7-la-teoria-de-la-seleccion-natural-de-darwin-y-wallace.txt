@@ -1,0 +1,41 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 28: 7. La teoría de la selección natural de Darwin y Wallace
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «La teoría de la selección natural de Darwin y Wallace». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente 3.6, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «7. La teoría de la selección natural de Darwin y Wallace» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 3.6.
+
+Ideas guía:
+- Este es el conocimiento 3.6 del temario DEMRE 2027 y el contenido más preguntado del capítulo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): El mecanismo propuesto en 1858 se cita habitualmente como teoría de Darwin-Wallace. ¿Qué justifica que se nombre a ambos autores?
+A) Wallace reunió la evidencia de campo y Darwin se encargó de redactar la teoría final.
+B) Ambos formularon el mismo mecanismo por separado y lo presentaron en conjunto en 1858.
+C) Wallace corrigió los errores que Darwin había cometido en sus primeros manuscritos.
+D) Ambos trabajaron juntos durante veinte años en el desarrollo de la misma propuesta.
+Correcta: B. Por qué: Los dos llegaron por separado al mismo mecanismo, con materiales y recorridos distintos: Darwin tras el viaje del Beagle y más de veinte años de trabajo, Wallace tras años de recolección en el archipiélago malayo. La presentación conjunta de 1858 reconoce esa doble autoría, y Darwin publicó al año siguiente la obra con la evidencia acumulada.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un cuadro resume cuatro observaciones sobre una población: los individuos difieren entre sí, parte de esas diferencias se transmite a las crías, nacen más individuos de los que el ambiente puede sostener y la supervivencia no es al azar. ¿Qué se sigue necesariamente de estas cuatro observaciones?
+A) Que la frecuencia de las variantes ventajosas aumentará con las generaciones.
+B) Que la población se extinguirá en pocas generaciones por falta de recursos.
+C) Que todos los individuos de la población desarrollarán la misma característica.
+D) Que las mutaciones aparecerán con mayor frecuencia en la generación siguiente.
+Correcta: A. Por qué: Si los individuos difieren, si esas diferencias se heredan y si sobreviven y se reproducen preferentemente los que portan ciertas variantes, entonces esas variantes aparecerán con mayor frecuencia en la generación siguiente. Ese aumento de frecuencia es, por definición, evolución por selección natural.
+
+Pregunta 3 (Observar y plantear preguntas): En un criadero se observa que, tras varios años usando el mismo tratamiento antiparasitario, los parásitos del ganado ya no mueren con la dosis habitual, y que los animales tratados presentan cargas parasitarias crecientes. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Cuántos animales de ganado componen actualmente el plantel completo del criadero?
+B) ¿Qué superficie de potreros utiliza el criadero para el pastoreo de sus animales?
+C) ¿Qué marca comercial de antiparasitario resulta más económica para el criadero?
+D) ¿Qué proporción de los parásitos portaba variantes resistentes antes del primer tratamiento?
+Correcta: D. Por qué: Lo observado es una pérdida de eficacia tras aplicaciones repetidas, que es el patrón esperable de una selección de variantes resistentes. La pregunta que apunta al mecanismo indaga qué proporción de la población portaba esas variantes antes del primer tratamiento, porque ese dato permitiría reconstruir el proceso y anticipar su avance.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

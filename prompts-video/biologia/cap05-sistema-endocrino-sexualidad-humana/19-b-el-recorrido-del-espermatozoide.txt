@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 19: b. El recorrido del espermatozoide
+Sección: 6. La fecundación y los primeros días
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «El recorrido del espermatozoide». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Capacitación, Quimiotaxis, Reacción acrosómica, enzimas, Reconocimiento y fusión, Bloqueo de la poliespermia, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. El recorrido del espermatozoide», dentro de la sección «6. La fecundación y los primeros días» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Capacitación, Quimiotaxis, Reacción acrosómica, enzimas, Reconocimiento y fusión, Bloqueo de la poliespermia.
+
+Ideas guía:
+- De las decenas de millones que entran, solo unos pocos cientos llegan hasta el ovocito.
+- En el tracto femenino, el espermatozoide sufre cambios en su membrana que lo habilitan para fecundar.
+- Sin capacitación no puede producirse la reacción acrosómica.
+- Por eso, en la fecundación in vitro, el laboratorio debe reproducir este paso.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un estudio mide la migración de espermatozoides hacia concentraciones crecientes de un quimioatrayente y obtiene porcentajes de migración de 30, 50, 70 y 90 %. ¿Qué predicción es correcta para una fecundación asistida con esa sustancia?
+A) La cantidad de espermatozoides cercanos al ovocito disminuirá al aumentar la concentración.
+B) Los espermatozoides dejarán de mover su flagelo a concentraciones altas.
+C) La probabilidad de fecundación aumentará a mayor concentración del quimioatrayente.
+D) El ovocito perderá su zona pelúcida al aumentar la concentración del atrayente.
+Correcta: C. Por qué: Los datos muestran que a mayor concentración, mayor porcentaje de espermatozoides que migran. Si más gametos se acercan al ovocito, la probabilidad de que alguno lo fecunde aumenta. Las demás opciones invierten la tendencia o introducen efectos que el estudio no midió.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere comprobar que la capacitación es necesaria para que ocurra la fecundación. ¿Qué comparación es la adecuada?
+A) Comparar el número de espermatozoides de dos muestras de semen distintas.
+B) Comparar el tiempo que tarda un espermatozoide en recorrer un milímetro.
+C) Comparar el tamaño de los ovocitos usados en dos ensayos distintos del mismo día.
+D) Comparar la fecundación lograda con espermatozoides capacitados y sin capacitar.
+Correcta: D. Por qué: Demostrar que un paso es necesario exige compararlo con su ausencia manteniendo todo lo demás igual. Si solo los capacitados logran fecundar, la conclusión queda establecida. Contar espermatozoides, medir velocidades o comparar tamaños de ovocito no pone a prueba la necesidad de la capacitación.
+
+Pregunta 3 (Procesar y analizar la evidencia): ¿Cuál es la consecuencia de que falle el bloqueo de la poliespermia?
+A) El cigoto tendría un número anormal de cromosomas y no sería viable.
+B) El embrión dispondría de más reservas citoplasmáticas para dividirse.
+C) La implantación ocurriría antes de lo habitual en el endometrio.
+D) El ovocito completaría su meiosis con mayor rapidez que lo normal.
+Correcta: A. Por qué: Cada espermatozoide aporta 23 cromosomas. Si entraran dos, el cigoto tendría 69 en lugar de 46 y no sería viable. El bloqueo no tiene que ver con las reservas, con el momento de la implantación ni con la velocidad de la meiosis: su función es mantener el número cromosómico correcto.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

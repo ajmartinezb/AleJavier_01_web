@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 29: a. Cómo llegaron a la misma idea
+Sección: 7. La teoría de la selección natural de Darwin y Wallace
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Cómo llegaron a la misma idea». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Charles Darwin, Galápagos, más de veinte años, Alfred Russel Wallace, Ternate, lectura conjunta, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Cómo llegaron a la misma idea», dentro de la sección «7. La teoría de la selección natural de Darwin y Wallace» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Charles Darwin, Galápagos, más de veinte años, Alfred Russel Wallace, Ternate, lectura conjunta.
+
+Ideas guía:
+- Charles Darwin viajó a bordo del Beagle entre 1831 y 1836.
+- En Chile presenció el terremoto de Concepción de 1835, vio conchas marinas fósiles a miles de metros de altitud en los Andes y encontró bosques petrificados: evidencia directa de que el territorio se levanta, es decir, de que la Tierra cambia.
+- En las islas Galápagos, en 1835, observó que cada isla tenía variedades propias de tortugas y de aves, todas parecidas entre sí y parecidas a las del continente sudamericano.
+- Volvió a Inglaterra con el material y pasó más de veinte años desarrollando la explicación sin publicarla.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Durante su paso por Chile, Darwin presenció el terremoto de 1835, observó que la costa había quedado más alta y halló conchas marinas fósiles a gran altitud en la cordillera. ¿Qué conclusión permitían estas observaciones en conjunto?
+A) Que el terreno se levanta de forma gradual y acumulativa a lo largo del tiempo.
+B) Que las especies marinas migraron hacia la cordillera durante el terremoto de 1835.
+C) Que los terremotos son la única causa de la formación de las cadenas montañosas.
+D) Que las conchas fósiles halladas correspondían a especies actualmente vivas.
+Correcta: A. Por qué: El terremoto mostró un levantamiento medible en el presente. Las conchas marinas a gran altitud mostraban que terrenos hoy elevados estuvieron bajo el mar. Uniendo ambas observaciones, el mismo proceso, repetido muchas veces a lo largo del tiempo, explica la cordillera. Es un razonamiento de acumulación, no de catástrofe única.
+
+Pregunta 2 (Observar y plantear preguntas): Al recorrer el archipiélago de Galápagos, Darwin anotó que los ejemplares de tortuga y de ave recolectados cambiaban de una isla a otra, aunque todos se asemejaban entre sí y también a las formas del continente sudamericano. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Cuántos ejemplares de tortuga habitan actualmente en cada una de las islas del archipiélago?
+B) ¿Qué distancia exacta separa el archipiélago de la costa del continente sudamericano?
+C) ¿Qué relación existe entre el aislamiento de cada isla y las diferencias entre sus variedades?
+D) ¿Qué tipo de roca volcánica predomina en la superficie de cada una de las islas?
+Correcta: C. Por qué: La observación presenta dos hechos a la vez: parecido general entre todas las variedades y diferencias específicas de cada isla. La pregunta que los conecta indaga si el aislamiento explica esas diferencias. Las demás preguntas piden datos descriptivos que no abordan la relación observada.
+
+Pregunta 3 (Comunicar): Un grupo debe elaborar una línea de tiempo con cuatro hitos: el viaje del Beagle, la llegada del ensayo de Wallace, la lectura conjunta en la Linnean Society y la publicación de El origen de las especies. ¿Cuál es el orden correcto?
+A) Ensayo de Wallace, viaje del Beagle, lectura conjunta y publicación de la obra.
+B) Viaje del Beagle, ensayo de Wallace, lectura conjunta y publicación de la obra.
+C) Viaje del Beagle, publicación de la obra, ensayo de Wallace y lectura conjunta.
+D) Lectura conjunta, ensayo de Wallace, viaje del Beagle y publicación de la obra.
+Correcta: B. Por qué: La secuencia es directa: primero el viaje, que aporta el material; más de veinte años después llega el ensayo de Wallace; doce días más tarde se organiza la lectura conjunta; y al año siguiente aparece la obra de Darwin con la evidencia acumulada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

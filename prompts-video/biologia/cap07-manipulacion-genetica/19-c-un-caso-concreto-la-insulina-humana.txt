@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 19: c. Un caso concreto: la insulina humana
+Sección: 5. Cómo se obtiene un organismo transgénico
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Un caso concreto: la insulina humana». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente plásmido, ligasa, seleccionan, biorreactores, idéntica a la humana, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Un caso concreto: la insulina humana», dentro de la sección «5. Cómo se obtiene un organismo transgénico» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: plásmido, ligasa, seleccionan, biorreactores, idéntica a la humana.
+
+Ideas guía:
+- Es el ejemplo más citado y conviene tenerlo completo: Se identifica y se obtiene el gen humano de la insulina.
+- Se corta un plásmido de Escherichia coli con la misma enzima de restricción.
+- La ligasa une el gen al plásmido: queda el ADN recombinante.
+- El plásmido se introduce en las bacterias.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Registros clínicos de los años setenta muestran que una fracción de los pacientes tratados con insulina de origen animal presentaba reacciones en el sitio de inyección, y que esa fracción disminuyó notoriamente tras la introducción de la insulina recombinante. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Cuántos pacientes con diabetes fueron diagnosticados durante la década de 1970?
+B) ¿Qué diferencias entre la insulina animal y la humana explican esas reacciones?
+C) ¿Qué laboratorio comercializó primero la insulina de origen animal en cada país?
+D) ¿Cuántas unidades de insulina se administraban en promedio por paciente y por día?
+Correcta: B. Por qué: Lo que cambió entre ambos períodos fue el origen de la insulina administrada. La pregunta pertinente indaga qué diferencia entre ambas moléculas explica las reacciones, y la respuesta esperable apunta a la secuencia de aminoácidos, que el sistema inmune puede reconocer como extraña.
+
+Pregunta 2 (Procesar y analizar la evidencia): En la producción de insulina recombinante, las bacterias cultivadas en biorreactores fabrican insulina humana. ¿Por qué lo hacen?
+A) Porque leen el gen humano incorporado y lo traducen usando el código universal.
+B) Porque el medio de cultivo contiene insulina que las bacterias absorben y liberan.
+C) Porque las bacterias de esa cepa producen insulina de forma natural y propia.
+D) Porque la insulina se forma espontáneamente al aumentar la densidad del cultivo.
+Correcta: A. Por qué: El plásmido introducido lleva el gen humano de la insulina. La maquinaria de la bacteria transcribe ese gen y traduce el ARN mensajero resultante interpretando los codones igual que una célula humana. El producto es, por lo tanto, insulina humana, que después se purifica del cultivo.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo debe verificar que la insulina obtenida de un cultivo bacteriano es idéntica a la humana. ¿Qué comparación corresponde realizar?
+A) La masa total de proteína recuperada de cada una de las dos fuentes.
+B) El tiempo de cultivo necesario para obtener una misma cantidad de producto.
+C) El número de bacterias presentes en el biorreactor al final del proceso.
+D) La secuencia de aminoácidos de ambas proteínas, obtenida por análisis.
+Correcta: D. Por qué: Dos proteínas son la misma cuando coinciden en su secuencia de aminoácidos, porque de ella depende su estructura y su función. Por eso la comparación pertinente es la secuencia. La masa obtenida, el tiempo de cultivo y el número de bacterias son variables de proceso, no de identidad del producto.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

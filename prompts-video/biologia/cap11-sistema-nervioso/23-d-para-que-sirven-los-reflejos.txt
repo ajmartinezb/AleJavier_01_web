@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 23: d. Para qué sirven los reflejos
+Sección: 6. El arco reflejo simple
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Para qué sirven los reflejos». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Protegen, Mantienen la postura, Sirven para el diagnóstico, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Para qué sirven los reflejos», dentro de la sección «6. El arco reflejo simple» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Protegen, Mantienen la postura, Sirven para el diagnóstico.
+
+Ideas guía:
+- Retirar la mano del fuego o cerrar el párpado ante un objeto que se acerca evita un daño antes de que la conciencia alcance a intervenir.
+- El reflejo de estiramiento corrige continuamente la posición de los músculos, y por eso no nos caemos al estar de pie.
+- Como el circuito es siempre el mismo, un reflejo ausente, disminuido o exagerado indica dónde puede estar la lesión.
+- Por eso el médico golpea el tendón rotuliano en un examen neurológico.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Se afirma que «los reflejos son restos de la evolución sin utilidad en el ser humano actual». ¿Cuál es la evaluación correcta?
+A) Es correcta, porque los reflejos no cumplen ninguna función en una vida urbana.
+B) Es incorrecta, porque los reflejos son en realidad respuestas voluntarias muy entrenadas.
+C) Es incorrecta, porque los reflejos solo existen en los primeros meses de vida.
+D) Es incorrecta: los reflejos protegen del daño y mantienen la postura del cuerpo.
+Correcta: D. Por qué: La afirmación es falsa porque niega funciones vigentes y verificables. Retirar la mano del fuego evita una quemadura mayor, el reflejo palpebral protege el ojo y los reflejos de estiramiento sostienen la postura en cada paso. Además, muchos reflejos se usan en clínica para evaluar el estado del sistema nervioso.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un examen neurológico se comprueba que el reflejo rotuliano está ausente en una pierna y presente en la otra. ¿Qué conclusión se puede extraer?
+A) Que la persona ha perdido por completo la capacidad de mover esa pierna.
+B) Que el encéfalo dejó de enviar órdenes voluntarias a las dos piernas.
+C) Que existe una alteración en algún componente del arco reflejo de esa pierna.
+D) Que el resultado es normal, porque el reflejo aparece solo en una pierna.
+Correcta: C. Por qué: La asimetría es el dato relevante: como el reflejo está presente en un lado, el procedimiento y el estímulo son adecuados, y lo que falla está en el circuito del lado afectado. La prueba no permite todavía decir en qué componente está la alteración ni afirmar que se haya perdido el movimiento voluntario.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante observa que, al caminar por un terreno irregular, no necesita pensar en corregir la posición de sus tobillos y aun así no pierde el equilibrio. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Qué circuitos nerviosos ajustan la postura sin intervención de la voluntad?
+B) ¿Cuántos pasos da en promedio una persona durante un día completo?
+C) ¿Qué tipo de calzado es más cómodo para caminar por un terreno irregular?
+D) ¿Cuál es la temperatura del suelo por el que la persona está caminando?
+Correcta: A. Por qué: Lo llamativo de la observación es que un ajuste fino y permanente ocurra sin atención consciente, y eso conduce a preguntar qué circuitos lo realizan. La respuesta apunta a los reflejos medulares de estiramiento, que corrigen la longitud del músculo apenas cambia. Las demás preguntas se apartan del mecanismo observado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

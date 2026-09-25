@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 05: d. El tejido nervioso está hecho de células separadas
+Sección: 2. Organización general del sistema nervioso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «El tejido nervioso está hecho de células separadas». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Santiago Ramón y Cajal, teoría neuronal, sinapsis, no, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. El tejido nervioso está hecho de células separadas», dentro de la sección «2. Organización general del sistema nervioso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Santiago Ramón y Cajal, teoría neuronal, sinapsis, no.
+
+Ideas guía:
+- Durante el siglo XIX se discutió si el tejido nervioso era una red continua, una especie de malla sin límites entre sus partes, o si estaba formado por células individuales.
+- Santiago Ramón y Cajal defendió la segunda posibilidad, conocida como teoría neuronal: las neuronas son células independientes, separadas entre sí, que se comunican por contacto y no por continuidad.
+- Por qué importa y cómo lo pregunta la PAES.
+- Que las neuronas estén separadas es lo que obliga a que exista la sinapsis (sección 5): si formaran una sola red continua, la señal pasaría sin más y no habría nada que regular.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): A fines del siglo XIX se enfrentaron dos modelos del tejido nervioso: la teoría reticular, que lo describía como una red continua, y la teoría neuronal, que lo describía como células separadas. ¿Qué tipo de evidencia apoyó a la teoría neuronal?
+A) El registro de la velocidad de conducción del impulso a lo largo de un axón aislado.
+B) La observación de neuronas teñidas que terminaban sin fundirse con la siguiente.
+C) La medición del potencial de reposo de la membrana en −70 mV.
+D) El descubrimiento de que el encéfalo y la médula espinal están protegidos por hueso.
+Correcta: B. Por qué: La disputa era sobre la continuidad o la separación de las células, así que solo sirve una evidencia que informe sobre ese punto: ver que una neurona termina sin fusionarse con la siguiente. La velocidad de conducción, el potencial de reposo y la protección ósea son hechos correctos, pero compatibles con ambos modelos y, por lo tanto, incapaces de decidir entre ellos.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se mide el tiempo que tarda una señal en recorrer 10 cm de un axón y resulta 1 ms. Luego se mide el tiempo que tarda en pasar de una neurona a la siguiente y resulta cerca de 0,5 ms para una distancia de solo 20 nm. ¿Qué se concluye?
+A) Que el paso entre neuronas es mucho más lento por unidad de distancia.
+B) Que la señal se transmite entre neuronas por el mismo mecanismo eléctrico del axón.
+C) Que el axón conduce más lento que el paso de una neurona a otra.
+D) Que la distancia recorrida no influye en el tiempo total de la transmisión.
+Correcta: A. Por qué: En el axón la señal cubre 10 cm en 1 ms. En la sinapsis cubre 20 nm, una distancia millones de veces menor, y sin embargo tarda 0,5 ms. Por unidad de distancia el retardo sináptico es enormemente mayor, y ese retardo es justamente el indicio de que allí ocurre un proceso distinto: la liberación y difusión de un neurotransmisor.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante observa dos micrografías del mismo tejido nervioso: en una, teñida con un método, las células se ven como una malla continua; en la otra, con un método distinto, se ven neuronas individuales con terminaciones libres. ¿Cuál es la pregunta más pertinente ante esa discrepancia?
+A) ¿Qué aumento del microscopio se usó para obtener cada una de las micrografías?
+B) ¿Cuántas neuronas en total es posible contar en cada una de las dos imágenes?
+C) ¿Cuál de los dos métodos de tinción representa mejor la organización real del tejido?
+D) ¿En qué año se publicó cada una de las dos micrografías del tejido nervioso?
+Correcta: C. Por qué: El hecho llamativo es que el mismo tejido se vea distinto según la técnica, de modo que la pregunta que corresponde es sobre la fidelidad de cada método. Las otras opciones piden datos accesorios: el aumento, un recuento o la fecha no permiten decidir cuál imagen representa la estructura real.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

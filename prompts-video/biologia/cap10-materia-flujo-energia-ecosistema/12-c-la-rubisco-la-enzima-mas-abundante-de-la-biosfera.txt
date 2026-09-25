@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 12: c. La RuBisCO, la enzima más abundante de la biosfera
+Sección: 5. Las etapas de la fotosíntesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «La RuBisCO, la enzima más abundante de la biosfera». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente fija el CO<sub>2</sub>, estroma, lenta y poco selectiva, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. La RuBisCO, la enzima más abundante de la biosfera», dentro de la sección «5. Las etapas de la fotosíntesis» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: fija el CO<sub>2</sub>, estroma, lenta y poco selectiva.
+
+Ideas guía:
+- Vale la pena conocerla porque aparece con frecuencia en los ítems: Es la enzima que fija el CO2, y está en el estroma.
+- Se estima que es la proteína más abundante del planeta, porque las plantas necesitan enormes cantidades de ella.
+- Es lenta y poco selectiva: también puede unir O2 en lugar de CO2, en un proceso llamado fotorrespiración, que no produce azúcar y desperdicia energía.
+- Ese problema se agrava cuando hace calor y la planta cierra los estomas, porque adentro baja el CO2 y sube el O2.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un estudio compara líneas de plantas transgénicas que expresan distintos niveles de RuBisCO, cultivadas a varias concentraciones de CO₂ bajo luz, temperatura y humedad controladas, y mide la tasa de fotosíntesis y la biomasa. ¿Cuál es una hipótesis acorde con esa investigación?
+A) Las plantas con más RuBisCO fotosintetizarán más con alto CO₂.
+B) Las plantas con más RuBisCO necesitarán menos luz que las plantas silvestres.
+C) Las plantas transgénicas perderán la capacidad de realizar respiración celular.
+D) La concentración de CO₂ del aire no influirá en la biomasa de ninguna de las líneas.
+Correcta: A. Por qué: El estudio manipula dos variables, el nivel de RuBisCO y la concentración de CO₂, y mide tasa de fotosíntesis y biomasa. Una hipótesis acorde debe relacionar justamente esas variables, como lo hace la alternativa correcta. Las otras introducen variables que el diseño no manipula ni mide, como la luz o la respiración.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un día caluroso y seco, una planta cierra sus estomas. Dentro de la hoja baja el CO₂ y sube el O₂, y la RuBisCO comienza a unir O₂ en lugar de CO₂. ¿Qué consecuencia tiene para la planta?
+A) Aumenta la producción de azúcares porque el O₂ es más abundante.
+B) La planta comienza a realizar respiración celular en el cloroplasto.
+C) La RuBisCO se transforma en una enzima de la fase luminosa.
+D) Se desperdicia energía, porque esa reacción no produce azúcar.
+Correcta: D. Por qué: Cuando los estomas se cierran, el CO₂ interno baja y el O₂ producido por la fase luminosa se acumula, de modo que la enzima une cada vez más oxígeno. Esa vía gasta ATP y poder reductor sin rendimiento en azúcares, y por eso reduce la productividad justamente en las condiciones de calor y sequía.
+
+Pregunta 3 (Comunicar): Se necesita una frase que explique por qué la RuBisCO es considerada la proteína más abundante de la biosfera. ¿Cuál es la más adecuada?
+A) Porque es la única proteína presente en todos los organismos conocidos.
+B) Porque es la proteína más pesada que se ha logrado aislar en un laboratorio.
+C) Porque las plantas necesitan enormes cantidades de ella para fijar carbono.
+D) Porque se acumula sin degradarse en el interior de todas las células vegetales.
+Correcta: C. Por qué: La abundancia se explica por una necesidad funcional: una enzima lenta requiere muchas copias para sostener una tasa de fijación alta. No se debe a que esté en todos los organismos, ni a su masa molecular, ni a una supuesta acumulación sin recambio, porque las proteínas se degradan y se renuevan de forma constante.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 36: c. Cómo se previenen
+Sección: 9. Infecciones de transmisión sexual
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Cómo se previenen». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Condón, Exámenes periódicos, Vacunas, VPH, hepatitis B, Profilaxis del VIH, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Cómo se previenen», dentro de la sección «9. Infecciones de transmisión sexual» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Condón, Exámenes periódicos, Vacunas, VPH, hepatitis B, Profilaxis del VIH.
+
+Ideas guía:
+- Ordenadas de mayor a menor alcance: Condón, externo o interno, en todas las relaciones sexuales.
+- Es la medida que reduce el riesgo de todas las ITS a la vez, aunque no lo elimina para las que se transmiten por contacto de piel, como el herpes y el VPH.
+- Exámenes periódicos, especialmente por la alta proporción de casos asintomáticos.
+- Tratamiento oportuno de la pareja, para evitar la reinfección.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un estudiante advierte que el condón reduce el riesgo de todas las ITS, pero que para el herpes y el VPH esa reducción es menor. ¿Qué pregunta investigable plantea esa diferencia?
+A) ¿Cuántas marcas de condones se comercializan actualmente en el país?
+B) ¿Qué material se usa para fabricar los condones más vendidos?
+C) ¿En qué año comenzó a promoverse el uso del condón en Chile?
+D) ¿Qué vía de transmisión tienen esas dos infecciones que el condón no cubre por completo?
+Correcta: D. Por qué: La reducción menor apunta a una vía de transmisión que la barrera no cubre del todo, porque el contacto ocurre también en zonas que el condón no recubre. Preguntar por esa vía explica la excepción y fundamenta las medidas complementarias, como la vacuna contra el VPH.
+
+Pregunta 2 (Procesar y analizar la evidencia): ¿Contra cuáles de las siguientes infecciones existe vacuna disponible?
+A) Contra el virus del papiloma humano y la hepatitis B.
+B) Contra el VIH y el herpes genital.
+C) Contra la gonorrea y la clamidia.
+D) Contra todas las infecciones de transmisión sexual conocidas.
+Correcta: A. Por qué: La disponibilidad de vacunas es desigual y no depende de la gravedad de la infección, sino de la biología de cada agente y del desarrollo científico alcanzado. Por eso la prevención combinada, con condón y exámenes periódicos, sigue siendo necesaria incluso para quienes están vacunados contra el VPH.
+
+Pregunta 3 (Planificar y conducir una investigación): Un centro de salud quiere reducir la reinfección por clamidia en las personas ya tratadas. ¿Qué medida es la más pertinente?
+A) Repetir el tratamiento antibiótico cada tres meses de forma preventiva.
+B) Indicar un método anticonceptivo hormonal a todas las personas tratadas.
+C) Ofrecer tratamiento también a la pareja sexual de la persona tratada.
+D) Registrar la temperatura corporal diaria de cada persona tratada.
+Correcta: C. Por qué: Si solo se trata a una persona, la pareja no tratada mantiene la infección y la transmite de nuevo en la siguiente relación. Repetir antibióticos sin exposición no previene nada y favorece la resistencia bacteriana; la anticoncepción hormonal y la temperatura no actúan sobre la transmisión.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

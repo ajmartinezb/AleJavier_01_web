@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 05: b. Lo que ambos comparten
+Sección: 3. Nutrición autótrofa y heterótrofa
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Lo que ambos comparten». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente Todos, respiración celular, las dos cosas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Lo que ambos comparten», dentro de la sección «3. Nutrición autótrofa y heterótrofa» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Todos, respiración celular, las dos cosas.
+
+Ideas guía:
+- Un malentendido habitual es creer que las plantas «hacen fotosíntesis en lugar de respirar».
+- No es así: Todos los organismos con metabolismo aerobio hacen respiración celular, plantas incluidas, de día y de noche.
+- La respiración es cómo se obtiene el ATP; la fotosíntesis es cómo se fabrica el alimento.
+- Los autótrofos, por lo tanto, hacen las dos cosas: fotosintetizan y respiran.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se mide el consumo de O₂ de una planta y de un ratón, ambos en oscuridad total y a la misma temperatura. Se observa que los dos consumen O₂. ¿Qué se concluye?
+A) Que ambos organismos realizan la respiración celular aerobia.
+B) Que la planta realizó fotosíntesis a pesar de la falta de luz.
+C) Que la planta se comportó como un organismo heterótrofo de forma permanente.
+D) Que el ratón realizó fotosíntesis al igual que la planta.
+Correcta: A. Por qué: El consumo de O₂ es la firma de la respiración celular. En oscuridad la planta no fotosintetiza, así que lo único que puede explicar su consumo de oxígeno es que respira, igual que el ratón. Eso no la convierte en heterótrofa: su nutrición sigue siendo autótrofa porque, con luz, fija carbono inorgánico.
+
+Pregunta 2 (Evaluar): Se afirma que «las plantas hacen fotosíntesis en lugar de respirar, y por eso no tienen mitocondrias». ¿Cuál es la crítica correcta?
+A) Es correcta, porque el cloroplasto reemplaza por completo a la mitocondria.
+B) Es incorrecta, porque la fotosíntesis ocurre dentro de las mitocondrias vegetales.
+C) Es incorrecta: las células vegetales tienen mitocondrias y respiran.
+D) Es incorrecta, porque las plantas realizan fotosíntesis solo durante la noche.
+Correcta: C. Por qué: La afirmación plantea una disyuntiva falsa. La célula vegetal tiene cloroplastos y mitocondrias, y ambos organelos trabajan: de día los dos procesos ocurren a la vez y de noche solo la respiración. Sin mitocondrias, la planta no podría obtener ATP durante la noche ni en sus tejidos no fotosintéticos, como las raíces.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante observa que una planta mantenida varias semanas en oscuridad completa termina muriendo, mientras que un hongo en las mismas condiciones sobrevive si recibe materia orgánica. ¿Qué pregunta investigable plantea esa diferencia?
+A) ¿Cuántos gramos pesa cada uno de los dos organismos al iniciar el experimento?
+B) ¿Qué proceso deja de funcionar en la planta y no en el hongo al faltar la luz?
+C) ¿Qué color adquiere el recipiente en el que se mantiene cada organismo?
+D) ¿Cuántas especies de hongos existen descritas en el mundo actualmente?
+Correcta: B. Por qué: La observación contrasta dos destinos distintos ante la misma condición, así que la pregunta pertinente indaga qué proceso explica la diferencia. La respuesta apunta a la fotosíntesis, que la planta pierde sin luz y que el hongo nunca tuvo, porque obtiene su materia orgánica del medio. Las demás preguntas se refieren a datos accesorios.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

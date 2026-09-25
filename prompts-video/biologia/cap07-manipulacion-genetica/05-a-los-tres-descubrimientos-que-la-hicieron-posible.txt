@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 05: a. Los tres descubrimientos que la hicieron posible
+Sección: 3. Origen e historia de la manipulación genética
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Los tres descubrimientos que la hicieron posible». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente La estructura del ADN, El código genético, el mismo, Las enzimas de restricción, tijeras moleculares, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Los tres descubrimientos que la hicieron posible», dentro de la sección «3. Origen e historia de la manipulación genética» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: La estructura del ADN, El código genético, el mismo, Las enzimas de restricción, tijeras moleculares.
+
+Ideas guía:
+- La estructura del ADN (1953, Watson, Crick, con los datos de difracción de rayos X de Rosalind Franklin).
+- Sin saber que el ADN es una doble hélice complementaria, no hay forma de pensar en cortarlo y pegarlo.
+- Al descifrarse qué codón corresponde a qué aminoácido, quedó claro que el código es el mismo en bacterias, plantas y animales.
+- Esa universalidad es lo que permite que un gen funcione en otra especie.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): De los tres descubrimientos que hicieron posible la manipulación genética, ¿cuál explica que un gen humano funcione dentro de una bacteria?
+A) La estructura de doble hélice complementaria del ácido desoxirribonucleico.
+B) La existencia de enzimas capaces de cortar el ADN en sitios específicos.
+C) El carácter prácticamente universal del código genético en los seres vivos.
+D) La capacidad de las bacterias de intercambiar plásmidos entre ellas.
+Correcta: C. Por qué: Que la bacteria fabrique la proteína humana correcta exige que interprete los codones igual que una célula humana. Eso lo garantiza la universalidad del código. La estructura del ADN permite manipular la molécula y las enzimas de restricción permiten cortarla, pero ninguna de las dos explica que la traducción dé el mismo resultado.
+
+Pregunta 2 (Observar y plantear preguntas): Un investigador observa que ciertas cepas de bacterias sobreviven a la infección de un virus mientras otras no, y que las sobrevivientes degradan el ADN viral en fragmentos de tamaños reproducibles. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Cuántas cepas de bacterias distintas existen en el ambiente donde se aisló la muestra?
+B) ¿Qué temperatura de incubación favorece el crecimiento más rápido de esas bacterias?
+C) ¿Cuántos virus distintos pueden infectar a una misma célula bacteriana a la vez?
+D) ¿Qué mecanismo permite a esas bacterias cortar el ADN viral en sitios determinados?
+Correcta: D. Por qué: Lo llamativo de la observación es que los fragmentos tienen tamaños reproducibles: eso implica que el corte no es al azar, sino que ocurre siempre en los mismos sitios. La pregunta que se desprende indaga qué mecanismo produce ese corte específico, que es justamente el camino que llevó a caracterizar las enzimas de restricción.
+
+Pregunta 3 (Planificar y conducir una investigación): Para comprobar que el código genético es equivalente en dos especies muy distantes, un equipo dispone de un gen bacteriano y de células de levadura. ¿Qué procedimiento pone a prueba esa equivalencia?
+A) Introducir el gen bacteriano en la levadura y ver si produce la misma proteína.
+B) Comparar el número total de genes que posee cada una de las dos especies.
+C) Medir la velocidad de división celular de la bacteria y de la levadura.
+D) Comparar el tamaño de las células de la bacteria con el de las de la levadura.
+Correcta: A. Por qué: La afirmación se refiere a cómo se traduce una secuencia. Para ponerla a prueba hay que dar la misma secuencia a las dos especies y comparar el producto: si la levadura fabrica la misma proteína que fabrica la bacteria, ambas interpretaron los codones de igual modo. Contar genes o comparar tamaños no aborda la traducción.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

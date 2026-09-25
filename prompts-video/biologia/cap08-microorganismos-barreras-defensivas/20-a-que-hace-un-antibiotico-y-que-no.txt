@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 20: a. Qué hace un antibiótico y qué no
+Sección: 7. Antibióticos y resistencia
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Qué hace un antibiótico y qué no». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente antibiótico, No sirve contra virus, Cómo se pregunta, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Qué hace un antibiótico y qué no», dentro de la sección «7. Antibióticos y resistencia» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: antibiótico, No sirve contra virus, Cómo se pregunta.
+
+Ideas guía:
+- Un antibiótico mata bacterias o impide su multiplicación.
+- Actúa sobre estructuras que las bacterias tienen y nuestras células no: la pared celular, sus ribosomas, algunas de sus enzimas.
+- Esa diferencia es la que permite atacarlas sin destruir al paciente.
+- De ahí se siguen dos consecuencias que la prueba usa con frecuencia: No sirve contra virus.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): ¿Por qué un antibiótico no sirve contra una infección viral?
+A) Porque el virus se multiplica demasiado rápido para el fármaco.
+B) Porque el virus carece de las estructuras bacterianas que el fármaco ataca.
+C) Porque el virus se oculta en el interior del núcleo de la célula.
+D) Porque el fármaco se degrada antes de alcanzar a las partículas virales.
+Correcta: B. Por qué: No hay nada sobre lo cual el fármaco pueda actuar, y por eso tomarlo no acorta la enfermedad. Las otras alternativas proponen explicaciones de velocidad, de localización o de degradación que no corresponden y que además sugerirían, equivocadamente, que con ajustes el fármaco podría funcionar.
+
+Pregunta 2 (Observar y plantear preguntas): Se observa que los pacientes que reciben antibióticos para cuadros virales presentan más molestias digestivas que quienes no los reciben. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?
+A) ¿Cuántos pacientes con cuadros virales consultaron durante el último mes?
+B) ¿Qué marca de antibiótico se vende más en las farmacias de la zona?
+C) ¿Cuánto cuesta en promedio una consulta médica por un cuadro viral?
+D) ¿Cómo afecta el antibiótico a la microbiota intestinal de esos pacientes?
+Correcta: D. Por qué: La pregunta correcta vincula el fármaco con el efecto sobre la microbiota, que es el mecanismo propuesto para las molestias digestivas. Un recuento de consultas, la marca más vendida y el costo de una consulta son datos que no abordan el fenómeno descrito.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar si un cuadro respiratorio es de origen bacteriano antes de indicar un antibiótico. ¿Qué procedimiento resulta más adecuado?
+A) Indicar el antibiótico y observar si el paciente mejora en los días siguientes.
+B) Medir la temperatura corporal del paciente durante tres días seguidos.
+C) Tomar una muestra y cultivarla en un medio que permita crecer a las bacterias.
+D) Preguntar al paciente cuántas veces enfermó de lo mismo el año anterior.
+Correcta: C. Por qué: Un cultivo permite establecer si hay una bacteria antes de indicar el tratamiento. Indicar el antibiótico y esperar convierte el tratamiento en una prueba diagnóstica poco fiable, ya que muchos cuadros mejoran solos. La temperatura y los antecedentes aportan contexto, pero no identifican el agente.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

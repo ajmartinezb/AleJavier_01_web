@@ -1,0 +1,43 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 15: b. Retículo endoplasmático liso (REL)
+Sección: 5. El sistema de endomembranas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Retículo endoplasmático liso (REL)». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente sin ribosomas, Síntesis de lípidos, hormonas esteroidales, Detoxificación, Hepatocitos, Almacenamiento de calcio (Ca<sup>2+</sup>), con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Retículo endoplasmático liso (REL)», dentro de la sección «5. El sistema de endomembranas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: sin ribosomas, Síntesis de lípidos, hormonas esteroidales, Detoxificación, Hepatocitos, Almacenamiento de calcio (Ca<sup>2+</sup>).
+
+Ideas guía:
+- Es una red de túbulos sin ribosomas, continua con el RER.
+- Sus funciones dependen del tipo celular:
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se miden la superficie de retículo endoplasmático liso (REL) y la actividad de enzimas detoxificantes en hepatocitos de ratas tratadas durante 5 días con un fármaco sedante y en ratas control. Tratadas: REL 2,4 veces mayor y actividad enzimática 3 veces mayor que el control. ¿Qué inferencia se desprende de estos resultados?
+A) El fármaco destruye el REL y lo reemplaza por RER en los hepatocitos.
+B) El REL se desarrolla solo en las ratas adultas, sin ninguna relación con el fármaco usado.
+C) El hepatocito aumenta su REL para procesar más rápido el fármaco.
+D) El fármaco se secreta como proteína a través de la ruta del REL.
+Correcta: C. Por qué: Frente al control, las ratas tratadas tienen más REL y más actividad detoxificante. Ambos cambios van en la misma dirección y se asocian al tratamiento, lo que sugiere que la célula amplía su maquinaria para eliminar el fármaco. Esto explica la tolerancia: con el tiempo, la misma dosis hace menos efecto.
+
+Pregunta 2 (Planificar y conducir una investigación): Una investigadora propone que las células de las gónadas tienen más REL que otras porque fabrican hormonas esteroidales. Dispone de células de testículo, de páncreas exocrino y de glándula salival, todas de la misma especie. ¿Qué procedimiento es el más adecuado para poner a prueba su hipótesis?
+A) Medir la superficie de RER en cada uno de los tres tipos celulares y comparar sus valores.
+B) Contar los lisosomas en las células de testículo y compararlos con los del páncreas.
+C) Medir la secreción de enzimas digestivas en los tres tipos de células.
+D) Medir la superficie de REL y la producción de esteroides en los tres tipos.
+Correcta: D. Por qué: La hipótesis relaciona dos variables: la cantidad de REL y la síntesis de esteroides. Un buen procedimiento las mide en células que las producen y en células que no, como las del páncreas exocrino y la glándula salival, que secretan proteínas. Solo la alternativa D incluye ambas mediciones en los tres tipos.
+
+Pregunta 3 (Observar y plantear preguntas): En un laboratorio se observa que, al estimular eléctricamente una fibra muscular, la concentración de calcio en el citosol sube rápidamente y luego baja, mientras la fibra se contrae y relaja. Un estudiante sospecha que el retículo sarcoplásmico participa. ¿Cuál de las siguientes hipótesis puede ponerse a prueba con este sistema?
+A) Si se bloquea la salida de calcio del retículo sarcoplásmico, la fibra no se contraerá.
+B) El retículo sarcoplásmico es el organelo más importante de todos los seres vivos conocidos.
+C) El calcio es un elemento más valioso para la célula que el sodio o el potasio.
+D) Las fibras musculares deberían tener un retículo sarcoplásmico de mayor tamaño que el actual.
+Correcta: A. Por qué: Una hipótesis contrastable relaciona una manipulación con un resultado medible. Bloquear la salida de calcio y registrar si hay contracción cumple esa condición en el sistema descrito. Las otras son juicios de valor o recomendaciones: no se pueden medir ni refutar.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

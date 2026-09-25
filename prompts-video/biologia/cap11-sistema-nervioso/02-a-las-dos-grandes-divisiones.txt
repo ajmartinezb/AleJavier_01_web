@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 02: a. Las dos grandes divisiones
+Sección: 2. Organización general del sistema nervioso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Las dos grandes divisiones». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Sistema nervioso central (SNC), Integra, Sistema nervioso periférico (SNP), Comunica, Somático, músculos esqueléticos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Las dos grandes divisiones», dentro de la sección «2. Organización general del sistema nervioso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Sistema nervioso central (SNC), Integra, Sistema nervioso periférico (SNP), Comunica, Somático, músculos esqueléticos.
+
+Ideas guía:
+- El sistema nervioso periférico se divide a su vez según lo que controla: Somático: lleva la información de los sentidos hacia el SNC y las órdenes hacia los músculos esqueléticos.
+- Autónomo: controla los órganos internos, el músculo liso, el corazón y las glándulas, de forma involuntaria.
+- Se divide en dos, con efectos opuestos: Cómo se pregunta.
+- Un ítem puede describir una situación —un susto, una carrera, una siesta después de almorzar— y pedir qué división predomina o qué cambios son esperables.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Durante un susto, una persona registra estos cambios: frecuencia cardíaca de 72 a 118 latidos por minuto, pupilas dilatadas y sudoración en las palmas. ¿Qué división del sistema nervioso explica el conjunto de los tres cambios?
+A) La división somática del sistema nervioso periférico.
+B) La división parasimpática del sistema nervioso autónomo.
+C) La división simpática del sistema nervioso autónomo.
+D) Las vías aferentes que llegan a la médula espinal.
+Correcta: C. Por qué: Los tres registros apuntan en la misma dirección: más aporte de oxígeno, más información visual y respuesta de la piel. Esa combinación es la respuesta simpática típica. Además, ninguno de los tres órganos implicados —corazón, iris y glándulas sudoríparas— es músculo esquelético, así que no puede tratarse de la división somática.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere comprobar en el laboratorio si un fármaco actúa sobre la división parasimpática. Se dispone de un registro continuo de la frecuencia cardíaca de un animal. ¿Cuál es el procedimiento más adecuado?
+A) Medir la frecuencia cardíaca solo después de administrar el fármaco y compararla con la de otro animal sano.
+B) Registrar la frecuencia cardíaca antes y después de administrar el fármaco al mismo animal, en reposo.
+C) Administrar el fármaco y medir la fuerza de contracción de un músculo esquelético de la pata.
+D) Administrar el fármaco mientras el animal corre y registrar cuánto tarda en detenerse por cansancio.
+Correcta: B. Por qué: El registro previo del mismo animal funciona como control interno y elimina las diferencias individuales; el reposo evita que la actividad física enmascare el efecto. Así, cualquier cambio posterior puede atribuirse al fármaco. Comparar con otro animal introduce una variable no controlada, y medir músculo esquelético mide la división somática, no la autónoma.
+
+Pregunta 3 (Evaluar): Una persona sostiene que «todo lo que hace el sistema nervioso autónomo es involuntario, así que respirar es autónomo y no se puede controlar». ¿Cuál es la objeción más pertinente?
+A) La respiración no depende del sistema nervioso, sino solo de la concentración de oxígeno en la sangre.
+B) El sistema nervioso autónomo también controla de forma voluntaria el músculo esquelético del tórax.
+C) El sistema nervioso autónomo no regula ninguna función relacionada con la respiración.
+D) Los músculos respiratorios son esqueléticos y tienen también control somático.
+Correcta: D. Por qué: El error está en suponer que la respiración es puramente autónoma. El diafragma y los músculos intercostales son esqueléticos, de modo que reciben también inervación somática: por eso una persona puede retener el aire o respirar más rápido a voluntad, aunque el ritmo basal se regule sin intervención consciente. Ambos controles coexisten sobre el mismo efector.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 33: e. Transporte en masa: endocitosis y exocitosis
+Sección: 9. La membrana plasmática y el transporte de sustancias
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Transporte en masa: endocitosis y exocitosis». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente vesículas, Endocitosis, Fagocitosis, Pinocitosis, Endocitosis mediada por receptor, colesterol, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Transporte en masa: endocitosis y exocitosis», dentro de la sección «9. La membrana plasmática y el transporte de sustancias» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: vesículas, Endocitosis, Fagocitosis, Pinocitosis, Endocitosis mediada por receptor, colesterol.
+
+Ideas guía:
+- Para moléculas muy grandes o partículas, la célula usa vesículas, con gasto de energía: Endocitosis: la membrana envuelve el material y forma una vesícula hacia adentro.
+- Fagocitosis («comer célula»): captura de partículas grandes o microorganismos.
+- La realizan los macrófagos y los neutrófilos.
+- Pinocitosis («beber célula»): captura de gotitas de líquido extracelular.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se incubaron macrófagos con bacterias marcadas con un colorante fluorescente. Al minuto 0, el 2 % de los macrófagos tenía fluorescencia en su interior; al minuto 15, el 40 %, y al minuto 30, el 75 %. En un segundo grupo, tratado con una droga que despolimeriza los filamentos de actina, el valor a los 30 minutos fue de 5 %. ¿Qué conclusión es coherente con estos datos?
+A) Las bacterias entran a los macrófagos por difusión simple a través de la bicapa.
+B) La captura de bacterias por fagocitosis requiere filamentos de actina funcionales.
+C) La actina es necesaria para que las bacterias fabriquen el colorante fluorescente.
+D) La droga destruye a las bacterias antes de que los macrófagos puedan capturarlas.
+Correcta: B. Por qué: En el control la proporción de macrófagos con bacterias aumenta con el tiempo hasta 75 %: están fagocitando. Cuando se despolimeriza la actina, a los 30 minutos solo el 5 % las contiene. La única diferencia es la droga, así que la captura depende de la actina, que mueve la membrana para formar los pseudópodos que rodean a la bacteria. Una bacteria no cabe por difusión, lo que descarta A.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere comprobar que las células beta del páncreas liberan insulina por exocitosis dependiente de Ca2+. Miden la insulina en el medio tras estimular las células con glucosa. ¿Qué grupo de comparación deben incluir?
+A) Células estimuladas con glucosa y colocadas en un medio con el doble de calcio.
+B) Células estimuladas con glucosa y teñidas con un marcador de la mitocondria.
+C) Células sin estimular, en un medio con el calcio normal y sin ningún tratamiento.
+D) Células estimuladas con glucosa en un medio sin Ca2+, en iguales condiciones.
+Correcta: D. Por qué: La hipótesis dice que la secreción depende del Ca2+, así que hay que comparar células idénticas, igual estimuladas, con y sin calcio. Si sin Ca2+ la insulina en el medio disminuye, se apoya la hipótesis. A cambia la cantidad de calcio pero no lo elimina; B mide otra cosa; C no está estimulada, así que prueba el efecto de la glucosa y no el del calcio.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se midió la captación de colesterol (unido a LDL) por células de la piel de tres personas, en unidades relativas: persona 1, 100; persona 2, 52; persona 3, 3. La concentración de colesterol en la sangre fue, respectivamente, normal, alta y muy alta. ¿Qué interpretación es coherente con los datos?
+A) Mientras más colesterol capta la célula, más colesterol se acumula en el torrente sanguíneo de la persona.
+B) La persona 3 capta poco colesterol porque sus células lo expulsan por exocitosis al medio.
+C) Una falla en la endocitosis mediada por receptor explicaría el colesterol alto de la persona 3.
+D) La persona 1 no tiene receptores de LDL, por lo que el colesterol entra por difusión simple.
+Correcta: C. Por qué: Al comparar las tres personas se ve una relación inversa: la persona 1 capta 100 y tiene colesterol normal; la 3 capta solo 3 y lo tiene muy alto. Si el LDL no ingresa a las células por falla del receptor, queda circulando en la sangre. A invierte esa relación; B y D inventan mecanismos que los datos no muestran.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

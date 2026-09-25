@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 20: e. Investigaciones no experimentales
+Sección: 4. Diseño experimental: variables y grupos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Investigaciones no experimentales». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente estudios observacionales, asociaciones o correlaciones, causalidad, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Investigaciones no experimentales», dentro de la sección «4. Diseño experimental: variables y grupos» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: estudios observacionales, asociaciones o correlaciones, causalidad.
+
+Ideas guía:
+- No siempre se puede (ni se debe) manipular una variable.
+- No se puede asignar a personas a fumar para estudiar el cáncer, ni cambiar el clima de un continente.
+- En esos casos se hacen estudios observacionales: se comparan grupos que ya existen, como fumadores y no fumadores, o se registran variables a lo largo del tiempo.
+- Estos estudios permiten encontrar asociaciones o correlaciones entre variables, pero es más difícil demostrar causalidad, porque puede haber otras variables que no se controlaron (sección 8.d).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un estudio registró durante diez años los hábitos de 5000 adultos y encontró que quienes consumían más frutas y verduras tenían menos infartos. ¿Cuál de las siguientes preguntas podría responderse mejor con un experimento controlado en animales de laboratorio?
+A) ¿Cuántos adultos del estudio consumían frutas cada día?
+B) ¿Un antioxidante de las frutas reduce el daño arterial en ratas?
+C) ¿Las personas que comen frutas a diario son más felices que otras?
+D) ¿En qué año se registró la mayor cantidad de infartos?
+Correcta: B. Por qué: Paso 1: el estudio original solo observó asociación. Paso 2: un experimento necesita una variable que se pueda aplicar a un grupo y no a otro. Paso 3: dar o no un antioxidante a ratas y medir el daño arterial cumple esa condición. Las otras preguntas se responden contando datos o no son medibles.
+
+Pregunta 2 (Evaluar): En varias ciudades se observó que, en los meses en que se venden más helados, también aumentan los casos de intoxicación alimentaria. Un periodista concluye que los helados causan las intoxicaciones. ¿Por qué esta conclusión no está justificada?
+A) Porque los helados nunca contienen microorganismos dañinos.
+B) Porque el número de ciudades estudiadas fue demasiado grande.
+C) Porque ambos datos pueden deberse a otra causa, como el calor.
+D) Porque las intoxicaciones ocurren solo en los meses de invierno.
+Correcta: C. Por qué: Paso 1: los datos solo muestran que ambas variables suben al mismo tiempo. Paso 2: el calor del verano aumenta la venta de helados y también favorece la multiplicación de bacterias en los alimentos. Paso 3: esa tercera variable explica la asociación sin que los helados sean la causa.
+
+Pregunta 3 (Planificar y conducir una investigación): Una bióloga quiere saber si el grado de contaminación de distintos ríos del centro de Chile se relaciona con la diversidad de insectos acuáticos. No puede contaminar ríos a propósito. ¿Qué tipo de investigación es la adecuada?
+A) Un estudio observacional que compare ríos con distinta contaminación.
+B) Un experimento que contamine tramos de un río de manera controlada.
+C) Un experimento con un solo río en el que se agreguen insectos.
+D) Una revisión de la altura de los árboles ubicados en las orillas.
+Correcta: A. Por qué: Paso 1: la variable de interés es la contaminación, que no puede aplicarse a propósito. Paso 2: sí existen ríos que ya difieren en contaminación. Paso 3: comparar la diversidad de insectos entre ellos es un estudio observacional, que permite encontrar asociaciones. Esa es la opción adecuada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

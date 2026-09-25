@@ -1,0 +1,44 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 12: d. Cómo se unen y cómo se separan
+Sección: 4. Carbohidratos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Cómo se unen y cómo se separan». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Síntesis por deshidratación, Hidrólisis, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Cómo se unen y cómo se separan», dentro de la sección «4. Carbohidratos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Síntesis por deshidratación, Hidrólisis.
+
+Ideas guía:
+- Síntesis por deshidratación: al unir dos monómeros se libera una molécula de agua.
+- Hidrólisis: al romper el enlace se consume una molécula de agua.
+- Estas dos reacciones inversas valen también para las proteínas y los ácidos nucleicos: son el mecanismo general con que la célula construye y desarma sus polímeros.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Al unir dos monosacáridos para formar un disacárido se libera una molécula de agua. ¿Cómo se llama ese tipo de reacción?
+A) Hidrólisis del enlace formado.
+B) Desnaturalización del monómero.
+C) Fosforilación de la cadena.
+D) Síntesis por deshidratación.
+Correcta: D. Por qué: La reacción inversa es la hidrólisis, que rompe el enlace consumiendo una molécula de agua. La desnaturalización se refiere a la pérdida de forma tridimensional de una proteína y la fosforilación a la incorporación de un grupo fosfato: ninguna de las dos describe la unión de dos monosacáridos.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un extracto enzimático rompe un polisacárido y libera monosacáridos. Se observa que el agua del medio disminuye a medida que avanza la reacción. ¿Cómo se explica ese resultado?
+A) La hidrólisis consume una molécula de agua por cada enlace que rompe.
+B) El agua se evapora a causa del calor liberado durante la reacción enzimática.
+C) Los monosacáridos liberados absorben el agua del medio y se hinchan en él.
+D) La enzima va incorporando el agua a su propia estructura mientras trabaja.
+Correcta: A. Por qué: Si cada enlace roto consume una molécula de agua, la cantidad de agua del medio debe disminuir en proporción al número de enlaces hidrolizados, que es exactamente lo observado. La evaporación por calor y la absorción por los productos no dan cuenta de una relación proporcional, y la enzima no incorpora agua a su estructura, porque queda intacta al terminar.
+
+Pregunta 3 (Evaluar): Un estudiante afirma que la síntesis por deshidratación y la hidrólisis son mecanismos exclusivos de los carbohidratos. ¿Cuál es la mejor evaluación de esa afirmación?
+A) Es correcta, porque solo los carbohidratos forman enlaces con pérdida de agua.
+B) Es incorrecta, porque esos mecanismos solo se dan en los lípidos.
+C) No lo es: también construyen y desarman proteínas y ácidos nucleicos.
+D) Es correcta, porque las proteínas se forman sin ninguna reacción química.
+Correcta: C. Por qué: El enlace peptídico entre dos aminoácidos y el enlace entre dos nucleótidos se forman igualmente con pérdida de una molécula de agua. Los lípidos son la excepción, porque no son polímeros, y afirmar que las proteínas se forman sin reacción química contradice cualquier descripción del proceso.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

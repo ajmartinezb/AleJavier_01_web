@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 23: b. ADN y ARN
+Sección: 7. Ácidos nucleicos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «ADN y ARN». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente ADN, ARN, puentes de hidrógeno, A con T, C con G, Débil a propósito, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. ADN y ARN», dentro de la sección «7. Ácidos nucleicos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ADN, ARN, puentes de hidrógeno, A con T, C con G, Débil a propósito.
+
+Ideas guía:
+- Las dos hebras del ADN se mantienen unidas por puentes de hidrógeno entre bases complementarias: A con T y C con G.
+- Esa complementariedad es lo que permite copiar la molécula, porque cada hebra contiene la información para reconstruir la otra.
+- Los puentes de hidrógeno que unen las dos hebras son débiles, y eso es una ventaja: permiten separarlas para copiar o leer el ADN y volverlas a unir sin romper nada.
+- Dentro de cada hebra, en cambio, las uniones son covalentes y muy estables.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se analiza una muestra de ácido nucleico y se detecta uracilo, ribosa y una sola hebra. ¿De qué molécula se trata?
+A) De ADN.
+B) De ARN.
+C) De ATP.
+D) De una proteína.
+Correcta: B. Por qué: Los tres datos apuntan en la misma dirección y ninguno admite otra lectura. El ATP es un nucleótido suelto con tres fosfatos y no forma una hebra, y una proteína no contiene ni bases nitrogenadas ni azúcares de cinco carbonos.
+
+Pregunta 2 (Evaluar): Un estudiante afirma que romper los puentes de hidrógeno entre las dos hebras del ADN destruye la molécula. ¿Cuál es la mejor evaluación de esa afirmación?
+A) Es correcta, porque sin puentes de hidrógeno las hebras se degradan en nucleótidos.
+B) Es correcta, porque los puentes de hidrógeno sostienen cada una de las cadenas.
+C) Es incorrecta, porque los puentes de hidrógeno no existen en la molécula de ADN.
+D) No lo es: separar las hebras no rompe ninguna cadena, y así ocurre al copiar el ADN.
+Correcta: D. Por qué: Dentro de cada hebra las uniones son covalentes y mucho más estables, de modo que las cadenas se mantienen enteras. Confundir ambos tipos de unión es el error más frecuente en este tema, y la última alternativa niega directamente un hecho establecido.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar experimentalmente la complementariedad de bases del ADN. ¿Qué medición lo respalda mejor?
+A) Determinar cuál es la masa molecular total de la muestra de ADN que se analizó en el laboratorio.
+B) Determinar la temperatura a la que la muestra de ADN se disuelve.
+C) Determinar la proporción de cada base y comprobar si la adenina iguala a la timina.
+D) Determinar el número exacto de cromosomas presentes en la célula de origen de la muestra.
+Correcta: C. Por qué: Si esa regla se cumple, la cantidad de adenina debe igualar a la de timina y la de citosina a la de guanina en cualquier muestra de ADN de doble hebra. Medir masa, temperatura de disolución o número de cromosomas entrega datos que no ponen a prueba la complementariedad.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

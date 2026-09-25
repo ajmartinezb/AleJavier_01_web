@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 18: f. Cómo diseñar y leer un experimento de esta sección
+Sección: 6. Variables ambientales que afectan la fotosíntesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Cómo diseñar y leer un experimento de esta sección». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente burbujas de O<sub>2</sub>, mantienen constantes, Se incluye un control, Se repite, La pregunta típica, otra, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «f. Cómo diseñar y leer un experimento de esta sección», dentro de la sección «6. Variables ambientales que afectan la fotosíntesis» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: burbujas de O<sub>2</sub>, mantienen constantes, Se incluye un control, Se repite, La pregunta típica, otra.
+
+Ideas guía:
+- La forma clásica de medir fotosíntesis en el colegio es contar burbujas de O2 que desprende una planta acuática, o seguir el cambio de CO2 en una cámara cerrada.
+- Para que el resultado sea interpretable: Se manipula una sola variable (por ejemplo, la distancia a la lámpara) y se mantienen constantes las demás (temperatura del agua, concentración de CO2, misma planta, mismo tiempo de medición).
+- Se incluye un control, como un montaje en oscuridad o sin la planta.
+- Se repite cada condición para poder promediar.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Se quiere medir el efecto de la intensidad de luz sobre la fotosíntesis acercando una lámpara incandescente a un montaje con una planta acuática. ¿Qué problema debe resolverse primero?
+A) Que la planta acuática deja de respirar al ser iluminada.
+B) Que las burbujas de O₂ no pueden contarse a simple vista.
+C) Que el agua del montaje impide por completo el paso de la luz.
+D) Que al acercar la lámpara también aumenta la temperatura del agua.
+Correcta: D. Por qué: Si dos variables cambian juntas, ningún resultado puede atribuirse a una sola. La solución habitual es interponer un recipiente con agua que absorba el calor, o usar una fuente de luz fría. Las demás opciones describen hechos falsos: la planta sigue respirando y el agua deja pasar la luz.
+
+Pregunta 2 (Evaluar): En un montaje se cuenta el número de burbujas de O₂ que desprende una planta acuática durante un minuto a cada distancia de la lámpara, con una sola medición por distancia. ¿Cuál es la principal debilidad del diseño?
+A) Una sola medición por condición impide estimar la variabilidad.
+B) Contar burbujas no guarda ninguna relación con la fotosíntesis.
+C) El tiempo de un minuto es demasiado largo para este tipo de medición.
+D) La distancia a la lámpara no se relaciona con la intensidad de luz recibida.
+Correcta: A. Por qué: El indicador es válido y la distancia sí modifica la intensidad recibida, de modo que el problema no está ahí. Lo que falta son réplicas: con un solo dato por condición, una burbuja que se queda adherida a la hoja o un conteo apresurado puede cambiar la conclusión. Repetir permite promediar y estimar cuánto varía el resultado.
+
+Pregunta 3 (Planificar y conducir una investigación): En un experimento sobre fotosíntesis se usan dos plantas de la misma especie, en macetas y con igual riego. A cada una se le dejan solo dos hojas, y en una de ellas se envuelve una hoja con papel de aluminio. ¿Cuál es el propósito de envolver esa hoja?
+A) Aumentar la temperatura de la hoja envuelta durante el ensayo.
+B) Impedir que llegue luz a esa hoja y usarla como control sin luz.
+C) Evitar que la hoja pierda agua por transpiración durante el día.
+D) Aportar minerales adicionales a la hoja a través del papel metálico.
+Correcta: B. Por qué: El aluminio es opaco, de modo que la hoja envuelta queda sin luz mientras comparte con la otra la misma planta, el mismo riego y la misma temperatura. Así se aísla el efecto de la luz: al revelar después la presencia de almidón, solo la hoja iluminada debería haberlo acumulado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

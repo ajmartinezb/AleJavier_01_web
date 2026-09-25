@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 30: c. Cuánto se necesita dormir
+Sección: 8. Cuidado del sistema nervioso: sueño y prevención de traumatismos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Cuánto se necesita dormir». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente 8 a 10 horas, Menor rendimiento cognitivo, Mayor irritabilidad, Riesgo aumentado, A largo plazo, melatonina, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Cuánto se necesita dormir», dentro de la sección «8. Cuidado del sistema nervioso: sueño y prevención de traumatismos» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 8 a 10 horas, Menor rendimiento cognitivo, Mayor irritabilidad, Riesgo aumentado, A largo plazo, melatonina.
+
+Ideas guía:
+- Para adolescentes de 14 a 17 años, la recomendación es de 8 a 10 horas diarias.
+- En la práctica, una parte importante duerme bastante menos, por una combinación de horarios escolares tempranos, carga académica y uso de pantallas en la noche.
+- Efectos documentados de la privación de sueño: Menor rendimiento cognitivo: atención, memoria de trabajo y tiempo de reacción.
+- Peor consolidación de lo estudiado: estudiar toda la noche antes de una prueba es contraproducente, porque justamente se suprime la fase en que lo aprendido se fija.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una persona adolescente duerme 6 horas por noche de lunes a viernes y 11 horas el sábado y el domingo. Si la recomendación es de 8 a 10 horas diarias, ¿cuántas horas de déficit acumula de lunes a viernes?
+A) Entre 2 y 4 horas.
+B) Entre 10 y 20 horas.
+C) Exactamente 5 horas.
+D) No acumula déficit alguno.
+Correcta: B. Por qué: El déficit diario va de 8 menos 6, es decir, 2 horas, a 10 menos 6, es decir, 4 horas. En cinco días eso suma entre 10 y 20 horas. Dormir más el fin de semana reduce en parte las consecuencias, pero el cálculo pedido es el de lunes a viernes y el déficit de esos días es el indicado.
+
+Pregunta 2 (Evaluar): Un estudiante afirma que «dormir mucho el fin de semana compensa por completo las pocas horas dormidas entre semana». ¿Cuál es la evaluación adecuada?
+A) Es correcta, porque lo único que importa es el total de horas de la semana.
+B) Es incorrecta, porque dormir más de lo necesario un día no aporta ningún beneficio.
+C) Es incorrecta, porque el déficit de sueño no tiene ninguna consecuencia medible.
+D) Es incompleta: ayuda algo, pero la irregularidad desajusta el ritmo.
+Correcta: D. Por qué: Recuperar horas el fin de semana sí alivia parte del déficit, así que la afirmación no es completamente falsa. Lo que omite es que acostarse y levantarse a horas muy distintas desplaza el ritmo, con lo que el lunes cuesta más dormirse y despertar. El total semanal no sustituye a la regularidad.
+
+Pregunta 3 (Procesar y analizar la evidencia): Un estudiante usa el teléfono con brillo alto hasta el momento de acostarse y tarda más de una hora en dormirse. ¿Cuál es la explicación biológica más adecuada?
+A) La luz de la pantalla retrasa la melatonina y el inicio del sueño.
+B) La luz de la pantalla aumenta la acumulación de adenosina en el encéfalo.
+C) La luz de la pantalla destruye las neuronas encargadas de iniciar el sueño.
+D) La luz de la pantalla adelanta la aparición de la primera fase de sueño REM.
+Correcta: A. Por qué: La señal que inicia el proceso del sueño es la oscuridad, y una pantalla brillante muy cerca de los ojos mantiene esa señal ausente. Por eso la melatonina se libera más tarde y el inicio del sueño se retrasa. La adenosina se acumula por el tiempo de vigilia, no por la luz, y no hay destrucción de neuronas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

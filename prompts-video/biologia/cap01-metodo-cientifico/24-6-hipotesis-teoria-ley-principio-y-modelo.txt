@@ -1,0 +1,40 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 24: 6. Hipótesis, teoría, ley, principio y modelo
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Hipótesis, teoría, ley, principio y modelo». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente hipótesis, teoría, ley, principio y modelo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «6. Hipótesis, teoría, ley, principio y modelo» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- Esta distinción aparece en casi todas las PAES de Ciencias: la pregunta describe un planteamiento científico y pide clasificarlo.
+- En la prueba oficial de invierno de 2027 hay varias preguntas de este tipo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Una profesora escribe en la pizarra cuatro enunciados: (1) «Todos los seres vivos están formados por células, que provienen de otras células»; (2) «En un cruce de dos heterocigotos, la descendencia muestra una proporción fenotípica cercana a 3:1»; (3) «Un esquema de la membrana como bicapa con proteínas incrustadas»; (4) «Si aumenta la temperatura, la levadura producirá más CO₂». ¿Qué enunciado corresponde a una ley?
+A) El enunciado sobre las células.
+B) El enunciado sobre los cruces.
+C) El enunciado sobre la membrana.
+D) El enunciado sobre la levadura.
+Correcta: B. Por qué: Se revisa cada enunciado. El 1 integra muchas observaciones y explica la organización de la vida: teoría celular. El 2 describe una regularidad numérica que se repite en los cruces, sin decir por qué ocurre: es la segregación de Mendel, una ley. El 3 es un esquema que representa una estructura: modelo. El 4 anticipa un resultado con «si…»: predicción. Clave: B.
+
+Pregunta 2 (Evaluar): Un estudiante afirma: «La teoría celular todavía es solo una teoría; cuando se acumule suficiente evidencia pasará a ser la ley celular». ¿Cuál es la mejor evaluación de esta afirmación?
+A) Es correcta: toda teoría confirmada termina en una ley.
+B) Es correcta: una teoría es una suposición sin evidencia.
+C) Es errónea: teoría y ley cumplen funciones distintas.
+D) Es errónea: la teoría celular ya fue rechazada hace años.
+Correcta: C. Por qué: La ley describe cómo ocurre una regularidad; la teoría explica por qué ocurre. Son productos diferentes, no grados de certeza. Por eso una teoría no «asciende» a ley por mucha evidencia que reúna. Además, la teoría celular es uno de los conocimientos más sólidos de la biología. La afirmación del estudiante es errónea precisamente porque confunde funciones: clave C.
+
+Pregunta 3 (Planificar y conducir una investigación): Un investigador estudia la difusión de oxígeno a través del epitelio pulmonar y resume sus mediciones así: «La velocidad de difusión es directamente proporcional a la superficie de intercambio y a la diferencia de concentración, e inversamente proporcional al grosor de la membrana». Este enunciado no dice por qué las moléculas se mueven. ¿A qué corresponde este planteamiento?
+A) A una teoría.
+B) A una hipótesis.
+C) A un modelo.
+D) A una ley.
+Correcta: D. Por qué: El enunciado relaciona variables medibles (superficie, diferencia de concentración, grosor) con otra (velocidad) mediante proporciones. Describe cómo se comporta el fenómeno de manera regular y el texto aclara que no explica la causa. Esas son las marcas de una ley: describir, con frecuencia en términos matemáticos, sin explicar el mecanismo. Corresponde a la ley de Fick: clave D.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

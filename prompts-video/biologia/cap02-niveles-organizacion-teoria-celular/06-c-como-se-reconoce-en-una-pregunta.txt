@@ -1,0 +1,43 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 06: c. Cómo se reconoce en una pregunta
+Sección: 3. Las propiedades emergentes
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Cómo se reconoce en una pregunta». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente cómo se reconoce en una pregunta, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Cómo se reconoce en una pregunta», dentro de la sección «3. Las propiedades emergentes» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- Los ítems sobre propiedades emergentes suelen tener esta forma: describen una característica y preguntan en qué nivel aparece, o piden identificar cuál de varias afirmaciones ilustra una emergencia.
+- Pregúntate si la propiedad existe en las partes aisladas.
+- La conducción del impulso nervioso, por ejemplo, sí existe en una neurona aislada: no es emergente del tejido.
+- En cambio, procesar información coordinando miles de neuronas, sí lo es.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): En un enunciado de prueba aparece la frase: «el conjunto presenta una capacidad que ninguno de sus componentes posee por separado». ¿Qué concepto está señalando esa frase?
+A) Una propiedad emergente del conjunto.
+B) La homeostasis del sistema descrito.
+C) La irritabilidad de cada componente.
+D) El metabolismo de las partes aisladas.
+Correcta: A. Por qué: Esa formulación describe exactamente la aparición de una capacidad nueva en el nivel superior. La homeostasis, la irritabilidad y el metabolismo son características de los seres vivos, pero ninguna de ellas se define por el contraste entre el todo y sus partes. Reconocer la señal permite responder rápido incluso cuando el contenido del enunciado es desconocido.
+
+Pregunta 2 (Procesar y analizar la evidencia): Cuatro enunciados describen sistemas biológicos. ¿Cuál de ellos NO describe una propiedad emergente?
+A) Un cardumen realiza maniobras coordinadas que ningún pez ejecuta solo.
+B) Una célula hepática contiene mitocondrias que producen ATP.
+C) Un cerebro almacena recuerdos que ninguna neurona aislada conserva.
+D) Una colonia de abejas mantiene la temperatura del panal estable.
+Correcta: B. Por qué: Las maniobras del cardumen, la memoria del cerebro y la termorregulación del panal cumplen el criterio, porque ninguna unidad individual las realiza. En cambio, una mitocondria produce ATP igual estando aislada en un tubo de ensayo: la propiedad ya existe en la parte, de modo que no emerge al integrarse a la célula. Ese es el contraste que permite descartar.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere demostrar que la capacidad de un biofilm bacteriano de resistir un antibiótico es emergente y no una propiedad de cada bacteria. ¿Qué comparación debe realizar?
+A) Exponer el biofilm a dos antibióticos distintos y comparar luego la supervivencia de cada uno.
+B) Exponer al antibiótico dos biofilms formados por cepas bacterianas completamente distintas.
+C) Medir el grosor del biofilm antes y después de aplicar el antibiótico.
+D) Exponer al antibiótico el biofilm intacto y bacterias de la misma cepa en suspensión.
+Correcta: D. Por qué: Usar la misma cepa en suspensión garantiza que las bacterias sean idénticas y que lo único distinto sea si forman o no la estructura del biofilm. Cambiar de antibiótico o de cepa introduce una variable diferente y no permite atribuir la resistencia a la organización. Medir el grosor describe el sistema, pero no compara ningún nivel de organización con otro.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

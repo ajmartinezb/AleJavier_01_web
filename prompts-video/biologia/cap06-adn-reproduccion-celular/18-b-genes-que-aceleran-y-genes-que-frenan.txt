@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 18: b. Genes que aceleran y genes que frenan
+Sección: 5. Control del ciclo celular: los puntos de control
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Genes que aceleran y genes que frenan». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente Protooncogenes, estimulan, oncogenes, aunque no haya señal, una, Genes supresores de tumores, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Genes que aceleran y genes que frenan», dentro de la sección «5. Control del ciclo celular: los puntos de control» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Protooncogenes, estimulan, oncogenes, aunque no haya señal, una, Genes supresores de tumores.
+
+Ideas guía:
+- El control del ciclo depende de dos grupos de genes, que funcionan como el acelerador y el freno de un auto: La proteína p53 se activa cuando el ADN está dañado.
+- Detiene el ciclo en G1 para que se repare, y si el daño es muy grave, ordena la apoptosis.
+- Está alterada en cerca de la mitad de los cánceres humanos.
+- Sin p53, una célula con el ADN dañado sigue dividiéndose y acumula más mutaciones.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se analizan dos líneas celulares tumorales. En la línea 1, una copia del gen RAS tiene una mutación y la otra es normal; sus células se dividen aun sin factores de crecimiento. En la línea 2, una copia de TP53 está mutada y la otra es normal; sus células detienen el ciclo al dañarse su ADN. ¿Qué explicación es coherente con estos datos?
+A) Ambas mutaciones bastan en una sola copia porque los dos genes son supresores de tumores.
+B) Ambas líneas pierden el control porque cualquier mutación en una copia inactiva el gen.
+C) Una copia de RAS mutada basta para estimular, pero la copia normal de TP53 aún frena.
+D) La copia normal de RAS impide el efecto del oncogén, mientras TP53 mutado lo acelera.
+Correcta: C. Por qué: En la línea 1, a pesar de tener una copia normal de RAS, las células se dividen sin señal: la copia mutada actúa como un acelerador trabado y domina. En la línea 2, las células aún se detienen ante el daño: la copia normal de TP53 produce suficiente p53 para frenar. Por eso una mutación en un solo alelo basta en RAS, pero no en TP53.
+
+Pregunta 2 (Evaluar): Una estudiante encuentra que en el 50 % de los tumores humanos analizados la proteína p53 está alterada y concluye: «Mutar el gen TP53 es suficiente para que una célula se vuelva cancerosa». ¿Cuál es la principal debilidad de esta conclusión?
+A) Que la p53 alterada acelera el ciclo celular en lugar de frenarlo en G1.
+B) Que el gen TP53 es un protooncogén y no un gen supresor de tumores.
+C) Que un 50 % de tumores es muy poco para asociar p53 con el cáncer.
+D) Que una asociación frecuente no demuestra que esa mutación baste sola.
+Correcta: D. Por qué: El dato indica que la alteración de p53 es frecuente en tumores, es decir, una asociación. «Suficiente» significa que por sí sola produce el cáncer, algo que el dato no permite afirmar. Además, la mitad de los tumores no tiene p53 alterada, y se sabe que una célula acumula varias mutaciones antes de volverse cancerosa. Por eso la conclusión va más allá de la evidencia.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere saber si la proteína RB es necesaria para detener el ciclo en G1 cuando faltan factores de crecimiento. Cuenta con células normales y células idénticas a las que se les inactivaron ambas copias del gen RB. ¿Qué diseño es el adecuado?
+A) Cultivar ambos tipos sin factores de crecimiento y comparar la proporción que entra en fase S.
+B) Cultivar solo las células sin RB, con y sin factores de crecimiento, y medir su tamaño final.
+C) Cultivar ambos tipos con factores de crecimiento y comparar la proporción que entra en fase S.
+D) Cultivar solo las células normales sin factores de crecimiento y contar las que entran en fase S.
+Correcta: A. Por qué: La variable independiente es la presencia de RB funcional; la dependiente, la entrada en fase S. La pregunta se refiere a la falta de factores de crecimiento, así que ambos grupos deben cultivarse sin ellos. Si las células sin RB entran en S y las normales no, RB es necesaria para el freno. Usar factores de crecimiento elimina la condición del problema, y trabajar con un solo tipo celular impide comparar.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

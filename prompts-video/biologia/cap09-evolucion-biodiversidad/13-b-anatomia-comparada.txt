@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 13: b. Anatomía comparada
+Sección: 4. Evidencias evolutivas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Anatomía comparada». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Estructuras homólogas, mismos huesos, modificó, parentesco, Estructuras análogas, función, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Anatomía comparada», dentro de la sección «4. Evidencias evolutivas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Estructuras homólogas, mismos huesos, modificó, parentesco, Estructuras análogas, función.
+
+Ideas guía:
+- Arriba, el miembro anterior pentadáctilo en cuatro mamíferos: mismos huesos, funciones distintas.
+- Abajo, dos alas con la misma función y organización interna distinta.
+- Comparten origen embrionario y plan de organización, aunque cumplan funciones distintas.
+- La explicación evolutiva es directa: todos heredaron el mismo plan de un ancestro común y cada linaje lo modificó.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se comparan cuatro estructuras de locomoción. La aleta del delfín y la aleta del tiburón tienen forma externa similar, pero la primera contiene húmero, radio, cúbito y falanges, y la segunda, radios cartilaginosos. ¿Qué se concluye de esta comparación?
+A) Son estructuras homólogas, porque ambas permiten desplazarse con eficiencia en el agua.
+B) Son estructuras vestigiales, porque ambas perdieron parte de su función original.
+C) Son estructuras análogas, porque su semejanza externa responde a una exigencia común.
+D) Son estructuras homólogas, porque ambas derivan de un mismo ancestro acuático.
+Correcta: C. Por qué: La forma externa coincide, pero el interior no: una tiene los huesos del miembro de los tetrápodos y la otra, radios cartilaginosos sin esa disposición. Como el criterio decisivo es la organización interna y no la función, se trata de estructuras análogas, resultado de que ambos linajes enfrentaron la misma exigencia de nadar.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo debe decidir si el apéndice alargado del ala de un grupo de aves y la estructura alargada del ala de un grupo de murciélagos son homólogas o análogas. ¿Qué evidencia permite decidirlo?
+A) El origen embrionario y los huesos de cada una de las estructuras.
+B) El tiempo que cada grupo puede permanecer en vuelo sin posarse en una rama.
+C) La velocidad máxima que alcanza cada grupo en condiciones de vuelo horizontal.
+D) La superficie total del ala de cada grupo, medida en ejemplares adultos y sanos.
+Correcta: A. Por qué: Las cuatro opciones describen mediciones posibles, pero solo una responde a la pregunta. Tiempo de vuelo, velocidad y superficie alar miden desempeño, y el desempeño puede coincidir por convergencia. Comparar el origen embrionario y los huesos que componen cada estructura permite decidir si comparten plan heredado o no.
+
+Pregunta 3 (Evaluar): Un texto sostiene: «El cóccix humano y los huesos pélvicos de las ballenas no tienen ninguna función, lo que demuestra que la evolución produce estructuras inútiles». ¿Qué corresponde objetar a esta interpretación?
+A) Una estructura vestigial no existe realmente y su presencia se debe a errores de descripción.
+B) Una estructura vestigial perdió su función original, pero puede conservar otras funciones.
+C) Las estructuras vestigiales demuestran que los organismos fueron diseñados por separado.
+D) Las estructuras vestigiales aparecen solo en especies que se encuentran en extinción.
+Correcta: B. Por qué: La definición habla de pérdida de la función original, no de ausencia total de función. El cóccix, por ejemplo, sirve de inserción a músculos y ligamentos del piso pélvico. Lo que las estructuras vestigiales evidencian no es inutilidad, sino herencia: su presencia solo se explica si provienen de un ancestro en que eran funcionales.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

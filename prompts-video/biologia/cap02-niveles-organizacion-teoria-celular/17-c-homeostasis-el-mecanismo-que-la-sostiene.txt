@@ -1,0 +1,45 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 17: c. Homeostasis: el mecanismo que la sostiene
+Sección: 6. Características de los sistemas biológicos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Homeostasis: el mecanismo que la sostiene». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente regulación, retroalimentación negativa, receptor, centro integrador, efector, reduce, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Homeostasis: el mecanismo que la sostiene», dentro de la sección «6. Características de los sistemas biológicos» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: regulación, retroalimentación negativa, receptor, centro integrador, efector, reduce.
+
+Ideas guía:
+- La homeostasis se sostiene con circuitos de retroalimentación negativa.
+- La homeostasis no es inmovilidad, es regulación.
+- Funciona casi siempre mediante retroalimentación negativa: una desviación de la variable regulada activa una respuesta que la devuelve al rango normal.
+- Un receptor detecta el cambio (por ejemplo, termorreceptores de la piel).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un equipo quiere determinar si un circuito fisiológico funciona por retroalimentación negativa. ¿Qué procedimiento lo pone mejor a prueba?
+A) Medir la variable regulada durante varios días sin intervenir en el organismo.
+B) Bloquear el efector, aplicar una perturbación y observar si la variable vuelve al rango normal.
+C) Comparar la variable regulada entre dos individuos de distinta edad.
+D) Medir la concentración del receptor en el tejido donde se detecta el estímulo.
+Correcta: B. Por qué: Si se bloquea el efector y la variable deja de corregirse, queda demostrado que era él quien cerraba el circuito. Observar sin intervenir muestra que la variable oscila, pero no identifica el mecanismo; comparar individuos de distinta edad introduce una variable ajena; y medir la concentración del receptor describe un componente sin poner a prueba su función.
+
+Pregunta 2 (Procesar y analizar la evidencia): En la regulación de la temperatura corporal, los termorreceptores de la piel detectan el aumento, el hipotálamo lo procesa y las glándulas sudoríparas producen sudor. ¿Qué componente del circuito corresponde a las glándulas sudoríparas?
+A) El efector, porque ejecutan la respuesta que devuelve la variable al rango.
+B) El receptor, porque son ellas las que detectan el calor en la superficie corporal.
+C) El centro integrador, porque deciden cuánto sudor producir.
+D) El valor de referencia, porque son ellas las que fijan la temperatura considerada normal.
+Correcta: A. Por qué: Las glándulas sudoríparas producen el sudor cuya evaporación baja la temperatura, de modo que son el efector. Los termorreceptores cumplen la función de detección, el hipotálamo actúa como centro integrador comparando con el valor de referencia, y ese valor de referencia no es una estructura sino un punto de ajuste del propio sistema.
+
+Pregunta 3 (Evaluar): Se bloquea con un fármaco el efector de un circuito homeostático y luego se aplica una perturbación. ¿Qué resultado confirmaría que el circuito era de retroalimentación negativa?
+A) Que la variable regrese al valor de referencia mucho más rápido que antes del bloqueo.
+B) Que la variable permanezca exactamente fija en el valor de referencia.
+C) Que la variable se aleje progresivamente del valor de referencia sin corregirse.
+D) Que la variable oscile igual que antes de aplicar el fármaco.
+Correcta: C. Por qué: Sin efector esa corrección desaparece, de modo que la desviación se acumula: ese es precisamente el resultado esperado. Un regreso más rápido o una oscilación idéntica indicarían que el efector bloqueado no participaba del circuito, y una variable perfectamente fija contradice la propia idea de regulación, que implica oscilación en torno a un valor.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

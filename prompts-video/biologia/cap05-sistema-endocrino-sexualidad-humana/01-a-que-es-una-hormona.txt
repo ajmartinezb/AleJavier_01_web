@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 01: a. Qué es una hormona
+Sección: 2. El sistema endocrino: hormonas y regulación
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Qué es una hormona». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente hormona, a la sangre, Viaja por la sangre, células blanco, rápidas, breves y dirigidas, lentas, duraderas y difundidas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Qué es una hormona», dentro de la sección «2. El sistema endocrino: hormonas y regulación» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: hormona, a la sangre, Viaja por la sangre, células blanco, rápidas, breves y dirigidas, lentas, duraderas y difundidas.
+
+Ideas guía:
+- Una hormona es un mensajero químico que una glándula endocrina libera a la sangre y que actúa sobre células situadas lejos del lugar donde se produjo.
+- Tres rasgos la definen: Viaja por la sangre, de modo que alcanza a todo el cuerpo.
+- Actúa solo sobre las células que tienen su receptor, llamadas células blanco.
+- Esa especificidad es la que explica por qué una hormona que circula por todo el organismo produce efectos solo en algunos órganos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se inyecta a un animal una hormona marcada y se detecta en la sangre de todo su cuerpo, pero solo el tejido X responde. ¿Qué explica ese resultado?
+A) Que la hormona se concentra exclusivamente en el tejido X.
+B) Que los demás tejidos destruyen la hormona antes de recibirla.
+C) Que solo el tejido X posee el receptor para esa hormona.
+D) Que la hormona pierde su marca al salir del torrente sanguíneo.
+Correcta: C. Por qué: El experimento separa dos cosas: la hormona llegó a todas partes, como muestra el marcador, y sin embargo la respuesta fue selectiva. La única explicación compatible con ambos hechos es la presencia del receptor en un tejido y su ausencia en los demás.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere determinar si un tejido es blanco de una hormona determinada. ¿Cuál es el procedimiento más directo?
+A) Medir la concentración de la hormona en la sangre que irriga ese tejido.
+B) Medir el tamaño del tejido antes y después de una comida abundante.
+C) Determinar la temperatura del tejido en reposo y durante el ejercicio.
+D) Comprobar si las células de ese tejido expresan el receptor.
+Correcta: D. Por qué: Como la definición se apoya en el receptor, la prueba directa es buscar ese receptor en las células del tejido. La concentración de hormona en la sangre es la misma para todos los tejidos irrigados, de modo que no discrimina, y el tamaño o la temperatura no informan sobre la capacidad de respuesta.
+
+Pregunta 3 (Evaluar): Un estudiante afirma que «una hormona debe estar muy concentrada para producir efecto, porque debe repartirse por todo el cuerpo». ¿Cuál es la corrección pertinente?
+A) Es correcta: las hormonas actúan en concentraciones del orden de gramos por litro.
+B) Es incorrecta: actúan en concentraciones bajísimas, de nanogramos.
+C) Es incorrecta, porque las hormonas no se distribuyen por el torrente sanguíneo.
+D) Es correcta, porque la sangre diluye por completo cualquier mensajero químico.
+Correcta: B. Por qué: El razonamiento parece sensato, pero el dato lo desmiente: basta una cantidad minúscula porque el receptor la reconoce con gran afinidad y porque la señal se amplifica dentro de la célula blanco. Esa sensibilidad extrema es también la razón de que pequeños desbalances hormonales tengan efectos notorios.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 37: b. El experimento natural de Daphne Major
+Sección: 8. Los pinzones y la selección natural
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «El experimento natural de Daphne Major». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Peter y Rosemary Grant, Daphne Major, La sequía de 1977, semillas grandes y duras, se desplomó, no fue al azar, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. El experimento natural de Daphne Major», dentro de la sección «8. Los pinzones y la selección natural» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Peter y Rosemary Grant, Daphne Major, La sequía de 1977, semillas grandes y duras, se desplomó, no fue al azar.
+
+Ideas guía:
+- Desde 1973, Peter y Rosemary Grant midieron, anillaron y siguieron individualmente a los pinzones de Daphne Major, un islote pequeño del archipiélago, durante más de cuatro décadas.
+- Ese seguimiento permitió capturar el proceso en directo.
+- En 1976 la isla tenía semillas abundantes y de todos los tamaños.
+- En 1977 prácticamente no llovió, las plantas produjeron muy pocas semillas y los pinzones consumieron primero las pequeñas y blandas, que son las más fáciles.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Tras la sequía de 1977 en Daphne Major, la población de Geospiza fortis cayó de unos 1400 individuos a unos pocos cientos, y entre las sobrevivientes la profundidad de pico más frecuente pasó de unos 8,8 a unos 10,3 milímetros. ¿Qué describe correctamente lo ocurrido?
+A) Las aves engrosaron su pico al alimentarse de las semillas duras que quedaban.
+B) La sequía indujo mutaciones que aumentaron el tamaño del pico de la población.
+C) La mortalidad fue mayor entre las aves de pico pequeño que entre las de pico grande.
+D) La población redujo su tamaño, pero la distribución de los picos se mantuvo igual.
+Correcta: C. Por qué: El desplazamiento del valor más frecuente hacia picos más profundos, junto con la caída del número total, solo puede explicarse porque murieron desproporcionadamente las aves de pico pequeño. Ningún individuo modificó su pico: cambió la composición de la población.
+
+Pregunta 2 (Evaluar): Un estudiante concluye que, en Daphne Major, «las aves entrenaron su pico durante la sequía hasta hacerlo capaz de quebrar semillas duras». ¿Qué evidencia del estudio refuta directamente esa conclusión?
+A) Que las aves estaban anilladas y sus medidas individuales no cambiaron a lo largo de la sequía.
+B) Que la población total descendió de forma considerable durante el período estudiado.
+C) Que las semillas pequeñas y blandas fueron consumidas antes que las grandes y duras.
+D) Que la sequía se prolongó durante un año completo sin precipitaciones relevantes.
+Correcta: A. Por qué: La conclusión del estudiante afirma que los individuos cambiaron. El seguimiento de aves anilladas permite comprobar exactamente eso: si las medidas de cada ave se mantuvieron constantes, ningún individuo modificó su pico y el cambio poblacional solo pudo deberse a mortalidad diferencial. Los otros datos describen el contexto, pero no refutan la afirmación.
+
+Pregunta 3 (Planificar y conducir una investigación): Para demostrar que el cambio observado tras la sequía fue evolutivo y no solo una mortalidad pasajera, ¿qué debía registrar el equipo en la temporada siguiente?
+A) El número total de aves que lograron sobrevivir hasta el final de la sequía.
+B) La cantidad de semillas grandes y duras disponibles en la isla tras la sequía.
+C) El peso corporal promedio de las aves adultas sobrevivientes de la sequía.
+D) La profundidad del pico de las crías nacidas después de la sequía en la población.
+Correcta: D. Por qué: Que mueran más aves de pico pequeño es mortalidad diferencial. Para que sea evolución, el cambio debe aparecer en la generación siguiente, lo que exige medir el pico de las crías nacidas después. Si su promedio es mayor que el de la población anterior a la sequía, el cambio se transmitió y hubo evolución.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

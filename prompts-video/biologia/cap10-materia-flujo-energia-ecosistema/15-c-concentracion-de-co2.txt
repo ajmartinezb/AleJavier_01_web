@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 15: c. Concentración de CO2
+Sección: 6. Variables ambientales que afectan la fotosíntesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Concentración de CO2». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente estomas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Concentración de CO2», dentro de la sección «6. Variables ambientales que afectan la fotosíntesis» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: estomas.
+
+Ideas guía:
+- La curva tiene la misma forma que la de la luz: sube y luego se satura.
+- Hay un detalle que la prueba usa: la entrada de CO2 depende de los estomas.
+- Si hace mucho calor o falta agua, la planta los cierra para no deshidratarse, y al cerrarlos también corta el suministro de CO2.
+- Así, una sequía baja la fotosíntesis aunque haya luz de sobra.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un estudio mide la fotosíntesis de una planta acuática sumergida y de la misma especie cultivada en aire, con igual luz y temperatura. La planta sumergida presenta una tasa mucho menor. ¿Cuál es la explicación más probable?
+A) El CO₂ difunde mucho más lento en agua, de modo que escasea.
+B) El agua bloquea por completo el paso de la luz hacia las hojas.
+C) La planta sumergida deja de tener cloroplastos funcionales.
+D) El agua impide que la planta realice respiración celular.
+Correcta: A. Por qué: La luz y la temperatura se igualaron, así que la diferencia debe estar en el tercer factor: el suministro de CO₂. La lentísima difusión en agua crea una capa empobrecida alrededor de la hoja y limita la fijación. Un estudio de la prueba oficial 2027 mostró que la fotosíntesis de una planta acuática se triplicaba al saturar el agua con CO₂.
+
+Pregunta 2 (Evaluar): En un invernadero se inyecta CO₂ hasta triplicar su concentración respecto del aire, y la tasa de fotosíntesis aumenta. Un estudiante concluye que «cuanto más CO₂ se agregue, mayor será siempre la tasa». ¿Cuál es la precisión correcta?
+A) Es correcta: la respuesta al CO₂ no tiene ningún límite superior conocido.
+B) Es incorrecta, porque el CO₂ no influye sobre la tasa de fotosíntesis.
+C) Es incorrecta, porque agregar CO₂ disminuye siempre la tasa de fotosíntesis.
+D) Es incorrecta: la curva también se satura y el aumento deja de hacer efecto.
+Correcta: D. Por qué: El estudiante observó el tramo ascendente y lo extendió indefinidamente. Desde cierta concentración, la maquinaria enzimática trabaja al máximo y agregar más CO₂ no cambia nada; el límite pasa a la luz, la temperatura o la cantidad de RuBisCO. Esa es la razón de que el enriquecimiento en invernaderos tenga un tope práctico.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere estudiar el efecto de la concentración de CO₂ sobre la fotosíntesis de una planta acuática. ¿Qué precaución es más importante para que el resultado sea interpretable?
+A) Usar una planta distinta en cada concentración de CO₂ ensayada.
+B) Mantener constantes la luz y la temperatura del agua en cada prueba.
+C) Cambiar también la intensidad de luz para acelerar el experimento.
+D) Medir cada condición durante un tiempo distinto según su concentración.
+Correcta: B. Por qué: Si la luz o la temperatura cambian junto con el CO₂, cualquier diferencia observada podría deberse a ellas. Mantenerlas constantes convierte al CO₂ en la única variable manipulada. Cambiar de planta o de tiempo de medición entre condiciones agrega variabilidad y hace incomparables los resultados.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

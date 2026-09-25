@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 26: c. Por qué las pirámides se estrechan
+Sección: 8. Flujo de energía: niveles tróficos, cadenas, tramas y pirámides
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Por qué las pirámides se estrechan». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente 10 %, eficiencia ecológica, Respiración celular, calor, Materia no asimilada, Partes no consumidas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Por qué las pirámides se estrechan», dentro de la sección «8. Flujo de energía: niveles tróficos, cadenas, tramas y pirámides» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 10 %, eficiencia ecológica, Respiración celular, calor, Materia no asimilada, Partes no consumidas.
+
+Ideas guía:
+- Al pasar de un nivel al siguiente, solo alrededor del 10 % de la energía queda incorporada en el nivel de arriba.
+- Esa fracción se llama eficiencia ecológica y es un promedio, no una ley exacta: varía aproximadamente entre el 5 % y el 20 % según el ecosistema.
+- El 90 % restante no desaparece: se va en tres cosas.
+- La mayor parte de lo que un organismo come lo quema para vivir, y esa energía termina como calor.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un nivel trófico dispone de 8000 kJ y el siguiente incorpora 640 kJ. ¿Cuál es la eficiencia de transferencia y qué ocurrió con el resto?
+A) 80 %; el resto quedó almacenado en la biomasa del nivel superior.
+B) 8 %; el resto se destinó a respiración, heces y partes no consumidas.
+C) 8 %; el resto fue devuelto al nivel inferior por los descomponedores.
+D) 12,5 %; el resto se transformó en luz dentro del ecosistema.
+Correcta: B. Por qué: El cociente 640 dividido por 8000 es 0,08, es decir, un 8 %, valor coherente con el rango habitual de entre 5 % y 20 %. El 92 % restante se repartió entre el calor de la respiración, las heces que van a los descomponedores y las partes del organismo que nadie consumió.
+
+Pregunta 2 (Evaluar): Se sostiene que «la energía que no pasa al nivel siguiente se pierde, así que el ecosistema desperdicia recursos». ¿Cuál es la precisión necesaria?
+A) Es correcta: esa energía desaparece sin cumplir ninguna función biológica.
+B) Es incorrecta, porque toda la energía pasa íntegramente al nivel siguiente.
+C) Es incorrecta, porque la energía perdida regresa al Sol por radiación.
+D) Es incompleta: esa energía sostuvo la vida de cada organismo.
+Correcta: D. Por qué: Hablar de desperdicio supone que esa energía podría haberse conservado, y no es así: fue la que permitió a cada organismo moverse, crecer y reproducirse. La degradación a calor es inevitable en cualquier transformación energética, y por eso las pirámides se estrechan.
+
+Pregunta 3 (Procesar y analizar la evidencia): Un ecosistema dispone de 100 000 unidades de energía en sus productores y la eficiencia entre niveles es del 10 %. ¿Cuántas unidades llegan al cuarto nivel trófico?
+A) 10 000 unidades.
+B) 1000 unidades.
+C) 100 unidades.
+D) 10 unidades.
+Correcta: C. Por qué: Los productores son el primer nivel, con 100 000 unidades. El segundo recibe 10 000; el tercero, 1000; el cuarto, 100. Conviene contar las transferencias y no los niveles: del primero al cuarto hay tres pasos, de modo que se aplica el factor tres veces.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

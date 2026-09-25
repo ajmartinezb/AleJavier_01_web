@@ -1,0 +1,43 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 19: a. Cómo se lee
+Sección: 5. El árbol filogenético
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Cómo se lee». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Puntas, Nodo, ancestro común, Rama, Raíz, todos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Cómo se lee», dentro de la sección «5. El árbol filogenético» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Puntas, Nodo, ancestro común, Rama, Raíz, todos.
+
+Ideas guía:
+- Partes de un árbol filogenético y cómo se lee.
+- La regla de lectura es una sola: dos taxones están más emparentados entre sí cuanto más reciente es el nodo que comparten.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un árbol muestra, de izquierda a derecha, los taxones P, Q, R y S. El nodo que une a R con S es el más reciente; luego se une Q a ese grupo, y por último P, en la raíz. ¿Cuál es la relación correcta?
+A) S está más emparentado con R que con Q, por compartir un nodo reciente.
+B) Q está más emparentado con P que con R, por estar dibujado junto a él.
+C) R está más emparentado con Q que con S, por su cercanía en el dibujo.
+D) P está más emparentado con S que con Q, por ocupar los extremos del árbol.
+Correcta: A. Por qué: El nodo más reciente une a R con S, de modo que ese par es el más emparentado del árbol. Q comparte con ellos un nodo anterior, y P comparte el nodo de la raíz, el más antiguo. Por lo tanto, S está más emparentado con R que con Q, y P es el más alejado de todos.
+
+Pregunta 2 (Observar y plantear preguntas): Al revisar un árbol filogenético de aves, un estudiante nota que dos ramas contiguas en el dibujo se unen recién en un nodo muy antiguo, mientras que dos ramas alejadas entre sí comparten un nodo reciente. ¿Qué pregunta le permite interpretar correctamente el árbol?
+A) ¿Cuántos centímetros separan en el dibujo a cada par de ramas del árbol?
+B) ¿Qué especie aparece dibujada más a la derecha en el árbol representado?
+C) ¿Cuántas ramas terminales tiene en total el árbol filogenético revisado?
+D) ¿Cuál es el nodo más reciente que comparte cada par de ramas del árbol?
+Correcta: D. Por qué: Lo que el estudiante observó es justamente la disociación entre proximidad visual y parentesco. Para no equivocarse, debe preguntarse por el nodo compartido de cada par, que es lo único que contiene información. Medir distancias en el dibujo o mirar qué taxón quedó más a la derecha lo llevaría al error que está tratando de evitar.
+
+Pregunta 3 (Comunicar): Un equipo debe explicar a estudiantes de primer año qué representa un nodo de un árbol filogenético. ¿Cuál de las siguientes formulaciones es la más precisa?
+A) El nodo representa la especie actual más parecida a todas las del grupo.
+B) El nodo representa el punto en que una especie se transformó en otra más compleja.
+C) El nodo representa un ancestro común y el momento en que ese linaje se dividió.
+D) El nodo representa el tiempo total que lleva evolucionando cada uno de los linajes.
+Correcta: C. Por qué: La formulación correcta debe incluir dos cosas: un ancestro común y un evento de división. Las otras opciones introducen errores frecuentes: confundir el ancestro con una especie actual, suponer que la evolución avanza hacia mayor complejidad, o atribuir al nodo un significado de duración que corresponde a las ramas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

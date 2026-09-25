@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 04: c. Las células gliales
+Sección: 2. Organización general del sistema nervioso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Las células gliales». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente células gliales, Sostén y nutrición, Aislamiento eléctrico, vaina de mielina, Defensa, Regulación del ambiente, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Las células gliales», dentro de la sección «2. Organización general del sistema nervioso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: células gliales, Sostén y nutrición, Aislamiento eléctrico, vaina de mielina, Defensa, Regulación del ambiente.
+
+Ideas guía:
+- Las células gliales son al menos tan numerosas como ellas y cumplen funciones sin las cuales el tejido nervioso no funcionaría: Sostén y nutrición de las neuronas.
+- Aislamiento eléctrico: las que forman la vaina de mielina alrededor de los axones.
+- Defensa: eliminan restos celulares y agentes extraños.
+- Regulación del ambiente: controlan la concentración de iones y retiran el exceso de neurotransmisor de la sinapsis.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una enfermedad se destruye progresivamente la mielina del sistema nervioso central, sin que mueran las neuronas. ¿Cuál es la consecuencia funcional esperable?
+A) Los axones dejan de generar cualquier potencial de acción de forma permanente.
+B) El potencial de reposo de las neuronas se hace positivo en su interior.
+C) Las neuronas pierden su capacidad de sintetizar neurotransmisores.
+D) La conducción del impulso se vuelve bastante más lenta y menos confiable.
+Correcta: D. Por qué: Si se pierde el aislante, el potencial de acción ya no salta de nodo en nodo y debe propagarse de forma continua, con lo que la velocidad cae y algunas señales se pierden o se retrasan. Las neuronas siguen vivas y conservan sus canales y su maquinaria sináptica, por lo que el potencial de reposo y la síntesis de neurotransmisores no desaparecen.
+
+Pregunta 2 (Evaluar): Un estudiante afirma que «las células gliales son solo un relleno que sostiene a las neuronas y no cumplen ninguna función activa». ¿Cuál es la crítica mejor fundamentada?
+A) Es incorrecta, porque forman la mielina y regulan el ambiente en que trabajan las neuronas.
+B) Es correcta, porque las células gliales no participan en el funcionamiento del tejido nervioso.
+C) Es incorrecta, porque las células gliales generan y conducen potenciales de acción como las neuronas.
+D) Es incorrecta, porque las células gliales son en realidad más escasas que las neuronas.
+Correcta: A. Por qué: La afirmación es falsa porque atribuye a la glía un papel meramente pasivo. La refutación más sólida nombra funciones concretas y verificables: la formación de la vaina de mielina, sin la cual la conducción rápida no existiría, y el control del ambiente iónico y químico del que dependen los potenciales. Lo que la glía no hace es generar potenciales de acción.
+
+Pregunta 3 (Planificar y conducir una investigación): Se desea comprobar experimentalmente si los oligodendrocitos son necesarios para la conducción rápida del impulso en un nervio. ¿Cuál de los siguientes diseños permite responder mejor esa pregunta?
+A) Contar el número de oligodendrocitos presentes en dos nervios distintos y compararlo.
+B) Medir la velocidad de conducción en un solo nervio mielinizado y compararla con el valor teórico esperado.
+C) Comparar la conducción de nervios con mielina intacta y sin ella, en iguales condiciones.
+D) Comparar la velocidad de conducción entre un nervio mantenido a 37 °C y otro a 20 °C.
+Correcta: C. Por qué: Para atribuir la velocidad a la mielina hay que manipular su presencia y dejar todo lo demás igual: eso hace la comparación entre nervios con y sin mielina en idénticas condiciones. Contar células no establece causalidad, una sola medición no tiene comparación experimental y variar la temperatura introduce otra variable independiente.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

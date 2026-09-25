@@ -1,0 +1,15 @@
+# Guion 14 · viii. Comunicación de los resultados
+*Capítulo 1: Método científico · Biología PAES — Ciencias · Sección 3. Etapas de una investigación científica*
+Duración estimada: 5 a 6 minutos · Estilo: cuaderno de laboratorio (papel cuadriculado crema, tinta azul, resaltador amarillo)
+
+| # | Tiempo | Visual | Narración |
+|---|---|---|---|
+| 1 | 0:00–0:25 | Un cuaderno cerrado con candado en un cajón; luego se abre y salen páginas volando. | Un descubrimiento guardado en un cajón no le sirve a nadie. La última etapa de una investigación es **comunicar los resultados**. |
+| 2 | 0:25–0:45 | Ciclo completo; se ilumina «Comunicación» y la flecha vuelve a «Observación». | Octava etapa… y, como es un ciclo, la que abre nuevas preguntas. |
+| 3 | 0:45–1:30 | Tres íconos: artículo científico, congreso con podio, informe. | La investigación se da a conocer mediante **artículos científicos**, **congresos** o **informes**. |
+| 4 | 1:30–2:40 | Flujo: manuscrito → especialistas con lupas revisando «diseño · datos · conclusiones» → revista. | Antes de publicarse en una revista, el trabajo pasa por la **revisión de pares**: otros especialistas evalúan el diseño, los datos y las conclusiones. Es un filtro que detecta errores antes de que el trabajo llegue a todos. |
+| 5 | 2:40–3:20 | Dos laboratorios distintos con el mismo montaje y un «✔ se repite». | Además, publicar permite que otros **repliquen** el trabajo: que repitan el experimento para verificarlo y construyan sobre él. Por eso los revisores piden detalles del método, como cuántos individuos se usaron o qué dosis se aplicó. |
+| 6 | 3:20–3:50 | Tarjeta roja «Error típico PAES»: un teléfono con un anuncio en redes vs. una revista con revisión. | Error típico: creer que un estudio es más confiable porque se hizo viral o porque su conclusión nos gusta. Lo que da confianza es un buen método y la revisión de expertos. |
+| 7 | 3:50–5:05 | Raíces de ajo con concentraciones 0, 1, 2 y 4 %. Tarjeta A–D; se ilumina B, con un gráfico de líneas que aparece. | Pregunta: un grupo contó células en división en raíces de ajo tratadas con 0, 1, 2 y 4 % de un extracto. Quiere mostrar en la feria cómo cambian al aumentar la concentración. ¿Qué recurso usa? A) Un gráfico de torta. B) Un gráfico de líneas, con la concentración en X y las células en Y. C) Un esquema de una célula con sus organelos. D) Una foto de la raíz al inicio. … Es **B**: muestra cómo varía una variable al cambiar otra. La torta muestra partes de un todo, y el esquema y la foto no contienen los datos. |
+| 8 | 5:05–5:40 | Tres ideas; el ciclo gira y vuelve a «Observación». | Resumen: los resultados se comunican en artículos, congresos o informes; la revisión de pares evalúa diseño, datos y conclusiones; y publicar permite replicar y avanzar. Así se cierra el ciclo… y empieza uno nuevo. |
+| 9 | 5:40–6:00 | Tarjetas «Desafío». | Desafío: ¿por qué los revisores piden el número de moscas y la dosis? ¿Y por qué el estudio de 600 personas es más confiable que el del jugo? |

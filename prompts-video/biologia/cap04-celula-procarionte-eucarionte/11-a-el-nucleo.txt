@@ -1,0 +1,44 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 11: a. El núcleo
+Sección: 4. La célula eucarionte: núcleo y ribosomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «El núcleo». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente Envoltura nuclear, Doble membrana, Poros nucleares, Cromatina, histonas, cromosomas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. El núcleo», dentro de la sección «4. La célula eucarionte: núcleo y ribosomas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Envoltura nuclear, Doble membrana, Poros nucleares, Cromatina, histonas, cromosomas.
+
+Ideas guía:
+- El núcleo es el centro de control de la célula: guarda el ADN y regula qué genes se expresan.
+- Dato útil para las preguntas: las células que fabrican muchas proteínas, como las células pancreáticas, los linfocitos activados o las neuronas, suelen tener nucléolos grandes o numerosos, porque necesitan muchos ribosomas.
+- Si una droga destruye el nucléolo, la célula deja de formar ribosomas nuevos y, con el tiempo, disminuye su síntesis de proteínas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Una investigadora quiere probar si el nucléolo es necesario para formar ribosomas. Trata cultivos de células con una droga que desorganiza el nucléolo y deja otros sin tratar. ¿Qué variable debería medir para responder su pregunta?
+A) El número de poros de la envoltura nuclear de cada célula.
+B) La cantidad de ADN que contiene el núcleo de cada célula.
+C) El grosor de la doble membrana que forma la envoltura nuclear.
+D) La cantidad de subunidades ribosomales nuevas en el citoplasma.
+Correcta: D. Por qué: La variable independiente es el tratamiento con la droga. La pregunta se refiere a la formación de ribosomas, así que hay que medir algo directamente ligado a ella: las subunidades ribosomales nuevas que llegan al citoplasma. Si disminuyen en las células tratadas respecto de las control, el nucléolo es necesario.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se comparan tres tipos celulares humanos. Célula acinar pancreática: nucléolos grandes, síntesis de proteínas alta. Linfocito en reposo: nucléolo pequeño, síntesis baja. Linfocito activado: nucléolo grande, síntesis alta. ¿Qué relación se desprende de estos datos?
+A) El tamaño del nucléolo aumenta junto con la síntesis de proteínas.
+B) El tamaño del nucléolo depende solo del tipo de célula y no de su actividad.
+C) La síntesis de proteínas es alta solo en las células de glándulas digestivas.
+D) Los linfocitos tienen nucléolos pequeños porque no fabrican proteínas.
+Correcta: A. Por qué: En los tres casos, nucléolo grande coincide con síntesis alta y nucléolo pequeño con síntesis baja. El caso del linfocito es clave: la misma célula cambia el tamaño de su nucléolo al activarse, así que el tamaño depende de la actividad y no solo del tipo celular. La relación es directa.
+
+Pregunta 3 (Evaluar): Un experimento clásico usa una alga unicelular grande. Si se le quita el núcleo, el alga sobrevive varias semanas, pero no regenera las partes cortadas; si se le trasplanta un núcleo, vuelve a regenerarse. Un estudiante concluye que «el núcleo contiene toda la información de la célula y el citoplasma no cumple función alguna». ¿Qué evaluación de esta conclusión es correcta?
+A) Es válida, porque sin núcleo el alga pierde toda su actividad desde el primer día.
+B) Es válida, porque el trasplante de núcleo muestra que el citoplasma es innecesario.
+C) Excede los datos, pues el alga sin núcleo sobrevive semanas con su citoplasma.
+D) Excede los datos, pues el alga regenera sus partes aun sin tener un núcleo.
+Correcta: C. Por qué: Los datos apoyan que el núcleo es necesario para regenerar. Pero el alga sin núcleo sigue viva semanas, lo que indica que el citoplasma mantiene actividad, probablemente usando ARN mensajeros y ribosomas ya existentes. Por eso, la parte de la conclusión que niega toda función al citoplasma excede la evidencia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

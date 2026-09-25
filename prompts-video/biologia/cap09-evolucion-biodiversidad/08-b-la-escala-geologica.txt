@@ -1,0 +1,43 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 08: b. La escala geológica
+Sección: 3. La historia del planeta y la historia de la vida en 24 horas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «La escala geológica». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente eones, eras, períodos, Hádico, Arcaico, Proterozoico, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. La escala geológica», dentro de la sección «3. La historia del planeta y la historia de la vida en 24 horas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: eones, eras, períodos, Hádico, Arcaico, Proterozoico.
+
+Ideas guía:
+- El tiempo geológico se divide en eones, que se subdividen en eras y estas en períodos.
+- Los límites no son arbitrarios: casi todos coinciden con un cambio brusco en el registro fósil, muchas veces una extinción masiva.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un equipo revisa una columna estratigráfica y observa que, en un nivel determinado, desaparecen de golpe numerosos grupos de fósiles y, poco por encima, aparecen grupos nuevos que antes eran escasos. ¿Qué representa habitualmente un nivel con estas características?
+A) Un cambio en la técnica de muestreo empleada por el equipo de investigación.
+B) Un límite de la escala geológica, asociado a una extinción masiva.
+C) Un tramo de sedimentación especialmente lenta dentro de la columna estudiada.
+D) Un error de correlación entre columnas estratigráficas de localidades distintas.
+Correcta: B. Por qué: El patrón descrito combina dos hechos: desaparición simultánea de muchos grupos y diversificación posterior de otros que estaban poco representados. Eso es justamente lo que ocurre tras una extinción masiva, cuando quedan ambientes disponibles y los linajes sobrevivientes se expanden. Por eso los límites de la escala se sitúan en niveles así.
+
+Pregunta 2 (Observar y plantear preguntas): El eón Fanerozoico, que abarca desde hace 541 millones de años hasta hoy, se subdivide en tres eras, mientras que los eones anteriores, que cubren casi 4000 millones de años, tienen muchas menos subdivisiones. ¿Qué pregunta de investigación plantea esta asimetría?
+A) ¿Por qué el Fanerozoico permite reconocer más divisiones que el eón anterior?
+B) ¿Cuántos minerales distintos se han identificado en las rocas de cada uno de los eones?
+C) ¿Qué temperatura media tenía la superficie terrestre durante cada una de las tres eras?
+D) ¿Cuántos investigadores trabajan actualmente en cada período de la escala geológica?
+Correcta: A. Por qué: La asimetría observada relaciona dos variables: la duración de cada eón y el número de divisiones reconocidas. Como las divisiones se definen por cambios en los fósiles, y el Fanerozoico concentra los organismos con partes duras y de gran tamaño, la pregunta pertinente indaga por qué su registro permite reconocer más divisiones.
+
+Pregunta 3 (Planificar y conducir una investigación): Dos equipos trabajan en afloramientos separados por 400 kilómetros y necesitan saber si dos estratos, uno en cada localidad, se depositaron en el mismo intervalo de tiempo. ¿Qué evidencia permite establecer esa correspondencia?
+A) El espesor de cada estrato, medido con precisión en ambos afloramientos.
+B) El color y la textura del sedimento observados en cada uno de los estratos.
+C) La presencia en ambos estratos de un mismo fósil guía de distribución amplia.
+D) La cantidad de fósiles por metro cuadrado contada en cada uno de los estratos.
+Correcta: C. Por qué: Para afirmar que dos estratos son contemporáneos hace falta un marcador que solo haya existido en un intervalo acotado de tiempo y que a la vez haya estado presente en zonas amplias. Eso es exactamente un fósil guía: si aparece en ambos estratos, ambos se depositaron mientras esa especie existía.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

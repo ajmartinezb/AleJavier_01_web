@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 06: a. Sistema reproductor masculino
+Sección: 3. Los sistemas reproductores
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Sistema reproductor masculino». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Testículos, túbulos seminíferos, células de Leydig, Epidídimo, madurar, Conducto deferente, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Sistema reproductor masculino», dentro de la sección «3. Los sistemas reproductores» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Testículos, túbulos seminíferos, células de Leydig, Epidídimo, madurar, Conducto deferente.
+
+Ideas guía:
+- El semen es la suma de espermatozoides y de los líquidos de las glándulas.
+- Los espermatozoides son apenas un pequeño porcentaje de su volumen.
+- Por qué los testículos están fuera del cuerpo.
+- La espermatogénesis requiere una temperatura de unos 2 a 3 °C bajo la corporal.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Se quiere evaluar si la próstata de un paciente aporta normalmente su secreción al semen. ¿Qué medición es la más pertinente?
+A) Medir el pH del semen y compararlo con el rango de referencia.
+B) Contar el número de espermatozoides móviles presentes en la muestra.
+C) Medir la concentración de testosterona en la sangre del paciente.
+D) Determinar el volumen de orina emitido durante las 24 horas.
+Correcta: A. Por qué: Como el aporte prostático se caracteriza por su alcalinidad, el pH del semen es el indicador directo de esa función. El recuento espermático evalúa la producción testicular, la testosterona evalúa la función endocrina y el volumen urinario no se relaciona con el semen.
+
+Pregunta 2 (Procesar y analizar la evidencia): Tras una enfermedad con fiebre alta y prolongada, una persona presenta una disminución transitoria del número de espermatozoides. ¿Cuál es la explicación más probable?
+A) La fiebre destruyó de forma permanente los túbulos seminíferos.
+B) La fiebre interrumpió la producción de testosterona en el testículo.
+C) La espermatogénesis requiere una temperatura menor que la corporal.
+D) Los espermatozoides almacenados en el epidídimo se multiplicaron menos.
+Correcta: C. Por qué: Una fiebre elevada y prolongada aumenta la temperatura testicular y compromete la producción durante un tiempo. Como el ciclo completo de espermatogénesis dura unos 70 días, el efecto se nota semanas después y luego se recupera. Nada indica una destrucción permanente ni una falla hormonal.
+
+Pregunta 3 (Evaluar): Se afirma que «el semen está compuesto casi por completo de espermatozoides». ¿Cuál es la precisión necesaria?
+A) Es correcta: los espermatozoides representan la mayor parte del volumen.
+B) Es incorrecta: la mayor parte del volumen la aportan las glándulas.
+C) Es incorrecta, porque el semen no contiene espermatozoides en ningún caso.
+D) Es correcta, porque las glándulas accesorias solo aportan enzimas.
+Correcta: B. Por qué: La mayor parte del volumen corresponde al plasma seminal, que aporta fructosa, alcalinidad y el medio en que los espermatozoides se desplazan. Eso explica, además, por qué tras una vasectomía la eyaculación continúa con volumen normal aunque no haya espermatozoides.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

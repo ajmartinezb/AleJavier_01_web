@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 21: c. Prevención y tratamiento
+Sección: 6. Importancia de la mitosis: crecimiento, reparación y cáncer
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Prevención y tratamiento». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente Prevención, Tratamiento, radioterapia, quimioterapia, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Prevención y tratamiento», dentro de la sección «6. Importancia de la mitosis: crecimiento, reparación y cáncer» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Prevención, Tratamiento, radioterapia, quimioterapia.
+
+Ideas guía:
+- Prevención: evitar el tabaco, protegerse del sol, vacunarse contra el VPH y la hepatitis B, mantener una dieta saludable y hacer los exámenes preventivos, como el Papanicolaou o la mamografía, que detectan lesiones tempranas.
+- Tratamiento: cirugía; radioterapia, que daña el ADN de las células en división; quimioterapia, con fármacos que atacan la replicación o el huso mitótico (sección 4.b); y terapias dirigidas, que bloquean proteínas específicas de las células tumorales.
+- Como la quimioterapia actúa sobre las células que se dividen rápido, también afecta a los tejidos sanos de renovación rápida.
+- Eso explica sus efectos adversos: caída del pelo, anemia y lesiones en la mucosa digestiva.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un laboratorio quiere evaluar si un nuevo fármaco antitumoral afecta más a las células tumorales que a las sanas de renovación rápida. ¿Qué diseño es el adecuado?
+A) Aplicar el fármaco solo a células tumorales y medir cuántas mueren a las 48 h.
+B) Aplicar el fármaco a células tumorales y a células de médula ósea, y comparar la muerte.
+C) Aplicar el fármaco a células de médula ósea y medir su tamaño a las 48 h de exposición.
+D) Aplicar dosis distintas a células tumorales y medir cuántas mueren a las 48 h de tratamiento.
+Correcta: B. Por qué: La pregunta compara el efecto en dos tipos de células, así que ambos deben recibir el fármaco en las mismas condiciones. La médula ósea es un buen ejemplo de tejido sano de renovación rápida. Luego se compara la proporción de células muertas. Trabajar con un solo tipo celular, aunque sea con varias dosis, no permite responder la pregunta, y el tamaño no mide el efecto antitumoral.
+
+Pregunta 2 (Evaluar): Un paciente en quimioterapia con un fármaco que bloquea la formación del huso mitótico presenta caída del cabello y lesiones en la boca. Su familiar concluye: «El fármaco ataca por error solo al cabello y a la boca». ¿Qué evaluación de esta conclusión es correcta?
+A) Es correcta, porque esos tejidos tienen un huso distinto al de las células tumorales.
+B) Es correcta, porque el fármaco se acumula de forma selectiva en la piel y la mucosa.
+C) Es incorrecta, porque afecta a todo tejido que se divide rápido y esos son ejemplos.
+D) Es incorrecta, porque la caída del cabello se debe al tumor y no al tratamiento.
+Correcta: C. Por qué: Un fármaco que bloquea el huso impide la mitosis en cualquier célula que intente dividirse. Los folículos pilosos y la mucosa bucal se renuevan rápido, así que son de los primeros en mostrar efectos, pero no son los únicos: la médula ósea también se afecta, lo que produce anemia. La conclusión restringe el efecto a lo visible, cuando el blanco real es la división celular.
+
+Pregunta 3 (Procesar y analizar la evidencia): Un estudio registra la tasa de cáncer cervicouterino en dos grupos de mujeres de 25 a 30 años, iguales en edad y otros factores: vacunadas contra el VPH en la adolescencia, 2 lesiones precancerosas por cada 10 000; no vacunadas, 12 por cada 10 000. ¿Qué conclusión se desprende de estos datos?
+A) La vacuna cura las lesiones precancerosas ya formadas en el cuello uterino.
+B) La vacuna elimina por completo el riesgo de desarrollar este tipo de cáncer.
+C) El VPH solo causa lesiones en mujeres que tienen más de treinta años de edad.
+D) Las vacunadas presentaron seis veces menos lesiones que las no vacunadas.
+Correcta: D. Por qué: Las vacunadas tienen 2 lesiones por cada 10 000 y las no vacunadas, 12. Al dividir, 12 / 2 = 6: las vacunadas presentaron seis veces menos lesiones. Pero aún hubo 2 casos, así que el riesgo no desaparece. La vacuna se aplicó antes de las lesiones, así que los datos no dicen nada sobre curarlas, y todas las mujeres tenían entre 25 y 30 años.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

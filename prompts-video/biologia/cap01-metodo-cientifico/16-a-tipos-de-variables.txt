@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 16: a. Tipos de variables
+Sección: 4. Diseño experimental: variables y grupos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Tipos de variables». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente Independiente, Dependiente, Controladas, se varía entre grupos, igual, eje X, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Tipos de variables», dentro de la sección «4. Diseño experimental: variables y grupos» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Independiente, Dependiente, Controladas, se varía entre grupos, igual, eje X.
+
+Ideas guía:
+- Cómo encontrar las variables en un enunciado PAES.
+- Busca lo que se varía entre grupos («se agregaron distintas concentraciones…», «a diferentes temperaturas…»): esa es la independiente.
+- Busca lo que se registra o mide al final («se midió…», «se registró…», «se cuantificó…»): esa es la dependiente.
+- Todo lo que el enunciado dice que es igual en los grupos («la misma cantidad de agua», «plantas de la misma especie») son variables controladas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un investigador estudia el efecto de la cafeína sobre el tiempo de reacción en personas adultas. Tres grupos de voluntarios del mismo rango de edad, que durmieron las mismas horas, beben 250 mL de una bebida con 0, 80 o 160 mg de cafeína. Treinta minutos después, cada persona presiona un botón al ver una luz y se registra su tiempo de respuesta. ¿Cuál es la variable dependiente?
+A) El tiempo de reacción al presionar el botón.
+B) La dosis de cafeína contenida en cada bebida.
+C) El volumen de bebida que consume cada voluntario.
+D) Las horas de sueño previas de los voluntarios.
+Correcta: A. Por qué: Paso 1: lo que varía entre grupos por decisión del investigador es la cafeína (0, 80 y 160 mg): independiente. Paso 2: el volumen (250 mL), la edad y el sueño son iguales en todos: controladas. Paso 3: lo que se registra al final es el tiempo de respuesta. Esa es la variable dependiente.
+
+Pregunta 2 (Planificar y conducir una investigación): Una ecóloga quiere saber si la intensidad de luz influye en la tasa de fotosíntesis de la planta acuática Elodea. Coloca ramitas en tubos con agua y las ilumina con lámparas a distintas distancias; luego cuenta las burbujas de oxígeno liberadas por minuto. ¿Cuál de las siguientes variables debe mantener constante en todos los tubos?
+A) La distancia entre la lámpara y el tubo.
+B) La temperatura del agua de los tubos.
+C) El número de burbujas producidas.
+D) La intensidad de luz que recibe la planta.
+Correcta: B. Por qué: Paso 1: la luz se modifica cambiando la distancia a la lámpara; eso es la variable independiente. Paso 2: las burbujas por minuto son la respuesta medida. Paso 3: la temperatura también acelera o frena la fotosíntesis, así que si varía entre tubos confundiría el resultado. Debe quedar constante.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se midió la actividad de la enzima catalasa, que descompone agua oxigenada, a distintos valores de pH. Los resultados, en mL de oxígeno liberados por minuto, fueron: pH 4 → 2 mL; pH 5 → 6 mL; pH 7 → 14 mL; pH 9 → 7 mL; pH 11 → 1 mL. ¿Qué relación entre las variables muestran estos datos?
+A) La actividad aumenta de forma continua al subir el pH.
+B) La actividad disminuye de forma continua al subir el pH.
+C) La actividad no cambia de manera apreciable con el pH.
+D) La actividad sube hasta pH 7 y luego vuelve a bajar.
+Correcta: D. Por qué: Paso 1: de pH 4 a pH 7 el oxígeno sube de 2 a 14 mL. Paso 2: de pH 7 a pH 11 baja de 14 a 1 mL. Paso 3: la curva tiene un máximo en pH 7, que es el pH óptimo de la enzima en este ensayo. La relación no es siempre creciente ni siempre decreciente.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

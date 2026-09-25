@@ -1,0 +1,44 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 24: a. Los niveles tróficos
+Sección: 8. Flujo de energía: niveles tróficos, cadenas, tramas y pirámides
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Los niveles tróficos». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente nivel trófico, Productores, Consumidores primarios, Consumidores secundarios, Consumidores terciarios, Descomponedores, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Los niveles tróficos», dentro de la sección «8. Flujo de energía: niveles tróficos, cadenas, tramas y pirámides» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: nivel trófico, Productores, Consumidores primarios, Consumidores secundarios, Consumidores terciarios, Descomponedores.
+
+Ideas guía:
+- Un nivel trófico es la posición que ocupa un organismo según de dónde obtiene su materia y su energía.
+- Los descomponedores merecen un párrafo aparte: sin ellos la materia quedaría atrapada en los cuerpos muertos y el ciclo se detendría.
+- Son los que devuelven el carbono, el nitrógeno y el fósforo al ambiente para que los productores puedan volver a usarlos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un hongo del suelo degrada hojas caídas, restos de insectos muertos y excrementos de aves. ¿Qué nivel trófico ocupa?
+A) Productor, porque incorpora materia al suelo del ecosistema.
+B) Consumidor primario, porque se alimenta de material vegetal.
+C) Descomponedor, porque degrada materia orgánica muerta de todos los niveles.
+D) Consumidor terciario, porque aprovecha restos de varios niveles.
+Correcta: C. Por qué: Lo decisivo no es de qué organismo provenía el material, sino que ya estaba muerto o eliminado. Como el hongo aprovecha restos vegetales, animales y excrementos por igual, no se ubica en un eslabón concreto de la cadena: ocupa el papel transversal de descomponedor.
+
+Pregunta 2 (Evaluar): Se afirma que «los descomponedores son prescindibles, porque un ecosistema puede funcionar solo con productores y consumidores». ¿Cuál es la objeción mejor fundamentada?
+A) Es incorrecta: sin ellos la materia queda atrapada y el ciclo se frena.
+B) Es correcta, porque los consumidores ya devuelven al suelo toda la materia.
+C) Es incorrecta, porque los descomponedores son quienes fijan el carbono del aire.
+D) Es incorrecta, porque los descomponedores devuelven energía a los productores.
+Correcta: A. Por qué: Sin ellos, el carbono, el nitrógeno y el fósforo quedarían inmovilizados en cuerpos muertos y en excrementos, y los productores agotarían los nutrientes disponibles. El ciclo de la materia se cerraría solo en apariencia. Lo que los descomponedores no devuelven es energía, que ya se degradó como calor.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante observa que un mismo animal aparece en una trama trófica comiendo frutos y también comiendo insectos. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuántos gramos de fruto consume ese animal en una sola comida?
+B) ¿Cómo se asigna un nivel a un animal que come en varios niveles?
+C) ¿Qué nombre científico corresponde exactamente a ese animal observado?
+D) ¿En qué estación del año se dibujó por primera vez esa trama trófica?
+Correcta: B. Por qué: Lo llamativo es que el animal no encaja en un solo eslabón: comiendo frutos actúa como consumidor primario y comiendo insectos, como secundario. La pregunta pertinente aborda justamente ese problema de clasificación. Las demás piden datos de consumo, nomenclatura o historia del diagrama.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

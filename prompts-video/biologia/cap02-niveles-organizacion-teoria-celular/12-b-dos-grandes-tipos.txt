@@ -1,0 +1,42 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 12: b. Dos grandes tipos
+Sección: 5. Unidad y diversidad celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Dos grandes tipos». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente Procarionte, Eucarionte, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Dos grandes tipos», dentro de la sección «5. Unidad y diversidad celular» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Procarionte, Eucarionte.
+
+Ideas guía:
+- El capítulo 4 desarrolla esta comparación en detalle; aquí basta con el criterio que las separa: la presencia o ausencia de un núcleo delimitado por membrana.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una muestra contiene células de tres micrómetros, con ADN circular sin envoltura y sin organelos membranosos, que se dividen cada cuarenta minutos. ¿Cómo se clasifican esas células?
+A) Como eucariontes, porque se dividen con mucha rapidez, cada cuarenta minutos.
+B) Como eucariontes, porque su tamaño supera con holgura un solo micrómetro.
+C) Como procariontes, porque su ADN no está delimitado por una envoltura.
+D) Como procariontes, porque se encuentran en una muestra ambiental de agua.
+Correcta: C. Por qué: El dato decisivo es «ADN circular sin envoltura» junto con la ausencia de organelos membranosos, y ambos apuntan a un procarionte. La velocidad de división y el tamaño no son criterios válidos, porque hay eucariontes pequeños y de división rápida, como las levaduras. El origen ambiental de la muestra tampoco clasifica nada: en el ambiente hay células de los dos tipos.
+
+Pregunta 2 (Planificar y conducir una investigación): Se dispone de un microscopio óptico con tinción para ADN y de un microscopio electrónico. Para decidir si unas células poseen organelos membranosos internos, ¿qué instrumento y qué observación corresponden?
+A) El microscopio óptico, observando el color que adquiere el citoplasma.
+B) El microscopio electrónico, observando la presencia de compartimentos rodeados de membrana.
+C) El microscopio óptico, midiendo el diámetro celular con precisión.
+D) El microscopio electrónico, contando el número total de células de la muestra.
+Correcta: B. Por qué: La observación adecuada es, además, la presencia de compartimentos delimitados por membrana, que es exactamente lo que define un organelo membranoso. El color del citoplasma depende del colorante empleado y no informa sobre compartimentos, el diámetro no resuelve la pregunta y contar células es una medición ajena al objetivo.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se comparan una bacteria y una célula vegetal. Ambas poseen pared celular. ¿Qué permite concluir esa coincidencia?
+A) Que ambas células pertenecen a un mismo grupo celular, el de los organismos procariontes.
+B) Que la célula vegetal carece, como la bacteria, de envoltura nuclear.
+C) Que ambas células tienen el mismo tamaño y la misma forma.
+D) Que la pared celular no sirve como criterio para separar procariontes de eucariontes.
+Correcta: D. Por qué: Un rasgo presente en los dos grupos no puede usarse para distinguirlos, y ese es exactamente el punto que la comparación deja en evidencia. Concluir que la célula vegetal es procarionte, o que carece de envoltura nuclear, contradice todo lo que se sabe de las células de las plantas, que son eucariontes típicos. El tamaño y la forma, por su parte, difieren claramente entre una bacteria de pocos micrómetros y una célula vegetal diez veces mayor.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

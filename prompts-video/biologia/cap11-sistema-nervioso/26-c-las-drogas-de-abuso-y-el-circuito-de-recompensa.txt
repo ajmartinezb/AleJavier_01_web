@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 26: c. Las drogas de abuso y el circuito de recompensa
+Sección: 7. Efectos del café, el alcohol y las drogas de abuso
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Las drogas de abuso y el circuito de recompensa». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente aumentan la dopamina, Nicotina, Cocaína, Cannabis, Opioides, Alcohol, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Las drogas de abuso y el circuito de recompensa», dentro de la sección «7. Efectos del café, el alcohol y las drogas de abuso» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: aumentan la dopamina, Nicotina, Cocaína, Cannabis, Opioides, Alcohol.
+
+Ideas guía:
+- Casi todas las drogas con potencial de abuso tienen un punto en común: aumentan la dopamina en el circuito de recompensa, un conjunto de estructuras que normalmente se activa con conductas necesarias para la supervivencia, como comer o relacionarse con otros.
+- El mecanismo de la adicción, en tres pasos.
+- (1) La droga produce una liberación de dopamina mucho mayor que cualquier estímulo natural.
+- (2) El cerebro compensa reduciendo sus receptores: aparece la tolerancia, y se necesita más dosis para el mismo efecto.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Varias drogas de abuso, de estructura química muy distinta, comparten un efecto: aumentan la dopamina en el circuito de recompensa. ¿Qué permite concluir esa coincidencia?
+A) Que todas esas drogas tienen exactamente el mismo mecanismo molecular de acción.
+B) Que la dopamina es el único neurotransmisor del sistema nervioso central.
+C) Que esas drogas no producen ningún otro efecto sobre el organismo.
+D) Que el potencial adictivo se asocia al aumento de dopamina en ese circuito.
+Correcta: D. Por qué: La coincidencia está en el efecto final sobre la dopamina, no en el mecanismo: unas bloquean su recaptación, otras aumentan su liberación y otras actúan indirectamente. Lo que la convergencia permite concluir es que ese aumento de dopamina es el rasgo asociado al potencial adictivo compartido.
+
+Pregunta 2 (Evaluar): Se afirma que «la adicción es solo una falta de voluntad de la persona». ¿Cuál es la objeción mejor fundamentada desde la biología?
+A) Es correcta, porque el consumo de drogas es siempre una decisión libre y consciente.
+B) Es incorrecta: el consumo repetido modifica el circuito y reduce el control.
+C) Es incorrecta, porque las drogas no producen ningún cambio en el sistema nervioso.
+D) Es incorrecta, porque la adicción se hereda por completo a través de los genes.
+Correcta: B. Por qué: La objeción con base biológica muestra que la conducta cambia porque el sistema que la regula ha cambiado. Al reajustarse el circuito, lo que antes producía placer deja de hacerlo y aumenta la búsqueda compulsiva, mientras el control prefrontal se debilita. Eso no elimina la responsabilidad, pero explica por qué la sola voluntad suele no bastar.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere estudiar si el consumo de una sustancia durante la adolescencia se asocia a un mayor riesgo de dependencia en la adultez. ¿Qué diseño resulta más apropiado?
+A) Seguir por años a adolescentes con y sin consumo y registrar el desenlace.
+B) Entrevistar a personas con dependencia y preguntarles a qué edad empezaron a consumir.
+C) Comparar la cantidad de sustancia consumida en un solo día por adultos y adolescentes.
+D) Medir la concentración de dopamina en el encéfalo de un adulto con dependencia.
+Correcta: A. Por qué: La pregunta compara el riesgo futuro de quienes consumen y de quienes no, así que exige un seguimiento en el tiempo de ambos grupos desde antes del desenlace. Preguntar solo a quienes ya tienen dependencia deja fuera a todo el grupo de comparación, y las otras opciones miden variables que no responden la pregunta.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

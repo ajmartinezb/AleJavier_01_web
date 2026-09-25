@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 35: a. Enterocito: especialista en absorber
+Sección: 10. Relación entre estructura y función: cuatro tipos celulares
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Enterocito: especialista en absorber». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente vellosidades del intestino delgado, absorber los nutrientes, Microvellosidades, Aumentan enormemente la superficie, Enzimas en la membrana, Proteínas transportadoras, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Enterocito: especialista en absorber», dentro de la sección «10. Relación entre estructura y función: cuatro tipos celulares» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: vellosidades del intestino delgado, absorber los nutrientes, Microvellosidades, Aumentan enormemente la superficie, Enzimas en la membrana, Proteínas transportadoras.
+
+Ideas guía:
+- Los enterocitos son las células que recubren las vellosidades del intestino delgado.
+- Su función es absorber los nutrientes ya digeridos y pasarlos a la sangre.
+- Dato conectado: la intolerancia a la lactosa se produce cuando los enterocitos del adulto fabrican poca lactasa, la enzima del borde en cepillo que digiere el azúcar de la leche.
+- La lactosa no digerida llega al intestino grueso, donde la fermentan las bacterias.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un equipo quiere probar la hipótesis de que la absorción de glucosa por enterocitos cultivados depende del ATP que producen sus mitocondrias. Dispone de un inhibidor específico de la respiración mitocondrial. ¿Qué diseño permite someter a prueba esta hipótesis?
+A) Medir la glucosa absorbida por enterocitos tratados, sin grupo sin tratar.
+B) Comparar la glucosa absorbida por enterocitos y por neuronas tratadas.
+C) Aplicar el inhibidor a todos los cultivos y medir su contenido de ATP.
+D) Comparar la glucosa absorbida por enterocitos con y sin el inhibidor.
+Correcta: D. Por qué: La hipótesis relaciona dos variables: la actividad mitocondrial (independiente) y la absorción de glucosa (dependiente). Para ponerla a prueba hay que manipular la primera, con y sin inhibidor, en el mismo tipo celular, y medir la segunda. El grupo sin inhibidor funciona como control. Si la absorción cae solo en el grupo tratado, se apoya la hipótesis.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se midió la superficie de absorción de un segmento de intestino delgado en tres etapas de un modelo: 1) tubo liso: 1 unidad; 2) con pliegues y vellosidades: 30 unidades; 3) con pliegues, vellosidades y microvellosidades: 600 unidades. Un tratamiento experimental destruye los microfilamentos de actina de los enterocitos. Según los datos, ¿qué superficie se esperaría tras el tratamiento?
+A) Cerca de 1 unidad
+B) Cerca de 30 unidades
+C) Cerca de 300 unidades
+D) Cerca de 600 unidades
+Correcta: B. Por qué: El tratamiento destruye los microfilamentos de actina, que son el soporte de las microvellosidades; por lo tanto, estas se pierden. Los pliegues y las vellosidades son estructuras del tejido, formadas por muchas células, y no dependen de ese esqueleto interno. El intestino quedaría en la etapa 2 del modelo, es decir, con una superficie cercana a 30 unidades.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante observa al microscopio electrónico que los enterocitos poseen transportadores de glucosa distintos en su cara apical (hacia el intestino) y en su cara basal (hacia la sangre). ¿Qué pregunta de investigación surge directamente de esta observación?
+A) ¿Cumplen funciones distintas los transportadores de cada cara?
+B) ¿Cuántas vellosidades tiene el intestino delgado de un ser humano adulto?
+C) ¿Qué enzimas digieren el almidón en la boca antes de llegar al intestino?
+D) ¿Por qué el intestino grueso absorbe más agua que el intestino delgado?
+Correcta: A. Por qué: La observación destaca una diferencia entre dos regiones de la misma célula: transportadores distintos arriba y abajo. Una pregunta que surge directamente de ella debe buscar explicar esa diferencia, por ejemplo, si cada tipo cumple una función propia. Las otras preguntas tratan temas de digestión válidos, pero no se desprenden de lo que se vio.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

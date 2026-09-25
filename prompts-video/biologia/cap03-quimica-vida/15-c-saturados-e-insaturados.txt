@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 15: c. Saturados e insaturados
+Sección: 5. Lípidos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Saturados e insaturados». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente saturado, insaturado, fluidez, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Saturados e insaturados», dentro de la sección «5. Lípidos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: saturado, insaturado, fluidez.
+
+Ideas guía:
+- Un ácido graso saturado no tiene dobles enlaces entre sus carbonos: la cadena es recta y las moléculas se empaquetan bien, de modo que el lípido es sólido a temperatura ambiente.
+- Uno insaturado tiene uno o más dobles enlaces que doblan la cadena, impiden el empaquetamiento y lo mantienen líquido.
+- La proporción de ácidos grasos insaturados determina la fluidez de la membrana.
+- Los organismos que viven en ambientes fríos tienen más insaturados, porque de lo contrario su membrana se solidificaría.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se comparan dos aceites: uno permanece líquido a 5 °C y el otro solidifica a esa temperatura. ¿Qué diferencia explica mejor ese comportamiento?
+A) El que permanece líquido tiene mayor proporción de ácidos grasos insaturados.
+B) El que permanece líquido tiene cadenas de carbono bastante más largas que el otro.
+C) El que solidifica contiene mucha más agua atrapada entre sus propias moléculas.
+D) El que solidifica está formado por proteínas en lugar de lípidos.
+Correcta: A. Por qué: Una cadena saturada, en cambio, es recta y las moléculas se apilan bien, de modo que el conjunto solidifica. Cadenas más largas favorecen la solidificación en lugar de impedirla, el agua atrapada no explica el punto de fusión de un aceite y ambos materiales son lípidos, no proteínas.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere poner a prueba la hipótesis de que los organismos de aguas frías tienen membranas con más ácidos grasos insaturados. ¿Qué diseño resulta más adecuado?
+A) Analizar la composición de ácidos grasos de una sola especie de aguas frías.
+B) Analizar la composición de ácidos grasos de especies emparentadas de aguas frías y templadas.
+C) Medir la temperatura del agua en dos zonas marinas distintas durante un año completo y seguido.
+D) Comparar el tamaño corporal de especies de aguas frías y de aguas templadas.
+Correcta: B. Por qué: Comparar especies emparentadas controla en buena medida las diferencias evolutivas y deja variar sobre todo la temperatura del hábitat. Analizar una sola especie no permite comparación, medir solo la temperatura deja fuera la variable de composición y el tamaño corporal es una variable ajena a la hipótesis.
+
+Pregunta 3 (Evaluar): Se afirma que un aceite vegetal es «más saludable» que una grasa animal porque es líquido a temperatura ambiente. ¿Cuál es la principal limitación de ese razonamiento?
+A) El estado físico de un lípido no guarda ninguna relación con la composición química que presenta la molécula.
+B) Los aceites vegetales no contienen ácidos grasos en su composición.
+C) El estado físico es solo un indicio del grado de insaturación, no una medida de efecto sobre la salud.
+D) Las grasas animales carecen por completo de ácidos grasos saturados.
+Correcta: C. Por qué: Ese vínculo es real, pero conectar la insaturación con un efecto sobre la salud exige evidencia adicional de estudios en personas: el estado físico por sí solo no la aporta. Las otras alternativas afirman hechos falsos, porque los aceites vegetales sí contienen ácidos grasos y las grasas animales sí contienen saturados.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

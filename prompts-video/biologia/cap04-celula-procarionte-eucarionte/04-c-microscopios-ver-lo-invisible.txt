@@ -1,0 +1,43 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 04: c. Microscopios: ver lo invisible
+Sección: 2. La teoría celular y cómo se estudian las células
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Microscopios: ver lo invisible». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente transmisión, barrido, resolución, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Microscopios: ver lo invisible», dentro de la sección «2. La teoría celular y cómo se estudian las células» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: transmisión, barrido, resolución.
+
+Ideas guía:
+- La resolución es la distancia mínima a la que dos puntos se distinguen como separados.
+- No es lo mismo que el aumento: ampliar una imagen borrosa no revela más detalles.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un investigador quiere seguir, minuto a minuto, cómo se desplazan las mitocondrias dentro de neuronas vivas en cultivo. ¿Qué técnica es la más adecuada?
+A) Microscopía electrónica de transmisión de cortes finos.
+B) Microscopía electrónica de barrido tras deshidratar.
+C) Microscopía de fluorescencia y marcador mitocondrial.
+D) Microscopía óptica de células fijadas y teñidas con colorante.
+Correcta: C. Por qué: El objetivo tiene dos exigencias: células vivas y seguimiento en el tiempo. Ambos electrónicos quedan descartados porque matan la muestra. Un óptico con células fijadas también la mata. La fluorescencia, con un colorante que se acumula en mitocondrias, permite ver su posición en células vivas durante minutos.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se observan dos puntos separados por 50 nm. Con un microscopio óptico a 1000 aumentos se ve una sola mancha; al ampliar la fotografía cuatro veces, sigue viéndose una sola mancha. Con un microscopio electrónico se distinguen dos puntos. ¿Qué conclusión explica estos resultados?
+A) La imagen del óptico no se amplió lo suficiente.
+B) La distancia es menor que la resolución del óptico.
+C) Los puntos se separaron durante la preparación.
+D) El microscopio electrónico aumentó el tamaño real.
+Correcta: B. Por qué: Paso 1: 50 nm es menor que 200 nm, así que el óptico no puede separar los puntos. Paso 2: ampliar la foto solo agranda la mancha borrosa; no agrega información. Paso 3: el electrónico resuelve menos de 1 nm, por eso distingue ambos puntos. La explicación es la resolución, no el aumento.
+
+Pregunta 3 (Evaluar): Un estudiante tiñe epidermis de cebolla y la observa al microscopio óptico. No ve ribosomas y concluye: «las células de cebolla no tienen ribosomas». ¿Qué evaluación de esta conclusión es correcta?
+A) No es válida, porque los ribosomas están bajo el límite de resolución.
+B) Es válida, porque una tinción adecuada revela todos los organelos celulares.
+C) Es válida, porque las células vegetales no fabrican proteínas.
+D) No es válida, porque debió usar un mayor tiempo de tinción.
+Correcta: A. Por qué: Los ribosomas miden unos 25 nm, ocho veces menos que el límite del óptico. Por eso es imposible verlos con él, existan o no. No verlos no demuestra que falten; la conclusión confunde una limitación del instrumento con una propiedad de la célula.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

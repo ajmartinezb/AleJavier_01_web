@@ -1,0 +1,39 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 17: d. Algunos neurotransmisores
+Sección: 5. La sinapsis química
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Algunos neurotransmisores». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Acetilcolina, Dopamina, Serotonina, GABA, inhibitorio, Glutamato, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Algunos neurotransmisores», dentro de la sección «5. La sinapsis química» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Acetilcolina, Dopamina, Serotonina, GABA, inhibitorio, Glutamato.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una unión entre un nervio motor y un músculo esquelético se bloquea con un fármaco la enzima que degrada el neurotransmisor. ¿Qué se observa en el músculo?
+A) El músculo deja de recibir señal y se relaja de inmediato.
+B) El nervio motor deja de generar potenciales de acción en su axón.
+C) El músculo se contrae con menor fuerza que en condiciones normales.
+D) El neurotransmisor permanece más tiempo activo y la estimulación se prolonga.
+Correcta: D. Por qué: Si la enzima no actúa, el neurotransmisor no se retira y sigue uniéndose a los receptores del músculo. La consecuencia es una estimulación prolongada, con contracción sostenida, y no una relajación. El bloqueo ocurre en el espacio sináptico, de modo que el axón presináptico continúa generando sus potenciales de acción normalmente.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere identificar cuál es el neurotransmisor que actúa en una sinapsis recién descrita. ¿Cuál es la estrategia experimental más adecuada?
+A) Medir el ancho del espacio sináptico con microscopía electrónica de alta resolución.
+B) Contar el número de vesículas presentes en el terminal presináptico de la sinapsis.
+C) Aplicar varios neurotransmisores candidatos y ver cuál reproduce la respuesta.
+D) Registrar la velocidad de conducción del axón que llega a esa sinapsis.
+Correcta: C. Por qué: Aplicar los candidatos uno por uno y observar cuál produce la misma respuesta identifica al mensajero por su efecto, y conviene completarlo comprobando que un antagonista de ese receptor la bloquee. Medir el espacio sináptico, contar vesículas o registrar velocidades describe la estructura y la vía, pero no identifica la molécula.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante nota que el mismo neurotransmisor aparece mencionado tanto en el control del movimiento como en la sensación de placer. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cómo puede una misma molécula participar en circuitos con funciones tan distintas?
+B) ¿Cuántas letras tiene el nombre químico completo de ese neurotransmisor?
+C) ¿Quién fue la primera persona que describió esa molécula en un artículo?
+D) ¿Cuál es el precio de un medicamento que contiene esa molécula?
+Correcta: A. Por qué: La observación plantea una tensión real: una sola molécula asociada a funciones muy diferentes. La pregunta que corresponde es cómo se explica esa versatilidad, cuya respuesta está en los distintos circuitos y receptores. Las otras opciones piden datos lexicográficos, históricos o económicos, ajenos al problema biológico.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

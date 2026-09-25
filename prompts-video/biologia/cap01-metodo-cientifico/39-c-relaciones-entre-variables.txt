@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 39: c. Relaciones entre variables
+Sección: 8. Tablas y gráficos: procesar, analizar y comunicar evidencia
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Relaciones entre variables». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente Directa, Inversa, Sin relación, Con un óptimo, Con meseta (saturación), Proporcionalidad, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Relaciones entre variables», dentro de la sección «8. Tablas y gráficos: procesar, analizar y comunicar evidencia» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Directa, Inversa, Sin relación, Con un óptimo, Con meseta (saturación), Proporcionalidad.
+
+Ideas guía:
+- Formas típicas de la relación entre una variable independiente (X) y una dependiente (Y).
+- Por ejemplo, la tasa de fotosíntesis cuando aumenta la luz, hasta cierto punto.
+- Por ejemplo, las burbujas de O2 al aumentar la distancia a la lámpara.
+- Con un óptimo: Y aumenta hasta un valor máximo y luego disminuye.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se midió la tasa de fotosíntesis de una planta a distintas intensidades de luz, con temperatura y CO₂ constantes. Intensidad de luz (µmol/m²·s) / tasa de fotosíntesis (µmol CO₂/m²·s): 0 → 0; 200 → 10; 400 → 20; 600 → 26; 800 → 28; 1000 → 28. ¿Qué tipo de relación muestran estos datos?
+A) Directamente proporcional en todo el rango medido.
+B) Directa al comienzo y luego con una meseta.
+C) Con un óptimo, pues decae a luz muy intensa.
+D) Inversa, pues la tasa cae al aumentar la luz.
+Correcta: B. Por qué: Entre 0 y 400 la tasa se duplica cuando la luz se duplica (10 → 20): tramo directo y proporcional. De 400 a 600 sube solo 6 unidades, y de 600 a 800 apenas 2. Entre 800 y 1000 no cambia (28 → 28). No hay caída, así que no hay óptimo: la curva sube y se aplana. Con temperatura y CO₂ fijos, uno de ellos pasa a limitar la fotosíntesis.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un ensayo se midió cuánto tarda una solución en decolorarse según la cantidad de enzima agregada, con igual sustrato y temperatura. Enzima (unidades) / tiempo (s): 1 → 120; 2 → 60; 4 → 30; 8 → 15. Si la relación se mantiene, ¿cuánto tiempo debería tardar la decoloración con 3 unidades de enzima?
+A) 60 s
+B) 45 s
+C) 40 s
+D) 20 s
+Correcta: C. Por qué: Se comprueba el patrón: 1 · 120 = 120; 2 · 60 = 120; 4 · 30 = 120; 8 · 15 = 120. El producto es constante, así que la relación es inversamente proporcional. Para 3 unidades: tiempo = 120 ÷ 3 = 40 s. El valor queda dentro del rango medido (entre 1 y 8 unidades), así que se trata de una interpolación razonable.
+
+Pregunta 3 (Observar y plantear preguntas): Un grupo de estudiantes midió la actividad de una enzima digestiva a 37 °C y distintos valores de pH. Los datos muestran que la actividad aumenta desde pH 5 hasta un máximo en pH 8 y luego disminuye hasta pH 11. A partir de esta observación, ¿cuál es una pregunta que puede responderse con una nueva investigación experimental?
+A) ¿Es esta enzima importante para el organismo?
+B) ¿Por qué las enzimas están formadas por proteínas?
+C) ¿Cuál es el pH más adecuado para la vida en general?
+D) ¿Cambia el pH óptimo de esta enzima con la temperatura?
+Correcta: D. Por qué: La observación entrega un óptimo en pH 8, medido solo a 37 °C. Una pregunta investigable debe tener variables concretas: la alternativa D propone variar la temperatura (independiente) y medir el pH de máxima actividad (dependiente), repitiendo el mismo procedimiento. Las demás son demasiado amplias, valorativas o no se relacionan con un diseño que las pueda poner a prueba.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

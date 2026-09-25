@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 09: b. La cantidad de ADN a lo largo del ciclo
+Sección: 3. El ciclo celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «La cantidad de ADN a lo largo del ciclo». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente 2c, fase S, dos veces, meiosis, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. La cantidad de ADN a lo largo del ciclo», dentro de la sección «3. El ciclo celular» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 2c, fase S, dos veces, meiosis.
+
+Ideas guía:
+- Se suele llamar c a la cantidad de ADN de un juego de cromosomas sin replicar.
+- Cantidad de ADN por célula a lo largo de un ciclo celular.
+- Gráficos de ADN en la PAES: el tramo en que el ADN sube de 2c a 4c es la fase S.
+- El tramo en que baja de 4c a 2c corresponde al final de la división, cuando el material se reparte entre dos células.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se mide la cantidad de ADN por núcleo en cuatro células, marcadas con colores, de un mismo tejido de un mamífero diploide cuyo valor c es 3 pg: roja, 6 pg; azul, 9 pg; verde, 12 pg con cromosomas no visibles; amarilla, 12 pg con cromosomas condensados. ¿Qué células están en G2 y en mitosis, respectivamente?
+A) La azul y la amarilla.
+B) La roja y la verde.
+C) La azul y la verde.
+D) La verde y la amarilla.
+Correcta: D. Por qué: Con c = 3 pg: la roja tiene 6 pg = 2c, así que está en G1. La azul tiene 9 pg = 3c, valor intermedio que solo ocurre mientras se replica el ADN: fase S. La verde y la amarilla tienen 12 pg = 4c; se distinguen por los cromosomas: sin condensar es G2 (verde) y condensados es mitosis (amarilla). La clave es D.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un gráfico registra la cantidad de ADN por célula en un cultivo sincronizado de células diploides: desde la hora 0 a la 8 se mantiene en 2c; entre las horas 8 y 14 sube gradualmente hasta 4c; se mantiene en 4c hasta la hora 19 y a la hora 20 cae bruscamente a 2c. ¿Cuánto duran, en conjunto, G2 y la mitosis?
+A) 1 hora
+B) 5 horas
+C) 6 horas
+D) 12 horas
+Correcta: C. Por qué: De 0 a 8 h el ADN está en 2c: G1 dura 8 h. De 8 a 14 h sube de 2c a 4c: S dura 6 h. Desde las 14 h hasta la caída a las 20 h la célula mantiene 4c, lo que incluye G2 y la mitosis: 20 − 14 = 6 h. La respuesta es C. Cortar el tramo en la hora 19 subestima G2 + M.
+
+Pregunta 3 (Planificar y conducir una investigación): Una investigadora quiere saber si un compuesto detiene las células en G1 o en G2. Cuenta con un equipo que mide la cantidad de ADN de miles de células individuales. ¿Qué procedimiento le permite responder?
+A) Medir el ADN de células con y sin compuesto y comparar cuántas tienen 2c y 4c.
+B) Medir el ADN de células tratadas en un solo momento, sin compararlas con otro cultivo.
+C) Contar al microscopio cuántas células tratadas muestran cromosomas condensados.
+D) Medir el ADN total del cultivo tratado y compararlo con el del cultivo no tratado.
+Correcta: A. Por qué: Si el compuesto detiene en G1, las células tratadas se acumularán con 2c; si detiene en G2, con 4c. Para saber si hubo acumulación hay que compararlas con un cultivo sin compuesto, midiendo célula por célula. Eso propone A. Sin control no se sabe si la distribución cambió; contar cromosomas condensados identifica mitosis, no G1 ni G2; y el ADN total del cultivo mezcla todas las células.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

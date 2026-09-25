@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 09: iii. Hipótesis
+Sección: 3. Etapas de una investigación científica
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Hipótesis». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente respuesta tentativa, Ser contrastable, Ser refutable, Hipótesis nula y alternativa, hipótesis nula, hipótesis alternativa, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «iii. Hipótesis», dentro de la sección «3. Etapas de una investigación científica» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: respuesta tentativa, Ser contrastable, Ser refutable, Hipótesis nula y alternativa, hipótesis nula, hipótesis alternativa.
+
+Ideas guía:
+- La hipótesis es una respuesta tentativa a la pregunta de investigación.
+- No es una adivinanza: se basa en conocimientos previos y observaciones.
+- Debe cumplir dos condiciones: Ser contrastable: se puede poner a prueba con un experimento u observaciones.
+- Ser refutable: debe existir un resultado posible que la demuestre falsa.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Unos investigadores pusieron glóbulos rojos humanos en tres soluciones de cloruro de sodio (0,3 %, 0,9 % y 2 %) y, al cabo de diez minutos, observaron su forma al microscopio. ¿Qué hipótesis se pone a prueba en este trabajo?
+A) Los glóbulos rojos en la solución al 2 % se verán arrugados al microscopio.
+B) La entrada o salida de agua de la célula depende de la concentración del medio.
+C) La forma del glóbulo rojo depende de la hemoglobina que contiene en su interior.
+D) La concentración del medio depende del volumen que tiene cada glóbulo rojo.
+Correcta: B. Por qué: Lo que se cambia es la concentración de sal del medio y lo que se observa es la forma de las células, que refleja si ganaron o perdieron agua. La hipótesis que se pone a prueba debe vincular ambas cosas con una explicación: el movimiento de agua depende de la concentración del medio. La frase sobre la solución al 2 % describe un resultado esperado en un tubo concreto, así que es una predicción.
+
+Pregunta 2 (Observar y plantear preguntas): Una profesora pide a su curso proponer una hipótesis para estudiar el efecto de la cafeína en el sistema nervioso, midiendo el tiempo que demoran los estudiantes en presionar un botón al ver una luz. ¿Cuál propuesta cumple con las características de una hipótesis?
+A) La cafeína es una sustancia que no se debería consumir en la adolescencia.
+B) La cafeína puede influir o no influir en el tiempo de reacción de las personas.
+C) La cafeína reduce el tiempo de reacción de las personas ante un estímulo visual.
+D) ¿La cafeína modifica el tiempo de reacción de las personas ante un estímulo visual?
+Correcta: C. Por qué: Se revisa cada propuesta. «Reduce el tiempo de reacción» afirma un efecto medible con el botón y la luz, y podría resultar falsa si el tiempo no baja: es contrastable y refutable. «Puede influir o no influir» es verdadera con cualquier resultado, por lo que no se puede refutar. «No se debería consumir» es un juicio de valor. La última está redactada como pregunta, así que corresponde al problema de investigación.
+
+Pregunta 3 (Procesar y analizar la evidencia): En zonas industriales de Inglaterra, un investigador planteó la hipótesis de que la coloración oscura de ciertas polillas las protege de las aves en troncos oscurecidos por el hollín. Para ponerla a prueba, soltó polillas claras y oscuras sobre troncos oscuros y registró cuántas eran capturadas por aves. ¿Qué resultado obligaría a rechazar la hipótesis?
+A) Las polillas oscuras fueron menos capturadas que las claras en troncos oscuros.
+B) Las polillas claras fueron menos capturadas que las oscuras en troncos claros.
+C) Las polillas oscuras fueron más abundantes en los bosques de zonas industriales.
+D) Las polillas oscuras fueron tan capturadas como las claras en troncos oscuros.
+Correcta: D. Por qué: Si la coloración oscura protege en troncos oscuros, las polillas oscuras deberían ser capturadas menos que las claras en esa condición. Si ambas son capturadas por igual, la coloración no da ventaja y la hipótesis queda refutada. Que las oscuras sean menos capturadas la apoya. Los datos sobre troncos claros o sobre abundancia en bosques no corresponden a la condición puesta a prueba.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

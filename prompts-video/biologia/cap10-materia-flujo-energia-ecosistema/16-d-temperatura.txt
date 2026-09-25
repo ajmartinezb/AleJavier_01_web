@@ -1,0 +1,43 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 16: d. Temperatura
+Sección: 6. Variables ambientales que afectan la fotosíntesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Temperatura». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente campana, Temperaturas bajas, Óptimo, Temperaturas altas, desnaturalizan, cae, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Temperatura», dentro de la sección «6. Variables ambientales que afectan la fotosíntesis» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: campana, Temperaturas bajas, Óptimo, Temperaturas altas, desnaturalizan, cae.
+
+Ideas guía:
+- Aquí la curva es distinta: tiene forma de campana, con un óptimo.
+- La diferencia de forma no es un detalle: la luz y el CO2 producen mesetas (más nunca es peor, salvo fotoinhibición extrema), mientras que la temperatura produce un óptimo (más sí es peor pasado cierto punto).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un estudiante advierte que una especie de alta montaña alcanza su máxima fotosíntesis a 12 °C, mientras una especie del desierto la alcanza a 34 °C. ¿Qué pregunta investigable plantea esa diferencia?
+A) ¿Cuántos centímetros mide cada una de las dos especies comparadas?
+B) ¿Cómo se relaciona ese óptimo con el clima del lugar donde vive?
+C) ¿Cuál de las dos especies fue descrita primero por la ciencia?
+D) ¿Qué altitud exacta tiene la montaña donde se recolectó la primera especie?
+Correcta: B. Por qué: La observación muestra que un mismo parámetro difiere mucho entre especies, así que la pregunta pertinente indaga si esa diferencia se corresponde con el ambiente de cada una. Responderla exige comparar más especies y sus climas. Las otras opciones piden datos morfológicos, históricos o geográficos aislados.
+
+Pregunta 2 (Evaluar): Se afirma que «la curva de la fotosíntesis frente a la temperatura tiene la misma forma que la de la luz, porque ambas variables aumentan la tasa». ¿Cuál es la precisión necesaria?
+A) Es incorrecta: la de luz termina en meseta y la de temperatura cae.
+B) Es correcta: las tres curvas de la sección tienen forma idéntica.
+C) Es incorrecta, porque la temperatura no afecta la tasa de fotosíntesis.
+D) Es incorrecta, porque la curva de luz también cae después de su punto máximo.
+Correcta: A. Por qué: Ambas variables aumentan la tasa en su tramo inicial, y ahí termina el parecido. Con luz o CO₂ en exceso, el sistema simplemente deja de responder; con temperatura en exceso, el sistema se daña y la tasa cae. Esa diferencia es la que permite reconocer de qué gráfico se trata sin leer los ejes.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere determinar la temperatura óptima de fotosíntesis de una especie. ¿Cuál es el procedimiento adecuado?
+A) Medir la tasa a una sola temperatura elevada y suponer que es el óptimo.
+B) Medir la temperatura ambiente del lugar donde crece la especie durante un año.
+C) Medir la tasa a varias temperaturas, con luz y CO₂ constantes, y buscar el máximo.
+D) Medir la tasa a varias temperaturas, aumentando también la luz en cada ensayo.
+Correcta: C. Por qué: Para encontrar un máximo hace falta muestrear varios puntos a ambos lados de él, manteniendo constantes la luz y el CO₂. Una sola medición no permite saber si ese valor es el máximo, registrar la temperatura ambiente describe el hábitat sin medir la tasa, y variar la luz al mismo tiempo introduce una segunda variable.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

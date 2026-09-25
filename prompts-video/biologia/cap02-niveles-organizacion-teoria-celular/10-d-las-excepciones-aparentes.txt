@@ -1,0 +1,45 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 10: d. Las excepciones aparentes
+Sección: 4. La teoría celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Las excepciones aparentes». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente Los virus, La primera célula, hoy, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Las excepciones aparentes», dentro de la sección «4. La teoría celular» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Los virus, La primera célula, hoy.
+
+Ideas guía:
+- Dos casos que la prueba usa para poner a prueba la comprensión de la teoría: Los virus.
+- No están formados por células, no tienen metabolismo propio y solo se multiplican dentro de una célula que infectan.
+- Por eso la mayoría de los autores no los considera seres vivos, y no constituyen una excepción a la teoría celular, sino un caso fuera de ella.
+- Si toda célula proviene de otra, ¿de dónde salió la primera?
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Se afirma que los virus constituyen una excepción a la teoría celular. ¿Cuál es la evaluación más precisa de esa afirmación?
+A) Es correcta, porque los virus son células sin membrana plasmática.
+B) Es incorrecta, porque los virus no son células y por eso quedan fuera del alcance de la teoría.
+C) Es correcta, porque los virus se originan a partir de moléculas libres del medio.
+D) Es incorrecta, porque los virus poseen metabolismo propio como cualquier célula.
+Correcta: B. Por qué: No siendo células, no pueden constituir una excepción a una teoría que habla de células: simplemente no están comprendidos en ella. Decir que poseen metabolismo propio contradice el hecho de que dependen por completo de la maquinaria de una célula hospedera, y sostener que se originan desde moléculas libres reintroduce la generación espontánea ya descartada.
+
+Pregunta 2 (Procesar y analizar la evidencia): El tercer postulado afirma que toda célula proviene de otra célula. ¿Por qué la pregunta por el origen de la primera célula no constituye una contradicción con ese postulado?
+A) Porque la primera célula también provino de otra célula anterior a ella.
+B) Porque no existió nunca una primera célula: siempre hubo células vivas.
+C) Porque el postulado solo se aplica a las células de los organismos pluricelulares.
+D) Porque la teoría trata de las células actuales, no del origen de la vida.
+Correcta: D. Por qué: Son dos problemas separados, investigados con métodos distintos, y por eso no hay contradicción. Afirmar que la primera célula provino de otra célula anterior desplaza el problema sin resolverlo, y sostener que siempre hubo células contradice la evidencia geológica. El postulado, además, se aplica a todas las células, no solo a las de los pluricelulares.
+
+Pregunta 3 (Observar y plantear preguntas): Se quiere investigar si una estructura recién descrita en una muestra ambiental es una célula o una partícula viral. ¿Cuál es la observación que mejor permite decidirlo?
+A) Determinar si la estructura posee ribosomas y realiza metabolismo propio.
+B) Determinar si la estructura contiene material genético propio en su interior.
+C) Determinar si la estructura mide menos de un micrómetro de diámetro máximo.
+D) Determinar si la estructura aparece asociada a los tejidos de otro organismo.
+Correcta: A. Por qué: El material genético está en ambos, de modo que buscarlo no decide nada. El tamaño tampoco sirve como criterio único, porque existen bacterias muy pequeñas y virus relativamente grandes. Y la asociación a tejidos es común tanto para virus como para bacterias, incluidas las que viven en simbiosis. Solo la segunda observación separa los dos casos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

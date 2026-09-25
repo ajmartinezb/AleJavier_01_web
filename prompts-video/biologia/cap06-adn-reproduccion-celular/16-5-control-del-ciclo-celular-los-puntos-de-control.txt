@@ -1,0 +1,44 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 16: 5. Control del ciclo celular: los puntos de control
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Control del ciclo celular: los puntos de control». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente inspectores, puntos de control, G1–S, tamaño, nutrientes, señales, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «5. Control del ciclo celular: los puntos de control» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: inspectores, puntos de control, G1–S, tamaño, nutrientes, señales.
+
+Ideas guía:
+- El ciclo celular no avanza «automáticamente».
+- Funciona como una línea de montaje con inspectores: en ciertos momentos, la célula verifica que todo esté en orden antes de seguir.
+- Esos momentos son los puntos de control.
+- Si una toxina desactiva el punto de control de metafase, las cromátidas se pueden separar aunque algunos cromosomas no estén bien unidos al huso: se producirán células hijas con números anormales de cromosomas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una investigadora cultiva células humanas y agrega una toxina que inactiva el punto de control de metafase. Tras dos divisiones, analiza el cariotipo de las células hijas y registra: cultivo control, 98 % con 46 cromosomas; cultivo con toxina, 61 % con 46 cromosomas y 39 % con 45 o 47 cromosomas. ¿Qué conclusión es coherente con estos resultados?
+A) Sin ese control, la anafase se inicia aunque haya cromosomas mal unidos al huso.
+B) Sin ese control, el ADN se replica dos veces seguidas antes de iniciar la mitosis.
+C) Sin ese control, las células no logran salir de G1 y pasan a la fase G0 de reposo.
+D) Sin ese control, la citodinesis se omite y se forman células con dos núcleos.
+Correcta: A. Por qué: En el control, casi todas las células tienen 46 cromosomas. Con la toxina aparece un 39 % de células con uno de más o de menos. Ganar o perder un solo cromosoma indica una separación desigual de cromátidas, lo que ocurre si la anafase empieza cuando algún cromosoma no está bien unido al huso. Una doble replicación o la falta de citodinesis duplicarían todo el juego (92), y una detención en G1 no produciría hijas anormales.
+
+Pregunta 2 (Evaluar): Un estudiante irradia con rayos X dos cultivos de células humanas: uno normal y otro con la proteína p53 inactiva. A las 24 h, el cultivo normal casi no tiene células en división y el otro sigue dividiéndose al mismo ritmo que antes de la irradiación. El estudiante concluye: «La radiación no dañó el ADN del segundo cultivo». ¿Por qué esta conclusión no está respaldada?
+A) Porque la radiación daña el ADN solo de las células que están en fase S.
+B) Porque el segundo cultivo pudo seguir dividiéndose al no detectar el daño.
+C) Porque los rayos X actúan en la membrana plasmática y no en el núcleo celular.
+D) Porque la p53 acelera el ciclo celular cuando detecta el ADN dañado por radiación.
+Correcta: B. Por qué: Ambos cultivos recibieron la misma radiación, así que no hay razón para pensar que uno sufrió menos daño. La diferencia es que en uno falta p53. Sin ese «inspector», el daño existe, pero la señal de alto no se emite y la célula sigue dividiéndose. Por eso seguir dividiéndose no prueba ausencia de daño: prueba ausencia de control.
+
+Pregunta 3 (Planificar y conducir una investigación): Un grupo quiere poner a prueba la hipótesis de que el punto de control G2–M impide que células con ADN dañado entren en mitosis. Dispone de células sincronizadas en G2, un agente que daña el ADN y un fármaco que anula específicamente ese punto de control. ¿Qué diseño permite someter a prueba la hipótesis?
+A) Dar el fármaco a dos grupos, dañar el ADN en ambos y medir la cantidad de ADN al final de la fase S.
+B) Dañar el ADN en un único grupo tratado con el fármaco y contar cuántas células terminan la mitosis.
+C) Dañar el ADN en dos grupos, dar el fármaco a uno solo y comparar cuántas células entran en mitosis.
+D) Dar el fármaco a un grupo sin dañar su ADN y comparar su tamaño con el de células que están en G1.
+Correcta: C. Por qué: La variable independiente es el funcionamiento del punto de control (con o sin fármaco) y la dependiente, la entrada en mitosis. Ambos grupos deben tener el ADN dañado, porque la hipótesis se refiere a ese caso. Si solo el grupo con fármaco entra en mitosis, se respalda la hipótesis. Un solo grupo no tiene con qué compararse, medir ADN en S mira otra etapa y omitir el daño elimina la condición central.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

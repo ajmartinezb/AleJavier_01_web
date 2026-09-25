@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 29: c. Métodos de barrera
+Sección: 8. Métodos de control de la natalidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Métodos de barrera». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Diafragma y capuchón cervical, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Métodos de barrera», dentro de la sección «8. Métodos de control de la natalidad» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Diafragma y capuchón cervical.
+
+Ideas guía:
+- Impiden físicamente que los espermatozoides lleguen al ovocito.
+- Condón externo (masculino) e interno (femenino): son los únicos métodos que, además de evitar el embarazo, reducen el riesgo de infecciones de transmisión sexual.
+- Ese doble papel es lo que más se pregunta.
+- Diafragma y capuchón cervical: cubren el cuello uterino y se usan con espermicida.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): ¿Qué característica distingue al condón de los demás métodos anticonceptivos?
+A) Es el único que además reduce el riesgo de infecciones de transmisión sexual.
+B) Es el más eficaz de todos en condiciones de uso típico.
+C) Es el único que impide la ovulación durante todo el ciclo.
+D) Es el único método reversible disponible en los servicios de salud.
+Correcta: A. Por qué: Esa doble función es lo que fundamenta la recomendación de doble protección. En cuanto a eficacia, el condón no es el más alto en uso típico: el implante y el DIU lo superan porque no dependen de la conducta en cada relación. Y hay varios métodos reversibles además del condón.
+
+Pregunta 2 (Evaluar): Una pareja usa anticoncepción hormonal y concluye que no necesita condón porque ya está protegida. ¿Cuál es la evaluación correcta de esa conclusión?
+A) Es correcta: la anticoncepción hormonal cubre ambos riesgos a la vez.
+B) Es incorrecta, porque la anticoncepción hormonal no evita el embarazo.
+C) Es correcta, siempre que la pareja tenga exámenes de un año de antigüedad.
+D) Es incompleta: la anticoncepción hormonal no protege de las ITS.
+Correcta: D. Por qué: La conclusión es correcta respecto del embarazo y falsa respecto de las infecciones, que se transmiten con independencia de la fertilidad. Ese es exactamente el sentido de la doble protección: dos riesgos distintos exigen dos medidas distintas.
+
+Pregunta 3 (Comunicar): Se pide describir en una frase cómo actúa un método de barrera. ¿Cuál es la correcta?
+A) Frena la secreción de FSH y LH en la hipófisis anterior.
+B) Modifica el endometrio para impedir la implantación del embrión.
+C) Impide físicamente que los espermatozoides lleguen al ovocito.
+D) Interrumpe quirúrgicamente la vía por la que circulan los gametos.
+Correcta: C. Por qué: La palabra clave es «físicamente»: se interpone un obstáculo material, sin intervenir en el ciclo hormonal ni en la anatomía. Frenar las gonadotropinas corresponde a los métodos hormonales, modificar el endometrio al DIU hormonal e interrumpir la vía, a los quirúrgicos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

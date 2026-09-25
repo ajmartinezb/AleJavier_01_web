@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 33: g. Eficacia: uso perfecto y uso típico
+Sección: 8. Métodos de control de la natalidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Eficacia: uso perfecto y uso típico». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Uso perfecto, Uso típico, doble protección, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «g. Eficacia: uso perfecto y uso típico», dentro de la sección «8. Métodos de control de la natalidad» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Uso perfecto, Uso típico, doble protección.
+
+Ideas guía:
+- La eficacia se expresa como el porcentaje de embarazos durante el primer año de uso, y siempre se informa de dos maneras: Uso perfecto: el método se usa exactamente como corresponde, siempre.
+- Uso típico: el uso real de la población, con olvidos y errores.
+- Los métodos más eficaces en uso típico son los que dependen menos de la conducta diaria de la persona: una vez instalados, funcionan solos.
+- Los que exigen recordar algo todos los días, o hacer algo correctamente en cada relación, pierden eficacia en el uso real.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un método presenta un 0,3 % de embarazos en uso perfecto y un 9 % en uso típico, mientras otro presenta un 0,5 % en ambos casos. ¿Qué se concluye?
+A) El segundo es menos eficaz que el primero en condiciones reales de uso.
+B) El primero depende mucho más de la conducta diaria de quien lo usa.
+C) Ambos métodos tienen la misma eficacia en condiciones reales de uso.
+D) El primero es más eficaz que el segundo en condiciones reales de uso.
+Correcta: B. Por qué: La brecha entre el 0,3 % y el 9 % indica que el método falla sobre todo por olvidos o errores de uso, no por el método en sí. El segundo, con valores casi idénticos, funciona igual en el laboratorio y en la vida real, de modo que en condiciones reales resulta más eficaz.
+
+Pregunta 2 (Evaluar): Se afirma que «la diferencia entre uso perfecto y uso típico se debe a que el método funciona peor con el tiempo». ¿Cuál es la corrección pertinente?
+A) Es correcta: todos los métodos pierden eficacia con los meses de uso.
+B) Es incorrecta, porque el uso perfecto y el uso típico son siempre iguales.
+C) Es incorrecta: la diferencia refleja olvidos y errores en el uso real.
+D) Es correcta, porque el organismo se acostumbra al método anticonceptivo.
+Correcta: C. Por qué: La diferencia no describe un deterioro del método, sino la distancia entre cómo debería usarse y cómo se usa. De hecho, en los métodos que no dependen de la conducta, como el implante y el DIU, ambos valores casi coinciden, lo que confirma que el factor es el uso y no el tiempo.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante advierte que el implante y la píldora tienen eficacias muy similares en uso perfecto, pero muy distintas en uso típico. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuál de los dos métodos se comercializa a menor precio en el país?
+B) ¿En qué año se aprobó el uso de cada uno de los dos métodos?
+C) ¿Cuántos laboratorios fabrican cada uno de los dos métodos?
+D) ¿Qué característica del uso de cada método explica esa diferencia?
+Correcta: D. Por qué: La observación es que dos métodos igualmente eficaces en condiciones ideales difieren mucho en condiciones reales, lo que apunta a algo del uso y no del mecanismo. Preguntar por esa característica es continuar la observación. Las demás opciones piden datos comerciales o históricos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

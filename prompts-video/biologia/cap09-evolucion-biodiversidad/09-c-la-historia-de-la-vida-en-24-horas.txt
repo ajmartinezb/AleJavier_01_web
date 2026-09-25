@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 09: c. La historia de la vida en 24 horas
+Sección: 3. La historia del planeta y la historia de la vida en 24 horas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «La historia de la vida en 24 horas». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente 00:00, medianoche, 192 millones de años, 63 millones de años, avianos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. La historia de la vida en 24 horas», dentro de la sección «3. La historia del planeta y la historia de la vida en 24 horas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 00:00, medianoche, 192 millones de años, 63 millones de años, avianos.
+
+Ideas guía:
+- Comprimamos los 4600 Ma en un solo día: la Tierra se forma a las 00:00 y este instante es la medianoche siguiente.
+- Cada hora del reloj equivale a unos 192 millones de años, y cada minuto, a unos 3,2 millones.
+- La historia de la Tierra comprimida en 24 horas.
+- Diagrama propio, calculado sobre una edad de 4600 Ma.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En el reloj de 24 horas, los primeros procariontes aparecen a las 05:44 y los primeros eucariontes a las 14:37. Sabiendo que una hora del reloj equivale a unos 192 millones de años, ¿qué orden de magnitud de tiempo transcurrió entre ambos hitos?
+A) Cerca de 1700 millones de años
+B) Cerca de 170 millones de años
+C) Cerca de 500 millones de años
+D) Cerca de 3500 millones de años
+Correcta: A. Por qué: Entre las 05:44 y las 14:37 transcurren 8 horas y 53 minutos, es decir, cerca de 8,9 horas. Multiplicando, 8,9 × 192 ≈ 1709 millones de años. El valor más cercano es 1700 millones de años. Se puede verificar con las edades reales: 3500 − 1800 = 1700 millones de años.
+
+Pregunta 2 (Evaluar): Un programa de televisión muestra a un grupo de humanos primitivos huyendo de un dinosaurio no aviano. Considerando la escala temporal de la historia de la vida, ¿cuál es el error de esa escena?
+A) Los dinosaurios no avianos y los primeros humanos habitaron continentes distintos entre sí.
+B) Los dinosaurios no avianos eran exclusivamente acuáticos y no podían perseguir a un humano.
+C) Los dinosaurios no avianos se extinguieron millones de años antes que el género Homo.
+D) Los primeros humanos aparecieron antes que los dinosaurios no avianos del período Cretácico.
+Correcta: C. Por qué: Entre ambos hitos median unos 63 millones de años, es decir, unos veinte minutos del reloj de 24 horas. La escena junta dos grupos separados por un lapso enorme. Sí sería correcto mostrar a humanos junto a dinosaurios avianos, porque las aves son el linaje de dinosaurios que sobrevivió a esa extinción.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere poner a prueba la hipótesis de que la atmósfera terrestre carecía de oxígeno libre antes de hace 2400 millones de años. ¿Qué evidencia geológica permitiría contrastarla?
+A) La cantidad de fósiles de organismos multicelulares hallados en rocas de esa antigüedad.
+B) La proporción de hierro oxidado en rocas anteriores y posteriores a esa edad.
+C) El espesor total de los sedimentos acumulados durante ese intervalo de tiempo.
+D) La temperatura media estimada de los océanos durante ese mismo intervalo.
+Correcta: B. Por qué: El oxígeno libre deja una huella química: oxida el hierro disuelto y precipita minerales de hierro oxidado. Comparar la proporción de esos minerales en rocas anteriores y posteriores a la fecha propuesta permite decidir si hubo o no oxígeno libre. Las otras opciones miden variables que no informan sobre la composición atmosférica.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

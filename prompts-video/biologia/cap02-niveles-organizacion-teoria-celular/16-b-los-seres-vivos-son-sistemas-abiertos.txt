@@ -1,0 +1,45 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 16: b. Los seres vivos son sistemas abiertos
+Sección: 6. Características de los sistemas biológicos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Los seres vivos son sistemas abiertos». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente sistema abierto, Entra, Sale, calor, no, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Los seres vivos son sistemas abiertos», dentro de la sección «6. Características de los sistemas biológicos» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: sistema abierto, Entra, Sale, calor, no.
+
+Ideas guía:
+- Un sistema abierto intercambia materia y energía con su entorno.
+- Todos los seres vivos lo son, y no podrían ser de otro modo: ninguno fabrica su propia materia de la nada ni recicla su energía indefinidamente.
+- Entra: nutrientes, agua, gases y —en los autótrofos— energía luminosa.
+- Sale: desechos, agua, gases y calor, siempre calor.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se afirma que todos los seres vivos son sistemas abiertos. ¿Qué evidencia sostiene mejor esa afirmación?
+A) Que todos los seres vivos poseen una membrana que los separa del medio que los rodea.
+B) Que todos pueden reproducirse y dejar descendencia fértil.
+C) Que todos incorporan materia y energía del entorno y liberan desechos y calor.
+D) Que todos mantienen siempre su temperatura interna en un mismo valor constante y fijo.
+Correcta: C. Por qué: Entran nutrientes, agua y gases, y salen desechos, gases y calor. La membrana sí existe, pero es una barrera selectiva y por sí sola no demuestra que haya intercambio. La reproducción es otra característica de los seres vivos, sin relación con el carácter abierto del sistema, y la temperatura constante solo se aplica a algunos animales, no a todos los organismos.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere comprobar que un cultivo de células animales se comporta como un sistema abierto. ¿Qué conjunto de mediciones lo demuestra mejor?
+A) Medir el diámetro promedio de las células al inicio y al final del cultivo.
+B) Registrar el consumo de glucosa y de oxígeno junto con la producción de CO2 y de calor.
+C) Contar el número de células presentes al inicio y al final del cultivo.
+D) Determinar la secuencia del ADN de las células mantenidas en cultivo.
+Correcta: B. Por qué: Medir a la vez lo que entra, glucosa y oxígeno, y lo que sale, dióxido de carbono y calor, documenta los dos sentidos del intercambio. Contar células o medir su diámetro registra el crecimiento, que es otra característica distinta, y secuenciar el ADN no informa en absoluto sobre el intercambio con el entorno.
+
+Pregunta 3 (Evaluar): Un estudiante sostiene que un organismo podría sobrevivir indefinidamente dentro de un recipiente sellado y aislado, reciclando toda su materia y su energía. ¿Cuál es la mejor evaluación de esa idea?
+A) Es viable, porque la materia se conserva dentro de un sistema cerrado.
+B) Es viable, porque los organismos reciclan por completo su propia energía.
+C) No es viable, porque los organismos no pueden reciclar ningún tipo de materia.
+D) No es viable, porque la energía se degrada a calor y debe reponerse desde fuera.
+Correcta: D. Por qué: La materia sí puede reciclarse en buena medida dentro de un sistema cerrado, y eso hace atractiva la primera alternativa; lo que no puede reciclarse es la energía, que fluye en un solo sentido y se degrada. Por eso todo sistema biológico necesita un aporte externo, sea luz o alimento. La última alternativa exagera en sentido contrario al negar todo reciclaje de materia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

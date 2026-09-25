@@ -1,0 +1,44 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 12: b. Los ribosomas
+Sección: 4. La célula eucarionte: núcleo y ribosomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Los ribosomas». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente No tienen membrana, sintetizar proteínas, libres, unidos, citosol, exportan, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Los ribosomas», dentro de la sección «4. La célula eucarionte: núcleo y ribosomas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: No tienen membrana, sintetizar proteínas, libres, unidos, citosol, exportan.
+
+Ideas guía:
+- Los ribosomas son complejos de ARN ribosomal y proteínas, formados por dos subunidades, una mayor y una menor.
+- No tienen membrana, por lo que están presentes tanto en procariontes como en eucariontes.
+- Su función es sintetizar proteínas traduciendo la información del ARN mensajero.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un grupo quiere saber si una proteína P, que la célula exporta, se fabrica en ribosomas libres o unidos al retículo. Separa ambos tipos de ribosomas y los incuba con los mismos aminoácidos marcados. ¿Qué resultado debería medir para responder su pregunta?
+A) La cantidad de aminoácidos marcados que queda sin usar en el medio.
+B) La presencia de la proteína P marcada en cada una de las fracciones de ribosomas.
+C) El número total de ribosomas que se obtiene en cada una de las fracciones.
+D) La velocidad a la que se separan las subunidades de cada ribosoma.
+Correcta: B. Por qué: La pregunta es dónde se fabrica P. Al incubar cada fracción con aminoácidos marcados, las proteínas nuevas quedan marcadas; basta con buscar P marcada en cada fracción. Si aparece en la de ribosomas unidos, se confirma lo esperado para una proteína de exportación.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se modifica el gen de una enzima que normalmente permanece en el citosol, agregándole al comienzo la secuencia «señal» de una hormona que se secreta. Luego se buscan las moléculas de la enzima modificada en la célula. ¿Cuál es el resultado más probable?
+A) La enzima se sigue fabricando en ribosomas libres y permanece en el citosol celular.
+B) La enzima entra al núcleo por los poros y se une a la cromatina de la célula.
+C) La enzima es degradada por la célula antes de terminar su síntesis completa.
+D) La enzima se fabrica en ribosomas unidos al retículo rugoso y entra en ese organelo.
+Correcta: D. Por qué: La enzima normal carece de señal y se fabrica en ribosomas libres. Al agregarle la señal de una proteína de secreción, en cuanto esa secuencia sale del ribosoma, este se ancla al retículo, y la enzima entra en él a medida que se sintetiza. Por eso, el destino cambia.
+
+Pregunta 3 (Evaluar): Un investigador afirma que un antibiótico que bloquea los ribosomas 70S no afecta a las células humanas. Para probarlo, lo agrega a cultivos de fibroblastos humanos y mide la síntesis total de proteínas, que no cambia. Otro científico objeta que las mitocondrias humanas tienen ribosomas similares a los 70S. ¿Qué se desprende de esta objeción?
+A) Medir la síntesis total no basta; habría que medir la síntesis mitocondrial.
+B) El experimento es inválido, porque los fibroblastos no tienen ribosomas de tipo 70S.
+C) La objeción no aplica, porque las mitocondrias no fabrican ninguna proteína propia.
+D) El resultado demuestra que el antibiótico también bloquea los ribosomas humanos 80S.
+Correcta: A. Por qué: La síntesis total depende sobre todo de los ribosomas 80S del citosol, que el antibiótico no afecta; la síntesis mitocondrial es una fracción pequeña que podría disminuir sin notarse en el total. Por eso, para evaluar la seguridad hay que medir la síntesis dentro de las mitocondrias por separado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

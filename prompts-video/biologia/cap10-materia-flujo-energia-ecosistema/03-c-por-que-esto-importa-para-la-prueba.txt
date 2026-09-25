@@ -1,0 +1,44 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 03: c. Por qué esto importa para la prueba
+Sección: 2. Los dos recorridos: la materia circula, la energía se degrada
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Por qué esto importa para la prueba». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente Fotosíntesis, Respiración celular, Alimentación, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Por qué esto importa para la prueba», dentro de la sección «2. Los dos recorridos: la materia circula, la energía se degrada» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Fotosíntesis, Respiración celular, Alimentación.
+
+Ideas guía:
+- El temario reúne en un mismo conocimiento (el 4.1.1) la fotosíntesis, la respiración celular y el flujo de energía, y no es casualidad: son las tres piezas del mismo mecanismo.
+- Decir que «la energía se recicla» o que «la materia se pierde».
+- Si una alternativa afirma que la energía vuelve al Sol, que los descomponedores devuelven energía a los productores o que la materia se agota en el ecosistema, es incorrecta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se analiza un mismo ecosistema desde dos puntos de vista: el de la materia y el de la energía. ¿Cuál de las siguientes afirmaciones combina correctamente ambos?
+A) El carbono y la energía recorren ciclos cerrados sostenidos por los descomponedores.
+B) El carbono vuelve al ambiente y la energía se disipa como calor sin retornar.
+C) El carbono se pierde en cada nivel y la energía se acumula en el nivel superior.
+D) El carbono y la energía se pierden por igual en cada transferencia trófica.
+Correcta: B. Por qué: La afirmación correcta mantiene separados los dos recorridos: el carbono vuelve al aire por la respiración y la descomposición, mientras la energía se transforma en calor que sale del sistema. Las demás opciones o atribuyen a la energía un ciclo que no tiene, o hacen desaparecer materia que en realidad se conserva.
+
+Pregunta 2 (Evaluar): Un texto escolar afirma: «La fotosíntesis y la respiración celular son procesos opuestos, así que una anula a la otra y su efecto global sobre el ecosistema es nulo». ¿Cuál es la evaluación adecuada?
+A) Es correcta, porque las ecuaciones globales de ambos procesos son inversas.
+B) Es incorrecta, porque la respiración celular no libera dióxido de carbono.
+C) Es incorrecta: la fotosíntesis necesita un aporte externo de energía.
+D) Es incorrecta, porque ambos procesos ocurren en el mismo organelo de la célula.
+Correcta: C. Por qué: Es cierto que las ecuaciones globales se parecen invertidas en cuanto a materia. Lo que la afirmación omite es la energía: la fotosíntesis solo funciona con un aporte de luz, y la energía que la respiración libera termina en gran parte como calor que abandona el sistema. Por eso el efecto global no es nulo: hay un flujo neto de energía desde el Sol hacia el ambiente.
+
+Pregunta 3 (Comunicar): Se necesita un título breve para un esquema que muestra un ciclo cerrado de átomos junto a una flecha que va del Sol al calor. ¿Cuál es el más adecuado?
+A) La materia circula y la energía fluye siempre en un solo sentido.
+B) La energía se recicla y la materia se pierde en cada nivel trófico.
+C) La materia y la energía recorren el ecosistema del mismo modo.
+D) El Sol aporta al ecosistema toda la materia que los seres vivos necesitan.
+Correcta: A. Por qué: El esquema descrito tiene dos elementos: un circuito cerrado y una flecha que no vuelve. El título correcto nombra ambos y les asigna el protagonista adecuado. Las demás opciones invierten los papeles, los igualan o convierten al Sol en fuente de materia, lo que ninguna representación de este tipo muestra.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

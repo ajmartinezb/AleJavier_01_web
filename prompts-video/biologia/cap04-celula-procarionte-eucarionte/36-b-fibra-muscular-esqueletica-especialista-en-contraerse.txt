@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 36: b. Fibra muscular esquelética: especialista en contraerse
+Sección: 10. Relación entre estructura y función: cuatro tipos celulares
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Fibra muscular esquelética: especialista en contraerse». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente fibra muscular, multinucleada, Miofibrillas, actina, miosina, sarcómeros, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Fibra muscular esquelética: especialista en contraerse», dentro de la sección «10. Relación entre estructura y función: cuatro tipos celulares» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: fibra muscular, multinucleada, Miofibrillas, actina, miosina, sarcómeros.
+
+Ideas guía:
+- Una célula muscular esquelética, o fibra muscular, es alargada, puede medir varios centímetros y es multinucleada, porque se forma por la fusión de muchas células precursoras.
+- Las fibras lentas (oxidativas) tienen más mitocondrias y mioglobina, por lo que son rojizas y resisten la fatiga: son las que predominan en los maratonistas.
+- Las fibras rápidas (glucolíticas) tienen menos mitocondrias y más glicógeno, y se contraen con fuerza, pero se fatigan pronto: predominan en los velocistas y los halterófilos.
+- Es un buen ejemplo de cómo la cantidad de un organelo revela la función.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se analizaron biopsias del músculo de la pierna de tres deportistas. Porcentaje de fibras lentas (oxidativas): deportista P, 20 %; deportista Q, 80 %; deportista R, 50 %. Considerando que las fibras lentas tienen más mitocondrias y mioglobina que las rápidas, ¿cuál es la interpretación más coherente?
+A) P sería maratonista, pues sus fibras resisten mejor la fatiga.
+B) R sería velocista, pues posee la mayor cantidad de fibras rápidas.
+C) Q sería maratonista, pues usa más la respiración celular.
+D) Q sería velocista, pues sus fibras almacenan más glicógeno.
+Correcta: C. Por qué: Q tiene 80 % de fibras lentas, el valor más alto. Muchas mitocondrias permiten obtener ATP por respiración celular durante largos periodos, lo que corresponde a un maratonista. P, con 20 % de fibras lentas, tiene 80 % de fibras rápidas: su perfil es el de un velocista. R es intermedio y no tiene la mayor proporción de fibras rápidas.
+
+Pregunta 2 (Planificar y conducir una investigación): Una investigadora quiere probar que la liberación de Ca2+ desde el retículo sarcoplásmico es necesaria para la contracción de fibras musculares aisladas. Estimula eléctricamente todas las fibras y mide su acortamiento. ¿Qué condición experimental debe variar entre los grupos?
+A) La presencia de un bloqueador de los canales de Ca2+ de ese retículo.
+B) La intensidad del estímulo eléctrico aplicado a cada una de las fibras.
+C) La longitud inicial de las fibras antes de aplicar el estímulo eléctrico.
+D) La temperatura del medio en que se encuentran las fibras musculares.
+Correcta: A. Por qué: La hipótesis afirma que la liberación de Ca2+ es necesaria. Para probarlo hay que comparar fibras en que esa liberación ocurre con otras en que está impedida, manteniendo igual todo lo demás. Por eso la variable que debe cambiar es la presencia del bloqueador. El estímulo, la longitud inicial y la temperatura deben ser iguales en todos los grupos, porque son variables controladas.
+
+Pregunta 3 (Evaluar): Al observar una fibra muscular esquelética, un estudiante cuenta cientos de núcleos y concluye que se formó por la fusión de muchas células precursoras. Otro sostiene que la observación también podría explicarse si un solo núcleo se dividió varias veces sin que la célula se dividiera. ¿Qué afirmación evalúa correctamente esta situación?
+A) Solo la primera explicación es posible, porque una célula tiene siempre un núcleo.
+B) Solo la segunda es posible, porque las fibras nunca se originan por fusión celular.
+C) El conteo de núcleos confirma la fusión, porque es la única causa de multinucleación.
+D) El conteo por sí solo no permite decidir entre ambas explicaciones propuestas.
+Correcta: D. Por qué: Aunque el libro indica que el origen real es la fusión, la pregunta evalúa la evidencia disponible. Contar núcleos muestra el resultado final: una célula con muchos núcleos. Tanto la fusión como la división nuclear sin citocinesis producen ese mismo resultado. Para distinguirlas habría que seguir el desarrollo de la fibra, por ejemplo marcando células precursoras. Por eso, el conteo no basta para decidir.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

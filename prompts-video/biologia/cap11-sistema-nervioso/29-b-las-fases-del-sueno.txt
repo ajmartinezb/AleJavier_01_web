@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 29: b. Las fases del sueño
+Sección: 8. Cuidado del sistema nervioso: sueño y prevención de traumatismos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Las fases del sueño». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente ciclos, No REM 1, No REM 2, No REM 3, profundo, primera, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Las fases del sueño», dentro de la sección «8. Cuidado del sistema nervioso: sueño y prevención de traumatismos» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ciclos, No REM 1, No REM 2, No REM 3, profundo, primera.
+
+Ideas guía:
+- El sueño no es un estado uniforme: se organiza en ciclos de aproximadamente 90 minutos que se repiten varias veces por noche.
+- Por qué no da lo mismo dormir menos horas.
+- Como el sueño profundo se concentra al principio de la noche y el REM al final, acortar el sueño no recorta todas las fases por igual: elimina sobre todo el REM.
+- Por eso dormir cinco horas no equivale a «un poco menos de descanso», sino a perder casi por completo una fase, con el efecto correspondiente sobre la consolidación de la memoria.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un registro del sueño de una noche muestra que los períodos de sueño REM son breves al comienzo y más prolongados hacia la madrugada. ¿Qué se concluye de ese patrón?
+A) Que el sueño REM solo ocurre una vez por noche, al amanecer.
+B) Que el sueño REM y el no REM ocurren simultáneamente durante toda la noche.
+C) Que la duración del sueño REM aumenta a lo largo de los ciclos sucesivos.
+D) Que acortar la noche de sueño no afecta la cantidad total de sueño REM.
+Correcta: C. Por qué: El registro muestra varios episodios REM cuya duración crece de uno al siguiente, de modo que la conclusión correcta describe ese aumento progresivo. De ahí se sigue además que acortar la noche sacrifica sobre todo el REM, porque se pierden precisamente los ciclos en que este es más extenso.
+
+Pregunta 2 (Comunicar): En una tabla comparativa hay que describir el sueño REM. ¿Cuál es la descripción correcta?
+A) Fase de ondas lentas y profundas en la que el tono muscular se conserva.
+B) Fase con movimientos oculares rápidos y muy bajo tono muscular.
+C) Fase en que cesa por completo la actividad eléctrica del encéfalo.
+D) Fase que ocupa toda la primera mitad de la noche de forma continua.
+Correcta: B. Por qué: La descripción correcta reúne los tres rasgos que definen la fase y que la separan del sueño no REM, cuyo patrón es el opuesto en actividad cerebral y en tono muscular. La actividad eléctrica nunca cesa durante el sueño, y el REM no ocupa de forma continua ninguna mitad de la noche.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere determinar en qué fase del sueño se encuentra una persona durante la noche. ¿Qué conjunto de registros resulta más adecuado?
+A) Frecuencia respiratoria y estatura de la persona estudiada.
+B) Temperatura de la habitación y número de horas transcurridas.
+C) Cantidad de sueños que la persona recuerda al despertar.
+D) Actividad eléctrica cerebral, movimientos oculares y tono muscular.
+Correcta: D. Por qué: Cada fase se define por la combinación de esas tres señales, de modo que registrarlas simultáneamente permite clasificar cada momento de la noche. La frecuencia respiratoria por sí sola es ambigua, la temperatura ambiente no es una variable del sujeto y el recuerdo de sueños es un dato posterior e indirecto.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

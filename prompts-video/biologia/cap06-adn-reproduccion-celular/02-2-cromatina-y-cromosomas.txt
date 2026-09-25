@@ -1,0 +1,36 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 02: 2. Cromatina y cromosomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Cromatina y cromosomas». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente cromatina y cromosomas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «2. Cromatina y cromosomas» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un equipo tiñe núcleos en interfase con un colorante que se une al ADN y, a la vez, marca el ARN recién sintetizado. Encuentra que las zonas teñidas con más intensidad incorporan muy poco ARN nuevo y que las zonas pálidas incorporan mucho. El equipo concluye: «La heterocromatina no contiene genes». ¿Cuál es la evaluación correcta de esta conclusión?
+A) Es válida, porque la heterocromatina se tiñe con más intensidad que la eucromatina.
+B) Es válida, porque en las zonas pálidas se incorporó más ARN que en las zonas oscuras.
+C) Es inválida, porque el ARN se sintetiza solo en el citoplasma y no en el núcleo celular.
+D) Es excesiva, porque transcribir poco no implica que en esa zona no existan genes.
+Correcta: D. Por qué: Los datos muestran una relación: más condensación, menos ARN nuevo. Eso indica baja actividad de transcripción en las zonas oscuras. La conclusión, en cambio, afirma algo más fuerte: que allí no hay genes. Un gen silenciado sigue estando en el ADN; simplemente no se lee. Por eso la conclusión sobrepasa la evidencia: es excesiva.
+
+Pregunta 2 (Planificar y conducir una investigación): Para probar que las histonas protegen al ADN que envuelven, un grupo trata cromatina aislada con una enzima que corta el ADN expuesto. Obtiene fragmentos de tamaños regulares. ¿Qué control es necesario para atribuir ese resultado a las histonas?
+A) Tratar ADN purificado, sin histonas, con la misma enzima y en iguales condiciones.
+B) Tratar la misma cromatina con una enzima distinta y a una temperatura más alta.
+C) Repetir el ensayo con cromatina de otra especie y con mayor cantidad de enzima.
+D) Medir la cantidad de histonas de la cromatina antes de agregar la enzima.
+Correcta: A. Por qué: La variable independiente es la presencia de histonas. Un buen control mantiene todo igual (enzima, tiempo, temperatura) y elimina solo esa variable. Si el ADN sin histonas se corta en fragmentos de cualquier tamaño y la cromatina en tamaños regulares, la diferencia se atribuye a las histonas. Cambiar la enzima, la temperatura o la especie introduce más de una variable a la vez.
+
+Pregunta 3 (Evaluar): Una estudiante tiñó células de raíz de cebolla y, al microscopio, observó que en la mayoría de las células no se distinguían cromosomas individuales, mientras que en unas pocas sí se veían cromosomas compactos. Concluyó: «La mayoría de estas células no tiene ADN; solo las pocas células con cromosomas visibles contienen material genético». ¿Cuál es la principal falla de esta conclusión?
+A) Debió contar las células con un microscopio electrónico de barrido.
+B) Las células de la raíz no tienen núcleo porque no hacen fotosíntesis.
+C) Confunde la ausencia de cromosomas visibles con la ausencia de ADN.
+D) Los cromosomas visibles corresponden a células que están muriendo.
+Correcta: C. Por qué: La observación es correcta: la mayoría de las células no muestra cromosomas individuales. Pero eso ocurre porque esas células están en interfase, la etapa más larga del ciclo, y su ADN está descondensado como cromatina. Las pocas células con cromosomas visibles están en división. La estudiante interpretó «no veo cromosomas» como «no hay ADN», cuando lo que cambia es el grado de empaque, no la presencia del material genético. Por eso la…
+
+Narración en español de Chile neutro, tono cercano y riguroso.

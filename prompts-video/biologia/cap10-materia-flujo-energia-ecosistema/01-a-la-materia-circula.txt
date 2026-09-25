@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 01: a. La materia circula
+Sección: 2. Los dos recorridos: la materia circula, la energía se degrada
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «La materia circula». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente se reutilizan, ciclos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. La materia circula», dentro de la sección «2. Los dos recorridos: la materia circula, la energía se degrada» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: se reutilizan, ciclos.
+
+Ideas guía:
+- Los átomos que forman a los seres vivos —carbono, hidrógeno, oxígeno, nitrógeno, fósforo— son los mismos desde que existe la vida.
+- No se crean ni se destruyen: se reutilizan.
+- Un átomo de carbono pasa del aire a una hoja, de la hoja a un herbívoro, del herbívoro a un descomponedor y de vuelta al aire, y puede recorrer ese trayecto muchas veces.
+- Por eso hablamos de ciclos de la materia, que son cerrados: la Tierra no necesita recibir carbono nuevo desde el espacio.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un estudiante advierte que el planeta no recibe carbono nuevo desde el espacio y que, sin embargo, la vida lleva miles de millones de años formando moléculas orgánicas. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Qué procesos devuelven al ambiente el carbono incorporado a los seres vivos?
+B) ¿Cuántos kilogramos de carbono contiene un ser humano adulto promedio?
+C) ¿En qué año se midió por primera vez el carbono de la atmósfera terrestre?
+D) ¿Cuál es el color característico del carbono en su forma de grafito?
+Correcta: A. Por qué: Lo llamativo de la observación es que un aporte cerrado sostenga una actividad indefinida, y eso solo puede explicarse si el carbono regresa al ambiente. Preguntar por esos procesos de retorno es continuar la observación; las demás opciones piden datos de cantidad, historia o apariencia que no resuelven la aparente contradicción.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un experimento se riega una planta con agua que contiene un isótopo marcado de carbono en forma de bicarbonato. Semanas después el isótopo se detecta en el tejido de los caracoles que comieron las hojas y en el suelo bajo la maceta. ¿Qué demuestra ese resultado?
+A) Que el carbono se transforma en energía al pasar de un organismo a otro.
+B) Que el carbono se transfiere entre compartimientos sin desaparecer del sistema.
+C) Que los caracoles fabrican su propio carbono a partir de la energía del alimento.
+D) Que el carbono queda atrapado de forma permanente en el tejido vegetal.
+Correcta: B. Por qué: El isótopo aparece sucesivamente en la planta, en el consumidor y en el suelo: es el mismo átomo cambiando de lugar. Eso es precisamente lo que muestra un ciclo de materia. La energía, en cambio, no es materia y no puede formarse a partir del carbono, de modo que el marcador no dice nada sobre ella.
+
+Pregunta 3 (Comunicar): Se quiere explicar en una frase por qué los ciclos de la materia se llaman «cerrados». ¿Cuál es la formulación adecuada?
+A) Porque ningún organismo puede intervenir en ellos una vez iniciados.
+B) Porque ocurren únicamente dentro de los cuerpos de los seres vivos.
+C) Porque se detienen por completo cuando muere el último organismo.
+D) Porque los mismos átomos se reutilizan y el sistema no requiere materia nueva.
+Correcta: D. Por qué: «Cerrado» se refiere a que no hay entrada ni salida neta de materia del sistema, no a que sea inaccesible o exclusivo de los seres vivos. De hecho, buena parte del ciclo transcurre en la atmósfera, el suelo y el océano, es decir, fuera de los organismos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

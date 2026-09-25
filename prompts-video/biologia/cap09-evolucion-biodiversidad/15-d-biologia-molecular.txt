@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 15: d. Biología molecular
+Sección: 4. Evidencias evolutivas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Biología molecular». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente cuantificar, citocromo c, idéntica, un, reloj molecular, número de diferencias, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Biología molecular», dentro de la sección «4. Evidencias evolutivas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: cuantificar, citocromo c, idéntica, un, reloj molecular, número de diferencias.
+
+Ideas guía:
+- Es hoy la evidencia más fina y la que la PAES pregunta con más frecuencia, porque permite cuantificar el parentesco.
+- El código genético es prácticamente universal.
+- El mismo codón especifica el mismo aminoácido en una bacteria, en un roble y en una persona.
+- Esta coincidencia solo tiene sentido si todos los linajes heredaron el código de un ancestro común.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se comparan las diferencias en una misma proteína entre la especie W y otras cuatro: con X difiere en 2 aminoácidos, con Y en 9, con Z en 24 y con V en 41. ¿Con cuál de ellas comparte W el ancestro común más reciente?
+A) La especie X, que difiere en 2 aminoácidos.
+B) La especie V, que difiere en 41 aminoácidos.
+C) La especie Z, que difiere en 24 aminoácidos.
+D) La especie Y, que difiere en 9 aminoácidos.
+Correcta: A. Por qué: Cuantas menos diferencias, menos tiempo transcurrió desde la separación. La secuencia de valores es 2, 9, 24 y 41, y el mínimo corresponde a la especie X. Por lo tanto, W y X comparten el ancestro común más reciente, y V es la más distante de las cuatro.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo halla en el altiplano un roedor que no logra clasificar y debe determinar cuál de tres géneros conocidos es su pariente más cercano. Dispone de ejemplares de los tres géneros. ¿Qué procedimiento responde directamente a esa pregunta?
+A) Medir el largo del cuerpo y de la cola en ejemplares adultos de los cuatro grupos.
+B) Registrar el tipo de madriguera que construye cada uno de los cuatro grupos.
+C) Comparar la dieta y el horario de actividad de los cuatro grupos durante un año.
+D) Secuenciar un mismo gen en los cuatro grupos y contar las diferencias entre ellos.
+Correcta: D. Por qué: Los tres primeros procedimientos miden características que dependen fuertemente del ambiente: dos roedores no emparentados que viven en el mismo altiplano pueden tener tamaños, madrigueras y horarios semejantes. Secuenciar un mismo gen en los cuatro grupos entrega un dato heredado, y el menor número de diferencias indica el pariente más cercano.
+
+Pregunta 3 (Evaluar): Un estudiante afirma: «Como el código genético es prácticamente el mismo en bacterias, plantas y animales, entonces todos estos organismos deben tener un metabolismo idéntico». ¿Qué corresponde objetar?
+A) Que el código genético en realidad es distinto en cada uno de los tres grupos mencionados.
+B) Que el código genético no se hereda y por eso no informa sobre el parentesco.
+C) Que el código relaciona codones con aminoácidos, no rutas metabólicas.
+D) Que las bacterias carecen de código genético, porque no poseen núcleo definido.
+Correcta: C. Por qué: El código es una regla de traducción, no un inventario de reacciones. Compartirlo indica herencia común, pero no dice nada sobre qué proteínas fabrica cada organismo ni sobre qué rutas metabólicas usa. De hecho, los tres grupos mencionados tienen metabolismos muy distintos pese a compartir el código.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

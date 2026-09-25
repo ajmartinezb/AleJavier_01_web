@@ -1,0 +1,42 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 17: f. Cómo se combinan las cinco líneas
+Sección: 4. Evidencias evolutivas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Cómo se combinan las cinco líneas». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente orden temporal, cuantificado, mismo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «f. Cómo se combinan las cinco líneas», dentro de la sección «4. Evidencias evolutivas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: orden temporal, cuantificado, mismo.
+
+Ideas guía:
+- Ninguna de estas líneas basta por sí sola, y ahí está la fuerza del conjunto: que cinco métodos con supuestos y fuentes de error completamente distintos reconstruyan el mismo árbol es lo que hace que la explicación evolutiva sea la mejor disponible.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un equipo debe establecer el orden temporal en que aparecieron tres caracteres anatómicos dentro de un linaje. ¿Qué línea de evidencia responde directamente a esa pregunta?
+A) La biogeografía, comparando la distribución actual de las especies del linaje.
+B) El registro fósil, comparando en qué estratos aparece por primera vez cada carácter.
+C) La embriología, comparando la duración total del desarrollo de cada una de las especies.
+D) La anatomía comparada, midiendo el tamaño de cada carácter en las especies actuales.
+Correcta: B. Por qué: La pregunta es explícitamente temporal: en qué orden aparecieron tres caracteres. Solo el registro fósil sitúa cada carácter en un estrato y, por lo tanto, en una fecha. Las otras líneas permiten reconstruir parentescos y procesos, pero no fechan por sí solas la aparición de un rasgo.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un informe reúne cuatro resultados sobre un mismo grupo: los fósiles aparecen en un orden determinado, las extremidades comparten los mismos huesos, las secuencias de un gen difieren poco entre dos especies y ambas habitan continentes que estuvieron unidos. ¿Qué aporta en conjunto esta combinación?
+A) Muestra que líneas independientes convergen en una misma reconstrucción.
+B) Muestra que las cinco líneas de evidencia miden en realidad una misma variable.
+C) Muestra que basta una de estas líneas para reconstruir con seguridad un parentesco.
+D) Muestra que la evidencia molecular contradice lo que indica el registro fósil.
+Correcta: A. Por qué: Los cuatro resultados provienen de disciplinas distintas y apuntan en la misma dirección: un orden temporal coherente, una homología anatómica, una cercanía molecular y una explicación geográfica compatible. Eso es convergencia de evidencia independiente, que es precisamente lo que hace sólida la reconstrucción.
+
+Pregunta 3 (Comunicar): Un equipo debe presentar en un congreso escolar las evidencias de la evolución de un grupo de mamíferos acuáticos. ¿Qué organización de la presentación comunica con mayor fidelidad el razonamiento científico?
+A) Presentar solo la línea de evidencia que arrojó el resultado más llamativo del estudio.
+B) Presentar las conclusiones finales sin mencionar de qué evidencia fueron obtenidas.
+C) Presentar las evidencias ordenadas según la antigüedad de su fecha de publicación.
+D) Presentar cada línea de evidencia, lo que aporta cada una y cómo coinciden entre sí.
+Correcta: D. Por qué: Si se presenta una sola línea, el público no puede evaluar la solidez del conjunto. Si se presentan solo las conclusiones, no puede evaluar nada. Ordenar por fecha de publicación agrega un criterio ajeno al argumento. Exponer cada línea, lo que aporta y cómo coincide con las demás reproduce el razonamiento efectivamente seguido.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

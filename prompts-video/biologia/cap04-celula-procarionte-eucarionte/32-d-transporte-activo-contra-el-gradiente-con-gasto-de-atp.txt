@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 32: d. Transporte activo: contra el gradiente, con gasto de ATP
+Sección: 9. La membrana plasmática y el transporte de sustancias
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Transporte activo: contra el gradiente, con gasto de ATP». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente ya está más concentrada, saca 3 Na<sup>+</sup>, mete 2 K<sup>+</sup>, Transporte activo secundario (cotransporte), glucosa, cianuro, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Transporte activo: contra el gradiente, con gasto de ATP», dentro de la sección «9. La membrana plasmática y el transporte de sustancias» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ya está más concentrada, saca 3 Na<sup>+</sup>, mete 2 K<sup>+</sup>, Transporte activo secundario (cotransporte), glucosa, cianuro.
+
+Ideas guía:
+- Cuando la célula necesita acumular una sustancia en el lado donde ya está más concentrada, debe gastar energía.
+- Bomba de sodio y potasio (Na+/K+): por cada ATP que usa, saca 3 Na+ y mete 2 K+.
+- Mantiene el sodio alto afuera y el potasio alto adentro, lo que es indispensable para el impulso nervioso (capítulo 11) y para regular el volumen celular.
+- Puede consumir una fracción muy grande del ATP de una neurona en reposo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se midió la concentración de K+ dentro de células musculares en un medio con 5 mM de K+. En células sin tratar, la concentración interna se mantuvo en 140 mM. En células tratadas con cianuro, bajó de 140 a 60 mM en 2 horas. ¿Qué se concluye de estos datos?
+A) El K+ sale de la célula por transporte activo, que el cianuro acelera notablemente.
+B) El cianuro abre canales que permiten la entrada rápida de K+ a la célula.
+C) Mantener el K+ interno alto requiere ATP, que el cianuro deja de producir.
+D) El K+ entra por difusión simple, ya que su concentración baja en la célula.
+Correcta: C. Por qué: El K+ está mucho más concentrado dentro (140 mM) que fuera (5 mM), así que tiende a salir. En células normales la concentración interna se mantiene porque la bomba lo reingresa gastando ATP. Con cianuro no hay ATP suficiente, la bomba se detiene y el K+ sale a favor de su gradiente hasta 60 mM. Se concluye que mantener el K+ alto es un proceso dependiente de energía.
+
+Pregunta 2 (Planificar y conducir una investigación): Una bióloga sospecha que la absorción de un aminoácido por células intestinales es un transporte activo. Para ponerlo a prueba, ¿qué comparación debe realizar?
+A) Medir la absorción del aminoácido en células con y sin un inhibidor de la producción de ATP.
+B) Medir la absorción del aminoácido en células de intestino y de hígado, sin otros tratamientos.
+C) Medir la absorción de dos aminoácidos distintos en células intestinales, sin otros tratamientos.
+D) Medir la absorción del aminoácido en células intestinales incubadas durante tiempos distintos.
+Correcta: A. Por qué: La hipótesis se refiere al gasto de energía, así que la variable que debe manipularse es la disponibilidad de ATP. El diseño A compara células con y sin inhibidor, manteniendo igual la sustancia y el tipo celular: si la absorción cae con el inhibidor, se apoya la hipótesis. B compara tejidos, C compara sustancias y D compara tiempos; ninguno cambia el ATP disponible.
+
+Pregunta 3 (Evaluar): En un experimento con neuronas se bloqueó por completo la bomba Na+/K+ con una droga específica. Luego de un tiempo, el Na+ interno había aumentado y las células se habían hinchado. Un estudiante afirma: «Esto demuestra que la bomba participa en la regulación del volumen celular». ¿Cuál es la mejor evaluación de su afirmación?
+A) Es inválida, porque la bomba solo participa en el impulso nervioso y no en el volumen.
+B) Es inválida, porque la acumulación de Na+ haría salir agua de la célula y la encogería.
+C) Es válida, porque demuestra que la bomba es el único mecanismo que regula el volumen.
+D) Es válida, porque al acumularse Na+ dentro, entra agua por ósmosis y la célula se hincha.
+Correcta: D. Por qué: Al bloquear la bomba, el Na+ que entra por canales no vuelve a salir y se acumula. El interior queda con más solutos que el medio, que se vuelve hipotónico en comparación, y el agua entra por ósmosis: la célula se hincha. El resultado apoya que la bomba contribuye a regular el volumen. La afirmación no dice que sea el único mecanismo, lo que sí haría C.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

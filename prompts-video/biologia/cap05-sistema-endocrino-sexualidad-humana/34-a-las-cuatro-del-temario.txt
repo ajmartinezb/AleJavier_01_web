@@ -1,0 +1,44 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 34: a. Las cuatro del temario
+Sección: 9. Infecciones de transmisión sexual
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Las cuatro del temario». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente VIH, Herpes genital, Gonorrea, Clamidia, Agente, Transmisión, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Las cuatro del temario», dentro de la sección «9. Infecciones de transmisión sexual» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: VIH, Herpes genital, Gonorrea, Clamidia, Agente, Transmisión.
+
+Ideas guía:
+- El rasgo que más se pregunta: muchas ITS son asintomáticas.
+- La clamidia y la gonorrea pueden cursar sin síntomas durante meses, y en ese tiempo se transmiten igual y pueden dejar secuelas.
+- De ahí se siguen dos conclusiones que la prueba busca: no tener síntomas no prueba que no haya infección, y por eso el examen periódico es parte de la prevención y no solo del diagnóstico.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Se quiere estimar cuántos casos de clamidia hay en una población de estudiantes, sabiendo que la infección suele ser asintomática. ¿Qué estrategia es la adecuada?
+A) Examinar únicamente a quienes consultan por molestias urinarias.
+B) Preguntar a los estudiantes si creen tener alguna infección.
+C) Revisar los registros de consultas por resfríos del último año.
+D) Aplicar un examen de tamizaje a una muestra representativa, con o sin síntomas.
+Correcta: D. Por qué: Si se examina solo a quienes consultan, se subestima sistemáticamente la magnitud del problema, porque la mayoría de los casos no produce molestias. Un tamizaje aplicado a una muestra representativa, con independencia de los síntomas, es la única forma de estimar la frecuencia real.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una persona recibe un diagnóstico de clamidia y consulta por qué no había notado nada. ¿Cuál es la explicación correcta?
+A) La clamidia cursa muy a menudo sin síntomas, sobre todo en mujeres.
+B) La clamidia solo produce síntomas después de varios años de infección.
+C) La clamidia no produce ningún daño mientras no haya síntomas visibles.
+D) La clamidia solo puede diagnosticarse cuando aparecen los síntomas.
+Correcta: A. Por qué: Es una infección que puede pasar inadvertida durante meses y, aun así, transmitirse y dañar el aparato reproductor. Por eso el diagnóstico suele hacerse en un examen de rutina o al estudiar una consulta por infertilidad, y no por síntomas. Esa es la razón de recomendar exámenes periódicos.
+
+Pregunta 3 (Comunicar): En una tabla de ITS hay que completar la celda «transmisión» del VIH. ¿Cuál es el contenido correcto?
+A) Solo por transfusión de sangre contaminada.
+B) Contacto casual, como dar la mano o compartir utensilios.
+C) Relaciones sexuales sin protección, sangre y de la madre al hijo.
+D) Exclusivamente por vía sexual, sin otras vías posibles.
+Correcta: C. Por qué: La celda debe incluir las tres vías, sin omitir ninguna ni agregar vías inexistentes. El contacto casual no transmite el virus, y afirmarlo alimenta un estigma sin base. Restringirlo a una sola vía, por su parte, deja fuera situaciones relevantes para la prevención.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

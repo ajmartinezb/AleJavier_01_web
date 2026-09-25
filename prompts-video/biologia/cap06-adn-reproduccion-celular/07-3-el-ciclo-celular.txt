@@ -1,0 +1,43 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 07: 3. El ciclo celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «El ciclo celular». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente interfase, fase M, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «3. El ciclo celular» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: interfase, fase M.
+
+Ideas guía:
+- El ciclo celular es la secuencia ordenada de eventos por la que una célula crece, duplica su contenido y se divide en dos células hijas.
+- Tiene dos grandes etapas: la interfase y la fase M (mitosis más citocinesis).
+- Ciclo celular con sus fases y puntos de control.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Una investigadora observa al microscopio dos tejidos de un mismo ratón adulto. En el epitelio intestinal encuentra muchas células en división, mientras que en el tejido nervioso del cerebro no encuentra ninguna en todo el campo observado. ¿Cuál de las siguientes preguntas de investigación se desprende directamente de esta observación?
+A) ¿Por qué las células de un tejido se dividen más a menudo que las del otro?
+B) ¿Cuántos cromosomas tiene cada célula del epitelio intestinal del ratón adulto?
+C) ¿Qué tipo de nutrientes absorbe el epitelio intestinal del ratón a lo largo del día?
+D) ¿Por qué las neuronas del ratón presentan un núcleo más grande que el de otras células?
+Correcta: A. Por qué: Lo observado es una diferencia en la frecuencia de división entre dos tejidos del mismo animal. Una buena pregunta debe relacionar ambas variables: el tejido y la cantidad de células en división. Solo la alternativa A apunta a explicar ese contraste a partir del ciclo celular. Las demás tratan sobre número de cromosomas, nutrición o tamaño nuclear, que no fueron observados ni explican la diferencia.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere determinar si un factor de crecimiento acorta la duración del ciclo celular en fibroblastos humanos en cultivo. Dispone de placas con igual número inicial de células, el mismo medio y la misma temperatura. ¿Cuál diseño permite responder su pregunta?
+A) Agregar el factor a todas las placas y contar las células a las 24 horas.
+B) Agregar el factor a la mitad de las placas y medir cada cuánto se duplica la población.
+C) Agregar el factor a la mitad de las placas y medir el tamaño de las células al día siguiente.
+D) Cultivar las placas con distintos medios y contar las células que están en mitosis.
+Correcta: B. Por qué: La variable independiente es la presencia del factor, así que hace falta comparar placas con y sin factor, manteniendo lo demás constante. La variable dependiente debe reflejar la duración del ciclo: el tiempo de duplicación de la población lo hace. La opción B cumple ambas condiciones. Las otras omiten el control, miden otra variable o cambian simultáneamente varias condiciones.
+
+Pregunta 3 (Evaluar): Un estudiante afirma: «Como la interfase ocupa más del 90 % del ciclo, una célula en interfase está en reposo y solo se prepara para dividirse al final». Para evaluarla, revisa un experimento en que se bloqueó la síntesis de proteínas solo durante G1 y las células no llegaron a replicar su ADN. ¿Qué conclusión es correcta?
+A) La afirmación se sostiene, porque el bloqueo en G1 afecta solo a la fase S posterior.
+B) La afirmación se sostiene, porque en interfase no se observan cromosomas condensados.
+C) La afirmación se refuta, porque G1 aporta procesos activos necesarios para seguir el ciclo.
+D) La afirmación se refuta, porque el experimento demuestra que la mitosis ocurre en G1.
+Correcta: C. Por qué: Si impedir la síntesis de proteínas únicamente en G1 detiene el avance hacia la replicación, entonces G1 no es un reposo: la célula realiza en ella procesos imprescindibles para continuar. Por eso la evidencia contradice la afirmación, como plantea C. Que la cromatina esté descondensada no significa inactividad, y la mitosis no ocurre en G1.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

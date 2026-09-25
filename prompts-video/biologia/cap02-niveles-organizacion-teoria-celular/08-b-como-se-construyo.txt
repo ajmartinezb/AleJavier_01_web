@@ -1,0 +1,45 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 08: b. Cómo se construyó
+Sección: 4. La teoría celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Cómo se construyó». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente 1665, «celdas», Década de 1670, 1838 y 1839, 1855, 1861, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Cómo se construyó», dentro de la sección «4. La teoría celular» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: 1665, «celdas», Década de 1670, 1838 y 1839, 1855, 1861.
+
+Ideas guía:
+- Por qué es una teoría y no una hipótesis.
+- No porque sea una suposición, sino al revés: una teoría científica es una explicación amplia, sostenida por muchísima evidencia independiente, que organiza un campo entero.
+- La teoría celular lleva casi dos siglos resistiendo pruebas y ninguna observación la ha contradicho.
+- El capítulo 1 desarrolla esta distinción, que la PAES pregunta con frecuencia.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Robert Hooke observó en 1665 cortes de corcho al microscopio y llamó «celdas» a los compartimentos que vio. ¿Qué estaba observando en realidad?
+A) Células vegetales vivas en plena división.
+B) Núcleos de células animales teñidos con colorante.
+C) Microorganismos adheridos a la superficie del corcho.
+D) Paredes celulares vacías de un tejido vegetal muerto.
+Correcta: D. Por qué: Por eso el nombre que eligió aludía a las celdas de un monasterio: lo que llamaba la atención eran los huecos, no el contenido. Hooke no vio material vivo ni supo qué función cumplían esas estructuras. Las primeras células vivas, los llamados animálculos, las observó van Leeuwenhoek pocos años después con lentes de mayor aumento.
+
+Pregunta 2 (Observar y plantear preguntas): Los avances de la teoría celular dependieron de mejoras técnicas en los microscopios. ¿Cuál de las siguientes preguntas de investigación refleja mejor esa relación?
+A) ¿Cómo influyó la resolución del microscopio en las estructuras descritas?
+B) ¿Quién fue el primero en publicar un libro con dibujos hechos al microscopio?
+C) ¿Cuántos microscopios llegaron a fabricarse en Europa durante el siglo XVII?
+D) ¿En qué ciudad vivía cada uno de los autores que formularon la teoría celular?
+Correcta: A. Por qué: La pregunta correcta relaciona una variable técnica, el poder de resolución, con una consecuencia observable, las estructuras descritas. Las demás piden datos históricos puntuales que se responden consultando un registro y que no establecen ninguna relación entre variables. Distinguir una pregunta relacional de una pregunta de dato es una destreza que la prueba evalúa de forma habitual.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere reproducir la observación de van Leeuwenhoek sobre los microorganismos de una infusión vegetal. ¿Qué procedimiento es el más adecuado?
+A) Hervir la infusión y observarla de inmediato al microscopio.
+B) Dejar reposar la infusión varios días al aire y observar muestras sucesivas al microscopio.
+C) Filtrar la infusión con papel y observar solo el líquido filtrado.
+D) Secar la infusión al sol y observar el residuo sólido al microscopio.
+Correcta: B. Por qué: El reposo al aire durante varios días permite que esas poblaciones crezcan hasta ser visibles, y tomar muestras sucesivas muestra además el aumento en el tiempo. Hervir e inmediatamente observar destruye los microorganismos, filtrar retiene buena parte de ellos y secar al sol mata las células y elimina el medio líquido donde se mueven.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

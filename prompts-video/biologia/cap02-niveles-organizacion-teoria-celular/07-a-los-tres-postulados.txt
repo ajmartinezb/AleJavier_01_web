@@ -1,0 +1,43 @@
+Capítulo 2: Niveles de organización y teoría celular · Biología PAES — Ciencias
+Video 07: a. Los tres postulados
+Sección: 4. La teoría celular
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo zoom progresivo tipo «potencias de diez», de la molécula a la biósfera, con capas que se abren, pensado para el tema «Los tres postulados». Paleta: verdes y turquesas sobre fondo blanco hueso. Recursos gráficos: cajas anidadas, escaleras de niveles y siluetas de seres vivos. Cada escena debe mostrar visualmente los tres postulados, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Los tres postulados», dentro de la sección «4. La teoría celular» del Capítulo 2: Niveles de organización y teoría celular. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- La teoría celular sostiene tres cosas: Todos los seres vivos están formados por una o más células.
+- La célula es la unidad estructural y funcional de la vida, es decir, la unidad más pequeña capaz de realizar todas las funciones vitales.
+- Toda célula proviene de otra célula preexistente.
+- El tercer postulado es el más tardío y el que más cuesta: implica que no hay generación espontánea, que la vida actual desciende de células anteriores y, llevado al extremo, que existe una continuidad ininterrumpida desde las primeras células hasta hoy.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se examinan tres afirmaciones: I. Todos los seres vivos están formados por células. II. La célula es la unidad estructural y funcional. III. Toda célula proviene de otra célula. ¿Cuál de ellas fue el último postulado en incorporarse a la teoría celular?
+A) La afirmación I, propuesta por Schleiden en 1838.
+B) La afirmación II, propuesta por Schwann en 1839.
+C) Las tres se propusieron simultáneamente en 1839.
+D) La afirmación III, propuesta por Virchow en 1855.
+Correcta: D. Por qué: El postulado de Virchow, resumido en la frase latina que significa «toda célula procede de una célula», llegó casi dos décadas después y fue el que cerró el modelo, porque respondía a la pregunta por el origen. La última alternativa contradice el hecho de que la teoría se construyó por etapas, con aportes de distintas personas y a lo largo de varias décadas.
+
+Pregunta 2 (Evaluar): Se descubre un organismo cuyo cuerpo está formado por una masa continua de citoplasma con muchos núcleos y sin tabiques entre ellos. ¿Qué implica este hallazgo para la teoría celular?
+A) No la refuta: son células que comparten citoplasma tras dividir sus núcleos.
+B) La refuta, porque demuestra que existen seres vivos que no están hechos de células.
+C) La refuta, porque los núcleos se habrían originado sin ninguna célula previa a ellos.
+D) No la refuta, porque ese organismo no puede considerarse un ser vivo verdadero.
+Correcta: A. Por qué: Los organismos cenocíticos, como ciertos hongos y algas, se forman cuando los núcleos se dividen sin que el citoplasma se separe. Siguen siendo material celular derivado de células previas, de modo que ningún postulado queda en entredicho. Afirmar que el organismo no está vivo es un recurso fácil que contradice la evidencia, y sostener que los núcleos surgieron sin células previas inventa un hecho no observado.
+
+Pregunta 3 (Comunicar): Para un afiche escolar hay que resumir el tercer postulado de la teoría celular en una frase breve y exacta. ¿Cuál es la mejor opción?
+A) Toda célula contiene un núcleo con material genético.
+B) Toda célula puede vivir de manera independiente del organismo.
+C) Toda célula proviene de otra célula preexistente.
+D) Toda célula se origina a partir de moléculas orgánicas del medio.
+Correcta: C. Por qué: La segunda alternativa es directamente falsa para las células procariontes, que no tienen núcleo; la tercera lo es para la mayoría de las células de un organismo pluricelular, que dependen del conjunto; y la cuarta enuncia precisamente la generación espontánea que el postulado vino a descartar. Un afiche exige precisión, porque una frase inexacta se memoriza tal cual.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

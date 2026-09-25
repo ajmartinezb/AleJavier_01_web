@@ -1,0 +1,44 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 23: b. Qué desencadena la pubertad
+Sección: 7. Caracteres sexuales y dimensiones de la sexualidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Qué desencadena la pubertad». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente hipotálamo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Qué desencadena la pubertad», dentro de la sección «7. Caracteres sexuales y dimensiones de la sexualidad» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: hipotálamo.
+
+Ideas guía:
+- La pubertad no comienza en las gónadas, sino en el hipotálamo: aumenta la secreción pulsátil de GnRH, con ella suben la FSH y la LH, y las gónadas empiezan a producir hormonas sexuales en cantidad.
+- Es el mismo eje de la sección 2, que se activa después de estar frenado durante la infancia.
+- Ese inicio depende también del estado nutricional y de la cantidad de tejido adiposo, lo que explica que tanto la desnutrición como el exceso de peso puedan adelantar o retrasar su comienzo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En la infancia el eje reproductivo permanece poco activo y en la adolescencia comienza a funcionar. ¿Qué cambio inicia la pubertad?
+A) La aparición de los caracteres sexuales secundarios visibles.
+B) El aumento de la secreción pulsátil de GnRH en el hipotálamo.
+C) El inicio espontáneo de la producción de gametos en la gónada.
+D) La disminución de la sensibilidad de la piel a los estrógenos.
+Correcta: B. Por qué: Los caracteres secundarios y la producción de gametos son consecuencias, no causas: aparecen después de que el eje se activa. Es el mismo eje descrito en la sección 2, que estaba frenado durante la infancia y se pone en marcha en esta etapa.
+
+Pregunta 2 (Evaluar): Se afirma que «la pubertad depende solo de la edad cronológica y no de otros factores». ¿Cuál es la evaluación adecuada?
+A) Es inadecuada: el estado nutricional también influye en su inicio.
+B) Es correcta: la pubertad comienza siempre a la misma edad exacta.
+C) Es inadecuada, porque la pubertad no tiene relación con la edad.
+D) Es correcta, porque el eje hormonal se activa por un reloj interno inmodificable.
+Correcta: A. Por qué: La edad es un factor, pero no el único. El hipotálamo integra información sobre el estado energético del organismo antes de activar el eje, lo que tiene sentido biológico: la reproducción exige reservas. Por eso el inicio de la pubertad varía entre personas y entre poblaciones.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante advierte que el eje hormonal reproductivo existe desde la infancia, pero se mantiene poco activo hasta la pubertad. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuántos años dura en promedio la etapa escolar de una persona?
+B) ¿Qué nombre reciben las hormonas que produce la hipófisis posterior?
+C) ¿Qué frena el eje en la infancia y qué lo libera en la pubertad?
+D) ¿Cuál es el peso del encéfalo de una persona al nacer?
+Correcta: C. Por qué: Lo llamativo es que la estructura ya existe y permanece silenciosa durante años, lo que implica un mecanismo de freno y otro de liberación. Preguntar por ellos es continuar la observación. Las demás opciones piden datos escolares, de nomenclatura o de anatomía sin relación con el fenómeno.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

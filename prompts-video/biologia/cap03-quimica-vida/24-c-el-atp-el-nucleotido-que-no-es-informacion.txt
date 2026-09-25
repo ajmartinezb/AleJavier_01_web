@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 24: c. El ATP, el nucleótido que no es información
+Sección: 7. Ácidos nucleicos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «El ATP, el nucleótido que no es información». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente ATP, Cómo se pregunta, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. El ATP, el nucleótido que no es información», dentro de la sección «7. Ácidos nucleicos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ATP, Cómo se pregunta.
+
+Ideas guía:
+- No todos los nucleótidos forman ácidos nucleicos.
+- El ATP es un nucleótido suelto que funciona como la moneda energética de la célula: al romper uno de sus enlaces fosfato libera energía utilizable de inmediato.
+- Aparece en la fotosíntesis, en la respiración celular y en casi todo proceso que consuma energía.
+- Si un enunciado describe una molécula con azúcar, fosfato y base nitrogenada, la respuesta es «nucleótido».
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una molécula está formada por ribosa, tres grupos fosfato y una base nitrogenada, y libera energía al romperse uno de sus enlaces fosfato. ¿De qué se trata?
+A) De un nucleótido del ADN.
+B) De un aminoácido fosforilado.
+C) Del ATP de la célula.
+D) De un fosfolípido de membrana.
+Correcta: C. Por qué: El detalle decisivo es el número de fosfatos: tres. Los nucleótidos del ADN llevan desoxirribosa y quedan con un solo fosfato al incorporarse a la cadena, un aminoácido no contiene base nitrogenada y un fosfolípido no contiene base nitrogenada ni azúcar de cinco carbonos.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere comprobar que una célula usa ATP durante un proceso determinado. ¿Qué medición lo respalda mejor?
+A) Medir la proporción entre ATP y sus productos de degradación durante el proceso.
+B) Medir el volumen total de la célula antes y después del proceso.
+C) Medir la cantidad de ADN presente en el núcleo de la célula.
+D) Medir la temperatura del medio de cultivo al final del proceso.
+Correcta: A. Por qué: Seguir la proporción entre el ATP y esos productos muestra directamente si se está gastando. El volumen celular, la cantidad de ADN y la temperatura del medio son variables que pueden cambiar por muchas razones y no evidencian el consumo de ATP de manera específica.
+
+Pregunta 3 (Observar y plantear preguntas): Se observa que el ATP aparece tanto en la fotosíntesis como en la respiración celular y en la contracción muscular. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?
+A) ¿Cuántas moléculas de ATP contiene una célula muscular en reposo?
+B) ¿En qué año se describió por primera vez la molécula de ATP?
+C) ¿Qué color presenta una solución concentrada de ATP purificado?
+D) ¿Qué propiedad del ATP lo hace adecuado como intermediario energético universal?
+Correcta: D. Por qué: La pregunta correcta interroga qué propiedad lo hace apto para ese papel, y la respuesta apunta a la facilidad con que cede uno de sus fosfatos liberando una cantidad de energía utilizable de inmediato. Contar moléculas, buscar una fecha o describir un color no abordan esa universalidad.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

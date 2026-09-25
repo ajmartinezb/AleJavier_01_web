@@ -1,0 +1,42 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 27: b. Célula procarionte y eucarionte
+Sección: 8. Pared celular y comparación entre tipos de células
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Célula procarionte y eucarionte». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente nucleoide, circular, lineales, 70S, 80S, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Célula procarionte y eucarionte», dentro de la sección «8. Pared celular y comparación entre tipos de células» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: nucleoide, circular, lineales, 70S, 80S.
+
+Ideas guía:
+- Lo que comparten todas las células: membrana plasmática, citoplasma, ribosomas y ADN como material genético.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se comparan dos organismos unicelulares. Organismo 1: diámetro 2 µm, sin envoltura nuclear, un cromosoma circular, ribosomas 70S, flagelo que gira. Organismo 2: diámetro 40 µm, núcleo con envoltura, varios cromosomas lineales, ribosomas 80S en el citosol, flagelo con patrón 9 + 2. Un antibiótico que actúa solo sobre ribosomas 70S se aplica a ambos. ¿Qué predicción es coherente con estos datos?
+A) Frenará la síntesis proteica del organismo 1 y la de las mitocondrias del 2.
+B) Inhibirá por igual la síntesis de proteínas en el citosol de ambos organismos.
+C) No afectará a ninguno, porque ambos poseen ribosomas en su citoplasma.
+D) Afectará solo al organismo 2, porque sus ribosomas del citosol son 80S.
+Correcta: A. Por qué: El organismo 1 es procarionte: sus ribosomas son 70S y el antibiótico frenará su síntesis de proteínas. El organismo 2 es eucarionte: sus ribosomas del citosol son 80S y no se verán afectados, pero sus mitocondrias contienen ribosomas 70S, que sí pueden ser inhibidos.
+
+Pregunta 2 (Observar y plantear preguntas): Un microbiólogo aísla de una fuente termal un organismo de 1,5 µm sin envoltura nuclear, con ribosomas 70S y ADN circular, pero cuya membrana tiene lípidos distintos a los de las bacterias conocidas. ¿Qué pregunta de investigación se desprende de esta observación?
+A) ¿Cuántas mitocondrias tiene este organismo para vivir en una fuente termal?
+B) ¿Cómo se organizan los cromosomas lineales dentro del núcleo del organismo?
+C) ¿Pertenece este procarionte a las bacterias o a otro dominio, como el de las arqueas?
+D) ¿Qué organelos membranosos le permiten sintetizar proteínas a alta temperatura?
+Correcta: C. Por qué: Los rasgos observados (tamaño, sin envoltura, ADN circular, ribosomas 70S) indican un procarionte. El dato que llama la atención es que su membrana difiere de la de las bacterias conocidas. Surge así la pregunta de si pertenece a las bacterias o a otro grupo procarionte, como las arqueas. Las demás preguntas suponen mitocondrias, núcleo u organelos membranosos, que un procarionte no tiene.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere clasificar como procarionte o eucarionte un microorganismo desconocido que mide 3 µm. ¿Qué observación permitiría decidirlo con mayor seguridad?
+A) Medir con precisión su tamaño y compararlo con el de otras células conocidas.
+B) Comprobar si tiene membrana plasmática y ribosomas en el citoplasma.
+C) Comprobar si presenta pared celular por fuera de su membrana plasmática.
+D) Buscar al microscopio electrónico si su ADN está rodeado por una envoltura nuclear.
+Correcta: D. Por qué: El tamaño de 3 µm es típico de procariontes, pero hay eucariontes pequeños, así que no basta. Membrana y ribosomas los tienen todas las células. La pared existe en bacterias, pero también en plantas y hongos. Solo la presencia o ausencia de envoltura nuclear decide la clasificación, y para verla se requiere el microscopio electrónico.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

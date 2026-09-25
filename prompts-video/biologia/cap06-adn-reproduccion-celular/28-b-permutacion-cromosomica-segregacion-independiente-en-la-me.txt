@@ -1,0 +1,43 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 28: b. Permutación cromosómica (segregación independiente) en la metafase I
+Sección: 8. Meiosis y variabilidad genética
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Permutación cromosómica (segregación independiente) en la metafase I». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente al azar, independientemente, 2<sup>n</sup>, 8,4 millones, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Permutación cromosómica (segregación independiente) en la metafase I», dentro de la sección «8. Meiosis y variabilidad genética» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: al azar, independientemente, 2<sup>n</sup>, 8,4 millones.
+
+Ideas guía:
+- En la metafase I, cada par de homólogos se orienta al azar, con el cromosoma materno hacia uno u otro polo, independientemente de los otros pares.
+- El número de combinaciones posibles de cromosomas en los gametos es 2n, donde n es el número de pares: Y eso sin contar el entrecruzamiento, que multiplica aún más las posibilidades.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una investigadora estudia una especie de pez con 2n = 12. Sin considerar el entrecruzamiento, ¿cuántas combinaciones distintas de cromosomas maternos y paternos pueden formarse en los gametos de un individuo por la orientación al azar de los homólogos en la metafase I?
+A) 64
+B) 128
+C) 144
+D) 4096
+Correcta: A. Por qué: Si 2n = 12, hay n = 6 pares de homólogos. Cada par puede orientarse de 2 maneras, independientes entre sí: 2 × 2 × 2 × 2 × 2 × 2 = 2⁶ = 64 combinaciones. El valor 128 corresponde a 2⁷, 144 a elevar 12 al cuadrado, y 4096 a calcular 2¹², usando el número diploide como exponente.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un genetista compara tres especies según el número de combinaciones cromosómicas que pueden originar sus gametos por segregación independiente, sin considerar el entrecruzamiento. La especie X tiene 2n = 6, la especie Y tiene 2n = 10 y la especie Z tiene 2n = 16. ¿Cuántas veces mayor es el número de combinaciones de Z que el de X?
+A) 2 veces
+B) 8 veces
+C) 32 veces
+D) 256 veces
+Correcta: C. Por qué: La especie X tiene n = 3, así que forma 2³ = 8 combinaciones. La especie Z tiene n = 8, así que forma 2⁸ = 256 combinaciones. El cociente es 256 / 8 = 32, es decir, 2⁵. Responder 256 es dar el total de Z sin comparar; 8 es el total de X; 2 surge de dividir los números diploides (16/6 ≈ 2,7) o los pares (8/3) y redondear, sin aplicar potencias. La especie Y es un dato que no se usa.
+
+Pregunta 3 (Planificar y conducir una investigación): Un profesor quiere que sus estudiantes comprueben con un modelo que, en una célula con 2n = 4, la orientación al azar de los pares de homólogos en la metafase I puede generar 4 tipos de gametos. Dispone de fichas de dos colores (materno y paterno) para dos pares de cromosomas. ¿Qué procedimiento es el más adecuado?
+A) Formar un par de fichas y lanzar una moneda para decidir qué color va a cada polo.
+B) Separar las cuatro fichas en dos grupos fijos y repetir la separación varias veces igual.
+C) Contar cuántas fichas hay de cada color y multiplicar ese número por los dos pares.
+D) Lanzar una moneda por cada par, muchas veces, y anotar qué combinación va a un polo.
+Correcta: D. Por qué: El modelo debe incluir los dos pares y un mecanismo al azar distinto para cada uno: una moneda por par cumple esa condición. Repetir muchas veces y anotar qué fichas llegan a un polo permite observar que aparecen 4 combinaciones (2²). Usar un solo par no representa la independencia entre pares; separar siempre igual elimina el azar; y contar fichas no simula el proceso.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

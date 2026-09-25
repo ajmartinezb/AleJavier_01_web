@@ -1,0 +1,44 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 20: b. La comparación que hay que saber
+Sección: 7. Respiración celular: el otro lado del balance
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «La comparación que hay que saber». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente Quién la hace, Dónde, Reactantes, Productos, Energía, Almacena, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. La comparación que hay que saber», dentro de la sección «7. Respiración celular: el otro lado del balance» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Quién la hace, Dónde, Reactantes, Productos, Energía, Almacena.
+
+Ideas guía:
+- Las ecuaciones globales parecen una el revés de la otra, pero ocurren en organelos distintos, con enzimas distintas y por rutas distintas.
+- Y sobre todo: la fotosíntesis necesita un aporte externo de energía (la luz), mientras que la respiración libera energía.
+- Si fueran realmente reversibles, no haría falta el Sol.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una tabla comparativa, ¿qué celda corresponde a la fotosíntesis y cuál a la respiración celular en la fila «cuándo ocurre»?
+A) Fotosíntesis: solo con luz; respiración: de día y de noche.
+B) Fotosíntesis: de día y de noche; respiración: solo con luz.
+C) Fotosíntesis: solo de noche; respiración: solo de día.
+D) Fotosíntesis y respiración: ambas solo durante las horas de luz.
+Correcta: A. Por qué: La fase luminosa no funciona sin luz y, al detenerse, el ciclo de Calvin se frena poco después. La respiración, en cambio, es el modo permanente de obtener ATP y no depende de la luz. Por eso de día ocurren ambas y de noche solo la respiración.
+
+Pregunta 2 (Evaluar): Un estudiante afirma que «como la respiración celular libera energía, es un proceso que las plantas evitan para no desperdiciar lo que producen». ¿Cuál es la objeción correcta?
+A) Es correcta: las plantas solo respiran cuando no pueden fotosintetizar.
+B) Es incorrecta: la respiración entrega el ATP que la célula usa para vivir.
+C) Es incorrecta, porque la respiración celular no libera energía de la materia orgánica.
+D) Es incorrecta, porque las plantas obtienen su ATP directamente de la luz solar.
+Correcta: B. Por qué: Liberar energía no es desperdiciarla: es hacerla utilizable. La glucosa almacena energía, pero ninguna reacción celular funciona directamente con glucosa; todas usan ATP. Por eso una planta que no respirara no podría crecer, transportar sustancias ni sintetizar proteínas, aunque tuviera azúcar de sobra.
+
+Pregunta 3 (Comunicar): Se necesita una frase que resuma la relación entre fotosíntesis y respiración celular para el cierre de una clase. ¿Cuál es la más adecuada?
+A) Una ocurre en las plantas y la otra, exclusivamente en los animales.
+B) Una produce materia y la otra produce la energía del Sol.
+C) Una fabrica el alimento y la otra lo usa para obtener ATP.
+D) Una anula a la otra, de modo que su efecto conjunto es nulo.
+Correcta: C. Por qué: La frase correcta expresa la complementariedad entre ambos procesos sin equipararlos ni oponerlos. Las otras opciones reparten mal los procesos entre los reinos, atribuyen a la respiración la producción de energía solar o repiten el error de creer que ambos se cancelan.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

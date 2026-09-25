@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 13: a. La idea que ordena todo: el factor limitante
+Sección: 6. Variables ambientales que afectan la fotosíntesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «La idea que ordena todo: el factor limitante». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente factor limitante, sube, meseta, otra, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. La idea que ordena todo: el factor limitante», dentro de la sección «6. Variables ambientales que afectan la fotosíntesis» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: factor limitante, sube, meseta, otra.
+
+Ideas guía:
+- En un momento dado, la velocidad de la fotosíntesis está determinada por la variable que está más escasa, no por el promedio de todas.
+- Esa variable es el factor limitante: aumentarla acelera el proceso, mientras que aumentar cualquier otra no cambia nada.
+- Es la misma lógica de una fila de cajas en el supermercado: si hay una sola caja abierta, poner más carros no hace avanzar la fila más rápido; hay que abrir otra caja.
+- Cómo se reconoce el factor limitante en un gráfico.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un cultivo bajo luz intensa y a temperatura óptima aumenta su tasa de fotosíntesis cuando se eleva el CO₂ del aire, pero no cambia cuando se aumenta todavía más la luz. ¿Qué se concluye?
+A) El CO₂ es el factor limitante en esas condiciones de cultivo.
+B) La luz es el factor limitante en esas condiciones de cultivo.
+C) La temperatura es el factor limitante en esas condiciones.
+D) No existe ningún factor limitante en esas condiciones.
+Correcta: A. Por qué: Subir el CO₂ produce un aumento y subir la luz no produce ninguno: ese es exactamente el criterio para identificar al limitante. La luz ya está en exceso, de modo que agregar más no aporta nada, y la temperatura es óptima según el enunciado. Siempre hay alguna variable limitando, así que la última opción es imposible.
+
+Pregunta 2 (Evaluar): Un productor afirma: «Como mis plantas están en una meseta de luz, instalaré lámparas más potentes para aumentar la cosecha». ¿Cuál es la evaluación correcta de esa decisión?
+A) Es acertada, porque más luz siempre aumenta la tasa de fotosíntesis.
+B) Es acertada, porque la meseta indica que falta luz para seguir subiendo.
+C) Es equivocada: en la meseta la luz ya no es el factor limitante.
+D) Es equivocada, porque la luz nunca influye sobre la tasa de fotosíntesis.
+Correcta: C. Por qué: Estar en la meseta significa justamente que la luz dejó de ser el cuello de botella. Aumentarla implica gastar energía sin obtener más cosecha, e incluso puede provocar fotoinhibición. Lo razonable es revisar el CO₂, la temperatura, el agua o los nutrientes minerales.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere determinar cuál es el factor limitante de la fotosíntesis en un invernadero. ¿Cuál es el procedimiento más adecuado?
+A) Aumentar de una vez la luz, el CO₂ y la temperatura y medir el resultado final.
+B) Medir la tasa de fotosíntesis en un solo día sin modificar ninguna variable.
+C) Comparar dos invernaderos que difieren en su ubicación geográfica y su tamaño.
+D) Aumentar una variable por vez y ver cuál produce efecto.
+Correcta: D. Por qué: Solo probando una variable por vez es posible saber cuál produce el cambio. Si se aumentan todas juntas y la tasa sube, no se sabrá a cuál atribuirlo. Una medición única sin manipulación no identifica nada, y comparar invernaderos que difieren en varios aspectos a la vez introduce muchas variables confundidas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

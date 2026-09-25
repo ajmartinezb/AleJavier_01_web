@@ -1,0 +1,44 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 19: a. Qué es y dónde ocurre
+Sección: 7. Respiración celular: el otro lado del balance
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Qué es y dónde ocurre». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente ATP, citoplasma, mitocondria, todas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Qué es y dónde ocurre», dentro de la sección «7. Respiración celular: el otro lado del balance» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: ATP, citoplasma, mitocondria, todas.
+
+Ideas guía:
+- La respiración celular aerobia oxida moléculas orgánicas usando O2 para obtener ATP, la moneda energética de la célula.
+- Ocurre en el citoplasma (glucólisis) y en la mitocondria (ciclo de Krebs y cadena transportadora de electrones), y la hacen todas las células con metabolismo aerobio: las de un animal, las de un hongo y también las de una planta.
+- C6H12O6 + 6 O2 → 6 CO2 + 6 H2O + energía (ATP + calor)
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se aísla la fracción mitocondrial de células de raíz de una planta y se le suministra glucosa y O₂. Se registra producción de CO₂ y de ATP. ¿Qué demuestra ese resultado?
+A) Que las células de la raíz realizan fotosíntesis en sus mitocondrias.
+B) Que la raíz obtiene su ATP directamente de la luz que llega al suelo.
+C) Que la mitocondria de las plantas cumple la función de un cloroplasto.
+D) Que las células de la raíz realizan respiración celular.
+Correcta: D. Por qué: Consumir glucosa y O₂ y producir CO₂ y ATP es la firma exacta de la respiración celular. El resultado confirma que las células vegetales no fotosintéticas, como las de la raíz, dependen por completo de ella. La fotosíntesis, en cambio, necesitaría luz y cloroplastos, que la raíz no tiene.
+
+Pregunta 2 (Comunicar): Se pide completar la fila «dónde ocurre» de una tabla, en la columna de la respiración celular aerobia. ¿Cuál es el contenido correcto?
+A) En los tilacoides y en el estroma del cloroplasto.
+B) Exclusivamente en el núcleo de la célula eucarionte.
+C) En el citoplasma y en la mitocondria de la célula.
+D) En la pared celular de las células vegetales.
+Correcta: C. Por qué: El proceso está repartido entre dos compartimientos, y ambos deben aparecer en la celda. Los tilacoides y el estroma corresponden a la fotosíntesis, el núcleo alberga el material genético y la pared celular es una estructura de sostén sin función respiratoria.
+
+Pregunta 3 (Observar y plantear preguntas): Un estudiante advierte que los tejidos vegetales que más ATP necesitan, como los meristemas en crecimiento, son también los que tienen más mitocondrias. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuántos centímetros crece un meristema durante una temporada completa?
+B) ¿Hay relación entre la demanda de ATP y el número de mitocondrias?
+C) ¿Qué nombre reciben las distintas partes del tejido meristemático vegetal?
+D) ¿En qué siglo se describieron por primera vez los tejidos meristemáticos?
+Correcta: B. Por qué: La observación describe una coincidencia entre dos características, así que la pregunta pertinente busca si esa asociación es sistemática. Responderla exige medir ambas variables en varios tejidos y comparar. Las demás opciones piden datos de crecimiento, nomenclatura o historia que no ponen a prueba la asociación.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

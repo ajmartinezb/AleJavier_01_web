@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 02: b. La energía se degrada
+Sección: 2. Los dos recorridos: la materia circula, la energía se degrada
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «La energía se degrada». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente luz solar, calor, unidireccional, circula, fluye, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. La energía se degrada», dentro de la sección «2. Los dos recorridos: la materia circula, la energía se degrada» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: luz solar, calor, unidireccional, circula, fluye.
+
+Ideas guía:
+- La energía, en cambio, hace un viaje de ida.
+- Entra al ecosistema como luz solar, los productores capturan una parte y la guardan en enlaces químicos, y de ahí en adelante cada transferencia y cada reacción pierden una fracción como calor.
+- El calor se disipa al ambiente y ningún organismo puede volver a usarlo para fabricar materia orgánica.
+- Por eso el flujo de energía es unidireccional y por eso el ecosistema necesita un aporte permanente de luz: si el Sol se apagara, los ciclos de la materia se detendrían en pocos años.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un ecosistema entran 1 000 000 de unidades de energía solar por metro cuadrado y por año, y los productores incorporan a materia orgánica 12 000 de esas unidades. ¿Qué porcentaje de la energía incidente queda incorporado y adónde va el resto?
+A) Un 1,2 %; el resto se refleja, atraviesa el sistema o se disipa como calor.
+B) Un 12 %; el resto queda almacenado en el suelo del ecosistema.
+C) Un 1,2 %; el resto es devuelto al Sol por la superficie de las hojas.
+D) Un 88 %; el resto se transfiere directamente a los consumidores.
+Correcta: A. Por qué: El cociente 12 000 dividido por 1 000 000 es 0,012, es decir, un 1,2 %. El 98,8 % restante no se almacena: parte se refleja, parte atraviesa la vegetación y parte calienta el aire, el suelo y el agua. Nada de esa energía «vuelve al Sol» ni pasa directamente a los consumidores.
+
+Pregunta 2 (Evaluar): Se propone construir un ecosistema cerrado, aislado de toda fuente de luz, que se mantenga indefinidamente gracias al reciclaje de sus nutrientes. ¿Cuál es la evaluación correcta de esa propuesta?
+A) Es viable, porque los descomponedores devuelven al sistema todo lo necesario.
+B) Es viable, porque la energía térmica del ambiente reemplaza a la luz solar.
+C) Es inviable, porque en un sistema cerrado la materia se agota rápidamente.
+D) Es inviable: sin aporte de energía el sistema se detiene aunque recicle.
+Correcta: D. Por qué: El reciclaje de nutrientes resuelve el problema de la materia, pero no el de la energía. Sin una fuente que reponga la energía química de los productores, no habría materia orgánica nueva y el sistema se apagaría. El calor ambiental no sirve, porque ningún organismo puede usarlo para fabricar enlaces químicos.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar experimentalmente que un ecosistema en miniatura depende de la luz. Se dispone de varios frascos cerrados con agua, plantas acuáticas y pequeños invertebrados. ¿Cuál es el diseño más adecuado?
+A) Mantener todos los frascos en oscuridad y registrar cuánto tarda el sistema en agotarse.
+B) Mantener la mitad de los frascos con luz y la otra mitad en oscuridad.
+C) Mantener todos los frascos con luz y medir la cantidad de nutrientes al cabo de un mes.
+D) Mantener la mitad de los frascos con luz a 25 °C y la otra mitad en oscuridad a 10 °C.
+Correcta: B. Por qué: Para atribuir un resultado a la luz hacen falta dos grupos que difieran solo en ella. Las opciones con una sola condición no permiten comparar, y la que además cambia la temperatura introduce una variable confundida: si los frascos oscuros fallaran, no se sabría si fue por la falta de luz o por el frío.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

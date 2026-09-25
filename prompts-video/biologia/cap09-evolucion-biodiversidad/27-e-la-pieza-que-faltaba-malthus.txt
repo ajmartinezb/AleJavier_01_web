@@ -1,0 +1,44 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 27: e. La pieza que faltaba: Malthus
+Sección: 6. La evolución antes de Darwin
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «La pieza que faltaba: Malthus». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Thomas Malthus, hay una criba, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. La pieza que faltaba: Malthus», dentro de la sección «6. La evolución antes de Darwin» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Thomas Malthus, hay una criba.
+
+Ideas guía:
+- En 1798, el economista Thomas Malthus había observado que las poblaciones tienden a crecer de forma geométrica mientras los recursos crecen mucho más lentamente, de modo que gran parte de los individuos que nacen no llega a reproducirse.
+- Darwin y Wallace, cada uno por su lado, leyeron a Malthus y extrajeron la misma consecuencia biológica: si nacen muchos más de los que pueden sobrevivir, entonces hay una criba; y si los individuos difieren de forma heredable, esa criba no es al azar.
+- Ese es exactamente el argumento de la sección siguiente.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una pareja de una especie de pez deja 2000 huevos por temporada y su población se mantiene estable en el tiempo. ¿Qué se deduce necesariamente de estos dos datos?
+A) Que la gran mayoría de las crías no llega a reproducirse en la generación siguiente.
+B) Que la especie se reproduce solo una vez cada varias temporadas consecutivas.
+C) Que los 2000 huevos son fecundados y llegan a eclosionar en su totalidad.
+D) Que la población crece de forma sostenida y por eso se mantiene estable.
+Correcta: A. Por qué: Si la población se mantiene estable, cada pareja debe ser reemplazada en promedio por dos individuos reproductores. Como cada pareja produce 2000 huevos, la enorme mayoría de esas crías muere antes de reproducirse. Esa mortalidad masiva es el punto que Darwin y Wallace retomaron de Malthus.
+
+Pregunta 2 (Evaluar): Darwin y Wallace leyeron, cada uno por su lado, la obra de Malthus sobre el crecimiento de las poblaciones humanas y los recursos. ¿Qué consecuencia biológica extrajeron ambos de esa lectura?
+A) Que las poblaciones humanas evolucionan más rápido que las de otras especies.
+B) Que la cantidad de recursos determina cuántas mutaciones aparecen en una población.
+C) Que si nacen más individuos de los que pueden sobrevivir, entonces existe una criba.
+D) Que los recursos disponibles aumentan al mismo ritmo que el número de individuos.
+Correcta: C. Por qué: Malthus aportó el hecho demográfico: la reproducción supera la disponibilidad de recursos. La inferencia biológica es que no todos los nacidos sobreviven ni se reproducen. Al sumar la variación heredable, la mortalidad deja de ser al azar y se convierte en selección natural. Ese es el paso que ambos autores dieron por separado.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo observa que una planta anual produce unas 15 000 semillas por individuo y que, pese a ello, la cantidad de plantas del terreno se mantiene prácticamente igual año tras año. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Cuántos gramos pesa en promedio cada una de las semillas producidas por la planta?
+B) ¿Qué color presentan las flores de la planta durante la estación de floración?
+C) ¿Cuántas especies de plantas anuales distintas crecen en el terreno estudiado?
+D) ¿Qué factores determinan cuáles de las semillas producidas llegan a ser plantas adultas?
+Correcta: D. Por qué: La observación pone en evidencia una desproporción: se producen 15 000 semillas y el número de plantas no cambia. La pregunta que se desprende indaga qué determina cuáles semillas prosperan, porque ahí está el mecanismo. Si esos factores se relacionan con características heredables, se trata de selección natural.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

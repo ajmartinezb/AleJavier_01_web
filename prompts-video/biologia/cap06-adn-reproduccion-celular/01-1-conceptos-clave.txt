@@ -1,0 +1,38 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 01: 1. Conceptos clave
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Conceptos clave». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente Cromatina, Nucleosoma, Cromosoma, Cromátidas hermanas, Centrómero, Cinetocoro, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «1. Conceptos clave» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Cromatina, Nucleosoma, Cromosoma, Cromátidas hermanas, Centrómero, Cinetocoro.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En un cultivo de células humanas se mide la cantidad de ADN por núcleo (en unidades arbitrarias, u.a.) y se cuentan los centrómeros visibles tras condensar los cromosomas. Grupo 1: 2 u.a. y 46 centrómeros. Grupo 2: 4 u.a. y 46 centrómeros. Grupo 3: 1 u.a. y 23 centrómeros. A partir de estos datos, ¿qué conclusión es correcta?
+A) Las células del grupo 2 replicaron su ADN y sus cromosomas tienen dos cromátidas.
+B) Las células del grupo 2 tienen el doble de cromosomas que las células del grupo 1.
+C) Las células del grupo 3 son diploides, porque tienen la mitad del ADN del grupo 1.
+D) Los grupos 1 y 2 tienen ploidía distinta, porque difieren en su cantidad de ADN.
+Correcta: A. Por qué: Los grupos 1 y 2 tienen 46 centrómeros, es decir, 46 cromosomas: igual número y, por lo tanto, igual ploidía (2n). Sin embargo, el grupo 2 tiene el doble de ADN. La única forma de duplicar el ADN sin sumar centrómeros es que cada cromosoma tenga dos cromátidas: esas células replicaron su ADN. El grupo 3, con 23 centrómeros, es haploide.
+
+Pregunta 2 (Planificar y conducir una investigación): Una estudiante plantea la hipótesis de que, en una especie de mamífero, los espermatozoides tienen la mitad de cromosomas que las células de la piel. Dispone de un microscopio óptico y de muestras de ambos tipos celulares. ¿Qué procedimiento le permite poner a prueba su hipótesis?
+A) Medir el diámetro del núcleo de cada tipo celular y comparar los promedios obtenidos.
+B) Contar los centrómeros de cromosomas condensados en cada tipo celular y compararlos.
+C) Pesar la masa total de cada muestra de tejido y relacionarla con la de sus núcleos.
+D) Contar las cromátidas visibles en núcleos en interfase de cada tipo de célula.
+Correcta: B. Por qué: La hipótesis compara números de cromosomas, así que la variable dependiente debe ser ese número. Paso 1: obtener cromosomas condensados, que es cuando se ven al microscopio. Paso 2: contar centrómeros en ambos tipos celulares. Paso 3: comprobar si el valor de los espermatozoides es la mitad del de la piel. Medir tamaños o masas no entrega el número de cromosomas, y en interfase la cromatina está descondensada.
+
+Pregunta 3 (Observar y plantear preguntas): Una investigadora que analiza biopsias de un tumor observa que muchas de sus células tienen 47 cromosomas, mientras que las del tejido sano vecino tienen 46. ¿Cuál de las siguientes preguntas se puede responder mediante una investigación científica a partir de esta observación?
+A) ¿Es más grave para un tejido tener 47 cromosomas que tener solo 45 cromosomas?
+B) ¿Cuál es la definición más adecuada del término aneuploidía en los textos?
+C) ¿Se relaciona el cromosoma extra con fallas en la separación durante la división?
+D) ¿Deberían los médicos preocuparse más por los tumores que por otros males?
+Correcta: C. Por qué: Una pregunta investigable plantea una relación entre variables que se pueden observar o medir. La opción C vincula dos cosas comprobables: la presencia del cromosoma extra y la ocurrencia de errores en la separación durante la división, que se pueden registrar observando células en división. Las demás preguntas dependen de juicios de valor («más grave», «deberían») o de consultar un diccionario, no de obtener evidencia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

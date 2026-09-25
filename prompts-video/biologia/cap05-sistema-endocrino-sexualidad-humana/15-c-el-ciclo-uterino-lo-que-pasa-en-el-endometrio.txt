@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 15: c. El ciclo uterino: lo que pasa en el endometrio
+Sección: 5. El ciclo ovárico y el ciclo uterino
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «El ciclo uterino: lo que pasa en el endometrio». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Menstrual, Proliferativa, Secretora, glandular y vascularizado, folicular, lútea, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. El ciclo uterino: lo que pasa en el endometrio», dentro de la sección «5. El ciclo ovárico y el ciclo uterino» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Menstrual, Proliferativa, Secretora, glandular y vascularizado, folicular, lútea.
+
+Ideas guía:
+- La correspondencia entre ambos ciclos es directa: la fase folicular del ovario coincide con la proliferativa del útero, y la fase lútea con la secretora.
+- Si no hay implantación, el cuerpo lúteo degenera y la progesterona cae.
+- El endometrio, que dependía de ella para mantenerse, se descama: eso es la menstruación, y marca el día 1 del ciclo siguiente.
+- Si en cambio hay implantación, el embrión produce hCG, que mantiene vivo al cuerpo lúteo y, con él, la progesterona.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Se quiere evaluar si el endometrio de una persona alcanza el grosor adecuado antes de la implantación. ¿Qué procedimiento corresponde?
+A) Medir el grosor del endometrio por ecografía en la fase secretora.
+B) Medir el grosor endometrial durante el primer día de la menstruación.
+C) Medir la concentración de FSH en la sangre al iniciar el ciclo.
+D) Registrar la duración total del ciclo durante los últimos seis meses.
+Correcta: A. Por qué: La medición debe hacerse cuando la variable alcanza el valor que interesa, es decir, en la fase secretora, poco antes de la ventana de implantación. Medirlo el primer día entregaría el mínimo, la FSH informa sobre el ovario y la duración del ciclo es otro dato.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un gráfico muestra el grosor del endometrio a lo largo de un ciclo de 28 días. ¿Qué tramo corresponde al mínimo grosor?
+A) Los días 12 a 14, justo antes de la ovulación.
+B) Los días 20 a 24, durante la fase secretora.
+C) El grosor se mantiene constante durante todo el ciclo.
+D) Los días 1 a 5, durante la menstruación.
+Correcta: D. Por qué: El mínimo coincide con el final de la menstruación, cuando la capa funcional ya se eliminó. A partir de ahí el grosor solo aumenta: primero por acción de los estrógenos y luego se mantiene y se transforma por acción de la progesterona, hasta que la caída hormonal inicia un nuevo ciclo.
+
+Pregunta 3 (Evaluar): Se afirma que «la menstruación ocurre porque se elimina el ovocito no fecundado». ¿Cuál es la corrección pertinente?
+A) Es correcta: el volumen eliminado corresponde al ovocito y sus cubiertas.
+B) Es incorrecta, porque la menstruación ocurre aunque no haya habido ovulación.
+C) Es incorrecta: lo que se elimina es el endometrio, al caer la progesterona.
+D) Es correcta, porque el ovocito se desintegra dentro del útero cada mes.
+Correcta: C. Por qué: El ovocito es una sola célula microscópica: su eliminación sería imperceptible. Lo que se descama es el tejido endometrial que se había preparado para una implantación que no ocurrió, junto con sangre de los vasos que lo irrigaban. La causa inmediata es la caída hormonal.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

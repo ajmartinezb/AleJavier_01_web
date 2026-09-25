@@ -1,0 +1,44 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 31: c. Adaptación y eficacia biológica
+Sección: 7. La teoría de la selección natural de Darwin y Wallace
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Adaptación y eficacia biológica». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente adaptación, reproducirse, eficacia biológica, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Adaptación y eficacia biológica», dentro de la sección «7. La teoría de la selección natural de Darwin y Wallace» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: adaptación, reproducirse, eficacia biológica.
+
+Ideas guía:
+- Una adaptación es una característica heredable que aumenta la probabilidad de sobrevivir y reproducirse en un ambiente dado.
+- La medida de esa ventaja es la eficacia biológica (fitness): el número de descendientes que un individuo deja y que llegan a reproducirse.
+- No basta con que el rasgo sea heredable (todos los rasgos evaluados lo son), ni con que resulte útil en un ambiente, ni con que aporte variabilidad: lo que define una adaptación es su efecto sobre el éxito reproductivo.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una especie de ave se comparan dos variantes de coloración. Los machos de la variante A viven en promedio siete años y dejan 2 crías que llegan a reproducirse. Los de la variante B viven en promedio tres años y dejan 9 crías que llegan a reproducirse. ¿Qué variante tiene mayor eficacia biológica?
+A) La variante A, porque alcanza una longevidad promedio notoriamente mayor.
+B) Ambas por igual, porque la eficacia biológica depende solo de la supervivencia.
+C) No puede determinarse, porque falta conocer el tamaño corporal de cada variante.
+D) La variante B, porque deja más descendientes que llegan a reproducirse.
+Correcta: D. Por qué: La definición se refiere a descendientes reproductores, no a años vividos. La variante B deja 9 y la A, 2, de modo que B tiene mayor eficacia biológica pese a vivir menos. Vivir mucho solo importa en la medida en que se traduzca en descendencia, y en este caso no lo hace.
+
+Pregunta 2 (Evaluar): En un grupo de roedores de zonas áridas, los individuos que almacenan semillas en madrigueras profundas sobreviven y se reproducen más que los que no lo hacen, y la conducta se transmite a las crías. ¿Por qué ese comportamiento se considera adaptativo?
+A) Porque los individuos pueden transmitirlo a su descendencia por vía hereditaria.
+B) Porque les permite tolerar mejor las temperaturas extremas propias del desierto.
+C) Porque aumenta la oportunidad de sobrevivir y de reproducirse en ese ambiente.
+D) Porque les confiere una mayor variabilidad genética dentro de su propia población.
+Correcta: C. Por qué: La definición tiene dos partes: ser heredable y aumentar el éxito reproductivo. La heredabilidad es una condición necesaria, pero no distingue una adaptación de cualquier otro rasgo heredable; lo que define la adaptación es su efecto sobre la supervivencia y la reproducción, que es lo que el enunciado documenta.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo quiere estimar la eficacia biológica de dos variantes de una planta anual en un mismo terreno. ¿Qué debe registrar?
+A) El número de descendientes de cada variante que a su vez llegan a reproducirse.
+B) La altura máxima alcanzada por las plantas de cada variante al final del verano.
+C) La cantidad de semillas producidas por cada variante, sin seguir su destino posterior.
+D) El número de hojas y de flores que presenta cada planta durante su floración.
+Correcta: A. Por qué: Registrar solo las semillas producidas sobrestima la eficacia de las variantes que producen mucha semilla de baja viabilidad. Por eso hay que seguir el destino de esos descendientes hasta comprobar cuántos alcanzan la edad reproductiva. Altura, hojas y flores son variables de crecimiento, no de contribución a la generación siguiente.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

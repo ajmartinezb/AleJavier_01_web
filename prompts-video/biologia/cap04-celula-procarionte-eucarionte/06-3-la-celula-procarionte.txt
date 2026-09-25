@@ -1,0 +1,44 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 06: 3. La célula procarionte
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «La célula procarionte». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente bacterias, arqueas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «3. La célula procarionte» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: bacterias, arqueas.
+
+Ideas guía:
+- Los procariontes (del griego pro, «antes», y karyon, «núcleo») son las células más antiguas y más abundantes del planeta.
+- Incluyen dos grandes grupos: las bacterias y las arqueas.
+- Son pequeñas (en general entre 1 y 5 µm), no tienen núcleo y carecen de organelos rodeados de membrana.
+- Aun así, son muy eficientes: se dividen rápido, habitan casi cualquier ambiente y pueden tener metabolismos que ningún eucarionte posee.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un equipo toma una muestra de agua de un estero y observa al microscopio electrónico células de unos 2 µm, con ADN libre en el citoplasma, ribosomas y sin organelos rodeados de membrana. Al teñirlas con el método de Gram, ninguna retiene el colorante violeta ni el rosado, y un análisis químico no detecta peptidoglicano. ¿Cuál de las siguientes hipótesis es coherente con estas observaciones y puede ponerse a prueba?
+A) Las células son procariontes del dominio Archaea, cuya pared no contiene peptidoglicano.
+B) Las células son eucariontes pequeñas que perdieron su núcleo durante la preparación de la muestra.
+C) Las células son bacterias Gram positivas con una pared de peptidoglicano muy gruesa.
+D) Las células son bacterias Gram negativas que conservan su membrana externa intacta.
+Correcta: A. Por qué: El tamaño, el ADN sin envoltura y la ausencia de organelos membranosos indican una célula procarionte. Como no hay peptidoglicano, no puede tratarse de una bacteria típica, ni Gram positiva ni Gram negativa, porque ambas lo tienen. La hipótesis coherente es que sean arqueas, y se puede poner a prueba secuenciando su ARN ribosomal.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una estudiante compara dos células en una tabla. Célula 1: diámetro 2 µm, ribosomas 70S, ADN circular en el citoplasma. Célula 2: diámetro 20 µm, ribosomas 80S, ADN lineal dentro de una envoltura doble. Si ambas fueran esferas, el volumen es proporcional al cubo del diámetro. ¿Cuántas veces mayor es el volumen de la célula 2 que el de la célula 1?
+A) 10 veces
+B) 100 veces
+C) 1000 veces
+D) 10000 veces
+Correcta: C. Por qué: La razón de diámetros es 20 µm / 2 µm = 10. Como el volumen es proporcional al cubo del diámetro, la razón de volúmenes es 10³ = 1000. Por eso, la célula 2 tiene mil veces el volumen de la célula 1, aunque su diámetro sea solo diez veces mayor.
+
+Pregunta 3 (Evaluar): Un investigador afirma que «todas las células sin núcleo son procariontes». Para apoyarlo, observa al microscopio 50 muestras de bacterias de suelo y confirma que ninguna tiene núcleo. ¿Cuál es la principal limitación de su investigación para sostener esa afirmación?
+A) El número de muestras es bajo, pero bastaría con duplicarlo para generalizar.
+B) El microscopio óptico no permite distinguir los ribosomas de las bacterias.
+C) Las bacterias de suelo podrían tener núcleo en otras etapas de su vida.
+D) Solo examinó procariontes, sin incluir otras células que no tienen núcleo.
+Correcta: D. Por qué: La afirmación va de «sin núcleo» a «procarionte». Para ponerla a prueba habría que examinar células sin núcleo de distintos orígenes, no solo bacterias. Al elegir únicamente bacterias, que ya se sabe que son procariontes, el estudio no busca casos que podrían refutar la afirmación, como el eritrocito humano, que es eucarionte y carece de núcleo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

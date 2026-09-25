@@ -1,0 +1,43 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 18: c. Activa y pasiva
+Sección: 6. Vacunas e inmunidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Activa y pasiva». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente Activa, Pasiva, Sí, No, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Activa y pasiva», dentro de la sección «6. Vacunas e inmunidad» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Activa, Pasiva, Sí, No.
+
+Ideas guía:
+- Ante una mordedura de un animal posiblemente rabioso se administran las dos cosas: un suero con anticuerpos ya formados, que protege de inmediato, y la vacuna, que genera memoria propia.
+- La pasiva cubre el tiempo que la activa necesita para funcionar.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un recién nacido recibe anticuerpos de su madre por la placenta y la leche materna. ¿Qué tipo de inmunidad es y qué característica tiene?
+A) Pasiva: protege de inmediato, pero no deja memoria.
+B) Activa: protege de inmediato y deja memoria duradera.
+C) Pasiva: tarda semanas en actuar y deja memoria duradera.
+D) Activa: tarda semanas en actuar y no deja ninguna memoria.
+Correcta: A. Por qué: El organismo del recién nacido no montó la respuesta, de modo que no quedan linfocitos de memoria y la protección se agota en semanas o meses. Por eso el calendario de vacunación comienza temprano: hay que generar inmunidad activa antes de que la pasiva desaparezca.
+
+Pregunta 2 (Evaluar): Tras la mordedura de un animal posiblemente rabioso se administra a la vez un suero con anticuerpos y la vacuna. ¿Cuál es el fundamento de esa combinación?
+A) El suero y la vacuna contienen el mismo principio activo y se refuerzan.
+B) El suero protege de inmediato mientras la vacuna genera memoria propia.
+C) La vacuna protege de inmediato y el suero prolonga esa protección.
+D) El suero neutraliza los efectos adversos que la vacuna podría producir.
+Correcta: B. Por qué: La pasiva cubre exactamente el tiempo que la activa necesita para funcionar, y por eso ambas se administran juntas en una situación urgente. La tercera alternativa invierte los papeles, la segunda supone una identidad que no existe y la cuarta atribuye al suero una función que no cumple.
+
+Pregunta 3 (Comunicar): Para un cuadro comparativo hay que indicar una diferencia entre inmunidad activa y pasiva. ¿Cuál de las siguientes filas es correcta?
+A) La activa actúa de inmediato; la pasiva tarda semanas.
+B) La activa se obtiene por suero; la pasiva por vacuna.
+C) La activa deja memoria; la pasiva no.
+D) La activa dura semanas; la pasiva dura años.
+Correcta: C. Por qué: La primera fila recoge la diferencia más importante para la prueba. Las otras tres invierten sistemáticamente los atributos: cambian cuál actúa de inmediato, cuál se obtiene por suero y cuál dura más tiempo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

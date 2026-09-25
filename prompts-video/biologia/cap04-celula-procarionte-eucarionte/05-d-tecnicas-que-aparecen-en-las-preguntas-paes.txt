@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 05: d. Técnicas que aparecen en las preguntas PAES
+Sección: 2. La teoría celular y cómo se estudian las células
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Técnicas que aparecen en las preguntas PAES». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente Marcaje radiactivo y autorradiografía, dónde, pulso y caza, Marcaje fluorescente, Fármacos inhibidores, microtúbulos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Técnicas que aparecen en las preguntas PAES», dentro de la sección «2. La teoría celular y cómo se estudian las células» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Marcaje radiactivo y autorradiografía, dónde, pulso y caza, Marcaje fluorescente, Fármacos inhibidores, microtúbulos.
+
+Ideas guía:
+- La PAES suele presentar un experimento de biología celular y pedir que lo interpretes.
+- Estas son las técnicas más frecuentes: Fraccionamiento celular y centrifugación diferencial.
+- Se rompen las células y el homogeneizado se centrifuga a velocidades crecientes.
+- Primero sedimentan las estructuras más grandes y densas (núcleos), luego las mitocondrias, cloroplastos, lisosomas y peroxisomas, después los fragmentos de membranas (microsomas) y al final los ribosomas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Una investigadora quiere medir la actividad de una enzima que sospecha que está en las mitocondrias, separándolas de núcleos y ribosomas. Homogeneiza células de hígado y centrifuga a velocidades crecientes. ¿Qué fracción debe analizar?
+A) El primer sedimento, obtenido a la velocidad más baja.
+B) El sobrenadante final, tras la velocidad más alta.
+C) El último sedimento, obtenido a la velocidad más alta.
+D) Un sedimento intermedio, tras separar los núcleos.
+Correcta: D. Por qué: Paso 1: a velocidad baja se van al fondo los núcleos, los más grandes. Paso 2: el sobrenadante se centrifuga a velocidad intermedia y sedimentan las mitocondrias. Paso 3: a velocidades altas sedimentan microsomas y ribosomas. Por lo tanto, la fracción rica en mitocondrias es un sedimento intermedio, obtenido después de retirar los núcleos.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere saber si la citocalasina detiene la división del citoplasma en células animales. Se preparan dos cultivos iguales de la misma línea celular. ¿Cómo debe tratarse el cultivo control?
+A) Con colchicina en la misma dosis que la citocalasina.
+B) Con citocalasina en el doble de la dosis del otro cultivo.
+C) Con el mismo solvente de la droga, pero sin citocalasina.
+D) Sin nutrientes, para comparar el efecto de la falta de energía.
+Correcta: C. Por qué: El único factor que debe diferir entre cultivos es la presencia de citocalasina. Si la droga se disuelve en un solvente, este también podría tener efecto, por lo que el control recibe el solvente solo. Así, cualquier diferencia se atribuye a la droga. Cambiar de droga, de dosis o de nutrientes introduce otras variables.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se incuban células pancreáticas 3 minutos con leucina marcada con tritio y luego con leucina no marcada. La tabla muestra el porcentaje de radiactividad por compartimento: a los 3 min, retículo rugoso 85 %, Golgi 10 %, vesículas 5 %; a los 20 min, retículo 20 %, Golgi 60 %, vesículas 20 %; a los 120 min, retículo 5 %, Golgi 15 %, vesículas 80 %. En un segundo ensayo se agrega brefeldina A. ¿Qué resultado se espera a los 120 min en ese ensayo?
+A) La radiactividad seguirá concentrada en el retículo rugoso (RER).
+B) La radiactividad se concentrará en las vesículas de secreción.
+C) La radiactividad se concentrará en el complejo de Golgi.
+D) La radiactividad no se detectará en ningún compartimento.
+Correcta: A. Por qué: Paso 1: la tabla muestra que la marca pasa del retículo (85 %) al Golgi (60 %) y luego a vesículas (80 %): esa es la ruta. Paso 2: la brefeldina corta el primer traslado, retículo a Golgi. Paso 3: las proteínas marcadas se sintetizan igual, pero no pueden salir del retículo, así que la radiactividad se acumula allí.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

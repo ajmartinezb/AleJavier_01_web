@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 01: a. Los mismos átomos, otra proporción
+Sección: 2. Bioelementos y enlaces
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Los mismos átomos, otra proporción». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente proporción, bioelementos primarios, bioelementos secundarios, oligoelementos, «Poco» no significa «prescindible», con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Los mismos átomos, otra proporción», dentro de la sección «2. Bioelementos y enlaces» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: proporción, bioelementos primarios, bioelementos secundarios, oligoelementos, «Poco» no significa «prescindible».
+
+Ideas guía:
+- En la materia viva no hay ningún elemento exclusivo.
+- Lo que la distingue es la proporción: seis elementos, el carbono, el hidrógeno, el oxígeno, el nitrógeno, el fósforo y el azufre, reúnen cerca del 99 % de la masa de cualquier organismo.
+- Detrás vienen los bioelementos secundarios, como el calcio, el sodio, el potasio, el cloro y el magnesio, presentes en cantidades menores pero constantes.
+- Y más atrás los oligoelementos, que aparecen en trazas y que, sin embargo, son imprescindibles: sin hierro no hay hemoglobina, sin yodo no hay hormonas tiroideas, sin zinc no funcionan decenas de enzimas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): El hierro representa una fracción mínima de la masa corporal de una persona adulta y, sin embargo, su carencia produce anemia. ¿Qué principio ilustra este hecho?
+A) Que el hierro es en realidad un bioelemento primario mal clasificado.
+B) Que la anemia se debe al exceso de otros bioelementos primarios.
+C) Que la abundancia de un bioelemento no mide su importancia funcional.
+D) Que los oligoelementos solo actúan cuando se acumulan en gran cantidad.
+Correcta: C. Por qué: El hierro forma parte del grupo hemo que transporta oxígeno en la sangre, de modo que su carencia limita directamente esa función por escasa que sea su masa total. Reclasificarlo como primario contradice los datos de composición, atribuir la anemia a un exceso de otros elementos invierte la relación causal y sostener que actúa solo acumulado contradice su definición misma.
+
+Pregunta 2 (Observar y plantear preguntas): Un equipo quiere investigar por qué el yodo, presente en cantidades mínimas, resulta indispensable para el organismo humano. ¿Cuál de las siguientes preguntas orienta mejor la investigación?
+A) ¿En qué moléculas del organismo se incorpora el yodo y qué ocurre si falta?
+B) ¿Qué masa total de yodo llega a contener el cuerpo de una persona adulta sana?
+C) ¿En qué año exacto se descubrió el yodo como elemento químico independiente?
+D) ¿Cuál es el color que presenta el yodo en estado sólido a temperatura ambiente?
+Correcta: A. Por qué: La pregunta correcta conecta la presencia del elemento con una función y propone observar la consecuencia de su ausencia, que es exactamente lo que explica su carácter indispensable. Medir la masa total entrega un dato descriptivo, la fecha de descubrimiento es histórica y el color es una propiedad física sin relación con la función biológica.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar experimentalmente que un oligoelemento es indispensable para el crecimiento de una planta. ¿Qué diseño lo pone mejor a prueba?
+A) Regar todas las plantas con una solución que contenga el oligoelemento en exceso.
+B) Medir la concentración del oligoelemento en las hojas de plantas sanas de la especie.
+C) Comparar el crecimiento de dos especies distintas cultivadas en el mismo suelo.
+D) Cultivar plantas en una solución nutritiva completa y otras en la misma solución sin ese oligoelemento.
+Correcta: D. Por qué: El cultivo hidropónico permite controlar con precisión la composición del medio y suprimir un solo elemento dejando todo lo demás igual. Regar con exceso no prueba necesidad, medir la concentración en plantas sanas es descriptivo y comparar especies distintas introduce diferencias genéticas que confunden el resultado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

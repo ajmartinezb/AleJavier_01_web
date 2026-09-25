@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 12: a. El registro fósil
+Sección: 4. Evidencias evolutivas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «El registro fósil». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente directa, Formas transicionales, Cuidado con el lenguaje, no, combinación de caracteres, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. El registro fósil», dentro de la sección «4. Evidencias evolutivas» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: directa, Formas transicionales, Cuidado con el lenguaje, no, combinación de caracteres.
+
+Ideas guía:
+- Los fósiles son la única evidencia directa de organismos del pasado.
+- Aportan tres cosas: Que hubo organismos distintos de los actuales, y que aparecen y desaparecen en un orden.
+- Una secuencia coherente con el árbol: los fósiles de peces aparecen antes que los de anfibios, estos antes que los de reptiles, y los de mamíferos y aves después.
+- Nunca se ha encontrado un mamífero en un estrato del Cámbrico.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): El fósil Tiktaalik roseae, de unos 375 millones de años, presenta escamas y branquias junto con un cuello móvil, costillas robustas y aletas con huesos comparables a los de una extremidad. ¿Qué permite concluir esta combinación de caracteres?
+A) Que informa sobre el orden en que se originaron esos caracteres.
+B) Que es el antepasado directo de todos los anfibios que existen actualmente.
+C) Que los caracteres de tetrápodo y los de pez aparecieron de forma simultánea.
+D) Que se trata de un organismo intermedio incapaz de sobrevivir por sí mismo.
+Correcta: A. Por qué: Tiktaalik conserva caracteres de pez y presenta ya varios caracteres de tetrápodo. Eso muestra que esos caracteres no aparecieron todos a la vez, sino en un orden que el fósil permite reconstruir: el cuello móvil y el esqueleto de la aleta antes de la pérdida de escamas y branquias.
+
+Pregunta 2 (Evaluar): Un comentarista afirma: «Mientras no se encuentre el eslabón perdido entre dos grupos, la relación de parentesco entre ellos no puede aceptarse». ¿Qué objeción de fondo tiene este planteamiento?
+A) El parentesco entre grupos solo puede establecerse a partir de fósiles completos.
+B) Los fósiles transicionales fueron hallados para todos los grupos de vertebrados.
+C) La relación de parentesco entre dos grupos no puede ponerse a prueba con evidencia.
+D) El registro fósil es necesariamente incompleto y cada hallazgo abre nuevos vacíos.
+Correcta: D. Por qué: La exigencia es imposible de satisfacer por construcción: al encontrar un fósil entre A y B, quedan de inmediato dos intervalos sin cubrir, y así indefinidamente. Además, el parentesco se establece combinando varias líneas de evidencia, de modo que no depende de un único hallazgo. El criterio propuesto no es riguroso: es inalcanzable.
+
+Pregunta 3 (Planificar y conducir una investigación): Un equipo predice que debería existir un fósil con caracteres intermedios entre dos grupos que, según el reloj molecular, se separaron hace unos 50 millones de años. ¿Dónde conviene buscarlo?
+A) En rocas de cualquier edad, siempre que sean de origen sedimentario marino.
+B) En rocas de unos 200 millones de años, para asegurar que el fósil sea más antiguo.
+C) En rocas sedimentarias de unos 50 millones de años y del ambiente que habitaban.
+D) En depósitos actuales, donde la conservación de los restos es notoriamente mejor.
+Correcta: C. Por qué: La hipótesis fija dos coordenadas: una edad, dada por el reloj molecular, y un ambiente, dado por la forma de vida esperada. Buscar en rocas sedimentarias de esa edad y de ese ambiente convierte la hipótesis en una predicción que puede fallar, y por lo tanto en una verdadera prueba.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

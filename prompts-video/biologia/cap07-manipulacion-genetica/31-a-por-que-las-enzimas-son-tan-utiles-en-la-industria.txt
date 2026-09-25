@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 31: a. Por qué las enzimas son tan útiles en la industria
+Sección: 8. Aplicaciones industriales: detergentes y vestuario
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Por qué las enzimas son tan útiles en la industria». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente funciona en condiciones suaves, conseguirlas en cantidad, microorganismos recombinantes, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Por qué las enzimas son tan útiles en la industria», dentro de la sección «8. Aplicaciones industriales: detergentes y vestuario» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: funciona en condiciones suaves, conseguirlas en cantidad, microorganismos recombinantes.
+
+Ideas guía:
+- Una enzima es un catalizador biológico: acelera una reacción específica y funciona en condiciones suaves, a temperatura moderada y sin ácidos ni solventes agresivos.
+- Comparada con un proceso químico equivalente, una enzima suele significar menos energía, menos residuos y más precisión.
+- El problema histórico era conseguirlas en cantidad.
+- La manipulación genética lo resolvió: se toma el gen de la enzima, se introduce en una bacteria o un hongo de cultivo fácil, y se produce en biorreactores.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): ¿Qué característica de las enzimas explica que un proceso industrial pueda realizarse sin ácidos fuertes ni altas temperaturas?
+A) Que son moléculas inorgánicas estables a cualquier valor de temperatura.
+B) Que se consumen durante la reacción y por eso deben reponerse continuamente.
+C) Que actúan indistintamente sobre cualquier sustrato presente en el medio.
+D) Que son catalizadores biológicos y aceleran reacciones en condiciones suaves.
+Correcta: D. Por qué: Un catalizador acelera una reacción reduciendo la energía necesaria para que ocurra. Por eso lo que un proceso químico logra con calor y reactivos agresivos, una enzima puede lograrlo en condiciones moderadas. Las otras alternativas describen propiedades que las enzimas no tienen.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere comprobar si el reemplazo de un tratamiento químico por uno enzimático reduce el consumo energético de un proceso textil. ¿Qué diseño corresponde?
+A) Aplicar ambos tratamientos a telas distintas y comparar el aspecto final obtenido.
+B) Aplicar ambos tratamientos a telas equivalentes y medir la energía consumida en cada uno.
+C) Aplicar solo el tratamiento enzimático y comparar con el costo de la energía del año anterior.
+D) Aplicar ambos tratamientos variando también el tipo de tela y la duración del proceso.
+Correcta: B. Por qué: La variable dependiente es la energía consumida, de modo que hay que medirla, y no el aspecto de la tela. La independiente es el tipo de tratamiento. Todo lo demás —tipo de tela, duración, carga— debe mantenerse igual; si además cambia, los efectos quedan confundidos y no se puede atribuir la diferencia al tratamiento.
+
+Pregunta 3 (Procesar y analizar la evidencia): Para producir una enzima industrial se toma el gen de la enzima y se lo introduce en una bacteria de cultivo fácil, que luego se cultiva en biorreactores. ¿Qué papel cumple la bacteria en este proceso?
+A) Actúa como fábrica que produce la enzima a partir del gen que recibió.
+B) Aporta la enzima que ya producía de forma natural antes de la modificación.
+C) Degrada la enzima producida para facilitar su posterior purificación.
+D) Transporta la enzima hacia el sustrato sobre el que debe actuar.
+Correcta: A. Por qué: La bacteria aporta la maquinaria de transcripción y traducción, además de crecer rápido y barato. La información de qué enzima fabricar viene del gen introducido, no de la bacteria. Por eso se la elige por su facilidad de cultivo y no por lo que produce de forma natural.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

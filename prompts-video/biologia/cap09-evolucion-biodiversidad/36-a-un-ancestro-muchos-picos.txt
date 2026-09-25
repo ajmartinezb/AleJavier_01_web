@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 36: a. Un ancestro, muchos picos
+Sección: 8. Los pinzones y la selección natural
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Un ancestro, muchos picos». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente quince especies, pico, radiación adaptativa, directamente, medible con precisión, heredable, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Un ancestro, muchos picos», dentro de la sección «8. Los pinzones y la selección natural» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: quince especies, pico, radiación adaptativa, directamente, medible con precisión, heredable.
+
+Ideas guía:
+- El archipiélago de Galápagos está a unos 1000 km de la costa de Ecuador y es de origen volcánico: emergió del océano sin vida.
+- Todas las especies terrestres que hoy lo habitan llegaron desde el continente.
+- Entre ellas llegó, hace algunos millones de años, una especie de ave granívora sudamericana.
+- A partir de ese único linaje se originaron alrededor de quince especies de las llamadas «pinzones de Darwin», repartidas entre las islas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una tabla asocia el tipo de pico con la dieta en cuatro especies de pinzones: pico corto y muy robusto con semillas grandes y duras; pico mediano y cónico con semillas de tamaño variado; pico fino y puntiagudo con insectos del follaje; pico alargado y algo curvo con flores y frutos de cactus. ¿Qué relación muestran estos datos?
+A) La forma del pico determina el tamaño corporal que alcanza cada una de las especies.
+B) La forma del pico se corresponde con el recurso alimentario que cada especie explota.
+C) La forma del pico cambia a lo largo de la vida según el alimento que encuentra el ave.
+D) La forma del pico es idéntica en las cuatro especies, aunque su dieta sea distinta.
+Correcta: B. Por qué: La tabla asocia cada morfología con un recurso: picos robustos para quebrar, picos finos para capturar insectos, picos alargados para acceder a flores. La relación que muestran los datos es una correspondencia entre la herramienta y el recurso, que es lo esperable si cada población se especializó en lo que había disponible.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere comprobar que el tamaño del pico es heredable en una población de pinzones. ¿Qué procedimiento entrega esa evidencia?
+A) Medir el pico de un gran número de aves adultas capturadas en una misma temporada.
+B) Comparar el tamaño del pico entre aves alimentadas con semillas duras y con semillas blandas.
+C) Registrar cuántas aves de pico grande sobreviven durante una temporada de sequía.
+D) Medir el pico de los padres y el de sus crías adultas y evaluar si existe correspondencia.
+Correcta: D. Por qué: La heredabilidad es una relación entre generaciones, así que hay que medir a los padres y a sus crías e ver si los valores se corresponden. Medir muchos adultos solo describe la variación; comparar dietas evalúa el efecto del ambiente; contar sobrevivientes evalúa la selección, pero ninguno de los tres pone a prueba la transmisión.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo observa que en una isla con abundancia de semillas grandes y duras predominan los pinzones de pico robusto, mientras que en otra isla, con predominio de insectos en el follaje, abundan los de pico fino y puntiagudo. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Qué relación existe entre el recurso disponible y la forma de pico predominante?
+B) ¿Cuántas horas de luz recibe cada una de las dos islas durante el verano austral?
+C) ¿Cuál de las dos islas posee mayor superficie de terreno cubierto por vegetación?
+D) ¿Qué edad geológica tiene cada una de las dos islas del archipiélago estudiado?
+Correcta: A. Por qué: La observación cruza dos variables: el recurso disponible en cada isla y la forma de pico predominante. La pregunta pertinente es la que indaga esa relación, porque es lo que los datos permiten explorar. Las demás piden datos descriptivos de las islas que no se vinculan con lo observado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

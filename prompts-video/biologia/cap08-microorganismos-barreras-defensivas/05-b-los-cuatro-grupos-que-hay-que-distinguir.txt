@@ -1,0 +1,43 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 05: b. Los cuatro grupos que hay que distinguir
+Sección: 3. Los microorganismos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Los cuatro grupos que hay que distinguir». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente Virus, Bacterias, Hongos, Protozoos, No, Cómo se pregunta, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Los cuatro grupos que hay que distinguir», dentro de la sección «3. Los microorganismos» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Virus, Bacterias, Hongos, Protozoos, No, Cómo se pregunta.
+
+Ideas guía:
+- Dos datos deciden la mayoría de los ítems de esta sección: que el virus no es una célula y no tiene metabolismo propio, y que los antibióticos no sirven contra los virus.
+- Una alternativa que recete antibióticos para un resfrío es siempre incorrecta.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una muestra contiene partículas de 80 nanómetros que solo se multiplican cuando se agregan células vivas al cultivo. ¿A qué grupo pertenecen?
+A) A las bacterias.
+B) A los hongos.
+C) A los protozoos.
+D) A los virus.
+Correcta: D. Por qué: Los dos datos del enunciado apuntan en la misma dirección y ninguno admite otra lectura. Las bacterias, los hongos y los protozoos son células con metabolismo propio que se multiplican en un medio nutritivo sin necesidad de células vivas, y además miden micrómetros, no nanómetros.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un paciente con candidiasis recibe un antibiótico y no mejora. ¿Cómo se explica ese resultado?
+A) La candidiasis la causa un hongo y los antibióticos actúan sobre bacterias.
+B) La dosis de antibiótico que se empleó resultó demasiado baja para tratar este cuadro.
+C) El hongo desarrolló resistencia al antibiótico durante el curso del tratamiento.
+D) El antibiótico necesita más tiempo para actuar sobre los hongos.
+Correcta: A. Por qué: No se trata de dosis ni de tiempo: el fármaco no tiene sobre qué actuar, porque los hongos son eucariontes y carecen de las estructuras que el antibiótico ataca. Hablar de resistencia tampoco corresponde, ya que la resistencia supone que el fármaco alguna vez fue eficaz sobre ese agente.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere determinar si el agente que causa un cuadro es una bacteria o un virus, antes de decidir un tratamiento. ¿Qué observación resulta más decisiva?
+A) Comprobar si el paciente presenta fiebre alta durante los primeros días del cuadro.
+B) Comprobar si el agente se multiplica en un medio nutritivo sin células vivas.
+C) Comprobar cuántos días llevan durando los síntomas desde su aparición inicial registrada.
+D) Comprobar si otras personas del entorno presentan el mismo cuadro.
+Correcta: B. Por qué: Un medio nutritivo sin células vivas permite el crecimiento bacteriano y no el viral, de modo que el resultado decide el caso. La fiebre, la duración de los síntomas y la presencia de otros casos en el entorno ocurren igualmente en cuadros bacterianos y virales, y por eso no distinguen entre ambos.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

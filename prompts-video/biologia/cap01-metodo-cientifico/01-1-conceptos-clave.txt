@@ -1,0 +1,38 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 01: 1. Conceptos clave
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Conceptos clave». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente Observación, hecho, Inferencia, Hipótesis, Predicción, Experimento, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «1. Conceptos clave» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Observación, hecho, Inferencia, Hipótesis, Predicción, Experimento.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una bióloga sospecha que la luz roja estimula más la fotosíntesis de la elodea que la luz verde. Coloca ramitas iguales de elodea en tubos con la misma agua y a la misma temperatura; ilumina unos con luz roja y otros con luz verde de igual intensidad, y cuenta las burbujas de oxígeno liberadas por minuto. ¿Cuál de las siguientes opciones corresponde a una predicción coherente con su hipótesis?
+A) Si la luz roja estimula más la fotosíntesis, los tubos con luz roja liberarán más burbujas por minuto.
+B) La luz roja es absorbida por la clorofila de la elodea con mayor eficiencia que la luz verde en cualquier planta.
+C) ¿Influye el color de la luz en la cantidad de burbujas de oxígeno que libera la elodea durante la fotosíntesis?
+D) Los tubos con luz verde liberarán más burbujas, porque la luz verde se refleja en las hojas de la elodea.
+Correcta: A. Por qué: La hipótesis es que la luz roja estimula más la fotosíntesis. Lo que se mide son burbujas por minuto. Una predicción debe unir ambas cosas: si la hipótesis es cierta, entonces los tubos con luz roja deben liberar más burbujas. Eso dice A. B es una explicación general (otra hipótesis), C es la pregunta de investigación y D contradice la hipótesis.
+
+Pregunta 2 (Procesar y analizar la evidencia): Un grupo de estudiantes sumerge trozos iguales de papa en soluciones de sal de distinta concentración durante una hora y luego mide el cambio de masa. En la tabla se muestran los resultados: 0 % → +0,8 g; 1 % → +0,2 g; 2 % → −0,4 g; 3 % → −0,9 g. ¿Qué relación entre las variables muestran estos datos?
+A) Una relación directa: a mayor concentración de sal, mayor es la masa que ganan los trozos.
+B) Una relación inversa: a mayor concentración de sal, menor es el cambio de masa.
+C) Ninguna relación, porque algunos trozos ganan masa y otros la pierden durante la hora.
+D) Una relación inversa: a mayor masa inicial de papa, menor es la concentración de la sal.
+Correcta: B. Por qué: La variable independiente es la concentración de sal (0 a 3 %). La dependiente es el cambio de masa. Al pasar de 0 % a 3 %, el cambio baja de +0,8 g a −0,9 g, sin excepciones. Cuando una sube y la otra baja, la relación es inversa: alternativa B. Que el signo cambie no rompe la tendencia; solo indica que en soluciones concentradas la papa pierde agua por osmosis.
+
+Pregunta 3 (Planificar y conducir una investigación): Una ecóloga quiere saber si un pesticida afecta la supervivencia de chinitas. Prepara cinco cajas con 20 chinitas cada una, la misma comida y temperatura: cuatro cajas reciben el pesticida en dosis de 1, 2, 3 y 4 mg, y una no recibe pesticida. ¿Qué función cumple la caja sin pesticida en este diseño?
+A) Es la variable dependiente, porque en ella se mide cuántas chinitas sobreviven.
+B) Es una variable controlada, porque recibe la misma comida y la misma temperatura.
+C) Es el grupo control, porque es la referencia para comparar las cajas tratadas.
+D) Es un grupo experimental, porque recibe la menor dosis posible del pesticida.
+Correcta: C. Por qué: La variable independiente es la dosis de pesticida; la dependiente, la supervivencia. Las cajas con 1 a 4 mg son grupos experimentales. La caja sin pesticida no recibe tratamiento: permite saber cuántas chinitas sobreviven en condiciones normales y atribuir al pesticida cualquier diferencia. Por eso es el grupo control (C). Comida y temperatura son variables controladas, pero la caja en sí no es una variable.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

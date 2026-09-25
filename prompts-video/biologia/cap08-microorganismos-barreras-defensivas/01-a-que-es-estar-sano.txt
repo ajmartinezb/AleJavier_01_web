@@ -1,0 +1,43 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 01: a. Qué es estar sano
+Sección: 2. Salud y enfermedad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Qué es estar sano». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente qué es estar sano, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Qué es estar sano», dentro de la sección «2. Salud y enfermedad» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Ideas guía:
+- La definición que se usa desde 1948 es amplia a propósito: salud es un estado de bienestar físico, mental y social, y no solamente la ausencia de enfermedad.
+- Esa formulación tiene dos consecuencias importantes.
+- La primera es que una persona puede no tener ninguna enfermedad diagnosticada y aun así no estar sana.
+- La segunda es que la salud depende de condiciones que exceden al individuo: vivienda, alimentación, trabajo, acceso al agua potable.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): La definición de salud vigente menciona tres dimensiones. ¿Cuáles son?
+A) Física, mental y social.
+B) Física, genética y ambiental.
+C) Mental, económica y cultural.
+D) Física, nutricional y deportiva.
+Correcta: A. Por qué: La dimensión social es la que más suele olvidarse y la que explica que la salud dependa de condiciones que exceden al individuo, como la vivienda, el trabajo o el acceso al agua potable. Las otras alternativas mezclan factores que influyen en la salud, como el ambiente o la nutrición, con las dimensiones que la componen.
+
+Pregunta 2 (Observar y plantear preguntas): Un equipo de salud observa que en un barrio con viviendas precarias hay más infecciones respiratorias que en otro barrio cercano. ¿Cuál es la pregunta que mejor orienta una investigación sobre esa diferencia?
+A) ¿Cuántas personas viven actualmente en cada uno de los dos barrios que se están estudiando ahora?
+B) ¿Desde qué año existe el barrio de viviendas precarias en esa ciudad?
+C) ¿Qué condiciones de la vivienda se asocian a una mayor frecuencia de infecciones respiratorias?
+D) ¿Cuál de los dos barrios se encuentra más cerca del centro de la ciudad?
+Correcta: C. Por qué: La pregunta correcta vincula una variable de las condiciones de vida con una variable de salud, y puede responderse comparando hogares. Contar habitantes, averiguar la antigüedad del barrio o medir la distancia al centro entrega datos descriptivos que por sí solos no explican la diferencia observada.
+
+Pregunta 3 (Evaluar): Se sostiene que mejorar el acceso al agua potable de una localidad es una intervención de salud. ¿Cuál es la mejor evaluación de esa afirmación?
+A) Es incorrecta, porque solo son intervenciones de salud aquellas que realiza un médico.
+B) Es incorrecta, porque el agua potable no tiene ninguna relación con las enfermedades.
+C) Es correcta, pero solo si la localidad presenta una epidemia en curso.
+D) Es correcta: las condiciones de vida forman parte de los determinantes de la salud.
+Correcta: D. Por qué: El agua potable y el alcantarillado son, de hecho, las medidas que más muertes por enfermedades infecciosas han evitado en la historia. Restringir las intervenciones de salud a lo que hace un médico ignora toda la salud pública, y condicionarlas a una epidemia en curso confunde prevención con respuesta a una emergencia.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

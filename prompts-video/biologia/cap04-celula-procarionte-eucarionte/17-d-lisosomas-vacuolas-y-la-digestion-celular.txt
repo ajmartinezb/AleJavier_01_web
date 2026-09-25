@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 17: d. Lisosomas, vacuolas y la digestión celular
+Sección: 5. El sistema de endomembranas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Lisosomas, vacuolas y la digestión celular». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente Lisosomas, enzimas hidrolíticas, macrófagos, Autofagia, Autólisis, Enfermedades lisosomales, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Lisosomas, vacuolas y la digestión celular», dentro de la sección «5. El sistema de endomembranas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Lisosomas, enzimas hidrolíticas, macrófagos, Autofagia, Autólisis, Enfermedades lisosomales.
+
+Ideas guía:
+- Son vesículas rodeadas de membrana que contienen enzimas hidrolíticas, capaces de digerir proteínas, lípidos, polisacáridos y ácidos nucleicos.
+- Estas enzimas funcionan mejor a pH ácido, cercano a 5, que el lisosoma mantiene bombeando protones (H+) hacia su interior.
+- El citosol tiene pH cercano a 7,2, así que si una enzima escapa pierde casi toda su actividad: es una protección para la célula.
+- Los lisosomas se forman a partir del Golgi y cumplen varias funciones: Digestión de partículas ingeridas (heterofagia): una vesícula formada por fagocitosis se fusiona con un lisosoma.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se mide la actividad de una enzima lisosomal a distintos pH, en porcentaje de su máximo: pH 4 → 85 %; pH 5 → 100 %; pH 6 → 40 %; pH 7,2 → 5 %. ¿Qué explicación es coherente con estos datos?
+A) Si la enzima escapa al citosol, casi no puede digerir los componentes celulares.
+B) La enzima alcanza su máxima actividad al pH del citosol, cercano a 7,2.
+C) La actividad de la enzima es independiente del pH del medio en que se ubica en la célula.
+D) La enzima trabaja mejor a medida que el pH aumenta dentro del rango medido.
+Correcta: A. Por qué: El máximo está en pH 5, el valor del lumen lisosomal. A pH 7,2, el del citosol, la actividad cae a 5 %. Por eso una enzima que se escapa pierde casi toda su capacidad de dañar la célula: es un mecanismo de protección. La actividad cambia con el pH y no aumenta de modo sostenido.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere saber si la autofagia aumenta cuando las células se quedan sin nutrientes. Cultiva células en medio completo y en medio sin aminoácidos durante 4 horas. ¿Qué variable dependiente es la más apropiada?
+A) La concentración de aminoácidos presente en cada uno de los medios.
+B) El número de lisosomas con restos de organelos.
+C) El tiempo de incubación de cada cultivo, medido en horas.
+D) La temperatura del incubador utilizado para ambos grupos.
+Correcta: B. Por qué: La concentración de aminoácidos es lo que se manipula: variable independiente. El tiempo y la temperatura se mantienen iguales: son controladas. Lo que revela la autofagia es la presencia de restos de organelos dentro de los lisosomas, que puede contarse en cada grupo: esa es la variable dependiente.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se cultivan macrófagos con bacterias en dos condiciones. En la primera, a las 2 horas quedan vivas el 10 % de las bacterias ingeridas. En la segunda, se agrega una droga que impide el bombeo de protones hacia los lisosomas y quedan vivas el 75 %. ¿Qué explicación es coherente con estos resultados?
+A) La droga destruye a las bacterias en el medio antes de la fagocitosis.
+B) La droga impide que los macrófagos ingieran las bacterias por fagocitosis.
+C) La droga aumenta la acidez del lisosoma y acelera la digestión bacteriana.
+D) Sin acidez en los lisosomas, sus enzimas digieren mal a las bacterias.
+Correcta: D. Por qué: El dato dice que se trata de bacterias ingeridas, así que la fagocitosis ocurrió. Al bloquear la bomba de protones, el lisosoma deja de acidificarse y sus enzimas pierden actividad, por lo que más bacterias sobreviven: 75 % frente a 10 %. La droga no mata bacterias, pues sobreviven más.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

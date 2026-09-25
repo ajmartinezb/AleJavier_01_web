@@ -1,0 +1,43 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 26: 8. Meiosis y variabilidad genética
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Meiosis y variabilidad genética». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente tres fuentes, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «8. Meiosis y variabilidad genética» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: tres fuentes.
+
+Ideas guía:
+- Salvo los gemelos idénticos, no hay dos personas con la misma combinación de genes, ni siquiera los hermanos.
+- La meiosis y la fecundación son las responsables.
+- Hay tres fuentes de variabilidad en la reproducción sexual.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una bióloga cría dos poblaciones de un pulgón en invernadero. La población 1 se reproduce solo por partenogénesis originada por mitosis; la población 2 se reproduce sexualmente. Tras exponer ambas a un hongo patógeno nuevo registra la supervivencia: población 1, 0 % en las 12 colonias; población 2, entre 8 % y 31 % según la colonia. ¿Qué interpretación es más coherente con estos datos?
+A) La población 2 sobrevivió porque sus individuos tenían menos cromosomas que la población 1.
+B) La reproducción por mitosis produjo más mutaciones, lo que volvió sensibles a sus individuos.
+C) El hongo provocó cambios en los genes de la población 2 que la hicieron resistente.
+D) La reproducción sexual originó individuos distintos y algunos resistieron.
+Correcta: D. Por qué: En la población 1 todas las colonias murieron: al ser clones, comparten la misma susceptibilidad. En la población 2 la supervivencia varía entre colonias y nunca es nula, lo que indica que hay individuos distintos y algunos portan combinaciones de alelos que les permiten resistir. El hongo no crea esas variantes: selecciona a las que ya existían.
+
+Pregunta 2 (Evaluar): Un estudiante afirma: «Dos hermanos que no son gemelos idénticos son genéticamente distintos solo porque cada uno recibió mutaciones nuevas durante su desarrollo». ¿Cuál es la mejor evaluación de esta afirmación?
+A) Es correcta, porque las mutaciones son la única fuente de diferencias entre hermanos.
+B) Es incorrecta, porque las diferencias se deben sobre todo a la meiosis y a la fecundación.
+C) Es correcta, porque los hermanos reciben los mismos cromosomas de ambos progenitores.
+D) Es incorrecta, porque los hermanos tienen distinto número de cromosomas en sus células.
+Correcta: B. Por qué: Cada hermano se origina de un espermatozoide y un ovocito distintos. Cada gameto lleva una combinación diferente de cromosomas maternos y paternos (permutación) y cromátidas recombinadas (entrecruzamiento). Por eso, aunque tengan los mismos padres, los hermanos reciben combinaciones de alelos distintas. Las mutaciones nuevas existen, pero son escasas y no explican la mayor parte de las diferencias. La afirmación es incorrecta por atribuir todo a…
+
+Pregunta 3 (Observar y plantear preguntas): En un documental se muestra que una especie de lagartija del desierto está formada solo por hembras que se reproducen sin fecundación, mientras que una especie cercana tiene machos y hembras. Una estudiante nota que, ante una sequía reciente, la especie de solo hembras sufrió una mortalidad muy uniforme entre sus poblaciones. ¿Qué pregunta de investigación se desprende directamente de esta observación?
+A) ¿Tienen las hembras de ambas especies el mismo tamaño corporal promedio?
+B) ¿En qué época del año ponen huevos las hembras de la especie sin machos?
+C) ¿Tiene menor diversidad genética la especie sin machos?
+D) ¿Cuántos cromosomas tienen las células somáticas de ambas especies?
+Correcta: C. Por qué: La observación clave es doble: una especie se reproduce sin fecundación y mostró una respuesta uniforme a la sequía. Una respuesta uniforme sugiere individuos muy parecidos genéticamente. La pregunta que surge es si esa especie tiene menor diversidad genética que la especie con machos, algo que se puede medir comparando secuencias de ADN. Las demás preguntas se refieren a rasgos que no se relacionan con lo observado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

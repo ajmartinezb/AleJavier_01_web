@@ -1,0 +1,44 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 37: b. El principio que ordena la discusión
+Sección: 9. Bioética, bioseguridad y regulación
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «El principio que ordena la discusión». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente producto por producto, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. El principio que ordena la discusión», dentro de la sección «9. Bioética, bioseguridad y regulación» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: producto por producto.
+
+Ideas guía:
+- El riesgo no está en la técnica, sino en el producto concreto y su uso.
+- Un maíz al que se le agregó resistencia a insectos y un arroz al que se le agregó betacaroteno se hicieron con el mismo procedimiento, pero plantean preguntas distintas y se evalúan por separado.
+- Por eso la regulación es producto por producto y no técnica por técnica.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): La regulación de los organismos modificados se realiza producto por producto y no técnica por técnica. ¿Qué fundamenta ese criterio?
+A) Las técnicas empleadas son demasiado numerosas para ser reguladas individualmente.
+B) Productos obtenidos con la misma técnica pueden plantear riesgos completamente distintos.
+C) Los productos son más fáciles de contar que las técnicas utilizadas para obtenerlos.
+D) Las técnicas cambian con rapidez, mientras que los productos permanecen estables.
+Correcta: B. Por qué: Un maíz resistente a insectos y un arroz con betacaroteno se obtienen con el mismo procedimiento, pero uno introduce una proteína insecticida en el ambiente y el otro modifica el contenido nutricional de un grano. Las preguntas que plantean son distintas, de modo que evaluarlos juntos por compartir técnica no tendría sentido.
+
+Pregunta 2 (Procesar y analizar la evidencia): Dos productos se obtuvieron con el mismo procedimiento: una bacteria que fabrica insulina en un biorreactor cerrado y un maíz resistente a insectos sembrado en campo abierto. ¿Por qué su evaluación de riesgos difiere?
+A) Porque uno fue obtenido por transgénesis y el otro mediante edición genómica dirigida.
+B) Porque uno contiene ADN de otra especie y el otro conserva solo genes propios.
+C) Porque uno permanece confinado y el otro interactúa con el ambiente y otros organismos.
+D) Porque uno se destina a consumo humano y el otro no llega a ningún consumidor.
+Correcta: C. Por qué: La bacteria vive en un recipiente cerrado, del que solo sale la proteína purificada: no hay contacto con el ambiente ni con otras especies. El maíz se siembra al aire libre, donde su polen puede desplazarse y su proteína interactúa con insectos. Esa diferencia de exposición, y no la técnica, explica que se evalúen distinto.
+
+Pregunta 3 (Planificar y conducir una investigación): Una agencia debe evaluar un nuevo alimento derivado de un organismo modificado. ¿Qué aspectos corresponde analizar antes de autorizarlo?
+A) Su composición, su potencial alergénico y su efecto sobre organismos no blanco.
+B) El prestigio de la empresa solicitante y su volumen de ventas en otros países.
+C) La opinión de los consumidores recogida mediante una encuesta representativa.
+D) El número de años transcurridos desde que la técnica de obtención fue inventada.
+Correcta: A. Por qué: La composición permite comparar el producto con su equivalente convencional; el potencial alergénico evalúa el riesgo para quien lo consume; y el efecto sobre organismos no blanco evalúa el riesgo ambiental. Los tres son criterios sobre el producto, que es lo que la regulación examina.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

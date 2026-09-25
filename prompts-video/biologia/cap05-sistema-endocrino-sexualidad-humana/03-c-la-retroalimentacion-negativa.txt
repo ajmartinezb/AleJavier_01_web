@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 03: c. La retroalimentación negativa
+Sección: 2. El sistema endocrino: hormonas y regulación
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «La retroalimentación negativa». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente frena, Cómo se pregunta, disminuye, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. La retroalimentación negativa», dentro de la sección «2. El sistema endocrino: hormonas y regulación» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: frena, Cómo se pregunta, disminuye.
+
+Ideas guía:
+- Es el mecanismo de control más importante del sistema endocrino y el que explica la mayoría de los ítems de esta unidad: el producto final inhibe su propio estímulo.
+- Cuando la temperatura baja, se enciende la calefacción; cuando sube lo suficiente, la calefacción se apaga.
+- El resultado es una variable que se mantiene estable oscilando alrededor de un valor.
+- En el sistema endocrino ocurre igual: si la concentración de una hormona periférica sube, esa hormona frena al hipotálamo y a la hipófisis; si baja, el freno se libera y la producción vuelve a aumentar.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un paciente recibe durante meses una hormona esteroidal externa. Al medir sus hormonas se observa que la producción propia de esa misma hormona está muy disminuida. ¿Qué explica ese hallazgo?
+A) La destrucción de la glándula por efecto tóxico de la hormona externa.
+B) La retroalimentación negativa que la hormona externa ejerce sobre el eje.
+C) El aumento compensatorio de la secreción hipofisaria de gonadotropinas.
+D) La incapacidad del organismo de reconocer hormonas de origen externo.
+Correcta: B. Por qué: El organismo mide la concentración total y no distingue si la hormona es propia o administrada. Al encontrarla alta de forma sostenida, reduce la señal de estímulo y la glándula deja de producir. El efecto es reversible al suspender el tratamiento, lo que descarta una destrucción glandular.
+
+Pregunta 2 (Comunicar): Se quiere explicar la retroalimentación negativa con una analogía comprensible. ¿Cuál es la más adecuada?
+A) Un termostato que apaga la calefacción cuando sube el calor.
+B) Un micrófono que amplifica cada vez más el sonido que él mismo capta.
+C) Un reloj que marca la hora sin recibir información del ambiente.
+D) Una llave de agua que se abre más cuanto más lleno está el estanque.
+Correcta: A. Por qué: El termostato conserva los dos rasgos decisivos: existe una variable medida y su aumento apaga el mecanismo que la produce. El micrófono y la llave que se abre más ilustran una retroalimentación positiva, que amplifica en lugar de estabilizar, y el reloj no tiene retroalimentación alguna.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar en un animal de laboratorio que una hormona periférica frena la secreción hipofisaria. ¿Cuál es el diseño adecuado?
+A) Medir el peso corporal del animal durante un mes sin intervención alguna.
+B) Administrar la hormona periférica y medir la temperatura corporal del animal.
+C) Medir la hormona hipofisaria antes y después de dar la periférica.
+D) Comparar dos animales de especies distintas sin administrar nada a ninguno.
+Correcta: C. Por qué: La hipótesis afirma un efecto sobre una hormona concreta, así que esa hormona es la variable a medir, y la comparación antes-después en el mismo animal elimina las diferencias individuales. El peso y la temperatura responden a otras preguntas, y comparar especies distintas sin intervención no pone a prueba nada.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

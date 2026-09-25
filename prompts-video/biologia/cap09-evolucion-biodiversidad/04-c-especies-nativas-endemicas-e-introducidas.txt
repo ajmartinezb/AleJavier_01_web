@@ -1,0 +1,42 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 04: c. Especies nativas, endémicas e introducidas
+Sección: 2. Biodiversidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Especies nativas, endémicas e introducidas». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Nativa, Endémica, solo, Introducida, Invasora, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Especies nativas, endémicas e introducidas», dentro de la sección «2. Biodiversidad» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Nativa, Endémica, solo, Introducida, Invasora.
+
+Ideas guía:
+- Toda especie endémica es nativa, pero no toda especie nativa es endémica: el copihue es nativo de Chile y también crece en zonas limítrofes de Argentina; la ranita de Darwin, en cambio, es endémica del bosque templado del sur de Chile y Argentina.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una ficha registra cuatro especies de un parque: la especie J habita naturalmente en Chile y en Argentina; la K solo existe naturalmente en la isla del parque; la L fue traída por colonos y se mantiene en jardines; la M fue traída por colonos, se reproduce sin control y desplaza a la K. ¿Cuál es la clasificación correcta?
+A) J endémica, K nativa, L invasora y M introducida.
+B) J nativa, K endémica, L introducida y M invasora.
+C) J nativa, K introducida, L endémica y M invasora.
+D) J invasora, K endémica, L nativa y M introducida.
+Correcta: B. Por qué: J habita naturalmente dos países, así que es nativa pero no exclusiva: nativa. K existe solo en la isla: endémica. L fue traída y se mantiene contenida: introducida. M fue traída, se expande sin control y desplaza a otra especie: invasora.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo sospecha que una planta abundante en un valle chileno es en realidad endémica de ese valle y no una especie de amplia distribución. ¿Qué evidencia permitiría sostener esa hipótesis?
+A) Comprobar que la planta es muy abundante en todo el valle.
+B) Comprobar que la planta resiste bien las heladas propias del clima del valle.
+C) Comprobar que la planta es usada tradicionalmente por las comunidades del valle.
+D) Comprobar que la planta no figura en registros de otras localidades.
+Correcta: D. Por qué: La definición de endemismo es una afirmación sobre la distribución: exclusividad. Por lo tanto, la evidencia pertinente es negativa y proviene de revisar herbarios, colecciones y bases de datos de otras regiones para comprobar que la planta no ha sido registrada fuera del valle. Abundancia, resistencia al clima y uso cultural no informan sobre exclusividad.
+
+Pregunta 3 (Evaluar): Ante la expansión del castor en Tierra del Fuego, un vecino propone: «Si el castor lleva más de setenta años en la isla, ya debe considerarse una especie nativa del lugar». ¿Qué objeción corresponde hacer a esa propuesta?
+A) El castor todavía no alcanza a reproducirse en las condiciones climáticas de la isla.
+B) El castor no puede clasificarse porque su población aún no ha sido cuantificada.
+C) El tiempo transcurrido no cambia el hecho de que fue el ser humano quien lo trajo.
+D) El tiempo transcurrido es insuficiente, pues se requieren al menos cien años.
+Correcta: C. Por qué: La categoría depende del origen de la presencia, no de su antigüedad. El castor fue llevado a Tierra del Fuego por el ser humano, de modo que sigue siendo introducido, y como se expande y transforma el bosque al construir diques, es además invasor. Ningún plazo convierte una introducción en un hecho natural.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

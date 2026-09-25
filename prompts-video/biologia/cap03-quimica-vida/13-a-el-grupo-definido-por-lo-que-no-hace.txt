@@ -1,0 +1,43 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 13: a. El grupo definido por lo que no hace
+Sección: 5. Lípidos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «El grupo definido por lo que no hace». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente insolubles en agua, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. El grupo definido por lo que no hace», dentro de la sección «5. Lípidos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: insolubles en agua.
+
+Ideas guía:
+- Los lípidos no comparten una estructura común: se agrupan por una propiedad física, la de ser insolubles en agua y solubles en disolventes apolares.
+- Por eso son la única familia orgánica que no es un polímero de un monómero único.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se compara la solubilidad de cuatro sustancias en agua y en un disolvente apolar. Una de ellas no se disuelve en agua y sí en el disolvente apolar. ¿Qué se concluye?
+A) Que probablemente se trata de un lípido.
+B) Que probablemente se trata de un monosacárido.
+C) Que probablemente se trata de una sal mineral.
+D) Que probablemente se trata de un nucleótido.
+Correcta: A. Por qué: Ese doble comportamiento es la firma del grupo y la base de los métodos de extracción de grasas. Los monosacáridos y los nucleótidos son hidrofílicos y se disuelven bien en agua, y las sales minerales se disocian en iones, de modo que ninguno de los tres coincide con el patrón descrito.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere determinar el contenido de lípidos de una semilla. ¿Qué procedimiento resulta más adecuado?
+A) Hervir la semilla en agua durante una hora entera y pesar luego el líquido resultante.
+B) Moler la semilla, extraer con un disolvente apolar, evaporarlo y pesar el residuo.
+C) Moler la semilla y observar los fragmentos obtenidos al microscopio óptico del laboratorio.
+D) Secar la semilla en estufa y medir la diferencia de masa obtenida.
+Correcta: B. Por qué: Al evaporar el disolvente queda solo la fracción lipídica, cuya masa responde la pregunta. Hervir en agua extrae compuestos hidrosolubles, no lípidos; la observación al microscopio no cuantifica nada; y el secado en estufa mide el contenido de agua de la semilla, que es otra variable por completo.
+
+Pregunta 3 (Observar y plantear preguntas): Al dejar reposar una mezcla de aceite y agua, se forman dos capas separadas y estables. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese fenómeno?
+A) ¿Cuántos mililitros exactos de aceite se usaron en la preparación de la mezcla?
+B) ¿De qué color se ve la capa superior una vez que se han formado las dos fases?
+C) ¿Cuánto tiempo transcurrió exactamente hasta que se separaron por completo las capas?
+D) ¿Qué característica de las moléculas del aceite impide su mezcla con el agua?
+Correcta: D. Por qué: La pregunta correcta apunta justamente a esa característica molecular, que puede ponerse a prueba comparando sustancias polares y apolares. Los volúmenes empleados, el color de la capa superior y el tiempo transcurrido son datos descriptivos del montaje que no explican por qué las dos fases se separan.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

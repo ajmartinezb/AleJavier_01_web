@@ -1,0 +1,44 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 28: e. Bioacumulación: lo que sí se concentra hacia arriba
+Sección: 8. Flujo de energía: niveles tróficos, cadenas, tramas y pirámides
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Bioacumulación: lo que sí se concentra hacia arriba». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente mercurio, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Bioacumulación: lo que sí se concentra hacia arriba», dentro de la sección «8. Flujo de energía: niveles tróficos, cadenas, tramas y pirámides» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: mercurio.
+
+Ideas guía:
+- Hay algo que aumenta al subir de nivel: ciertos contaminantes que el organismo no puede degradar ni eliminar, como el mercurio o algunos pesticidas.
+- Como un depredador consume mucha biomasa del nivel inferior a lo largo de su vida, acumula el contaminante de todas sus presas.
+- Por eso las recomendaciones sanitarias sobre consumo de mercurio apuntan a los peces depredadores grandes y de vida larga, y no a los pequeños.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se mide la concentración de mercurio en cuatro niveles de una cadena marina: fitoplancton 0,01 ppm; zooplancton 0,1 ppm; pez pequeño 1 ppm; pez depredador grande 9 ppm. ¿Qué describe correctamente estos datos?
+A) La concentración disminuye al subir, igual que la energía disponible.
+B) La concentración se mantiene constante a lo largo de toda la cadena.
+C) La concentración depende del tamaño del ecosistema y no del nivel.
+D) La concentración del contaminante aumenta al subir de nivel trófico.
+Correcta: D. Por qué: Los valores se multiplican por diez en cada paso y luego por nueve: la tendencia es claramente creciente. Es el comportamiento opuesto al de la energía, que disminuye, y eso es lo que hace peligrosos a los depredadores grandes y longevos como alimento.
+
+Pregunta 2 (Evaluar): Una autoridad sanitaria recomienda limitar el consumo de peces depredadores grandes y de vida larga. ¿Cuál es el fundamento biológico de esa recomendación?
+A) Esos peces tienen menos proteínas que los peces de niveles inferiores.
+B) Esos peces acumulan contaminantes persistentes de todas sus presas.
+C) Esos peces pierden energía más rápido que los peces pequeños.
+D) Esos peces se alimentan de productores y no de otros animales.
+Correcta: B. Por qué: Dos factores se suman: el nivel trófico alto, que concentra lo acumulado en varios eslabones, y la longevidad, que da más tiempo para acumular. Por eso la advertencia apunta a esas especies y no al contenido de proteínas, que no es lo que motiva la recomendación.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar si un contaminante se bioacumula en una cadena trófica de una laguna. ¿Cuál es el procedimiento más adecuado?
+A) Medir el contaminante en organismos de distintos niveles tróficos.
+B) Medir la concentración del contaminante en el agua de la laguna una sola vez.
+C) Medir la cantidad total de individuos presentes en cada nivel de la laguna.
+D) Medir la temperatura y el pH del agua a lo largo de todo un año.
+Correcta: A. Por qué: Solo midiendo en organismos de varios niveles es posible ver si la concentración crece a lo largo de la cadena. El agua entrega la concentración ambiental, que es el punto de partida pero no demuestra acumulación; el recuento de individuos y las variables fisicoquímicas responden a otras preguntas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

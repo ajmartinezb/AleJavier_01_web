@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 09: c. Bacterias y arqueas
+Sección: 3. La célula procarionte
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Bacterias y arqueas». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente arqueas, Bacteria, Archaea, Eukarya, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Bacterias y arqueas», dentro de la sección «3. La célula procarionte» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: arqueas, Bacteria, Archaea, Eukarya.
+
+Ideas guía:
+- En Chile se han estudiado en el salar de Atacama y en los géiseres del Tatio; en varios aspectos moleculares, como su maquinaria para leer el ADN, las arqueas se parecen más a los eucariontes que a las bacterias.
+- Carl Woese propuso en 1990, a partir de la comparación del ARN de los ribosomas, clasificar a los seres vivos en tres dominios: Bacteria, Archaea y Eukarya.
+- Este sistema reemplazó a la división en cinco reinos como el nivel más amplio de clasificación.
+- Es un ejemplo de cómo una técnica nueva, la secuenciación, cambia un modelo científico.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un equipo aísla un microorganismo de los géiseres del Tatio y quiere determinar si es una bacteria o una arquea. ¿Qué procedimiento es el más adecuado para ese objetivo?
+A) Medir la temperatura máxima a la que el microorganismo sigue creciendo.
+B) Observar si el microorganismo tiene núcleo con un microscopio óptico.
+C) Contar cuántos ribosomas tiene cada célula en una imagen electrónica.
+D) Comparar la secuencia de su ARN ribosomal con la de otros organismos conocidos.
+Correcta: D. Por qué: Bacterias y arqueas son procariontes: ninguna tiene núcleo y ambas tienen ribosomas, así que la observación al microscopio no las separa. Vivir en ambientes calientes es frecuente en arqueas, pero también hay bacterias termófilas. La secuencia del ARN ribosomal es el criterio con el que se definieron los dominios, por lo que responde el objetivo.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se analizan tres microorganismos (P, Q y R). P: sin núcleo, con peptidoglicano. Q: sin núcleo, sin peptidoglicano, lípidos de membrana distintos de los de las bacterias. R: con núcleo y organelos membranosos. Al comparar proteínas que leen el ADN, Q se parece más a R que a P. ¿Qué conclusión es coherente con estos datos?
+A) P es una arquea, Q es una bacteria y R es un eucarionte.
+B) P es una bacteria, Q es una arquea y R es una célula eucarionte.
+C) P y Q son bacterias, y R es una arquea de mayor tamaño.
+D) P es una bacteria, y Q y R pertenecen al dominio Eukarya.
+Correcta: B. Por qué: P no tiene núcleo pero sí peptidoglicano: es una bacteria. Q no tiene núcleo ni peptidoglicano y sus lípidos son distintos: es una arquea, lo que se refuerza con su parecido molecular a R. R tiene núcleo y organelos membranosos: es un eucarionte.
+
+Pregunta 3 (Evaluar): En 1990, a partir de secuencias de ARN ribosomal, se propuso reemplazar la división en cinco reinos por tres dominios: Bacteria, Archaea y Eukarya. ¿Qué aspecto de este cambio muestra mejor cómo avanza el conocimiento científico?
+A) Los modelos cambian cuando cambia la opinión de la mayoría de los científicos.
+B) Los modelos antiguos se desechan porque sus datos se consideran falsos.
+C) Una técnica nueva aportó evidencia que obligó a modificar el modelo vigente hasta entonces.
+D) Un modelo es aceptado cuando todos sus datos provienen de la microscopía.
+Correcta: C. Por qué: Al microscopio, bacterias y arqueas se ven parecidas, por eso el modelo de cinco reinos las reunía. La secuenciación entregó evidencia nueva que ese modelo no explicaba, y el modelo se modificó. No se descartaron los datos anteriores: siguen siendo válidos, pero se interpretaron dentro de un marco más amplio.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

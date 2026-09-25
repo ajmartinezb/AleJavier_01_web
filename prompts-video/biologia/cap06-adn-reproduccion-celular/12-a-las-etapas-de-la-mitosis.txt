@@ -1,0 +1,43 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 12: a. Las etapas de la mitosis
+Sección: 4. Mitosis y citocinesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Las etapas de la mitosis». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente Profase, condensa, huso mitótico, desintegra la envoltura nuclear, cinetocoros, Metafase, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Las etapas de la mitosis», dentro de la sección «4. Mitosis y citocinesis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Profase, condensa, huso mitótico, desintegra la envoltura nuclear, cinetocoros, Metafase.
+
+Ideas guía:
+- En la anafase de una célula humana hay momentáneamente 92 cromosomas en la célula: las 92 cromátidas separadas cuentan como cromosomas independientes, 46 hacia cada polo.
+- La cantidad de ADN sigue siendo 4c hasta que se completa la citocinesis.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Al observar una célula de raíz de cebolla teñida, un estudiante nota cromosomas muy condensados alineados en el centro de la célula, sin envoltura nuclear visible, y registra que cada cromosoma aún presenta dos cromátidas unidas. ¿Qué pregunta de investigación podría responderse directamente mediante observaciones como esta?
+A) ¿Qué genes se expresan durante la división de las células de la raíz?
+B) ¿Qué proteínas degradan las cohesinas al comenzar la etapa de anafase?
+C) ¿Cuánto ADN contiene cada cromátida de la raíz antes de la replicación?
+D) ¿En qué etapa de la mitosis se encuentran las células de este tejido?
+Correcta: D. Por qué: La observación entrega rasgos morfológicos: condensación, posición de los cromosomas, presencia o ausencia de envoltura. Con eso se puede identificar la etapa de cada célula (aquí, metafase), así que la pregunta D se responde directamente. Saber qué genes se expresan, qué proteínas actúan o cuánto ADN hay exige técnicas bioquímicas o moleculares que el microscopio óptico no ofrece.
+
+Pregunta 2 (Procesar y analizar la evidencia): En un preparado de tejido animal en división se describen cuatro células: en la célula 1 se ven dos núcleos en formación en los extremos y un surco en el centro; en la 2, cromosomas alineados en el ecuador; en la 3, filamentos de cromatina condensándose dentro de un núcleo que aún tiene borde; en la 4, dos grupos de cromosomas en forma de V migrando hacia los polos. ¿Cuál es el orden temporal correcto de estas células?
+A) Tres, dos, cuatro y uno
+B) Tres, cuatro, dos y uno
+C) Dos, tres, cuatro y uno
+D) Dos, tres, uno y cuatro
+Correcta: A. Por qué: La célula 3 muestra condensación con envoltura aún presente: profase. La célula 2, cromosomas en el ecuador: metafase. La célula 4, cromátidas separadas en forma de V hacia los polos: anafase. La célula 1, dos núcleos en formación y surco de segmentación: telofase con citocinesis. El orden es 3, 2, 4 y 1, clave A.
+
+Pregunta 3 (Procesar y analizar la evidencia): Un laboratorio mide el contenido de ADN y el número de cromosomas de células de una especie con 2n = 8 en distintas etapas. Una de las células presenta 16 cromosomas en su interior, agrupados en dos conjuntos que se alejan entre sí, y una cantidad de ADN de 4c. ¿En qué etapa se encuentra esa célula?
+A) Metafase, con cromátidas aún unidas
+B) Anafase, con cromátidas ya separadas
+C) Profase, con la cromatina condensándose
+D) Telofase, después de la citocinesis
+Correcta: B. Por qué: La célula es 2n = 8. En profase y metafase hay 8 cromosomas con dos cromátidas cada uno (4c). Al separarse las cromátidas en anafase, cada una pasa a ser un cromosoma: hay 16 en la célula, 8 hacia cada polo, con el ADN aún en 4c. Los dos grupos que se alejan confirman la anafase, clave B. Tras la citocinesis, cada hija tendría 8 cromosomas y 2c.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

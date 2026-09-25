@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 26: b. Un ejemplo clásico: la herencia
+Sección: 6. Hipótesis, teoría, ley, principio y modelo
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Un ejemplo clásico: la herencia». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente Leyes de Mendel (1865), regularidades matemáticas, cómo, Esa teoría, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Un ejemplo clásico: la herencia», dentro de la sección «6. Hipótesis, teoría, ley, principio y modelo» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Leyes de Mendel (1865), regularidades matemáticas, cómo, Esa teoría.
+
+Ideas guía:
+- La historia de la genética muestra muy bien la diferencia entre ley y teoría.
+- Gregor Mendel cruzó miles de plantas de arveja y encontró regularidades matemáticas en la herencia de los caracteres.
+- Por ejemplo, en la segunda generación aparece una proporción cercana a 3:1 entre el carácter dominante y el recesivo.
+- Mendel describió cómo se heredan los caracteres, y propuso que existen «factores» que se separan al formar los gametos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): A comienzos del siglo XX, Sutton y Boveri propusieron que los factores hereditarios de Mendel se ubican en los cromosomas. ¿Qué observación sustentaba mejor esta propuesta?
+A) Los cromosomas se tiñen con colorantes básicos en el núcleo.
+B) Las arvejas de Mendel presentan siete caracteres con dos variantes.
+C) Los cromosomas tienen el mismo número en todas las especies.
+D) Los cromosomas homólogos se separan al formar los gametos.
+Correcta: D. Por qué: Mendel propuso factores que van de a pares y se separan al formar los gametos. Si esos factores están en los cromosomas, estos deberían comportarse igual. En la meiosis, los homólogos se separan y cada gameto recibe uno de cada par. Ese paralelismo es la evidencia central de Sutton y Boveri. La opción D describe justo ese comportamiento: clave D.
+
+Pregunta 2 (Procesar y analizar la evidencia): Al repetir un cruce de Mendel, un grupo de estudiantes autofecunda plantas de arveja F1 de semilla amarilla y obtiene en la F2 612 semillas amarillas y 198 verdes. ¿Qué afirmación es coherente con estos resultados?
+A) La proporción obtenida se aproxima a 3 amarillas por 1 verde.
+B) La proporción obtenida se aproxima a 1 amarilla por 1 verde.
+C) El color verde es dominante porque reaparece en la F2.
+D) Los resultados demuestran que los genes se ubican en los cromosomas.
+Correcta: A. Por qué: Se divide 612 entre 198, lo que da unos 3,09. El total es 810; las amarillas son el 75,6 % y las verdes el 24,4 %, muy cerca de 3/4 y 1/4. Esa es la proporción que describe la ley de segregación. Los datos solo describen el patrón: no alcanzan para afirmar dónde están los genes. Clave: A.
+
+Pregunta 3 (Evaluar): Un texto de divulgación dice: «Las leyes de Mendel fueron una hipótesis hasta 1902, cuando la teoría cromosómica las transformó en ley». ¿Cuál es el principal error de esta afirmación?
+A) Atribuye a Mendel estudios hechos en arvejas.
+B) Supone que una teoría convierte hipótesis en leyes.
+C) Ubica la teoría cromosómica en el siglo XX.
+D) Olvida que Mendel trabajó en el siglo XIX.
+Correcta: B. Por qué: Mendel describió en 1865 regularidades en la herencia: son leyes porque describen cómo se transmiten los caracteres. En 1902-1903 Sutton y Boveri propusieron la teoría cromosómica, que explica por qué se cumplen esas leyes. La teoría no cambió la categoría de las leyes: una describe y la otra explica. El error del texto es la idea de transformación. Clave: B.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

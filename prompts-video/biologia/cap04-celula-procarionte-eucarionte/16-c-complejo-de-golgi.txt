@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 16: c. Complejo de Golgi
+Sección: 5. El sistema de endomembranas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Complejo de Golgi». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente cara cis, recibe, cara trans, despacha, modifica, clasifica, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Complejo de Golgi», dentro de la sección «5. El sistema de endomembranas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: cara cis, recibe, cara trans, despacha, modifica, clasifica.
+
+Ideas guía:
+- Es una pila de cisternas aplanadas, no conectadas entre sí, con dos caras: la cara cis, orientada hacia el retículo, recibe las vesículas que llegan del RER; la cara trans, orientada hacia la membrana plasmática, despacha las vesículas hacia su destino.
+- Mientras las proteínas avanzan de cis a trans, el Golgi las modifica: termina la glicosilación, les agrega otros grupos químicos y las clasifica con «etiquetas» según su destino, que puede ser la membrana plasmática, los lisosomas o la secreción.
+- En las células vegetales el Golgi además fabrica polisacáridos de la pared celular.
+- Una analogía útil: si la célula fuera una fábrica, el RER sería la línea de producción, el Golgi el centro de empaque y despacho, las vesículas los camiones de reparto y la membrana plasmática la puerta de salida.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En células que secretan mucus, se marca una glicoproteína y se mide qué porcentaje de ella está en cada zona del Golgi. A los 5 minutos: cara cis 80 %, zona media 15 %, cara trans 5 %. A los 20 minutos: cara cis 10 %, zona media 30 %, cara trans 60 %. ¿Qué conclusión apoyan estos datos?
+A) Las glicoproteínas llegan al Golgi por la cara trans y salen por la cara cis.
+B) La glicoproteína avanza a través del Golgi desde la cara cis hacia la cara trans.
+C) La cara trans fabrica la glicoproteína y luego la envía al retículo rugoso.
+D) La glicoproteína permanece en la zona media del Golgi durante todo el registro.
+Correcta: B. Por qué: A los 5 minutos casi todo está en la cara cis; a los 20 minutos la mayor parte está en la cara trans. El máximo se desplaza de cis a media a trans: la proteína recorre el Golgi en ese sentido. La zona media no retiene la marca, pues su porcentaje nunca supera el 30 %.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo quiere probar si la glicosilación que ocurre en el Golgi es necesaria para que una enzima llegue a los lisosomas. Dispone de una droga que bloquea específicamente las enzimas modificadoras del Golgi. ¿Cuál es el diseño experimental más adecuado?
+A) Tratar un cultivo con la droga y observar después el tamaño que alcanza el Golgi.
+B) Tratar dos cultivos con la droga, cada uno a una temperatura de incubación distinta.
+C) Comparar un cultivo tratado y otro no tratado, midiendo la enzima en los lisosomas.
+D) Medir la enzima en los lisosomas de un único cultivo, sin aplicarle ningún tratamiento.
+Correcta: C. Por qué: Para saber si la modificación es necesaria, se compara un grupo donde está bloqueada con otro donde no lo está, manteniendo iguales las demás condiciones. La variable dependiente es la cantidad de enzima que llega a los lisosomas. Solo C cumple con ambos elementos: grupo control y medición pertinente.
+
+Pregunta 3 (Evaluar): Un estudiante observa al microscopio electrónico que las células caliciformes del intestino, que secretan mucus, tienen un Golgi muy desarrollado. Concluye: «un Golgi grande causa la secreción de mucus». ¿Cuál es la principal debilidad de esta conclusión?
+A) Las células caliciformes no poseen complejo de Golgi.
+B) El mucus es un lípido y no pasa por el complejo de Golgi.
+C) Usó microscopio electrónico en vez de uno óptico, que es más preciso.
+D) Una asociación observada no demuestra que un factor cause el otro.
+Correcta: D. Por qué: El estudiante solo observó que dos rasgos aparecen juntos. Esa asociación podría deberse a que la célula secreta mucus y por eso desarrolla el Golgi, o a otro factor. Sin manipular el Golgi, no puede afirmar la causa. Las demás opciones contienen errores de contenido.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

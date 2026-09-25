@@ -1,0 +1,44 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 02: a. Los tres niveles
+Sección: 2. Biodiversidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Los tres niveles». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente Diversidad genética, dentro, Diversidad de especies, especies, Diversidad de ecosistemas, tipos de ambiente, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Los tres niveles», dentro de la sección «2. Biodiversidad» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Diversidad genética, dentro, Diversidad de especies, especies, Diversidad de ecosistemas, tipos de ambiente.
+
+Ideas guía:
+- Es el nivel que sostiene a los otros dos.
+- Una población con poca variabilidad genética puede estar completa y sana hoy, pero no tiene «repuestos»: si aparece un patógeno o cambia el clima, es probable que ningún individuo traiga la variante que permite sobrevivir.
+- La variabilidad genética es, literalmente, la materia prima sobre la que puede actuar la selección natural (sección 7).
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Un equipo quiere saber si dos poblaciones de una misma especie de rana, separadas por una carretera construida hace cuarenta años, conservan la misma variabilidad genética. ¿Qué procedimiento responde a esa pregunta?
+A) Comparar el número de variantes de varios genes a ambos lados del camino.
+B) Contar cuántas ranas hay a cada lado de la carretera durante un año.
+C) Comparar el peso y el largo promedio de las ranas capturadas a cada lado del camino.
+D) Registrar cuántas especies de anfibios distintas habitan a cada lado de la carretera.
+Correcta: A. Por qué: La pregunta se refiere a la variabilidad genética de una misma especie. Lo que hay que cuantificar, entonces, es cuántas variantes distintas de sus genes conserva cada población. Contar individuos, medir su tamaño o contar otras especies informa sobre otras cosas, pero no sobre la variación del ADN dentro de cada población.
+
+Pregunta 2 (Observar y plantear preguntas): En una feria campesina un agricultor muestra semillas de doce variedades de porotos, todas de la especie Phaseolus vulgaris, que su familia ha seleccionado por generaciones. ¿Qué pregunta de investigación se relaciona directamente con el nivel de biodiversidad que ilustra esta colección?
+A) ¿Cuántas especies de leguminosas se cultivan actualmente en la zona del agricultor?
+B) ¿Qué variantes genéticas distinguen a las doce variedades de poroto conservadas?
+C) ¿Cuántos ambientes distintos existen en el valle donde se ubica la feria campesina?
+D) ¿Qué proporción de las plantas del valle corresponde a especies introducidas?
+Correcta: B. Por qué: Las doce variedades pertenecen todas a Phaseolus vulgaris: lo que varía no son las especies, sino las combinaciones de variantes genéticas dentro de una misma especie. Por lo tanto, la pregunta pertinente indaga qué diferencias genéticas distinguen a esas variedades entre sí.
+
+Pregunta 3 (Procesar y analizar la evidencia): Dos plantaciones de papa muestran el siguiente historial ante la llegada de un mismo hongo. La plantación M, con una sola variedad clonada, perdió el 96 % de sus plantas. La plantación N, con nueve variedades distintas, perdió el 38 %. Las condiciones de riego, suelo y clima fueron equivalentes. ¿Qué explica mejor la diferencia?
+A) La plantación N recibió una carga de esporas del hongo mucho menor que la M.
+B) La plantación M tenía plantas más jóvenes y por eso fue vulnerable.
+C) La plantación N incluía variedades capaces de resistir al hongo.
+D) La plantación M desarrolló resistencia demasiado tarde para evitar la pérdida.
+Correcta: C. Por qué: El enunciado declara equivalentes el riego, el suelo y el clima, de modo que la única diferencia relevante que se informa es el número de variedades. En M, todas las plantas son clones y comparten la misma susceptibilidad, así que lo que afecta a una afecta a todas. En N, la variación entre las nueve variedades hace probable que algunas porten variantes resistentes.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,43 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 14: c. Citocinesis
+Sección: 4. Mitosis y citocinesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Citocinesis». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente anillo contráctil, actina y miosina, surco de segmentación, Golgi, placa celular, actina, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Citocinesis», dentro de la sección «4. Mitosis y citocinesis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: anillo contráctil, actina y miosina, surco de segmentación, Golgi, placa celular, actina.
+
+Ideas guía:
+- Suele empezar durante la anafase o la telofase y es distinta en las células animales y vegetales: Pistas para reconocer el tipo de célula: si en una célula en división no hay centriolos y la citocinesis ocurre con placa celular, es vegetal.
+- Un fármaco que bloquea la actina, como la citocalasina, impide la citocinesis animal, pero no la mitosis: el resultado es una célula con dos núcleos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Una estudiante quiere demostrar que la citocinesis de células vegetales depende de vesículas provenientes del aparato de Golgi. Dispone de brefeldina A, un compuesto que bloquea el transporte de vesículas desde el Golgi. ¿Qué diseño experimental es el más adecuado para ese objetivo?
+A) Tratar raíces con brefeldina A y comparar su crecimiento con el de raíces tratadas con colchicina.
+B) Tratar raíces con brefeldina A y comparar con raíces sin tratar si se forma la placa celular.
+C) Tratar células animales con brefeldina A y observar si se forma o no el surco de segmentación.
+D) Tratar raíces sin brefeldina A y contar cuántas células se encuentran en telofase en cada una.
+Correcta: B. Por qué: Para demostrar que la citocinesis vegetal depende de las vesículas del Golgi hay que bloquear ese transporte en células vegetales y compararlas con un control sin bloqueo. La variable a observar es la formación de la placa celular. La opción B cumple las tres condiciones. Usar células animales no sirve, porque dividen con anillo contráctil; comparar con colchicina cambia la variable; y sin tratamiento no hay variable independiente.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se compararon dos cultivos celulares durante la división. En el cultivo X, un anillo de filamentos se contrajo en el ecuador y formó un surco que avanzó desde la membrana hacia el centro. En el cultivo Y, apareció una estructura en el centro de la célula que creció hacia los bordes, y no se detectaron centriolos. ¿Qué inferencia es correcta?
+A) X es vegetal, porque el surco avanza desde la pared celular hacia el centro.
+B) Y es animal, porque la estructura central corresponde a un anillo contráctil.
+C) X es animal e Y es vegetal, por la forma en que dividen su citoplasma.
+D) X e Y son vegetales, porque ambas completaron la división del citoplasma.
+Correcta: C. Por qué: El cultivo X muestra un anillo que se contrae y un surco que avanza desde la membrana hacia el centro: citocinesis animal. El cultivo Y forma una estructura central que crece hacia los bordes, sin centriolos: placa celular, típica de célula vegetal. Así, X es animal e Y es vegetal, clave C.
+
+Pregunta 3 (Observar y plantear preguntas): En un cultivo de células animales tratado con un compuesto desconocido, un investigador observa que los cromosomas se separan normalmente hacia los polos, se forman dos núcleos, pero nunca aparece el surco de segmentación. ¿Qué hipótesis es coherente con esta observación?
+A) El compuesto impide que se formen los microtúbulos del huso.
+B) El compuesto impide que la envoltura nuclear vuelva a formarse.
+C) El compuesto impide que se condense la cromatina en la profase.
+D) El compuesto impide la acción del anillo de actina y miosina.
+Correcta: D. Por qué: La observación indica que la mitosis ocurrió: los cromosomas se separaron (huso funcional), se condensaron antes y se formaron dos núcleos (envolturas rearmadas). Lo único que falta es el surco, que depende del anillo contráctil. La hipótesis coherente es que el compuesto actúa sobre ese anillo, clave D. Las demás contradicen alguna parte de lo observado.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

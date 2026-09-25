@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 34: f. De la selección natural a las nuevas especies
+Sección: 7. La teoría de la selección natural de Darwin y Wallace
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «De la selección natural a las nuevas especies». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente especies, aislamiento reproductivo, barrera, presiones de selección propias, especies distintas, radiación adaptativa, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «f. De la selección natural a las nuevas especies», dentro de la sección «7. La teoría de la selección natural de Darwin y Wallace» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: especies, aislamiento reproductivo, barrera, presiones de selección propias, especies distintas, radiación adaptativa.
+
+Ideas guía:
+- La selección natural explica cómo cambia una población.
+- Cada población queda sometida a presiones de selección propias y acumula además mutaciones y efectos de la deriva genética distintos.
+- Si el aislamiento se prolonga, las diferencias llegan a impedir que los individuos de una población se reproduzcan con los de la otra: son especies distintas, aunque la barrera desaparezca.
+- Cuando un linaje coloniza un territorio con muchos modos de vida disponibles y se diversifica rápidamente en varias especies, se habla de radiación adaptativa.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Hace 15 000 años, el ascenso del nivel del mar separó en dos una población de roedores que quedó dividida entre el continente y una isla. Hoy los individuos de ambos grupos, puestos en contacto, no producen descendencia fértil. ¿Qué ocurrió durante ese período?
+A) Los dos grupos acumularon diferencias hasta quedar aislados reproductivamente.
+B) Los dos grupos se fusionaron en una sola población al restablecerse el contacto.
+C) Los dos grupos mantuvieron un intercambio de genes constante a través del mar.
+D) Los dos grupos desarrollaron voluntariamente barreras para evitar cruzarse entre sí.
+Correcta: A. Por qué: El dato final, la ausencia de descendencia fértil, indica que se estableció aislamiento reproductivo. El proceso que lo produjo es la acumulación independiente de diferencias durante los 15 000 años de separación. Se trata de dos especies distintas, aunque la barrera física desaparezca.
+
+Pregunta 2 (Planificar y conducir una investigación): Dos poblaciones de una misma planta, separadas por una cordillera, presentan flores de colores distintos. Un equipo quiere determinar si corresponden a especies distintas. ¿Qué procedimiento responde a esa pregunta?
+A) Comparar el color de las flores de ambas poblaciones en distintas estaciones del año.
+B) Cruzar individuos de ambas poblaciones y evaluar si la descendencia es fértil.
+C) Trasplantar individuos de una población a la otra y medir su tasa de crecimiento.
+D) Contar el número de individuos que compone cada una de las dos poblaciones.
+Correcta: B. Por qué: La diferencia de color no decide nada: dentro de una misma especie puede haber variedades de colores distintos. Lo que define el límite entre especies es el aislamiento reproductivo, de modo que el procedimiento pertinente es cruzar individuos de ambas poblaciones y comprobar si la descendencia es fértil.
+
+Pregunta 3 (Observar y plantear preguntas): Un equipo observa que en un archipiélago de siete islas existen siete especies emparentadas de lagartija, cada una restringida a una isla, y que todas se parecen más entre sí que a las lagartijas del continente. ¿Qué pregunta investigable plantea esta observación?
+A) ¿Cuál de las siete islas del archipiélago posee la mayor superficie terrestre?
+B) ¿Qué temperatura promedio registra cada una de las islas durante el verano?
+C) ¿Qué papel tuvo el aislamiento entre islas en el origen de estas siete especies?
+D) ¿Cuántos ejemplares de lagartija pueden observarse por hectárea en cada isla?
+Correcta: C. Por qué: El patrón tiene dos componentes: una especie por isla y mayor parecido entre ellas que con el continente. Eso sugiere un origen común seguido de divergencia en aislamiento. La pregunta que se desprende indaga precisamente el papel del aislamiento en la formación de esas especies.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

@@ -1,0 +1,45 @@
+Capítulo 11: Sistema nervioso · Biología PAES — Ciencias
+Video 21: b. Por qué el reflejo es tan rápido
+Sección: 6. El arco reflejo simple
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo red luminosa de neuronas, estilo visualización de datos sobre fondo oscuro, pensado para el tema «Por qué el reflejo es tan rápido». Paleta: impulsos en amarillo eléctrico y naranjo sobre azul profundo. Recursos gráficos: neuronas, sinapsis, cables que conducen chispas y un cerebro por regiones. Cada escena debe mostrar visualmente Centro integrador, Control de la voluntad, Tiempo, antes, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «b. Por qué el reflejo es tan rápido», dentro de la sección «6. El arco reflejo simple» del Capítulo 11: Sistema nervioso. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Centro integrador, Control de la voluntad, Tiempo, antes.
+
+Ideas guía:
+- Porque el centro integrador está en la médula espinal y no en el encéfalo.
+- La señal no sube hasta el cerebro para decidir: se procesa en el camino, y la orden sale de inmediato.
+- En el reflejo de retirada, la mano ya se apartó antes de que sintamos el dolor.
+- La señal sigue dos caminos a la vez: uno corto hacia la médula, que produce la respuesta, y otro largo hacia el encéfalo, que produce la sensación consciente.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Se mide el tiempo entre el estímulo y la respuesta en dos casos: en el reflejo rotuliano, unos 25 ms; en un movimiento voluntario del mismo músculo ante una señal luminosa, unos 200 ms. ¿Qué explica esa diferencia de casi ocho veces?
+A) El reflejo recorre un circuito más corto y con menos sinapsis que el voluntario.
+B) Los axones del movimiento voluntario carecen por completo de vaina de mielina.
+C) El reflejo no requiere que ninguna neurona genere potenciales de acción.
+D) El músculo se contrae con mayor fuerza en el reflejo que en el movimiento voluntario.
+Correcta: A. Por qué: La diferencia principal entre las dos situaciones es el recorrido. El reflejo se cierra en la médula con una o dos sinapsis. El movimiento voluntario exige que la información llegue a la corteza visual, se procese, se decida la acción y baje la orden motora, lo que suma distancia y numerosos relevos sinápticos.
+
+Pregunta 2 (Evaluar): Se afirma que «el reflejo es rápido porque el encéfalo no se entera nunca de lo que ocurrió». ¿Cuál es la precisión necesaria?
+A) Es correcta: la información de un reflejo no llega jamás al encéfalo.
+B) Es incorrecta, porque el reflejo se integra en realidad en la corteza cerebral.
+C) Es incorrecta: el encéfalo la recibe, pero tras ejecutar la respuesta.
+D) Es incorrecta, porque el reflejo es más lento que un movimiento voluntario.
+Correcta: C. Por qué: Es cierto que el encéfalo no participa en la decisión, y por eso el reflejo es rápido. Lo falso es decir que no se entera: la señal sube igualmente y por eso la persona percibe después el dolor o el movimiento. La corrección consiste en cambiar «nunca» por «después», que es precisamente lo que la experiencia cotidiana muestra.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere estimar cuánto tiempo aporta cada sinapsis al retardo total de un circuito. Se dispone de dos reflejos del mismo miembro, uno monosináptico y otro con dos interneuronas. ¿Cómo conviene proceder?
+A) Medir solo el reflejo monosináptico y suponer que cada sinapsis aporta ese tiempo.
+B) Medir la fuerza de contracción del músculo en cada uno de los dos reflejos.
+C) Medir el tiempo de respuesta del reflejo polisináptico a distintas temperaturas.
+D) Medir el tiempo de respuesta de ambos reflejos y comparar la diferencia.
+Correcta: D. Por qué: Si los dos reflejos recorren distancias comparables y difieren sobre todo en el número de sinapsis, la diferencia de tiempos se atribuye a las sinapsis adicionales, y dividirla entre ellas da una estimación por sinapsis. Medir un solo reflejo no permite separar el retardo sináptico del tiempo de conducción, y la fuerza o la temperatura son otras variables.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

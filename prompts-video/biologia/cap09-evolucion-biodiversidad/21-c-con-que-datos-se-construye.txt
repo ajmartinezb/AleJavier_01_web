@@ -1,0 +1,45 @@
+Capítulo 9: Evolución y biodiversidad · Biología PAES — Ciencias
+Video 21: c. Con qué datos se construye
+Sección: 5. El árbol filogenético
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de expedición naturalista del siglo XIX con acuarelas, pensado para el tema «Con qué datos se construye». Paleta: sepias, verdes selva y ocres sobre papel envejecido. Recursos gráficos: árboles filogenéticos, mapas de islas, fósiles y picos de pinzones. Cada escena debe mostrar visualmente derivados compartidos, una sola vez, menor número de cambios, parsimonia, El grupo externo, enraizar, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Con qué datos se construye», dentro de la sección «5. El árbol filogenético» del Capítulo 9: Evolución y biodiversidad. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: derivados compartidos, una sola vez, menor número de cambios, parsimonia, El grupo externo, enraizar.
+
+Ideas guía:
+- Un árbol se construye a partir de caracteres compartidos que se heredaron de un ancestro común, es decir, homologías (sección 4).
+- Los caracteres que importan son los derivados compartidos: novedades que aparecieron en un ancestro y que sus descendientes heredaron.
+- El árbol que reproduce ese patrón con el menor número de cambios (criterio de parsimonia) es el que se propone como hipótesis.
+- Con secuencias de ADN el principio es el mismo, solo que los caracteres son las posiciones de la secuencia y hay miles de ellos, lo que exige métodos estadísticos.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una matriz registra cuatro caracteres en cinco especies (1 = presente, 0 = ausente). El carácter «columna vertebral» está presente en las cinco; «mandíbulas», en cuatro; «esqueleto osificado», en tres; «cuatro extremidades», en dos. ¿Qué indica este patrón anidado?
+A) Que los cuatro caracteres aparecieron de forma independiente en cada una de las especies.
+B) Que cada carácter nuevo define un grupo menor dentro del grupo definido por el anterior.
+C) Que la especie que presenta más caracteres es el ancestro común de las restantes.
+D) Que los caracteres se perdieron sucesivamente a lo largo de la historia del grupo.
+Correcta: B. Por qué: Los números descienden de forma ordenada: 5, 4, 3 y 2. Eso significa que cada carácter está presente en un subconjunto del grupo definido por el carácter anterior. La explicación más simple es que cada novedad apareció una sola vez, en un ancestro, y fue heredada por todos sus descendientes: de ahí la estructura de grupos dentro de grupos.
+
+Pregunta 2 (Planificar y conducir una investigación): Un equipo construye un árbol para un grupo de insectos y necesita decidir cuál estado de cada carácter es el ancestral y cuál el derivado. ¿Qué debe incorporar a su análisis?
+A) Un grupo externo emparentado pero ajeno al grupo de interés del estudio.
+B) La especie de mayor tamaño corporal dentro del grupo de interés del estudio.
+C) La especie más abundante en la zona donde se realizó el muestreo de campo.
+D) La especie descrita en primer lugar dentro de la literatura científica del grupo.
+Correcta: A. Por qué: Sin grupo externo se puede saber qué taxones se parecen entre sí, pero no en qué dirección corrió el tiempo. El grupo externo aporta esa referencia: si no presenta un carácter, ese estado se considera ancestral, y su presencia dentro del grupo se interpreta como la novedad. Tamaño, abundancia o antigüedad de la descripción no aportan esa información.
+
+Pregunta 3 (Evaluar): Para un mismo conjunto de datos, un equipo obtiene un árbol que requiere 18 cambios de carácter y otro que requiere 31. Ambos explican los datos observados. Según el criterio de parsimonia, ¿cuál se propone como hipótesis y por qué?
+A) El de 31 cambios, porque un mayor número de cambios describe mejor la variedad del grupo.
+B) El de 31 cambios, porque incorpora más información sobre la historia del grupo estudiado.
+C) El de 18 cambios, porque es el que explica los datos suponiendo menos cambios evolutivos.
+D) El de 18 cambios, porque un árbol con menos cambios siempre coincide con el árbol real.
+Correcta: C. Por qué: Ambos árboles son compatibles con los datos, así que hace falta un criterio adicional para elegir. La parsimonia selecciona la explicación que requiere menos supuestos, en este caso menos cambios de carácter: el árbol de 18. Eso no garantiza que sea el árbol verdadero; lo hace la hipótesis preferible mientras no aparezca evidencia nueva.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

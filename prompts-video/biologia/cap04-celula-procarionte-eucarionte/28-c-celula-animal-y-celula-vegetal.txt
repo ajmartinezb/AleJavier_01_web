@@ -1,0 +1,44 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 28: c. Célula animal y célula vegetal
+Sección: 8. Pared celular y comparación entre tipos de células
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «Célula animal y célula vegetal». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente Sí, Vacuola central grande, Error típico, tienen ambos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Célula animal y célula vegetal», dentro de la sección «8. Pared celular y comparación entre tipos de células» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Sí, Vacuola central grande, Error típico, tienen ambos.
+
+Ideas guía:
+- Error típico: creer que las plantas no tienen mitocondrias «porque ya tienen cloroplastos».
+- Las células vegetales tienen ambos: el cloroplasto fabrica glucosa y la mitocondria la usa para obtener ATP.
+- Las raíces, que no hacen fotosíntesis, dependen por completo de sus mitocondrias.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Un estudiante afirma que «las células vegetales no necesitan mitocondrias porque obtienen energía de sus cloroplastos». Para evaluar la afirmación se cuentan organelos en dos tipos de células de una misma planta. Hoja: 45 cloroplastos y 120 mitocondrias. Raíz: 0 cloroplastos y 250 mitocondrias. ¿Qué evaluación es correcta?
+A) Es correcta, porque la hoja tiene cloroplastos y en ellos se produce el ATP de la célula.
+B) Es incorrecta, porque ambas células tienen mitocondrias y la raíz obtiene su ATP solo de ellas.
+C) Es correcta, porque las mitocondrias de la raíz solo sirven para almacenar almidón.
+D) Es incorrecta, porque la raíz también fabrica glucosa en cloroplastos que no se ven.
+Correcta: B. Por qué: Si la afirmación fuera cierta, no habría mitocondrias en las células vegetales. Sin embargo, la hoja tiene 120 y la raíz 250. Además, la raíz no tiene cloroplastos, así que toda su energía celular proviene de las mitocondrias. Los datos refutan la afirmación.
+
+Pregunta 2 (Planificar y conducir una investigación): Se tiene una muestra de tejido desconocido y se quiere saber si proviene de un animal o de una planta. En el laboratorio hay yodo, que tiñe el almidón de azul oscuro, y un colorante que se une a la celulosa. ¿Qué procedimiento permite responder con mayor seguridad?
+A) Aplicar ambos colorantes y registrar si hay pared de celulosa y almidón.
+B) Aplicar solo el yodo y medir el tamaño de las células teñidas de azul.
+C) Contar las mitocondrias por célula y compararlas con un tejido animal conocido.
+D) Observar si hay membrana plasmática y núcleo con envoltura en las células.
+Correcta: A. Por qué: La celulosa solo aparece en paredes vegetales y el almidón es la reserva vegetal; usar ambos colorantes da dos criterios independientes. Medir tamaño no discrimina. Las mitocondrias, la membrana y el núcleo están en ambos tipos, así que no sirven para decidir.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se observan tres células al microscopio y se registra: Célula P, pared presente, vacuola central que ocupa 80 % del volumen, sin centriolos, sin cloroplastos. Célula Q, sin pared, vacuolas pequeñas, centriolos presentes, lisosomas abundantes. Célula R, pared presente, vacuola central, cloroplastos abundantes. ¿Qué conclusión es coherente con los datos?
+A) P es animal porque no tiene cloroplastos; Q y R son vegetales porque tienen vacuolas.
+B) P, Q y R son vegetales, porque todas presentan algún tipo de vacuola en su interior.
+C) P y R son vegetales, pero solo R podría ser de hoja; Q es animal.
+D) R es vegetal y P es de hongo, pues tiene pared sin cloroplastos; Q es animal.
+Correcta: C. Por qué: P tiene pared, vacuola central y no tiene centriolos: tres rasgos vegetales. Le faltan cloroplastos, lo que es esperable en una célula de raíz o de otra parte no verde. R reúne pared, vacuola central y cloroplastos: es vegetal y, por sus cloroplastos, puede venir de una hoja. Q no tiene pared y presenta centriolos y lisosomas abundantes: es animal.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

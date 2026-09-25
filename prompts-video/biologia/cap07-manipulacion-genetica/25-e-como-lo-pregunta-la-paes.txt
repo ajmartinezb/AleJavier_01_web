@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 25: e. Cómo lo pregunta la PAES
+Sección: 6. Aplicaciones en alimentos y agricultura
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «Cómo lo pregunta la PAES». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente Distinguir la característica introducida, Evaluar un diseño experimental, Analizar datos, Juzgar una afirmación, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Cómo lo pregunta la PAES», dentro de la sección «6. Aplicaciones en alimentos y agricultura» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Distinguir la característica introducida, Evaluar un diseño experimental, Analizar datos, Juzgar una afirmación.
+
+Ideas guía:
+- Los ítems sobre este contenido rara vez piden recordar un ejemplo.
+- Piden, sobre todo: Distinguir la característica introducida de sus consecuencias: qué gen se agregó y qué efecto produce.
+- Evaluar un diseño experimental que compare un cultivo modificado con uno convencional: qué variable se controla, cuál es el grupo control.
+- Analizar datos de rendimiento, de uso de plaguicidas o de superficie sembrada.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Evaluar): Ante un ítem que describe un cultivo modificado, un estudiante duda entre dos alternativas: una nombra el gen introducido y otra describe el efecto observado en el campo. La pregunta es qué característica se le introdujo. ¿Cuál corresponde elegir?
+A) La que describe el efecto observado, porque es lo que se mide en el campo.
+B) La que nombra el gen introducido, porque la pregunta se refiere a la modificación.
+C) Cualquiera de las dos, porque ambas describen el mismo hecho biológico.
+D) Ninguna de las dos, porque la característica solo se determina secuenciando.
+Correcta: B. Por qué: Si la pregunta es por la característica introducida, la respuesta debe referirse a lo que se agregó al genoma. El efecto observado en el campo es una consecuencia, que además puede depender del clima, del manejo y de la presión de plagas de ese año. Responder con la consecuencia es responder otra pregunta.
+
+Pregunta 2 (Procesar y analizar la evidencia): Una tabla compara dos variedades durante tres temporadas: la modificada requirió 2, 1 y 2 aplicaciones de insecticida; la convencional, 7, 6 y 8. El resto del manejo fue equivalente. ¿Qué conclusión se desprende?
+A) La variedad modificada produjo un mayor rendimiento por hectárea en las tres temporadas.
+B) La variedad convencional resultó más resistente a las plagas durante el período estudiado.
+C) Las diferencias observadas se explican por las condiciones climáticas de cada temporada.
+D) La variedad modificada requirió menos aplicaciones de insecticida en las tres temporadas.
+Correcta: D. Por qué: La tabla entrega una sola variable: el número de aplicaciones. En las tres temporadas la variedad modificada requirió menos, y el enunciado declara equivalente el resto del manejo, de modo que la comparación es válida. Nada se informa sobre rendimiento, y la consistencia en tres temporadas debilita una explicación puramente climática.
+
+Pregunta 3 (Planificar y conducir una investigación): Un ítem pide diseñar un estudio que compare una variedad modificada con una convencional. ¿Qué elemento no puede faltar en ese diseño?
+A) Un grupo control con la variedad convencional en condiciones equivalentes.
+B) Un registro del precio de venta que alcanza cada una de las dos variedades.
+C) Una encuesta a los agricultores sobre su preferencia entre ambas variedades.
+D) Un análisis del contenido de ADN presente en el producto ya cosechado.
+Correcta: A. Por qué: Sin un grupo con la variedad convencional, cultivado en las mismas condiciones, no hay con qué comparar: cualquier resultado podría deberse al clima, al suelo o al manejo de esa temporada. El control es lo que permite atribuir la diferencia a la variedad. Precio, preferencia y contenido de ADN responden a otras preguntas.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

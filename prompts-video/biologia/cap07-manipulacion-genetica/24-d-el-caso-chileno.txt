@@ -1,0 +1,45 @@
+Capítulo 7: Manipulación genética · Biología PAES — Ciencias
+Video 24: d. El caso chileno
+Sección: 6. Aplicaciones en alimentos y agricultura
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo estética de laboratorio biotecnológico futurista, interfaz tipo pantalla de datos, pensado para el tema «El caso chileno». Paleta: azul eléctrico, verde lima y blanco sobre gris grafito. Recursos gráficos: hélices de ADN, tijeras moleculares, plásmidos y tubos de ensayo. Cada escena debe mostrar visualmente sí importa, aislamiento sanitario y reproductivo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. El caso chileno», dentro de la sección «6. Aplicaciones en alimentos y agricultura» del Capítulo 7: Manipulación genética. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: sí importa, aislamiento sanitario y reproductivo.
+
+Ideas guía:
+- Chile ocupa una posición particular, que conviene tener clara: No se cultivan transgénicos para consumo interno.
+- Lo que sí está permitido, y desde 1992, es la producción de semilla transgénica para exportación, bajo medidas estrictas de aislamiento y autorización del Servicio Agrícola y Ganadero (SAG).
+- Chile sí importa alimentos derivados de cultivos transgénicos, sobre todo maíz y soya destinados a alimentación animal.
+- El aprovechamiento del contraestación es lo que explica el negocio: mientras en el hemisferio norte es invierno, aquí se multiplica semilla.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Chile autoriza desde 1992 la producción de semilla transgénica destinada a exportación, con medidas de aislamiento, pero no autoriza el cultivo para consumo interno. ¿Qué describe correctamente esta situación?
+A) Chile prohíbe toda actividad relacionada con organismos modificados en su territorio.
+B) Chile cultiva transgénicos solo como semilla de exportación, con autorización.
+C) Chile cultiva transgénicos para consumo interno, pero prohíbe exportar la semilla producida.
+D) Chile no participa de ninguna etapa de la cadena de producción de semilla transgénica.
+Correcta: B. Por qué: La situación combina una autorización acotada con una prohibición. Describirla bien exige mencionar ambas partes: se cultiva, pero solo como semilla y solo para exportar. Decir que se prohíbe todo, o que se cultiva para consumo interno, deforma el dato en direcciones opuestas.
+
+Pregunta 2 (Evaluar): Se sostiene que la geografía chilena favorece la producción de semilla. ¿Qué argumento respalda esa afirmación?
+A) La superficie cultivable de Chile es la mayor de América del Sur, lo que permite escala.
+B) El clima chileno coincide con el del hemisferio norte, lo que facilita la coordinación.
+C) El desierto, la cordillera y el océano aíslan los cultivos y reducen plagas.
+D) La cordillera aporta suelos volcánicos que aceleran la germinación de las semillas.
+Correcta: C. Por qué: Un semillero necesita que el material no se contamine con polen ajeno ni con plagas. Las mismas barreras que en el capítulo 9 explican el endemismo chileno cumplen aquí esa función. Es un caso en que una condición evolutiva se convierte en una ventaja productiva.
+
+Pregunta 3 (Planificar y conducir una investigación): Un semillero debe evitar que el polen de su cultivo transgénico llegue a plantaciones vecinas. ¿Qué medidas corresponden?
+A) Mantener distancias de aislamiento, barreras y desfases en la floración.
+B) Aumentar la densidad de siembra para que las plantas compitan entre ellas.
+C) Aplicar mayor cantidad de fertilizante para acelerar el ciclo del cultivo.
+D) Cosechar antes de la floración para impedir la formación de semillas.
+Correcta: A. Por qué: El polen viaja por el aire o por polinizadores, de modo que las medidas eficaces son las que reducen la probabilidad de que llegue a otra plantación receptiva: separar en el espacio, interponer barreras y hacer que las floraciones no coincidan en el tiempo. Cosechar antes de la floración impediría obtener semilla, que es el producto del semillero.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

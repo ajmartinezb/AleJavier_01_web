@@ -1,0 +1,45 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 21: e. Las variables que afectan a una enzima
+Sección: 6. Proteínas y enzimas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «Las variables que afectan a una enzima». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente Temperatura, pH, Concentración de sustrato, meseta de saturación, Inhibidores, Cómo se pregunta, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «e. Las variables que afectan a una enzima», dentro de la sección «6. Proteínas y enzimas» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Temperatura, pH, Concentración de sustrato, meseta de saturación, Inhibidores, Cómo se pregunta.
+
+Ideas guía:
+- Temperatura: la actividad sube hasta un óptimo y después cae de golpe, porque la enzima se desnaturaliza.
+- La curva es asimétrica: sube gradualmente y baja bruscamente.
+- La pepsina del estómago trabaja cerca de pH 2; la amilasa salival, cerca de pH 7.
+- Concentración de sustrato: la velocidad aumenta hasta que todas las enzimas están ocupadas y se alcanza una meseta de saturación.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Un gráfico de actividad enzimática frente a temperatura muestra un ascenso gradual hasta 37 °C y una caída abrupta después. ¿Cómo se interpreta la caída?
+A) El sustrato del ensayo se agota justo al alcanzarse la temperatura de 37 grados.
+B) La enzima se consume progresivamente al catalizar la reacción.
+C) La enzima se desnaturaliza y su sitio activo deja de reconocer al sustrato.
+D) La energía cinética de las moléculas disminuye al subir la temperatura del medio.
+Correcta: C. Por qué: Esa asimetría es la pista: si el sustrato se agotara o la enzima se consumiera, el efecto se notaría en todas las temperaturas y no aparecería un máximo. Además, la energía cinética aumenta con la temperatura, de modo que la última alternativa invierte un hecho físico elemental.
+
+Pregunta 2 (Planificar y conducir una investigación): Se quiere determinar el pH óptimo de una enzima gástrica. Se dispone de la enzima, su sustrato, soluciones amortiguadoras de pH 1 a 9 y un termostato. ¿Qué diseño responde mejor la pregunta?
+A) Medir la actividad a pH 2, 4, 6 y 8 manteniendo constante la temperatura.
+B) Medir la actividad a pH 2 y 20 °C, y luego a pH 7 y 40 °C.
+C) Medir la actividad a pH 2 durante tiempos de incubación crecientes.
+D) Medir la actividad a pH 2 con cuatro concentraciones distintas de sustrato.
+Correcta: A. Por qué: Un óptimo solo aparece si se varía la variable de interés en varios valores y se mantiene constante todo lo demás. El segundo diseño cambia pH y temperatura a la vez, y los dos últimos dejan el pH fijo y varían otra cosa, de modo que responden preguntas distintas de la planteada.
+
+Pregunta 3 (Evaluar): Se comparan dos enzimas humanas: una trabaja mejor cerca de pH 2 y la otra cerca de pH 7. ¿Qué se concluye de ese contraste?
+A) Que la enzima de pH 2 es más eficiente que la de pH 7 en cualquier medio.
+B) Que cada enzima está ajustada al pH del compartimento donde actúa.
+C) Que una de las dos mediciones debe contener un error experimental.
+D) Que ambas enzimas son en realidad la misma proteína medida de dos maneras.
+Correcta: B. Por qué: Esa diferencia no es un error ni una contradicción: refleja que cada enzima actúa en un compartimento con condiciones distintas. Comparar eficiencias entre medios diferentes no tiene sentido, y suponer que se trata de la misma proteína contradice el hecho de que sus óptimos difieren en cinco unidades de pH.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

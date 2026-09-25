@@ -1,0 +1,16 @@
+# Guion 09 · iii. Hipótesis
+*Capítulo 1: Método científico · Biología PAES — Ciencias · Sección 3. Etapas de una investigación científica*
+Duración estimada: 5 a 6 minutos · Estilo: cuaderno de laboratorio (papel cuadriculado crema, tinta azul, resaltador amarillo)
+
+| # | Tiempo | Visual | Narración |
+|---|---|---|---|
+| 1 | 0:00–0:25 | Un detective con lupa frente a los tomates del invernadero y del patio. | Un detective no adivina: propone una explicación a partir de pistas y luego la pone a prueba. En ciencia, esa explicación provisoria tiene nombre: **hipótesis**. |
+| 2 | 0:25–0:45 | Ciclo; se ilumina «Hipótesis», con una flecha desde «Pregunta». | Llegamos a la tercera etapa. |
+| 3 | 0:45–1:30 | Tarjeta: «Hipótesis = respuesta tentativa a la pregunta de investigación». Debajo, libros y notas: «conocimientos previos + observaciones». | La hipótesis es una **respuesta tentativa** a la pregunta de investigación. Tentativa, porque todavía no se sabe si es cierta. Pero no es una adivinanza: se basa en conocimientos previos y en observaciones. |
+| 4 | 1:30–2:30 | Dos sellos que se estampan: «CONTRASTABLE» y «REFUTABLE». | Tiene que cumplir dos condiciones. Uno: ser **contrastable**, es decir, que se pueda poner a prueba con un experimento u observaciones. Dos: ser **refutable**, que exista algún resultado posible que la demuestre falsa. Una frase como «la cafeína puede influir o no influir» nunca podría ser falsa… así que no sirve como hipótesis. |
+| 5 | 2:30–2:55 | Termómetro junto al invernadero y ejemplo escrito a mano. | Ejemplo: «La mayor temperatura del invernadero aumenta la velocidad de crecimiento de las plantas de tomate». Se puede probar, y podría resultar falsa. |
+| 6 | 2:55–3:35 | Balanza con «H₀: no hay efecto» y «H₁: sí hay efecto». | Muchas investigaciones plantean dos hipótesis. La **nula**: no hay efecto, «la temperatura no influye en el crecimiento». Y la **alternativa**: sí hay efecto. El experimento busca evidencia para rechazar la nula. |
+| 7 | 3:35–3:55 | Tarjeta roja «Error típico PAES». | Error típico: confundir la hipótesis con la predicción. La hipótesis explica de forma general; la predicción anticipa un resultado concreto del experimento. |
+| 8 | 3:55–5:05 | Glóbulos rojos en soluciones al 0,3 %, 0,9 % y 2 %. Tarjeta A–D; se ilumina B. | Pregunta: se ponen glóbulos rojos en tres soluciones de sal —0,3, 0,9 y 2 %— y se observa su forma. ¿Qué hipótesis se pone a prueba? A) En la solución al 2 % se verán arrugados. B) La entrada o salida de agua de la célula depende de la concentración del medio. C) La forma depende de la hemoglobina. D) La concentración del medio depende del volumen del glóbulo. … Es **B**: explica, vinculando lo que se cambia con lo que se observa. A menciona un tubo concreto: es una predicción. C habla de algo que no se varió, y D invierte la relación. |
+| 9 | 5:05–5:40 | Tres ideas; flecha hacia «Predicción». | Resumen: la hipótesis es una respuesta tentativa y fundamentada; debe ser contrastable y refutable; y a menudo se enfrenta una hipótesis nula con una alternativa. De ella se deduce lo que esperamos ver: la predicción. |
+| 10 | 5:40–6:00 | Tarjetas «Desafío». | Desafío: ¿cuál propuesta sobre la cafeína es una hipótesis? ¿Y qué resultado obligaría a rechazar la hipótesis de las polillas oscuras? |

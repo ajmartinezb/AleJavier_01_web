@@ -1,0 +1,14 @@
+# Guion 10 · iv. Predicción
+*Capítulo 1: Método científico · Biología PAES — Ciencias · Sección 3. Etapas de una investigación científica*
+Duración estimada: 5 a 6 minutos · Estilo: cuaderno de laboratorio (papel cuadriculado crema, tinta azul, resaltador amarillo)
+
+| # | Tiempo | Visual | Narración |
+|---|---|---|---|
+| 1 | 0:00–0:25 | Una bola de cristal tachada y, al lado, un «si…, entonces…» escrito a mano. | En ciencia, predecir no es leer el futuro en una bola de cristal. Es deducir: «si mi hipótesis es correcta, entonces debería ver esto». |
+| 2 | 0:25–0:45 | Ciclo; se ilumina «Predicción». | Cuarta etapa: la predicción. |
+| 3 | 0:45–1:25 | Tarjeta: «Predicción = resultado esperado si la hipótesis es correcta». Molde «Si… entonces…». | La predicción dice **qué resultado se espera obtener si la hipótesis es correcta**. Se suele redactar como «**si**…, **entonces**…». |
+| 4 | 1:25–2:15 | Dos grupos de tomates a 15 °C y 25 °C; una regla muestra que los de 25 °C son más altos a las cuatro semanas. | Ejemplo: «Si la temperatura aumenta la velocidad de crecimiento, entonces las plantas mantenidas a 25 °C serán más altas a las cuatro semanas que las mantenidas a 15 °C». Fíjate: nombra los grupos, las temperaturas y el plazo del experimento. |
+| 5 | 2:15–3:20 | Tabla comparativa: Hipótesis (explica, general) / Predicción (resultado medible, concreto). Tarjeta roja «La confusión más frecuente». | Esta es **la confusión más frecuente en la PAES**. La **hipótesis explica** el fenómeno: propone una causa o un mecanismo. La **predicción anticipa un resultado medible** de un experimento concreto. Truco: la predicción menciona los grupos, las condiciones o los valores del experimento; la hipótesis es más general. |
+| 6 | 3:20–4:40 | Tres tubos con pepsina y cubos de clara a pH 2, 5 y 8. Tarjeta A–D; se ilumina A. | Probemos. Hipótesis: la pepsina digiere proteínas con mayor eficacia en medio ácido. Tres tubos a pH 2, 5 y 8, a 37 °C, con un cubo de clara cocida. ¿Qué predicción se cumplirá si la hipótesis es correcta? A) El cubo desaparecerá antes a pH 2. B) Desaparecerá antes a pH 8. C) Desaparecerá al mismo tiempo en los tres. D) La pepsina actuará mejor en el estómago que en el intestino. … Es **A**: el tubo más ácido es el de pH 2, y más eficacia significa digerir más rápido. B y C contradirían la hipótesis, y D no habla de este experimento. |
+| 7 | 4:40–5:20 | Tres ideas; flecha hacia «Experimentación». | Resumen: la predicción se deduce de la hipótesis; se escribe «si…, entonces…»; y usa los grupos y las medidas del experimento concreto. Ahora hay que comprobarla: toca experimentar. |
+| 8 | 5:20–5:40 | Tarjetas «Desafío». | Desafío: ¿qué predicción se deduce de la hipótesis de las estrellas de mar? ¿Y cuál enunciado sobre las arvejas es la hipótesis y cuál la predicción? |

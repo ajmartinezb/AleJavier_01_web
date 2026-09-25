@@ -1,0 +1,45 @@
+Capítulo 4: La célula: estructura, organelos y función · Biología PAES — Ciencias
+Video 22: d. La teoría endosimbiótica
+Sección: 6. Organelos que transforman energía: mitocondrias, cloroplastos y peroxisomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración científica en corte transversal, como una ciudad celular vista desde arriba, pensado para el tema «La teoría endosimbiótica». Paleta: pasteles translúcidos (lila, verde menta, durazno) con contornos finos. Recursos gráficos: organelos rotulados, rutas con flechas y lupas de acercamiento. Cada escena debe mostrar visualmente Lynn Margulis, teoría endosimbiótica, englobó, sin digerirla, beneficio mutuo, mitocondria, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. La teoría endosimbiótica», dentro de la sección «6. Organelos que transforman energía: mitocondrias, cloroplastos y peroxisomas» del Capítulo 4: La célula: estructura, organelos y función. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Lynn Margulis, teoría endosimbiótica, englobó, sin digerirla, beneficio mutuo, mitocondria.
+
+Ideas guía:
+- ¿Por qué mitocondrias y cloroplastos tienen su propio ADN?
+- La bióloga estadounidense Lynn Margulis desarrolló en 1967 la teoría endosimbiótica, que propone lo siguiente: Hace más de 1500 millones de años, una célula de mayor tamaño englobó a una bacteria capaz de usar oxígeno, sin digerirla.
+- La bacteria siguió viviendo en su interior en una relación de beneficio mutuo: aportaba energía y recibía protección y nutrientes.
+- Con el tiempo se convirtió en la mitocondria.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): En una disertación sobre la teoría endosimbiótica, un estudiante presenta cuatro enunciados. ¿Cuál de ellos corresponde a una evidencia que sustenta la teoría y no a la teoría misma?
+A) Una célula ancestral englobó a una bacteria aeróbica y no llegó a digerirla.
+B) La mitocondria se originó de una bacteria que vivió dentro de otra célula.
+C) Los cloroplastos provienen de cianobacterias incorporadas por una célula.
+D) Las mitocondrias tienen ADN circular, como el cromosoma de las bacterias.
+Correcta: D. Por qué: Una evidencia es un dato observable en organismos actuales; la teoría es la explicación que interpreta esos datos. Las alternativas A, B y C describen sucesos del pasado que nadie observó: son parte de lo que propone la teoría. En cambio, que las mitocondrias tengan ADN circular parecido al bacteriano se comprueba hoy en el laboratorio, y es un dato que la teoría explica.
+
+Pregunta 2 (Procesar y analizar la evidencia): Se cultivan células humanas con cloranfenicol, un antibiótico que bloquea los ribosomas bacterianos (70S) y no afecta a los ribosomas del citoplasma eucarionte (80S). Tras varios días se mide la síntesis de proteínas en dos compartimentos: citoplasma, 98 % respecto del control; matriz mitocondrial, 15 % respecto del control. ¿Qué inferencia es coherente con estos resultados?
+A) El antibiótico destruye las mitocondrias por completo, y por eso la célula muere.
+B) Los ribosomas mitocondriales se parecen a los bacterianos y responden al antibiótico.
+C) Los ribosomas del citoplasma se parecen a los bacterianos, porque también son 70S.
+D) La matriz mitocondrial carece de ribosomas y depende de los que hay en el citoplasma.
+Correcta: B. Por qué: La síntesis de proteínas citoplasmática casi no cambia (98 %), lo esperable porque sus ribosomas son 80S. En la matriz, en cambio, cae al 15 %: allí hay ribosomas sensibles a un antibiótico que actúa solo sobre ribosomas de tipo bacteriano. Se infiere que los ribosomas mitocondriales se asemejan a los bacterianos, lo que apoya la teoría endosimbiótica.
+
+Pregunta 3 (Evaluar): Un estudiante afirma: «Como las mitocondrias tienen doble membrana, queda demostrado que provienen de bacterias». Su profesora le responde que la doble membrana apoya la teoría endosimbiótica, pero que su afirmación tiene un problema. ¿Cuál es la limitación principal de la afirmación del estudiante?
+A) Una sola evidencia apoya la teoría, pero no basta para darla por probada.
+B) La doble membrana contradice la teoría, pues las bacterias tienen una sola.
+C) La teoría ya fue descartada, así que ninguna evidencia la puede sustentar.
+D) La doble membrana solo aparece en los cloroplastos y no en las mitocondrias.
+Correcta: A. Por qué: La doble membrana es coherente con la teoría, así que la apoya. Pero una teoría científica no se «demuestra» con un solo dato: su solidez viene de la convergencia de muchas evidencias independientes, como el ADN circular, los ribosomas de tipo bacteriano y las secuencias genéticas. El error del estudiante es de alcance: saca una conclusión más fuerte que la que su evidencia permite.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

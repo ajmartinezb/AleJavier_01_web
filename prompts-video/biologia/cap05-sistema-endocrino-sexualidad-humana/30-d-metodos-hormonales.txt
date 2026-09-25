@@ -1,0 +1,45 @@
+Capítulo 5: Sistema endocrino y sexualidad humana · Biología PAES — Ciencias
+Video 30: d. Métodos hormonales
+Sección: 8. Métodos de control de la natalidad
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo diagramas anatómicos sobrios y respetuosos, estilo atlas médico moderno, sin realismo explícito, pensado para el tema «Métodos hormonales». Paleta: rosados, coral y azul petróleo sobre blanco. Recursos gráficos: glándulas, ejes con flechas de retroalimentación, calendarios y curvas hormonales. Cada escena debe mostrar visualmente Cómo funcionan, El razonamiento completo, no hay ovulación, anticoncepción de emergencia, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Métodos hormonales», dentro de la sección «8. Métodos de control de la natalidad» del Capítulo 5: Sistema endocrino y sexualidad humana. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: Cómo funcionan, El razonamiento completo, no hay ovulación, anticoncepción de emergencia.
+
+Ideas guía:
+- Aportan estrógenos y progestágenos, o solo progestágeno, en presentaciones diversas: píldora, inyectable, implante subdérmico, parche y anillo vaginal.
+- Aquí se aplica directamente la retroalimentación negativa de la sección 2: las hormonas externas frenan la secreción de FSH y LH, de modo que no hay pico de LH y no hay ovulación.
+- Además espesan el moco cervical y modifican el endometrio.
+- Hormonas externas → el hipotálamo y la hipófisis detectan concentraciones altas → baja la GnRH y bajan la FSH y la LH → el folículo no madura y no hay pico de LH → no hay ovulación.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Observar y plantear preguntas): Un estudiante advierte que una persona que usa anticoncepción hormonal sigue presentando sangrados mensuales aunque no ovule. ¿Qué pregunta investigable plantea esa observación?
+A) ¿Cuántas presentaciones de anticonceptivos hormonales existen en el mercado?
+B) ¿Qué color tienen las píldoras de cada una de las semanas del envase?
+C) ¿Quién patentó el primer anticonceptivo hormonal de la historia?
+D) ¿Qué produce el sangrado si no hubo ovulación ni fase lútea normal?
+Correcta: D. Por qué: La tensión está en que el sangrado se asocia habitualmente a la caída hormonal posterior al cuerpo lúteo, que aquí no existe. Preguntar qué lo produce lleva a entender que el endometrio responde a las hormonas externas y se descama cuando estas se suspenden unos días. Las demás opciones son comerciales o históricas.
+
+Pregunta 2 (Evaluar): Se afirma que «la anticoncepción de emergencia interrumpe un embarazo ya establecido». ¿Cuál es la corrección pertinente?
+A) Es correcta: actúa eliminando el embrión implantado en el endometrio.
+B) Es incorrecta, porque no contiene ninguna hormona en su composición.
+C) Es incorrecta: actúa retrasando o impidiendo la ovulación.
+D) Es correcta, porque se administra después de la implantación del embrión.
+Correcta: C. Por qué: El momento de acción es anterior a la fecundación, no posterior a la implantación. Por eso su eficacia depende del tiempo transcurrido y es menor que la de un método de uso regular. Confundir su mecanismo lleva a conclusiones erróneas sobre cuándo puede usarse y con qué efecto.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que un preparado hormonal suprime la ovulación. ¿Qué medición entrega la evidencia más directa?
+A) Registrar la concentración de LH a lo largo del ciclo y verificar si aparece el pico.
+B) Registrar el peso corporal de las participantes durante tres meses seguidos.
+C) Preguntar a las participantes si creen haber ovulado ese mes.
+D) Medir el volumen del sangrado menstrual de cada participante.
+Correcta: A. Por qué: El pico de LH es el suceso que desencadena la ovulación, así que su ausencia en el registro es la evidencia directa de que esta no ocurrió. El peso corporal y el volumen del sangrado responden a otras preguntas, y una apreciación personal no constituye una medición de la ovulación.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

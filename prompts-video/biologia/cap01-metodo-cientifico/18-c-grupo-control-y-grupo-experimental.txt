@@ -1,0 +1,45 @@
+Capítulo 1: Método científico · Biología PAES — Ciencias
+Video 18: c. Grupo control y grupo experimental
+Sección: 4. Diseño experimental: variables y grupos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo cuaderno de laboratorio: papel cuadriculado crema, trazos de tinta azul y anotaciones a mano, pensado para el tema «Grupo control y grupo experimental». Paleta: azul tinta, amarillo resaltador y gris grafito. Recursos gráficos: matraces, lupas, flechas de un ciclo y tablas de datos dibujadas a mano. Cada escena debe mostrar visualmente grupo control, Grupo experimental, excepto, Variable independiente, Variable dependiente, Control negativo, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Grupo control y grupo experimental», dentro de la sección «4. Diseño experimental: variables y grupos» del Capítulo 1: Método científico. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: grupo control, Grupo experimental, excepto, Variable independiente, Variable dependiente, Control negativo.
+
+Ideas guía:
+- El grupo control es la referencia con la que se comparan los resultados.
+- Sin él, no se puede saber si el cambio observado se debe al tratamiento o a otra causa.
+- Grupo experimental: recibe el tratamiento (o un valor modificado de la variable independiente).
+- Grupo control: es idéntico al experimental en todo, excepto en la variable independiente.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Planificar y conducir una investigación): Una investigadora quiere probar si un extracto de hojas de boldo reduce el crecimiento de la bacteria Escherichia coli. Siembra la bacteria en placas con el mismo medio de cultivo y agrega 1 mL de extracto disuelto en agua destilada a las placas experimentales. ¿Qué debería agregar a las placas del grupo control?
+A) Nada, dejando la placa sin ningún líquido.
+B) Un mililitro de agua destilada sola.
+C) Dos mililitros del mismo extracto.
+D) Un mililitro de extracto de otra planta.
+Correcta: B. Por qué: Paso 1: el grupo experimental recibe extracto disuelto en 1 mL de agua. Paso 2: si el control no recibe nada, las placas también diferirían en el agua agregada. Paso 3: agregar 1 mL de agua destilada sola deja como única diferencia la presencia del extracto. Esa es la opción correcta.
+
+Pregunta 2 (Evaluar): Para evaluar un nuevo fármaco contra la migraña, un médico entrega el medicamento a 40 pacientes y les pregunta una semana después cómo se sienten. El 70 % dice haber mejorado, y el médico concluye que el fármaco es eficaz. ¿Qué modificación haría más confiable esta conclusión?
+A) Aumentar la dosis entregada a los mismos 40 pacientes.
+B) Preguntar a los pacientes al cabo de dos semanas en vez de una.
+C) Agregar un grupo similar que reciba un placebo sin saberlo.
+D) Informar a los pacientes de los beneficios esperados del fármaco.
+Correcta: C. Por qué: Paso 1: todos los pacientes recibieron el fármaco, así que no hay con qué comparar. Paso 2: muchas migrañas mejoran solas o por la expectativa de sanar (efecto placebo). Paso 3: un grupo parecido que reciba una pastilla sin principio activo, sin saberlo, permite ver si el fármaco supera ese efecto.
+
+Pregunta 3 (Procesar y analizar la evidencia): Se investigó si una bacteria del suelo favorece el crecimiento de lechugas. Al grupo 1 se le agregó la bacteria y al grupo 2 no; ambos tenían 30 plantas en igual tierra, riego y luz. A las cuatro semanas, la masa seca promedio fue 4,1 g en el grupo 1 y 2,6 g en el grupo 2. ¿Qué conclusión es válida?
+A) La bacteria aumenta el crecimiento de todas las especies vegetales cultivadas.
+B) Las lechugas no pueden crecer si no reciben la bacteria del suelo.
+C) La luz fue el factor que más influyó en el crecimiento del grupo 1.
+D) En estas condiciones, la bacteria se asocia a mayor masa de lechuga.
+Correcta: D. Por qué: Paso 1: el grupo 1 (experimental) tuvo 4,1 g y el grupo 2 (control) 2,6 g. Paso 2: como tierra, riego y luz fueron iguales, la diferencia se atribuye a la bacteria. Paso 3: la conclusión debe restringirse a lechugas en estas condiciones. Por eso la clave es D.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

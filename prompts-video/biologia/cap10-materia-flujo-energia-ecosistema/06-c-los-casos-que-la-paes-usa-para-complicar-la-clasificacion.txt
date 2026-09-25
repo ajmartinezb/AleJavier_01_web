@@ -1,0 +1,45 @@
+Capítulo 10: Materia y energía en el ecosistema · Biología PAES — Ciencias
+Video 06: c. Los casos que la PAES usa para complicar la clasificación
+Sección: 3. Nutrición autótrofa y heterótrofa
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía ecológica en capas, estilo diorama de papel recortado, pensado para el tema «Los casos que la PAES usa para complicar la clasificación». Paleta: amarillo sol, verdes hoja y cafés de suelo. Recursos gráficos: flechas de energía, pirámides tróficas, ciclos circulares y cadenas alimentarias. Cada escena debe mostrar visualmente heterótrofa, Plantas «carnívoras», autótrofas, Simbiosis con algas, heterótrofo, Hongos, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Los casos que la PAES usa para complicar la clasificación», dentro de la sección «3. Nutrición autótrofa y heterótrofa» del Capítulo 10: Materia y energía en el ecosistema. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: heterótrofa, Plantas «carnívoras», autótrofas, Simbiosis con algas, heterótrofo, Hongos.
+
+Ideas guía:
+- La prueba rara vez pregunta la definición en abstracto: suele presentar un organismo raro y pedir clasificarlo.
+- Existen plantas que perdieron la capacidad de fotosintetizar y toman la materia orgánica de otra planta.
+- Son plantas, pero su nutrición es heterótrofa.
+- Fotosintetizan normalmente: son autótrofas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una planta parásita carece de clorofila y obtiene toda su materia orgánica de otra planta a la que se une por estructuras especializadas. ¿Cómo se clasifica su nutrición?
+A) Heterótrofa, porque toma materia orgánica ya formada por otro organismo.
+B) Autótrofa, porque pertenece al reino de las plantas.
+C) Autótrofa, porque su hospedador realiza fotosíntesis.
+D) Quimioautótrofa, porque obtiene energía de compuestos del hospedador.
+Correcta: A. Por qué: Sin clorofila, esta planta no puede fijar CO₂, de modo que su carbono proviene íntegramente del hospedador. Eso la hace heterótrofa, aunque sea una planta y aunque el organismo del que se alimenta sí sea autótrofo. La quimioautotrofía exige fijar carbono inorgánico, lo que tampoco ocurre aquí.
+
+Pregunta 2 (Evaluar): Se afirma que «una planta carnívora es heterótrofa, porque se alimenta de insectos». ¿Cuál es la precisión necesaria?
+A) Es correcta: capturar presas equivale a una nutrición heterótrofa.
+B) Es incorrecta: fotosintetiza y fija su propio carbono en sus cloroplastos.
+C) Es incorrecta, porque las plantas carnívoras no capturan insectos en la naturaleza.
+D) Es incorrecta, porque los insectos capturados le aportan el carbono que necesita.
+Correcta: B. Por qué: Capturar presas es llamativo, pero no cambia la fuente del carbono estructural, que sigue siendo el CO₂ fijado en sus cloroplastos. Por eso la planta es autótrofa. Lo que obtiene de los insectos son elementos minerales que su suelo, en general pobre y ácido, no le aporta en cantidad suficiente.
+
+Pregunta 3 (Planificar y conducir una investigación): Se estudia una simbiosis entre un animal y un alga que vive dentro de sus células. Para determinar si el animal recibe carbono fijado por el alga, ¿qué procedimiento es más adecuado?
+A) Contar cuántas algas hay por célula del animal en distintas estaciones del año.
+B) Comparar el tamaño corporal del animal con el de otros de su misma especie.
+C) Medir la temperatura del agua en que vive la asociación durante varios meses.
+D) Dar al alga CO₂ marcado y buscar el isótopo en el animal.
+Correcta: D. Por qué: Marcar el CO₂ con un isótopo permite rastrear exactamente adónde va el carbono que el alga fijó. Si el isótopo aparece en los tejidos del animal, queda demostrada la transferencia. Contar algas, medir tamaños o registrar temperaturas entrega información de contexto, pero no sigue el recorrido del carbono.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

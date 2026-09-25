@@ -1,0 +1,44 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 12: a. Tres líneas, no una
+Sección: 5. Las barreras defensivas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Tres líneas, no una». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente inespecíficas, específica, Sí, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. Tres líneas, no una», dentro de la sección «5. Las barreras defensivas» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: inespecíficas, específica, Sí.
+
+Ideas guía:
+- El organismo no tiene una defensa, sino tres, dispuestas en profundidad.
+- Las dos primeras son inespecíficas: actúan igual contra cualquier invasor.
+- La tercera es específica: reconoce a cada agente en particular y lo recuerda.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una persona se corta con un vidrio sucio y, horas después, la zona está enrojecida e hinchada. ¿Qué líneas de defensa se ven involucradas en esa secuencia?
+A) La primera actuó correctamente y la segunda permaneció inactiva.
+B) La tercera se activó de inmediato y produjo el enrojecimiento.
+C) Ninguna línea se activó, porque la herida es de origen mecánico.
+D) La primera falló al romperse la piel y se activó la segunda.
+Correcta: D. Por qué: El corte rompe la barrera externa y permite el ingreso; la inflamación que sigue es la respuesta de la segunda línea. La tercera línea tarda días la primera vez y no produce el enrojecimiento inicial, y afirmar que ninguna se activó contradice los signos descritos en el enunciado.
+
+Pregunta 2 (Observar y plantear preguntas): Se observa que un paciente con quemaduras extensas desarrolla infecciones con mucha más frecuencia que otros pacientes hospitalizados. ¿Cuál es la pregunta que mejor orienta una investigación sobre ese hecho?
+A) ¿Cuántos días en total permaneció hospitalizado cada uno de esos pacientes quemados?
+B) ¿Cómo afecta la pérdida de la barrera cutánea a la frecuencia de infecciones?
+C) ¿Qué edad promedio tienen los pacientes que sufren quemaduras extensas y graves?
+D) ¿En qué unidad del hospital se atiende a los pacientes quemados?
+Correcta: B. Por qué: Una quemadura extensa destruye esa barrera en gran superficie, de modo que la pregunta relevante vincula la pérdida de piel con la frecuencia de infecciones. Los días de hospitalización, la edad promedio y la unidad de atención son datos que describen el contexto sin explicar el mecanismo.
+
+Pregunta 3 (Evaluar): Un texto afirma que la tercera línea de defensa es siempre la más eficaz y que las otras dos son prescindibles. ¿Cuál es la mejor evaluación de esa afirmación?
+A) No lo es: sin las dos primeras, el agente se multiplicaría antes de que la tercera actúe.
+B) Es correcta, porque la tercera línea actúa más rápido que las anteriores.
+C) Es correcta, porque la tercera línea reemplaza a las dos primeras.
+D) Es incorrecta, porque la tercera línea de defensa no cumple ninguna función realmente relevante.
+Correcta: A. Por qué: Ese retraso es exactamente lo que vuelve indispensables a las anteriores: contienen al agente mientras la respuesta específica se organiza. La segunda alternativa invierte los tiempos, la tercera supone un reemplazo que no existe y la última descarta sin fundamento una línea de defensa central.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

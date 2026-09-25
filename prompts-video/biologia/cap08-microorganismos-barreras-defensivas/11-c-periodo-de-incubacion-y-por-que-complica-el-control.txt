@@ -1,0 +1,45 @@
+Capítulo 8: Microorganismos y barreras defensivas · Biología PAES — Ciencias
+Video 11: c. Período de incubación y por qué complica el control
+Sección: 4. Transmisión y prevención
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo ilustración tipo cómic científico donde el cuerpo es una fortaleza que se defiende, pensado para el tema «Período de incubación y por qué complica el control». Paleta: verdes y violetas para los microbios, dorado y azul para las defensas. Recursos gráficos: bacterias, virus, murallas, escudos y centinelas. Cada escena debe mostrar visualmente período de incubación, Un caso para razonar, más difícil de controlar, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «c. Período de incubación y por qué complica el control», dentro de la sección «4. Transmisión y prevención» del Capítulo 8: Microorganismos y barreras defensivas. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: período de incubación, Un caso para razonar, más difícil de controlar.
+
+Ideas guía:
+- El período de incubación es el tiempo entre la infección y la aparición de los síntomas.
+- Durante buena parte de él la persona puede transmitir el agente sin saber que está infectada.
+- Por eso las medidas basadas solo en aislar a quienes tienen síntomas son insuficientes: llegan tarde.
+- Dos enfermedades tienen la misma vía de transmisión y la misma probabilidad de contagio por contacto, pero una tiene un período de incubación de un día y la otra de dos semanas.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una región circulan dos agentes que se contagian del mismo modo y con la misma facilidad en cada encuentro. Con el agente X los primeros signos aparecen al día siguiente del contagio; con el agente Y tardan alrededor de quince días en manifestarse. ¿Cuál de los dos resulta más difícil de contener?
+A) El agente X, porque los signos aparecen antes de poder aislar al enfermo.
+B) Ninguno de los dos: el tiempo hasta los primeros signos no influye en el control.
+C) El agente Y, porque se transmite más tiempo sin signos visibles.
+D) El agente Y, porque se vuelve más virulento a medida que pasan los días.
+Correcta: C. Por qué: Una incubación larga significa más días de circulación y contacto antes de que alguien sospeche la infección, de modo que el control es más difícil. La virulencia no cambia por la duración del período, y negar toda influencia del período de incubación contradice la lógica de la transmisión asintomática.
+
+Pregunta 2 (Evaluar): Un estudiante concluye que una persona sin síntomas no puede transmitir una infección. ¿Cuál es la mejor evaluación de esa conclusión?
+A) Es correcta, porque la transmisión requiere tos, fiebre o lesiones visibles.
+B) No lo es: durante la incubación puede haber transmisión sin síntomas.
+C) Es correcta, porque el agente no se multiplica antes de aparecer los síntomas.
+D) Es incorrecta, porque los síntomas nunca guardan relación con la transmisión.
+Correcta: B. Por qué: El agente sí se multiplica durante ese período: por eso llega a producir síntomas más adelante. La última alternativa corrige en exceso, porque los síntomas como la tos sí aumentan la transmisión en muchas enfermedades, aunque no sean condición necesaria para que ocurra.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere estimar el período de incubación de una enfermedad nueva. ¿Qué dato hay que registrar en cada caso?
+A) La fecha de la exposición probable y la fecha de aparición de los síntomas.
+B) La fecha del diagnóstico y la fecha del alta médica del paciente.
+C) La edad del paciente y el número de contactos que tuvo durante la última semana.
+D) La gravedad de los síntomas y el tratamiento que finalmente se le administró al paciente.
+Correcta: A. Por qué: Calcularlo exige conocer esos dos momentos, y por eso se registran la exposición probable y el inicio de los síntomas. El diagnóstico y el alta describen el recorrido asistencial, la edad y los contactos sirven para otros análisis, y la gravedad y el tratamiento no intervienen en el cálculo.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

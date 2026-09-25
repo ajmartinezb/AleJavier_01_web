@@ -1,0 +1,43 @@
+Capítulo 3: Química de la vida · Biología PAES — Ciencias
+Video 22: a. El monómero: el nucleótido
+Sección: 7. Ácidos nucleicos
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo infografía molecular limpia con modelos de bolas y varillas en 3D suave, pensado para el tema «El monómero: el nucleótido». Paleta: rojo oxígeno, blanco hidrógeno, negro carbono y azul nitrógeno sobre fondo gris claro. Recursos gráficos: moléculas, gotas de agua y cadenas que se ensamblan como piezas. Cada escena debe mostrar visualmente nucleótido, azúcar de cinco carbonos, grupo fosfato, base nitrogenada, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «a. El monómero: el nucleótido», dentro de la sección «7. Ácidos nucleicos» del Capítulo 3: Química de la vida. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: nucleótido, azúcar de cinco carbonos, grupo fosfato, base nitrogenada.
+
+Ideas guía:
+- Un nucleótido tiene tres partes: un azúcar de cinco carbonos, un grupo fosfato y una base nitrogenada.
+- Los nucleótidos se unen en cadena a través del azúcar y el fosfato, que forman el esqueleto, mientras las bases quedan hacia el interior.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): ¿Qué tres componentes forman un nucleótido?
+A) Un aminoácido, un grupo fosfato y una base nitrogenada.
+B) Un glicerol, un ácido graso y una base nitrogenada.
+C) Un azúcar de cinco carbonos, un grupo fosfato y una base nitrogenada.
+D) Un monosacárido, un aminoácido y un grupo fosfato.
+Correcta: C. Por qué: El azúcar es desoxirribosa en el ADN y ribosa en el ARN. Las otras alternativas mezclan componentes de familias distintas: el aminoácido pertenece a las proteínas y el glicerol con ácidos grasos, a los lípidos. Reconocer los tres componentes correctos permite identificar de inmediato a qué familia pertenece una molécula descrita en un enunciado.
+
+Pregunta 2 (Observar y plantear preguntas): Se observa que en una cadena de ADN los azúcares y los fosfatos forman el esqueleto exterior, mientras las bases quedan hacia el interior. ¿Cuál es la pregunta que mejor orienta una investigación sobre esa disposición?
+A) ¿Cuántos nucleótidos contiene en total la molécula observada?
+B) ¿Qué ventaja funcional tiene que las bases queden enfrentadas en el interior?
+C) ¿Qué color adquiere la molécula con la tinción utilizada?
+D) ¿En qué laboratorio se obtuvo la muestra de ADN observada?
+Correcta: B. Por qué: La pregunta correcta interroga justamente esa ventaja: el apareamiento entre bases complementarias es lo que permite copiar la molécula. Contar nucleótidos, describir un color de tinción o identificar el laboratorio de origen son datos que no explican por qué la disposición es esa y no otra.
+
+Pregunta 3 (Planificar y conducir una investigación): Se quiere comprobar que los nucleótidos de una cadena están unidos entre sí a través del azúcar y el fosfato. ¿Qué evidencia lo respalda mejor?
+A) Que la cadena se disuelve por completo en agua destilada fría.
+B) Que la cadena contiene cuatro bases nitrogenadas distintas.
+C) Que la cadena puede observarse al microscopio electrónico.
+D) Que al romper la cadena aparecen fragmentos que conservan azúcar y fosfato unidos.
+Correcta: D. Por qué: Si al fragmentar la cadena aparecen trozos donde azúcar y fosfato siguen unidos, queda demostrado que esa es la vía de unión. La solubilidad, el número de bases distintas y la posibilidad de observarla al microscopio son hechos ciertos que no informan sobre cómo se enlazan las unidades entre sí.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

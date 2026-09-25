@@ -1,0 +1,45 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 06: d. Cromosomas homólogos, cariotipo y ploidía
+Sección: 2. Cromatina y cromosomas
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Cromosomas homólogos, cariotipo y ploidía». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente células somáticas, 46 cromosomas, 23 pares de homólogos, 22 pares de autosomas, los mismos genes, versiones distintas, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «d. Cromosomas homólogos, cariotipo y ploidía», dentro de la sección «2. Cromatina y cromosomas» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: células somáticas, 46 cromosomas, 23 pares de homólogos, 22 pares de autosomas, los mismos genes, versiones distintas.
+
+Ideas guía:
+- Las células del cuerpo humano (células somáticas) tienen 46 cromosomas, organizados en 23 pares de homólogos.
+- De cada par, un cromosoma viene de la madre y el otro del padre: 22 pares de autosomas, iguales en hombres y mujeres; 1 par de cromosomas sexuales: XX en la mujer y XY en el hombre.
+- Los homólogos llevan los mismos genes en las mismas posiciones, pero pueden tener versiones distintas (alelos).
+- Por ejemplo, uno puede llevar el alelo para ojos cafés y el otro, el alelo para ojos azules.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): En una planta se contaron los cromosomas de tres tipos de células: células de la hoja, 24; granos de polen, 12; tejido de reserva de la semilla (endosperma), 36. ¿Qué conclusión es correcta según estos datos?
+A) El polen tiene dos juegos de cromosomas, por lo que es diploide.
+B) El endosperma tiene tres juegos de cromosomas: es triploide.
+C) La hoja tiene un juego de cromosomas, por lo que es haploide.
+D) Los tres tejidos tienen la misma ploidía, pero distinto tamaño.
+Correcta: B. Por qué: Paso 1: hallar n. El polen, formado por meiosis, tiene 12 cromosomas: n = 12. Paso 2: la hoja tiene 24 = 2 × 12, es diploide (2n). Paso 3: el endosperma tiene 36 = 3 × 12, es decir, tres juegos: triploide (3n). La ploidía se obtiene dividiendo por n, no mirando el número absoluto.
+
+Pregunta 2 (Evaluar): Al armar un cariotipo, un estudiante agrupó en pares los cromosomas que tenían igual tamaño y la misma posición del centrómero, y afirmó que cada par estaba formado por homólogos. ¿Cuál es una limitación de este criterio?
+A) El cariotipo se arma con cromosomas en interfase, cuando no se ve su forma.
+B) Los homólogos siempre portan los mismos alelos, por lo que no se diferencian.
+C) Igual tamaño y forma no aseguran portar los mismos genes en el mismo orden.
+D) Los cromosomas sexuales X e Y tienen igual tamaño y forma en los hombres.
+Correcta: C. Por qué: Lo que define a los homólogos es su contenido: los mismos genes en el mismo orden. Tamaño y posición del centrómero son rasgos visibles que suelen coincidir en los homólogos, pero dos cromosomas distintos pueden parecerse en ambos. Por eso los laboratorios agregan patrones de bandas o marcadores de genes. El criterio sirve como aproximación, pero no demuestra la homología por sí solo.
+
+Pregunta 3 (Planificar y conducir una investigación): Un laboratorio obtiene el cariotipo de 200 embriones que no continuaron su desarrollo y, en cada uno, cuenta los cromosomas y revisa si faltan o sobran algunos. ¿Cuál es el objetivo más coherente con este procedimiento?
+A) Determinar la frecuencia de alteraciones del número de cromosomas en los embriones.
+B) Identificar qué alelo de cada gen heredaron los embriones de cada uno de sus padres.
+C) Medir el grado de compactación de la cromatina en interfase en cada embrión.
+D) Cuantificar cuántos genes se transcriben en cada célula de los embriones.
+Correcta: A. Por qué: El procedimiento consiste en contar cromosomas y revisar si faltan o sobran en muchos embriones. Eso permite calcular qué proporción presenta alteraciones numéricas. El cariotipo no muestra alelos (se ven cromosomas, no secuencias), no mide la cromatina en interfase porque usa cromosomas en metafase y no informa qué genes se transcriben.
+
+Narración en español de Chile neutro, tono cercano y riguroso.

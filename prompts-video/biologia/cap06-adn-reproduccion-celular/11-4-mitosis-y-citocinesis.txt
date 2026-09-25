@@ -1,0 +1,43 @@
+Capítulo 6: Ciclo celular, mitosis y meiosis · Biología PAES — Ciencias
+Video 11: 4. Mitosis y citocinesis
+
+En Gemini Notebook → Resumen de video → Personalizar:
+Elige un estilo visual: Personalizado
+
+=== DESCRIBE UN ESTILO VISUAL PERSONALIZADO ===
+Estilo animación de microscopio de fluorescencia sobre fondo oscuro, pensado para el tema «Mitosis y citocinesis». Paleta: cromosomas en magenta y cian, huso en verde neón sobre azul noche. Recursos gráficos: cromosomas que se duplican, se alinean y se separan, y un reloj circular del ciclo. Cada escena debe mostrar visualmente dos núcleos idénticos, ve, con íconos y diagramas simples y rotulados en español. Los términos clave aparecen como etiquetas destacadas la primera vez que se nombran. Las preguntas tipo PAES se muestran como tarjetas con alternativas A, B, C y D, y la correcta se ilumina al revelarla. Tipografía sans serif grande y legible, fondos despejados, sin fotografías reales ni imágenes de libros.
+
+=== TEMA PERSONALIZADO ===
+Video para estudiantes chilenos que preparan la PAES de Ciencias, eje Biología (temario DEMRE 2027). Tema único: «4. Mitosis y citocinesis» del Capítulo 6: Ciclo celular, mitosis y meiosis. Céntrate solo en este título y usa solo la información de las fuentes.
+
+Conceptos que deben quedar claros: dos núcleos idénticos, ve.
+
+Ideas guía:
+- La mitosis reparte el ADN replicado en dos núcleos idénticos, cada uno con el mismo número de cromosomas que la célula original.
+- Es un proceso continuo, pero para estudiarlo se divide en cuatro etapas, que se reconocen por lo que se ve al microscopio.
+- Etapas de la mitosis en una célula animal con 2n = 4.
+
+Estructura: 1) gancho con una situación cotidiana; 2) idea central en una o dos frases; 3) desarrollo paso a paso con un ejemplo por idea; 4) error típico en la PAES y cómo evitarlo; 5) resolver la Pregunta 1 en pantalla: pausa para pensar, revelar la correcta y explicar por qué fallan los distractores; 6) cierre con tres ideas clave y dejar las Preguntas 2 y 3 como desafío, sin dar su respuesta.
+
+Pregunta 1 (Procesar y analizar la evidencia): Una investigadora cultiva células de riñón de mono y las trata con citocalasina B, sustancia que impide el ensamblaje de filamentos de actina. Tras 24 horas observa que la mayoría de las células tratadas tiene dos núcleos de tamaño normal, mientras que las células control tienen un solo núcleo. ¿Qué explicación es coherente con estos resultados?
+A) La mitosis se completó, pero la citocinesis quedó bloqueada.
+B) La replicación del ADN se repitió dos veces seguidas en interfase.
+C) El huso mitótico no se formó y los cromosomas no se separaron.
+D) La envoltura nuclear se fragmentó sin que hubiera una división.
+Correcta: A. Por qué: Las células tratadas forman dos núcleos normales, así que la separación de cromosomas y la formación de envolturas nucleares ocurrieron: la mitosis funcionó. Lo que falló fue la división del citoplasma, que en células animales requiere actina. Sin anillo contráctil no hay surco de segmentación y ambos núcleos quedan en una misma célula. Por eso la clave es A.
+
+Pregunta 2 (Planificar y conducir una investigación): Un estudiante quiere averiguar si la temperatura afecta la rapidez con que se dividen las células de la raíz de cebolla. Para ello pone a germinar bulbos a 15, 20 y 25 °C y, al cuarto día, prepara aplastados de los ápices y cuenta, en 500 células por bulbo, cuántas están en alguna etapa de la mitosis. ¿Cuál es la variable dependiente de este diseño?
+A) La temperatura de germinación de los bulbos.
+B) El porcentaje de células que están en mitosis.
+C) El número total de células contadas por bulbo.
+D) El tiempo transcurrido hasta hacer el aplastado.
+Correcta: B. Por qué: El estudiante fija tres temperaturas: esa es la variable independiente. El número de células contadas (500) y el día del aplastado (cuarto día) se mantienen iguales en todos los bulbos, por lo que son variables controladas. Lo que se registra al final es cuántas de esas 500 células están en mitosis, es decir, el porcentaje de células en división: esa es la variable dependiente, clave B.
+
+Pregunta 3 (Evaluar): Un grupo de estudiantes observa al microscopio un aplastado de raíz de ajo y cuenta 200 células: 180 en interfase, 10 en profase, 4 en metafase, 3 en anafase y 3 en telofase. A partir de este único recuento concluyen que «la profase es la etapa más larga de la mitosis en todas las plantas». ¿Cuál es la principal limitación de esta conclusión?
+A) Omite las células en interfase, que fueron la mayoría del recuento.
+B) Supone que la anafase y la telofase duran exactamente lo mismo.
+C) Generaliza a todas las plantas un dato obtenido de una sola muestra.
+D) Considera más células en profase que en todas las demás etapas.
+Correcta: C. Por qué: Que haya más células en profase (10) sí sugiere que en esa raíz la profase dura más que las otras etapas. El problema está en el alcance: el recuento proviene de un solo aplastado de una sola especie, y la conclusión se extiende a todas las plantas. Para afirmarlo habría que repetir el conteo en varias muestras y en otras especies. La limitación principal es la generalización, clave C.
+
+Narración en español de Chile neutro, tono cercano y riguroso.
