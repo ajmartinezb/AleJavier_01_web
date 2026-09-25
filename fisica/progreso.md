@@ -2,7 +2,7 @@
 
 | Cap. | Tema | Temario 2027 | Estado | Secciones listas | Ítems IA | Última sesión |
 |---|---|---|---|---|---|---|
-| 1 | Ondas: características y clasificación | Área 1 (Ondas) | Preguntas completas | Teoría 1–7, 8 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | ITEMS | 25-09-2026 |
+| 1 | Ondas: características y clasificación | Área 1 (Ondas) | Preguntas completas | Teoría 1–7, 8 diagramas, 4 ejemplos PAES, evaluación (20), fuentes | 95 | 25-09-2026 |
 | 2 | El sonido | Apoyo (fuera del temario 2027) | Pendiente | — | — | — |
 | 3 | La luz y la óptica geométrica | Área 1 (Ondas) | Pendiente | — | — | — |
 | 4 | Sismos y dinámica de la Tierra | Área 3 (Energía–Tierra) | Pendiente | — | — | — |
