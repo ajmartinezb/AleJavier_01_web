@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 510" width="900" height="510" role="img" aria-label="Tres rayos desde una fuente bajo el agua: a 25 grados sale al aire, en el ángulo límite sale rasante y a 65 grados se refleja completo; debajo, una fibra óptica" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Tres rayos desde una fuente bajo el agua: a 25 grados sale al aire, en el ángulo límite sale rasante y a 65 grados se refleja completo; debajo, una fibra óptica</title>
+<rect width="900" height="510" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Reflexión total interna</text>
+<rect x="30" y="190" width="840" height="190" fill="#d0ebff"/>
+<text x="40.0" y="180.0" font-size="12" text-anchor="start" fill="#4a5568" font-weight="normal">aire (n = 1,00)</text>
+<text x="40.0" y="370.0" font-size="12" text-anchor="start" fill="#4a5568" font-weight="normal">agua (n = 1,33)</text>
+<circle cx="330" cy="350" r="7" fill="#f59f00" stroke="#e67700"/>
+<line x1="255.4" y1="120.0" x2="255.4" y2="260.0" stroke="#4a5568" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="330.0" y1="350.0" x2="255.4" y2="190.0" stroke="#c92a2a" stroke-width="2.2" /><line x1="330.0" y1="350.0" x2="292.7" y2="270.0" stroke="#c92a2a" stroke-width="2.2" marker-end="url(#mr)" />
+<line x1="255.4" y1="190.0" x2="199.2" y2="107.3" stroke="#c92a2a" stroke-width="2.2" /><line x1="255.4" y1="190.0" x2="227.3" y2="148.6" stroke="#c92a2a" stroke-width="2.2" marker-end="url(#mr)" />
+<text x="195.4" y="80.0" font-size="12" text-anchor="middle" fill="#c92a2a" font-weight="700">25°: sale al aire</text>
+<line x1="512.5" y1="120.0" x2="512.5" y2="260.0" stroke="#4a5568" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="330.0" y1="350.0" x2="512.5" y2="190.0" stroke="#e67700" stroke-width="2.2" /><line x1="330.0" y1="350.0" x2="421.2" y2="270.0" stroke="#e67700" stroke-width="2.2" marker-end="url(#mn)" />
+<line x1="512.5" y1="190.0" x2="652.5" y2="189.0" stroke="#e67700" stroke-width="2.2" /><line x1="512.5" y1="190.0" x2="582.5" y2="189.5" stroke="#e67700" stroke-width="2.2" marker-end="url(#mn)" />
+<text x="522.5" y="176.0" font-size="12" text-anchor="start" fill="#e67700" font-weight="700">≈ 49° (ángulo límite): sale rasante</text>
+<line x1="673.1" y1="150.0" x2="673.1" y2="260.0" stroke="#4a5568" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="330.0" y1="350.0" x2="673.1" y2="190.0" stroke="#7048e8" stroke-width="2.2" /><line x1="330.0" y1="350.0" x2="501.6" y2="270.0" stroke="#7048e8" stroke-width="2.2" marker-end="url(#ma)" />
+<line x1="673.1" y1="190.0" x2="861.8" y2="278.0" stroke="#7048e8" stroke-width="2.2" /><line x1="673.1" y1="190.0" x2="767.5" y2="234.0" stroke="#7048e8" stroke-width="2.2" marker-end="url(#ma)" />
+<text x="703.1" y="310.0" font-size="12" text-anchor="start" fill="#7048e8" font-weight="700">65°: se refleja completa</text>
+<text x="450.0" y="420.0" font-size="13" text-anchor="middle" fill="#1c7ed6" font-weight="700">Fibra óptica: la luz rebota en las paredes por reflexión total y no escapa</text>
+<rect x="120" y="440" width="660" height="56" rx="28" fill="#e6fcf5" stroke="#2f9e44" stroke-width="2"/>
+<polyline points="130,452 185,484 240,452 295,484 350,452 405,484 460,452 515,484 570,452 625,484 680,452 735,484" fill="none" stroke="#c92a2a" stroke-width="2"/>
+</svg>

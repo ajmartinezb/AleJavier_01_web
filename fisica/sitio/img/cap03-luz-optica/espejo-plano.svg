@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" role="img" aria-label="Vela frente a un espejo plano con su imagen virtual detrás del espejo a la misma distancia y rayos que llegan al ojo" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Vela frente a un espejo plano con su imagen virtual detrás del espejo a la misma distancia y rayos que llegan al ojo</title>
+<rect width="900" height="440" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Imagen en un espejo plano</text>
+<rect x="450" y="70" width="10" height="330" fill="#a5d8ff" stroke="#1c7ed6"/>
+<line x1="460.0" y1="80.0" x2="472.0" y2="70.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="96.0" x2="472.0" y2="86.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="112.0" x2="472.0" y2="102.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="128.0" x2="472.0" y2="118.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="144.0" x2="472.0" y2="134.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="160.0" x2="472.0" y2="150.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="176.0" x2="472.0" y2="166.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="192.0" x2="472.0" y2="182.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="208.0" x2="472.0" y2="198.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="224.0" x2="472.0" y2="214.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="240.0" x2="472.0" y2="230.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="256.0" x2="472.0" y2="246.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="272.0" x2="472.0" y2="262.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="288.0" x2="472.0" y2="278.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="304.0" x2="472.0" y2="294.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="320.0" x2="472.0" y2="310.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="336.0" x2="472.0" y2="326.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="352.0" x2="472.0" y2="342.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="368.0" x2="472.0" y2="358.0" stroke="#adb5bd" stroke-width="1" />
+<line x1="460.0" y1="384.0" x2="472.0" y2="374.0" stroke="#adb5bd" stroke-width="1" />
+<rect x="268" y="230" width="24" height="130" fill="#fff3bf" stroke="#e67700"/>
+<path d="M280,210 q-12,14 0,22 q12,-8 0,-22 z" fill="#e67700"/>
+<rect x="618" y="230" width="24" height="130" fill="#fff3bf" stroke="#e67700" opacity="0.45" stroke-dasharray="5 4"/>
+<path d="M630,210 q-12,14 0,22 q12,-8 0,-22 z" fill="#e67700" opacity="0.45"/>
+<text x="280.0" y="382.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">objeto</text>
+<text x="630.0" y="382.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="700">imagen virtual</text>
+<ellipse cx="110" cy="130" rx="18" ry="11" fill="#fff" stroke="#1a202c" stroke-width="2"/>
+<circle cx="115" cy="130" r="5" fill="#1a202c"/>
+<text x="110.0" y="160.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="normal">ojo</text>
+<line x1="280.0" y1="210.0" x2="450.0" y2="178.4" stroke="#c92a2a" stroke-width="2.2" /><line x1="280.0" y1="210.0" x2="365.0" y2="194.2" stroke="#c92a2a" stroke-width="2.2" marker-end="url(#mr)" />
+<line x1="450.0" y1="178.4" x2="128.0" y2="122.0" stroke="#c92a2a" stroke-width="2.2" /><line x1="450.0" y1="178.4" x2="289.0" y2="150.2" stroke="#c92a2a" stroke-width="2.2" marker-end="url(#mr)" />
+<line x1="450.0" y1="178.4" x2="630.0" y2="210.0" stroke="#4a5568" stroke-width="1.3" stroke-dasharray="5 4"/>
+<line x1="280.0" y1="210.0" x2="450.0" y2="184.2" stroke="#c92a2a" stroke-width="2.2" /><line x1="280.0" y1="210.0" x2="365.0" y2="197.1" stroke="#c92a2a" stroke-width="2.2" marker-end="url(#mr)" />
+<line x1="450.0" y1="184.2" x2="128.0" y2="138.0" stroke="#c92a2a" stroke-width="2.2" /><line x1="450.0" y1="184.2" x2="289.0" y2="161.1" stroke="#c92a2a" stroke-width="2.2" marker-end="url(#mr)" />
+<line x1="450.0" y1="184.2" x2="630.0" y2="210.0" stroke="#4a5568" stroke-width="1.3" stroke-dasharray="5 4"/>
+<line x1="280.0" y1="400.0" x2="450.0" y2="400.0" stroke="#2f9e44" stroke-width="1.5" marker-start="url(#mv)" marker-end="url(#mv)"/>
+<line x1="460.0" y1="400.0" x2="630.0" y2="400.0" stroke="#2f9e44" stroke-width="1.5" marker-start="url(#mv)" marker-end="url(#mv)"/>
+<text x="365.0" y="418.0" font-size="13" text-anchor="middle" fill="#2f9e44" font-weight="700" font-style="italic">d</text>
+<text x="540.0" y="418.0" font-size="13" text-anchor="middle" fill="#2f9e44" font-weight="700" font-style="italic">d</text>
+<text x="455.0" y="60.0" font-size="12" text-anchor="middle" fill="#1c7ed6" font-weight="700">espejo</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 360" width="940" height="360" role="img" aria-label="Fuente puntual con sombra nítida y eclipse de Sol con sombra y penumbra de la Luna sobre la Tierra" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Fuente puntual con sombra nítida y eclipse de Sol con sombra y penumbra de la Luna sobre la Tierra</title>
+<rect width="940" height="360" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="470.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Sombra y penumbra</text>
+<text x="200.0" y="58.0" font-size="14" text-anchor="middle" fill="#1c7ed6" font-weight="700">Fuente puntual: sombra nítida</text>
+<circle cx="60" cy="200" r="7" fill="#f59f00" stroke="#e67700"/>
+<circle cx="170" cy="200" r="30" fill="#4a5568"/>
+<line x1="340.0" y1="80.0" x2="340.0" y2="320.0" stroke="#1a202c" stroke-width="3" />
+<line x1="60.0" y1="200.0" x2="340.0" y2="123.6" stroke="#f59f00" stroke-width="1.5" />
+<line x1="60.0" y1="200.0" x2="340.0" y2="276.4" stroke="#f59f00" stroke-width="1.5" />
+<rect x="332" y="123.6" width="8" height="152.7" fill="#1a202c"/>
+<text x="350.0" y="204.0" font-size="12" text-anchor="start" fill="#1a202c" font-weight="700">sombra</text>
+<text x="680.0" y="58.0" font-size="14" text-anchor="middle" fill="#1c7ed6" font-weight="700">Fuente extensa: eclipse de Sol</text>
+<circle cx="530" cy="200" r="60" fill="#ffd43b" stroke="#e67700"/>
+<text x="530.0" y="205.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">Sol</text>
+<line x1="530.0" y1="140.0" x2="885.0" y2="214.4" stroke="#adb5bd" stroke-width="1.2" />
+<line x1="530.0" y1="140.0" x2="885.0" y2="268.5" stroke="#adb5bd" stroke-width="1.2" stroke-dasharray="5 4"/>
+<line x1="530.0" y1="260.0" x2="885.0" y2="185.6" stroke="#adb5bd" stroke-width="1.2" />
+<line x1="530.0" y1="260.0" x2="885.0" y2="131.5" stroke="#adb5bd" stroke-width="1.2" stroke-dasharray="5 4"/>
+<circle cx="885" cy="200" r="50" fill="#a5d8ff" stroke="#1c7ed6"/>
+<path d="M740,184 L838,196.0952380952381 L838,203.9047619047619 L740,216 z" fill="#1a202c" opacity="0.8"/>
+<circle cx="740" cy="200" r="16" fill="#4a5568"/>
+<text x="740.0" y="176.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">Luna</text>
+<text x="895.0" y="270.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">Tierra</text>
+<text x="825.0" y="141.6" font-size="11.5" text-anchor="end" fill="#4a5568" font-weight="normal">penumbra: eclipse parcial</text>
+<text x="825.0" y="242.0" font-size="11.5" text-anchor="end" fill="#1a202c" font-weight="700">sombra: eclipse total</text>
+<text x="470.0" y="345.0" font-size="11" text-anchor="middle" fill="#4a5568" font-weight="normal">Distancias y tamaños sin escala</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-label="Mezcla aditiva de luces roja, verde y azul que da blanco al centro, y mezcla sustractiva de cian, magenta y amarillo que da negro al centro" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Mezcla aditiva de luces roja, verde y azul que da blanco al centro, y mezcla sustractiva de cian, magenta y amarillo que da negro al centro</title>
+<rect width="900" height="400" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Mezcla aditiva y mezcla sustractiva</text>
+<rect x="40" y="50" width="390" height="330" rx="12" fill="#000000"/>
+<text x="235.0" y="74.0" font-size="14" text-anchor="middle" fill="#ffffff" font-weight="700">Luces: rojo, verde y azul</text>
+<circle cx="190" cy="195" r="85" fill="#ff0000" style="mix-blend-mode:screen"/>
+<circle cx="280" cy="195" r="85" fill="#00ff00" style="mix-blend-mode:screen"/>
+<circle cx="235" cy="273" r="85" fill="#0000ff" style="mix-blend-mode:screen"/>
+<text x="235.0" y="372.0" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="700">centro: blanco</text>
+<rect x="470" y="50" width="390" height="330" rx="12" fill="#ffffff" stroke="#dee2e6"/>
+<text x="665.0" y="74.0" font-size="14" text-anchor="middle" fill="#1a202c" font-weight="700">Pigmentos: cian, magenta y amarillo</text>
+<circle cx="620" cy="195" r="85" fill="#00ffff" style="mix-blend-mode:multiply"/>
+<circle cx="710" cy="195" r="85" fill="#ff00ff" style="mix-blend-mode:multiply"/>
+<circle cx="665" cy="273" r="85" fill="#ffff00" style="mix-blend-mode:multiply"/>
+<text x="665.0" y="372.0" font-size="12" text-anchor="middle" fill="#1a202c" font-weight="700">centro: negro</text>
+</svg>

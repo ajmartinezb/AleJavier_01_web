@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" width="900" height="450" role="img" aria-label="Lente convergente con objeto más allá de 2F: los rayos se cruzan entre F y 2F del otro lado formando una imagen real, invertida y menor" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Lente convergente con objeto más allá de 2F: los rayos se cruzan entre F y 2F del otro lado formando una imagen real, invertida y menor</title>
+<rect width="900" height="450" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Lente convergente: objeto más allá de 2F</text>
+<path d="M450,100 Q484,250 450,400 Q416,250 450,100 z" fill="#d0ebff" stroke="#1c7ed6" stroke-width="2"/>
+<line x1="60.0" y1="250.0" x2="840.0" y2="250.0" stroke="#4a5568" stroke-width="1.2" />
+<circle cx="230" cy="250" r="4" fill="#1a202c"/>
+<text x="230.0" y="270.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">2F</text>
+<circle cx="340" cy="250" r="4" fill="#1a202c"/>
+<text x="340.0" y="270.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">F</text>
+<circle cx="560" cy="250" r="4" fill="#1a202c"/>
+<text x="560.0" y="270.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">F</text>
+<circle cx="670" cy="250" r="4" fill="#1a202c"/>
+<text x="670.0" y="270.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">2F</text>
+<line x1="150.0" y1="250.0" x2="150.0" y2="170.0" stroke="#2f9e44" stroke-width="4" marker-end="url(#mv)" opacity="1.0" />
+<line x1="623.7" y1="250.0" x2="623.7" y2="296.3" stroke="#e67700" stroke-width="4" marker-end="url(#mn)"/>
+<line x1="150.0" y1="170.0" x2="450.0" y2="170.0" stroke="#c92a2a" stroke-width="2.2" /><line x1="150.0" y1="170.0" x2="300.0" y2="170.0" stroke="#c92a2a" stroke-width="2.2" marker-end="url(#mr)" />
+<line x1="450.0" y1="170.0" x2="693.7" y2="347.2" stroke="#c92a2a" stroke-width="2.2" /><line x1="450.0" y1="170.0" x2="571.8" y2="258.6" stroke="#c92a2a" stroke-width="2.2" marker-end="url(#mr)" />
+<line x1="150.0" y1="170.0" x2="693.7" y2="315.0" stroke="#1c7ed6" stroke-width="2.2" /><line x1="150.0" y1="170.0" x2="421.8" y2="242.5" stroke="#1c7ed6" stroke-width="2.2" marker-end="url(#ma)" />
+<text x="150.0" y="292.0" font-size="12" text-anchor="middle" fill="#2f9e44" font-weight="700">objeto</text>
+<text x="663.7" y="370.0" font-size="12" text-anchor="middle" fill="#e67700" font-weight="700">imagen: real, invertida, menor</text>
+<text x="450.0" y="430.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">Rojo: llega paralelo y sale por F. Azul: pasa por el centro sin desviarse.</text>
+</svg>

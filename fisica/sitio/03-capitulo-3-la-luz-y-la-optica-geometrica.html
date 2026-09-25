@@ -1,0 +1,1523 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Capítulo 3: La luz y la óptica geométrica — Física PAES — Ciencias</title>
+<meta name="generator" content="Conversor PDF a HTML">
+<style>
+:root{--bg:#f7f6f2;--paper:#fff;--ink:#23262a;--ink-soft:#5a5f66;--line:#e3e1da;
+--accent:#1c7ed6;--accent-dark:#0f4576;--ok:#1e7a46;--ok-bg:#e5f5eb;--bad:#b3261e;--bad-bg:#fdeceb;
+--tip-bg:#fff6d6;--tip-bd:#e8cf67;--nota-bg:#eaf2fb;--nota-bd:#b6cfe9;--ej-bg:#eaf6ee;--ej-bd:#a9d8b8;--sidebar-w:290px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}}
+:root[data-theme=dark]{--bg:#16181b;--paper:#1f2226;--ink:#e7e8ea;--ink-soft:#a7acb3;--line:#33373d;
+--ok-bg:#16301f;--bad-bg:#3a1a18;--tip-bg:#3a3216;--tip-bd:#7a6a2a;--nota-bg:#18283a;--nota-bd:#2f4a6a;--ej-bg:#17301f;--ej-bd:#2f5e3e}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{scroll-padding-top:96px}
+body{margin:0;font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.65}
+header.top{position:sticky;top:0;z-index:50;background:linear-gradient(120deg,var(--accent-dark),var(--accent));color:#fff;padding:14px 22px;box-shadow:0 2px 10px rgba(0,0,0,.18)}
+header.top .fila{display:flex;align-items:center;gap:14px;flex-wrap:wrap;max-width:1400px;margin:0 auto}
+header.top h1{margin:0;font-size:1.25rem;line-height:1.3;flex:1;min-width:200px}
+header.top .doc{font-size:.8rem;opacity:.85;display:block;font-weight:400}
+header.top a{color:#fff}
+.btn-top{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);color:#fff;border-radius:8px;padding:6px 10px;font-size:.85rem;cursor:pointer;text-decoration:none;white-space:nowrap}
+.progreso{max-width:1400px;margin:8px auto 0;display:flex;gap:14px;align-items:center;flex-wrap:wrap;font-size:.8rem}
+.barra{flex:1;min-width:120px;height:7px;background:rgba(255,255,255,.25);border-radius:9px;overflow:hidden}
+.barra>i{display:block;height:100%;width:0;background:#fff;border-radius:9px;transition:width .3s}
+.layout{display:flex;align-items:flex-start;max-width:1400px;margin:0 auto}
+nav.sidebar{width:var(--sidebar-w);flex-shrink:0;position:sticky;top:110px;max-height:calc(100vh - 120px);overflow-y:auto;padding:20px 12px 40px 18px}
+nav.sidebar h2{font-size:.72rem;text-transform:uppercase;letter-spacing:1px;color:var(--ink-soft);margin:0 0 8px 6px}
+nav.sidebar ol{list-style:none;margin:0;padding:0}
+nav.sidebar a{display:block;position:relative;overflow:hidden;isolation:isolate;padding:6px 10px;border-radius:8px;color:var(--ink);text-decoration:none;font-size:.86rem;transition:color .2s,background .2s}
+nav.sidebar a:hover,nav.sidebar a.activo{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+nav.sidebar a::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;border-radius:inherit;
+background:linear-gradient(90deg,color-mix(in srgb,var(--accent) 22%,transparent),color-mix(in srgb,var(--accent) 45%,transparent));
+box-shadow:6px 0 14px color-mix(in srgb,var(--accent) 55%,transparent)}
+nav.sidebar a.cargando{color:var(--accent-dark);font-weight:600;background:transparent}
+nav.sidebar a.cargando::before,.ref-badge.cargando::before,.volver-tema.cargando::before{animation:conv-cargar .6s cubic-bezier(.45,0,.2,1) forwards}
+.ref-badges{display:inline-flex;flex-wrap:wrap;gap:6px;margin-left:10px;vertical-align:middle;font-size:.72rem;font-weight:600;line-height:1}
+.ref-group{display:inline-flex;align-items:center;gap:4px}
+.ref-label{color:var(--ink-soft);font-weight:600;letter-spacing:.3px}
+.ref-badge,.volver-tema{position:relative;overflow:hidden;isolation:isolate;text-decoration:none;transition:background .2s,color .2s,border-color .2s}
+.ref-badge::before,.volver-tema::before{content:"";position:absolute;inset:0 auto 0 0;width:0;z-index:-1;background:color-mix(in srgb,var(--accent) 40%,transparent)}
+.ref-badge{display:inline-grid;place-items:center;min-width:24px;height:22px;padding:0 6px;border-radius:999px;border:1px solid;font-size:.72rem}
+.ref-badge.ref-ia{color:#1e7a34;border-color:#8fd0a2;background:#eaf7ee}
+.ref-badge.ref-ia:hover{background:#1e7a34;color:#fff}
+.ref-badge.ref-ia.cargando{color:#fff;background:#1e7a34}
+.volver-tema{display:inline-flex;align-items:center;gap:4px;margin:0 8px 0 6px;padding:2px 10px;border:1px solid var(--line);border-radius:999px;font-size:.76rem;font-weight:600;color:var(--accent-dark);background:var(--paper);vertical-align:middle}
+.volver-tema:hover{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 10%,var(--paper))}
+.seccion-ia{margin-top:40px;padding-top:6px}
+.seccion-ia>.nota{font-size:.9rem}
+.tema-ia{margin:26px 0 4px;font-size:.82rem;font-weight:700;letter-spacing:.4px;text-transform:uppercase;color:var(--ink-soft)}
+.tema-ia a{color:inherit}
+.habilidad{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent-dark);vertical-align:middle}
+.eje{display:inline-block;margin-left:6px;padding:1px 8px;border-radius:999px;font-size:.7rem;font-weight:600;background:var(--line);color:var(--ink-soft);vertical-align:middle}
+.comentario>p{margin:8px 0}
+.comentario>p>strong:first-child{color:var(--accent-dark)}
+.comentario ul{margin:6px 0 10px;padding-left:20px}
+.comentario li{margin:3px 0}
+.comentario .tipo-error{font-style:italic;color:var(--ink-soft)}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .comentario>p>strong:first-child{color:var(--accent)}}
+:root[data-theme=dark] .comentario>p>strong:first-child{color:var(--accent)}
+.pregunta.destino{animation:conv-destino 1.6s ease-out}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}}
+:root[data-theme=dark] .ref-badge.ref-ia{color:#8fe0a8;border-color:#2f5e3e;background:#16301f}
+@keyframes conv-cargar{0%{width:0;opacity:.7}85%{opacity:1}100%{width:100%;opacity:1;box-shadow:0 0 12px color-mix(in srgb,var(--accent) 45%,transparent)}}
+@media (prefers-reduced-motion:reduce){nav.sidebar a.cargando::before{animation-duration:.15s}}
+.destino{animation:conv-destino 1.4s ease-out}
+@keyframes conv-destino{0%{background:color-mix(in srgb,var(--accent) 22%,transparent)}100%{background:transparent}}
+nav.sidebar .n3 a{padding-left:22px;font-size:.8rem;color:var(--ink-soft)}
+nav.sidebar .n4 a{padding-left:34px;font-size:.76rem;color:var(--ink-soft)}
+main.content{flex:1;min-width:0;padding:26px 34px 90px}
+.paper{background:var(--paper);border-radius:14px;padding:28px 38px;box-shadow:0 1px 4px rgba(0,0,0,.07);max-width:980px}
+.paper h2{font-size:1.4rem;color:var(--accent-dark);border-bottom:3px solid var(--accent);padding-bottom:6px;margin:34px 0 14px}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .paper h2{color:var(--accent)}}
+:root[data-theme=dark] .paper h2{color:var(--accent)}
+.paper h2:first-child{margin-top:0}
+.paper h3{font-size:1.14rem;margin:26px 0 10px;border-left:4px solid var(--accent);padding-left:10px}
+.paper h4{font-size:1rem;margin:20px 0 8px}
+.paper img{max-width:100%;height:auto}
+figure>img{width:var(--ancho,auto)}
+.fila-figuras{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:flex-start;margin:18px 0}
+.fila-figuras>figure{flex:1 1 220px;margin:0}
+.fila-figuras>figure>img{width:100%}
+table{border-collapse:collapse;margin:14px 0;width:100%;font-size:.93rem;display:block;overflow-x:auto}
+th,td{border:1px solid var(--line);padding:7px 10px;vertical-align:top;text-align:left}
+thead th{background:color-mix(in srgb,var(--accent) 14%,transparent)}
+blockquote{margin:14px 0;padding:8px 16px;border-left:4px solid var(--line);color:var(--ink-soft)}
+.nota,.tip,.ejemplo,.ejercicio,.pregunta{border-radius:10px;padding:14px 18px;margin:16px 0;border:1px solid}
+.nota{background:var(--nota-bg);border-color:var(--nota-bd)}
+.tip{background:var(--tip-bg);border-color:var(--tip-bd)}
+.ejemplo{background:var(--ej-bg);border-color:var(--ej-bd)}
+.ejercicio,.pregunta{background:var(--paper);border-color:var(--line);box-shadow:0 1px 3px rgba(0,0,0,.05)}
+figure{margin:18px auto;text-align:center}
+figure img{border-radius:8px;border:1px solid var(--line);cursor:zoom-in;background:#fff}
+figcaption{font-size:.85rem;color:var(--ink-soft);margin-top:6px}
+.frac{display:inline-flex;flex-direction:column;vertical-align:middle;text-align:center;font-size:.9em;margin:0 2px}
+.frac>span:first-child{border-bottom:1px solid currentColor;padding:0 3px}
+.alternativas{list-style:none;padding:0;margin:10px 0}
+.alternativas li{display:flex;gap:10px;align-items:flex-start;padding:8px 12px;margin:6px 0;border:1px solid var(--line);border-radius:9px;cursor:pointer;transition:background .15s}
+.alternativas li::before{content:attr(data-letra);font-weight:700;min-width:1.4em;color:var(--accent)}
+.alternativas li:hover{background:color-mix(in srgb,var(--accent) 8%,transparent)}
+.alternativas li.marcada{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.alternativas li.correcta{border-color:var(--ok);background:var(--ok-bg)}
+.alternativas li.incorrecta{border-color:var(--bad);background:var(--bad-bg)}
+.pregunta.respondida .alternativas li{cursor:default}
+.acciones{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.btn{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:8px 14px;font-size:.9rem;cursor:pointer}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.btn.sec{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.estado{font-size:.88rem;font-weight:600}
+.estado.ok{color:var(--ok)}.estado.mal{color:var(--bad)}
+.respuesta{display:none;margin-top:10px;padding:12px 14px;border-radius:9px;background:color-mix(in srgb,var(--accent) 7%,transparent);border-left:4px solid var(--accent)}
+.visible>.respuesta,.respuesta.visible{display:block}
+.aviso-ia{font-size:.8rem;color:var(--ink-soft);font-style:italic}
+details.original{margin:14px 0;border:1px dashed var(--line);border-radius:10px;padding:8px 12px}
+details.original summary{cursor:pointer;color:var(--ink-soft);font-size:.85rem}
+.marca-pagina{font-size:.72rem;color:var(--ink-soft);text-align:right;border-top:1px dashed var(--line);margin:22px 0 8px;padding-top:2px}
+.navsec{display:flex;justify-content:space-between;gap:12px;margin-top:28px;max-width:980px}
+.navsec a{flex:1;padding:14px 16px;border-radius:12px;background:var(--paper);border:1px solid var(--line);text-decoration:none;color:var(--ink)}
+.navsec a small{display:block;color:var(--ink-soft);font-size:.75rem}
+.navsec a.sig{text-align:right}
+#lightbox{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:100;cursor:zoom-out;padding:20px}
+#lightbox img{max-width:100%;max-height:100%;background:#fff;border-radius:6px}
+#toc-btn{display:none}
+@media (max-width:900px){
+ nav.sidebar{position:fixed;top:0;left:0;bottom:0;max-height:none;background:var(--paper);z-index:60;transform:translateX(-105%);transition:transform .25s;box-shadow:2px 0 14px rgba(0,0,0,.2);padding-top:24px}
+ nav.sidebar.abierta{transform:none}
+ #toc-btn{display:inline-block}
+ main.content{padding:16px 16px 80px}
+ .paper{padding:20px 18px}
+}
+@media print{header.top,nav.sidebar,.navsec,.acciones{display:none}.respuesta{display:block}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="fila">
+    <a class="btn-top" href="../../inicio.html" title="Volver a las asignaturas PAES" style="text-decoration:none">← Asignaturas</a>
+    <button class="btn-top" id="toc-btn" type="button">☰ Contenido</button>
+    <h1><span class="doc">Física PAES — Ciencias</span>Capítulo 3: La luz y la óptica geométrica</h1>
+    <a class="btn-top" href="index.html">Índice</a>
+    <button class="btn-top" id="tema" type="button" title="Cambiar tema claro/oscuro">◐</button>
+  </div>
+  <div class="progreso">
+    <span id="txt-preg">…</span><div class="barra"><i id="barra-preg"></i></div>
+    <button class="btn-top" id="reiniciar" type="button" title="Reiniciar respuestas de esta sección">↺ Reiniciar</button>
+    <span id="txt-lect">0% leído</span><div class="barra"><i id="barra-lect"></i></div>
+  </div>
+</header>
+<div class="layout">
+<nav class="sidebar" aria-label="Contenido"><h2>Contenido</h2><ol><li class="n2"><a href="#capitulo-3-la-luz-y-la-optica-geometrica">Capítulo 3: La luz y la óptica geométrica</a></li><li class="n2"><a href="#1-conceptos-clave">1. Conceptos clave</a></li><li class="n2"><a href="#2-como-se-propaga-la-luz">2. Cómo se propaga la luz</a></li><li class="n3"><a href="#a-que-es-la-luz-dos-modelos">a. Qué es la luz: dos modelos</a></li><li class="n3"><a href="#b-fuentes-cuerpos-iluminados-y-materiales">b. Fuentes, cuerpos iluminados y materiales</a></li><li class="n3"><a href="#c-la-propagacion-rectilinea">c. La propagación rectilínea</a></li><li class="n3"><a href="#d-sombra-y-penumbra">d. Sombra y penumbra</a></li><li class="n3"><a href="#e-la-rapidez-de-la-luz">e. La rapidez de la luz</a></li><li class="n2"><a href="#3-reflexion-de-la-luz-y-espejos-planos">3. Reflexión de la luz y espejos planos</a></li><li class="n3"><a href="#a-las-leyes-de-la-reflexion">a. Las leyes de la reflexión</a></li><li class="n3"><a href="#b-reflexion-especular-y-reflexion-difusa">b. Reflexión especular y reflexión difusa</a></li><li class="n3"><a href="#c-la-imagen-en-un-espejo-plano">c. La imagen en un espejo plano</a></li><li class="n3"><a href="#d-dos-espejos-y-muchas-imagenes">d. Dos espejos y muchas imágenes</a></li><li class="n2"><a href="#4-espejos-curvos-concavos-y-convexos">4. Espejos curvos: cóncavos y convexos</a></li><li class="n3"><a href="#a-elementos-de-un-espejo-esferico">a. Elementos de un espejo esférico</a></li><li class="n3"><a href="#b-los-rayos-notables">b. Los rayos notables</a></li><li class="n3"><a href="#c-las-imagenes-de-un-espejo-concavo">c. Las imágenes de un espejo cóncavo</a></li><li class="n3"><a href="#d-las-imagenes-de-un-espejo-convexo">d. Las imágenes de un espejo convexo</a></li><li class="n3"><a href="#e-para-profundizar-la-ecuacion-de-los-espejos">e. Para profundizar: la ecuación de los espejos</a></li><li class="n2"><a href="#5-refraccion-de-la-luz">5. Refracción de la luz</a></li><li class="n3"><a href="#a-el-indice-de-refraccion">a. El índice de refracción</a></li><li class="n3"><a href="#b-por-que-la-luz-se-desvia">b. Por qué la luz se desvía</a></li><li class="n3"><a href="#c-efectos-cotidianos-de-la-refraccion">c. Efectos cotidianos de la refracción</a></li><li class="n3"><a href="#d-reflexion-total-interna">d. Reflexión total interna</a></li><li class="n2"><a href="#6-lentes">6. Lentes</a></li><li class="n3"><a href="#a-que-es-una-lente-y-que-tipos-hay">a. Qué es una lente y qué tipos hay</a></li><li class="n3"><a href="#b-los-rayos-notables-2">b. Los rayos notables</a></li><li class="n3"><a href="#c-las-imagenes-de-una-lente-convergente">c. Las imágenes de una lente convergente</a></li><li class="n3"><a href="#d-la-potencia-de-una-lente">d. La potencia de una lente</a></li><li class="n3"><a href="#e-el-ojo-humano-una-lente-viva">e. El ojo humano, una lente viva</a></li><li class="n2"><a href="#7-el-color-y-la-dispersion">7. El color y la dispersión</a></li><li class="n3"><a href="#a-la-luz-blanca-es-una-mezcla">a. La luz blanca es una mezcla</a></li><li class="n3"><a href="#b-que-es-la-dispersion">b. Qué es la dispersión</a></li><li class="n3"><a href="#c-el-arcoiris">c. El arcoíris</a></li><li class="n3"><a href="#d-el-color-de-los-objetos">d. El color de los objetos</a></li><li class="n3"><a href="#e-mezclar-luces-y-mezclar-pinturas">e. Mezclar luces y mezclar pinturas</a></li><li class="n3"><a href="#f-por-que-el-cielo-es-azul-y-el-atardecer-rojo">f. Por qué el cielo es azul y el atardecer rojo</a></li><li class="n2"><a href="#8-instrumentos-y-dispositivos-opticos">8. Instrumentos y dispositivos ópticos</a></li><li class="n3"><a href="#a-la-lupa-y-el-microscopio">a. La lupa y el microscopio</a></li><li class="n3"><a href="#b-telescopios-refractores-y-reflectores">b. Telescopios refractores y reflectores</a></li><li class="n3"><a href="#c-los-prismaticos">c. Los prismáticos</a></li><li class="n3"><a href="#d-la-camara-fotografica">d. La cámara fotográfica</a></li><li class="n3"><a href="#e-la-fibra-optica">e. La fibra óptica</a></li><li class="n3"><a href="#f-el-rayo-laser">f. El rayo láser</a></li><li class="n2"><a href="#ejemplos-paes-resueltos">Ejemplos PAES resueltos</a></li><li class="n2"><a href="#evaluacion-formativa">Evaluación formativa</a></li><li class="n2"><a href="#fuentes-del-capitulo">Fuentes del capítulo</a></li></ol></nav>
+<main class="content">
+<article class="paper">
+<h2 id="capitulo-3-la-luz-y-la-optica-geometrica">Capítulo 3: La luz y la óptica geométrica</h2>
+<p><strong>Área temática:</strong> Ondas</p>
+<p>Te miras al espejo y ves a alguien idéntico a ti, salvo que te guiña el ojo contrario. Metes una bombilla en un vaso con agua y parece quebrada. Un arcoíris aparece justo cuando hay sol a tu espalda y lluvia al frente. Detrás de las tres cosas hay unas pocas reglas sobre cómo viaja la luz y qué le pasa cuando choca con una superficie o entra en otro material. Esas reglas son la <strong>óptica geométrica</strong>.</p>
+<p>En este capítulo vas a aprender cómo se <strong>propaga la luz en línea recta</strong> y por qué eso explica las sombras y los eclipses; cómo se <strong>refleja</strong> y qué imágenes forman los <strong>espejos planos, cóncavos y convexos</strong>; cómo se <strong>refracta</strong> al cambiar de medio, qué es el <strong>índice de refracción</strong> y cuándo ocurre la <strong>reflexión total interna</strong>; cómo forman imágenes las <strong>lentes convergentes y divergentes</strong>, incluida la del ojo humano; de dónde salen los <strong>colores</strong>, qué es la <strong>dispersión</strong> y cómo se forma el arcoíris; y cómo funcionan los <strong>instrumentos ópticos</strong> que nombra el temario: prismáticos, telescopios reflector y refractor, fibra óptica y láser.</p>
+<div class="nota">
+<p><strong>Este capítulo en la PAES 2027.</strong> Cubre la parte óptica del área Ondas del temario DEMRE: absorción, reflexión y refracción de la luz; su propagación rectilínea; la formación de colores y la dispersión; los espejos y las lentes con la formación de imágenes; y los dispositivos ópticos. Las ideas generales de onda (frecuencia, longitud de onda, rapidez, espectro electromagnético) están en el capítulo 1: aquí se dan por sabidas.</p>
+</div>
+<h2 id="1-conceptos-clave">1. Conceptos clave</h2>
+<table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Definición</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Rayo de luz</strong></td>
+<td>Línea recta que representa la dirección en que se propaga la luz; es un modelo, no un objeto real</td>
+</tr>
+<tr>
+<td><strong>Fuente luminosa</strong></td>
+<td>Cuerpo que emite luz propia, como el Sol, una ampolleta encendida o una pantalla</td>
+</tr>
+<tr>
+<td><strong>Cuerpo iluminado</strong></td>
+<td>Cuerpo que se ve porque refleja la luz que recibe de una fuente, como la Luna o un libro</td>
+</tr>
+<tr>
+<td><strong>Transparente, translúcido, opaco</strong></td>
+<td>Material que deja pasar la luz y permite ver con nitidez a través de él; que la deja pasar pero la dispersa; que no la deja pasar</td>
+</tr>
+<tr>
+<td><strong>Sombra y penumbra</strong></td>
+<td>Zona a la que no llega luz de ninguna parte de la fuente; zona a la que llega luz solo de una parte de ella</td>
+</tr>
+<tr>
+<td><strong>Normal</strong></td>
+<td>Recta perpendicular a una superficie en el punto donde incide un rayo; los ángulos se miden desde ella</td>
+</tr>
+<tr>
+<td><strong>Reflexión especular y difusa</strong></td>
+<td>Reflexión en una superficie lisa, donde los rayos paralelos salen paralelos; y en una superficie rugosa, donde salen en todas direcciones</td>
+</tr>
+<tr>
+<td><strong>Imagen real</strong></td>
+<td>Imagen formada por rayos que se cruzan de verdad; se puede proyectar en una pantalla</td>
+</tr>
+<tr>
+<td><strong>Imagen virtual</strong></td>
+<td>Imagen formada por la prolongación de los rayos; se ve, pero no se puede proyectar</td>
+</tr>
+<tr>
+<td><strong>Espejo cóncavo</strong></td>
+<td>Espejo curvo cuya cara reflectante es la interior; hace converger los rayos paralelos</td>
+</tr>
+<tr>
+<td><strong>Espejo convexo</strong></td>
+<td>Espejo curvo cuya cara reflectante es la exterior; hace diverger los rayos paralelos</td>
+</tr>
+<tr>
+<td><strong>Foco (F)</strong></td>
+<td>Punto por donde pasan (o parecen pasar) los rayos que llegan paralelos al eje principal después de reflejarse o refractarse</td>
+</tr>
+<tr>
+<td><strong>Distancia focal (f)</strong></td>
+<td>Distancia entre el foco y el espejo o la lente. En un espejo esférico es la mitad del radio de curvatura</td>
+</tr>
+<tr>
+<td><strong>Centro de curvatura (C)</strong></td>
+<td>Centro de la esfera de la que forma parte un espejo curvo</td>
+</tr>
+<tr>
+<td><strong>Índice de refracción (n)</strong></td>
+<td>Cociente entre la rapidez de la luz en el vacío y en un medio: <em>n</em> = <em>c</em> / <em>v</em>. Siempre es mayor o igual que 1</td>
+</tr>
+<tr>
+<td><strong>Refracción</strong></td>
+<td>Cambio de rapidez de la luz al pasar de un medio a otro, que desvía el rayo cuando llega de forma oblicua</td>
+</tr>
+<tr>
+<td><strong>Ángulo límite o crítico</strong></td>
+<td>Ángulo de incidencia a partir del cual la luz que va hacia un medio de menor índice ya no sale y se refleja por completo</td>
+</tr>
+<tr>
+<td><strong>Reflexión total interna</strong></td>
+<td>Reflexión completa de la luz dentro de un medio, cuando incide sobre la frontera con un ángulo mayor que el crítico</td>
+</tr>
+<tr>
+<td><strong>Lente convergente</strong></td>
+<td>Lente más gruesa en el centro que en los bordes; hace converger los rayos paralelos en un foco real</td>
+</tr>
+<tr>
+<td><strong>Lente divergente</strong></td>
+<td>Lente más delgada en el centro que en los bordes; separa los rayos paralelos, que parecen salir de un foco virtual</td>
+</tr>
+<tr>
+<td><strong>Potencia de una lente</strong></td>
+<td>Inverso de su distancia focal medida en metros; su unidad es la dioptría (D)</td>
+</tr>
+<tr>
+<td><strong>Dispersión</strong></td>
+<td>Separación de la luz blanca en colores, porque el índice de refracción de un material depende de la longitud de onda</td>
+</tr>
+<tr>
+<td><strong>Espectro visible</strong></td>
+<td>Conjunto de colores que forman la luz blanca, del rojo (mayor λ) al violeta (menor λ)</td>
+</tr>
+<tr>
+<td><strong>Colores primarios de la luz</strong></td>
+<td>Rojo, verde y azul: sumados en distintas proporciones, forman todos los colores que ve el ojo (mezcla aditiva)</td>
+</tr>
+<tr>
+<td><strong>Láser</strong></td>
+<td>Fuente de luz de una sola longitud de onda, muy concentrada y direccional</td>
+</tr>
+</tbody>
+</table>
+<h2 id="2-como-se-propaga-la-luz">2. Cómo se propaga la luz</h2>
+<h3 id="a-que-es-la-luz-dos-modelos">a. Qué es la luz: dos modelos</h3>
+<p>Durante siglos se discutió qué es la luz. <strong>Newton</strong> (fines del siglo XVII) propuso el <strong>modelo corpuscular</strong>: la luz sería un chorro de partículas diminutas que salen de la fuente en línea recta. <strong>Huygens</strong>, en la misma época, propuso el <strong>modelo ondulatorio</strong>: la luz sería una onda. Cada modelo explicaba bien algunas cosas:</p>
+<table>
+<thead>
+<tr>
+<th>Fenómeno</th>
+<th>Modelo corpuscular</th>
+<th>Modelo ondulatorio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Propagación en línea recta y sombras nítidas</td>
+<td>Lo explica con facilidad</td>
+<td>Lo explica si λ es muy pequeña</td>
+</tr>
+<tr>
+<td>Reflexión</td>
+<td>Lo explica (rebote de partículas)</td>
+<td>Lo explica</td>
+</tr>
+<tr>
+<td>Refracción</td>
+<td>Predecía que la luz iría <strong>más rápido</strong> en el agua</td>
+<td>Predecía que iría <strong>más lento</strong> en el agua</td>
+</tr>
+<tr>
+<td>Interferencia y difracción</td>
+<td>No las explica</td>
+<td>Las explica</td>
+</tr>
+</tbody>
+</table>
+<p>La decisión la dieron los experimentos. En 1801, Young obtuvo franjas de interferencia con luz. En 1850, Foucault midió la rapidez de la luz en el agua y resultó <strong>menor</strong> que en el aire, como predecía el modelo ondulatorio. A fines del siglo XIX quedó claro que la luz es una <strong>onda electromagnética</strong> (capítulo 1). En el siglo XX se vio que en ciertos fenómenos, como el efecto fotoeléctrico, la luz también se comporta como paquetes de energía llamados <strong>fotones</strong>. Hoy se acepta que la luz tiene un comportamiento <strong>dual</strong>.</p>
+<div class="tip">
+<p><strong>Cómo se usa esto en la PAES.</strong> Es un ejemplo clásico de cómo se ponen a prueba dos modelos: se busca un fenómeno en que <strong>predigan cosas distintas</strong> y se mide. Si una pregunta te da dos modelos y un resultado experimental, identifica qué predecía cada uno sobre ese fenómeno exacto. Un modelo que falla en una predicción no «se vuelve falso» en todo: sigue siendo útil donde funciona.</p>
+</div>
+<h3 id="b-fuentes-cuerpos-iluminados-y-materiales">b. Fuentes, cuerpos iluminados y materiales</h3>
+<p>Vemos un objeto cuando <strong>llega luz desde él a nuestros ojos</strong>. Esa luz puede ser propia o prestada:</p>
+<ul>
+<li><strong>Fuentes luminosas</strong>: emiten luz propia. El Sol, una llama, una ampolleta encendida, la pantalla de un celular.</li>
+<li><strong>Cuerpos iluminados</strong>: reflejan la luz que les llega. La Luna, las personas, casi todo lo que nos rodea.</li>
+</ul>
+<p>Según cómo dejan pasar la luz, los materiales se clasifican en:</p>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Qué hace con la luz</th>
+<th>Ejemplos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Transparente</strong></td>
+<td>La deja pasar casi sin desviarla: se ve con nitidez a través de él</td>
+<td>Vidrio de ventana, agua limpia, aire</td>
+</tr>
+<tr>
+<td><strong>Translúcido</strong></td>
+<td>La deja pasar, pero la desvía en muchas direcciones: se ve luz, no formas</td>
+<td>Vidrio esmerilado, papel mantequilla, piel de la mano frente a una linterna</td>
+</tr>
+<tr>
+<td><strong>Opaco</strong></td>
+<td>No la deja pasar: la refleja o la absorbe</td>
+<td>Madera, metal, un libro</td>
+</tr>
+</tbody>
+</table>
+<h3 id="c-la-propagacion-rectilinea">c. La propagación rectilínea</h3>
+<p>En un medio homogéneo, la luz viaja en <strong>línea recta</strong>. Por eso se la representa con <strong>rayos</strong>: líneas rectas con una flecha que indica hacia dónde va. Un rayo es un modelo; en la realidad hay haces de luz, pero dibujar rayos permite predecir con mucha precisión dónde habrá luz y dónde no.</p>
+<p>Tres consecuencias de la propagación rectilínea:</p>
+<ol>
+<li><strong>Las sombras.</strong> Un objeto opaco bloquea los rayos que lo alcanzan, y detrás de él queda una zona sin luz con la misma forma que el objeto.</li>
+<li><strong>La cámara oscura.</strong> Una caja cerrada con un agujero pequeño forma, en la pared opuesta, una imagen <strong>invertida</strong> de lo que está afuera: los rayos que vienen de arriba cruzan el agujero y llegan abajo, y los que vienen de abajo llegan arriba. Es el principio de la cámara fotográfica.</li>
+<li><strong>Los eclipses.</strong> Se explican por la sombra que proyectan la Luna o la Tierra.</li>
+</ol>
+<h3 id="d-sombra-y-penumbra">d. Sombra y penumbra</h3>
+<p>Si la fuente de luz es muy pequeña (una <strong>fuente puntual</strong>), la sombra tiene bordes nítidos. Si la fuente es <strong>extensa</strong> (el Sol, un tubo fluorescente), aparecen dos zonas:</p>
+<ul>
+<li><strong>Sombra</strong> (o umbra): no llega luz de <strong>ningún</strong> punto de la fuente.</li>
+<li><strong>Penumbra</strong>: llega luz de <strong>una parte</strong> de la fuente, pero no de toda. Es una zona más clara que la sombra.</li>
+</ul>
+<figure><img src="img/cap03-luz-optica/sombra-penumbra-eclipse.svg" alt="A la izquierda, una fuente puntual produce detrás de una pelota una sombra de bordes nítidos. A la derecha, el Sol, la Luna y la Tierra alineados: el cono de sombra de la Luna toca la Tierra en una zona pequeña donde el eclipse es total, rodeada por la penumbra donde es parcial"><figcaption>Figura 1. Una fuente puntual da sombra nítida; una fuente extensa, como el Sol, da sombra y penumbra. En un eclipse de Sol, quien está en la sombra de la Luna ve un eclipse total, y quien está en la penumbra, uno parcial. Diagrama propio.</figcaption></figure>
+
+<p>En un <strong>eclipse de Sol</strong>, la Luna se interpone entre el Sol y la Tierra. Quien está dentro de la sombra de la Luna ve un eclipse <strong>total</strong>; quien está en la penumbra lo ve <strong>parcial</strong>. En un <strong>eclipse de Luna</strong>, es la Tierra la que se interpone y la Luna entra en la sombra de la Tierra. Aun así, la Luna no desaparece: se ve tenue y <strong>rojiza</strong>, porque la atmósfera terrestre refracta hacia ella un poco de luz solar, de la que ya se dispersó casi todo el azul (sección 7). En julio de 2019 y en diciembre de 2020 hubo eclipses totales de Sol visibles desde Chile, en La Serena y en la Araucanía.</p>
+<div class="ejemplo">
+<p><strong>Predecir el tamaño de una sombra.</strong> Una ampolleta pequeña está a 1 m de una pared. A 0,25 m de la ampolleta se pone un disco de 10 cm de diámetro, paralelo a la pared. ¿Qué diámetro tiene la sombra?</p>
+<p>Los rayos salen de la ampolleta en línea recta y rozan el borde del disco. Por semejanza de triángulos, el tamaño crece en proporción a la distancia desde la fuente: la pared está 4 veces más lejos que el disco (1 m / 0,25 m = 4), así que la sombra mide 4 · 10 cm = <strong>40 cm</strong>. Si el disco se acerca a la pared, la sombra se achica; si se acerca a la ampolleta, se agranda.</p>
+</div>
+<h3 id="e-la-rapidez-de-la-luz">e. La rapidez de la luz</h3>
+<p>La luz es tan rápida que por siglos se creyó que se propagaba de forma instantánea. En 1676, <strong>Rømer</strong> estimó por primera vez su rapidez observando que los eclipses de la luna Ío de Júpiter se atrasaban cuando la Tierra estaba más lejos de Júpiter. Hoy se sabe que en el vacío es <em>c</em> = 299 792 458 m/s, es decir, unos <strong>300 000 km/s</strong>. La luz del Sol tarda unos <strong>8 minutos y 20 segundos</strong> en llegar a la Tierra.</p>
+<p>En cualquier material la luz va <strong>más lento</strong> que en el vacío. Cuánto más lento depende del material, y eso es lo que mide el índice de refracción (sección 5).</p>
+<h2 id="3-reflexion-de-la-luz-y-espejos-planos">3. Reflexión de la luz y espejos planos</h2>
+<h3 id="a-las-leyes-de-la-reflexion">a. Las leyes de la reflexión</h3>
+<p>Cuando la luz llega a una superficie, una parte <strong>se refleja</strong>: vuelve al medio del que venía. La reflexión cumple dos leyes:</p>
+<ol>
+<li><strong>El ángulo de incidencia es igual al ángulo de reflexión</strong> (<em>i</em> = <em>r</em>). Ambos se miden desde la <strong>normal</strong>, la recta perpendicular a la superficie en el punto donde llega el rayo, y <strong>no</strong> desde la superficie.</li>
+<li><strong>El rayo incidente, la normal y el rayo reflejado están en un mismo plano.</strong></li>
+</ol>
+<div class="tip">
+<p><strong>El error más común con los ángulos.</strong> Si un enunciado dice que el rayo forma 30° <strong>con la superficie del espejo</strong>, el ángulo de incidencia es 90° − 30° = <strong>60°</strong>, porque se mide desde la normal. Antes de usar un ángulo, fíjate desde dónde está medido.</p>
+</div>
+<h3 id="b-reflexion-especular-y-reflexion-difusa">b. Reflexión especular y reflexión difusa</h3>
+<p>La ley de la reflexión se cumple en <strong>cada punto</strong> de cualquier superficie. Lo que cambia es la forma de la superficie:</p>
+<ul>
+<li><strong>Reflexión especular</strong>: la superficie es lisa (un espejo, agua quieta, metal pulido). Todas las normales son paralelas, así que un haz de rayos paralelos sale <strong>paralelo</strong>. Se forma una imagen.</li>
+<li><strong>Reflexión difusa</strong>: la superficie es rugosa a escala microscópica (papel, pared, ropa). Cada pequeña zona tiene su normal en otra dirección, así que los rayos salen <strong>en todas direcciones</strong>. No hay imagen, pero el objeto se ve desde cualquier lugar.</li>
+</ul>
+<figure><img src="img/cap03-luz-optica/reflexion-especular-difusa.svg" alt="Izquierda: rayos paralelos llegan a una superficie lisa y salen paralelos. Derecha: rayos paralelos llegan a una superficie rugosa y salen en direcciones distintas"><figcaption>Figura 2. Reflexión especular (superficie lisa) y difusa (superficie rugosa). En ambas se cumple <em>i</em> = <em>r</em> en cada punto. Diagrama propio.</figcaption></figure>
+
+<p>Gracias a la reflexión difusa podemos ver casi todos los objetos. Un camino mojado de noche se ve oscuro y encandila: el agua convierte la reflexión difusa del asfalto en especular, y la luz de los focos rebota en una sola dirección, lejos de tus ojos o directo a ellos.</p>
+<h3 id="c-la-imagen-en-un-espejo-plano">c. La imagen en un espejo plano</h3>
+<p>Frente a un espejo plano, los rayos que salen de un objeto se reflejan y llegan al ojo como si vinieran de <strong>detrás del espejo</strong>. El cerebro supone que la luz viaja en línea recta y «ve» el objeto donde se cruzan las <strong>prolongaciones</strong> de esos rayos.</p>
+<figure><img src="img/cap03-luz-optica/espejo-plano.svg" alt="Una vela frente a un espejo plano y su imagen virtual detrás del espejo, a la misma distancia. Dos rayos salen de la llama, se reflejan y llegan al ojo; sus prolongaciones punteadas se cruzan en la imagen"><figcaption>Figura 3. En un espejo plano, la imagen está detrás del espejo, a la misma distancia que el objeto, y se forma con las prolongaciones de los rayos reflejados. Diagrama propio.</figcaption></figure>
+
+<p>Características de la imagen en un espejo plano:</p>
+<table>
+<thead>
+<tr>
+<th>Característica</th>
+<th>Qué significa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Virtual</strong></td>
+<td>Se forma con las prolongaciones de los rayos: no se puede proyectar en una pantalla</td>
+</tr>
+<tr>
+<td><strong>Derecha</strong></td>
+<td>No está invertida de arriba abajo</td>
+</tr>
+<tr>
+<td><strong>Del mismo tamaño</strong> que el objeto</td>
+<td>El espejo plano no aumenta ni reduce</td>
+</tr>
+<tr>
+<td><strong>Simétrica</strong> respecto del espejo</td>
+<td>Está a la <strong>misma distancia</strong> detrás del espejo que el objeto delante</td>
+</tr>
+<tr>
+<td><strong>Con inversión lateral</strong></td>
+<td>Lo que es derecha en el objeto aparece como izquierda en la imagen, y viceversa</td>
+</tr>
+</tbody>
+</table>
+<p>La inversión lateral es la razón por la que la palabra AMBULANCIA se pinta <strong>al revés</strong> en el capó de las ambulancias: en el espejo retrovisor del auto de adelante se lee al derecho.</p>
+<div class="ejemplo">
+<p><strong>Distancias en un espejo plano.</strong> Una persona está a 2 m de un espejo plano. ¿A qué distancia de ella está su imagen? Si se acerca 0,5 m al espejo, ¿cuánto se acerca a su imagen?</p>
+<p>La imagen está 2 m <strong>detrás</strong> del espejo, así que la distancia persona–imagen es 2 m + 2 m = <strong>4 m</strong>. Al acercarse 0,5 m, la persona queda a 1,5 m del espejo y la imagen también, a 1,5 m detrás: la distancia entre ambas es 3 m. Se acercó <strong>1 m</strong> a su imagen, el doble de lo que se movió ella.</p>
+</div>
+<div class="nota">
+<p><strong>¿Qué tamaño debe tener un espejo para verse de cuerpo entero?</strong> Basta con un espejo plano de la <strong>mitad de tu estatura</strong>, colgado a la altura adecuada, y la distancia a la que te pongas no importa. Es una consecuencia directa de <em>i</em> = <em>r</em>: el rayo que va de tus pies a tus ojos se refleja justo a mitad de camino en altura.</p>
+</div>
+<h3 id="d-dos-espejos-y-muchas-imagenes">d. Dos espejos y muchas imágenes</h3>
+<p>Si se ponen dos espejos planos formando un ángulo, la luz rebota de uno a otro y aparecen <strong>varias imágenes</strong>. Con dos espejos a 90° se ven 3 imágenes; al cerrar el ángulo aparecen más, y con dos espejos <strong>paralelos</strong>, en teoría infinitas, cada vez más tenues porque en cada reflexión se pierde algo de luz. Así funciona un caleidoscopio y así se «multiplican» las luces en un ascensor con espejos enfrentados.</p>
+<p>Otra aplicación de la reflexión es el <strong>periscopio</strong>: dos espejos paralelos inclinados en 45° desvían la luz dos veces y permiten ver por encima de un obstáculo.</p>
+<h2 id="4-espejos-curvos-concavos-y-convexos">4. Espejos curvos: cóncavos y convexos</h2>
+<h3 id="a-elementos-de-un-espejo-esferico">a. Elementos de un espejo esférico</h3>
+<p>Un espejo esférico es un trozo de una esfera espejada. Si la cara que refleja es la <strong>interior</strong>, el espejo es <strong>cóncavo</strong> (como el interior de una cuchara). Si es la <strong>exterior</strong>, es <strong>convexo</strong> (como el dorso de la cuchara).</p>
+<table>
+<thead>
+<tr>
+<th>Elemento</th>
+<th>Qué es</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Vértice (V)</strong></td>
+<td>Centro del espejo</td>
+</tr>
+<tr>
+<td><strong>Eje principal</strong></td>
+<td>Recta que pasa por el vértice y el centro de curvatura</td>
+</tr>
+<tr>
+<td><strong>Centro de curvatura (C)</strong></td>
+<td>Centro de la esfera de la que forma parte el espejo</td>
+</tr>
+<tr>
+<td><strong>Radio de curvatura (R)</strong></td>
+<td>Distancia entre C y el vértice</td>
+</tr>
+<tr>
+<td><strong>Foco (F)</strong></td>
+<td>Punto donde se juntan (cóncavo) o de donde parecen salir (convexo) los rayos que llegan paralelos al eje</td>
+</tr>
+<tr>
+<td><strong>Distancia focal (f)</strong></td>
+<td>Distancia entre F y el vértice. Vale la mitad del radio: <em>f</em> = <em>R</em> / 2</td>
+</tr>
+</tbody>
+</table>
+<div class="nota">
+<p><strong>Cóncavo concentra, convexo abre.</strong> Un espejo <strong>cóncavo</strong> hace <strong>converger</strong> los rayos paralelos en el foco, que está delante del espejo: es un foco <strong>real</strong>. Un espejo <strong>convexo</strong> los hace <strong>diverger</strong>, como si salieran de un foco ubicado detrás del espejo: es un foco <strong>virtual</strong>.</p>
+</div>
+<h3 id="b-los-rayos-notables">b. Los rayos notables</h3>
+<p>Para encontrar la imagen de un objeto basta con dibujar <strong>dos</strong> de estos rayos, que salen de la punta del objeto, y ver dónde se cruzan (o dónde se cruzan sus prolongaciones):</p>
+<ol>
+<li>Un rayo que llega <strong>paralelo al eje</strong> se refleja <strong>pasando por el foco</strong> (en el convexo, alejándose como si viniera del foco).</li>
+<li>Un rayo que pasa <strong>por el foco</strong> se refleja <strong>paralelo al eje</strong> (en el convexo, el que va dirigido hacia el foco).</li>
+<li>Un rayo que pasa <strong>por el centro de curvatura</strong> se refleja <strong>sobre sí mismo</strong>, porque llega perpendicular al espejo.</li>
+<li>Un rayo que llega <strong>al vértice</strong> se refleja con el mismo ángulo al otro lado del eje.</li>
+</ol>
+<figure><img src="img/cap03-luz-optica/espejo-concavo-imagen.svg" alt="Espejo cóncavo con su eje, centro de curvatura C y foco F. Un objeto ubicado más allá de C y dos rayos notables: uno paralelo al eje que se refleja por F y otro que pasa por F y se refleja paralelo. Se cruzan entre F y C formando una imagen real, invertida y más pequeña"><figcaption>Figura 4. Formación de la imagen en un espejo cóncavo con el objeto más allá de C. Diagrama propio.</figcaption></figure>
+
+<h3 id="c-las-imagenes-de-un-espejo-concavo">c. Las imágenes de un espejo cóncavo</h3>
+<p>La imagen depende de <strong>dónde esté el objeto</strong>. Es la tabla más preguntada del tema:</p>
+<table>
+<thead>
+<tr>
+<th>Posición del objeto</th>
+<th>Imagen</th>
+<th>Ubicación de la imagen</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Muy lejos (en el «infinito»)</td>
+<td>Real, invertida, un punto</td>
+<td>En el foco</td>
+<td>Telescopio, horno solar</td>
+</tr>
+<tr>
+<td>Más allá de C</td>
+<td>Real, invertida, <strong>menor</strong></td>
+<td>Entre F y C</td>
+<td>Telescopio que proyecta una imagen</td>
+</tr>
+<tr>
+<td>En C</td>
+<td>Real, invertida, <strong>igual</strong> tamaño</td>
+<td>En C</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Entre C y F</td>
+<td>Real, invertida, <strong>mayor</strong></td>
+<td>Más allá de C</td>
+<td>Proyector</td>
+</tr>
+<tr>
+<td>En F</td>
+<td><strong>No se forma</strong> (los rayos salen paralelos)</td>
+<td>—</td>
+<td>Foco de un auto, linterna</td>
+</tr>
+<tr>
+<td>Entre F y el espejo</td>
+<td><strong>Virtual, derecha, mayor</strong></td>
+<td>Detrás del espejo</td>
+<td>Espejo de maquillaje o de afeitar</td>
+</tr>
+</tbody>
+</table>
+<p>Una regla que ordena la tabla: <strong>mientras el objeto está más allá de F, la imagen es real e invertida; cuando está dentro de F, pasa a ser virtual, derecha y aumentada.</strong> Y a medida que el objeto se acerca desde lejos hacia F, la imagen real se aleja del espejo y crece.</p>
+<div class="tip">
+<p><strong>Qué hay detrás de un foco de auto.</strong> Si pones una ampolleta <strong>en el foco</strong> de un espejo cóncavo, los rayos salen <strong>paralelos</strong>: es el principio de las linternas y los faros. Es la regla 2 al revés. Si una pregunta dice que el haz sale paralelo, la fuente está en F.</p>
+</div>
+<h3 id="d-las-imagenes-de-un-espejo-convexo">d. Las imágenes de un espejo convexo</h3>
+<p>El convexo es más simple: para cualquier posición del objeto, la imagen es <strong>virtual, derecha y menor</strong>, y está detrás del espejo, entre el vértice y el foco. Como achica la imagen, <strong>abarca un campo de visión más amplio</strong>. Por eso se usa en:</p>
+<ul>
+<li>los <strong>espejos laterales</strong> de los autos (que advierten que los objetos están más cerca de lo que parecen: se ven más pequeños y el cerebro los interpreta como más lejanos);</li>
+<li>las esquinas de calles sin visibilidad y las cajas de supermercados;</li>
+<li>los espejos de seguridad en estacionamientos.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Espejo</th>
+<th>Imagen</th>
+<th>Usos típicos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Plano</td>
+<td>Virtual, derecha, igual tamaño</td>
+<td>Espejo de baño, periscopio</td>
+</tr>
+<tr>
+<td>Cóncavo</td>
+<td>Depende de la posición del objeto</td>
+<td>Linternas, telescopios, maquillaje, antenas parabólicas, hornos solares</td>
+</tr>
+<tr>
+<td>Convexo</td>
+<td>Siempre virtual, derecha y menor</td>
+<td>Retrovisores laterales, seguridad</td>
+</tr>
+</tbody>
+</table>
+<h3 id="e-para-profundizar-la-ecuacion-de-los-espejos">e. Para profundizar: la ecuación de los espejos</h3>
+<p>La posición de la imagen también se puede calcular. Si <em>p</em> es la distancia del objeto al espejo y <em>q</em> la de la imagen:</p>
+<p style="text-align:center"><strong>1 / <em>f</em> = 1 / <em>p</em> + 1 / <em>q</em></strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>aumento: <em>A</em> = − <em>q</em> / <em>p</em></strong></p>
+
+<p>Con la convención habitual, <em>f</em> es positiva en el cóncavo y negativa en el convexo; <em>q</em> positiva indica imagen real (delante del espejo) y negativa, virtual. Un aumento negativo indica imagen invertida.</p>
+<div class="ejemplo">
+<p><strong>Un objeto entre C y F.</strong> Un espejo cóncavo tiene <em>R</em> = 40 cm, así que <em>f</em> = 20 cm. Un objeto está a 30 cm del espejo (entre C, a 40 cm, y F, a 20 cm).</p>
+<p>1/<em>q</em> = 1/20 − 1/30 = 3/60 − 2/60 = 1/60, así que <em>q</em> = <strong>60 cm</strong> (positiva: imagen real, delante del espejo).
+<em>A</em> = −60/30 = <strong>−2</strong>: la imagen es invertida y del doble del tamaño.</p>
+<p>Coincide con la tabla: objeto entre C y F → imagen real, invertida, mayor y más allá de C.</p>
+</div>
+<h2 id="5-refraccion-de-la-luz">5. Refracción de la luz</h2>
+<h3 id="a-el-indice-de-refraccion">a. El índice de refracción</h3>
+<p>Cuando la luz entra en un material, se propaga <strong>más lento</strong> que en el vacío. El <strong>índice de refracción</strong> mide cuánto más lento:</p>
+<p style="text-align:center"><strong><em>n</em> = <em>c</em> / <em>v</em></strong></p>
+
+<p>donde <em>c</em> es la rapidez de la luz en el vacío y <em>v</em> su rapidez en el medio. Como la luz nunca va más rápido que en el vacío, <strong>n ≥ 1</strong>, y no tiene unidad (es un cociente de dos rapideces).</p>
+<table>
+<thead>
+<tr>
+<th>Medio</th>
+<th>Índice de refracción <em>n</em></th>
+<th>Rapidez de la luz (km/s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vacío</td>
+<td>1 (exacto)</td>
+<td>300 000</td>
+</tr>
+<tr>
+<td>Aire</td>
+<td>1,0003 (≈ 1)</td>
+<td>≈ 300 000</td>
+</tr>
+<tr>
+<td>Agua</td>
+<td>1,33</td>
+<td>≈ 225 000</td>
+</tr>
+<tr>
+<td>Vidrio común</td>
+<td>≈ 1,5</td>
+<td>≈ 200 000</td>
+</tr>
+<tr>
+<td>Diamante</td>
+<td>2,42</td>
+<td>≈ 124 000</td>
+</tr>
+</tbody>
+</table>
+<p>Se dice que un medio es <strong>más refringente</strong> (o, a veces, ópticamente más denso) cuando tiene mayor índice: en él la luz va más lento.</p>
+<div class="tip">
+<p><strong>No confundas.</strong> Un índice <strong>mayor</strong> significa una rapidez <strong>menor</strong>. Y «ópticamente más denso» no es lo mismo que «más denso» en masa: el aceite es menos denso que el agua (flota), pero tiene mayor índice de refracción.</p>
+</div>
+<h3 id="b-por-que-la-luz-se-desvia">b. Por qué la luz se desvía</h3>
+<p>Cuando un haz llega <strong>oblicuo</strong> a la frontera entre dos medios, un borde del frente de onda entra primero al nuevo medio y cambia de rapidez antes que el otro. El frente «gira», y el rayo cambia de dirección. Una imagen útil es la de una fila de personas que marchan del pasto a la arena en diagonal: las primeras en pisar la arena se frenan y la fila entera gira.</p>
+<p>Las reglas, medidas siempre desde la <strong>normal</strong>:</p>
+<ul>
+<li>Al pasar a un medio de <strong>mayor</strong> índice (más lento), el rayo <strong>se acerca a la normal</strong>: el ángulo de refracción es menor que el de incidencia.</li>
+<li>Al pasar a un medio de <strong>menor</strong> índice (más rápido), el rayo <strong>se aleja de la normal</strong>.</li>
+<li>Si llega <strong>perpendicular</strong> a la frontera (ángulo de incidencia 0°), <strong>no se desvía</strong>, aunque sí cambia su rapidez.</li>
+</ul>
+<figure><img src="img/cap03-luz-optica/refraccion-aire-agua.svg" alt="Un rayo pasa del aire al agua y se acerca a la normal; al lado, otro rayo pasa del vidrio al aire y se aleja de la normal; un tercer rayo llega perpendicular y no se desvía"><figcaption>Figura 5. Refracción: al entrar en un medio de mayor índice, la luz se acerca a la normal; al salir a uno de menor índice, se aleja. Diagrama propio.</figcaption></figure>
+
+<p>La relación exacta es la <strong>ley de Snell</strong>: <em>n</em><sub>1</sub> · sen θ<sub>1</sub> = <em>n</em><sub>2</sub> · sen θ<sub>2</sub>. Para la PAES basta con usarla de forma cualitativa: el lado con mayor <em>n</em> tiene el ángulo menor.</p>
+<p>Además, en la refracción:</p>
+<table>
+<thead>
+<tr>
+<th>Magnitud</th>
+<th>¿Cambia?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Frecuencia (y por lo tanto el color)</td>
+<td><strong>No</strong></td>
+</tr>
+<tr>
+<td>Rapidez</td>
+<td><strong>Sí</strong>: disminuye si <em>n</em> aumenta</td>
+</tr>
+<tr>
+<td>Longitud de onda</td>
+<td><strong>Sí</strong>, en la misma proporción que la rapidez</td>
+</tr>
+<tr>
+<td>Dirección</td>
+<td>Sí, salvo que la luz llegue perpendicular</td>
+</tr>
+</tbody>
+</table>
+<p>Y en toda frontera, <strong>parte de la luz se refleja</strong> y parte se refracta: por eso ves tu reflejo en una ventana y a la vez ves a través de ella.</p>
+<h3 id="c-efectos-cotidianos-de-la-refraccion">c. Efectos cotidianos de la refracción</h3>
+<ul>
+<li><strong>Profundidad aparente.</strong> El fondo de una piscina parece más cerca de lo que está. La luz que sale del agua al aire se aleja de la normal, y el ojo prolonga los rayos en línea recta hasta un punto más alto. Mirando en vertical, la profundidad aparente es la real dividida por 1,33: una piscina de 2 m parece de 1,5 m.</li>
+<li><strong>La bombilla quebrada.</strong> La parte sumergida de una bombilla parece desplazada por la misma razón.</li>
+<li><strong>Los espejismos.</strong> En un día caluroso, el aire junto al asfalto está más caliente y tiene un índice algo menor que el aire de arriba. La luz del cielo que baja hacia el camino se va curvando hacia arriba y llega al ojo como si viniera del suelo: parece que hay agua en la carretera.</li>
+<li><strong>El Sol en el horizonte.</strong> La atmósfera refracta la luz del Sol, de modo que al atardecer lo seguimos viendo unos minutos después de que geométricamente ya se ocultó.</li>
+</ul>
+<h3 id="d-reflexion-total-interna">d. Reflexión total interna</h3>
+<p>Cuando la luz va de un medio de <strong>mayor</strong> índice a uno de <strong>menor</strong> índice (del agua al aire, del vidrio al aire), se aleja de la normal. Si se aumenta el ángulo de incidencia, el rayo refractado se acerca cada vez más a la superficie, hasta que, para un cierto <strong>ángulo límite</strong> o <strong>crítico</strong>, sale rasante (a 90°). Con ángulos <strong>mayores</strong> que el límite, la luz <strong>ya no sale</strong>: se refleja completa hacia adentro. Es la <strong>reflexión total interna</strong>.</p>
+<figure><img src="img/cap03-luz-optica/reflexion-total-interna.svg" alt="Tres rayos salen de una fuente bajo el agua hacia la superficie con ángulos crecientes: el primero sale refractado alejándose de la normal, el segundo sale rasante a 90 grados con el ángulo límite y el tercero se refleja completo hacia el agua. A la derecha, una fibra óptica con un rayo que rebota en sus paredes"><figcaption>Figura 6. Por encima del ángulo límite, la luz se refleja por completo. Así viaja la luz por una fibra óptica. Diagrama propio.</figcaption></figure>
+
+<p>Condiciones para que ocurra: <strong>(1)</strong> la luz debe ir hacia un medio de <strong>menor</strong> índice, y <strong>(2)</strong> el ángulo de incidencia debe <strong>superar el ángulo límite</strong>. Si falta una de las dos, no hay reflexión total.</p>
+<table>
+<thead>
+<tr>
+<th>Frontera</th>
+<th>Ángulo límite aproximado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agua → aire</td>
+<td>49°</td>
+</tr>
+<tr>
+<td>Vidrio → aire</td>
+<td>42°</td>
+</tr>
+<tr>
+<td>Diamante → aire</td>
+<td>24°</td>
+</tr>
+</tbody>
+</table>
+<p>Aplicaciones:</p>
+<ul>
+<li><strong>Fibra óptica.</strong> Un hilo de vidrio muy puro, recubierto por otro vidrio de menor índice. La luz entra por un extremo y rebota en las paredes por reflexión total, sin escaparse, a lo largo de kilómetros. Transporta internet y telefonía con pulsos de luz infrarroja, y en medicina se usa en los endoscopios para ver el interior del cuerpo.</li>
+<li><strong>Prismas de los prismáticos.</strong> Un prisma de vidrio con ángulos de 45° refleja la luz por completo, mejor que un espejo metálico (sección 8).</li>
+<li><strong>El brillo del diamante.</strong> Su ángulo límite es tan pequeño que la luz que entra rebota muchas veces adentro antes de salir.</li>
+</ul>
+<div class="ejemplo">
+<p><strong>¿Sale o no sale?</strong> Un buzo apunta una linterna hacia la superficie del agua. En el primer intento el haz llega a la superficie con un ángulo de 30° respecto de la normal; en el segundo, con 60°. El ángulo límite agua–aire es de unos 49°.</p>
+<ul>
+<li>Con <strong>30°</strong> (menor que 49°), la luz <strong>sale</strong> al aire, alejándose de la normal, y una parte se refleja.</li>
+<li>Con <strong>60°</strong> (mayor que 49°), la luz <strong>no sale</strong>: se refleja completa y vuelve al agua.</li>
+</ul>
+<p>Si en cambio alguien desde el bote apunta la linterna hacia el agua, la luz <strong>siempre</strong> entra, con cualquier ángulo: va hacia un medio de mayor índice, y ahí nunca hay reflexión total.</p>
+</div>
+<h2 id="6-lentes">6. Lentes</h2>
+<h3 id="a-que-es-una-lente-y-que-tipos-hay">a. Qué es una lente y qué tipos hay</h3>
+<p>Una <strong>lente</strong> es un cuerpo transparente, normalmente de vidrio o plástico, limitado por dos superficies de las cuales al menos una es curva. La luz se <strong>refracta dos veces</strong>, al entrar y al salir, y cambia de dirección. Según su forma, hay dos grandes tipos:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Lente convergente</th>
+<th>Lente divergente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Forma</td>
+<td><strong>Más gruesa en el centro</strong> que en los bordes (biconvexa, planoconvexa)</td>
+<td><strong>Más delgada en el centro</strong> que en los bordes (bicóncava, planocóncava)</td>
+</tr>
+<tr>
+<td>Qué hace con rayos paralelos</td>
+<td>Los junta en un <strong>foco real</strong>, al otro lado</td>
+<td>Los separa; parecen salir de un <strong>foco virtual</strong>, del mismo lado</td>
+</tr>
+<tr>
+<td>Distancia focal</td>
+<td>Positiva</td>
+<td>Negativa</td>
+</tr>
+<tr>
+<td>Ejemplos</td>
+<td>Lupa, lente de cámara, cristalino del ojo, lentes para hipermetropía</td>
+<td>Mirilla de puerta, lentes para miopía</td>
+</tr>
+</tbody>
+</table>
+<p>Una lente tiene <strong>dos focos</strong>, uno a cada lado y a la misma distancia <em>f</em> del <strong>centro óptico</strong> (el centro de la lente). La distancia 2<em>f</em> se usa como referencia, igual que el centro de curvatura en los espejos.</p>
+<div class="tip">
+<p><strong>La lupa y el vaso con agua.</strong> Una lupa concentra la luz del Sol en un punto que puede quemar un papel: ese punto es su foco. Si pones la lupa a esa distancia del papel, estás midiendo su distancia focal. Una lente divergente nunca puede hacer eso, porque separa los rayos.</p>
+</div>
+<h3 id="b-los-rayos-notables-2">b. Los rayos notables</h3>
+<ol>
+<li>Un rayo que llega <strong>paralelo al eje</strong> sale <strong>pasando por el foco</strong> del otro lado (en la divergente, alejándose como si viniera del foco del mismo lado).</li>
+<li>Un rayo que pasa <strong>por el centro óptico</strong> sigue <strong>sin desviarse</strong>.</li>
+<li>Un rayo que pasa <strong>por el foco</strong> del lado del objeto sale <strong>paralelo al eje</strong>.</li>
+</ol>
+<figure><img src="img/cap03-luz-optica/lente-convergente-imagen.svg" alt="Lente convergente con sus focos F y los puntos 2F a cada lado. Un objeto más allá de 2F y dos rayos notables: uno paralelo que se refracta por el foco y otro que pasa por el centro sin desviarse. Se cruzan entre F y 2F al otro lado formando una imagen real, invertida y más pequeña"><figcaption>Figura 7. Imagen en una lente convergente con el objeto más allá de 2F: así forma la imagen una cámara fotográfica y el ojo humano. Diagrama propio.</figcaption></figure>
+
+<h3 id="c-las-imagenes-de-una-lente-convergente">c. Las imágenes de una lente convergente</h3>
+<p>La tabla es paralela a la del espejo cóncavo, cambiando C por 2F y con la imagen real <strong>al otro lado</strong> de la lente:</p>
+<table>
+<thead>
+<tr>
+<th>Posición del objeto</th>
+<th>Imagen</th>
+<th>Ubicación de la imagen</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Más allá de 2F</td>
+<td>Real, invertida, <strong>menor</strong></td>
+<td>Entre F y 2F, al otro lado</td>
+<td>Cámara fotográfica, ojo</td>
+</tr>
+<tr>
+<td>En 2F</td>
+<td>Real, invertida, <strong>igual</strong> tamaño</td>
+<td>En 2F, al otro lado</td>
+<td>Fotocopiadora a escala 1:1</td>
+</tr>
+<tr>
+<td>Entre 2F y F</td>
+<td>Real, invertida, <strong>mayor</strong></td>
+<td>Más allá de 2F, al otro lado</td>
+<td>Proyector</td>
+</tr>
+<tr>
+<td>En F</td>
+<td><strong>No se forma</strong> (los rayos salen paralelos)</td>
+<td>—</td>
+<td>Faro, colimador</td>
+</tr>
+<tr>
+<td>Entre F y la lente</td>
+<td><strong>Virtual, derecha, mayor</strong></td>
+<td>Del mismo lado que el objeto</td>
+<td><strong>Lupa</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Una <strong>lente divergente</strong>, en cambio, siempre forma una imagen <strong>virtual, derecha y menor</strong>, del mismo lado del objeto.</p>
+<p>La ecuación es la misma que la de los espejos: 1/<em>f</em> = 1/<em>p</em> + 1/<em>q</em>, con <em>q</em> positiva para imágenes reales (al otro lado de la lente).</p>
+<div class="tip">
+<p><strong>¿Qué pasa si tapas media lente?</strong> Mucha gente cree que desaparece media imagen. No es así: <strong>cada punto</strong> de la lente recibe luz de <strong>todo</strong> el objeto, así que la otra mitad sigue formando la imagen completa. Lo que cambia es que llega la mitad de la luz: la imagen se ve <strong>completa pero más tenue</strong>.</p>
+</div>
+<h3 id="d-la-potencia-de-una-lente">d. La potencia de una lente</h3>
+<p>Los ópticos no hablan de distancia focal sino de <strong>potencia</strong> (<em>P</em>), que es su inverso con <em>f</em> en metros:</p>
+<p style="text-align:center"><strong><em>P</em> = 1 / <em>f</em></strong> &nbsp;&nbsp; (unidad: dioptría, D = 1/m)</p>
+
+<p>Una lente convergente de <em>f</em> = 0,5 m tiene +2 D; una divergente de <em>f</em> = −0,25 m tiene −4 D. En una receta médica, los números <strong>negativos</strong> corresponden a lentes <strong>divergentes</strong> (miopía) y los <strong>positivos</strong> a lentes <strong>convergentes</strong> (hipermetropía y presbicia). Una lente más curva desvía más la luz, tiene menor distancia focal y más dioptrías.</p>
+<h3 id="e-el-ojo-humano-una-lente-viva">e. El ojo humano, una lente viva</h3>
+<p>El ojo funciona como una cámara: la <strong>córnea</strong> y el <strong>cristalino</strong> forman un sistema <strong>convergente</strong> que proyecta sobre la <strong>retina</strong> una imagen <strong>real, invertida y menor</strong> de lo que miramos. El cerebro se encarga de «darla vuelta».</p>
+<p>Para enfocar objetos a distintas distancias, el ojo no mueve la lente como una cámara: los músculos ciliares <strong>cambian la curvatura del cristalino</strong>. Esta capacidad se llama <strong>acomodación</strong>. Un ojo sano enfoca desde unos 25 cm (punto cercano) hasta el infinito.</p>
+<figure><img src="img/cap03-luz-optica/ojo-miopia-hipermetropia.svg" alt="Tres ojos esquemáticos: en el miope los rayos paralelos se enfocan delante de la retina, en el hipermétrope se enfocarían detrás y en el ojo normal o corregido se enfocan sobre la retina"><figcaption>Figura 8. En la miopía la imagen se forma delante de la retina y se corrige con una lente divergente; en la hipermetropía se formaría detrás y se corrige con una lente convergente. Diagrama propio.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th>Defecto</th>
+<th>Qué pasa</th>
+<th>Qué ve mal</th>
+<th>Corrección</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Miopía</strong></td>
+<td>El ojo es muy largo o converge demasiado: la imagen se forma <strong>delante</strong> de la retina</td>
+<td>De lejos</td>
+<td>Lente <strong>divergente</strong> (dioptrías negativas)</td>
+</tr>
+<tr>
+<td><strong>Hipermetropía</strong></td>
+<td>El ojo es muy corto o converge poco: la imagen se formaría <strong>detrás</strong> de la retina</td>
+<td>De cerca</td>
+<td>Lente <strong>convergente</strong> (dioptrías positivas)</td>
+</tr>
+<tr>
+<td><strong>Presbicia</strong></td>
+<td>Con la edad el cristalino pierde flexibilidad y acomoda menos</td>
+<td>De cerca</td>
+<td>Lente <strong>convergente</strong> para leer</td>
+</tr>
+<tr>
+<td><strong>Astigmatismo</strong></td>
+<td>La córnea tiene distinta curvatura en distintas direcciones</td>
+<td>Imagen distorsionada</td>
+<td>Lente cilíndrica</td>
+</tr>
+</tbody>
+</table>
+<div class="ejemplo">
+<p><strong>Razonar la corrección.</strong> El ojo de un miope forma la imagen de un objeto lejano delante de la retina: converge <strong>demasiado</strong>. Para corregirlo hay que <strong>quitarle</strong> convergencia, y eso lo hace una lente <strong>divergente</strong>, que abre un poco los rayos antes de que entren al ojo. Así el punto de enfoque retrocede hasta la retina. El razonamiento para la hipermetropía es el opuesto. La PAES suele preguntar así: te describe dónde se forma la imagen y te pide qué tipo de lente corrige el problema.</p>
+</div>
+<h2 id="7-el-color-y-la-dispersion">7. El color y la dispersión</h2>
+<h3 id="a-la-luz-blanca-es-una-mezcla">a. La luz blanca es una mezcla</h3>
+<p>En 1666, <strong>Newton</strong> hizo pasar un haz de luz del Sol por un <strong>prisma</strong> de vidrio y obtuvo en la pared una franja de colores: rojo, naranjo, amarillo, verde, azul, añil y violeta. Muchos pensaban entonces que el prisma «teñía» la luz. Newton hizo la prueba decisiva: aisló un solo color, por ejemplo el rojo, y lo pasó por un <strong>segundo prisma</strong>. El rojo se desvió, pero <strong>siguió siendo rojo</strong>: el prisma no creaba colores. Y al juntar todos los colores con una lente, obtuvo de nuevo luz blanca. La conclusión: <strong>la luz blanca es una mezcla de todos los colores</strong>, y el prisma solo los separa.</p>
+<div class="nota">
+<p><strong>Por qué es un buen experimento.</strong> Newton no se conformó con ver los colores: diseñó una prueba en la que las dos hipótesis predecían cosas distintas. Si el prisma creara los colores, el segundo prisma debería cambiar otra vez el color del haz rojo. No lo cambió. Este tipo de razonamiento —qué resultado esperaría cada hipótesis— es el que la PAES pide en la habilidad <em>Observar y plantear preguntas</em>.</p>
+</div>
+<h3 id="b-que-es-la-dispersion">b. Qué es la dispersión</h3>
+<p>El prisma separa los colores porque el <strong>índice de refracción del vidrio depende de la longitud de onda</strong>: es un poco mayor para el violeta que para el rojo. El violeta se frena más dentro del vidrio y <strong>se desvía más</strong>; el rojo se desvía menos. A esto se le llama <strong>dispersión</strong>.</p>
+<figure><img src="img/cap03-luz-optica/prisma-dispersion.svg" alt="Un haz de luz blanca entra en un prisma triangular, se refracta dos veces y sale abierto en un abanico de colores, con el rojo desviado menos y el violeta desviado más"><figcaption>Figura 9. Dispersión en un prisma: el violeta se desvía más que el rojo. Diagrama propio.</figcaption></figure>
+
+<table>
+<thead>
+<tr>
+<th>Color</th>
+<th>Longitud de onda aproximada</th>
+<th>Índice en un vidrio típico</th>
+<th>Desviación en el prisma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rojo</td>
+<td>≈ 700 nm</td>
+<td>Menor (≈ 1,51)</td>
+<td>La menor</td>
+</tr>
+<tr>
+<td>Verde</td>
+<td>≈ 530 nm</td>
+<td>Intermedio</td>
+<td>Intermedia</td>
+</tr>
+<tr>
+<td>Violeta</td>
+<td>≈ 400 nm</td>
+<td>Mayor (≈ 1,53)</td>
+<td>La mayor</td>
+</tr>
+</tbody>
+</table>
+<div class="tip">
+<p><strong>Qué se conserva y qué no.</strong> Cada color mantiene su <strong>frecuencia</strong> al entrar al vidrio (capítulo 1): por eso sigue siendo del mismo color. Lo que cambia es su rapidez, y como cambia un poco distinto para cada color, cada uno toma un camino distinto. En el vacío no hay dispersión, porque todos los colores viajan exactamente a <em>c</em>.</p>
+</div>
+<h3 id="c-el-arcoiris">c. El arcoíris</h3>
+<p>Un arcoíris es dispersión en gotas de lluvia. La luz del Sol <strong>se refracta</strong> al entrar en la gota, <strong>se refleja</strong> en su pared interior y <strong>se refracta</strong> otra vez al salir. Como el agua desvía distinto cada color, los colores salen en direcciones algo distintas: el rojo, a unos <strong>42°</strong> respecto de la dirección opuesta al Sol, y el violeta, a unos <strong>40°</strong>.</p>
+<p>Consecuencias que se pueden preguntar:</p>
+<ul>
+<li>Solo se ve arcoíris con el <strong>Sol a la espalda</strong> y la lluvia al frente.</li>
+<li>El <strong>rojo</strong> queda en la parte <strong>exterior</strong> del arco y el <strong>violeta</strong> en la interior.</li>
+<li>Cada persona ve <strong>su propio</strong> arcoíris, formado por gotas distintas: por eso nunca se llega a él.</li>
+<li>A veces aparece un arco secundario, más tenue y con los colores <strong>invertidos</strong>, por luz que se reflejó dos veces dentro de las gotas.</li>
+</ul>
+<h3 id="d-el-color-de-los-objetos">d. El color de los objetos</h3>
+<p>Un objeto no tiene color «en sí mismo»: <strong>refleja algunos colores y absorbe los demás</strong>, y lo que vemos es la luz que refleja.</p>
+<ul>
+<li>Un tomate se ve <strong>rojo</strong> porque refleja sobre todo el rojo y absorbe el resto.</li>
+<li>Una hoja se ve <strong>verde</strong> porque refleja el verde y absorbe el rojo y el azul (que usa para la fotosíntesis).</li>
+<li>Un objeto <strong>blanco</strong> refleja todos los colores; uno <strong>negro</strong> los absorbe casi todos. Por eso la ropa negra se calienta más al sol.</li>
+</ul>
+<p>Consecuencia importante: el color que vemos <strong>depende también de la luz que ilumina</strong>. Un tomate iluminado solo con luz <strong>verde</strong> se ve <strong>negro</strong>: absorbe el verde y no hay rojo que pueda reflejar. Por eso la ropa se ve distinta bajo la luz amarilla de algunos focos de la calle.</p>
+<p>Un <strong>filtro</strong> de color funciona igual, pero por transmisión: un filtro rojo deja pasar el rojo y absorbe los demás. Si se mira a través de él un objeto azul, se ve negro.</p>
+<h3 id="e-mezclar-luces-y-mezclar-pinturas">e. Mezclar luces y mezclar pinturas</h3>
+<p>Hay dos formas de mezclar colores, y dan resultados opuestos:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Mezcla <strong>aditiva</strong> (luces)</th>
+<th>Mezcla <strong>sustractiva</strong> (pigmentos y filtros)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qué se hace</td>
+<td>Se <strong>suman</strong> luces de colores sobre una pantalla o en el ojo</td>
+<td>Cada pigmento <strong>resta</strong> (absorbe) una parte de la luz blanca</td>
+</tr>
+<tr>
+<td>Colores primarios</td>
+<td><strong>Rojo, verde y azul</strong> (RGB)</td>
+<td><strong>Cian, magenta y amarillo</strong> (CMY)</td>
+</tr>
+<tr>
+<td>Los tres primarios juntos</td>
+<td><strong>Blanco</strong></td>
+<td>Casi <strong>negro</strong></td>
+</tr>
+<tr>
+<td>Ejemplos de mezcla</td>
+<td>Rojo + verde = amarillo; rojo + azul = magenta; verde + azul = cian</td>
+<td>Cian + amarillo = verde; magenta + amarillo = rojo</td>
+</tr>
+<tr>
+<td>Dónde se usa</td>
+<td>Pantallas de celular, televisor y proyectores</td>
+<td>Impresoras (CMYK, con K = negro), pinturas</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="img/cap03-luz-optica/mezcla-aditiva-sustractiva.svg" alt="Izquierda: tres círculos de luz roja, verde y azul que se superponen formando amarillo, cian, magenta y blanco al centro. Derecha: tres círculos de pigmento cian, magenta y amarillo que se superponen formando rojo, verde, azul y negro al centro"><figcaption>Figura 10. Mezcla aditiva de luces (izquierda) y sustractiva de pigmentos (derecha). Diagrama propio.</figcaption></figure>
+
+<p>Si miras con una lupa la pantalla de un celular que muestra un fondo blanco, verás pequeños puntos rojos, verdes y azules encendidos a la vez: el ojo los suma y percibe blanco.</p>
+<h3 id="f-por-que-el-cielo-es-azul-y-el-atardecer-rojo">f. Por qué el cielo es azul y el atardecer rojo</h3>
+<p>Las moléculas del aire (nitrógeno y oxígeno) <strong>dispersan</strong> la luz del Sol en todas direcciones, y lo hacen mucho más con las longitudes de onda <strong>cortas</strong> (azul, violeta) que con las largas (rojo). A esto se le llama <strong>dispersión de Rayleigh</strong> (aquí «dispersión» significa desviar en todas direcciones, no separar colores como el prisma).</p>
+<ul>
+<li>De día, la luz azul dispersada nos llega <strong>desde todo el cielo</strong>: por eso se ve azul. No se ve violeta, en parte porque el Sol emite menos violeta y el ojo es menos sensible a él.</li>
+<li>Al atardecer, la luz del Sol atraviesa <strong>mucha más atmósfera</strong> para llegar a nosotros. En el camino pierde casi todo el azul, que se dispersa hacia otros lados, y llega sobre todo la luz <strong>roja y anaranjada</strong>.</li>
+<li>En la Luna, sin atmósfera, el cielo es negro aunque sea de día.</li>
+</ul>
+<h2 id="8-instrumentos-y-dispositivos-opticos">8. Instrumentos y dispositivos ópticos</h2>
+<p>El temario pide comprender el <strong>funcionamiento y la utilidad</strong> de varios dispositivos. Todos combinan las piezas de este capítulo: espejos, lentes, prismas y reflexión total. La clave para entender cualquiera es preguntarse <strong>qué pieza forma la primera imagen y qué pieza la amplía o la desvía</strong>.</p>
+<h3 id="a-la-lupa-y-el-microscopio">a. La lupa y el microscopio</h3>
+<ul>
+<li>La <strong>lupa</strong> es una lente <strong>convergente</strong>. El objeto se pone <strong>entre el foco y la lente</strong>, y se ve una imagen <strong>virtual, derecha y mayor</strong> (sección 6).</li>
+<li>El <strong>microscopio</strong> usa <strong>dos lentes convergentes</strong>. El <strong>objetivo</strong>, de distancia focal muy corta, forma una imagen <strong>real, invertida y mayor</strong> del objeto, que está apenas más allá de su foco. El <strong>ocular</strong> actúa como una lupa y amplía esa primera imagen. El aumento total es el <strong>producto</strong> de los dos: un objetivo de 40× con un ocular de 10× da 400×.</li>
+</ul>
+<h3 id="b-telescopios-refractores-y-reflectores">b. Telescopios refractores y reflectores</h3>
+<p>Un telescopio junta la luz de objetos lejanos y forma de ellos una imagen que luego se amplía con un ocular. Hay dos tipos, según la pieza que recoge la luz:</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Telescopio <strong>refractor</strong></th>
+<th>Telescopio <strong>reflector</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qué recoge la luz</td>
+<td>Una <strong>lente convergente</strong> grande (objetivo)</td>
+<td>Un <strong>espejo cóncavo</strong> grande (espejo primario)</td>
+</tr>
+<tr>
+<td>Fenómeno principal</td>
+<td>Refracción</td>
+<td>Reflexión</td>
+</tr>
+<tr>
+<td>Primer constructor</td>
+<td>Galileo (1609) apuntó uno al cielo</td>
+<td>Newton (1668)</td>
+</tr>
+<tr>
+<td>Ventajas</td>
+<td>Tubo cerrado, poco mantenimiento</td>
+<td>Sin aberración cromática; el espejo se sostiene por detrás; más barato en tamaños grandes</td>
+</tr>
+<tr>
+<td>Limitaciones</td>
+<td>Las lentes grandes pesan, se deforman y separan los colores (aberración cromática)</td>
+<td>El espejo necesita realuminizarse y alinearse</td>
+</tr>
+<tr>
+<td>El más grande</td>
+<td>Yerkes (EE. UU.), 1,02 m, de 1897</td>
+<td>Varios de 8 a 10 m; el ELT, en construcción en Chile, tendrá 39 m</td>
+</tr>
+</tbody>
+</table>
+<figure><img src="img/cap03-luz-optica/telescopios.svg" alt="Arriba, un telescopio refractor: una lente objetivo grande enfoca rayos paralelos en un foco y un ocular los amplía. Abajo, un telescopio reflector newtoniano: un espejo cóncavo al fondo del tubo concentra los rayos, un espejo plano inclinado los desvía hacia el costado y un ocular los amplía"><figcaption>Figura 11. Telescopio refractor (arriba) y reflector newtoniano (abajo). Diagrama propio.</figcaption></figure>
+
+<p>¿Por qué todos los grandes telescopios modernos son reflectores? Porque el <strong>poder de captar luz</strong> depende del área del objetivo, y una lente de más de un metro sería tan pesada que se deformaría con su propio peso, solo puede sostenerse por el borde y además separa los colores. Un espejo, en cambio, puede sostenerse por detrás y hacerse de segmentos. Así se construyen los telescopios del norte de Chile: el <strong>VLT</strong> en Cerro Paranal, con cuatro espejos de 8,2 m; <strong>Gemini Sur</strong> y el <strong>Observatorio Vera C. Rubin</strong> en Cerro Pachón; y el <strong>ELT</strong> en Cerro Armazones, cuyo espejo de 39 m estará formado por 798 segmentos hexagonales.</p>
+<p><strong>Radiotelescopios.</strong> Funcionan como un telescopio reflector, pero para <strong>ondas de radio</strong>: una antena parabólica refleja las ondas hacia un receptor ubicado en su foco. Como las longitudes de onda de radio son mucho mayores que las de la luz, necesitan antenas enormes o muchas antenas combinadas. <strong>ALMA</strong>, en el llano de Chajnantor (a 5 000 m de altura, región de Antofagasta), usa 66 antenas que trabajan como un solo instrumento y observan longitudes de onda milimétricas y submilimétricas.</p>
+<h3 id="c-los-prismaticos">c. Los prismáticos</h3>
+<p>Unos prismáticos son, en esencia, <strong>dos telescopios refractores pequeños</strong>, uno por ojo. Un telescopio refractor simple entrega la imagen <strong>invertida</strong>, lo que da igual al mirar estrellas pero no al mirar un paisaje. Los prismáticos lo resuelven con <strong>dos prismas</strong> en cada tubo que reflejan la luz por <strong>reflexión total interna</strong> (sección 5): enderezan la imagen y, al hacer que la luz vaya y vuelva, acortan el largo del instrumento.</p>
+<div class="tip">
+<p><strong>Por qué prismas y no espejos.</strong> La reflexión total interna refleja prácticamente el 100 % de la luz, sin capa metálica que se oxide. Un espejo común absorbe una parte en cada reflexión. Si una pregunta te pregunta qué fenómeno permite el funcionamiento de los prismas de unos prismáticos, la respuesta es la reflexión total interna, no la dispersión.</p>
+</div>
+<h3 id="d-la-camara-fotografica">d. La cámara fotográfica</h3>
+<p>Una cámara funciona como el ojo y como la cámara oscura. Su <strong>lente convergente</strong> forma en el sensor una imagen <strong>real, invertida y menor</strong> de un objeto lejano (objeto más allá de 2F). Para enfocar objetos a distinta distancia, la cámara <strong>mueve la lente</strong>, acercándola o alejándola del sensor; el ojo, en cambio, cambia la curvatura del cristalino.</p>
+<h3 id="e-la-fibra-optica">e. La fibra óptica</h3>
+<p>Una fibra óptica guía la luz por <strong>reflexión total interna</strong>: la luz rebota en la frontera entre el núcleo de vidrio y un recubrimiento de menor índice, y no se escapa aunque la fibra se curve. Los datos viajan como pulsos de luz, normalmente infrarroja, con muy pocas pérdidas y sin interferencias eléctricas. En Chile, el proyecto <strong>Fibra Óptica Austral</strong> tendió un cable submarino de unos 3 000 km entre Puerto Montt y Puerto Williams para llevar internet de alta velocidad al extremo sur. En medicina, los <strong>endoscopios</strong> usan haces de fibras para llevar luz al interior del cuerpo y traer de vuelta la imagen.</p>
+<h3 id="f-el-rayo-laser">f. El rayo láser</h3>
+<p>La palabra <strong>láser</strong> es una sigla en inglés que significa amplificación de luz por emisión estimulada de radiación. Su luz se distingue de la de una ampolleta en tres propiedades:</p>
+<table>
+<thead>
+<tr>
+<th>Propiedad</th>
+<th>Luz láser</th>
+<th>Luz de una ampolleta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Monocromática</strong></td>
+<td>Una sola longitud de onda (un solo color)</td>
+<td>Mezcla de muchas longitudes de onda</td>
+</tr>
+<tr>
+<td><strong>Coherente</strong></td>
+<td>Todas las ondas en fase</td>
+<td>Ondas desfasadas al azar</td>
+</tr>
+<tr>
+<td><strong>Direccional</strong></td>
+<td>El haz casi no se abre, aun a grandes distancias</td>
+<td>Se abre en todas direcciones</td>
+</tr>
+</tbody>
+</table>
+<p>Gracias a esas propiedades, el láser concentra mucha energía en un punto pequeño. Se usa en lectores de códigos de barra, en cirugía ocular (para corregir miopía remodelando la córnea), en punteros, en la transmisión por fibra óptica, en cortes industriales y para medir distancias con enorme precisión, como la distancia a la Luna usando los reflectores que dejaron allí las misiones Apolo.</p>
+<div class="ejemplo">
+<p><strong>Evaluar una elección tecnológica.</strong> Un observatorio decide construir un telescopio reflector de 8 m en vez de un refractor del mismo diámetro. ¿Qué argumento físico apoya esa decisión?</p>
+<ul>
+<li>Una lente de 8 m debería sostenerse solo por el borde y se deformaría con su peso; un espejo se sostiene por toda su cara posterior.</li>
+<li>La lente separaría los colores por <strong>dispersión</strong> (aberración cromática); el espejo refleja todos los colores con el mismo ángulo, porque la ley de la reflexión no depende de la longitud de onda.</li>
+</ul>
+<p>Ambos argumentos vienen del capítulo: el primero es mecánico, el segundo sale de comparar reflexión y refracción. Nota que «el espejo capta más luz» <strong>no</strong> es un buen argumento aquí: con el mismo diámetro, ambos captan la misma cantidad de luz.</p>
+</div>
+<h2 id="ejemplos-paes-resueltos">Ejemplos PAES resueltos</h2>
+<p>Cuatro ítems al estilo de la prueba, resueltos paso a paso. Cúbrelos primero y después compara.</p>
+<div class="ejemplo">
+<p><strong>Ejemplo 1 (Procesar y analizar la evidencia).</strong> En un laboratorio, un grupo de estudiantes hace llegar un rayo láser desde el aire a la cara plana de un bloque semicircular de acrílico, variando el ángulo de incidencia. Miden el ángulo de refracción dentro del bloque:</p>
+<table>
+<thead>
+<tr>
+<th>Ángulo de incidencia en el aire</th>
+<th>Ángulo de refracción en el acrílico</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0°</td>
+<td>0°</td>
+</tr>
+<tr>
+<td>20°</td>
+<td>13°</td>
+</tr>
+<tr>
+<td>40°</td>
+<td>25°</td>
+</tr>
+<tr>
+<td>60°</td>
+<td>35°</td>
+</tr>
+</tbody>
+</table>
+<p>¿Cuál de las siguientes conclusiones es coherente con estos datos?</p>
+<p>A) La luz viaja más rápido en el acrílico que en el aire.
+B) El rayo refractado se aleja de la normal al entrar en el acrílico.
+C) El ángulo de refracción es siempre la mitad del ángulo de incidencia.
+D) El acrílico tiene un índice de refracción mayor que el del aire.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué muestran los datos.</strong> Para cada ángulo de incidencia distinto de cero, el ángulo de refracción es <strong>menor</strong>: el rayo <strong>se acerca</strong> a la normal. Eso descarta B.</li>
+<li><strong>Qué significa acercarse a la normal.</strong> Ocurre cuando la luz pasa a un medio donde viaja <strong>más lento</strong>, es decir, de <strong>mayor índice</strong> de refracción. Por eso D es correcta y A dice lo contrario.</li>
+<li><strong>Revisar C.</strong> 13° no es la mitad de 20°, ni 35° la mitad de 60°: la relación no es proporcional (es la ley de Snell, con senos). C es un error de generalizar a partir de un solo dato.</li>
+</ol>
+<p><strong>Clave: D.</strong></p>
+<p><strong>Lo que evalúa.</strong> Que pases de un patrón en una tabla (ángulo refractado menor) a una conclusión sobre el modelo (índice mayor, rapidez menor), sin inventar una relación numérica que los datos no sostienen.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 2 (Planificar y conducir una investigación).</strong> Una estudiante quiere comprobar que la distancia a la que se forma la imagen real de una lente convergente depende de la distancia a la que pone el objeto. Tiene una vela, una lente de distancia focal conocida, una pantalla blanca y una huincha.</p>
+<p>¿Cuál de los siguientes procedimientos le permite responder su pregunta?</p>
+<p>A) Poner la vela a distintas distancias de la lente, siempre más allá del foco, y en cada caso mover la pantalla hasta ver la imagen nítida y medir su distancia a la lente.
+B) Poner la vela siempre a la misma distancia y probar lentes de distinta distancia focal, midiendo en cada caso el tamaño de la imagen en la pantalla.
+C) Poner la vela a distintas distancias de la lente, siempre entre el foco y la lente, y en cada caso buscar la imagen en la pantalla.
+D) Dejar fija la pantalla y mover la lente hasta que la imagen se vea nítida, midiendo solo la altura de la llama.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Variables.</strong> Independiente: la distancia del objeto a la lente. Dependiente: la distancia de la imagen a la lente. Controlada: la lente (misma distancia focal).</li>
+<li><strong>Descartar.</strong> B cambia la lente, que es otra variable, y mide el tamaño en vez de la distancia. C pone el objeto <strong>dentro</strong> del foco, donde la lente da una imagen <strong>virtual</strong>, que no se puede proyectar en la pantalla. D no varía de forma controlada la distancia del objeto y mide una variable que no es la de la pregunta.</li>
+<li><strong>A</strong> varía la variable independiente, mide la dependiente con el instrumento adecuado y usa la pantalla correctamente: solo las imágenes reales se proyectan.</li>
+</ol>
+<p><strong>Clave: A.</strong></p>
+<p><strong>Lo que evalúa.</strong> Que asocies las variables con el procedimiento y que uses un conocimiento de óptica (la imagen virtual no se proyecta) para descartar un diseño que no funcionaría.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 3 (Evaluar).</strong> Un fabricante afirma que sus prismáticos entregan imágenes más luminosas porque usan prismas en lugar de espejos metálicos para desviar la luz dentro de los tubos.</p>
+<p>¿Cuál de las siguientes afirmaciones evalúa correctamente esa justificación?</p>
+<p>A) Es incorrecta, porque los prismas separan la luz en colores y eso siempre hace más oscura la imagen.
+B) Es correcta, porque dentro del prisma la luz se refleja por reflexión total interna, que no pierde luz como un espejo metálico.
+C) Es incorrecta, porque la luz solo puede reflejarse en superficies metálicas pulidas.
+D) Es correcta, porque el vidrio del prisma aumenta la frecuencia de la luz y la hace más intensa.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué fenómeno ocurre en el prisma.</strong> La luz llega a la cara interna del prisma con 45°, un ángulo mayor que el límite del vidrio (≈ 42°), y se refleja <strong>por completo</strong>: reflexión total interna. Un espejo metálico absorbe una parte de la luz en cada reflexión.</li>
+<li><strong>Descartar.</strong> A confunde el uso del prisma: en los prismáticos la luz entra y sale por caras perpendiculares, así que no se dispersa apreciablemente. C es falsa: el vidrio, el agua y muchas superficies reflejan luz. D es falsa: la frecuencia <strong>no cambia</strong> al pasar de un medio a otro.</li>
+</ol>
+<p><strong>Clave: B.</strong></p>
+<p><strong>Lo que evalúa.</strong> Que juzgues una afirmación tecnológica con el modelo físico correcto.</p>
+</div>
+<div class="ejemplo">
+<p><strong>Ejemplo 4 (Observar y plantear preguntas).</strong> Un grupo ilumina una camiseta con distintas luces en una sala oscura. Con luz blanca la camiseta se ve roja; con luz roja se ve roja; con luz verde se ve negra; con luz azul se ve negra.</p>
+<p>¿Cuál de las siguientes hipótesis explica mejor estas observaciones?</p>
+<p>A) La camiseta emite luz roja propia cuando se ilumina con cualquier luz.
+B) La camiseta refleja principalmente la luz roja y absorbe la verde y la azul.
+C) La camiseta transforma la luz verde y azul en luz roja antes de reflejarla.
+D) La camiseta refleja la luz verde y azul, pero el ojo no puede percibirlas.</p>
+<p><strong>Desarrollo.</strong></p>
+<ol>
+<li><strong>Qué patrón hay.</strong> La camiseta solo se ve de color cuando la luz que la ilumina contiene <strong>rojo</strong> (luz blanca o roja). Sin rojo, se ve negra: no refleja nada que llegue al ojo.</li>
+<li><strong>Qué hipótesis lo explica.</strong> Reflexión <strong>selectiva</strong>: refleja el rojo y absorbe el resto (B).</li>
+<li><strong>Descartar.</strong> A: si emitiera luz roja propia, se vería roja también con luz verde y azul. C: si transformara esas luces en rojo, también se vería roja con ellas. D contradice que el ojo sí percibe el verde y el azul.</li>
+</ol>
+<p><strong>Clave: B.</strong></p>
+<p><strong>Lo que evalúa.</strong> Que identifiques la hipótesis que es coherente con <strong>todas</strong> las observaciones, y que descartes las que chocan con alguna de ellas.</p>
+</div>
+<h2 id="evaluacion-formativa">Evaluación formativa</h2>
+<p>Veinte preguntas sobre la propagación de la luz, la reflexión y los espejos, la refracción, las lentes, el color y los instrumentos ópticos. Responde todas y luego revisa las explicaciones.</p>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>1.</strong> Durante el día, una persona ve a través de una ventana de vidrio esmerilado que hay luz afuera, pero no distingue la forma de los árboles. ¿Cómo se clasifica ese vidrio?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Opaco, porque no deja pasar ninguna luz.</li>
+    <li data-letra="B">Translúcido, porque deja pasar luz difusa.</li>
+    <li data-letra="C">Transparente, porque deja pasar toda la luz.</li>
+    <li data-letra="D">Luminoso, porque emite su propia luz.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Un material translúcido deja pasar luz, pero la desvía en muchas direcciones, así que no se forman imágenes nítidas. Uno transparente permitiría ver los árboles; uno opaco no dejaría pasar la luz.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>2.</strong> Al iluminar una pelota con el tubo fluorescente largo de una sala, su sombra en el piso tiene un centro oscuro rodeado de una zona más clara. ¿Qué explica esa zona más clara?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Que la luz del tubo se refleja en la pelota y llega al piso.</li>
+    <li data-letra="B">Que la luz rodea la pelota por difracción y aclara la sombra.</li>
+    <li data-letra="C">Que la pelota es translúcida y deja pasar parte de la luz.</li>
+    <li data-letra="D">Que a esa zona llega luz de una parte del tubo, pero no de todo él.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>El tubo es una fuente extensa. En la sombra no llega luz de ningún punto del tubo; en la penumbra llega luz de una parte de él. Con una fuente puntual no habría penumbra.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>3.</strong> Un rayo de luz forma un ángulo de 25° con la superficie de un espejo plano. ¿Cuál es el ángulo de reflexión?</p>
+  <ol class="alternativas">
+    <li data-letra="A">65°</li>
+    <li data-letra="B">50°</li>
+    <li data-letra="C">25°</li>
+    <li data-letra="D">12,5°</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Los ángulos se miden desde la normal: el ángulo de incidencia es 90° − 25° = 65°, y el de reflexión es igual al de incidencia. Tomar 25° como ángulo de incidencia es el error más común.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>4.</strong> ¿Por qué podemos ver una hoja de papel desde cualquier lugar de una sala, pero no nos vemos reflejados en ella?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque el papel absorbe toda la luz que le llega.</li>
+    <li data-letra="B">Porque su superficie rugosa produce reflexión difusa.</li>
+    <li data-letra="C">Porque el papel no cumple la ley de la reflexión.</li>
+    <li data-letra="D">Porque el papel emite luz propia en todas direcciones.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>El papel es rugoso a escala microscópica: cada punto cumple la ley de la reflexión, pero con normales en direcciones distintas, así que la luz sale hacia todos lados (reflexión difusa) y no se forma imagen.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>5.</strong> Una niña está a 1,5 m de un espejo plano y camina hacia él a 0,5 m/s. ¿Con qué rapidez se acerca a su imagen?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,25 m/s</li>
+    <li data-letra="B">0,5 m/s</li>
+    <li data-letra="C">1,0 m/s</li>
+    <li data-letra="D">1,5 m/s</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>La imagen está siempre a la misma distancia detrás del espejo que la niña delante. Si ella se acerca 0,5 m cada segundo, la imagen también se acerca 0,5 m al espejo: la distancia entre ambas disminuye 1,0 m por segundo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>6.</strong> ¿Cuál de las siguientes es una característica de la imagen formada por un espejo plano?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Es real y se puede proyectar sobre una pantalla.</li>
+    <li data-letra="B">Es invertida de arriba abajo respecto del objeto.</li>
+    <li data-letra="C">Es más pequeña cuanto más lejos está el objeto.</li>
+    <li data-letra="D">Está tras el espejo, a igual distancia que el objeto.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>La imagen de un espejo plano es virtual, derecha, del mismo tamaño que el objeto y simétrica: está detrás del espejo a la misma distancia. Que se vea más pequeña de lejos es un efecto de la perspectiva, no del espejo.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>7.</strong> En una linterna, la ampolleta se ubica frente a un espejo cóncavo para que la luz salga en un haz de rayos paralelos. ¿Dónde está la ampolleta?</p>
+  <ol class="alternativas">
+    <li data-letra="A">En el foco del espejo.</li>
+    <li data-letra="B">En el centro de curvatura.</li>
+    <li data-letra="C">Entre el foco y el espejo.</li>
+    <li data-letra="D">Más allá del centro de curvatura.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>Un rayo que pasa por el foco se refleja paralelo al eje. Por eso, una fuente en el foco produce un haz paralelo. En el centro de curvatura la luz volvería sobre sí misma.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>8.</strong> Una persona acerca la cara a un espejo cóncavo, quedando entre el foco y el espejo. ¿Cómo es la imagen que ve?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Real, invertida y de mayor tamaño.</li>
+    <li data-letra="B">Real, invertida y de menor tamaño.</li>
+    <li data-letra="C">Virtual, derecha y de mayor tamaño.</li>
+    <li data-letra="D">Virtual, derecha y de menor tamaño.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Con el objeto entre F y el espejo, los rayos reflejados divergen y sus prolongaciones se cruzan detrás del espejo: la imagen es virtual, derecha y aumentada. Es el principio del espejo de maquillaje.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>9.</strong> ¿Por qué los espejos laterales de los autos son convexos?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque forman imágenes reales que el conductor ve con más nitidez.</li>
+    <li data-letra="B">Porque dan imágenes menores y abarcan un campo de visión más amplio.</li>
+    <li data-letra="C">Porque aumentan el tamaño de los vehículos que vienen detrás.</li>
+    <li data-letra="D">Porque concentran la luz de los focos en el ojo del conductor.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>El espejo convexo siempre da imágenes virtuales, derechas y menores, lo que permite ver una zona más amplia. Por eso los autos parecen más lejanos de lo que están.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>10.</strong> La luz viaja en el agua a unos 225 000 km/s y en el vacío a unos 300 000 km/s. ¿Cuál es aproximadamente el índice de refracción del agua?</p>
+  <ol class="alternativas">
+    <li data-letra="A">0,75</li>
+    <li data-letra="B">1,00</li>
+    <li data-letra="C">1,25</li>
+    <li data-letra="D">1,33</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>n = c / v = 300 000 / 225 000 ≈ 1,33. El valor 0,75 resulta de invertir el cociente; un índice menor que 1 significaría que la luz va más rápido que en el vacío, lo que no ocurre.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>11.</strong> Un rayo de luz pasa del aire al vidrio con un ángulo de incidencia de 40°. ¿Qué ocurre con el rayo?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Se acerca a la normal y su rapidez disminuye.</li>
+    <li data-letra="B">Se aleja de la normal y su rapidez disminuye.</li>
+    <li data-letra="C">Se acerca a la normal y su rapidez aumenta.</li>
+    <li data-letra="D">Sigue sin desviarse y su rapidez se mantiene.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>El vidrio tiene mayor índice que el aire: la luz se frena y el rayo se acerca a la normal. Solo seguiría sin desviarse si llegara perpendicular a la superficie.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>12.</strong> Al pasar del aire al agua, ¿qué magnitud de la luz se mantiene constante?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La rapidez de propagación.</li>
+    <li data-letra="B">La longitud de onda.</li>
+    <li data-letra="C">La frecuencia.</li>
+    <li data-letra="D">La dirección de propagación.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>La frecuencia la fija la fuente y no cambia al cambiar de medio; por eso la luz conserva su color. La rapidez y la longitud de onda disminuyen en la misma proporción, y la dirección cambia si la luz llega oblicua.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>13.</strong> Un niño mira el fondo de una piscina desde el borde y le parece que es menos profunda de lo que es. ¿Qué fenómeno lo explica?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La reflexión de la luz en la superficie del agua.</li>
+    <li data-letra="B">La refracción de la luz al pasar del agua al aire.</li>
+    <li data-letra="C">La dispersión de la luz en el agua de la piscina.</li>
+    <li data-letra="D">La absorción de la luz por el agua de la piscina.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>La luz que sale del fondo se aleja de la normal al pasar al aire. El ojo prolonga los rayos en línea recta y ubica el fondo más arriba de donde está. Es la profundidad aparente, un efecto de la refracción.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>14.</strong> ¿En cuál de las siguientes situaciones puede ocurrir reflexión total interna?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Luz que va del aire al agua con un ángulo de 60°.</li>
+    <li data-letra="B">Luz que va del aire al vidrio con un ángulo de 80°.</li>
+    <li data-letra="C">Luz que va del agua al aire con un ángulo de 20°.</li>
+    <li data-letra="D">Luz que va del vidrio al aire con un ángulo de 60°.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>Se necesitan dos condiciones: ir hacia un medio de menor índice y superar el ángulo límite. Del vidrio al aire el límite es de unos 42°, y 60° lo supera. Del agua al aire con 20° no supera el límite (≈ 49°), y del aire al agua o al vidrio nunca hay reflexión total.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>15.</strong> ¿Qué fenómeno permite que la luz viaje por una fibra óptica aunque la fibra esté curvada?</p>
+  <ol class="alternativas">
+    <li data-letra="A">La reflexión total interna en las paredes de la fibra.</li>
+    <li data-letra="B">La difracción de la luz en los bordes de la fibra.</li>
+    <li data-letra="C">La dispersión de la luz en sus distintos colores.</li>
+    <li data-letra="D">La absorción de la luz por el recubrimiento de la fibra.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>La luz incide sobre la pared de la fibra con un ángulo mayor que el límite y se refleja por completo, una y otra vez. Si el recubrimiento absorbiera la luz, la señal se perdería.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>16.</strong> Una lupa es una lente convergente. ¿Dónde debe ubicarse el objeto para verlo aumentado y derecho?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Más allá del doble de la distancia focal.</li>
+    <li data-letra="B">Exactamente en el foco de la lente.</li>
+    <li data-letra="C">Entre el foco y la lente.</li>
+    <li data-letra="D">Entre el foco y el doble de la distancia focal.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Con el objeto entre F y la lente, la imagen es virtual, derecha y mayor. Entre F y 2F la imagen es real, invertida y mayor (proyector); más allá de 2F, real, invertida y menor (cámara).</p></div>
+</div>
+
+<div class="pregunta" data-correcta="B">
+  <p class="enunciado"><strong>17.</strong> Una persona ve con nitidez de cerca, pero no de lejos, porque la imagen de los objetos lejanos se forma delante de la retina. ¿Qué defecto tiene y cómo se corrige?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Hipermetropía, con una lente convergente.</li>
+    <li data-letra="B">Miopía, con una lente divergente.</li>
+    <li data-letra="C">Miopía, con una lente convergente.</li>
+    <li data-letra="D">Hipermetropía, con una lente divergente.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: B</strong></p><p>Si la imagen se forma delante de la retina, el ojo converge demasiado: es miopía. Para corregirla hay que restar convergencia con una lente divergente (dioptrías negativas).</p></div>
+</div>
+
+<div class="pregunta" data-correcta="D">
+  <p class="enunciado"><strong>18.</strong> Un haz de luz blanca atraviesa un prisma de vidrio y sale separado en colores. ¿Por qué el violeta se desvía más que el rojo?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque el violeta tiene mayor longitud de onda que el rojo.</li>
+    <li data-letra="B">Porque el violeta viaja más rápido que el rojo dentro del vidrio.</li>
+    <li data-letra="C">Porque el prisma cambia la frecuencia de cada color de la luz.</li>
+    <li data-letra="D">Porque el índice del vidrio es mayor para el violeta.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: D</strong></p><p>El índice de refracción del vidrio depende de la longitud de onda: es mayor para el violeta. El violeta se frena más, se desvía más y así se separan los colores. El violeta tiene menor longitud de onda que el rojo, y la frecuencia no cambia al pasar al vidrio.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="A">
+  <p class="enunciado"><strong>19.</strong> Un tomate que se ve rojo con luz blanca se ilumina solo con luz azul en una sala oscura. ¿De qué color se verá?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Negro, porque absorbe la luz azul y no hay rojo que reflejar.</li>
+    <li data-letra="B">Rojo, porque el color es una propiedad fija del tomate.</li>
+    <li data-letra="C">Azul, porque el tomate refleja la luz que recibe.</li>
+    <li data-letra="D">Violeta, porque se mezclan la luz azul y el rojo del tomate.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: A</strong></p><p>El tomate refleja el rojo y absorbe los demás colores. Con luz azul no llega rojo que pueda reflejar, así que no devuelve luz al ojo y se ve negro. El color de un objeto depende de la luz que lo ilumina.</p></div>
+</div>
+
+<div class="pregunta" data-correcta="C">
+  <p class="enunciado"><strong>20.</strong> ¿Por qué los grandes telescopios ópticos modernos, como los del norte de Chile, son reflectores y no refractores?</p>
+  <ol class="alternativas">
+    <li data-letra="A">Porque los espejos aumentan la frecuencia de la luz que captan.</li>
+    <li data-letra="B">Porque los espejos forman imágenes virtuales más fáciles de ver.</li>
+    <li data-letra="C">Porque un espejo se sostiene por detrás y no separa colores.</li>
+    <li data-letra="D">Porque las lentes no pueden formar imágenes de objetos muy lejanos.</li>
+  </ol>
+  <div class="respuesta"><p><strong>Respuesta correcta: C</strong></p><p>Una lente de varios metros solo podría sostenerse por el borde y se deformaría con su peso; además separaría los colores por dispersión. Un espejo se apoya por detrás, se puede hacer por segmentos y refleja todos los colores igual.</p></div>
+</div>
+
+<h2 id="fuentes-del-capitulo">Fuentes del capítulo</h2>
+<p><em>Consultadas el 25 de septiembre de 2026. El texto es de redacción propia y los once diagramas son originales.</em></p>
+<p><strong>Documentos oficiales</strong></p>
+<ul>
+<li>DEMRE (2026). <em>Temario Regular – Pruebas Electivas – Ciencias. Admisión 2027</em>, pág. 9 (área temática Ondas). Este capítulo cubre absorción, reflexión y refracción de la luz; su propagación rectilínea; formación de colores y dispersión; espejos y lentes con formación de imágenes; y dispositivos ópticos (prismáticos, telescopios reflector y refractor, radiotelescopios, fibra óptica y láser). <a href="https://demre.cl/publicaciones/2027/2027-26-03-19-temario-paes-regular-ciencias">demre.cl</a></li>
+<li>Ministerio de Educación de Chile, Currículum Nacional. <em>Ciencias Naturales 1.º medio, eje Física, Unidad 2: Luz y óptica geométrica</em>, y objetivo de aprendizaje CN1M OA 11 (fenómenos luminosos con los modelos corpuscular y ondulatorio, formación de imágenes con espejos y lentes, formación de colores y aplicaciones tecnológicas). <a href="https://www.curriculumnacional.cl/portal/Ejes/Fisica/Luz-y-optica-geometrica/80709:CN1M-OA-11">curriculumnacional.cl</a></li>
+</ul>
+<p><strong>Textos de física de libre acceso</strong></p>
+<ul>
+<li>OpenStax (2022). <em>College Physics 2e</em>, capítulo 25 «Geometric Optics» (25.1 a 25.7: rayos, reflexión, refracción, reflexión total interna, dispersión, lentes y espejos) y capítulo 26 (26.1 «Physics of the Eye», 26.2 «Vision Correction», 26.5 «Telescopes»). Licencia CC BY 4.0. Tabla de índices de refracción. <a href="https://openstax.org/books/college-physics-2e/pages/25-introduction-to-geometric-optics">openstax.org</a></li>
+<li>OpenStax. <em>University Physics, volume 3</em>, sección 1.4 «Total Internal Reflection»: ángulos límite del agua (48,6°) y del diamante (24,4°). <a href="https://openstax.org/books/university-physics-volume-3/pages/1-4-total-internal-reflection">openstax.org</a></li>
+<li>Khan Academy en español. <em>Óptica geométrica: reflexión y refracción</em>. <a href="https://es.khanacademy.org/science/physics/geometric-optics">es.khanacademy.org</a></li>
+</ul>
+<p><strong>Datos de observatorios y tecnología</strong></p>
+<ul>
+<li>ESO. <em>Very Large Telescope</em> (Cerro Paranal, cuatro espejos de 8,2 m) y <em>Extremely Large Telescope</em> (Cerro Armazones, espejo de 39 m con 798 segmentos). <a href="https://www.eso.org/public/teles-instr/paranal-observatory/vlt/">eso.org</a></li>
+<li>ESO Chile. <em>ALMA</em>: 66 antenas en el llano de Chajnantor, a 5 000 m de altura. <a href="https://www.eso.org/public/chile/teles-instr/alma/">eso.org</a></li>
+<li>Observatorio Vera C. Rubin y Observatorio Gemini (Cerro Pachón). <a href="https://rubinobservatory.org/">rubinobservatory.org</a></li>
+<li>Yerkes Observatory: el mayor telescopio refractor, de 40 pulgadas (1,02 m), inaugurado en 1897. <a href="https://yerkesobservatory.org/">yerkesobservatory.org</a></li>
+<li>Subsecretaría de Telecomunicaciones (Subtel). <em>Proyecto Fibra Óptica Austral</em>. <a href="https://foa.subtel.gob.cl/proyecto-fibra-optica-austral/">subtel.gob.cl</a></li>
+<li>Encyclopaedia Britannica. <em>Laser</em>: significado de la sigla y propiedades de la luz láser. <a href="https://www.britannica.com/technology/laser">britannica.com</a></li>
+<li>NASA Space Place. <em>Why Is the Sky Blue?</em> <a href="https://spaceplace.nasa.gov/blue-sky/en/">spaceplace.nasa.gov</a></li>
+</ul>
+<p><strong>Libros de consulta</strong></p>
+<ul>
+<li>Giancoli, D. <em>Physics: Principles with Applications</em>, 7.ª edición, capítulo 23 («Light: Geometric Optics», secciones 23-1 a 23-8) y capítulo 24 (secciones 24-4, «The Visible Spectrum and Dispersion», y 24-12, «Scattering of Light by the Atmosphere»).</li>
+<li>Johnson, K., Hewett, S. y otros. <em>Advanced Physics for You</em>, 2.ª edición, capítulo 11 («Reflection and Refraction»: leyes, ángulo límite, fibra óptica, lentes, telescopios y el ojo).</li>
+<li>Shipman, J. y otros. <em>An Introduction to Physical Science</em>, capítulo 7 («Optics and Wave Effects», secciones 7.1 a 7.4).</li>
+<li>Etkina, E., Gentile, M. y Van Heuvelen, A. <em>College Physics</em>, capítulo 22 («Mirrors and Lenses»), resumen.</li>
+</ul>
+<p>Consulta de referencia; el texto de este capítulo es de redacción propia.</p>
+</article>
+<nav class="navsec"><a href="01-capitulo-1-ondas-caracteristicas-y-clasificacion.html"><small>← Anterior</small>Capítulo 1: Ondas: características y clasificación</a><span></span></nav>
+</main>
+</div>
+<div id="lightbox"><img alt=""></div>
+<script>
+(function(){
+  var clave='conv-progreso:'+location.pathname.split('/').pop();
+  var datos={};try{datos=JSON.parse(localStorage.getItem(clave)||'{}')}catch(e){}
+  function guardar(){try{localStorage.setItem(clave,JSON.stringify(datos))}catch(e){}}
+  var preguntas=[].slice.call(document.querySelectorAll('.pregunta'));
+  var total=preguntas.length;
+  function actualizar(){
+    var r=0,c=0;for(var k in datos){r++;if(datos[k].ok)c++}
+    var t=document.getElementById('txt-preg');
+    if(t)t.textContent=total?(r+' de '+total+' respondidas · '+c+' correctas'):'Sin preguntas';
+    var b=document.getElementById('barra-preg');if(b)b.style.width=total?(100*r/total)+'%':'0';
+    try{localStorage.setItem(clave+':resumen',JSON.stringify({r:r,c:c,t:total}))}catch(e){}
+  }
+  preguntas.forEach(function(q,i){
+    var id=q.id||('p'+(i+1));q.id=id;
+    var lis=[].slice.call(q.querySelectorAll('.alternativas>li'));
+    var correcta=(q.getAttribute('data-correcta')||'').trim().toUpperCase();
+    var acc=document.createElement('div');acc.className='acciones';
+    var btn=document.createElement('button');btn.className='btn';btn.type='button';btn.textContent='Ver respuesta';
+    var est=document.createElement('span');est.className='estado';
+    acc.appendChild(btn);acc.appendChild(est);
+    var resp=q.querySelector('.respuesta');
+    if(resp)q.insertBefore(acc,resp);else q.appendChild(acc);
+    var marcada=null;
+    lis.forEach(function(li){li.addEventListener('click',function(){
+      if(q.classList.contains('respondida'))return;
+      lis.forEach(function(x){x.classList.remove('marcada')});li.classList.add('marcada');marcada=li.getAttribute('data-letra');
+    })});
+    function mostrar(letra){
+      q.classList.add('respondida','visible');btn.disabled=true;
+      lis.forEach(function(li){var L=li.getAttribute('data-letra');
+        if(correcta&&L===correcta)li.classList.add('correcta');
+        else if(L===letra)li.classList.add('incorrecta');
+        if(L===letra)li.classList.add('marcada');});
+      if(!correcta){est.textContent='Clave no disponible';est.className='estado'}
+      else if(!letra){est.textContent='Sin marcar · correcta: '+correcta;est.className='estado'}
+      else if(letra===correcta){est.textContent='¡Correcta!';est.className='estado ok'}
+      else{est.textContent='Incorrecta · correcta: '+correcta;est.className='estado mal'}
+    }
+    btn.addEventListener('click',function(){
+      datos[id]={l:marcada||'',ok:!!(marcada&&correcta&&marcada===correcta)};guardar();mostrar(marcada);actualizar();
+    });
+    if(datos[id])mostrar(datos[id].l);
+  });
+  document.querySelectorAll('.ejercicio').forEach(function(e){
+    var resp=e.querySelector('.respuesta');if(!resp)return;
+    var b=document.createElement('button');b.className='btn sec';b.type='button';b.textContent='Ver solución';
+    var acc=document.createElement('div');acc.className='acciones';acc.appendChild(b);e.insertBefore(acc,resp);
+    b.addEventListener('click',function(){var v=e.classList.toggle('visible');b.textContent=v?'Ocultar solución':'Ver solución'});
+  });
+  var rst=document.getElementById('reiniciar');
+  if(rst)rst.addEventListener('click',function(){if(!confirm('¿Reiniciar las respuestas de esta sección?'))return;datos={};guardar();location.reload()});
+  actualizar();
+  // Progreso de lectura
+  var bl=document.getElementById('barra-lect'),tl=document.getElementById('txt-lect');
+  function lectura(){var h=document.documentElement;var p=Math.min(100,Math.round(100*h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight)));
+    if(bl)bl.style.width=p+'%';if(tl)tl.textContent=p+'% leído'}
+  addEventListener('scroll',lectura,{passive:true});lectura();
+  // Índice lateral: resaltar la sección visible
+  var enlaces=[].slice.call(document.querySelectorAll('nav.sidebar a'));
+  if('IntersectionObserver' in window&&enlaces.length){
+    var io=new IntersectionObserver(function(ents){ents.forEach(function(en){if(en.isIntersecting){
+      enlaces.forEach(function(a){a.classList.toggle('activo',a.getAttribute('href')==='#'+en.target.id)})}})},{rootMargin:'-100px 0px -70% 0px'});
+    document.querySelectorAll('.paper h2[id],.paper h3[id]').forEach(function(h){io.observe(h)});
+  }
+  var nav=document.querySelector('nav.sidebar'),tb=document.getElementById('toc-btn');
+  if(tb&&nav)tb.addEventListener('click',function(){nav.classList.toggle('abierta')});
+  var lento=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function ir(a,e){
+    var id=decodeURIComponent((a.getAttribute('href')||'').slice(1)),t=document.getElementById(id);
+    if(!t)return;e.preventDefault();
+    if(a.classList.contains('cargando'))return;
+    document.querySelectorAll('.cargando').forEach(function(x){x.classList.remove('cargando')});
+    void a.offsetWidth;a.classList.add('cargando');
+    setTimeout(function(){
+      t.scrollIntoView({behavior:lento?'auto':'smooth',block:'start'});
+      setTimeout(function(){if(Math.abs(t.getBoundingClientRect().top)>window.innerHeight)t.scrollIntoView({block:'start'})},900);
+      try{history.replaceState(null,'','#'+id)}catch(err){}
+      t.classList.remove('destino');void t.offsetWidth;t.classList.add('destino');
+      if(a.closest('nav.sidebar'))enlaces.forEach(function(x){x.classList.toggle('activo',x===a)});
+      a.classList.remove('cargando');
+      if(nav)nav.classList.remove('abierta');
+    },lento?150:620);
+  }
+  enlaces.forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Insignias de preguntas en los títulos y botones «Ver tema» de las preguntas
+  document.querySelectorAll('.paper a.ref-badge, .paper a.volver-tema').forEach(function(a){a.addEventListener('click',function(e){ir(a,e)})});
+  // Recordar la última sección abierta (para «Continuar» en el índice)
+  try{localStorage.setItem('conv-ultimo',JSON.stringify({archivo:location.pathname.split('/').pop(),titulo:document.title.split(' — ')[0]}))}catch(e){}
+  // Zoom de imágenes
+  var lb=document.getElementById('lightbox');
+  document.querySelectorAll('.paper img').forEach(function(img){img.addEventListener('click',function(){
+    lb.querySelector('img').src=img.src;lb.style.display='flex'})});
+  lb.addEventListener('click',function(){lb.style.display='none'});
+  // Tema claro/oscuro
+  var tema=document.getElementById('tema');
+  try{var t=localStorage.getItem('conv-tema');if(t)document.documentElement.setAttribute('data-theme',t)}catch(e){}
+  tema.addEventListener('click',function(){
+    var oscuro=document.documentElement.getAttribute('data-theme')==='dark'||(!document.documentElement.getAttribute('data-theme')&&matchMedia('(prefers-color-scheme: dark)').matches);
+    var n=oscuro?'light':'dark';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('conv-tema',n)}catch(e){}
+  });
+})();
+</script>
+</body>
+</html>

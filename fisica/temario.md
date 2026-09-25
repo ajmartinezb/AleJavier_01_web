@@ -22,13 +22,13 @@ El DEMRE declara que evalúa la capacidad de analizar informaciones, investigaci
 | Código | Conocimiento | Capítulo del libro | Estado |
 |---|---|---|---|
 | 1.1 | Elementos de las ondas electromagnéticas (longitud de onda, frecuencia, período, amplitud) en fenómenos ondulatorios | **1** (secciones 2–4) | Completo |
-| 1.2 | Absorción, reflexión y refracción de ondas electromagnéticas. Propagación rectilínea de la luz | 1 (sección 7, cualitativo) · se profundiza en 3 | Parcial (base en cap. 1) |
+| 1.2 | Absorción, reflexión y refracción de ondas electromagnéticas. Propagación rectilínea de la luz | 1 (sección 7) · **3** (secciones 2, 3 y 5) | Completo |
 | 1.3 | Efecto Doppler, interferencia y difracción en ondas electromagnéticas, en términos cualitativos | **1** (sección 7) | Completo |
 | 1.4 | Espectro electromagnético: orden según longitud de onda y frecuencia; usos tecnológicos de cada rango | **1** (sección 6) | Completo |
-| 1.5 | Formación de colores y dispersión | 3 | Pendiente |
+| 1.5 | Formación de colores y dispersión | **3** (sección 7) | Completo |
 | 1.6 | Relación entre longitud de onda, frecuencia y rapidez de propagación en una onda electromagnética | **1** (sección 5) | Completo |
-| 1.7 | Espejos (planos, cóncavos y convexos) y lentes (convergentes y divergentes); formación de imágenes | 3 | Pendiente |
-| 1.8 | Dispositivos: radar, prismáticos, comunicación inalámbrica, teléfono móvil, televisor, radio, láser, telescopios reflector y refractor, radiotelescopios, fibra óptica | 1 (sección 6: los que usan el espectro) · 3 (los ópticos) | Parcial |
+| 1.7 | Espejos (planos, cóncavos y convexos) y lentes (convergentes y divergentes); formación de imágenes | **3** (secciones 3, 4 y 6) | Completo |
+| 1.8 | Dispositivos: radar, prismáticos, comunicación inalámbrica, teléfono móvil, televisor, radio, láser, telescopios reflector y refractor, radiotelescopios, fibra óptica | 1 (sección 6) · **3** (sección 8) | Completo |
 
 ### Área 2. Mecánica
 

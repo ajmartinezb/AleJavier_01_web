@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480" role="img" aria-label="Espejo cóncavo con objeto más allá de C: dos rayos notables se cruzan entre F y C formando una imagen real, invertida y menor" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>Espejo cóncavo con objeto más allá de C: dos rayos notables se cruzan entre F y C formando una imagen real, invertida y menor</title>
+<rect width="900" height="480" fill="#ffffff"/>
+<defs><marker id="mg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#4a5568"/></marker><marker id="mr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c92a2a"/></marker><marker id="ma" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/></marker><marker id="mn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e67700"/></marker><marker id="mv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f9e44"/></marker></defs>
+<text x="450.0" y="28.0" font-size="18" text-anchor="middle" fill="#1a202c" font-weight="700">Espejo cóncavo: objeto más allá de C</text>
+<path d="M702,80 Q742,250 702,420" fill="none" stroke="#1c7ed6" stroke-width="5"/>
+<line x1="80.0" y1="250.0" x2="730.0" y2="250.0" stroke="#4a5568" stroke-width="1.2" />
+<circle cx="520" cy="250" r="4" fill="#1a202c"/>
+<text x="520.0" y="270.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">C</text>
+<circle cx="620" cy="250" r="4" fill="#1a202c"/>
+<text x="620.0" y="270.0" font-size="13" text-anchor="middle" fill="#1a202c" font-weight="700">F</text>
+<text x="734.0" y="270.0" font-size="13" text-anchor="start" fill="#1a202c" font-weight="700">V</text>
+<line x1="350.0" y1="250.0" x2="350.0" y2="170.0" stroke="#2f9e44" stroke-width="4" marker-end="url(#mv)" opacity="1.0" />
+<line x1="583.0" y1="250.0" x2="583.0" y2="279.6" stroke="#e67700" stroke-width="4" marker-end="url(#mn)"/>
+<line x1="350.0" y1="170.0" x2="720.0" y2="170.0" stroke="#c92a2a" stroke-width="2.2" /><line x1="350.0" y1="170.0" x2="535.0" y2="170.0" stroke="#c92a2a" stroke-width="2.2" marker-end="url(#mr)" />
+<line x1="720.0" y1="170.0" x2="543.0" y2="311.6" stroke="#c92a2a" stroke-width="2.2" /><line x1="720.0" y1="170.0" x2="631.5" y2="240.8" stroke="#c92a2a" stroke-width="2.2" marker-end="url(#mr)" />
+<line x1="350.0" y1="170.0" x2="720.0" y2="279.6" stroke="#1c7ed6" stroke-width="2.2" /><line x1="350.0" y1="170.0" x2="535.0" y2="224.8" stroke="#1c7ed6" stroke-width="2.2" marker-end="url(#ma)" />
+<line x1="720.0" y1="279.6" x2="543.0" y2="279.6" stroke="#1c7ed6" stroke-width="2.2" /><line x1="720.0" y1="279.6" x2="631.5" y2="279.6" stroke="#1c7ed6" stroke-width="2.2" marker-end="url(#ma)" />
+<text x="350.0" y="292.0" font-size="12" text-anchor="middle" fill="#2f9e44" font-weight="700">objeto</text>
+<text x="523.0" y="350.0" font-size="12" text-anchor="middle" fill="#e67700" font-weight="700">imagen: real, invertida, menor</text>
+<text x="450.0" y="460.0" font-size="12" text-anchor="middle" fill="#4a5568" font-weight="normal">Rojo: llega paralelo y se refleja por F. Azul: pasa por F y se refleja paralelo.</text>
+</svg>
