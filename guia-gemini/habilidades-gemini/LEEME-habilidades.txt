@@ -1,0 +1,20 @@
+CÓMO CREAR LAS HABILIDADES EN GEMINI
+
+Hay 3 habilidades, una por archivo. En Gemini: Habilidades → Crear. Luego, para cada archivo:
+
+1. Copia el texto bajo «=== NOMBRE ===» en el primer campo («Ponle un nombre a tu habilidad»).
+2. Copia el texto bajo «=== DESCRIPCIÓN ===» en «Descripción».
+3. Copia TODO el texto bajo «=== INSTRUCCIONES ===», hasta el final del archivo, en «Instrucciones».
+4. Presiona «Crear».
+
+No copies las líneas que empiezan con «===»: son solo separadores.
+
+  1-libro-paes-ciencias-capitulo.txt   → para escribir capítulos (teoría, figuras, ejemplos, evaluación, fuentes)
+  2-preguntas-paes-demre.txt           → para las preguntas IA tipo PAES (JSON del proyecto)
+  3-libreto-video-notebooklm.txt       → para los libretos de los videos de NotebookLM
+
+Si Gemini dice que las instrucciones son demasiado largas, avísale a Claude para preparar una versión más corta.
+
+Las habilidades traen las reglas escritas dentro, pero no ven los archivos del proyecto. Por eso, al
+empezar una conversación, adjunta lo que Gemini necesite ver: el temario del libro (documento 06) y,
+si vas a hacer preguntas, los archivos .md del capítulo o el libro completo en TXT.
