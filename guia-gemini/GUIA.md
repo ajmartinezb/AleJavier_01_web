@@ -17,7 +17,7 @@ libros PAES de Biología y Física con Gemini, con el mismo método y la misma c
 | `libretos/`, `prompts-video/`, `videos-gemini/` | Libretos y prompts para los videos resumen de Gemini Notebook (NotebookLM) de Biología |
 | `GEMINI.md` | Las instrucciones del proyecto para Gemini (es el `CLAUDE.md` adaptado) |
 | `CLAUDE.md` | Las mismas instrucciones, en la versión que usaba Claude. Se deja por si vuelves a usarlo |
-| `guia-gemini/` | Esta guía, la metodología DEMRE, plantillas de prompts y dos scripts de apoyo |
+| `guia-gemini/` | Esta guía, las **skills** del proyecto (`skills/`, ver su README), plantillas de prompts y dos scripts de apoyo |
 | `requirements.txt` | Las librerías de Python que necesita el generador |
 
 El historial de Git **no** viene en el zip, para que la carpeta sea más simple. El historial sigue guardado en GitHub.

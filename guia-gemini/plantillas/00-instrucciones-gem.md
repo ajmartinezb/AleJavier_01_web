@@ -3,7 +3,7 @@
 Si trabajas en gemini.google.com, crea un **Gem** (Gems → Nuevo Gem), ponle un nombre como
 «Libros PAES Ciencias» y pega en **Instrucciones** el texto de abajo. En **Conocimiento** sube:
 `GEMINI.md`, `biologia/pauta.md`, `fisica/pauta.md`, `herramientas/references/preguntas-paes.md`,
-`herramientas/references/reglas-html.md`, `guia-gemini/metodologia/paes-estudio-demre.md` y el
+`herramientas/references/reglas-html.md`, `guia-gemini/skills/paes-estudio-demre/SKILL.md`, `guia-gemini/skills/libros-paes-ciencias/SKILL.md` y el
 `temario.md` del libro en que estés trabajando. Si el Gem te pide menos archivos, prioriza los
 cuatro primeros.
 

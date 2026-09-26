@@ -1,0 +1,101 @@
+---
+name: "libreto-video-notebooklm"
+description: "Arma el libreto (configuración + instrucciones + estilo visual según el tema) para que NotebookLM / Gemini Notebook genere resúmenes en video en español latinoamericano. Úsala cuando pidan un libreto, guion o prompt para un video resumen de NotebookLM."
+---
+
+# Libreto para Resumen en video de NotebookLM (Gemini Notebook)
+
+Objetivo: entregar al usuario un libreto listo para copiar y pegar, más la configuración exacta que debe marcar, para que el video salga en español latinoamericano, con la forma que él quiere y con un estilo visual elegido según el tema que se explica.
+
+## Cómo funciona NotebookLM (datos verificados, sept. 2026)
+
+- En el panel **Studio**, NO hacer clic directo en la tarjeta "Resumen en video" (genera con valores por defecto). Usar el **ícono de lápiz (Personalizar)**.
+- Opciones del panel de personalización:
+  - **Formato**: Explicativo (completo), Breve (~60 s), Cinematográfico (solo narra en inglés y requiere cuenta 18+). Para español: Explicativo o Breve.
+  - **Idioma**: menú desplegable con 80+ idiomas; elegir **Español (Latinoamérica)** (también existen España y México). El idioma SE FIJA EN EL MENÚ; escribir "en español" en las instrucciones no basta.
+  - **Estilo visual**: Automático, Clásico, Pizarra, Acuarela, Retro, Tradicional, Arte en papel, Kawaii, Anime o **Personalizado** (descripción propia). No disponible en Cinematográfico ni Breve. Requiere cuenta 18+.
+  - **Instrucciones / enfoque**: tema sugerido o texto propio. Aquí va el libreto.
+- Generación en segundo plano, puede tardar 30+ min. Hay límite diario de videos. Usar la versión web (la app móvil tiene menos opciones).
+- Si estos datos pueden haber cambiado, verificar en https://support.google.com/notebooklm/answer/16454555?hl=es-419 antes de entregar.
+
+## Datos a reunir del usuario
+
+Si no los dio, usar estos valores por defecto y decirlo en una línea (no bloquear con preguntas):
+
+- Ramo / libro y capítulo o tema a cubrir.
+- Público (por defecto: estudiantes chilenos que preparan la PAES).
+- Formato (por defecto: Explicativo, porque es el que permite estilo visual).
+- Estructura deseada (por defecto: gancho → conceptos clave con ejemplo → errores frecuentes PAES → resumen en 3 puntos).
+- Tono (por defecto: profesor cercano, claro, ritmo pausado).
+- Estilo visual: NO usar uno fijo; se decide según el tema (ver sección siguiente), salvo que el usuario pida uno concreto.
+
+## Estilo visual según el tema (obligatorio)
+
+El estilo visual se decide a partir del CONTENIDO específico que explica el video, no del ramo en general. Procedimiento:
+
+1. Identificar el tema concreto (ej. "enlace covalente", "mitosis", "Guerra del Pacífico", "funciones cuadráticas").
+2. Preguntarse: ¿qué imágenes ayudan a entender ESTE tema? (procesos → animación paso a paso; estructuras → diagramas rotulados; historia → mapas, líneas de tiempo y documentos de época; cálculo → gráficos y desarrollos en pizarra; conceptos abstractos → metáforas visuales).
+3. Elegir un estilo preestablecido como base y escribir SIEMPRE una descripción **Personalizada** adaptada al tema, con: fondo, paleta de colores, tipo de trazo/textura, elementos visuales propios del tema y cómo se destacan los conceptos clave.
+4. Justificar la elección en una línea ("Elegí X porque el tema es un proceso por etapas…").
+5. Si el formato elegido es Breve o Cinematográfico (sin estilo visual), avisarlo y sugerir Explicativo si el tema se beneficia mucho de lo visual.
+6. En una serie de videos, mantener una base visual común (paleta y tipografía) por ramo, pero adaptar los elementos al tema de cada video.
+
+Guía orientativa (punto de partida, siempre adaptar al tema puntual):
+
+| Tipo de tema | Base sugerida | Elementos a pedir |
+|---|---|---|
+| Química: átomos, enlaces, moléculas | Clásico / Personalizado | Modelos 3D de esferas y barras, nubes electrónicas, colores por elemento (CPK), fondo oscuro limpio |
+| Química: reacciones, estequiometría | Pizarra | Ecuaciones balanceadas paso a paso, flechas, recuadros para coeficientes, matraces simples |
+| Biología: células, procesos (mitosis, fotosíntesis) | Acuarela / Personalizado | Esquemas rotulados tipo libro de texto, etapas numeradas, colores suaves por organelo |
+| Biología: ecología, evolución | Acuarela | Paisajes, cadenas tróficas, árboles filogenéticos ilustrados |
+| Física: movimiento, fuerzas, ondas | Pizarra / Clásico | Vectores de colores, gráficos posición-tiempo, diagramas de cuerpo libre |
+| Matemática: álgebra, funciones, geometría | Pizarra | Desarrollo paso a paso, gráficos en plano cartesiano, figuras con medidas marcadas |
+| Historia de Chile y el mundo | Tradicional / Retro | Mapas de época, líneas de tiempo, texturas de papel antiguo, retratos ilustrados |
+| Formación ciudadana, economía | Clásico / Arte en papel | Infografías, íconos, organigramas del Estado, gráficos simples |
+| Lenguaje: comprensión lectora, tipos de texto | Arte en papel | Fragmentos de texto destacados con resaltador, esquemas de estructura textual |
+| Inglés / temas lúdicos para público joven | Kawaii / Arte en papel | Personajes simples, íconos, colores vivos |
+
+## Reglas para escribir las instrucciones
+
+1. Primera línea siempre: "Narración en español latinoamericano neutro, con tuteo; sin voseo ni modismos de España."
+2. Delimitar el contenido: "Enfócate solo en [tema/capítulo] de las fuentes; ignora el resto."
+3. Estructura numerada con tiempos aproximados.
+4. Tono y público explícitos.
+5. Fidelidad: "Usa la terminología exacta de las fuentes. No inventes datos, fechas ni fórmulas."
+6. Pantalla: "Títulos cortos, palabras clave, esquemas y diagramas; sin párrafos largos." Añadir qué visual concreto acompaña cada parte cuando el tema lo pida (ej. "muestra la línea de tiempo al explicar las causas").
+7. Ser concreto: evitar instrucciones vagas ("hazlo bonito"); el modelo converge mejor con detalles.
+8. Si el tema tiene términos en inglés o siglas, indicar cómo pronunciarlos o que se digan en español.
+
+## Formato de entrega
+
+Responder en español, con tres bloques:
+
+**1. Configuración a marcar** (lista corta)
+- Formato: …
+- Idioma: Español (Latinoamérica)
+- Estilo visual: Personalizado (base: X) — una línea de por qué encaja con el tema
+
+**2. Instrucciones (pegar en el campo de enfoque)** — en bloque de código:
+```
+Narración en español latinoamericano neutro, con tuteo; sin voseo ni modismos de España.
+Público: [público].
+Enfócate solo en: [tema] de las fuentes.
+Estructura:
+1. Pregunta gancho (10 s).
+2. Conceptos clave, uno a la vez, con definición simple y un ejemplo.
+3. Errores frecuentes en la PAES.
+4. Resumen final en 3 puntos.
+Tono: [tono], ritmo pausado.
+Usa la terminología exacta de las fuentes. No inventes datos.
+En pantalla: títulos cortos, palabras clave y esquemas; nada de párrafos largos.
+```
+
+**3. Estilo visual personalizado (pegar en "Personalizado")** — en bloque de código, escrito para el tema concreto. Ejemplo para "enlace covalente":
+```
+Fondo azul oscuro limpio, moléculas en modelo de esferas y barras con colores CPK
+(hidrógeno blanco, oxígeno rojo, carbono gris), pares de electrones compartidos
+como puntos brillantes entre átomos, rótulos en blanco, conceptos clave en recuadros
+amarillos, estética de laboratorio moderna y didáctica.
+```
+
+Si el usuario pide varios videos (p. ej. un capítulo por video), entregar bloques 2 y 3 por video: configuración común, estilo adaptado a cada tema dentro de una misma paleta base.

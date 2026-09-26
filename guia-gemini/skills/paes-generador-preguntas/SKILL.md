@@ -1,5 +1,3 @@
-<!-- Copia de la skill «paes-generador-preguntas» que usaba Claude. Se deja como referencia de metodología: algunas rutas y nombres de archivo que menciona son de otro proyecto (sitios Moraleja / paes-2027) y no existen en este repositorio. En este repo mandan GEMINI.md, las pautas de cada libro y herramientas/references/preguntas-paes.md. -->
-
 ---
 name: "paes-generador-preguntas"
 description: "Genera preguntas tipo PAES (con su respuesta comentada) para el proyecto \"Pregunta comentada PAES, búsqueda en la web\", cuando el usuario indica un ramo (asignatura) y uno o varios capítulos y pide crear, generar, completar o rellenar preguntas/ítems. Ejemplos de disparo: \"hazme preguntas de Matemática M1 capítulo 7\", \"completa el capítulo 3 de Biología\", \"genera el capítulo 5 de Historia\", \"rellena Lenguaje - Localizar información\". Requiere/complementa el skill paes-estudio-demre (metodología DEMRE); si no está disponible, aplica igual las reglas descritas aquí."

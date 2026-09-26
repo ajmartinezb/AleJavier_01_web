@@ -11,7 +11,7 @@
    el temario (`<libro>/temario.md`) y el progreso (`<libro>/progreso.md`).
 2. Se trabaja **un capítulo, o parte de uno, por sesión**, sumando archivos de sección. Nunca se reescribe un capítulo completo.
 3. **Metodología de preguntas**: `herramientas/references/preguntas-paes.md` (manda) y, como apoyo,
-   `guia-gemini/metodologia/paes-estudio-demre.md` y `guia-gemini/metodologia/paes-generador-preguntas.md`.
+   `guia-gemini/skills/paes-estudio-demre/SKILL.md` y `guia-gemini/skills/paes-generador-preguntas/SKILL.md`; el flujo completo de un capítulo está en `guia-gemini/skills/libros-paes-ciencias/SKILL.md`.
    Plantillas de encargo listas en `guia-gemini/plantillas/`.
 4. Después de escribir, genera y revisa:
    ```

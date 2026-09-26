@@ -1,5 +1,3 @@
-<!-- Copia de la skill «paes-estudio-demre» que usaba Claude. Se deja como referencia de metodología: algunas rutas y nombres de archivo que menciona son de otro proyecto (sitios Moraleja / paes-2027) y no existen en este repositorio. En este repo mandan GEMINI.md, las pautas de cada libro y herramientas/references/preguntas-paes.md. -->
-
 ---
 name: "paes-estudio-demre"
 description: "Metodología oficial DEMRE (derivada de la serie de videos \"Pregunta comentada PAES\") para crear preguntas tipo PAES y redactar sus respuestas explicadas en los sitios web de estudio (Matemáticas M1, Tomo 1, Tomo 2, Biología, Física, Química, Historia, Lenguaje). Úsala siempre que se cree o edite un capítulo/libro de estos sitios, se agreguen preguntas, se mejore el botón \"Ver respuesta\", o se desarrollen las subunidades (\"Sub\") de una unidad."
